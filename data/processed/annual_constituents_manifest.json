@@ -1,0 +1,201 @@
+{
+  "generated_on": "2026-07-24",
+  "source_retrieved_on": "2026-07-24",
+  "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&printable=yes",
+  "source_sha256": "45956b80c8b471760e92d44ac4c428ea87b5dcf481333917d0ffe2e66aa0de24",
+  "sec_tickers_url": "https://www.sec.gov/files/company_tickers.json",
+  "sec_tickers_sha256": "133a1b0210ca0359abb608698b160a693b95212d53d26b1b9292812d28463a9c",
+  "historical_components_url": "https://raw.githubusercontent.com/fja05680/sp500/master/S%26P%20500%20Historical%20Components%20%26%20Changes%20(Updated).csv",
+  "historical_components_sha256": "39a9202c9ef69a74c0ff07e2113ad41fb6da7c8c5b6cd9541f0185fb4391e717",
+  "method": "reverse changes with effective_date later than each snapshot_date",
+  "snapshots": [
+    {
+      "sample_year": 2020,
+      "snapshot_date": "2021-01-01",
+      "security_rows": 505,
+      "company_rows": 500,
+      "rows_with_cik": 463,
+      "unique_known_ciks": 459,
+      "rows_missing_cik": 42,
+      "duplicate_known_cik_rows": 4,
+      "reverse_only_tickers_removed": [
+        "BALL",
+        "BBWI",
+        "BNY",
+        "COR",
+        "CTRA",
+        "DOC",
+        "ECHO",
+        "ELV",
+        "GEN",
+        "META",
+        "MRSH",
+        "PSKY",
+        "RVTY",
+        "SW"
+      ],
+      "validation_only_tickers_added": [
+        "ABC",
+        "ANTM",
+        "BK",
+        "BLL",
+        "COG",
+        "FB",
+        "LB",
+        "MMC",
+        "NLOK",
+        "PEAK",
+        "PKI",
+        "VIAC",
+        "WRK"
+      ],
+      "company_output": "2020/sp500_companies.csv",
+      "security_audit_output": "2020/sp500_securities.csv"
+    },
+    {
+      "sample_year": 2021,
+      "snapshot_date": "2022-01-01",
+      "security_rows": 505,
+      "company_rows": 500,
+      "rows_with_cik": 469,
+      "unique_known_ciks": 465,
+      "rows_missing_cik": 36,
+      "duplicate_known_cik_rows": 4,
+      "reverse_only_tickers_removed": [
+        "BALL",
+        "BNY",
+        "COR",
+        "DOC",
+        "ECHO",
+        "ELV",
+        "GEN",
+        "META",
+        "MRSH",
+        "PSKY",
+        "RVTY",
+        "SW"
+      ],
+      "validation_only_tickers_added": [
+        "ABC",
+        "ANTM",
+        "BK",
+        "BLL",
+        "FB",
+        "MMC",
+        "NLOK",
+        "PEAK",
+        "PKI",
+        "VIAC",
+        "WRK"
+      ],
+      "company_output": "2021/sp500_companies.csv",
+      "security_audit_output": "2021/sp500_securities.csv"
+    },
+    {
+      "sample_year": 2022,
+      "snapshot_date": "2023-01-01",
+      "security_rows": 503,
+      "company_rows": 500,
+      "rows_with_cik": 481,
+      "unique_known_ciks": 478,
+      "rows_missing_cik": 22,
+      "duplicate_known_cik_rows": 3,
+      "reverse_only_tickers_removed": [
+        "BNY",
+        "COR",
+        "DOC",
+        "ECHO",
+        "MRSH",
+        "PSKY",
+        "RVTY",
+        "SW"
+      ],
+      "validation_only_tickers_added": [
+        "ABC",
+        "BK",
+        "MMC",
+        "PARA",
+        "PEAK",
+        "PKI",
+        "WRK"
+      ],
+      "company_output": "2022/sp500_companies.csv",
+      "security_audit_output": "2022/sp500_securities.csv"
+    },
+    {
+      "sample_year": 2023,
+      "snapshot_date": "2024-01-01",
+      "security_rows": 503,
+      "company_rows": 500,
+      "rows_with_cik": 488,
+      "unique_known_ciks": 485,
+      "rows_missing_cik": 15,
+      "duplicate_known_cik_rows": 3,
+      "reverse_only_tickers_removed": [
+        "BNY",
+        "DOC",
+        "ECHO",
+        "FISV",
+        "MRSH",
+        "PSKY",
+        "SW"
+      ],
+      "validation_only_tickers_added": [
+        "BK",
+        "FI",
+        "MMC",
+        "PARA",
+        "PEAK",
+        "WRK"
+      ],
+      "company_output": "2023/sp500_companies.csv",
+      "security_audit_output": "2023/sp500_securities.csv"
+    },
+    {
+      "sample_year": 2024,
+      "snapshot_date": "2025-01-01",
+      "security_rows": 503,
+      "company_rows": 500,
+      "rows_with_cik": 493,
+      "unique_known_ciks": 490,
+      "rows_missing_cik": 10,
+      "duplicate_known_cik_rows": 3,
+      "reverse_only_tickers_removed": [
+        "BNY",
+        "ECHO",
+        "FISV",
+        "MRSH",
+        "PSKY"
+      ],
+      "validation_only_tickers_added": [
+        "BK",
+        "FI",
+        "MMC",
+        "PARA"
+      ],
+      "company_output": "2024/sp500_companies.csv",
+      "security_audit_output": "2024/sp500_securities.csv"
+    },
+    {
+      "sample_year": 2025,
+      "snapshot_date": "2026-01-01",
+      "security_rows": 503,
+      "company_rows": 500,
+      "rows_with_cik": 500,
+      "unique_known_ciks": 497,
+      "rows_missing_cik": 3,
+      "duplicate_known_cik_rows": 3,
+      "reverse_only_tickers_removed": [
+        "BNY",
+        "ECHO",
+        "MRSH"
+      ],
+      "validation_only_tickers_added": [
+        "BK",
+        "MMC"
+      ],
+      "company_output": "2025/sp500_companies.csv",
+      "security_audit_output": "2025/sp500_securities.csv"
+    }
+  ]
+}

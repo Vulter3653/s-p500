@@ -40,6 +40,16 @@
 
 연구연도별 자료는 저장소 루트의 `2020/`, `2021/`, `2022/`, `2023/`, `2024/`, `2025/` 폴더에서 구분하여 관리한다. 각 폴더의 `README.md`에는 해당 연도의 구성기업 확정 기준일과 공통 표본 규칙이 기록되어 있다.
 
+각 연도 폴더의 `sp500_companies.csv`는 복수 주식 종류를 통합한 500개 기업 목록이며, `sp500_securities.csv`는 복수 주식 종류를 유지한 감사용 종목 목록이다. 생성 방법과 자료별 역할은 `docs/constituent-data-method.md`에 기록되어 있다.
+
+## 구성기업 목록 재현
+
+```bash
+python -m pip install -r requirements.txt
+python scripts/build_annual_constituents.py --source-date 2026-07-24
+python scripts/validate_annual_constituents.py
+```
+
 ## 추가로 확정할 사항
 
 다음 사항은 데이터 수집 전에 명시적으로 확정하고 문서화한다.
