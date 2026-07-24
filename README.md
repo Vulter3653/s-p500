@@ -21,6 +21,35 @@
 - 주요 자료원: SEC EDGAR 및 검증 가능한 S&P 500 구성기업 자료
 - 분석 단위: 기본적으로 기업-보고연도 10-K filing
 
+## 저장소 구조
+
+```text
+s-p500/
+├── 2020/ ... 2025/                 # 연구연도별 확정 표본과 향후 10-K 자료
+│   ├── README.md                   # 해당 연도의 기준일·파일 용도·관리 주의사항
+│   ├── sp500_companies.csv         # CIK/기업명 기준으로 통합한 500개 기업 표본
+│   └── sp500_securities.csv        # 복수 주식 종류를 유지한 종목 단위 감사표
+├── data/
+│   ├── raw/                        # 수정하지 않는 외부 원천자료 스냅숏
+│   │   ├── wikipedia_sp500_2026-07-24.html
+│   │   ├── sp500_historical_components_2026-07-24.csv
+│   │   └── sec_company_tickers_2026-07-24.json
+│   └── processed/
+│       └── annual_constituents_manifest.json # 생성 조건·해시·연도별 검증 요약
+├── docs/                           # 표본·자료·운영·진행·디버그 문서
+├── scripts/
+│   ├── build_annual_constituents.py    # 원천자료에서 연도별 표본을 재생성
+│   └── validate_annual_constituents.py # 구조·행 수·키·해시·manifest 검증
+├── AGENTS.md                       # 모든 작업자가 따라야 하는 저장소 운영 규칙
+├── CHANGELOG.md                    # 버전별 변경 이력
+├── VERSION                         # 현재 Semantic Version
+├── requirements.txt                # Python 재현 환경의 직접 의존성
+└── .gitignore                      # Git 추적 제외 규칙
+```
+
+각 경로와 개별 파일의 상세 역할, 수정 가능 여부 및 생성 관계는
+`docs/repository-structure.md`를 기준으로 한다.
+
 ## 연도별 S&P 500 표본 기준
 
 연도 `t`의 S&P 500 기업 표본은 **다음 해 1월 1일 현재 구성기업**으로 확정한다.
@@ -49,6 +78,9 @@ python -m pip install -r requirements.txt
 python scripts/build_annual_constituents.py --source-date 2026-07-24
 python scripts/validate_annual_constituents.py
 ```
+
+검증 스크립트는 연도별 행 수와 기준일뿐 아니라 필수 열, ticker 및 기업 키
+고유성, CIK 형식, manifest 출력 경로, 원본 파일 SHA-256도 확인한다.
 
 ## 추가로 확정할 사항
 

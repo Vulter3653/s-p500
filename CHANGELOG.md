@@ -2,6 +2,12 @@
 
 이 저장소의 모든 주요 변경 사항을 기록한다. 버전 형식은 Semantic Versioning을 따른다.
 
+## [0.6.0] - 2026-07-24
+
+- Docs: `main`의 전체 주석형 트리와 각 폴더·파일·CSV 열의 역할 및 수정 원칙을 README와 구조 문서에 명시했다. (codex)
+- Changed: 연도별 데이터 검증에 필수 열, 기업 키, sample year, CIK 형식, manifest 출력 경로 및 원본 SHA-256 검사를 추가했다. (codex)
+- Docs: 현재 존재하지 않는 10-K 원문·filing metadata·추출물·분석 결과 구조는 수집 기준 확정 후 추가하도록 범위를 명시했다. (codex)
+
 ## [0.5.1] - 2026-07-24
 
 - Fixed: GitHub 전송 출력 한도로 잘린 원본 스냅숏 3개를 분할 전송으로 교체하고 로컬 원본과 SHA-256을 재검증했다. (codex)
