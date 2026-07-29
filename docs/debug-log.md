@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - Baek Appendix A와 공식 source metadata 차이
+
+- 문제 요약: Baek et al. Appendix A는 SMART stopword 1,149개라고 기술하지만 tidytext 0.3.1의 공식 문서는 1,149가 세 lexicon 전체 행 수라고 설명한다. 공식 RDA의 SMART는 571행이며 `would` 중복을 제거하면 570개다. 논문 예제의 `subject=3.13`도 공식 Brysbaert XLSX의 3.14와 다르다. (codex)
+- 원인: Appendix의 lexicon별 행 수 표현과 예제 표시값이 공식 배포 파일의 실제 값과 일치하지 않는다. 참가자 원자료를 재집계하거나 값을 임의 수정하지 않았다. (codex)
+- 조치: 공식 SMART subset 570고유 항목을 사용하고 차이를 metadata에 기록했다. 공식 subject 3.14를 사용한 raw 평균 3.105/2.965를 2자리로 반올림해 보고된 3.10/2.96 fixture를 재현했다. (codex)
+- 추가 검토: dictionary Porter stem 6,956개가 다중 entry collision이었다. exact original을 우선하고 unique stem만 fallback으로 허용하며 collision은 unmatched 처리했다. (codex)
+- 검증: loader, 예제, fixture, 5개 결과 및 품질검사는 통과했다. R SnowballC 0.7.0 runtime은 환경에 없어 NLTK 3.10.0 original Porter fixture로 고정했다. (codex)
+- 상태: source 차이는 설명된 warning이며 구조 오류는 없다. (codex)
+
 ## 2026-07-29 - LM 재배포와 TECH 분모 0 처리
 
 - 문제 요약: 공식 페이지는 학술 연구 무료 사용을 명시하지만 원본 또는 전체 파생 사전의 공개 Git 재배포 허용은 명시하지 않았다. 최초 LM 적용 품질검사는 TECH의 eligible word count가 0인 것을 missing으로 기대해 실패했다. (codex)

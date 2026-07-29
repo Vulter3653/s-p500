@@ -41,3 +41,16 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(by_ticker["TECH"]["sentiment_status"], "warning_denominator_zero")
         self.assertTrue(all(row["uncertainty_status"] == "success" for row in combined if row["ticker"] != "TECH"))
         self.assertTrue(all(row["sentiment_status"] == "success" for row in combined if row["ticker"] != "TECH"))
+
+    def test_concreteness_outputs_and_blocked_statuses(self):
+        combined = read_csv(SMOKE_ROOT / "combined_language_results/company_language_smoke_test_results.csv")
+        by_ticker = {row["ticker"]: row for row in combined}
+        self.assertEqual(by_ticker["TECH"]["ai_concreteness_mean"], "")
+        self.assertNotEqual(by_ticker["TECH"]["report_concreteness_mean"], "")
+        self.assertNotEqual(by_ticker["NSC"]["ai_concreteness_mean"], "")
+        self.assertTrue(all(
+            row["time_focusing_status"] == "blocked_liwc2015_license_required"
+            for row in combined
+        ))
+        self.assertTrue(all(row["passive_voice_status"] == "blocked_model_missing"
+                            for row in combined))

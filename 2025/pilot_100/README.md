@@ -63,3 +63,17 @@ python scripts/check_language_smoke_test_quality.py
 ```
 
 This stage does not cover concreteness, dependency-based tense/passive voice, human sentence labels, the full 100-company sample, or R2.
+# Step 4C: textual concreteness
+
+The five-company smoke test now includes Brysbaert textual concreteness for direct AI sentences and whole-report analysis text. It uses the actual SMART subset from tidytext 0.3.1, NLTK's original Porter algorithm, exact original dictionary matches, and unique-stem fallback.
+
+TECH has no AI sentence, so its AI concreteness is missing while its report concreteness is available. NSC retains a single-sentence warning. Ambiguous stem mappings are excluded without score averaging.
+
+```bash
+python scripts/load_brysbaert_concreteness_dictionary.py --validate-only
+python scripts/load_smart_stopwords.py --validate-only
+python scripts/run_language_smoke_test.py --retry-blocked-concreteness
+python scripts/check_language_smoke_test_quality.py
+```
+
+The full dictionary and stopword files are local-only. No LIWC2015, passive voice, 100-company expansion, or R2 work was performed.

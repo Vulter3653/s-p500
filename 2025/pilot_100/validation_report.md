@@ -92,3 +92,16 @@ All 45 repository tests, `py_compile`, smoke-test quality validation, and
 - Quality: ratio range errors 0; negative counts 0; infinite values 0; structural errors 0; failed-after-three-attempts 0.
 - Blocked statuses preserved: Brysbaert concreteness, dependency tense, dependency passive voice.
 - Not performed: full 100-company language measurement, human truth labels, R2, external financial controls.
+# Step 4C validation
+
+- Official dictionary: 39,954 entries, 37,058 single words, 2,896 two-word expressions, 8 columns, score range 1.04–5.00.
+- Dictionary SHA-256: `1673ead761e28833a40e82c0d20f10782955ced9366d600eafeefee0f2254545`.
+- SMART: tidytext 0.3.1, 1,149 total dataset rows, 571 SMART rows, 570 unique SMART entries, one duplicated `would`.
+- SMART canonical SHA-256: `220f9e4fde204eb4d4a216f4b5024633b61e41555809f95d9b12f0773be0a3f3`.
+- Paper examples: physics 3.10 and science 2.96, both PASS.
+- AI sentences: 273 unchanged; companies: 5 unchanged; LM reference counts unchanged.
+- AI coverage: NVDA 0.651, HPE 0.665, WAT 0.701, NSC 0.842; TECH denominator zero.
+- Report coverage range: 0.734–0.765.
+- Ambiguous stems are excluded, not averaged; four AI-bearing companies retain collision warnings.
+- Ratio, score-range, negative count, infinite, structural, and failed-after-three-attempt errors: 0.
+- LIWC2015 time focusing and passive voice remain blocked. Full-sample and R2 work were not performed.

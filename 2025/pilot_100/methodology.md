@@ -93,3 +93,12 @@ A source category value greater than zero activates membership. Zero means no me
 For direct AI sentences and whole reports, each category ratio uses the corresponding eligible alphabetic token count. Net tone is `(positive-negative)/(positive+negative)`; net tone by words uses all eligible words. Zero denominators are missing, not zero. Previous and next context sentences are not measured.
 
 The original and complete derived dictionary remain local because research use is permitted but public redistribution is unclear.
+# Step 4C concreteness methodology
+
+Following Baek, Ihm, and Kang (2023), text is tokenized, normalized to lowercase, filtered with the SMART lexicon, stemmed with the Porter algorithm, and matched to Brysbaert et al. (2014). The primary score is the arithmetic mean of matched token scores.
+
+The exact tidytext 0.3.1 SMART subset contains 571 rows and 570 unique entries, rather than the paper's stated 1,149 SMART entries; 1,149 is the complete tidytext `stop_words` dataset across three lexicons. NLTK 3.10.0 `PorterStemmer(ORIGINAL_ALGORITHM)` is pinned because R/SnowballC is unavailable.
+
+Matching uses lowercase exact original single-word entries first. Only when exact matching fails is a unique Porter stem used. A stem shared by multiple dictionary entries is unmatched and warned; scores are never averaged. The 2,896 two-word expressions are validated but not used by the primary word-token pipeline.
+
+Coverage is matched tokens divided by eligible tokens after SMART removal. Zero denominators remain missing.

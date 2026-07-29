@@ -1,5 +1,17 @@
 variable_name,definition,status,scope
 report_year,report year,measured,whole analysis text
+report_concreteness_mean,report concreteness mean,measured,whole analysis text
+report_concreteness_median,report concreteness median,measured,whole analysis text
+report_concreteness_standard_deviation,report concreteness standard deviation,measured,whole analysis text
+report_concreteness_min,report concreteness min,measured,whole analysis text
+report_concreteness_max,report concreteness max,measured,whole analysis text
+report_concreteness_matched_token_count,report concreteness matched token count,measured,whole analysis text
+report_concreteness_eligible_token_count,report concreteness eligible token count,measured,whole analysis text
+report_concreteness_unmatched_token_count,report concreteness unmatched token count,measured,whole analysis text
+report_concreteness_coverage,report concreteness coverage,measured,whole analysis text
+report_concreteness_unique_dictionary_entries,report concreteness unique dictionary entries,measured,whole analysis text
+report_concreteness_stem_collision_count,report concreteness stem collision count,measured,whole analysis text
+report_concreteness_status,report concreteness status,measured,whole analysis text
 report_word_count,report word count,measured,whole analysis text
 report_sentence_count,report sentence count,measured,whole analysis text
 report_paragraph_count,report paragraph count,measured,whole analysis text

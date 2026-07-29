@@ -151,3 +151,10 @@ The five-company smoke test now applies the official University of Notre Dame Lo
 The dictionary is free for academic research, but public redistribution permission is not explicit. The original and complete derived dictionary are therefore local-only and Git-ignored. See `references/dictionaries/loughran_mcdonald_master_dictionary/README.md` for the official download, expected SHA-256, and validation command.
 
 Brysbaert concreteness and dependency-based tense/passive voice remain blocked. The measurements have not been expanded to all 100 companies, and no R2 work was performed.
+# 0.12.0 textual concreteness update
+
+Textual concreteness is the primary language measure in the five-company smoke test. The pipeline follows Baek, Ihm, and Kang (2023): SMART stopword removal, Porter stemming, and the mean of matched Brysbaert et al. (2014) concreteness scores.
+
+The official Springer supplementary XLSX and tidytext 0.3.1 source are SHA-verified but local-only. Matching uses exact original entries first and only unique Porter-stem fallback; ambiguous stems remain unmatched. AI-sentence and whole-report results are separate.
+
+LIWC2015 time focusing, dependency passive voice, the 100-company expansion, and R2 remain out of scope.

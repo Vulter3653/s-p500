@@ -1,6 +1,6 @@
 company_id,ticker,ai_concreteness_mean,ai_concreteness_median,ai_concreteness_coverage,ai_concrete_word_ratio,ai_matched_concreteness_word_count,ai_total_eligible_word_count,concreteness_status
-P2025-077,NVDA,,,,,,,blocked_dictionary_missing
-P2025-074,HPE,,,,,,,blocked_dictionary_missing
-P2025-051,TECH,,,,,,,blocked_dictionary_missing
-P2025-047,WAT,,,,,,,blocked_dictionary_missing
-P2025-054,NSC,,,,,,,blocked_dictionary_missing
+P2025-077,NVDA,2.9936236933797913,2.93,0.6505477899508878,,1722,2647,warning_stem_collisions
+P2025-074,HPE,2.8757487657707075,2.71,0.665085735133163,,1823,2741,warning_stem_collisions
+P2025-051,TECH,,,,,0,0,warning_denominator_zero
+P2025-047,WAT,2.5552763819095476,2.44,0.7007042253521126,,199,284,warning_stem_collisions
+P2025-054,NSC,2.70125,2.6399999999999997,0.8421052631578947,,16,19,warning_stem_collisions

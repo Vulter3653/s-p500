@@ -4,6 +4,15 @@
 
 ## [Unreleased]
 
+## [0.12.0] - 2026-07-29
+
+- Added: Springer 공식 Brysbaert et al. (2014) 집계 XLSX와 CRAN tidytext 0.3.1 SMART 자료의 SHA·구조·점수 범위를 검증하는 loader를 추가했다. (codex)
+- Analysis: Baek, Ihm, and Kang (2023)의 SMART 제거→Porter stemming→Brysbaert 평균 절차를 5개 기업의 AI 직접 문장과 전체 10-K에 적용했다. (codex)
+- Analysis: 원형 exact match를 우선하고 unique Porter stem만 fallback으로 허용했으며 ambiguous stem은 평균 결합 없이 unmatched warning으로 보존했다. (codex)
+- Data: AI·보고서 구체성 평균, 중앙값, 표준편차, 범위, coverage, collision, AI token 상세 및 미매칭 진단을 생성했다. (codex)
+- Docs: 논문의 SMART 1,149개 표기와 tidytext 실제 SMART 571행·570고유 항목 차이, 공식 `subject` 점수 3.14와 본문 3.13 차이 및 예제 재현을 기록했다. (codex)
+- Security: 공개 재배포가 명확하지 않은 전체 사전·파생 word-score 목록·SMART 목록은 Git에서 제외했다. (codex)
+
 ## [0.11.0] - 2026-07-29
 
 - Added: 공식 Notre Dame 1993–2025 Loughran-McDonald Master Dictionary의 SHA-256·열 구조·활성/제거 규칙을 검증하는 loader와 재현성 metadata를 추가했다. (codex)

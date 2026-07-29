@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - Brysbaert textual concreteness 5개 기업 측정
+
+- 출처: Springer 공식 supplementary XLSX 39,954행(37,058 single, 2,896 bigram), 8열, 점수 1.04–5.00, SHA-256 `1673ead761e28833a40e82c0d20f10782955ced9366d600eafeefee0f2254545`를 검증했다. (codex)
+- 전처리: Baek et al. (2023) Appendix A에 따라 SMART stopword 제거와 NLTK Porter original algorithm을 적용했다. tidytext 0.3.1 실제 SMART subset은 571행·570고유 항목이며 canonical SHA는 `220f9e4fde204eb4d4a216f4b5024633b61e41555809f95d9b12f0773be0a3f3`다. (codex)
+- 매칭: 원형 exact를 우선하고 exact가 없을 때 unique stem만 사용했다. 6,956개 dictionary collision stem은 평균하지 않고 unmatched 처리했다. (codex)
+- 결과: NVDA·HPE·WAT·NSC AI 평균은 각각 2.994·2.876·2.555·2.701이며 TECH AI는 분모 0, 보고서 평균은 2.868이다. 보고서 coverage는 0.734–0.765다. (codex)
+- 검증: 논문 physics/science 예제 3.10/2.96, AI 문장 273, LM 결과 불변, 5개 기업, score·coverage 범위와 idempotent skip을 확인했다. (codex)
+- 범위: LIWC2015 time focusing, 수동태, 인간 라벨, 100개 확장, R2는 수행하지 않았다. (codex)
+
 ## 2026-07-29 - 공식 LM 금융사전 5개 기업 적용
 
 - 출처: 공식 Notre Dame 페이지가 직접 연결한 1993–2025 CSV를 확보해 9,093,460바이트, 86,553행, 17열 및 SHA-256 `e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d`를 확인했다. (codex)

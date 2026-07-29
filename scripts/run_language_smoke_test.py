@@ -20,15 +20,20 @@ from language_measurement_common import (
     tokens, write_csv,
 )
 from measure_ai_related_sentiment import measure_sentiment
-from measure_linguistic_concreteness import measure_concreteness
+from measure_linguistic_concreteness import (
+    MATCHING_STRATEGY_VERSION, PREPROCESSING_VERSION,
+    compare_matching_strategies, measure_concreteness,
+)
 from measure_passive_voice import measure_passive
 from measure_readability import measure_readability
 from measure_report_level_controls import measure_report_controls
 from measure_tense_usage import measure_tense
 from measure_uncertainty_language import measure_uncertainty
 from load_loughran_mcdonald_dictionary import (
-    CATEGORIES as LM_CATEGORIES, load_dictionary,
+    CATEGORIES as LM_CATEGORIES, load_dictionary as load_lm_dictionary,
 )
+from load_brysbaert_concreteness_dictionary import load_dictionary as load_brysbaert_dictionary
+from load_smart_stopwords import load_smart_stopwords
 from select_language_smoke_test_companies import OUTPUT as SELECTED_PATH, select_companies
 
 SENTENCES = ROOT / "2025/pilot_100/text/analysis_tables/sentences.csv.gz"
@@ -69,9 +74,9 @@ def _write_definitions(path):
          "measured", ""),
         ("ai_concreteness_mean", "AI 문장의 평균 어휘 구체성", "concreteness", "AI sentences",
          "사전 점수가 있는 alphabetic token 평균", "구체성 점수 합", "사전 매칭 token 수",
-         "dictionary score", "Brysbaert lexical concreteness dictionary", "not installed",
-         "사전 없으면 missing", "missing", "primary", "Brysbaert approach",
-         "blocked_dictionary_missing", "가짜 점수를 생성하지 않음"),
+         "dictionary score", "Brysbaert et al. (2014)", "2014",
+         "분모 0이면 missing", "missing and logged", "primary", "Baek et al. (2023)",
+         "measured", "SMART 제거 후 Porter; exact 우선·unique stem fallback"),
         ("ai_future_tense_ratio", "AI 문장의 미래 시제 비율", "tense", "AI sentences",
          "dependency/POS로 확인한 미래 표지 구성 비율", "미래 표지 구성 수", "finite verb 수",
          "ratio", "dependency parser", "not installed", "모델 없으면 missing", "missing",
@@ -107,7 +112,9 @@ def _write_definitions(path):
 
 def run(force=False):
     started = time.monotonic()
-    lm_dictionary, lm_metadata = load_dictionary(write_analysis_file=True)
+    lm_dictionary, lm_metadata = load_lm_dictionary(write_analysis_file=True)
+    concreteness_dictionary, concreteness_metadata = load_brysbaert_dictionary()
+    smart_stopwords, smart_metadata = load_smart_stopwords()
     selected = select_companies()
     state_path = SMOKE_ROOT / "processing_logs/language_smoke_test_processing_state.csv"
     combined_path = SMOKE_ROOT / "combined_language_results/company_language_smoke_test_results.csv"
@@ -120,11 +127,13 @@ def run(force=False):
             and {row["company_id"]: row["analysis_text_sha256"] for row in state} == expected
             and all(row["language_measurement_version"] == LANGUAGE_MEASUREMENT_VERSION for row in state)
             and all(row.get("lm_dictionary_sha256") == lm_metadata["sha256"] for row in state)
+            and all(row.get("brysbaert_dictionary_sha256") == concreteness_metadata["sha256"] for row in state)
+            and all(row.get("smart_stopword_sha256") == smart_metadata["smart_list_sha256"] for row in state)
             and prior_summary_path.is_file()
             and read_csv(prior_summary_path)[0]["combined_output_sha256"] == sha256_file(combined_path)
         )
         if valid:
-            print("processed=0 skipped=5 warning=5 failed=0 blocked_dependency_constructs=3 denominator_zero=1")
+            print("processed=0 skipped=5 warning=5 failed=0 blocked_dependency_constructs=2 denominator_zero=1")
             return {"processed": 0, "skipped": 5, "warning": 5, "failed": 0}
     ids = {row["company_id"] for row in selected}
     sentence_rows = _filtered_gzip(SENTENCES, ids)
@@ -143,6 +152,9 @@ def run(force=False):
     ai_match_rows = []
     company_rows = []
     readability_details = []
+    concreteness_match_rows = []
+    matching_comparison_rows = []
+    unmatched_diagnostics = []
     denominator_zero = []
     warnings = []
     processing_state = []
@@ -165,7 +177,10 @@ def run(force=False):
         ai_disclosure["ai_sentence_ratio"] = (
             len(ai_rows) / len(narrative) if narrative else None
         )
-        concrete = measure_concreteness(ai_texts)
+        concrete = measure_concreteness(
+            ai_texts, concreteness_dictionary, smart_stopwords, "ai"
+        )
+        ai_concreteness_details = concrete.pop("match_details")
         tense = measure_tense(ai_texts)
         uncertainty = measure_uncertainty(" ".join(ai_texts), lm_dictionary)
         passive = measure_passive(ai_texts)
@@ -177,6 +192,10 @@ def run(force=False):
             table_text, int(ext["source_html_bytes"]), int(ext["analysis_text_bytes"]),
             lm_dictionary,
         )
+        report_concrete = measure_concreteness(
+            [text], concreteness_dictionary, smart_stopwords, "report"
+        )
+        report_concreteness_details = report_concrete.pop("match_details")
         identity = {
             "company_id": company_id, "cik": selected_row["cik"],
             "ticker": selected_row["ticker"], "company_name": selected_row["company_name"],
@@ -185,19 +204,75 @@ def run(force=False):
             "parser_version": selected_row["parser_version"],
             "language_measurement_version": LANGUAGE_MEASUREMENT_VERSION,
             "ai_detection_status": "success",
+            "time_focusing_status": "blocked_liwc2015_license_required",
         }
-        row = identity | ai_disclosure | concrete | tense | uncertainty | passive | readable | sentiment | controls
-        return row, ai_rows
+        row = (identity | ai_disclosure | concrete | report_concrete | tense | uncertainty |
+               passive | readable | sentiment | controls)
+        return (
+            row, ai_rows, ai_concreteness_details, report_concreteness_details,
+            ai_texts, text,
+        )
 
     attempts = {}
     for selected_row in selected:
         try:
-            (row, rows), attempt = run_with_attempts(
+            (row, rows, ai_details, report_details, ai_texts, report_text), attempt = run_with_attempts(
                 lambda number, item=selected_row: process_company(item, number), 3
             )
             attempts[row["company_id"]] = attempt
             company_rows.append(row)
             ai_sentence_rows.extend(rows)
+            for detail in ai_details:
+                sentence = rows[detail["text_order"] - 1]
+                concreteness_match_rows.append({
+                    "company_id": row["company_id"], "cik": row["cik"],
+                    "ticker": row["ticker"], "accession_number": row["accession_number"],
+                    "sentence_id": sentence["sentence_id"],
+                    "sentence_order": sentence["sentence_order"], **detail,
+                    "dictionary_release": concreteness_metadata["dictionary_release"],
+                    "dictionary_sha256": concreteness_metadata["sha256"],
+                    "smart_stopword_sha256": smart_metadata["smart_list_sha256"],
+                    "preprocessing_version": PREPROCESSING_VERSION,
+                })
+            for scope, details, texts_for_scope in (
+                ("ai_sentences", ai_details, ai_texts),
+                ("whole_report", report_details, [report_text]),
+            ):
+                for comparison in compare_matching_strategies(
+                    texts_for_scope, concreteness_dictionary, smart_stopwords
+                ):
+                    matching_comparison_rows.append({
+                        "company_id": row["company_id"], "ticker": row["ticker"],
+                        "analysis_scope": scope, **comparison,
+                    })
+                frequencies = {}
+                originals = {}
+                collision_by_token = {}
+                for detail in details:
+                    if detail["stopword_removed"] or detail["concreteness_score"] != "":
+                        continue
+                    token = detail["porter_stem"]
+                    frequencies[token] = frequencies.get(token, 0) + 1
+                    originals.setdefault(token, set()).add(detail["original_token"])
+                    collision_by_token[token] = max(
+                        collision_by_token.get(token, 0), detail["stem_collision"]
+                    )
+                for token, frequency in sorted(
+                    frequencies.items(), key=lambda item: (-item[1], item[0])
+                )[:25]:
+                    unmatched_diagnostics.append({
+                        "company_id": row["company_id"], "analysis_scope": scope,
+                        "token_or_stem": token, "frequency": frequency,
+                        "example_original_tokens": "|".join(sorted(originals[token])[:5]),
+                        "stopword_status": "not_stopword",
+                        "stem_collision_status": (
+                            "ambiguous_collision" if collision_by_token[token] else "no_collision"
+                        ),
+                        "possible_reason": (
+                            "multiple_dictionary_entries_share_stem"
+                            if collision_by_token[token] else "not_in_dictionary"
+                        ),
+                    })
         except Exception as error:
             raise RuntimeError(f"structural processing failure: {selected_row['company_id']}: {error}")
 
@@ -211,7 +286,8 @@ def run(force=False):
         if row["ai_sentence_count"] == 0:
             denominator_zero.append({
                 "company_id": row["company_id"], "ticker": row["ticker"],
-                "variable_group": "AI sentence measures", "zero_denominator": "ai_sentence_count",
+                "variable_group": "AI sentence and AI concreteness measures",
+                "zero_denominator": "ai_sentence_count_and_concreteness_eligible_tokens",
                 "handling": "missing; not replaced with zero",
             })
             warnings.append({
@@ -225,8 +301,21 @@ def run(force=False):
                 "case_status": "warning", "construct": "AI disclosure",
                 "warning_reason": "single_ai_related_sentence", "recommended_action": "manual review",
             })
+        if row["concreteness_status"] == "warning_stem_collisions":
+            warnings.append({
+                "company_id": row["company_id"], "ticker": row["ticker"],
+                "case_status": "warning", "construct": "concreteness",
+                "warning_reason": "ambiguous_porter_stems_excluded",
+                "recommended_action": "review collision diagnostics; no score averaging applied",
+            })
+        if row["concreteness_status"] == "warning_denominator_zero":
+            warnings.append({
+                "company_id": row["company_id"], "ticker": row["ticker"],
+                "case_status": "warning", "construct": "concreteness",
+                "warning_reason": "zero_ai_concreteness_denominator",
+                "recommended_action": "retain missing AI-level result and report-level result",
+            })
         for construct, reason in (
-            ("concreteness", "Brysbaert_dictionary_missing"),
             ("tense", "dependency_model_missing"),
             ("passive_voice", "dependency_model_missing"),
         ):
@@ -275,10 +364,20 @@ def run(force=False):
            ["company_id", "ticker", "sentence_id", "sentence_text", "exclusion_reason"])
 
     concept_specs = [
-        ("linguistic_concreteness/company_concreteness_results.csv",
-         ["company_id", "ticker", "ai_concreteness_mean", "ai_concreteness_median",
-          "ai_concreteness_coverage", "ai_concrete_word_ratio",
-          "ai_matched_concreteness_word_count", "ai_total_eligible_word_count", "concreteness_status"]),
+        ("textual_concreteness/company_concreteness_results.csv",
+         ["company_id", "cik", "ticker", "company_name", "accession_number",
+          "ai_concreteness_mean", "ai_concreteness_median",
+          "ai_concreteness_standard_deviation", "ai_concreteness_min", "ai_concreteness_max",
+          "ai_concreteness_matched_token_count", "ai_concreteness_eligible_token_count",
+          "ai_concreteness_unmatched_token_count", "ai_concreteness_coverage",
+          "ai_concreteness_unique_dictionary_entries", "ai_concreteness_stem_collision_count",
+          "report_concreteness_mean", "report_concreteness_median",
+          "report_concreteness_standard_deviation", "report_concreteness_min",
+          "report_concreteness_max", "report_concreteness_matched_token_count",
+          "report_concreteness_eligible_token_count", "report_concreteness_unmatched_token_count",
+          "report_concreteness_coverage", "report_concreteness_unique_dictionary_entries",
+          "report_concreteness_stem_collision_count", "ai_concreteness_status",
+          "report_concreteness_status", "concreteness_status"]),
         ("tense_measurement/company_tense_results.csv",
          ["company_id", "ticker", "ai_past_tense_count", "ai_present_tense_count",
           "ai_future_tense_count", "ai_total_finite_verb_count", "ai_past_tense_ratio",
@@ -306,20 +405,25 @@ def run(force=False):
     ]
     for relative, fields in concept_specs:
         output_rows = company_rows
-        if relative.startswith("linguistic_concreteness/"):
-            output_rows = [
-                row | {
-                    "ai_concreteness_mean": None, "ai_concreteness_median": None,
-                    "ai_concreteness_coverage": None, "ai_concrete_word_ratio": None,
-                    "ai_matched_concreteness_word_count": None,
-                    "ai_total_eligible_word_count": None,
-                }
-                for row in company_rows
-            ]
         write_csv(SMOKE_ROOT / relative, output_rows, fields)
+        if relative.startswith("textual_concreteness/"):
+            write_csv(
+                SMOKE_ROOT / "linguistic_concreteness/company_concreteness_results.csv",
+                [
+                    row | {
+                        "ai_matched_concreteness_word_count":
+                            row["ai_concreteness_matched_token_count"],
+                        "ai_total_eligible_word_count":
+                            row["ai_concreteness_eligible_token_count"],
+                    }
+                    for row in output_rows
+                ],
+                ["company_id", "ticker", "ai_concreteness_mean", "ai_concreteness_median",
+                 "ai_concreteness_coverage", "ai_concrete_word_ratio",
+                 "ai_matched_concreteness_word_count", "ai_total_eligible_word_count",
+                 "concreteness_status"],
+            )
     for relative, fields in (
-        ("linguistic_concreteness/word_concreteness_match_details.csv.gz",
-         ["company_id", "sentence_id", "token", "score", "dictionary_status"]),
         ("tense_measurement/sentence_tense_details.csv.gz",
          ["company_id", "sentence_id", "past_count", "present_count", "future_count", "parser_status"]),
         ("passive_voice/passive_sentence_details.csv.gz",
@@ -327,6 +431,42 @@ def run(force=False):
           "auxiliary_token", "dependency_evidence", "parser_status"]),
     ):
         _empty(SMOKE_ROOT / relative, fields)
+    concreteness_fields = [
+        "company_id", "cik", "ticker", "accession_number", "sentence_id", "sentence_order",
+        "token_order", "original_token", "normalized_token", "porter_stem",
+        "stopword_removed", "match_method", "matched_dictionary_entry",
+        "dictionary_entry_type", "concreteness_score", "dictionary_row_number",
+        "stem_collision", "dictionary_release", "dictionary_sha256",
+        "smart_stopword_sha256", "preprocessing_version",
+    ]
+    write_csv(
+        SMOKE_ROOT / "textual_concreteness/ai_concreteness_word_matches.csv.gz",
+        concreteness_match_rows, concreteness_fields,
+    )
+    write_csv(
+        SMOKE_ROOT / "textual_concreteness/report_concreteness_summary.csv",
+        company_rows,
+        ["company_id", "cik", "ticker", "accession_number",
+         "report_concreteness_mean", "report_concreteness_median",
+         "report_concreteness_standard_deviation", "report_concreteness_min",
+         "report_concreteness_max", "report_concreteness_matched_token_count",
+         "report_concreteness_eligible_token_count", "report_concreteness_unmatched_token_count",
+         "report_concreteness_coverage", "report_concreteness_unique_dictionary_entries",
+         "report_concreteness_stem_collision_count", "report_concreteness_status",
+         "concreteness_status"],
+    )
+    write_csv(
+        SMOKE_ROOT / "textual_concreteness/unmatched_token_diagnostics.csv",
+        unmatched_diagnostics,
+        ["company_id", "analysis_scope", "token_or_stem", "frequency",
+         "example_original_tokens", "stopword_status", "stem_collision_status",
+         "possible_reason"],
+    )
+    write_csv(
+        SMOKE_ROOT / "textual_concreteness/matching_strategy_comparison.csv",
+        matching_comparison_rows,
+        ["company_id", "ticker", "analysis_scope", "strategy", "matched_token_count"],
+    )
     lm_match_rows = []
     for sentence in ai_sentence_rows:
         token_order = 0
@@ -450,7 +590,18 @@ def run(force=False):
             "ai_sentence_min_length": min(lengths) if lengths else "",
             "ai_sentence_max_length": max(lengths) if lengths else "",
             "duplicate_ai_sentence_count": len(company_ai) - len({item["sentence_text"] for item in company_ai}),
-            "false_positive_candidate_count": 0, "concreteness_coverage": "",
+            "false_positive_candidate_count": 0,
+            "concreteness_coverage": display(row["ai_concreteness_coverage"]),
+            "concreteness_matched_token_count":
+                row["ai_concreteness_matched_token_count"],
+            "concreteness_eligible_token_count":
+                row["ai_concreteness_eligible_token_count"],
+            "concreteness_stem_collision_count":
+                row["ai_concreteness_stem_collision_count"],
+            "report_concreteness_coverage":
+                display(row["report_concreteness_coverage"]),
+            "report_concreteness_stem_collision_count":
+                row["report_concreteness_stem_collision_count"],
             "finite_verb_count": "", "tense_ratio_sum": "",
             "uncertainty_match_count": row["ai_uncertainty_count"],
             "passive_sentence_count": "", "readability_sentence_count": row["ai_sentence_count_for_readability"],
@@ -472,6 +623,11 @@ def run(force=False):
             "dictionary_fingerprint": f"pilot-ai-v{AI_DICTIONARY_VERSION}|brysbaert-missing|lm-{lm_metadata['sha256']}",
             "lm_dictionary_sha256": lm_metadata["sha256"],
             "lm_dictionary_release": lm_metadata["dictionary_release"],
+            "brysbaert_dictionary_sha256": concreteness_metadata["sha256"],
+            "brysbaert_dictionary_release": concreteness_metadata["dictionary_release"],
+            "smart_stopword_sha256": smart_metadata["smart_list_sha256"],
+            "preprocessing_version": PREPROCESSING_VERSION,
+            "matching_strategy_version": MATCHING_STRATEGY_VERSION,
             "nlp_model_version": "dependency-model-missing",
             "result_row_sha256": stable_row_sha(row), "processing_attempts": attempts[row["company_id"]],
             "processing_status": "warning_blocked_dependencies", "processed_at": processed_at,
@@ -493,10 +649,11 @@ def run(force=False):
     summary = [{
         "language_measurement_version": LANGUAGE_MEASUREMENT_VERSION, "random_seed": RANDOM_SEED,
         "selected_companies": len(selected), "processed": len(company_rows), "skipped": 0,
-        "warning": len(company_rows), "failed": 0, "blocked_dependency_constructs": 3,
+        "warning": 5, "failed": 0, "blocked_dependency_constructs": 2,
         "denominator_zero": len(denominator_zero),
         "ai_disclosure_companies": sum(row["ai_disclosure_binary"] for row in company_rows),
         "ai_related_sentences": len(ai_sentence_rows), "manual_review_sentences": len(reviews),
+        "stem_collision_cases": sum(row["ai_concreteness_stem_collision_count"] for row in company_rows),
         "elapsed_seconds": f"{elapsed:.6f}", "average_seconds_per_company": f"{elapsed/5:.6f}",
         "combined_output_sha256": sha256_file(combined_path), "processed_at": processed_at,
     }]
@@ -507,10 +664,12 @@ def run(force=False):
     repro.mkdir(parents=True, exist_ok=True)
     (repro / "colab_reproduction_backlog.md").write_text(
         "# Colab reproduction backlog\n\n"
-        "- Step 4B-2에서도 notebook을 만들거나 실행하지 않았다.\n"
+        "- Step 4C에서도 notebook을 만들거나 실행하지 않았다.\n"
         "- LM 1993-2025 CSV를 공식 Notre Dame 페이지에서 내려받아 repository의 예상 경로에 두고 SHA-256을 검증한다.\n"
         "- 원본 및 전체 파생 LM 사전은 재배포 조건이 불명확하여 Git에 포함하지 않는다.\n"
-        "- Brysbaert 사전의 출처·라이선스·SHA는 계속 미확정이다.\n"
+        "- Brysbaert 2014 XLSX는 공식 Springer supplement에서 내려받고 SHA-256을 검증한다.\n"
+        "- tidytext 0.3.1 CRAN source의 stop_words.rda에서 SMART subset을 추출한다.\n"
+        "- Brysbaert 원본·전체 파생 사전과 SMART 전체 목록은 재배포 조건을 보수적으로 처리해 Git에 포함하지 않는다.\n"
         "- dependency parser와 모델 버전을 고정한 뒤 설치 셀을 문서화한다.\n",
         encoding="utf-8",
     )
@@ -523,23 +682,40 @@ def run(force=False):
         {"data_name": "Loughran-McDonald Master Dictionary", "path": lm_metadata["local_path"],
          "expected_rows_or_files": 86553, "actual_rows_or_files": lm_metadata["row_count"],
          "sha_validation": lm_metadata["sha256"]},
+        {"data_name": "Brysbaert concreteness ratings", "path": concreteness_metadata["local_path"],
+         "expected_rows_or_files": 39954, "actual_rows_or_files": concreteness_metadata["row_count"],
+         "sha_validation": concreteness_metadata["sha256"]},
+        {"data_name": "tidytext SMART stopwords", "path": "references/dictionaries/brysbaert_concreteness/original_source_files/tidytext_0.3.1_stop_words.rda",
+         "expected_rows_or_files": "571 SMART rows / 570 unique", "actual_rows_or_files": smart_metadata["smart_entry_count"],
+         "sha_validation": smart_metadata["smart_list_sha256"]},
     ], ["data_name", "path", "expected_rows_or_files", "actual_rows_or_files", "sha_validation"])
     write_csv(repro / "pipeline_execution_inventory.csv", [
         {"execution_order": 1, "script": "scripts/select_language_smoke_test_companies.py",
          "purpose": "select five companies", "seed": RANDOM_SEED},
-        {"execution_order": 2, "script": "scripts/run_language_smoke_test.py",
-         "purpose": "measure AI/report LM variables and preserve other blocked dependencies", "seed": RANDOM_SEED},
-        {"execution_order": 3, "script": "scripts/check_language_smoke_test_quality.py",
+        {"execution_order": 2, "script": "scripts/load_brysbaert_concreteness_dictionary.py --validate-only",
+         "purpose": "validate official aggregated concreteness dictionary", "seed": ""},
+        {"execution_order": 3, "script": "scripts/load_smart_stopwords.py --validate-only",
+         "purpose": "validate tidytext SMART subset", "seed": ""},
+        {"execution_order": 4, "script": "scripts/run_language_smoke_test.py --retry-blocked-concreteness",
+         "purpose": "measure AI/report textual concreteness", "seed": RANDOM_SEED},
+        {"execution_order": 5, "script": "scripts/check_language_smoke_test_quality.py",
          "purpose": "validate outputs", "seed": RANDOM_SEED},
     ], ["execution_order", "script", "purpose", "seed"])
     write_csv(repro / "software_and_dictionary_versions.csv", [
         {"component": "Python", "version": platform.python_version(), "sha256": "",
          "status": "available", "colab_install_note": "use compatible Python"},
-        {"component": "pilot AI dictionary", "version": LANGUAGE_MEASUREMENT_VERSION,
+        {"component": "pilot AI dictionary", "version": AI_DICTIONARY_VERSION,
          "sha256": sha256_file(SMOKE_ROOT / "ai_disclosure_detection/ai_dictionary_terms.csv"),
          "status": "available", "colab_install_note": "repository file"},
-        {"component": "Brysbaert concreteness", "version": "", "sha256": "",
-         "status": "blocked_dictionary_missing", "colab_install_note": "source and license required"},
+        {"component": "Brysbaert concreteness", "version": "2014",
+         "sha256": concreteness_metadata["sha256"], "status": "available_local_not_redistributed",
+         "colab_install_note": "download official Springer XLSX and verify SHA-256"},
+        {"component": "tidytext SMART stopwords", "version": "0.3.1",
+         "sha256": smart_metadata["smart_list_sha256"], "status": "available_from_official_CRAN_source",
+         "colab_install_note": "extract SMART subset from verified stop_words.rda"},
+        {"component": "NLTK PorterStemmer ORIGINAL_ALGORITHM", "version": "3.10.0",
+         "sha256": "", "status": "available",
+         "colab_install_note": "pip install nltk==3.10.0; no model download"},
         {"component": "Loughran-McDonald", "version": lm_metadata["dictionary_release"],
          "sha256": lm_metadata["sha256"], "status": "available_local_not_redistributed",
          "colab_install_note": "download from official Notre Dame page and verify SHA-256"},
@@ -555,7 +731,7 @@ def run(force=False):
             })
     write_csv(repro / "expected_outputs_inventory.csv", output_inventory,
               ["output_file", "actual_bytes", "sha256"])
-    print(f"processed=5 skipped=0 warning=5 failed=0 blocked_dependency_constructs=3 denominator_zero={len(denominator_zero)} elapsed={elapsed:.3f}s")
+    print(f"processed=5 skipped=0 warning=5 failed=0 blocked_dependency_constructs=2 denominator_zero={len(denominator_zero)} elapsed={elapsed:.3f}s")
     return summary[0]
 
 
@@ -564,7 +740,11 @@ if __name__ == "__main__":
     parser.add_argument("--retry-warning", action="store_true")
     parser.add_argument("--retry-failed", action="store_true")
     parser.add_argument("--retry-blocked-dictionary-measures", action="store_true")
+    parser.add_argument("--retry-blocked-concreteness", action="store_true")
     parser.add_argument("--force", action="store_true")
     arguments = parser.parse_args()
-    run(force=arguments.force or arguments.retry_warning or arguments.retry_failed
-        or arguments.retry_blocked_dictionary_measures)
+    run(force=(
+        arguments.force or arguments.retry_warning or arguments.retry_failed
+        or arguments.retry_blocked_dictionary_measures
+        or arguments.retry_blocked_concreteness
+    ))

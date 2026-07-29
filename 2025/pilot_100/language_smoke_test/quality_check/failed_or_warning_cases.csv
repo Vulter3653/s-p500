@@ -1,18 +1,18 @@
 company_id,ticker,case_status,construct,warning_reason,recommended_action
-P2025-077,NVDA,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-077,NVDA,warning,concreteness,ambiguous_porter_stems_excluded,review collision diagnostics; no score averaging applied
 P2025-077,NVDA,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-077,NVDA,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
-P2025-074,HPE,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-074,HPE,warning,concreteness,ambiguous_porter_stems_excluded,review collision diagnostics; no score averaging applied
 P2025-074,HPE,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-074,HPE,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-051,TECH,warning,AI disclosure,zero_ai_related_sentences,retain row and review dictionary coverage
-P2025-051,TECH,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-051,TECH,warning,concreteness,zero_ai_concreteness_denominator,retain missing AI-level result and report-level result
 P2025-051,TECH,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-051,TECH,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
-P2025-047,WAT,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-047,WAT,warning,concreteness,ambiguous_porter_stems_excluded,review collision diagnostics; no score averaging applied
 P2025-047,WAT,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-047,WAT,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-054,NSC,warning,AI disclosure,single_ai_related_sentence,manual review
-P2025-054,NSC,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-054,NSC,warning,concreteness,ambiguous_porter_stems_excluded,review collision diagnostics; no score averaging applied
 P2025-054,NSC,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
 P2025-054,NSC,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion

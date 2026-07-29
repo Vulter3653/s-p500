@@ -1,4 +1,6 @@
 execution_order,script,purpose,seed
 1,scripts/select_language_smoke_test_companies.py,select five companies,20250729
-2,scripts/run_language_smoke_test.py,measure AI/report LM variables and preserve other blocked dependencies,20250729
-3,scripts/check_language_smoke_test_quality.py,validate outputs,20250729
+2,scripts/load_brysbaert_concreteness_dictionary.py --validate-only,validate official aggregated concreteness dictionary,
+3,scripts/load_smart_stopwords.py --validate-only,validate tidytext SMART subset,
+4,scripts/run_language_smoke_test.py --retry-blocked-concreteness,measure AI/report textual concreteness,20250729
+5,scripts/check_language_smoke_test_quality.py,validate outputs,20250729

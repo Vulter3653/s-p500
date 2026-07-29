@@ -5,3 +5,7 @@ references/dictionaries/loughran_mcdonald_master_dictionary/original_source_file
 references/dictionaries/loughran_mcdonald_master_dictionary/analysis_ready_dictionary/*
 !references/dictionaries/loughran_mcdonald_master_dictionary/original_source_files/.gitkeep
 !references/dictionaries/loughran_mcdonald_master_dictionary/analysis_ready_dictionary/.gitkeep
+references/dictionaries/brysbaert_concreteness/original_source_files/*
+references/dictionaries/brysbaert_concreteness/analysis_ready_dictionary/*
+!references/dictionaries/brysbaert_concreteness/original_source_files/.gitkeep
+!references/dictionaries/brysbaert_concreteness/analysis_ready_dictionary/.gitkeep
