@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+- Added: Ubuntu R 4.3.3 환경과 CRAN archive의 SnowballC 0.7.0을 프로젝트 전용 library에 고정하는 설치·검증 스크립트를 추가했다. (codex)
+- Docs: SnowballC archive SHA-256, R session 정보, 설치 경로 및 재현 명령을 기록했으며 기존 구체성 측정은 변경하지 않았다. (codex)
+
 ## [0.12.0] - 2026-07-29
 
 - Added: Springer 공식 Brysbaert et al. (2014) 집계 XLSX와 CRAN tidytext 0.3.1 SMART 자료의 SHA·구조·점수 범위를 검증하는 loader를 추가했다. (codex)

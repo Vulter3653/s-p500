@@ -1,0 +1,2 @@
+filename,source_url,file_size_bytes,sha256,git_inclusion_status
+SnowballC_0.7.0.tar.gz,https://cran.r-project.org/src/contrib/Archive/SnowballC/SnowballC_0.7.0.tar.gz,405463,b10fee9d322f567a22c580b49b5d4ba1c86eae40a71794ca92552c726b3895f3,excluded_project_library

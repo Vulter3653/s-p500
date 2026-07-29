@@ -2,6 +2,13 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - R 및 SnowballC 0.7.0 환경 고정
+
+- 환경: Ubuntu package manager로 R 4.3.3과 개발 도구를 설치하고 CRAN archive의 SnowballC 0.7.0을 프로젝트 전용 library에 source build했다. (codex)
+- 무결성: SnowballC archive 405,463바이트와 SHA-256 `b10fee9d322f567a22c580b49b5d4ba1c86eae40a71794ca92552c726b3895f3`를 기록했다. (codex)
+- 검증: packageVersion 0.7.0과 6개 단어의 wordStem 실행·길이·NA·빈 출력 조건을 확인했다. (codex)
+- 범위: NLTK 비교, 전체 Brysbaert stem 비교, 5개 기업 재측정 및 기존 PARTIAL 판정 변경은 수행하지 않았다. (codex)
+
 ## 2026-07-29 - Brysbaert textual concreteness 5개 기업 측정
 
 - 출처: Springer 공식 supplementary XLSX 39,954행(37,058 single, 2,896 bigram), 8열, 점수 1.04–5.00, SHA-256 `1673ead761e28833a40e82c0d20f10782955ced9366d600eafeefee0f2254545`를 검증했다. (codex)

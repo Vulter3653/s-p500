@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - R runtime 부재와 SnowballC 버전 고정
+
+- 문제 요약: 구체성 단계에서 R runtime이 없어 SnowballC 0.7.0을 직접 실행할 수 없었다. (codex)
+- 원인: Codespaces 기본 환경에 `R`과 `Rscript` 실행 파일이 설치되어 있지 않았다. (codex)
+- 조치: Ubuntu `r-base`·`r-base-dev`를 설치하고 CRAN archive의 정확한 SnowballC 0.7.0을 Git 제외된 프로젝트 library에 source build했다. (codex)
+- 검증: R 4.3.3, packageVersion 0.7.0, package 경로 및 wordStem의 6개 입력·6개 비결측 출력 조건을 확인했다. 기존 구체성 산출물은 재생성하지 않았다. (codex)
+- 상태: 환경 고정은 해결됨. NLTK와의 직접 stem 비교는 후속 범위로 남는다. (codex)
+
 ## 2026-07-29 - Baek Appendix A와 공식 source metadata 차이
 
 - 문제 요약: Baek et al. Appendix A는 SMART stopword 1,149개라고 기술하지만 tidytext 0.3.1의 공식 문서는 1,149가 세 lexicon 전체 행 수라고 설명한다. 공식 RDA의 SMART는 571행이며 `would` 중복을 제거하면 570개다. 논문 예제의 `subject=3.13`도 공식 Brysbaert XLSX의 3.14와 다르다. (codex)

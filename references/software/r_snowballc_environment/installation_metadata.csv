@@ -1,0 +1,3 @@
+component,version,source,installation_method,installation_date_utc,platform,architecture,install_path,validation_status,note
+R,4.3.3,Ubuntu 24.04 package repository,apt-get install r-base r-base-dev,2026-07-29,x86_64-pc-linux-gnu,x86_64,system package path,PASS,Ubuntu binary package
+SnowballC,0.7.0,CRAN archive,source installation with install.packages,2026-07-29,x86_64-pc-linux-gnu,x86_64,references/software/r_library/snowballc_0_7_0,PASS,Exact package version and wordStem availability verified

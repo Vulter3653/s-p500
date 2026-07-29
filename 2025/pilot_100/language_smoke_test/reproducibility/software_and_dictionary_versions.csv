@@ -6,3 +6,5 @@ tidytext SMART stopwords,0.3.1,220f9e4fde204eb4d4a216f4b5024633b61e41555809f95d9
 NLTK PorterStemmer ORIGINAL_ALGORITHM,3.10.0,,available,pip install nltk==3.10.0; no model download
 Loughran-McDonald,1993-2025,e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d,available_local_not_redistributed,download from official Notre Dame page and verify SHA-256
 dependency parser,,,blocked_model_missing,pin package and English model
+R,4.3.3,,available_system_package,Ubuntu apt r-base and r-base-dev
+SnowballC,0.7.0,b10fee9d322f567a22c580b49b5d4ba1c86eae40a71794ca92552c726b3895f3,available_pinned_project_library,Rscript scripts/install_snowballc_0_7_0.R
