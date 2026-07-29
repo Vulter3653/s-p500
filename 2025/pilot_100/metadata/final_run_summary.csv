@@ -1,0 +1,10 @@
+run_id,run_purpose,used_for_final_outputs,notes,started_at,ended_at,log_start_line,log_end_line,request_log_rows,unique_urls,http_200,connection_errors,retry_events,cache_hits
+replacement-20260729,apply approved deterministic TXT-to-ITW replacement,True,"offline application from preserved sample, proposal, and metadata; request log unchanged at 769 rows",,,,,,,,,,
+manual-review-20260729,resolve FOX/GE/TXT and evaluate deterministic TXT replacement,True,replacement attempts=1; prior request log preserved unchanged,2026-07-29T10:32:22.254203+00:00,2026-07-29T10:32:22.380672+00:00,765.0,769.0,5.0,5.0,5.0,0.0,0.0,5.0
+prior-runs-aggregate,"smoke, interrupted collection, cache regeneration, and final metadata validation",True,aggregate only; immutable JSONL retains row-level evidence and final metadata was cache-regenerated,2026-07-29T10:19:27.773205+00:00,2026-07-29T10:31:37.604705+00:00,1.0,764.0,764.0,302.0,754.0,10.0,8.0,452.0
+pre-review-input-audit,baseline SHA-256 and row count,True,2025/pilot_100/sample/pilot_sample_100.csv; rows=100; sha256=a189723269ee62c38c30a6295edba6c0dbad26812f7e5ad9468ec5b83e418943,,,,,,,,,,
+pre-review-input-audit,baseline SHA-256 and row count,True,2025/pilot_100/sample/pilot_sampling_frame.csv; rows=487; sha256=30b878fd0e7b0ca8b77ef044f99905c4cb2328b30b7258aaeae4989028f98508,,,,,,,,,,
+pre-review-input-audit,baseline SHA-256 and row count,True,2025/pilot_100/metadata/sec_company_metadata_index.csv; rows=100; sha256=95e193e9deff98486711fb452ba09ffb07202f4d19600905ab9b456ff357fc20,,,,,,,,,,
+pre-review-input-audit,baseline SHA-256 and row count,True,2025/pilot_100/metadata/filings_manifest.csv; rows=100; sha256=207bfa3cde58ad304b195518d40efb59f66dfc6a2864654eebc5d3ec40ed936a,,,,,,,,,,
+pre-review-input-audit,baseline SHA-256 and row count,True,2025/pilot_100/metadata/manual_review.csv; rows=3; sha256=f9cfe206bda03a59d20902b6e2dfda795d188dac1de53c24f197ebaf98ba654f,,,,,,,,,,
+pre-review-input-audit,baseline SHA-256 and row count,True,2025/pilot_100/metadata/metadata_collection_summary.csv; rows=1; sha256=abef8e239a83d0950fc8bd148ebd0c9d2b97d8da6a97d97ccfe42be2c8ef1ea1,,,,,,,,,,

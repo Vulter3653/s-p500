@@ -2,6 +2,42 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 교체 스크립트 반복 실행 상태 검증
+
+- 문제 요약: 최초 교체 적용 후 같은 명령을 다시 실행하면 TXT manifest가 이미 `excluded_after_filing_validation` 상태여서 초기 `no_eligible_2025_10k` 전제 검사가 실패했다. (codex)
+- 원인: 입력 audit 상태가 첫 실행 결과로 정상 전환되는 점과 기존 생성 ITW 행을 고려하지 않아 반복 실행 가능성이 부족했다. (codex)
+- 조치: 두 TXT audit 상태를 모두 엄격한 accession 결측 조건과 함께 허용하고, 생성된 ITW·review·summary·exclusion 행을 ID로 제거한 뒤 재생성하도록 했다. (codex)
+- 검증: 교체 스크립트를 연속 두 번 실행해 두 실행 모두 최종 100개, eligible 100개, 고유 CIK·accession 100개 및 Industrials 16개를 출력했고 unit test 13개가 통과했다. (codex)
+- 상태: 해결됨. 네트워크 integration은 코드 변경에 필요하지 않아 재실행하지 않았다. (codex)
+
+## 2026-07-29 - TXT 2025 reportDate 10-K 부재 조사
+
+- 문제 요약: TXT에는 정확한 Form 10-K가 있지만 reportDate 2025 조건을 충족하는 filing이 없었다. (codex)
+- 확인: SEC recent와 historical fragment 전체를 확인했으며 2025-02-06 filing은 reportDate 2024-12-28, 2026-02-11 filing은 reportDate 2026-01-03이다. fiscal year end metadata는 `0102`다. (codex)
+- 결론: filingDate 기준으로 대체하지 않고 `no_eligible_2025_10k`를 유지한다. 결정론적 Industrials 예비 1순위 ITW를 교체 후보로만 제안했다. (codex)
+- 상태: 원인 확인 및 교체 근거 생성 완료. 실제 교체는 사용자 결정 대기 중이다. (codex)
+
+## 2026-07-29 - historical submissions 과다 순회 및 일시적 연결 오류
+
+- 문제 요약: 최초 전체 실행이 오래된 historical fragment를 모두 순회하여 시간 한도에 도달했고, 중첩 실행 중 2개 기업에서 일시적 `URLError`가 기록됐다. (codex)
+- 원인: fragment의 `filingFrom`·`filingTo` 범위를 적용하지 않은 과도한 조회와 일시적 네트워크 연결 실패였다. (codex)
+- 조치: 2025-01-01부터 cutoff 2026-07-29와 겹치는 fragment만 조회하고 URL cache를 사용해 전체 산출물을 재생성했다. 기존 요청 로그는 감사 목적으로 보존했다. (codex)
+- 검증: 최종 100개 metadata 응답 성공, 99개 eligible, 1개 no eligible, accession 중복 0 및 eligible primary document 결측 0을 확인했다. (codex)
+- 상태: 수집 오류는 해결됨. manual review 3건은 후속 판단 대상으로 남았다. (codex)
+
+## 2026-07-29 - integration smoke test import 경로
+
+- 문제 요약: `python tests/integration_sec_smoke.py` 실행 시 저장소 루트가 모듈 경로에 없어 `scripts` import가 실패했다. (codex)
+- 조치: 테스트가 계산한 저장소 루트를 `sys.path`에 명시적으로 추가했다. (codex)
+- 상태: 수정 후 2개 기업 smoke test를 다시 실행하여 확인한다. (codex)
+
+## 2026-07-29 - SEC User-Agent 미설정
+
+- 문제 요약: SEC submissions와 Archives 수집에 필요한 `SEC_USER_AGENT` 환경변수가 설정되지 않았다. (codex)
+- 관찰 결과: 사전 점검에서 `SEC_USER_AGENT_SET=no`를 확인했다. (codex)
+- 조치: SEC 네트워크 요청을 수행하지 않고 비네트워크 표본 추출과 unit test까지만 완료했다. (codex)
+- 상태: 미해결. 식별 가능한 실제 연구자 User-Agent 설정 후 integration 수집을 재개해야 한다. (codex)
+
 ## 2026-07-24 - 구조 설명 및 데이터 검증 공백 점검
 
 - 문제 요약: 루트 README가 연도별 폴더만 설명해 전체 경로와 파일별 역할을 한눈에 확인하기 어려웠고, 기존 검증은 schema·key·원본 hash 손상을 탐지하지 못했다. (codex)

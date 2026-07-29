@@ -1,0 +1,5 @@
+pilot_id,cik,symbol,security,review_reason,status,manual_review_status,identity_status,analysis_included
+P2025-001,0001754301,FOXA|FOX,Fox Corporation (Class A)|Fox Corporation (Class B),entity_name_materially_different,resolved,resolved,verified_by_cik_and_ticker,1
+P2025-059,0000217346,TXT,Textron,no_eligible_2025_10k,resolved,resolved,verified_by_cik_and_ticker,0
+P2025-064,0000040545,GE,GE Aerospace,entity_name_materially_different,resolved,resolved,verified_by_cik_and_ticker,1
+P2025-R001,0000049826,ITW,Illinois Tool Works,replacement_identity_and_filing_validation,resolved,resolved,verified_by_cik_and_ticker,1
