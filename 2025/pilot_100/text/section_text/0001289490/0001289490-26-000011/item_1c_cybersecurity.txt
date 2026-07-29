@@ -1,0 +1,41 @@
+Item 1C. Cybersecurity
+
+We have a cybersecurity risk management program intended to protect the confidentiality, integrity, and availability of our critical systems and information. Our cybersecurity risk management program is integrated into our overall risk
+
+management program and shares common methodologies, reporting channels and governance processes that apply across the risk management program to other legal, compliance, strategic, operational, and financial risk areas.
+
+Cybersecurity Risk Identification and Management
+
+We design and assess our program based on the Center for Internet Security Critical Security Controls Version 8 (CIS V8). This does not imply that we meet any particular technical standards, specifications, or requirements, only that we use the CIS V8 controls as a guide to help us identify, assess, and manage cybersecurity risks relevant to our business.
+
+Key elements of our cybersecurity risk management program include but are not limited to the following:
+
+• third party risk assessments designed to help identify material cybersecurity risks to our critical systems and information;
+
+• a security team principally responsible for managing (1) our cybersecurity risk assessment processes, (2) our security controls, and (3) our response to cybersecurity incidents;
+
+• the use of external service providers, where appropriate, to assess, test or otherwise assist with aspects of our security controls;
+
+• end-user testing to assess the effectiveness of our security measures;
+
+• cybersecurity awareness training of our employees, including incident response personnel and senior management, such as mandatory computer-based training, phishing awareness campaigns, and internal communications;
+
+• an Incident Response Plan (“IRP”) that includes procedures designed for identifying, analyzing, containing, remedying and otherwise responding to cybersecurity incidents;
+
+• testing of our incident response readiness through Disaster Recovery and Business Continuity Plan exercises; and
+
+• a third-party risk management process for key service providers based on our assessment of their criticality to our operations and respective risk profile.
+
+We have not identified risks from known cybersecurity threats, including as a result of any prior cybersecurity incidents, that have materially affected or are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition. We face risks from cybersecurity threats that, if realized, are reasonably likely to materially affect us, including our operations, business strategy, results of operations, or financial condition.For more information, see the section titled “Risk Factors–Risks Related to Our Stores and Operations–We and our vendors rely on information technology, and any material failure, inadequacy, interruption or security incident affecting that technology could harm our business, results of operations and financial condition.”
+
+Our management team, including our Senior Vice President of Technology and Vice President of Information Security and Compliance, is responsible for assessing and managing our material risks from cybersecurity threats. The team has primary responsibility for our overall cybersecurity risk management program and supervises both our internal cybersecurity personnel and our retained external cybersecurity consultants. Our management team overseeing cybersecurity has technology and cybersecurity experience, and certain of our team hold various cybersecurity certifications, including the Certified Information Systems Security Professional (CISSP) certification. Our Senior Vice President of Technology has over 20 years of experience as a technology leader, has led large-scale digital transformations, and has deployed industry-leading systems and strategies to improve reliability. Our Vice President of Information Security and Compliance has been in the information technology field for over 30 years, led our IT operations for 18 years, and has been solely dedicated to our cybersecurity efforts for the last nine years.
+
+Our management team supervises efforts to prevent, detect, mitigate, and remediate cybersecurity risks and incidents through various means, which may include briefings from internal security personnel; threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us; and alerts and reports produced by security tools deployed in the IT environment. We leverage AI-enabled security tools to assist in identifying anomalous activity, to enhance threat detection, and in our incident response processes. We also consider risks associated with AI initiatives within our cybersecurity risk management program and apply appropriate controls to help protect AI related systems and information.
+
+Board Oversight of Cybersecurity
+
+Our Board considers cybersecurity risk as part of its risk oversight function and oversees management’s implementation of our cybersecurity risk management program. In addition, management updates the Board, where it deems appropriate, regarding any cybersecurity incidents it considers to be significant, or potentially significant.
+
+The Board receives briefings from management on our cyber risk management program on a quarterly basis. Board members receive presentations on cybersecurity topics from our Senior Vice President of Technology as well as our Vice President of Information Security and Compliance , internal security staff or external experts as part of the Board’s continuing education on topics that impact public companies. The Audit Committee oversees required disclosures in the event of a cybersecurity incident.
+
+Our management team takes steps to stay informed about and monitor efforts to prevent, detect, mitigate, and remediate cybersecurity risks and incidents through various means, which may include briefings from internal security personnel; threat intelligence and other information obtained from governmental, public or private sources, including external consultants engaged by us; and alerts and reports produced by security tools deployed in our IT environment.

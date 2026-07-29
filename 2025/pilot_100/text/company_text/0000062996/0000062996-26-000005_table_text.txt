@@ -1,0 +1,319 @@
+[TABLE 001]
+Delaware 38-1794485 (State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) 17450 College Parkway, Livonia, Michigan 48152 (Address of Principal Executive Offices) (Zip Code)
+[END TABLE 001]
+
+[TABLE 002]
+Title of Each Class Trading Symbol Name of Each Exchange On Which Registered Common Stock, $1.00 par value MAS New York Stock Exchange
+[END TABLE 002]
+
+[TABLE 003]
+Large accelerated filer ☑ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 003]
+
+[TABLE 004]
+Item Page PART I 1. Business 2 1A. Risk Factors 5 1B. Unresolved Staff Comments 14 1C. Cybersecurity 14 2. Properties 16 3. Legal Proceedings 16 4. Mine Safety Disclosures 16 PART II 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 17 6. [Reserved] 18 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 19 7A. Quantitative and Qualitative Disclosures About Market Risk 30 8. Financial Statements and Supplementary Data 31 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 70 9A. Controls and Procedures 70 9B. Other Information 70 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 70 PART III 10. Directors, Executive Officers and Corporate Governance 71 11. Executive Compensation 71 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 71 13. Certain Relationships and Related Transactions, and Director Independence 71 14. Principal Accountant Fees and Services 71 PART IV 15. Exhibits and Financial Statement Schedules 72 16. Form 10-K Summary 76 Signatures 77
+[END TABLE 004]
+
+[TABLE 005]
+Business Segment Manufacturing Warehouse and Distribution Plumbing Products 23 9 Decorative Architectural Products 9 14 Totals 32 23
+[END TABLE 005]
+
+[TABLE 006]
+Business Segment Manufacturing Warehouse and Distribution Plumbing Products 12 16 Decorative Architectural Products — — Totals 12 16
+[END TABLE 006]
+
+[TABLE 007]
+Period Total Number Of Shares Purchased Average Price Paid Per Common Share Total Number Of Shares Purchased As Part Of Publicly Announced Plans or Programs Maximum Value Of Shares That May Yet Be Purchased Under The Plans Or Programs 10/1/25 - 10/31/25 736,647 $ 67.88 736,647 $ 492,313,057 11/1/25 - 11/30/25 1,482,705 $ 61.97 1,482,705 $ 400,427,327 12/1/25 - 12/31/25 1,170,694 $ 64.07 1,170,694 $ 325,415,751 Total for the quarter 3,390,046 $ 63.98 3,390,046 $ 325,415,751
+[END TABLE 007]
+
+[TABLE 008]
+2021 2022 2023 2024 2025 Masco $ 127.84 $ 84.96 $ 121.94 $ 132.11 $ 115.53 S&P 500 Index $ 126.89 $ 102.22 $ 126.99 $ 156.59 $ 182.25 S&P Industrials Index $ 119.40 $ 110.92 $ 128.71 $ 148.84 $ 175.19 S&P Consumer Durables & Apparel Index $ 120.94 $ 84.01 $ 98.15 $ 91.28 $ 82.73
+[END TABLE 008]
+
+[TABLE 009]
+Year Ended December 31, 2025 2024 Change Net sales, as reported $ 7,562 $ 7,828 (3) % Divestitures — (178) Net sales, excluding divestitures 7,562 7,650 (1) % Currency translation (45) — Net sales, excluding divestitures and the effect of currency translation $ 7,517 $ 7,650 (2) %
+[END TABLE 009]
+
+[TABLE 010]
+Year Ended December 31, 2025 2024 Change Net sales $ 7,562 $ 7,828 (3) % Cost of sales (4,883) (4,997) (2) % Gross profit $ 2,679 $ 2,831 (5) % Gross margin 35.4 % 36.2 % (80) bps Selling, general and administrative expenses $ (1,426) $ (1,468) (3) % Selling, general and administrative expenses of a percent of net sales (18.9) % (18.8) % (10) bps Impairment charge for other intangible assets $ (5) $ — 100 % Operating profit, as reported $ 1,248 $ 1,363 (8) % Rationalization charges 19 9 111 % Impairment charge for other intangible assets 5 — 100 % Operating profit, excluding rationalization charges and impairment charge $ 1,272 $ 1,372 (7) % Operating profit margin, as reported 16.5 % 17.4 % (90) bps Operating profit margin, excluding rationalization charges and impairment charge 16.8 % 17.5 % (70) bps
+[END TABLE 010]
+
+[TABLE 011]
+Year Ended December 31, 2025 2024 Favorable / (Unfavorable) Interest expense $ (101) $ (99) (2) % Other, net (12) (103) 88 % Other income (expense), net $ (114) $ (202) 44 %
+[END TABLE 011]
+
+[TABLE 012]
+Year Ended December 31, 2025 2024 Favorable / (Unfavorable) Income tax expense $ (277) $ (287) 3 % Effective tax rate (24.4) % (24.7) % 30 bps
+[END TABLE 012]
+
+[TABLE 013]
+Year Ended December 31, 2025 2024 Favorable / (Unfavorable) Net income $ 810 $ 822 (1) % Diluted income per common share $ 3.86 $ 3.76 3 %
+[END TABLE 013]
+
+[TABLE 014]
+Year Ended December 31, Percent Change 2025 2024 2025 vs. 2024 Net Sales: Plumbing Products $ 4,992 $ 4,853 3 % Decorative Architectural Products 2,570 2,975 (14) % Total $ 7,562 $ 7,828 (3) %
+[END TABLE 014]
+
+[TABLE 015]
+Year Ended December 31, Percent Change 2025 2024 2025 vs. 2024 Operating Profit: Plumbing Products $ 895 $ 911 (2) % Decorative Architectural Products 443 549 (19) % Total $ 1,338 $ 1,460 (8) % General corporate expense, net (89) (97) (8) % Total operating profit $ 1,248 $ 1,363 (8) %
+[END TABLE 015]
+
+[TABLE 016]
+2025 2024 Net cash from operating activities $ 1,022 $ 1,075 Purchase of Company common stock (571) (751) Excise tax paid on the purchase of Company common stock (6) (3) Cash dividends paid (261) (254) Purchase of redeemable noncontrolling interest — (15) Dividends paid to noncontrolling interest (45) (37) Proceeds from the exercise of stock options 6 79 Employee withholding taxes paid on stock-based compensation (10) (35) Payment of debt (2) (3) Capital expenditures (156) (168) Acquisition of business, net of cash acquired — (4) Proceeds from disposition of: Business, net of cash disposed — 126 Property and equipment 14 1 Effect of exchange rate changes on cash and cash investments 25 (9) Other, net (3) (5) Cash increase (decrease) $ 14 $ (1)
+[END TABLE 016]
+
+[TABLE 017]
+At December 31, 2025 2024 Receivable days 51 51 Inventory days 83 72 Accounts payable days 70 70 Working capital (receivables plus inventories, less accounts payable) as a percentage of net sales 16.7 % 15.1 %
+[END TABLE 017]
+
+[TABLE 018]
+Payments Due by Period 2026 2027-2028 2029-2030 Beyond 2030 Other Total Debt (A) $ 2 $ 904 $ 539 $ 1,503 $ — $ 2,949 Interest (A) 98 178 135 521 — 932 Operating leases 60 90 62 124 — 336 Currently payable income taxes 17 — — — — 17 Purchase commitments (B) 369 125 79 85 — 658 Uncertain tax positions, including interest and penalties (C) — — — — 84 84 Total $ 545 $ 1,298 $ 815 $ 2,233 $ 84 $ 4,975
+[END TABLE 018]
+
+[TABLE 019]
+2025 2024 ASSETS Current assets: Cash and cash investments $ 647 $ 634 Receivables 1,028 1,035 Inventories 1,046 938 Prepaid expenses and other 119 123 Total current assets 2,840 2,730 Property and equipment, net 1,195 1,116 Goodwill 623 597 Other intangible assets, net 205 220 Operating lease right-of-use assets 233 231 Other assets 105 123 Total assets $ 5,201 $ 5,016 LIABILITIES Current liabilities: Accounts payable $ 810 $ 789 Notes payable 2 3 Accrued liabilities 761 767 Total current liabilities 1,573 1,560 Long-term debt 2,945 2,945 Noncurrent operating lease liabilities 221 223 Other liabilities 387 342 Total liabilities $ 5,125 $ 5,069 Commitments and contingencies (Note R) EQUITY Masco Corporation's shareholders' equity: Common shares, par value $ 1 per share Authorized shares: 1,400,000,000 ; Issued and outstanding: 2025 – 204,300,000 ; 2024 – 212,500,000 204 212 Preferred shares authorized: 1,000,000 ; Issued and outstanding: 2025 and 2024 – None — — Paid-in capital — — Retained deficit ( 688 ) ( 693 ) Accumulated other comprehensive income 298 201 Total Masco Corporation's shareholders' deficit ( 185 ) ( 279 ) Noncontrolling interest 261 227 Total equity 76 ( 53 ) Total liabilities and equity $ 5,201 $ 5,016
+[END TABLE 019]
+
+[TABLE 020]
+2025 2024 2023 Net sales $ 7,562 $ 7,828 $ 7,967 Cost of sales 4,883 4,997 5,131 Gross profit 2,679 2,831 2,836 Selling, general and administrative expenses 1,426 1,468 1,473 Impairment charges for other intangible assets 5 — 15 Operating profit 1,248 1,363 1,348 Other income (expense), net: Interest expense ( 101 ) ( 99 ) ( 106 ) Other, net ( 12 ) ( 103 ) ( 4 ) ( 114 ) ( 202 ) ( 110 ) Income before income taxes 1,135 1,161 1,238 Income tax expense 277 287 278 Net income 858 874 960 Less: Net income attributable to noncontrolling interest 48 52 52 Net income attributable to Masco Corporation $ 810 $ 822 $ 908 Income per common share attributable to Masco Corporation: Basic: Net income $ 3.87 $ 3.77 $ 4.03 Diluted: Net income $ 3.86 $ 3.76 $ 4.02
+[END TABLE 020]
+
+[TABLE 021]
+2025 2024 2023 Net income $ 858 $ 874 $ 960 Less: Net income attributable to noncontrolling interest 48 52 52 Net income attributable to Masco Corporation $ 810 $ 822 $ 908 Other comprehensive income (loss), net of tax Currency translation adjustment $ 122 $ ( 68 ) $ 35 Pension and other post-retirement benefits 4 8 ( 8 ) Other comprehensive income (loss), net of tax 126 ( 60 ) 27 Less: Other comprehensive income (loss) attributable to noncontrolling interest: Currency translation adjustment $ 27 $ ( 14 ) $ 5 Pension and other post-retirement benefits 2 2 ( 2 ) 29 ( 12 ) 3 Other comprehensive income (loss) attributable to Masco Corporation $ 97 $ ( 48 ) $ 24 Total comprehensive income $ 984 $ 814 $ 987 Less: Total comprehensive income attributable to noncontrolling interest 76 40 55 Total comprehensive income attributable to Masco Corporation $ 908 $ 774 $ 932
+[END TABLE 021]
+
+[TABLE 022]
+2025 2024 2023 CASH FLOWS FROM (FOR) OPERATING ACTIVITIES: Net income $ 858 $ 874 $ 960 Depreciation and amortization 148 150 149 Deferred income taxes 64 28 ( 32 ) Employee withholding taxes paid on stock-based compensation 10 35 29 Loss on disposition of business, net — 80 — (Gain) loss on disposition of property and equipment ( 5 ) 3 6 Pension and other post-retirement benefits ( 8 ) ( 7 ) ( 6 ) Impairment charges for other intangible assets 5 — 15 Stock-based compensation 30 39 31 Decrease (increase) in receivables 19 ( 39 ) 42 (Increase) decrease in inventories ( 81 ) 4 233 Decrease in accounts payable and accrued liabilities, net ( 14 ) ( 95 ) ( 34 ) Other, net ( 4 ) 3 21 Net cash from operating activities 1,022 1,075 1,413 CASH FLOWS FROM (FOR) FINANCING ACTIVITIES: Purchase of Company common stock ( 571 ) ( 751 ) ( 353 ) Excise tax paid on the purchase of Company common stock ( 6 ) ( 3 ) — Cash dividends paid ( 261 ) ( 254 ) ( 257 ) Purchase of redeemable noncontrolling interest — ( 15 ) — Dividends paid to noncontrolling interest ( 45 ) ( 37 ) ( 49 ) Proceeds from short-term borrowings — — 77 Payment of short-term borrowings — — ( 77 ) Payment of term loan — — ( 200 ) Proceeds from the exercise of stock options 6 79 38 Employee withholding taxes paid on stock-based compensation ( 10 ) ( 35 ) ( 29 ) Payment of debt ( 2 ) ( 3 ) ( 5 ) Net cash for financing activities ( 888 ) ( 1,017 ) ( 854 ) CASH FLOWS FROM (FOR) INVESTING ACTIVITIES: Capital expenditures ( 156 ) ( 168 ) ( 243 ) Acquisition of businesses, net of cash acquired — ( 4 ) ( 136 ) Proceeds from disposition of: Business, net of cash disposed — 126 — Property and equipment 14 1 3 Other, net ( 3 ) ( 5 ) ( 7 ) Net cash for investing activities ( 144 ) ( 50 ) ( 383 ) Effect of exchange rate changes on cash and cash investments 25 ( 9 ) 6 CASH AND CASH INVESTMENTS: Increase (decrease) for the year 14 ( 1 ) 182 At January 1 634 634 452 At December 31 $ 647 $ 634 $ 634
+[END TABLE 022]
+
+[TABLE 023]
+Total Common Shares ($ 1 par value) Paid-In Capital Retained (Deficit) Earnings Accumulated Other Comprehensive Income (Loss) Noncontrolling Interest Balance, January 1, 2023 $ ( 262 ) $ 225 $ 16 $ ( 947 ) $ 226 $ 218 Total comprehensive income 987 — — 908 24 55 Shares issued 27 2 25 — — — Shares retired: Repurchased ( 356 ) ( 6 ) ( 67 ) ( 282 ) — — Surrendered (non-cash) ( 17 ) — — ( 17 ) — — Cash dividends declared ( 257 ) — — ( 257 ) — — Dividends declared to noncontrolling interest ( 49 ) — — — — ( 49 ) Stock-based compensation 26 — 26 — — — Balance, December 31, 2023 $ 98 $ 221 $ — $ ( 596 ) $ 249 $ 224 Total comprehensive income (loss) 814 — — 822 ( 48 ) 40 Shares issued 58 2 56 — — — Shares retired: Repurchased ( 757 ) ( 10 ) ( 95 ) ( 652 ) — — Surrendered (non-cash) ( 14 ) — — ( 13 ) — — Cash dividends declared ( 253 ) — — ( 253 ) — — Dividends declared to noncontrolling interest ( 37 ) — — — — ( 37 ) Redemption of redeemable noncontrolling interest 4 — 4 — — — Stock-based compensation 35 — 35 — — — Balance, December 31, 2024 $ ( 53 ) $ 212 $ — $ ( 693 ) $ 201 $ 227 Total comprehensive income 984 — — 810 97 76 Shares issued 5 — 4 — — — Shares retired: Repurchased ( 576 ) ( 9 ) ( 32 ) ( 536 ) — — Surrendered (non-cash) ( 8 ) — — ( 8 ) — — Cash dividends declared ( 260 ) — — ( 260 ) — — Dividends declared to noncontrolling interest ( 42 ) — — — — ( 42 ) Stock-based compensation 27 — 27 — — — Balance, December 31, 2025 $ 76 $ 204 $ — $ ( 688 ) $ 298 $ 261
+[END TABLE 023]
+
+[TABLE 024]
+Year Ended December 31, 2025 Plumbing Products Decorative Architectural Products Total Primary geographic areas: North America $ 3,380 $ 2,570 $ 5,950 International 1,612 — 1,612 Total $ 4,992 $ 2,570 $ 7,562
+[END TABLE 024]
+
+[TABLE 025]
+Year Ended December 31, 2024 Plumbing Products Decorative Architectural Products Total Primary geographic areas: North America $ 3,289 $ 2,975 $ 6,264 International 1,564 — 1,564 Total $ 4,853 $ 2,975 $ 7,828
+[END TABLE 025]
+
+[TABLE 026]
+Year Ended December 31, 2023 Plumbing Products Decorative Architectural Products Total Primary geographic areas: North America $ 3,259 $ 3,125 $ 6,384 International 1,583 — 1,583 Total $ 4,842 $ 3,125 $ 7,967
+[END TABLE 026]
+
+[TABLE 027]
+Year Ended December 31, 2025 2024 Balance at January 1 $ 10 $ 11 Provision for expected credit losses during the period 5 4 Write-offs charged against the allowance ( 7 ) ( 6 ) Recoveries of amounts previously written off 4 2 Balance at December 31 $ 12 $ 10
+[END TABLE 027]
+
+[TABLE 028]
+At December 31, 2025 2024 Finished goods $ 620 $ 541 Raw materials 322 300 Work in process 104 97 Total $ 1,046 $ 938
+[END TABLE 028]
+
+[TABLE 029]
+Year Ended December 31, 2025 2024 2023 Operating lease cost $ 63 $ 64 $ 61 Short-term lease cost 8 9 10 Variable lease cost 6 5 7 Finance lease cost: Amortization of ROU assets 2 3 3 Interest on lease liabilities — 1 1
+[END TABLE 029]
+
+[TABLE 030]
+Year Ended December 31, 2025 2024 2023 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows for operating leases $ 60 $ 54 $ 50 Operating cash flows for finance leases — 1 1 Financing cash flows for finance leases 2 3 3 ROU assets obtained in exchange for new lease obligations: Operating leases (A) 42 34 41
+[END TABLE 030]
+
+[TABLE 031]
+At December 31, 2025 2024 2023 Weighted-average remaining lease term: Operating leases 9 years 9 years 10 years Finance leases 6 years 7 years 8 years Weighted-average discount rate: Operating leases 5.3 % 5.2 % 5.2 % Finance leases 3.2 % 3.2 % 3.3 %
+[END TABLE 031]
+
+[TABLE 032]
+At December 31, 2025 2024 Operating Leases Finance Leases Operating Leases Finance Leases Property and equipment, net $ — $ 13 $ — $ 16 Notes payable — 2 — 3 Accrued liabilities 47 — 43 — Long-term debt — 12 — 14
+[END TABLE 032]
+
+[TABLE 033]
+Operating Leases Finance Leases Year ending December 31, 2026 $ 60 $ 2 2027 50 2 2028 41 2 2029 34 2 2030 28 3 Thereafter 124 4 Total lease payments 336 16 Less: imputed interest ( 68 ) ( 2 ) Total $ 268 $ 14
+[END TABLE 033]
+
+[TABLE 034]
+At December 31, 2025 2024 Land and improvements $ 99 $ 94 Buildings 667 626 Computer hardware and software 316 271 Machinery and equipment 1,546 1,435 2,628 2,426 Less: Accumulated depreciation ( 1,433 ) ( 1,310 ) Total $ 1,195 $ 1,116
+[END TABLE 034]
+
+[TABLE 035]
+Gross Goodwill At December 31, 2025 Accumulated Impairment Losses Net Goodwill At December 31, 2025 Plumbing Products $ 694 $ ( 301 ) $ 393 Decorative Architectural Products 305 ( 75 ) 230 Total $ 999 $ ( 376 ) $ 623
+[END TABLE 035]
+
+[TABLE 036]
+Gross Goodwill At December 31, 2024 Accumulated Impairment Losses Net Goodwill At December 31, 2024 Acquisitions Foreign Currency Translation Net Goodwill At December 31, 2025 Plumbing Products $ 667 $ ( 301 ) $ 367 $ — $ 26 $ 393 Decorative Architectural Products (A) 305 ( 75 ) 230 — — 230 Total $ 973 $ ( 376 ) $ 597 $ — $ 26 $ 623
+[END TABLE 036]
+
+[TABLE 037]
+Gross Goodwill At December 31, 2023 Accumulated Impairment Losses Net Goodwill At December 31, 2023 Acquisitions (B) Foreign Currency Translation Net Goodwill At December 31, 2024 Plumbing Products $ 677 $ ( 301 ) $ 377 $ 2 $ ( 12 ) $ 367 Decorative Architectural Products 366 ( 139 ) 227 4 — 230 Total $ 1,043 $ ( 440 ) $ 604 $ 6 $ ( 12 ) $ 597
+[END TABLE 037]
+
+[TABLE 038]
+Year Ended December 31, 2025 2024 Confirmed obligations outstanding at January 1 $ 36 $ 53 Invoices confirmed 155 214 Confirmed invoices paid ( 166 ) ( 229 ) Other (including currency translation and divestitures) 1 ( 2 ) Confirmed obligations outstanding at December 31 $ 26 $ 36
+[END TABLE 038]
+
+[TABLE 039]
+At December 31, 2025 2024 Advertising and sales promotion $ 234 $ 235 Salaries, wages and commissions 154 165 Deferred revenue 57 45 Employee retirement plans 48 56 Operating lease liabilities (Note F) 47 43 Warranty (Note R) 41 41 Interest 29 29 Product returns 24 23 Insurance reserves 21 22 Property, payroll and other taxes 19 22 Income taxes payable 17 28 Other 70 58 Total $ 761 $ 767
+[END TABLE 039]
+
+[TABLE 040]
+At December 31, 2025 2024 Notes and debentures: 3.500 %, due November 15, 2027 $ 300 $ 300 1.500 %, due February 15, 2028 600 600 7.750 %, due August 1, 2029 235 235 2.000 %, due October 1, 2030 300 300 2.000 %, due February 15, 2031 598 597 6.500 %, due August 15, 2032 200 200 4.500 %, due May 15, 2047 414 415 3.125 %, due February 15, 2051 300 300 Other 14 17 Prepaid debt issuance costs ( 13 ) ( 15 ) 2,947 2,948 Less: Current portion 2 3 Total long-term debt $ 2,945 $ 2,945
+[END TABLE 040]
+
+[TABLE 041]
+Year Ended December 31, 2025 2024 2023 Restricted stock units $ 21 $ 26 $ 15 Performance restricted stock units 3 5 3 Stock options 3 4 5 Phantom stock awards and stock appreciation rights 3 4 5 Long-term stock awards — — 3 Total $ 30 $ 39 $ 31
+[END TABLE 041]
+
+[TABLE 042]
+Year Ended December 31, 2025 2024 2023 Number of Shares Weighted Average Grant Date Fair Value Number of Shares Weighted Average Grant Date Fair Value Number of Shares Weighted Average Grant Date Fair Value Unvested restricted stock units at January 1 738 $ 66 796 $ 57 1,154 $ 57 Granted 347 75 466 73 205 56 Vested ( 372 ) 63 ( 455 ) 57 ( 532 ) 55 Forfeited ( 53 ) 74 ( 68 ) 68 ( 32 ) 58 Unvested restricted stock units at December 31 661 $ 72 738 $ 66 796 $ 57
+[END TABLE 042]
+
+[TABLE 043]
+Year Ended December 31, 2025 2024 2023 Number of Shares Weighted Average Exercise Price Number of Shares Weighted Average Exercise Price Number of Shares Weighted Average Exercise Price Outstanding stock options at January 1 1,048 $ 56 2,254 $ 45 2,988 $ 39 Granted 256 75 201 73 228 57 Exercised ( 115 ) 42 ( 1,397 ) 41 ( 940 ) 29 Forfeited ( 90 ) 77 ( 10 ) 57 ( 22 ) 36 Outstanding stock options at December 31 1,099 $ 60 1,048 $ 56 2,254 $ 45
+[END TABLE 043]
+
+[TABLE 044]
+Year Ended December 31, 2025 2024 2023 Vested and Expected to Vest Stock Options Exercisable (Vested) Stock Options Vested and Expected to Vest Stock Options Exercisable (Vested) Stock Options Vested and Expected to Vest Stock Options Exercisable (Vested) Stock Options Number of shares 1,068 726 1,040 592 2,248 1,621 Weighted average exercise price $ 60 $ 55 $ 56 $ 49 $ 45 $ 42 Aggregate intrinsic value $ 7 million $ 7 million $ 18 million $ 14 million $ 48 million $ 41 million Weighted-average remaining term 6 years 5 years 7 years 5 years 6 years 5 years
+[END TABLE 044]
+
+[TABLE 045]
+Year Ended December 31, 2025 2024 2023 Weighted average grant date fair value $ 23.98 $ 23.71 $ 16.91 Risk-free interest rate 4.51 % 4.38 % 3.95 % Dividend yield 1.66 % 1.59 % 2.02 % Volatility factor 30.42 % 31.00 % 31.00 % Expected option life 6 years 6 years 6 years
+[END TABLE 045]
+
+[TABLE 046]
+At December 31, 2025 2024 Accrued compensation cost liability $ 4 $ 5 Unrecognized compensation cost $ 1 $ 2 Equivalent common shares 85 96
+[END TABLE 046]
+
+[TABLE 047]
+Year Ended December 31, 2025 2024 2023 Defined-contribution plans $ 49 $ 60 $ 68 Defined-benefit pension plans 8 9 9 $ 58 $ 69 $ 78
+[END TABLE 047]
+
+[TABLE 048]
+At Year Ended December 31, 2025 2024 Qualified Non-Qualified Qualified Non-Qualified Changes in projected benefit obligation: Projected benefit obligation at January 1 $ 125 $ 101 $ 136 $ 108 Service cost 2 — 2 — Interest cost 5 5 4 5 Actuarial (gain) loss, net ( 17 ) 5 ( 4 ) ( 1 ) Foreign currency exchange 16 — ( 8 ) — Benefit payments ( 5 ) ( 12 ) ( 4 ) ( 12 ) Projected benefit obligation at December 31 $ 126 $ 100 $ 125 $ 101 Changes in fair value of plan assets: Fair value of plan assets at January 1 $ 92 $ — $ 90 $ — Actual return on plan assets ( 3 ) — 8 — Foreign currency exchange 12 — ( 5 ) — Company contributions 5 12 4 12 Benefit payments ( 5 ) ( 12 ) ( 4 ) ( 12 ) Fair value of plan assets at December 31 $ 101 $ — $ 92 $ — Funded status at December 31 $ ( 25 ) $ ( 100 ) $ ( 33 ) $ ( 101 )
+[END TABLE 048]
+
+[TABLE 049]
+At December 31, 2025 2024 Qualified Non-Qualified Qualified Non-Qualified Other assets $ 2 $ — $ 1 $ — Accrued liabilities — ( 11 ) — ( 11 ) Other liabilities ( 27 ) ( 88 ) ( 35 ) ( 89 ) Total net liability $ ( 25 ) $ ( 100 ) $ ( 33 ) $ ( 101 )
+[END TABLE 049]
+
+[TABLE 050]
+At December 31, 2025 2024 Qualified Non-Qualified Qualified Non-Qualified Net loss $ 8 $ 28 $ 17 $ 24 Net prior service cost 1 — 1 — Total $ 9 $ 28 $ 19 $ 24
+[END TABLE 050]
+
+[TABLE 051]
+At December 31, 2025 2024 Qualified Non-Qualified Qualified Non-Qualified Projected benefit obligation $ 124 $ 100 $ 123 $ 101 Accumulated benefit obligation 124 100 123 101 Fair value of plan assets 97 — 88 —
+[END TABLE 051]
+
+[TABLE 052]
+Year Ended December 31, 2025 2024 2023 Qualified Non-Qualified Qualified Non-Qualified Qualified Non-Qualified Service cost $ 2 $ — $ 2 $ — $ 2 $ — Interest cost 5 5 4 5 4 6 Expected return on plan assets ( 5 ) — ( 5 ) — ( 4 ) — Recognized net loss — 1 1 1 — 1 Net periodic pension cost $ 2 $ 6 $ 2 $ 6 $ 3 $ 7
+[END TABLE 052]
+
+[TABLE 053]
+At December 31, 2025 2024 Equity securities 33 % 32 % Debt securities 35 % 31 % Other 33 % 38 % Total 100 % 100 %
+[END TABLE 053]
+
+[TABLE 054]
+At December 31, 2025 Level 1 Level 2 Level 3 Total Plan Assets Common and preferred stocks: United States $ 21 $ — $ — $ 21 International 12 — — 12 Corporate, government and other debt securities: United States — 6 — 6 International — 28 — 28 Real estate: International — — 13 13 Buy-in annuity: International — 3 — 3 Short-term and other investments: International 4 14 — 18 Total plan assets $ 37 $ 52 $ 13 $ 101
+[END TABLE 054]
+
+[TABLE 055]
+At December 31, 2024 Level 1 Level 2 Level 3 Total Plan Assets Common and preferred stocks: United States $ 18 $ — $ — $ 18 International 11 — — 11 Corporate, government and other debt securities: United States — 6 — 6 International — 22 — 22 Real estate: International — — 11 11 Buy-in annuity: International — 2 — 2 Short-term and other investments: International 3 18 — 21 Total plan assets $ 33 $ 48 $ 11 $ 92
+[END TABLE 055]
+
+[TABLE 056]
+Year Ended December 31, 2025 2024 Fair value, January 1 $ 11 $ 12 Currency translation 2 ( 1 ) Fair value, December 31 $ 13 $ 11
+[END TABLE 056]
+
+[TABLE 057]
+At December 31, 2025 2024 2023 Discount rate for obligations 4.60 % 4.30 % 4.00 % Expected return on plan assets 5.00 % 4.80 % 5.50 % Rate of compensation increase — % — % — % Discount rate for net periodic pension cost 4.30 % 4.00 % 4.50 %
+[END TABLE 057]
+
+[TABLE 058]
+Qualified Plans Non-Qualified Plans 2026 $ 8 $ 11 2027 6 11 2028 6 11 2029 6 10 2030 7 10 2031 - 2035 36 40
+[END TABLE 058]
+
+[TABLE 059]
+At December 31, 2025 2024 Currency translation adjustments, net $ 332 $ 237 Unrecognized net loss and prior service cost, net ( 34 ) ( 36 ) Accumulated other comprehensive income $ 298 $ 201
+[END TABLE 059]
+
+[TABLE 060]
+Year Ended December 31, 2025 Plumbing Products Decorative Architectural Products Total Net sales (A) (B) (C) $ 4,992 $ 2,570 $ 7,562 Operating expenses (D) 4,059 2,099 Impairment charges for other intangible assets — 5 Corporate expenses (E) 38 24 Segment operating profit $ 895 $ 443 $ 1,338 General corporate expense, net (E) ( 89 ) Operating profit 1,248 Other income (expense), net ( 114 ) Income before income taxes $ 1,135
+[END TABLE 060]
+
+[TABLE 061]
+Year Ended December 31, 2024 Plumbing Products Decorative Architectural Products Total Net sales (A) (B) (C) $ 4,853 $ 2,975 $ 7,828 Operating expenses (D) 3,896 2,395 Impairment charges for other intangible assets — — Corporate expenses (E) 46 31 Segment operating profit $ 911 $ 549 $ 1,460 General corporate expense, net (E) ( 97 ) Operating profit 1,363 Other income (expense), net ( 202 ) Income before income taxes $ 1,161
+[END TABLE 061]
+
+[TABLE 062]
+Year Ended December 31, 2023 Plumbing Products Decorative Architectural Products Total Net sales (A) (B) (C) $ 4,842 $ 3,125 $ 7,967 Operating expenses (D) 3,934 2,506 Impairment charges for other intangible assets — 15 Corporate expenses (E) 47 25 Segment operating profit $ 861 $ 578 $ 1,439 General corporate expense, net (E) ( 91 ) Operating profit 1,348 Other income (expense), net ( 110 ) Income before income taxes $ 1,238
+[END TABLE 062]
+
+[TABLE 063]
+Property Additions (F) Depreciation and Amortization Assets (G) Year Ended December 31, Year Ended December 31, At December 31, 2025 2024 2023 2025 2024 2023 2025 2024 2023 Plumbing Products $ 119 $ 122 $ 161 $ 111 $ 108 $ 107 $ 3,383 $ 3,131 $ 3,140 Decorative Architectural Products 33 44 76 30 35 35 1,355 1,435 1,696 Corporate 3 2 6 7 7 7 463 450 527 Total $ 156 $ 168 $ 243 $ 148 $ 150 $ 149 $ 5,201 $ 5,016 $ 5,363
+[END TABLE 063]
+
+[TABLE 064]
+2025 2024 2023 Income before income taxes: U.S. $ 889 $ 881 $ 968 Foreign 246 280 270 $ 1,135 $ 1,161 $ 1,238 Income tax expense: Currently payable: U.S. Federal $ 123 $ 153 $ 189 State and local 17 26 47 Foreign 74 80 74 Deferred: U.S. Federal 51 14 — State and local 8 9 ( 39 ) Foreign 4 5 7 $ 277 $ 287 $ 278 Deferred tax assets at December 31: Receivables $ 9 $ 8 Inventories 16 13 Other assets, including stock-based compensation 7 8 Accrued liabilities 43 48 Noncurrent operating lease liabilities 46 44 Other long-term liabilities 46 49 Capitalized research expenditures — 48 Net operating loss carryforward 52 57 Tax credit carryforward 7 8 226 283 Valuation allowance ( 27 ) ( 27 ) 199 256 Deferred tax liabilities at December 31: Property and equipment 83 77 Operating lease right-of-use assets 49 45 Intangibles 79 80 Investment in foreign subsidiaries 16 14 Other 17 16 244 232 Net deferred tax (liability) asset at December 31 $ ( 45 ) $ 24
+[END TABLE 064]
+
+[TABLE 065]
+Year Ended December 31, 2025 2024 2023 Income tax expense at U.S. Federal statutory tax rate $ 238 21.0 % $ 244 21.0 % $ 260 21.0 % State and local tax effects, net of U.S. Federal tax benefit (A) : State and local taxes 32 2.8 26 2.2 29 2.3 Valuation allowance ( 2 ) ( 0.2 ) ( 1 ) ( 0.1 ) ( 29 ) ( 2.3 ) Foreign tax effects: Germany: Municipal taxes 15 1.4 19 1.6 17 1.3 Other 5 0.4 — — ( 3 ) ( 0.2 ) Other foreign jurisdictions 6 0.5 8 0.7 10 0.8 Effect of cross-border tax laws ( 1 ) ( 0.1 ) ( 4 ) ( 0.3 ) ( 4 ) ( 0.3 ) Tax credits ( 7 ) ( 0.6 ) ( 8 ) ( 0.7 ) ( 8 ) ( 0.6 ) Nontaxable or nondeductible items: Stock-based compensation ( 2 ) ( 0.2 ) ( 10 ) ( 0.9 ) ( 6 ) ( 0.5 ) Nondeductible expense 3 0.3 9 0.8 6 0.5 Changes in unrecognized tax benefits ( 10 ) ( 0.9 ) 3 0.3 7 0.6 Other adjustments — — 1 0.1 ( 1 ) ( 0.1 ) Income tax expense $ 277 24.4 % $ 287 24.7 % $ 278 22.5 %
+[END TABLE 065]
+
+[TABLE 066]
+Year Ended December 31, 2025 2024 2023 U.S. Federal $ 110 $ 160 $ 194 State and local 27 26 36 Foreign: Germany: Corporate income tax 31 24 34 Schiltach municipal tax 15 Other 10 17 23 China 15 Other foreign jurisdictions 28 33 41 Total $ 236 $ 260 $ 328
+[END TABLE 066]
+
+[TABLE 067]
+2025 2024 Balance at January 1 $ 85 $ 84 Current year tax positions: Additions 14 14 Reductions ( 4 ) ( 1 ) Prior year tax positions: Additions — 1 Reductions ( 1 ) — Lapse of applicable statutes of limitation ( 21 ) ( 13 ) Balance at December 31 $ 73 $ 85 Liability for interest and penalties 15 16 Balance at December 31, including interest and penalties $ 88 $ 101
+[END TABLE 067]
+
+[TABLE 068]
+Year Ended December 31, 2025 2024 2023 Numerator (basic and diluted): Net income $ 810 $ 822 $ 908 Less: Allocation to unvested restricted stock awards — — — Net income attributable to common shareholders $ 810 $ 822 $ 908 Denominator: Basic common shares (based upon weighted average) 209 218 225 Add: Dilutive effect of stock options and other stock-based incentives — 1 1 Diluted common shares 210 219 226
+[END TABLE 068]
+
+[TABLE 069]
+Year Ended December 31, 2025 2024 2023 Number of stock options 375 176 871 Number of restricted stock units — — 5 Number of performance restricted stock units 41 47 —
+[END TABLE 069]
+
+[TABLE 070]
+Year Ended December 31, 2025 2024 Balance at January 1 $ 81 $ 83 Accruals for warranties issued during the year 35 38 Accruals related to pre-existing warranties 11 8 Settlements made (in cash or kind) during the year ( 41 ) ( 43 ) Other, net (including currency translation and divestitures) 2 ( 4 ) Balance at December 31 $ 88 $ 81
+[END TABLE 070]
+
+[TABLE 071]
+Plan Category Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in the First Column) Equity compensation plans approved by stockholders 1,099,264 $ 60.05 6,982,846
+[END TABLE 071]
+
+[TABLE 072]
+Consolidated Balance Sheets 34 Consolidated Statements of Operations 35 Consolidated Statements of Comprehensive Income (Loss) 36 Consolidated Statements of Cash Flows 37 Consolidated Statements of Shareholders' Equity 38 Notes to Consolidated Financial Statements 39
+[END TABLE 072]
+
+[TABLE 073]
+II. Valuation and Qualifying Accounts 79
+[END TABLE 073]
+
+[TABLE 074]
+Exhibit No. Incorporated By Reference Filed Herewith Exhibit Description Form Exhibit Filing Date 3.a Restated Certificate of Incorporation of Masco Corporation. 2015 10-K 3.i 02/12/2016 3 .a i Certificate of Amendment of Restated Certificate of Incorporation of Masco Corporation X 3.b Bylaws of Masco Corporation, as Amended and Restated on May 9, 2025. 8-K 3.ii 05/15/2025 4.a Indenture dated as of December 1, 1982 between Masco Corporation and The Bank of New York Mellon Trust Company, N.A., as successor trustee under agreement originally with Morgan Guaranty Trust Company of New York, as Trustee, and Supplemental Indenture thereto dated as of July 26, 1994; and Directors' resolutions establishing Masco Corporation's: 2016 10-K 4.a 02/09/2017 4.a i 7-3/4% Debentures Due August 1, 2029. 2014 10-K 4.a.i(ii) 02/13/2015 4.b Indenture dated as of February 12, 2001 between Masco Corporation and The Bank of New York Mellon Trust Company, N.A., as successor trustee under agreement originally with Bank One Trust Company, National Association, as Trustee, and Supplemental Indenture thereto dated as of November 30, 2006; and Directors' Resolutions establishing Masco Corporation's: 2016 10-K 4.b 02/09/2017 4.b i 6-1/2% Notes Due August 15, 2032; 2017 10-K 4.b.i 02/08/2018 4.b ii 3.500% Notes Due November 15, 2027; and 8-K 4.1 06/15/2017 4.b iii 4.500% Notes Due May 15, 2047. 8-K 4.2 06/15/2017
+[END TABLE 074]
+
+[TABLE 075]
+Exhibit No. Incorporated By Reference Filed Herewith Exhibit No. Exhibit Description Form Exhibit Filing Date Filed Herewith 4.b iv Second Supplemental Indenture, dated as of September 18, 2020, between Masco Corporation and The Bank of New York Mellon Trust Company, N.A., as successor trustee. 8-K 4.3 09/18/2020 4.b v 4.500% Notes Due May 15, 2047 8-K 4.2 09/18/2020 4.b vi 2.000% Notes Due October 1, 2030 8-K 4.1 09/18/2020 4.b vii 1.500% Notes Due February 15, 2028 8-K 4.1 03/04/2021 4.b viii 2.000% Notes Due February 15, 2031 8-K 4.2 03/04/2021 4.b ix 3.125% Notes Due February 15, 2051 8-K 4.3 03/04/2021 Note 2: Other instruments, notes or extracts from agreements defining the rights of holders of long-term debt of Masco Corporation or its subsidiaries have not been filed since (i) in each case the total amount of long-term debt permitted thereunder does not exceed 10 percent of Masco Corporation's consolidated assets, and (ii) such instruments, notes and extracts will be furnished by Masco Corporation to the Securities and Exchange Commission upon request. 4.c Description of securities. X 10.a Credit Agreement dated as of April 26, 2022 by and among Masco Corporation and Masco Europe S.à r.l. as borrowers, the lenders party thereto, JPMorgan Chase Bank, N.A., as Administrative Agent, Citibank, N.A. and PNC Bank, National Association, as Co-Syndication Agents, and Deutsche Bank Securities, Inc., Royal Bank of Canada, Truist Bank, Bank of America, N.A., Fifth Third Bank and Wells Fargo Bank, National Association, as Co-Documentation Agents. 10-Q 10a 04/27/2022 Note 3: Exhibits 10.b through 10.q constitute the management contracts and executive compensatory plans or arrangements in which certain of the directors and executive officers of the Company participate. 10.b Masco Corporation 2014 Long Term Stock Incentive Plan (Amended and Restated May 9, 2016): 10-Q 10.a 07/26/2016 10.b i Form of Restricted Stock Unit Award Agreements 2021 10-K 10.c.iv 02/08/2022 Form of Stock Option Grant Agreements: 10.b ii for grants prior to July 1, 2018 8-K 10.d 05/06/2014 10.b ii i for grants between July 1, 2018 and December 17, 2019 2018 10-K 10.c.iv 02/07/2019 10.b i v for grants between December 17, 2019 and February 3, 2022 2019 10-K 10.c.vi 02/11/2020 10.b v for grants on or after February 3, 2022 2021 10-K 10.c.viii 02/08/2022 10.b vi Long Term Incentive Program under Masco Corporation's 2014 Long Term Stock Incentive Plan (Amended and Restated February 3, 2022) and form of Performance Restricted Stock Unit Award Agreement thereunder. 2021 10-K 10.c.xi 02/08/2022 10.b vii Non-Employee Directors Equity Program under Masco Corporation's 2014 Long Term Stock Incentive Plan (Amended and Restated February 7, 2020). 2019 10-K 10.c.xiii 02/11/2020 10. b viii Form of Restricted Stock Unit Award Agreement for Non-Employee Directors 2021 10-K 10.c.xvii 02/08/2022
+[END TABLE 075]
+
+[TABLE 076]
+Exhibit No. Incorporated By Reference Filed Herewith Exhibit No. Exhibit Description Form Exhibit Filing Date Filed Herewith 10.c Masco Corporation 2024 Long Term Stock Incentive Plan 2024 10-K 10.c 02/11/2025 Terms and Conditions of Awards Granted Under the Masco Corporation 2024 Long Term Stock Incentive Plan: 1 0.c i for grants between December 17, 2024 and February 5, 2026 2024 10-K 10.c i 02/11/2025 1 0.c ii for grants on or after February 6, 2026 X 10.c i ii Long Term Stock Incentive Program under Masco Corporation's 2024 Long Term Stock Incentive Plan and form of Performance Restricted Stock Unit Award Agreement thereunder (for grants prior to February 6, 2026). 2024 10-K 10.c ii 02/11/2025 1 0.c iv Long Term Stock Incentive Program under Masco Corporation's 2024 Long Term Stock Incentive Plan (Amended and Restated February 6, 2026) and form of Performance Restricted Stock Unit Award Agreement thereunder (for grants on or after February 6, 2026). X 10.c v Non-Employee Directors Equity Program under Masco Corporation's 2024 Long Term Stock Incentive Plan 10-Q 10.a 07/25/2024 10.c v i Form of Restricted Stock Unit Award Agreement for Non-Employee Directors (for grants prior to May 9, 2025) 10-Q 10.b 07/25/2024 1 0.c vii Non-Employee Directors Compensation Program under Masco Corporation's 2024 Long Term Stock Incentive Plan X 1 0.c viii Form of Restricted Stock Unit Award Agreement for Non-Employee Directors (for grants on or after May 9, 2025) X 10.d Form of Masco Corporation Supplemental Executive Retirement and Disability Plan and amendments thereto (includes amendment freezing benefit accruals) for John G. Sznewajs. 2015 10-K 10.d.i(ii) 02/12/2016 10.e Other compensatory arrangements for executive officers. 2016 10-K 10.f 02/09/2017 10.f Compensation of Non-Employee Directors. 2024 10-K 10.f 02/11/2025 10.g Masco Corporation Retirement Benefit Restoration Plan effective January 1, 1995 (as amended and restated December 22, 2010), and amendments thereto effective February 6, 2012 and January 1, 2014. 2016 10-K 10.i 02/09/2017 10.h Employment Offer Letter dated May 3, 2021 between Richard Marshall and Masco Corporation 10-Q 10 07/29/2021 10.i Employment Offer Letter dated August 28, 2023 between Richard Westenberg and Masco Corporation 10-Q 10.a 10/26/2023 1 0.j Employment Offer Letter dated March 3, 2025 between Jonathon J. Nudi and Masco Corporation 10-Q 10.a 4/23/2025
+[END TABLE 076]
+
+[TABLE 077]
+Exhibit No. Incorporated By Reference Filed Herewith Exhibit No. Exhibit Description Form Exhibit Filing Date Filed Herewith 1 0.k Retention Agreement dated March 5, 2025 between Jai Shah and Masco Corporation 10-Q 10.b 4/23/2025 1 0.l Aircraft Time Sharing Agreement dated July 25, 2025 between Jonathon J. Nudi and Masco Corporation. 10-Q 10.b 7/31/2025 1 0.m Employment Offer Letter dated November 28, 2025 between Jen Stone and Masco Corporation X 10 .n Amended and Restated Severance and Release Agreement dated December 21, 2023 between Masco Corporation and John G. Sznewajs 2023 10-K 10.k 02/08/2024 10 .o Amended and Restated Severance and Release Agreement dated December 30, 2023 between Masco Corporation and Richard A. O'Reagan 2023 10-K 10.l 02/08/2024 1 0. p Severance and Release Agreement dated July 8, 2025 between Masco Corporation and Keith J. Allman 10-Q 10.a 7/31/2025 10. q Severance and Release Agreement effective January 12, 2026 between Masco Corporation and Imran Ahmad X 19 Insider Trading Policies and Procedures 2024 10-K 19 02/11/2025 21 List of Subsidiaries. X 23 Consent of Independent Registered Public Accounting Firm relating to Masco Corporation's Consolidated Financial Statements and Financial Statement Schedule. X 31.a Certification by Chief Executive Officer required by Rule 13a-14(a)/15d-14(a). X 31.b Certification by Chief Financial Officer required by Rule 13a-14(a)/15d-14(a). X 32 Certifications required by Rule 13a-14(b) or Rule 15d-14(b) and Section 1350 of Chapter 63 of Title 18 of the United States Code. X 97 Policy Relating to Recovery of Erroneously Awarded Compensation 2023 10-K 97 02/08/2024 101 The following financial information from Masco Corporation's Annual Report on Form 10-K for the year ended December 31, 2025, formatted in Inline XBRL: (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Comprehensive Income (Loss), (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Shareholders' Equity, and (vi) Notes to Consolidated Financial Statements. X 104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101) X
+[END TABLE 077]
+
+[TABLE 078]
+MASCO CORPORATION By: /s/ Richard J. Westenberg Richard J. Westenberg Vice President, Chief Financial Officer and Treasurer
+[END TABLE 078]
+
+[TABLE 079]
+Principal Executive Officer: /s/ Jonathon J. Nudi President and Chief Executive Officer and Director Jonathon J. Nudi Principal Financial Officer: /s/ Richard J. Westenberg Vice President, Chief Financial Officer and Treasurer Richard J. Westenberg Principal Accounting Officer: /s/ Heath M. Eisman Vice President, Controller and Chief Accounting Officer Heath M. Eisman /s/ Lisa A. Payne Chair of the Board Lisa A. Payne /s/ Mark R. Alexander Director Mark R. Alexander /s/ Gary A. Coombe Director Gary A. Coombe /s/ Aine L. Denari Director Aine L. Denari /s/ Marie A. Ffolkes Director Marie A. Ffolkes /s/ Christopher A. O'Herlihy Director Christopher A. O'Herlihy /s/ John C. Plant Director John C. Plant /s/ Sandeep Reddy Director Sandeep Reddy /s/ Charles K. Stevens, III Director Charles K. Stevens, III February 10, 2026
+[END TABLE 079]
+
+[TABLE 080]
+(In Millions) Column A Column B Column C Column D Column E Additions Description Balance at Beginning of Period Charged to Costs and Expenses Charged to Other Accounts Deductions Balance at End of Period Allowances for credit losses deducted from accounts receivable in the balance sheet: 2025 $ 10 $ 5 $ — $ ( 4 ) (a) $ 12 2024 $ 11 $ 4 $ — $ ( 5 ) (a) $ 10 2023 $ 8 $ 7 $ — $ ( 5 ) (a) $ 11 Valuation allowance on deferred tax assets: 2025 $ 27 $ — $ — $ — $ 27 2024 $ 33 $ — $ — $ ( 6 ) (b) $ 27 2023 $ 15 $ 2 $ 53 (c)(d) $ ( 37 ) (e) $ 33
+[END TABLE 080]

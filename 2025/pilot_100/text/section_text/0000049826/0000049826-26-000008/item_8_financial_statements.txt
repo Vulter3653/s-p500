@@ -1,0 +1,615 @@
+ITEM 8. Financial Statements and Supplementary Data
+
+MANAGEMENT REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+The management of Illinois Tool Works Inc. (the "Company" or "ITW") is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). ITW's internal control system was designed to provide reasonable assurance to the Company's management and Board of Directors regarding the preparation and fair presentation of published financial statements.
+
+All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+
+ITW management assessed the effectiveness of the Company's internal control over financial reporting as of December 31, 2025. In making this assessment, it used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control—Integrated Framework (2013). Based on our assessment we believe that, as of December 31, 2025, the Company's internal control over financial reporting is effective based on those criteria.
+
+The effectiveness of the Company's internal control over financial reporting as of December 31, 2025 has been audited by Deloitte & Touche LLP, an independent registered public accounting firm, as stated in their attestation report included herein.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the stockholders and the Board of Directors of Illinois Tool Works Inc.
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We have audited the accompanying consolidated statements of financial position of Illinois Tool Works Inc. and subsidiaries (the "Company") as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, changes in stockholders' equity, and cash flows, for each of the three years in the period ended December 31, 2025, and the related notes (collectively referred to as the "financial statements"). We also have audited the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) .
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with accounting principles generally accepted in the United States of America. Also, in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by COSO.
+
+Basis for Opinions
+
+The Company's management is responsible for these financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management Report on Internal Control over Financial Reporting . Our responsibility is to express an opinion on these financial statements and an opinion on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the financial statements included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures to respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current-period audit of the financial statements that was communicated or required to be communicated to the audit committee and that (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Income Taxes - Refer to Note 6 to the financial statements
+
+Critical Audit Matter Description
+
+The Company’s income tax expense is recognized and measured based on management’s interpretation of the tax regulations and rulings in numerous taxing jurisdictions, which requires significant judgment. When calculating income tax expense, management makes estimates and assumptions, including determination of the completeness of book income in each jurisdiction, calculation of taxable income through identification and classification of book to tax differences (either temporary or permanent items), consideration of applicable tax deductions or credits and the identification of uncertain tax positions.
+
+The evaluation of each uncertain tax position requires management to apply specialized skill and knowledge related to the identified position. Management evaluates uncertain tax positions identified and a liability is established for unrecognized tax benefits when there is a more than 50% likelihood that its tax position will not be sustained upon examination by taxing authorities. There is additional judgment to determine the amount of the liability for the underlying tax position.
+
+Given the number of taxing jurisdictions and the complex and subjective nature of the associated tax regulations and rulings, certain audit matters required a high degree of auditor judgment and increased extent of effort, including the need to involve our income tax specialists. These matters included the auditing of certain elements of income tax expense, identification of uncertain tax positions and measurement of unrecognized tax benefits, and certain planning transactions with income tax expense implications.
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+With the assistance of our income tax specialists, our principal audit procedures related to the auditing of certain elements of income tax expense, identification of uncertain tax positions and measurement of unrecognized tax benefits, and certain planning transactions with income tax expense implications included the following, among others:
+
+• We tested the effectiveness of management’s controls over income tax expense, unrecognized tax benefits and certain planning transactions with income tax expense implications.
+
+• We evaluated management’s significant estimates and judgments incorporated into the calculation of certain elements of income tax expense by:
+
+◦ Selecting a sample of book to tax differences (temporary and permanent) and testing the accuracy, completeness, and classification of the selections, including evaluating that all impacts of significant transactions with income tax expense implications are considered.
+
+◦ Developing an expectation over the foreign income tax expense by jurisdiction and comparing it to the recorded balance.
+
+◦ Testing the accuracy of the relevant income tax expense calculations.
+
+• We evaluated management’s significant judgments regarding the identification of uncertain tax positions by:
+
+◦ Evaluating the reasonableness of a selection of certain planning transactions with income tax expense implications, including the completeness and accuracy of the underlying data supporting the transactions.
+
+◦ Assessing management’s methods and assumptions used in identifying uncertain tax positions.
+
+◦ Comparing results of prior tax audits to ongoing and anticipated tax audits by tax authorities.
+
+◦ Evaluating external information including applicable tax law, new interpretations, and related changes to assess the completeness and reasonableness of management’s considerations.
+
+◦ Determining if there was additional information not considered in management’s assessment.
+
+• We evaluated a sample of the liabilities recorded for unrecognized tax benefits to assess the establishment and amount of the liability for the specific underlying tax position.
+
+/s/ Deloitte & Touche LLP
+
+Chicago, Illinois
+
+February 13, 2026
+
+We have served as the Company's auditor since 2002.
+
+Statement of Income
+
+Illinois Tool Works Inc. and Subsidiaries
+
+The Notes to Financial Statements are an integral part of this statement.
+
+Statement of Comprehensive Income
+
+Illinois Tool Works Inc. and Subsidiaries
+
+The Notes to Financial Statements are an integral part of this statement.
+
+Statement of Financial Position
+
+Illinois Tool Works Inc. and Subsidiaries
+
+The Notes to Financial Statements are an integral part of this statement.
+
+Statement of Changes in Stockholders' Equity
+
+Illinois Tool Works Inc. and Subsidiaries
+
+The Notes to Financial Statements are an integral part of this statement.
+
+Statement of Cash Flows
+
+Illinois Tool Works Inc. and Subsidiaries
+
+The Notes to Financial Statements are an integral part of this statement.
+
+Notes to Financial Statements
+
+(1) Description of Business and Summary of Significant Accounting Policies
+
+Description of business — Illinois Tool Works Inc. (the "Company" or "ITW") is a global manufacturer of a diversified range of industrial products and equipment with approximately 88 divisions in 49 countries. The Company's operations are organized and managed based on similar product offerings and end markets, and are reported to senior management as the following seven segments: Automotive OEM; Food Equipment; Test & Measurement and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty Products.
+
+Consolidation and translation — The financial statements include the Company and its majority-owned subsidiaries. The Company follows the equity method of accounting for investments where the Company has a significant influence but not a controlling interest. Intercompany transactions are eliminated from the financial statements. Foreign subsidiaries' assets and liabilities are translated to U.S. dollars at end-of-period exchange rates. Revenues and expenses are translated at average rates for the period. Translation adjustments are reported as a component of Accumulated other comprehensive income (loss) in stockholders' equity.
+
+Reclassifications — Certain reclassifications of prior year data have been made to conform to current year reporting.
+
+Use of estimates — The preparation of the Company's financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported in the financial statements and the notes to financial statements. Actual results could differ from those estimates.
+
+Acquisitions — The Company accounts for acquisitions under the acquisition method, in which assets acquired and liabilities assumed are recorded at fair value as of the date of acquisition. The operating results of the acquired companies are included in the Company's consolidated financial statements from the date of acquisition. Refer to Note 2. Acquisitions for additional information regarding the Company's acquisitions.
+
+Operating revenue — Operating revenue is recognized at the time a good or service is transferred to a customer and the customer obtains control of that good or receives the service performed. The Company's sales arrangements with customers are predominantly short-term in nature involving a single performance obligation related to the delivery of products and generally provide for transfer of control at the time of shipment. In limited circumstances, there may be significant obligations to the customer that are unfulfilled at the time of shipment, typically involving installation of equipment and customer acceptance. In these circumstances, operating revenue may be deferred until all significant obligations have been completed. In other limited arrangements, the Company may recognize revenue over time. This may include arrangements for service performed over time where operating revenue is recognized as the service is provided to the customer. It may also include the sale of highly specialized systems that have a high degree of customization and installation at the customer site, which are recognized over time if the product does not have an alternative use and the Company has an enforceable right to payment for work performed to date. Operating revenue for transactions meeting these criteria is recognized over time as work is performed based on the costs incurred to date relative to the total estimated costs at completion. The amount of operating revenue recorded reflects the consideration to which the Company expects to be entitled in exchange for goods or services and may include adjustments for customer allowances and rebates. Customer allowances and rebates consist primarily of volume discounts and other short-term incentive programs, which are estimated at the time of sale based on historical experience and anticipated trends. Shipping and handling charges billed to customers are included in operating revenue and are recognized along with the related product revenue as they are considered a fulfillment cost. Sales commissions are expensed when incurred, which is generally at the time of revenue recognition. Contract liabilities associated with sales arrangements primarily relate to deferred revenue on equipment sales and prepaid service contracts. Total deferred revenue and customer deposits were $ 340 million and $ 360 million as of December 31, 2025 and 2024, respectively, and are short-term in nature. Refer to Note 4. Operating Revenue for additional information regarding the Company's operating revenue.
+
+Research and development expenses — Research and development expenses are recorded as expense in the period incurred. These costs were $ 302 million, $ 292 million and $ 284 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Advertising expenses — Advertising expenses are recorded as expense in the period incurred. These costs were $ 62 million, $ 58 million and $ 60 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Income taxes — The Company utilizes the asset and liability method of accounting for income taxes. Deferred income taxes are determined based on the estimated future tax effects of differences between the financial and tax bases of assets and liabilities given the provisions of the enacted tax laws. Valuation allowances are established when it is estimated that it is more likely than not that the tax benefit of the deferred tax asset will not be realized. Refer to Note 6. Income Taxes for additional information regarding income taxes.
+
+Cash and equivalents — Cash and equivalents include cash on hand and instruments having original maturities of three months or less. Cash and equivalents are stated at cost, which approximates fair value.
+
+Trade receivables — Trade receivables are net of allowances for doubtful accounts. The changes in the allowance for doubtful accounts for the years ended December 31, 2025, 2024 and 2023 were as follows:
+
+Inventories — Inventories are stated at the lower of cost or net realizable value and include material, labor and factory overhead. As of December 31, 2023, the last-in, first-out ("LIFO") method was used to determine the cost of inventories at certain U.S. businesses representing approximately 23 % of total inventories, and the first-in, first-out ("FIFO") method, which approximates total cost, was used for all other inventories.
+
+During the first quarter of 2024, the Company changed the method used to determine the cost of inventory at certain U.S. businesses from LIFO to the FIFO method, as the Company believes the FIFO method is preferable because it provides a more consistent method for valuing inventory across the Company's operations, improves comparability with peers, and better reflects the current value of inventories at the balance sheet date. If the FIFO method was used for all inventories, total inventories would have been approximately $ 117 million higher than reported at December 31, 2023.
+
+The LIFO provision for the year ended December 31, 2023 was $ 6 million of expense and was not material to the Company's results of operations, financial position or cash flows. Therefore, the Company recorded the pre-tax cumulative effect of this change in accounting method of $ 117 million as a reduction of Cost of revenue in the first quarter of 2024.
+
+The major classes of inventory at December 31, 2025 and 2024 were as follows:
+
+Net plant and equipment — Net plant and equipment are stated at cost, less accumulated depreciation. Renewals and improvements that increase the useful life of plant and equipment are capitalized. Maintenance and repairs are charged to expense as incurred. Net plant and equipment consisted of the following at December 31, 2025 and 2024:
+
+The Company's U.S. businesses primarily compute depreciation on an accelerated basis. The majority of the Company's international businesses compute depreciation on a straight-line basis. The ranges of useful lives used to depreciate plant and equipment are as follows:
+
+Depreciation was $ 317 million, $ 301 million and $ 282 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Goodwill and intangible assets — Goodwill represents the excess cost over fair value of the net assets of acquired businesses. The Company does not amortize goodwill and intangible assets that have indefinite lives. Amortizable intangible assets are being amortized on a straight-line basis over their estimated useful lives of 3 to 20 years.
+
+The Company performs an impairment assessment of goodwill and intangible assets with indefinite lives annually, or more frequently if triggering events occur, based on the estimated fair value of the related reporting unit or intangible asset. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+
+When performing its annual impairment assessment, the Company evaluates the goodwill assigned to each of its reporting units for potential impairment by comparing the estimated fair value of the relevant reporting unit to the carrying value. The Company uses various Level 2 and Level 3 valuation techniques to determine the fair value of its reporting units, including discounting estimated future cash flows based on a cash flow forecast prepared by the relevant reporting unit and market multiples of relevant public companies. If the fair value of a reporting unit is less than its carrying value, a goodwill impairment loss is recorded for the difference.
+
+The Company's indefinite-lived intangible assets consist of trademarks and brands. The estimated fair values of these intangible assets are determined based on a Level 3 valuation method using a relief-from-royalty income approach derived from internally forecasted revenues of the related products. If the fair value of the trademark or brand is less than its carrying value, an impairment loss is recorded for the difference.
+
+Refer to Note 8. Goodwill and Intangible Assets for additional information regarding the Company's recorded goodwill and intangible assets.
+
+Leases — The Company recognizes a lease liability and corresponding right-of-use asset for all operating leases with a noncancellable lease term of greater than one year. Rental expense for operating leases is recognized on a straight-line basis over the noncancellable lease term based on the minimum lease payments at lease inception. Changes in rent subsequent to commencement that were not included in minimum lease payments at inception are recognized as variable rent in the period incurred. Refer to Note 9. Leases for additional information regarding the Company's operating leases.
+
+Accrued warranties — The Company accrues for product warranties based on historical experience. The changes in accrued warranties for the years ended December 31, 2025, 2024 and 2023 were as follows:
+
+New Accounting Pronouncements
+
+In December 2023, the Financial Accounting Standards Board (the "FASB") issued authoritative guidance that expands the disclosure requirements for income taxes. The new guidance requires disclosure of specific categories and greater disaggregation of information presented in the effective tax rate reconciliation as well as disaggregation of income taxes paid by jurisdiction. The Company adopted this new guidance beginning with its annual reporting for the year ended December 31, 2025 and applied the new disclosure requirements prospectively. The new guidance did not have any impact on the Company’s results of operations, financial position or cash flows for the period. Refer to Note 6. Income Taxes for additional information.
+
+In November 2024, the FASB issued authoritative guidance which expands annual and interim disclosure requirements related to certain costs and expenses recorded in the income statement. The primary provisions of this new guidance require companies to provide additional footnote disclosures disaggregating income statement line items that include purchases of inventory, employee compensation, depreciation, and intangible asset amortization. The guidance will be effective for the Company beginning with its annual reporting for the year ending December 31, 2027 and is required to be applied prospectively, with retrospective application to prior periods allowed. The Company is currently assessing the impact the guidance will have on its disclosures.
+
+(2) Acquisitions
+
+On January 2, 2024, the Company completed the acquisition of one business in the Test & Measurement and Electronics segment for $ 57 million, net of cash acquired. On April 1, 2024, the Company completed the acquisition of one business in the Test & Measurement and Electronics segment for $ 59 million, net of cash acquired. The Company has completed the allocation of purchase price for both of these acquisitions. On October 1, 2025, the Company completed the acquisition of one business in the Test & Measurement and Electronics segment for $ 120 million, net of cash acquired, and subject to certain closing adjustments. The allocation of purchase price for this acquisition will be completed as soon as practicable, but no later than one year from the acquisition date. These acquisitions were not material, individually or in the aggregate, to the Company's results of operations, financial position or cash flows.
+
+(3) Divestitures
+
+The Company routinely reviews its portfolio of businesses relative to its business portfolio criteria and evaluates if further portfolio refinements may be needed. As such, the Company may commit to a plan to exit or dispose of certain businesses and present them as held for sale in periods prior to the sale of the business.
+
+In the fourth quarter of 2022, plans were approved to divest one business in the Specialty Products segment. This business was presented as held for sale beginning in the fourth quarter of 2022. This business was sold on April 3, 2023, with no significant gain or loss upon sale. Operating revenue related to this business that was included in the Company's results of operations for the twelve months ended December 31, 2023 was $ 9 million.
+
+(4) Operating Revenue
+
+The Company's 88 diversified operating divisions are organized and managed based on similar product offerings and end markets, and are reported to senior management as the following seven segments: Automotive OEM; Food Equipment; Test & Measurement and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty Products. Operating revenue by product category, which is consistent with the Company's segment presentation, for the twelve months ended December 31, 2025, 2024 and 2023 was as follows:
+
+The following is a description of the product offerings, end markets and typical revenue transactions for each of the Company's seven segments:
+
+Automotive OEM — This segment is a global, niche supplier to top tier OEMs, providing unique innovation to address pain points for sophisticated customers with complex problems. Businesses in this segment produce components and fasteners for automotive-related applications. This segment primarily serves the automotive original equipment manufacturers and tiers market. Products in this segment include:
+
+• plastic and metal components, fasteners and assemblies for automobiles, light trucks and other industrial uses.
+
+Products sold in this segment are primarily manufactured to the customer's specifications and are sold under long-term supply agreements with OEM auto manufacturers and other top tier auto parts suppliers. The Company typically recognizes revenue for products in this segment at the time of shipment. Certain products may be produced utilizing tooling that is owned by the customer that the Company developed and is reimbursed by the customer for the associated cost. In these arrangements, the Company typically retains a contractual right to use the customer-owned tooling for the purpose of fulfilling its obligations under the supply agreement. The Company records reimbursements for the cost of customer-owned tooling as a cost offset rather than operating revenue as tooling is not considered a product offering central to the Company's operations.
+
+Food Equipment — This segment is a highly focused and branded industry leader in commercial food equipment differentiated by innovation and integrated service offerings. This segment primarily serves the food service, food retail and food institutional/restaurant markets. Products in this segment include:
+
+• warewashing equipment;
+
+• cooking equipment, including ovens, ranges and broilers;
+
+• refrigeration equipment, including refrigerators, freezers and prep tables;
+
+• food processing equipment, including slicers, mixers and scales;
+
+• kitchen exhaust, ventilation and pollution control systems; and
+
+• food equipment service, maintenance and repair.
+
+Revenue for equipment sold in this segment is typically recognized at the time of product shipment. In limited circumstances involving installation of equipment and customer acceptance, the Company may recognize revenue upon completion of installation and acceptance by the customer. Annual service contracts are typically sold separate from equipment and the related revenue is recognized on a straight-line basis over the annual service period. Operating revenue for on-demand service repairs and parts is recorded upon completion and customer acceptance of the work performed.
+
+Test & Measurement and Electronics — This segment is a branded and innovative producer of test and measurement and electronic manufacturing and maintenance, repair, and operations, or "MRO" solutions that improve efficiency and quality for customers in diverse end markets. Businesses in this segment produce equipment, consumables, and related software for testing and measuring of materials and structures, as well as equipment and consumables used in the production of electronic subassemblies and microelectronics. This segment primarily serves the electronics, general industrial, automotive original equipment manufacturers and tiers, energy, industrial capital goods and consumer durables markets. Products in this segment include:
+
+• equipment, consumables, and related software for testing and measuring of materials, structures, gases and fluids;
+
+• electronic assembly equipment;
+
+• electronic components and component packaging;
+
+• static control equipment and consumables used for contamination control in clean room environments; and
+
+• pressure sensitive adhesives and components for electronics, medical, transportation and telecommunications applications.
+
+Revenue for products sold in this segment is typically recognized at the time of shipment. In limited circumstances where significant obligations to the customer are unfulfilled at the time of shipment, typically involving installation of equipment and customer acceptance, revenue recognition is deferred until such obligations have been completed. In other limited arrangements involving the sale of highly specialized systems that include a high degree of customization and installation at the customer site, revenue is recognized over time if the product does not have an alternative use and the Company has an enforceable right to payment for work performed to date. Revenue for transactions meeting these criteria is recognized over time as work is performed based on the costs incurred to date relative to the total estimated costs at completion.
+
+Welding — This segment is a branded value-added equipment and specialty consumable manufacturer with innovative and leading technology. Businesses in this segment produce arc welding equipment, consumables and accessories for a wide array of industrial and commercial applications. This segment primarily serves the general industrial market, which includes fabrication, shipbuilding and other general industrial markets, and construction, energy, MRO, industrial capital goods and automotive original equipment manufacturers and tiers markets. Products in this segment include:
+
+• arc welding equipment; and
+
+• metal arc welding consumables and related accessories.
+
+Products in this segment are primarily manufactured to meet anticipated customer demand. The Company typically recognizes revenue for these products at the time of product shipment.
+
+Polymers & Fluids — This segment is a branded supplier to niche markets that require value-added, differentiated products. Businesses in this segment produce engineered adhesives, sealants, lubrication and cutting fluids, and fluids and polymers for auto aftermarket maintenance and appearance. This segment primarily serves the automotive aftermarket, general industrial and MRO markets. Products in this segment include:
+
+• adhesives for industrial, construction and consumer purposes;
+
+• chemical fluids which clean or add lubrication to machines;
+
+• epoxy and resin-based coating products for industrial applications;
+
+• hand wipes and cleaners for industrial applications;
+
+• fluids, polymers and other supplies for auto aftermarket maintenance and appearance;
+
+• fillers and putties for auto body repair; and
+
+• polyester coatings and patch and repair products for the marine industry.
+
+Products in this segment are primarily manufactured to meet anticipated customer demand. The Company typically recognizes revenue for these products at the time of product shipment.
+
+Construction Products — This segment is a branded supplier of innovative engineered fastening systems and solutions. This segment primarily serves the residential construction, renovation/remodel and commercial construction markets. Products in this segment include:
+
+• fasteners and related fastening tools for wood and metal applications;
+
+• anchors, fasteners and related tools for concrete applications;
+
+• metal plate truss components and related equipment and software; and
+
+• packaged hardware, fasteners, anchors and other products for retail.
+
+Products in this segment are primarily manufactured to meet anticipated customer demand. The Company typically recognizes revenue for these products at the time of product shipment.
+
+Specialty Products — This segment is focused on diversified niche market opportunities with substantial patent protection producing beverage packaging equipment and consumables, product coding and marking equipment and consumables, and appliance components and fasteners. This segment primarily serves the food and beverage, consumer durables, airlines, general industrial, industrial capital goods and printing and publishing markets. Products in this segment include:
+
+• conveyor systems and line automation for the food and beverage industries;
+
+• plastic consumables that multi-pack cans and bottles and related equipment;
+
+• foil, film and related equipment used to decorate consumer products;
+
+• product coding and marking equipment and related consumables;
+
+• plastic and metal closures and components for appliances;
+
+• airport ground support equipment; and
+
+• components for medical devices.
+
+Products in this segment are primarily manufactured to meet anticipated customer demand. The Company typically recognizes revenue for these products at the time of product shipment. In limited circumstances where significant obligations to the customer are unfulfilled at the time of shipment, typically involving installation of equipment and customer acceptance, revenue is recognized when such obligations have been completed.
+
+(5) Other Income (Expense)
+
+Other income (expense) for the twelve months ended December 31, 2025, 2024 and 2023 consisted of the following:
+
+In the fourth quarter of 2012, the Company divested a 51 % majority interest in its former Decorative Surfaces segment to certain funds managed by Clayton, Dubilier & Rice, LLC ("CD&R"). As a result of the transaction, the Company owned common units (the "Common Units") of Wilsonart International Holdings LLC ("Wilsonart") initially representing approximately 49 % (on an as-converted basis) of the total outstanding equity and CD&R owned cumulative convertible participating preferred units (the "Preferred Units") of Wilsonart representing approximately 51 % (on an as-converted basis) of the total outstanding equity. The ownership interest in Wilsonart was reported using the equity method of accounting. The Company's proportionate share in the income (loss) of Wilsonart was reported in Other income (expense) in the Statement of Income. As the Company's investment in Wilsonart was structured as a partnership for U.S. tax purposes, U.S. taxes were recorded separately from the equity investment. In 2016, the Company received a $ 167 million dividend distribution from Wilsonart which exceeded the Company's equity investment balance and resulted in a $ 54 million pre-tax gain in 2016. As a result of the dividend distribution, the equity investment balance in Wilsonart was reduced to zero and subsequent equity investment income was suspended and no longer recognized.
+
+On August 5, 2024, the Company entered into a purchase agreement with affiliates of CD&R for the sale of the Company's noncontrolling equity interest in Wilsonart for $ 398 million. The transaction closed immediately after the execution of the purchase agreement. Proceeds from the transaction, net of transaction costs, were $ 395 million, resulting in a pre-tax gain of $ 363 million which was included in Other income (expense) in the Statement of Income. Income taxes on the gain were more than offset by a discrete tax benefit of $ 107 million in the third quarter of 2024 related to the utilization of capital loss carryforwards upon the sale of Wilsonart. Refer to Note 6. Income Taxes for further information.
+
+(6) Income Taxes
+
+On July 4, 2025, the One Big Beautiful Bill Act (the "OBBBA") was enacted in the United States, which extended and modified certain provisions of the 2017 Tax Cuts and Jobs Act (the "TCJA"). The provisions of the OBBBA did not have any impact on the Company's operating results, financial position or cash flows for the twelve months ended December 31, 2025, and is not expected to have a material impact on future periods.
+
+Noncurrent income taxes payable — On December 22, 2017, the TCJA was enacted in the United States. The provisions of the TCJA significantly revised the U.S. corporate income tax rules. In connection with the enactment of the TCJA, the Company recorded a one-time additional income tax expense of $ 676 million in the fourth quarter of 2017 related to a one-time repatriation tax on the deemed repatriation of post-1986 undistributed earnings of foreign subsidiaries. A portion of the resulting income taxes payable could be paid in installments over eight years. The final installment of the noncurrent income taxes payable related to the one-time repatriation tax of $ 151 million was reported in Income taxes payable as of December 31, 2024, and paid when due during the twelve months ended December 31, 2025.
+
+Provision for income taxes — The components of the provision for income taxes for the twelve months ended December 31, 2025, 2024 and 2023 were as follows:
+
+Income before taxes for domestic and foreign operations for the twelve months ended December 31, 2025, 2024 and 2023 was as follows:
+
+Effective with the Company's annual disclosures for the year ended December 31, 2025, the Company prospectively adopted new guidance which requires disclosure of specific categories and greater disaggregation of information presented in the effective tax rate reconciliation. The following table is a reconciliation between the U.S. federal statutory tax rate and the effective tax rate for the twelve months ended December 31, 2025:
+
+State income taxes in California, Illinois, Pennsylvania, Minnesota, and Florida made up the majority of State income taxes, net of U.S. federal tax benefit for the twelve months ended December 31, 2025.
+
+The following table is a reconciliation between the U.S. federal statutory rate and the effective tax rate for the twelve months ended December 31, 2024 and 2023:
+
+The Company's effective tax rate for the twelve months ended December 31, 2025, 2024 and 2023 was 22.7 %, 21.1 % and 22.6 %, respectively. The 2025 effective tax rate included a discrete tax benefit of $ 21 million in the first quarter of 2025 related to the reversal of a valuation allowance on net operating loss carryforwards. Additionally, the 2025 effective tax rate benefited from a discrete tax benefit in the third quarter of 2025 of $ 43 million related to the estimated U.S. federal tax liability for 2024, partially offset by a $ 16 million discrete tax expense related primarily to the resolution of a foreign tax audit. The 2024 effective tax rate benefited from discrete income tax benefits during the third quarter of 2024 of $ 107 million related to the utilization of capital loss carryforwards upon the sale of Wilsonart and $ 87 million related to a reorganization of the Company's intellectual property, partially offset by a $ 73 million discrete tax expense related to the remeasurement of unrecognized tax benefits associated with various intercompany transactions. The 2023 effective tax rate benefited from a discrete income tax benefit of $ 20 million in the second quarter of 2023 related to amended 2021 U.S. taxes. Additionally, the effective tax rates for 2025, 2024 and 2023 included discrete income tax benefits of $ 8 million, $ 14 million, and $ 20 million, respectively, related to excess tax benefits from stock-based compensation.
+
+Upon repatriation of foreign earnings to the U.S., the Company may be subject to foreign withholding taxes. The accrual for foreign withholding taxes related to the expected repatriation of foreign held cash and equivalents as of December 31, 2025 and 2024 was $ 47 million and $ 44 million, respectively.
+
+Deferred foreign withholding taxes have not been provided on undistributed earnings considered permanently invested. As of December 31, 2025, undistributed earnings of certain international subsidiaries that are considered permanently invested were approximately $ 6 billion. Determination of the related deferred tax liability is not practicable because of the complexities associated with the hypothetical calculation.
+
+Deferred tax assets and liabilities — The components of deferred income tax assets and liabilities as of December 31, 2025 and 2024 were as follows:
+
+The valuation allowances recorded as of December 31, 2025 and 2024 related primarily to certain net operating loss carryforwards and capital loss carryforwards. As of December 31, 2025, the Company had utilized all realizable foreign tax credit carryforwards.
+
+As of December 31, 2025, the Company had net operating loss carryforwards available to offset future taxable income in the U.S. and certain foreign jurisdictions, which expire as follows:
+
+Cash paid for income taxes, net of refunds — Effective with the Company's annual disclosures for the year ended December 31, 2025, the Company prospectively adopted new guidance which requires disaggregation of income taxes paid by jurisdiction. The following table presents income taxes paid by jurisdiction, net of refunds, for the twelve months ended December 31, 2025:
+
+Jurisdictions representing greater than 5% of total cash paid for income taxes, net of refunds, for the twelve months ended December 31, 2025 included China and Germany, which were $ 92 million and $ 74 million, respectively.
+
+Unrecognized tax benefits — The changes in the amount of unrecognized tax benefits for the twelve months ended December 31, 2025, 2024 and 2023 were as follows:
+
+Included in the balance as of December 31, 2025 were approximately $ 281 million of unrecognized tax benefits that, if recognized, would impact the Company's effective tax rate.
+
+The Company and its subsidiaries file tax returns in the U.S. and various state, local and foreign jurisdictions. These tax returns are routinely audited by the tax authorities in these jurisdictions including the Internal Revenue Service, His Majesty's Revenue and Customs, German Fiscal Authority, French Fiscal Authority, and Australian Tax Office, and a number of these audits are currently ongoing, which may increase the amount of the unrecognized tax benefits in future periods.
+
+The following table summarizes the open tax years for the Company's major jurisdictions:
+
+The Company recognizes interest and penalties related to income tax matters in income tax expense. The accrual for interest and penalties as of December 31, 2025 and 2024 was $ 75 million and $ 69 million, respectively.
+
+(7) Net Income Per Share
+
+Net income per basic share is computed by dividing net income by the weighted-average number of shares outstanding for the period. Net income per diluted share is computed by dividing net income by the weighted-average number of shares assuming dilution for stock options and restricted stock units. Dilutive shares reflect the potential additional shares that would be outstanding if the dilutive stock options outstanding were exercised and the unvested restricted stock units vested during the period. The computation of net income per share for the twelve months ended December 31, 2025, 2024 and 2023 was as follows:
+
+Options that were considered antidilutive were not included in the computation of diluted net income per share. There were 0.4 million, 0.2 million and 0.3 million antidilutive options outstanding for the twelve months ended December 31, 2025, 2024 and 2023, respectively.
+
+(8) Goodwill and Intangible Assets
+
+The changes in the carrying amount of goodwill for the twelve months ended December 31, 2025 and 2024 were as follows:
+
+Intangible assets as of December 31, 2025 and 2024 were as follows:
+
+On January 2, 2024, the Company completed the acquisition of one business in the Test & Measurement and Electronics segment for $ 57 million, net of cash acquired. On April 1, 2024, the Company completed the acquisition of one business in the Test & Measurement and Electronics segment for $ 59 million, net of cash acquired. The Company has completed the allocation of purchase price for both of these acquisitions. On October 1, 2025, the Company completed the acquisition of one business in the Test & Measurement and Electronics segment for $ 120 million, net of cash acquired, and subject to certain closing adjustments. The allocation of purchase price for this acquisition will be completed as soon as practicable, but no later than one year from the acquisition date. These acquisitions were not material, individually or in the aggregate, to the Company's results of operations, financial position or cash flows.
+
+The Company performed its annual impairment assessment of goodwill and indefinite-lived intangible assets in the third quarter of 2025, 2024 and 2023. There were no impairment charges as a result of these assessments.
+
+As of December 31, 2025, the estimated future amortization expense of intangible assets for the twelve months ending December 31 was as follows:
+
+(9) Leases
+
+The Company's lease transactions are primarily for the use of facilities, vehicles and office equipment under operating lease arrangements. Total rental expense for operating leases for the twelve months ended December 31, 2025, 2024 and 2023 was $ 149 million, $ 143 million and $ 132 million, respectively. Total rental expense for the twelve months ended December 31, 2025, 2024 and 2023 included $ 75 million, $ 65 million and $ 60 million, respectively, related to short-term operating leases and variable lease payments. Short-term operating leases have original terms of one year or less, or can be terminated at the Company's option with a short notice period and without significant penalty, and are not capitalized.
+
+The following table summarizes information related to the Company's capitalized operating leases for 2025, 2024 and 2023:
+
+The right-of-use assets related to operating leases and the current and long-term portions of operating lease liabilities were included in Other assets, Accrued expenses and Other liabilities, respectively, in the Statement of Financial Position. The weighted-average discount rate was based on the incremental borrowing rate of the Company and its subsidiaries. As of December 31, 2025, future maturities of operating lease liabilities for the twelve months ending December 31 were as follows:
+
+(10) Debt
+
+Total debt as of December 31, 2025 and 2024 was as follows:
+
+Short-term debt — Short-term debt represents obligations with a maturity date of one year or less and is stated at cost, which approximates fair value. Short-term debt also includes current maturities of long-term debt that have been reclassified to short-term, and excludes short-term debt classified as long-term because the Company has the intent and ability to extend the maturity date beyond one year. Short-term debt as of December 31, 2025 and 2024 consisted of the following:
+
+As of December 31, 2025, current maturities of long-term debt included $ 999 million related to the 2.65 % notes due November 15, 2026, which were reclassified from Long-term debt to Short-term debt in the fourth quarter of 2025. As of December 31, 2024, current maturities of long-term debt included $ 777 million related to the Euro-denominated credit agreement entered into on May 5, 2023 (the "Euro Credit Agreement") with an interest rate of 3.61 %, which was classified as Short-term debt since the debt, including the options to extend the termination date, was due on April 30, 2025. The weighted-average interest rate on commercial paper outstanding was 3.84 % and 4.56 % as of December 31, 2025 and 2024, respectively.
+
+The Company may issue commercial paper to fund general corporate needs, share repurchases, and small and medium-sized acquisitions. During the fourth quarter of 2022, the Company entered into a $ 3.0 billion, five-year revolving credit facility with a termination date of October 21, 2027, which is available to provide additional liquidity, including to support the potential issuances of commercial paper. No amounts were outstanding under the revolving credit facility as of December 31, 2025 or 2024. The Company was also in compliance with the financial covenants of the revolving credit facility as of December 31, 2025, which included a minimum interest coverage ratio.
+
+As of December 31, 2025, the Company had unused capacity of approximately $ 210 million under international debt facilities. In the ordinary course of business, the Company also had approximately $ 265 million outstanding in guarantees, letters of credit and other similar arrangements with financial institutions as of December 31, 2025.
+
+Long-term debt — Long-term debt represents obligations with a maturity date greater than one year or where the Company has the intent and ability to extend the maturity date beyond one year, and excludes current maturities that have been reclassified to short-term debt. Long-term debt at carrying value and fair value as of December 31, 2025 and 2024 consisted of the following:
+
+The approximate fair values of the Company's long-term debt, including current maturities, were based on a valuation model using Level 2 observable inputs, which included market rates for comparable instruments for the respective periods.
+
+In 2011, the Company issued $ 650 million of 4.875 % notes due September 15, 2041 at 98.539 % of face value.
+
+In 2012, the Company issued $ 1.1 billion of 3.9 % notes due September 1, 2042 at 99.038 % of face value.
+
+In February 2014, the Company issued $ 700 million of 3.5 % notes due March 1, 2024 at 99.648 % of face value, which were repaid on the due date.
+
+In May 2014, the Company issued € 500 million of 3.0 % Euro notes due May 19, 2034 at 98.089 % of face value.
+
+In May 2015, the Company issued € 500 million of 1.25 % Euro notes due May 22, 2023 at 99.239 % of face value, which were repaid on the due date, and € 500 million of 2.125 % Euro notes due May 22, 2030 at 99.303 % of face value.
+
+In November 2016, the Company issued $ 1.0 billion of 2.65 % notes due November 15, 2026 at 99.685 % of face value, which were reclassified from Long-term to Short-term debt in the fourth quarter of 2025.
+
+In June 2019, the Company issued € 600 million of 0.25 % Euro notes due December 5, 2024 at 99.662 % of face value, which were repaid on the due date, € 500 million of 0.625 % Euro notes due December 5, 2027 at 99.343 % of face value and € 500 million of 1.00 % Euro notes due June 5, 2031 at 98.982 % of face value.
+
+On May 5, 2023, the Company entered into a € 1.3 billion Euro Credit Agreement with a termination date of May 3, 2024; provided, however, that the Company may extend the termination date by six months on up to two occasions. On May 12, 2023, the Company borrowed € 1.3 billion of Euro term loans under the Euro Credit Agreement. Proceeds from the borrowing were used for general corporate purposes, including the repayment of outstanding debt. Any loan under the Euro Credit Agreement may not be re-borrowed once repaid, in full or in part, and will bear interest at a per annum rate equal to the applicable EURIBOR (adjusted for any statutory reserves) plus 0.75 % for the interest period selected by the Company of one, three or six months. The first and second options to extend the termination date were both exercised in 2024. On May 22, 2024, the Company repaid € 550 million of the term loans under the Euro Credit Agreement using a portion of the proceeds from the Euro notes issued on May 17, 2024, as discussed below. As of December 31, 2024, the Company had $ 777 million outstanding under the Euro Credit Agreement with an interest rate of 3.61 %, which was classified as Short-term debt since the debt, including the options to extend the termination date, was due on April 30, 2025.
+
+In May 2024, the Company issued € 650 million of 3.25 % Euro notes due May 17, 2028 at 99.525 % of face value and € 850 million of 3.375 % Euro notes due May 17, 2032 at 99.072 % of face value. Proceeds from the issuance were used for general corporate purposes, including the repayment of a portion of the indebtedness under the commercial paper program and the Euro Credit Agreement.
+
+On February 24, 2025, the Company entered into an amendment to the Euro Credit Agreement to extend the termination date from April 30, 2025 to February 28, 2027, with an option to further extend the termination date to September 15, 2027. The amendment also decreased the interest rate spread applicable to the loans from 0.75 % to 0.70 % and removed the option for a one-month interest period. As of December 31, 2025, the Company had $ 881 million outstanding under the Euro Credit Agreement with an interest rate of 2.77 %, which was reclassified from Short-term debt to Long-term debt in the first quarter of 2025.
+
+The outstanding balances of the Euro notes issued in May 2014, May 2015, June 2019 and May 2024, and the term loan under the Euro Credit Agreement are designated as hedges of a portion of the Company's net investment in Euro-denominated foreign operations to reduce foreign currency risk associated with the investment in these operations. Changes in the value of this debt resulting from fluctuations in the Euro to U.S. Dollar exchange rate have been recorded as foreign currency translation adjustments within Accumulated other comprehensive income (loss). Refer to Note 13. Stockholders' Equity for additional information regarding the net investment hedge.
+
+All of the Company's long-term debt listed above represent senior unsecured obligations ranking equal in right of payment. As of December 31, 2025, scheduled future maturities of long-term debt, including current maturities of long-term debt, for the twelve months ending December 31 were as follows:
+
+(11) Pension and Other Postretirement Benefits
+
+The Company has both funded and unfunded defined benefit pension and other postretirement benefit plans, predominately in the U.S. The U.S. primary pension plan provides benefits based on years of service and final average salary. The U.S. primary postretirement health care plan is contributory with the participants' contributions adjusted annually. The U.S. primary postretirement life insurance plan is noncontributory. Beginning January 1, 2007, the U.S. primary pension and other postretirement benefit plans were closed to new participants. Newly hired employees and employees from acquired businesses that are not participating in these plans are eligible for additional Company contributions under the existing U.S. primary defined contribution retirement plans. The Company's expense related to defined contribution plans was $ 119 million in 2025, $ 117 million in 2024, and $ 117 million in 2023. In addition to the U.S. plans, the Company also has defined benefit pension plans in certain other countries, mainly the United Kingdom, Canada, Germany and Switzerland.
+
+Summarized information regarding net periodic benefit cost included in the Statement of Income related to the Company's significant defined benefit pension and other postretirement benefit plans for the twelve months ended December 31, 2025, 2024 and 2023 is as follows:
+
+The service cost component of net periodic benefit cost is presented within Cost of revenue and Selling, administrative, and research and development expenses in the Statement of Income while the other components of net periodic benefit cost are presented within Other income (expense).
+
+The Company used the most recently published mortality improvement scale from the Society of Actuaries, MP-2021, to measure its U.S. pension and other postretirement benefit obligations as of December 31, 2025 and 2024, which did not have a significant impact.
+
+The following table provides a rollforward of the plan benefit obligations for the twelve months ended December 31, 2025 and 2024:
+
+For the years ended December 31, 2025 and 2024, the actuarial (gain) loss related to the Company's pension and other postretirement benefit obligations was primarily related to changes in discount rates. Refer to the Assumptions section below for further details related to the discount rates used in the valuations of pension and other postretirement benefit obligations.
+
+The following table provides a rollforward of the plan assets and a reconciliation of funded status for the twelve months ended December 31, 2025 and 2024:
+
+As of December 31, 2025 and 2024, pension plans with projected benefit obligations in excess of plan assets had projected benefit obligations of $ 128 million and $ 159 million, respectively, and plan assets of $ 29 million and $ 56 million, respectively. As of December 31, 2025 and 2024, pension plans with accumulated benefit obligations in excess of plan assets had accumulated benefit obligations of $ 124 million and $ 155 million, respectively, and plan assets of $ 29 million and $ 56 million, respectively.
+
+Assumptions — The weighted-average assumptions used in the valuations of pension and other postretirement benefits were as follows:
+
+The expected long-term rates of return for pension and other postretirement benefit plans were developed using historical asset class returns while factoring in current market conditions such as inflation, interest rates and asset class performance.
+
+The discount rate reflects the current rate at which the associated liabilities could theoretically be effectively settled at the end of the year. In estimating this rate, the Company looks at rates of return on high-quality fixed income investments, with similar duration to the liabilities in the plan. The Company estimates the service and interest cost components of net periodic benefit cost by applying specific spot rates along the yield curve to the projected cash flows rather than a single weighted-average rate.
+
+Assumed health care cost trend rates have an effect on the amounts reported for the postretirement health care benefit plans. The assumed health care cost trend rates used to determine the postretirement benefit obligation as of December 31 were as follows:
+
+Plan assets — The Company's overall investment strategy for the assets in the pension funds is to achieve a balance between the goals of growing plan assets and keeping risk at a reasonable level over a long-term investment horizon. In order to reduce unnecessary risk, the pension funds are diversified across several asset classes, securities and investment managers. The target allocations for plan assets are 10 % to 25 % equity investments, 75 % to 90 % fixed income investments and 0 % to 10 % in other types of investments. The Company does not use derivatives for the purpose of speculation, leverage, circumventing investment guidelines or taking risks that are inconsistent with specified guidelines.
+
+The assets in the Company's postretirement health care plan are primarily invested in life insurance policies. The Company's overall investment strategy for the assets in the postretirement health care fund is to invest in assets that provide a reasonable tax exempt rate of return while preserving capital.
+
+The following tables present the fair value of the Company's pension and other postretirement benefit plan assets as of December 31, 2025 and 2024 by asset category and valuation methodology. Level 1 assets are valued using unadjusted
+
+quoted prices for identical assets in active markets. Level 2 assets are valued using quoted prices or other observable inputs for similar assets. Level 3 assets are valued using unobservable inputs, but reflect the assumptions market participants would be expected to use in pricing the assets. Each financial instrument's categorization is based on the lowest level of input that is significant to the fair value measurement.
+
+Cash and equivalents include cash on hand and instruments with original maturities of three months or less and are valued at cost, which approximates fair value. Fixed income securities primarily consist of U.S. and foreign government bills, notes and bonds, corporate debt securities and investment contracts. The majority of the assets in this category are valued by evaluating bid prices provided by independent financial data services. For securities where market data is not readily available, unobservable market data is used to value the security.
+
+Pension assets measured at net asset value include mutual funds, collective trust funds, partnerships/private equity interests and life insurance policies. Mutual funds and collective trust funds are funds that are valued based on the value of the
+
+underlying investments which can be redeemed on a daily basis. The underlying investments include both passively and actively managed U.S. and foreign large- and mid-cap equity funds and short-term investment funds. Partnerships/private equity interests are investments in partnerships where the benefit plan is a limited partner. The investments are valued by the investment managers on a periodic basis using pricing models that use market, income and cost valuation methods. Distributions are received from these funds on a periodic basis through the liquidation of the underlying assets of the fund.
+
+Life insurance policies are used to fund other postretirement benefits in order to obtain favorable tax treatment and are valued based on the cash surrender value of the underlying policies. The Company has selected the funds in which these assets are invested and may elect to withdraw funds with proper notice to the insurance company or maintain the policies and receive death benefits as determined by the contracts.
+
+Cash flows — The Company generally funds its pension and other postretirement benefit plans as required by law or to the extent such contributions are tax deductible. The Company expects to contribute approximately $ 24 million to its pension plans and $ 31 million to its other postretirement benefit plans in 2026. As of December 31, 2025, the Company's portion of the future benefit payments that are expected to be paid during the twelve months ending December 31 is as follows:
+
+(12) Commitments and Contingencies
+
+The Company is subject to various legal proceedings and claims, governmental inquiries, inspections, or investigations that arise in the ordinary course of business, including those involving environmental, product liability (including toxic tort) and general liability claims. The Company accrues for such liabilities when it is probable that future costs will be incurred and such costs can be reasonably estimated. Such accruals are based on developments to date, the Company's estimates of the outcomes of these matters and its experience in contesting, litigating and settling other similar matters. The Company believes resolution of these matters, individually and in the aggregate, will not have a material adverse effect on the Company's financial position, liquidity or future operations.
+
+(13) Stockholders' Equity
+
+Preferred stock — Preferred stock, without par value, of which 0.3 million shares are authorized and unissued, is issuable in series. The Board of Directors is authorized to fix by resolution the designation and characteristics of each series of preferred stock. The Company has no present commitment to issue its preferred stock.
+
+Share repurchases — On May 7, 2021, the Company announced a stock repurchase program which provided for the repurchase of up to $ 3.0 billion of the Company's common stock over an open-ended period of time (the "2021 Program"). Under the 2021 Program, the Company repurchased approximately 7.1 million shares of its common stock at an average price of $ 210.46 per share during 2022 and approximately 6.3 million shares of its common stock at an average price of $ 235.35 per share during 2023. The 2021 Program was completed in the fourth quarter of 2023.
+
+On August 4, 2023, the Company announced a stock repurchase program which provides for the repurchase of up to an additional $ 5.0 billion of the Company's common stock over an open-ended period of time (the "2023 Program"). Under the 2023 Program, the Company repurchased approximately 38,000 shares of its common stock at an average price of $ 263.44 per share during the fourth quarter of 2023, approximately 5.9 million shares of its common stock at an average price of $ 254.04 per share during 2024 and approximately 6.0 million shares of its common stock at an average price of $ 251.20 per share during 2025. As of December 31, 2025, there were approximately $ 2.0 billion of authorized repurchases remaining under the 2023 Program.
+
+Cash Dividends — Cash dividends declared were $ 6.22 per share in 2025, $ 5.80 per share in 2024 and $ 5.42 per share in 2023. Cash dividends paid were $ 6.11 per share in 2025, $ 5.70 per share in 2024 and $ 5.33 per share in 2023.
+
+Accumulated other comprehensive income (loss) — The changes in accumulated other comprehensive income (loss) during 2025, 2024 and 2023 were as follows:
+
+In 2024, foreign currency translation adjustments reclassified to income related primarily to the sale of the noncontrolling interest in Wilsonart in the third quarter of 2024. In 2023, foreign currency translation adjustments reclassified to income primarily related to the exit of immaterial foreign operations. Pension and other postretirement benefit adjustments reclassified to income related primarily to settlements, the amortization of actuarial gains and losses and prior service cost. In 2024, pension and other post retirement benefit adjustments reclassified to income also included the sale of the noncontrolling interest in Wilsonart. Refer to Note 5. Other Income (Expense) and Note 11. Pension and Other Postretirement Benefits for additional information.
+
+The outstanding balances of the Euro notes issued in May 2014, May 2015, June 2019 and May 2024, and the Euro term loan under the Euro Credit Agreement are designated as hedges of a portion of the Company's net investment in Euro-denominated foreign operations to reduce foreign currency risk associated with the investment in these operations. Changes in the value of this debt resulting from fluctuations in the Euro to U.S. Dollar exchange rate have been recorded as foreign currency translation adjustments within Accumulated other comprehensive income (loss). The amount of pre-tax gain (loss) related to these notes that was recorded in Other comprehensive income (loss) for the twelve months ended December 31, 2025, 2024 and 2023 was $( 589 ) million, $ 301 million and $( 109 ) million, respectively. The carrying value of the outstanding balance of Euro-denominated debt that was designated as a net investment hedge as of December 31, 2025 and December 31, 2024 was $ 5.0 billion and $ 4.4 billion, respectively. Refer to Note 10. Debt for additional information regarding the Company's outstanding Euro debt.
+
+As of December 31, 2025 and 2024, the ending balance of Accumulated other comprehensive income (loss) consisted of after-tax cumulative translation adjustment losses of $ 1.6 billion and $ 1.6 billion, respectively, and after-tax unrecognized pension and other postretirement benefits costs of $ 237 million and $ 266 million, respectively.
+
+(14) Stock-Based Compensation
+
+On May 3, 2024, the 2024 Long-Term Incentive Plan (the "2024 Plan") was approved by shareholders, and became effective on June 30, 2024 (the "Effective Date"). Subsequent to the Effective Date, no additional awards will be granted to employees under the 2015 Long-Term Incentive Plan (the "2015 Plan"). The 2024 Plan allows for the issuance of up to 11.5 million shares of ITW common stock for awards granted under the plan, of which 3.5 million shares were subject to awards outstanding under the 2015 Plan as of the Effective Date and are available for rollover should the awards expire, terminate or be forfeited. The significant terms of stock options and restricted stock units ("RSUs") were not changed under the 2024 Plan. Stock options and RSUs are issued to officers and/or other management employees under these plans. Stock options generally vest over a four-year period and have an expiration of ten years from the issuance date. RSUs generally "cliff" vest after a three-year period and include units with and without performance criteria. RSUs with performance criteria provide for full "cliff" vesting after three years if the Compensation Committee of the Board of Directors certifies that the performance goals have been met. Upon vesting, the holder will receive one share of common stock of the Company for each vested restricted stock unit. The Company generally issues shares from treasury stock to cover exercised options and vested RSUs.
+
+The Company records compensation expense for the grant-date fair value of stock awards over the remaining service periods of those awards. The following table summarizes the Company's stock-based compensation expense for the twelve months ended December 31, 2025, 2024 and 2023:
+
+The following table summarizes activity related to non-vested RSUs for the twelve months ended December 31, 2025:
+
+The following table summarizes stock option activity for the twelve months ended December 31, 2025:
+
+The fair value of RSUs is equal to the common stock fair market value on the date of the grant. RSUs provide for dividend equivalents payable in additional RSUs for dividends that would have been paid during the vesting period. Stock option exercise prices are equal to the common stock fair market value on the date of grant. The Company estimates forfeitures based on historical rates for awards with similar characteristics. The Company uses a binomial option pricing model to estimate the fair value of the stock options granted. The following summarizes the assumptions used in the option valuations for the twelve months ended December 31, 2025, 2024 and 2023:
+
+Lattice-based option valuation models, such as the binomial option pricing model, incorporate ranges of assumptions for inputs. The risk-free rate of interest for periods within the contractual life of the option is based on a zero-coupon U.S. government instrument over the contractual term of the equity instrument. Expected volatility is based on implied volatility from traded options on the Company's stock and historical volatility of the Company's stock. The Company uses historical data to estimate option exercise timing and employee termination rates within the valuation model. The weighted-average dividend yield is based on historical information. The expected term of options granted is derived from the output of the option valuation model and represents the period of time that options granted are expected to be outstanding. The ranges presented result from separate groups of employees assumed to exhibit different exercise behavior.
+
+The weighted-average grant-date fair value of stock options granted for the twelve months ended December 31, 2025, 2024 and 2023 was $ 71.97 , $ 68.98 and $ 67.16 per share, respectively. The aggregate intrinsic value of stock options exercised during the twelve months ended December 31, 2025, 2024 and 2023 was $ 49 million, $ 55 million and $ 79 million, respectively. Exercise of stock options during the twelve months ended December 31, 2025, 2024 and 2023 resulted in cash receipts of $ 65 million, $ 52 million and $ 53 million, respectively. The total grant-date fair value of vested stock option awards during the twelve months ended December 31, 2025, 2024 and 2023 was $ 18 million, $ 18 million and $ 18 million, respectively. As of December 31, 2025, there was $ 10 million of total unrecognized compensation cost related to unvested stock options. That cost is expected to be recognized over a weighted-average period of 1.9 years.
+
+The weighted-average grant-date fair value of RSU awards granted for the twelve months ended December 31, 2025, 2024 and 2023 was $ 254.85 , $ 243.77 and $ 232.21 , respectively. The total grant-date fair value of vested RSU awards during the twelve months ended December 31, 2025, 2024 and 2023 was $ 46 million, $ 52 million and $ 35 million, respectively. As of December 31, 2025, there was $ 57 million of total unrecognized compensation cost related to unvested RSUs. That cost is expected to be recognized over a weighted-average remaining contractual life of 1.8 years.
+
+(15) Other Balance Sheet Information
+
+Other balance sheet information as of December 31, 2025 and 2024 was as follows:
+
+(16) Segment Information
+
+The Company's operations are organized and managed based on similar product offerings and end markets, and are reported to senior management as the following seven segments: Automotive OEM; Food Equipment; Test & Measurement and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty Products. The following is a description of the Company's seven segments:
+
+Automotive OEM — This segment is a global, niche supplier to top tier OEMs, providing unique innovation to address pain points for sophisticated customers with complex problems. Businesses in this segment produce components and fasteners for automotive-related applications.
+
+Food Equipment — This segment is a highly focused and branded industry leader in commercial food equipment differentiated by innovation and integrated service offerings.
+
+Test & Measurement and Electronics — This segment is a branded and innovative producer of test and measurement and electronic manufacturing and MRO solutions that improve efficiency and quality for customers in diverse end markets. Businesses in this segment produce equipment, consumables, and related software for testing and measuring of materials and structures, as well as equipment and consumables used in the production of electronic subassemblies and microelectronics.
+
+Welding — This segment is a branded value-added equipment and specialty consumable manufacturer with innovative and leading technology. Businesses in this segment produce arc welding equipment, consumables and accessories for a wide array of industrial and commercial applications.
+
+Polymers & Fluids — This segment is a branded supplier to niche markets that require value-added, differentiated products. Businesses in this segment produce engineered adhesives, sealants, lubrication and cutting fluids, and fluids and polymers for auto aftermarket maintenance and appearance.
+
+Construction Products — This segment is a branded supplier of innovative engineered fastening systems and solutions.
+
+Specialty Products — This segment is focused on diversified niche market opportunities with substantial patent protection producing beverage packaging equipment and consumables, product coding and marking equipment and consumables, and appliance components and fasteners.
+
+The Company's chief operating decision maker ("CODM") is the President & Chief Executive Officer. The CODM primarily uses operating revenue, operating income and related operating margins in assessing the current and expected long-term performance of the Company's segments, including the application of the Company's enterprise strategies which focus on profitable growth and continuous improvement to margins and returns through the application of the Company's business model. Operating income and margins are also used by the CODM when evaluating segment investments in capital projects and restructuring initiatives. The CODM regularly reviews summarized financial information related to segment operating revenue, variable margins, overhead expenses, operating income and operating margins as compared to forecasted results.
+
+The accounting policies for the Company's segments are the same as the policies described in Note 1. Description of Business and Summary of Significant Accounting Policies. Intersegment sales transactions are accounted for at prices consistent with sales to third parties and are not considered material. Segments are allocated a fixed overhead charge for general corporate administrative expenses based on a percentage of the segment's operating revenue. Expenses not allocated to the segments are reported separately as Unallocated. Because the Unallocated category includes a variety of items, it is subject to fluctuations on a quarterly and annual basis.
+
+Segment operating revenue, significant expenses and operating income for 2025, 2024 and 2023 was as follows:
+
+Unallocated expenses in 2025 included higher health and welfare expenses and insurance-related expenses as compared to the prior year. Unallocated expenses in 2024 included the favorable pre-tax cumulative effect of the LIFO accounting method change of $ 117 million in the first quarter of 2024. Refer to Note 1. Description of Business and Summary of Significant Accounting Policies for additional information regarding this change in accounting method.
+
+Segment depreciation and amortization and impairment of intangible assets for 2025, 2024 and 2023 was as follows:
+
+Asset and capital expenditure information by segment is not regularly provided to or reviewed by the CODM and is therefore not disclosed.
+
+Enterprise-wide information for the twelve months ended December 31, 2025, 2024 and 2023 was as follows:
+
+Operating revenue by geographic region is based on the customers' locations. The Company had approximately 40 % and 44 % of its total net plant and equipment in the United States as of December 31, 2025 and 2024, respectively. Additionally, the Company had 16 % and 16 % of its total net plant and equipment in China as of December 31, 2025 and 2024, respectively. No other country represented more than 10% of the Company's net plant and equipment as of December 31, 2025 and 2024. No single customer accounted for more than 5% of consolidated revenues for the twelve months ended December 31, 2025, 2024 or 2023.
+
+ITEM 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+
+None.
+
+ITEM 9A. Controls and Procedures
+
+Controls and Procedures
+
+The Company's management, with the participation of the Company's President & Chief Executive Officer and Senior Vice President & Chief Financial Officer, has evaluated the effectiveness of the Company's disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)) as of December 31, 2025. Based on such evaluation, the Company's President & Chief Executive Officer and Senior Vice President & Chief Financial Officer have concluded that, as of December 31, 2025, the Company's disclosure controls and procedures were effective.
+
+Management Report on Internal Control over Financial Reporting
+
+The Management Report on Internal Control over Financial Reporting and the Report of Independent Registered Public Accounting Firm are found in Item 8. Financial Statements and Supplementary Data.
+
+In connection with the evaluation by management, including the Company's President & Chief Executive Officer and Senior Vice President & Chief Financial Officer, no changes in the Company's internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)) during the quarter ended December 31, 2025 were identified that have materially affected or are reasonably likely to materially affect the Company's internal control over financial reporting.
+
+ITEM 9B. Other Information
+
+None .
+
+ITEM 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+None.
+
+PART III
+
+ITEM 10. Directors, Executive Officers and Corporate Governance
+
+Information related to Executive Officers and Directors of the Company is included under the caption "Information About Our Executive Officers" contained in Item 1. Business of this Annual Report on Form 10-K and under the caption "Proposal 1 – Election of Directors" in the Company's definitive Proxy Statement for its Annual Meeting of Stockholders expected to be held on May 8, 2026 (the "2026 Proxy Statement"), which is incorporated by reference into this Annual Report on Form 10-K.
+
+Information regarding the Company's Insider Trading Policy and related policies and procedures is incorporated by reference into this Annual Report on Form 10-K from the information under the caption "Other Governance Policies and Practices" in the Company's 2026 Proxy Statement.
+
+Information regarding the Company's Code of Ethics that applies to the Company's President & Chief Executive Officer, Senior Vice President & Chief Financial Officer, and Vice President & Chief Accounting Officer is incorporated by reference into this Annual Report on Form 10-K from the information under the caption "Other Governance Policies and Practices" in the Company's 2026 Proxy Statement. The Company's Code of Ethics is posted on the Company's website (www.itw.com).
+
+ITEM 11. Executive Compensation
+
+Information required by this Item 11 is included under the captions "Proposal 1 – Election of Directors" and "Proposal 2 – Advisory Vote to Approve Compensation of ITW's Named Executive Officers" contained in the Company's 2026 Proxy Statement. This information is incorporated by reference into this Annual Report on Form 10-K.
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Information required by this Item 12 is included under the caption "Proposal 2 – Advisory Vote to Approve Compensation of ITW's Named Executive Officers" contained in the Company's 2026 Proxy Statement. This information is incorporated by reference into this Annual Report on Form 10-K.
+
+ITEM 13. Certain Relationships and Related Transactions, and Director Independence
+
+Information required by this Item 13 is included under the caption "Proposal 1 - Election of Directors" in the Company's 2026 Proxy Statement. This information is incorporated by reference into this Annual Report on Form 10-K.
+
+ITEM 14. Principal Accountant Fees and Services
+
+Information required by this Item 14 is included under the caption "Proposal 3 - Ratification of the Appointment of Independent Registered Public Accounting Firm" in the Company's 2026 Proxy Statement. This information is incorporated by reference into this Annual Report on Form 10-K.
+
+PART IV
+
+ITEM 15. Exhibits and Financial Statement Schedules
+
+(a) (1) Financial Statements
+
+The following information is included as part of Item 8. Financial Statements and Supplementary Data:
+
+Management Report on Internal Control over Financial Reporting
+
+Statement of Income
+
+Statement of Comprehensive Income
+
+Statement of Financial Position
+
+Statement of Changes in Stockholders' Equity
+
+Statement of Cash Flows
+
+Notes to Financial Statements
+
+The following report of the Company's independent registered public accounting firm (PCAOB ID: 34 ) is included as part of Item 8. Financial Statements and Supplementary Data:
+
+Report of Independent Registered Public Accounting Firm
+
+(2) Financial Statement Schedules
+
+None.
+
+(3) Exhibits
+
+ITEM 16. Form 10-K Summary
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized on this 13th day of February 2026.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities indicated on this 13th day of February 2026.
+
+Original powers of attorney authorizing Christopher A. O'Herlihy to sign the Company's Annual Report on Form 10-K and amendments thereto on behalf of the above-named directors of the registrant have been filed with the Securities and Exchange Commission as part of this Annual Report on Form 10-K (Exhibit 24).

@@ -53,3 +53,16 @@ deterministic Industrials reserve under seed `20250729` (within-sector order
 17), receives `P2025-R001`, and has `analysis_included=1`. No new random draw,
 AI-related information, or filing text was used. The replacement preserves the
 original sector allocation and yields 100 eligible primary filings.
+
+## Text extraction
+
+The sole extraction input is `html/manifest/html_manifest.csv`, whose 100
+source SHA-256 values are revalidated before parsing. The parser follows the
+cleaning principles of Cooper, Ewing, and Mishra (2022), adapted to modern
+inline XBRL. It removes hidden and executable markup, separates tables from
+narrative text, normalizes Unicode, preserves punctuation and case, and links
+paragraphs, sentences, and detected Items to the original accession.
+
+Detailed paragraph and sentence tables are gzip-compressed CSV files because
+their uncompressed forms exceed 20 MB. Section warnings and `not_present`
+statuses are retained for audit. No SEC network request occurs in this stage.

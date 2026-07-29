@@ -1,0 +1,91 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+_________________________________________________________________
+
+FORM 10-K
+
+(Mark One)
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended September 26 , 2025
+
+OR
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ____ to ____
+
+Commission File No. 1-7463
+
+_________________________________________________________________
+
+Jacobs Solutions Inc.
+
+( 214 ) 583 – 8500
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+_________________________________________________________________
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. ☒ Yes ☐ No
+
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. ☐ Yes ☒ No
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ☒ Yes ☐ No
+
+Indicate by check mark whether the Registrant: has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files). ☒ Yes ☐ No
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Act). ☐ Yes ☒ No
+
+There were 118,749,162 shar es of common stock outstandin g as of November 10, 2025. The aggregate market value of the Registrant’s common equity held by non-af filiates was approximately $ 14.4 billion as of March 28, 2025, based upon the last reported sales price on the New York Stock Exchange on that date.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Registrant’s definitive proxy statement to be issued in connection with its 2026 annual meeting of shareholders are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated.
+
+JACOBS SOLUTIONS INC.
+
+Fiscal 2025 Annual Report on Form 10-K
+
+PART I
+
+FORWARD-LOOKING STATEMENTS
+
+In addition to historical information, this Annual Report on Form 10-K contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that do not directly relate to any historical or current fact. When used herein, words such as "expects," "anticipates," "believes," "seeks," "estimates," "plans," "intends," “future,” “will,” “would,” “could,” “can,” “may,” "target," "goal" and similar words are intended to identify forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements we make concerning the financial condition and results of operations and our expectations as to our future growth, prospects, financial outlook and business strategy, and any assumptions underlying any of the foregoing. Although such statements are based on management’s current estimates and expectations and/or currently available competitive, financial, and economic data, forward-looking statements are inherently uncertain, and you should not place undue reliance on such statements as actual results may differ materially. We caution the reader that there are a variety of risks, uncertainties and other factors that could cause actual results to differ materially from what is contained, projected or implied by our forward-looking statements. Such factors include, but are not limited to:
+
+• general economic conditions, including inflation and the actions taken by monetary authorities in response to inflation, changes in interest rates and foreign currency exchange rates, changes in capital markets and stock market volatility, instability in the banking industry, labor shortages, or the impact of a possible recession or economic downturn or changes to monetary or fiscal policies or priorities in the U.S. and the countries where we do business on our results, prospects and opportunities;
+
+• competition from existing and future competitors in our target markets, as well as the possible reduction in demand for certain of our product solutions and services, including delays in the timing of the award of projects or reduction in funding, or the abandonment of ongoing or anticipated projects due to the financial condition of our clients and suppliers or due to governmental budget constraints or changes to governmental budgetary priorities, or the inability of our clients to meet their payment obligations in a timely manner or at all;
+
+• our ability to fully execute on our corporate strategy, including the impact of acquisitions, strategic alliances, divestitures, and other strategic events resulting from evolving business strategies, including on our ability to maintain our culture and retain key personnel, customers or suppliers, or our ability to achieve the cost-savings and synergies contemplated by our recent acquisitions within the expected time frames or to achieve them fully and to successfully integrate acquired businesses while retaining key personnel, and our ability to invest in the tools needed to implement our strategy;
+
+• financial market risks that may affect us, including by affecting our access to capital, the cost of such capital and/or our funding obligations under defined benefit pension and post retirement plans;
+
+• legislative changes, including potential changes to the amounts provided for, under the Infrastructure Investment and Jobs Act, as well as other legislation and executive orders related to governmental spending, including any directive to federal agencies to reduce federal spending or the size of the federal workforce, and changes in U.S. or foreign tax laws, including the OBBBA, statutes, rules, regulations or ordinances, including the impact of, and changes to, tariffs and retaliatory tariffs or trade policies that may adversely impact our future financial position or results of operations;
+
+• increased geopolitical uncertainty and risks, including policy risks and potential civil unrest, relating to the outcome of elections across our key markets and elevated geopolitical tension and conflicts, including the Russia-Ukraine and Israel-Hamas conflicts and the escalating tensions in the Middle East, among others; and
+
+• the impact of any pandemic, and any resulting economic downturn on our results, prospects and opportunities, measures or restrictions imposed by governments and health officials in response to the pandemic, as well as the inability of governments in certain of the countries in which we operate to effectively mitigate the financial or other impacts of any future pandemics or infectious disease outbreaks on their economies and workforces and our operations therein.
+
+The foregoing factors and potential future developments are inherently uncertain, unpredictable and, in many cases, beyond our control. For a description of these and additional factors that may occur that could cause actual results to differ from our forward-looking statements, see Item 1A- Risk Factors below. We undertake no obligation to release publicly any revisions or updates to any forward-looking statements. We encourage you to read carefully the risk factors described herein and in other documents we file from time to time with the United States Securities and Exchange Commission (the "SEC").
+
+Unless the context otherwise requires, all references herein to "Jacobs" or the "Registrant" are to Jacobs Solutions Inc. and its predecessors, and references to the "Company", "we", "us" or "our" are to Jacobs Solutions Inc. and its consolidated subsidiaries. On August 29, 2022, Jacobs Engineering Group Inc. (JEGI), the predecessor to Jacobs Solutions Inc., implemented a holding company structure, which resulted in Jacobs Solutions Inc. becoming the parent company of, and successor issuer to, JEGI (the "Holding Company Reorganization"). For purposes of this Annual Report, references to the "Company", "we", "us" or "our" or "our management" or "our business" at any point prior to August 29, 2022 (the "Holding Company Implementation Date") refer to JEGI and its consolidated subsidiaries as the predecessor to Jacobs Solutions Inc.
+
+On September 27, 2024, Jacobs Solutions Inc. ("Jacobs") completed the previously announced Reverse Morris Trust transaction pursuant to which (i) Jacobs first transferred its Critical Mission Solutions business (“CMS”) and portions of the Divergent Solutions (“DVS”) business (referred to herein as the Cyber & Intelligence business (“C&I”) and together with CMS referred to as the “SpinCo Business”), to Amazon Holdco Inc., a Delaware corporation, which has been renamed Amentum Holdings, Inc. (“SpinCo”) (the “Separation”), (ii) Jacobs then effectuated a spin-off of SpinCo by distributing 124,084,108 shares of SpinCo common stock, par value $0.01 per share (the “SpinCo Common Stock”) by way of a pro rata distribution to its shareholders such that each holder of shares of Jacobs common stock, par value $1.00 per share (the “Jacobs Common Stock”) was entitled to receive one share of SpinCo Common Stock for each share of Jacobs common stock held as of the record date, September 23, 2024 (the “Distribution”), and (iii) finally, Amentum Parent Holdings LLC merged with and into SpinCo, with SpinCo surviving the merger (the “Merger” and together with the Separation and the Distribution, the “Separation Transaction”). The surviving entity of the Transaction is now an independent public company with common stock listed on the New York Stock Exchange under the symbol “AMTM” (“Amentum”). The financial results of the SpinCo Business are reflected in our Consolidated Statements of Earnings as discontinued operations for all periods presented. For further information regarding separation activities that took place in fiscal 2025, see Note 14- Discontinued Operations of the Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.

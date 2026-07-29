@@ -1,0 +1,29 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+If morbidity assumptions decreased by 100 basis points, the Company's LFPB balance as of December 31, 2025 would decrease by $299 million, assuming all other factors remain constant. Likewise, if morbidity assumptions increased by 100 basis points, the Company's LFPB balance as of December 31, 2025 would increase by $303 million, assuming all other factors remain constant.
+
+For additional information on future policy benefits, see Notes 1 and 7 of the Notes to the Consolidated Financial Statements.
+
+Income Taxes
+
+Income tax provisions are generally based on pretax earnings reported for financial statement purposes, which differ from those amounts used in preparing the Company's income tax returns. Deferred income taxes are recognized for temporary differences between the financial reporting basis and income tax basis of assets and liabilities, based on enacted tax laws and statutory tax rates applicable to the periods in which the Company expects the temporary differences to reverse. The evaluation of a tax position in accordance with U.S. GAAP is a two-step process. Under the first step, the enterprise determines whether it is more likely than not that a tax position will be sustained upon examination by taxing authorities. The second step is measurement, whereby a tax position that meets the more-likely-than-not recognition threshold is measured to determine the amount of benefit to recognize in the financial statements. A valuation allowance is established for deferred tax assets when it is more likely than not that an amount will not be realized. The determination of a valuation allowance for deferred tax assets requires management to make certain judgments and assumptions.
+
+In evaluating the ability to recover deferred tax assets, the Company's management considers all available evidence, including taxable income in open carry back years, the existence of cumulative losses in the most recent years, forecasted earnings, future taxable income exclusive of reversing temporary differences and carryforwards, future taxable temporary difference reversals, and prudent and feasible tax planning strategies. In the event the Company determines it is not more likely than not that it will be able to realize all or part of its deferred tax assets in the future, a valuation allowance would be charged to earnings in the period such determination is made. Likewise, if it is later determined that it is more likely than not that those deferred tax assets would be realized, the previously provided valuation allowance would be reversed. Future economic conditions and market volatility, including increases in interest rates or widening credit spreads, can adversely impact the Company’s tax planning strategies and in particular the Company’s ability to utilize tax benefits on previously recognized capital losses. The Company's judgments and assumptions are subject to change given the inherent uncertainty in predicting future performance and specific industry and investment market conditions.
+
+An increase or decrease in the Company's effective tax rate by one percentage point would have resulted in an increase or decrease in the Company's 2025 income tax expense of $50 million.
+
+For additional information on income taxes, see Note 10 of the Notes to the Consolidated Financial Statements.
+
+New Accounting Pronouncements
+
+For information on new accounting pronouncements and the impact, if any, on the Company's financial position or results of operations, see Note 1 of the Notes to the Consolidated Financial Statements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company is exposed primarily to the following types of market risks: currency risk, interest rate risk, credit risk and equity risk. Fluctuations in these factors could impact the Company’s consolidated results of operations or financial condition. The Company regularly monitors its market risks and uses a variety of strategies to manage its exposure to these market risks.
+
+Currency Risk
+
+Aflac Japan
+
+The functional currency of Aflac Japan's insurance operations is the Japanese yen. Aflac Japan’s premiums and a significant portion of its investment income are received in Japanese yen, and its claims and most expenses are paid in Japanese yen. Aflac Japan purchases Japanese yen-denominated assets and U.S. dollar-denominated assets, which may be hedged to Japanese yen, to support Japanese yen-denominated policy liabilities. These and other Japanese yen-denominated financial statement items are, however, translated into U.S. dollars for financial reporting purposes. Most of Aflac Japan's cash and liabilities are Japanese yen-denominated.

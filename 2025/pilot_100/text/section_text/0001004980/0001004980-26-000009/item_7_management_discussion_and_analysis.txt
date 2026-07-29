@@ -1,0 +1,549 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW
+
+This is a combined report of PG&E Corporation and the Utility and includes separate Consolidated Financial Statements for each of these two entities. This combined MD&A should be read in conjunction with the Consolidated Financial Statements and the Notes to the Consolidated Financial Statements included in Item 8.
+
+Generally, PG&E Corporation’s and the Utility’s revenues vary based on the outcomes of ratemaking proceedings and the amount of pass-through costs incurred. See “Ratemaking Mechanisms” in Item 1. Description of the Business regarding how the Utility’s revenues are determined. Factors that cause costs to vary include the cost of purchased power and fuel; the costs of procurement storage, transportation of natural gas; weather; criminal, civil and regulatory charges for wildfires; the outcomes of ratemaking proceedings; and increases in interest expense as a result of additional debt issuances.
+
+The discussion related to the results of operations and liquidity for 2024 compared to 2023 is incorporated by reference to Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in PG&E Corporation’s and the Utility’s combined Annual Report on Form 10-K for the year ended December 31, 2024, which was filed with the SEC in February 2025.
+
+Key Factors Affecting Financial Results
+
+PG&E Corporation and the Utility believe that their financial condition, results of operations, liquidity, and cash flows may be materially affected by the following factors:
+
+• The Uncertainties in Connection with Wildfires, Wildfire Mitigation, and Associated Cost Recovery. PG&E Corporation’s and the Utility’s financial condition, results of operations, liquidity, and cash flows may be materially affected by the costs and effectiveness of the Utility’s wildfire mitigation initiatives; the extent of damages from wildfires that do occur; the financial impacts of wildfires; and PG&E Corporation’s and the Utility’s ability to mitigate those financial impacts with insurance, self-insurance, the Wildfire Fund, the Continuation Account, and regulatory recovery.
+
+In response to the wildfire threat facing California, PG&E Corporation and the Utility have taken aggressive steps designed to mitigate the threat of catastrophic wildfires. The Utility’s wildfire mitigation initiatives include EPSS, PSPS, vegetation management, asset inspections, system hardening, situational awareness tools, and ignition response. These initiatives reduce but do not eliminate the Utility’s wildfire risk.
+
+Despite these extensive measures, the Utility’s equipment may still be involved in the ignition of future wildfires, including catastrophic wildfires. This risk is exacerbated by a variety of factors, including climate change and severe weather events (in particular, extended periods of seasonal dryness coupled with periods of high wind velocities and other storms), as well as infrastructure and vegetation conditions. Once an ignition has occurred, the Utility may be unable to control the extent of damages, which is determined primarily by environmental and vegetation conditions, third-party suppression efforts, and the location of the wildfire.
+
+PG&E Corporation and the Utility have and will continue to incur substantial expenditures in connection with these initiatives. For more information on incurred expenditures, see Note 3 of the Notes to the Consolidated Financial Statements. The extent to which the Utility will be able to recover these expenditures and other potential costs through rates is uncertain. The Utility could also face fines, penalties, enforcement action, or other adverse legal or regulatory consequences for noncompliance related to wildfire mitigation efforts.
+
+The financial impact of past wildfires is significant. As of December 31, 2025, PG&E Corporation and the Utility have incurred significant liabilities for past wildfires (aggregate liability estimates of $1.325 billion for the 2019 Kincade fire, $2.15 billion for the 2021 Dixie fire, and $350 million for the 2022 Mosquito fire). These estimates do not include all categories of potential damages and losses.
+
+PG&E Corporation and the Utility may be able to mitigate the financial impact of future wildfires in excess of insurance coverage or self-insurance through the Wildfire Fund, the Continuation Account, or cost recovery through rates. Each of these mitigations involves uncertainties, and liabilities could exceed available recoveries. Recorded liabilities in connection with the 2019 Kincade fire and the 2021 Dixie fire have exceeded potential amounts recoverable under applicable insurance policies. See “Loss Recoveries” in Note 14 of the Notes to the Consolidated Financial Statements in Part II, Item 8.
+
+If the eligible claims for liabilities arising from wildfires were to exceed $1.0 billion in any Wildfire Fund or Continuation Account coverage year (“Coverage Year”), the Wildfire Fund or the Continuation Account, as applicable, may be available to reimburse the Utility such excess amount. The Utility’s ability to recover wildfire costs depends on the Wildfire Fund or the Continuation Account having sufficient remaining funds, and the Wildfire Fund or the Continuation Account may also be depleted more quickly than expected as a result of claims made by California’s other participating electric utility companies. Whether the Utility will be required to reimburse the Wildfire Fund or the Continuation Account depends on its ability to demonstrate to the CPUC that paid wildfire-related costs were just and reasonable.
+
+With respect to the Wildfire Fund, SCE has disclosed that a liability for the wildfire that began on January 7, 2025, in Eaton Canyon in Los Angeles County, California (the “Eaton fire”) is probable but not reasonably estimable. PG&E Corporation and the Utility expect to reduce their 20-year estimated life of the Wildfire Fund and assess the Wildfire Fund asset for accelerated amortization based on reliable, publicly available information, including when and if SCE accrues a liability or a Wildfire Fund receivable, respectively (see Note 2 of the Notes to the Consolidated Financial Statements in Part II, Item 8).
+
+Recoveries for the 2019 Kincade fire are also subject to a 40% limitation on the allowed amount of claims arising before emergence from bankruptcy. The Utility has recorded an aggregate Wildfire Fund receivable of $1.150 billion for the 2021 Dixie fire, of which it had received $851 million as of December 31, 2025.
+
+With respect to the Continuation Account, additional uncertainties include whether the Wildfire Fund administrator determines that the Continuation Account is necessary, whether the CPUC authorizes extending the non-bypassable charge, whether the administrator determines that additional contributions are needed and, if so, the timing of those contingent contributions.
+
+The Utility will be permitted to recover its wildfire-related claims in excess of available insurance and legal fees through rates unless the CPUC or the FERC, as applicable, determines that the Utility has not met the applicable prudency standard. The revised prudency standard under AB 1054 has not been interpreted or applied by the CPUC, and it is possible that the CPUC could interpret the standard or apply it to the relevant facts differently from how the Utility has interpreted and applied the standard, in which case the Utility may not be able to recover some or all of the expenses that it has recorded as receivables. As of December 31, 2025, the Utility has recorded receivables for regulatory recovery of $632 million for the 2021 Dixie fire and $61 million for the 2022 Mosquito fire. See “2021 Dixie Fire” and “2022 Mosquito Fire” in Note 14 of the Notes to the Consolidated Financial Statements in Part II, Item 8 for more information.
+
+• The Timing and Outcome of Ratemaking Proceedings, Other Proceedings, and Legislation. Regulatory ratemaking proceedings are a key aspect of the Utility’s business. The Utility’s revenue requirements consist primarily of a base amount set to enable the Utility to recover its reasonable operating expenses (e.g., maintenance, administrative and general expenses) and capital costs (e.g., depreciation and financing expenses). Although the Utility generally seeks to recover its recorded costs on a timely basis, greater memorandum and balancing account balances increase the Utility’s financing costs. Other proceedings that could impact the Utility’s business profile and financial results include actions by municipalities and other public entities to acquire the electric assets of the Utility within their respective jurisdictions. The outcome of regulatory proceedings can be affected by many factors, including intervening parties’ testimonies, potential rate impacts, the regulatory and political environments, and other factors. See Notes 3 and 15 of the Notes to the Consolidated Financial Statements in Part II, Item 8, and “Regulatory Matters” below.
+
+• There has been increased California state legislative activity and political dialogue in recent years regarding wildfires, energy affordability, and related topics. The substance and timing of any legislation or other executive or regulatory measures relating to these matters, if such measures are implemented, could have a material impact on PG&E Corporation’s and the Utility’s business, cash flows, results of operations, and financial condition.
+
+• PG&E Corporation’s and the Utility’s Ability to Control Operating and Financing Costs. Under cost-of-service ratemaking, a utility’s earnings depend on its ability to manage costs within the amounts authorized for recovery in its ratemaking proceedings. The Utility has set a long-term goal to increase its capital investments to meet safety and climate goals, while also achieving operating cost savings. The Utility intends to achieve such savings by improving the planning and execution of its business through increased efficiencies, including waste elimination through the Lean operating system. PG&E Corporation and the Utility also work to reduce financing costs by identifying and executing on opportunities to efficiently finance the business, which depend on capital market conditions. Increased volatility in capital markets and continued elevated interest rates may impact PG&E Corporation’s and the Utility’s ability to obtain financing on acceptable terms or raise the cost of financing, which in turn may negatively impact their financial results.
+
+For more information about the risks that could materially affect PG&E Corporation’s and the Utility’s financial condition, results of operations, liquidity, and cash flows, or that could cause future results to differ materially from historical results, see Item 1A: “Risk Factors” and “Forward-Looking Statements” above.
+
+Tax Matters
+
+PG&E Corporation had a U.S. federal net operating loss carryforward of approximately $38.3 billion and a California net operating loss carryforward of approximately $34.1 billion as of December 31, 2025.
+
+Under Section 382 of the IRC, if a corporation (or a consolidated group) undergoes an “ownership change,” net operating loss carryforwards and other tax attributes may be subject to certain limitations (which could limit PG&E Corporation’s or the Utility’s ability to use these deferred tax assets to offset taxable income). In general, an ownership change occurs if the aggregate value of stock ownership of certain shareholders (generally five percent shareholders, applying certain look-through and aggregation rules) increases by more than 50% over such shareholders’ lowest percentage ownership during the testing period (generally three years). PG&E Corporation’s and the Utility’s Amended and Restated Articles of Incorporation, each filed on June 22, 2020, and PG&E Corporation’s Certificate of Amendment of Articles of Incorporation, filed on May 24, 2022 (the “Amended Articles”), contain restrictions on the direct or indirect acquisition or accumulation of PG&E Corporation’s stock. These restrictions prevent any person or entity (including certain groups of persons) from acquiring or accumulating 4.75% or more of the combined value of PG&E Corporation’s stock, including common stock and mandatory convertible preferred stock prior to the Restriction Release Date (as defined in the Amended Articles) without approval by the Board of Directors of PG&E Corporation.
+
+Shares of PG&E Corporation common stock held directly by the Utility are attributed to PG&E Corporation for income tax purposes and are therefore effectively excluded from the total number of outstanding equity securities when calculating a person’s Percentage Stock Ownership (as defined in the Amended Articles) for purposes of the 4.75% ownership limitation in the Amended Articles. Accordingly, although PG&E Corporation had 2,675,711,544 common shares outstanding as of February 4, 2026, only 2,197,967,954 common shares (the number of outstanding shares of common stock less the number of shares held directly by the Utility) count as outstanding for purposes of the ownership restrictions in the Amended Articles with the result that the ownership limitation based on the unadjusted outstanding stock of PG&E Corporation is lower than 4.75% and can vary based on the relative value of the common stock and mandatory convertible preferred stock on any particular date. For example, based on the closing prices of PG&E Corporation’s common stock and preferred stock as of February 4, 2026, a person’s effective Percentage Stock Ownership limitation for purposes of the Amended Articles as of February 4, 2026 was 3.92% of the combined value of PG&E Corporation’s outstanding common and preferred stock. The computation of the Percentage Stock Ownership is complex, and persons considering purchasing PG&E Corporation’s stock should consult their own tax advisors regarding the application of the ownership restrictions to their particular situation.
+
+As of the date of this report, it is more likely than not that PG&E Corporation has not undergone an ownership change, and consequently, its net operating loss carryforwards and other tax attributes are not limited by Section 382 of the IRC.
+
+RESULTS OF OPERATIONS
+
+The following discussion presents PG&E Corporation’s and the Utility’s operating results for 2025 and 2024. See “Key Factors Affecting Financial Results” above for further discussion about factors that could affect future results of operations.
+
+PG&E Corporation
+
+The consolidated results of operations consist primarily of results related to the Utility, which are discussed in the “Utility” section below. The following table provides a summary of income (loss) attributable to common shareholders:
+
+PG&E Corporation’s net loss primarily consists of interest expense on long-term debt.
+
+Utility
+
+The table below shows the Utility’s Consolidated Statements of Income for 2025 and 2024. In general, expenses the Utility is authorized to pass through directly to customers (such as costs to purchase electricity and natural gas, as well as costs to fund public purpose programs) and the corresponding amount of revenues collected to recover those pass-through costs do not impact Net income. The line items with significant net changes are described below.
+
+Operating Revenues
+
+The Utility’s electric and natural gas operating revenues increased by $516 million, or 2%, in 2025 compared to 2024. The increase was primarily due to:
+
+• approximately $650 million in revenues to recover the costs associated with extended operations at DCPP in 2025, with no comparable amount in 2024;
+
+• approximately $500 million in interim rate relief authorized in the 2023 WMCE application (see “2023 WMCE Application” below) in 2025, as compared to 2024;
+
+• approximately $380 million in revenue recognition authorized in the 2024 Transmission Revenue Requirement Reclassification Memo Account (“TRRRMA”) final decision in 2025, with no comparable amount in 2024; and
+
+• $348 million in revenues to recover the cost of electricity procurement in 2025, as compared to 2024. These costs are passed through to customers and do not impact Net income,
+
+partially offset by:
+
+• approximately $540 million in interim rate relief authorized in the 2022 WMCE proceeding (see “2022 WMCE Application” below) in 2024, with no comparable amount 2025;
+
+• approximately $430 million in revenues authorized in the 2021 WMCE proceeding (see “2021 WMCE Application” in the 2024 Form 10-K ) in 2024, with no comparable amount in 2025;
+
+• approximately $260 million less revenue recognized in 2025, as compared to 2024, authorized in the WGSC proceeding (see “Wildfire and Gas Safety Costs Recovery Application” below);
+
+• approximately $120 million less in revenues authorized in the General Office Sale Memorandum Account (“GOSMA”) petition for modification final decision in 2025, as compared to 2024; and
+
+• $85 million less in revenues to recover the cost of natural gas in 2025, as compared to 2024. These costs are passed through to customers and do not impact Net income.
+
+Cost of Electricity
+
+The Utility’s Cost of electricity represents the cost of power and fuel used in the Utility’s generating facilities and purchased from third parties to serve customers. Cost of electricity includes fuel supplied to other third-party generating facilities, costs to comply with California’s cap-and-trade program, realized gains and losses on price risk management activities (see Note 10 of the Notes to the Consolidated Financial Statements in Item 8), and net power purchases from and sales to the CAISO electricity markets and directly from third parties. The Cost of electricity increased by $348 million in 2025 as compared to 2024. This increase was primarily the result of higher procurement costs, including local RA contract costs, FERC approved transmission owner rate case settlement costs, and higher nuclear fuel amortization, partially offset by increased CAISO market net sales, increased sales of various RPS resources, and lower net costs associated with fuel for utility owned generation and contracted generation.
+
+Cost of Natural Gas
+
+The Utility’s Cost of natural gas includes the costs of procurement, storage and transportation of natural gas, costs to comply with California’s cap-and-trade program, and realized gains and losses on price risk management activities. See Note 10 of the Notes to the Consolidated Financial Statements in Item 8. The Cost of natural gas decreased by $85 million in 2025 as compared to 2024. This decrease was primarily the result of lower GHG emission volumes, favorable price risk management activity resulting from reduced natural gas market volatility, and a reduction in contracted transport capacity, partially offset by higher natural gas procurement costs attributed to increased prices and demand, along with additional contracted storage capacity.
+
+Operating and Maintenance
+
+The Utility’s Operating and maintenance expense decreased by $450 million, or 4%, in 2025 compared to 2024. The decrease was primarily due to:
+
+• approximately $560 million in previously deferred expenses authorized in the 2021 WMCE proceeding (see “2021 WMCE Application” in the 2024 Form 10-K ) in 2024, with no comparable costs in 2025;
+
+• approximately $540 million of previously deferred expenses authorized in the 2022 WMCE proceeding as part of interim rate relief (see “2022 WMCE Application” below) in 2024, with no comparable costs in 2025;
+
+• approximately $260 million less expense recognized in 2025, as compared to 2024, authorized in the WGSC proceeding (see “Wildfire and Gas Safety Costs Recovery Application” below);
+
+• approximately $210 million in costs related to a FERC order denying the capitalization of certain vegetation management costs and ordering the Utility to reclassify these costs to operating expense in 2024, with no comparable costs 2025; and
+
+• approximately $150 million less expense recognized in 2025, as compared to 2024, authorized in the GOSMA petition for modification final decision,
+
+partially offset by:
+
+• approximately $570 million in costs associated with extended operations at DCPP in 2025, with no comparable costs in 2024;
+
+• approximately $500 million more in previously deferred expenses in 2025, as compared to 2024, related to interim rate relief authorized in the 2023 WMCE proceeding (see “2023 WMCE Application” below); and
+
+• approximately $150 million in previously deferred expenses related to VMBA disallowances in the 2023 WMCE final decision (see “2023 WMCE Application” below) in 2025, with no comparable costs in 2024.
+
+Depreciation, Amortization, and Decommissioning
+
+The Utility’s Depreciation, amortization, and decommissioning expenses increased by $445 million, or 11%, in 2025 compared to 2024. The increase was primarily due to the growth in plant balance from capital additions and the recognition of deferred depreciation expense.
+
+Interest Income
+
+The Utility’s Interest income decreased by $80 million, or 14%, in 2025 compared to 2024. The decrease was primarily due to a decrease in interest rates and a decrease in interest bearing account balances in 2025, compared to 2024.
+
+Income Tax Benefit
+
+The Utility’s Income tax benefit increased by $89 million, or 85%, in 2025 compared to 2024. The increase was primarily due to an increased tax repairs deduction and an additional deduction for certain costs attributable to electric generation.
+
+The following table reconciles the income tax expense at the federal statutory rate to the income tax provision:
+
+(1) Includes the effect of state flow-through ratemaking treatment.
+
+(2) Includes the effect of federal flow-through ratemaking treatment for certain property-related costs. For these temporary tax differences, the Utility recognizes the deferred tax impact in the current period and records offsetting regulatory assets and liabilities. Therefore, the Utility’s effective tax rate is impacted as these differences arise and reverse. The Utility recognizes such differences as regulatory assets or liabilities as it is probable that these amounts will be recovered from or returned to customers in future rates.
+
+LIQUIDITY AND FINANCIAL RESOURCES
+
+Overview
+
+PG&E Corporation and the Utility expect to be able to generate and obtain adequate cash to meet their cash requirements in the short term and in the long term.
+
+PG&E Corporation and the Utility rely on access to debt and equity markets and credit facilities to finance their capital requirements and support their liquidity needs. The CPUC authorizes the Utility’s capital structure, the aggregate amount of long-term and short-term debt that the Utility may issue, and the revenue requirements the Utility is able to collect to recover its cost of service. The Utility generally utilizes retained earnings, equity contributions from PG&E Corporation and long-term debt issuances to maintain its CPUC-authorized long-term capital structure consisting of 52% common equity, 47.5% long-term debt, and 0.5% preferred equity and relies on short-term debt, including its revolving credit facilities, to fund temporary financing needs.
+
+PG&E Corporation’s ability to fund operations, make scheduled principal and interest payments, fund equity contributions to the Utility, and pay dividends depends on the level of cash on hand, cash received from the Utility, and PG&E Corporation’s access to the capital and credit markets. Generally, PG&E Corporation and the Utility expect that capital expenditures, debt maturities, and PG&E Corporation capital stock dividends will exceed operating cash flows. As a result, they expect to finance future cash needs in excess of operating cash flows primarily through the capital and credit markets.
+
+Additionally, due to its existing tax attributes, PG&E Corporation does not expect to pay significant federal cash taxes until at least 2031. In 2024, California enacted a new law to suspend the use of net operating losses and limit the use of business credits for tax years 2024 to 2026. As a result, PG&E Corporation expects to pay state income taxes in 2026. See “Tax Matters” above for a discussion of events that could limit PG&E Corporation’s ability to use its net operating losses.
+
+PG&E Corporation and the Utility have various contractual commitments which impact cash requirements. These commitments are discussed in “Purchase Commitments” in Note 15 of the Notes to the Consolidated Financial Statements in Part II, Item 8.
+
+As of December 31, 2025, PG&E Corporation and the Utility had access to approximately $4.5 billion of total liquidity comprised of $353 million of the Utility’s Cash and cash equivalents, $360 million of PG&E Corporation’s Cash and cash equivalents, and $3.8 billion of availability under PG&E Corporation’s and the Utility’s revolving credit facilities.
+
+Credit Ratings
+
+Credit ratings impact the cost and availability of short-term borrowings, including credit facilities, and long-term debt costs. In addition, some of the Utility’s commodity contracts contain collateral posting provisions tied to the Utility’s unsecured credit rating from each of the major credit rating agencies. Contracts which may require collateral postings include the Utility's power and natural gas commodity, transportation, services, and environmental products agreements. Because the Utility’s unsecured credit rating remains below investment grade with one of the major credit rating agencies, the Utility generally does not receive unsecured credit from its energy procurement counterparties, and it may be required to increase its collateral postings if its credit rating is downgraded.
+
+Restrictive Debt Covenants
+
+PG&E Corporation’s and the Utility’s credit agreements and the DOE Loan Guarantee Agreement contain various restrictive financial covenants. One financial covenant requires that the ratio of total consolidated debt to total consolidated capitalization as of the end of each fiscal quarter be no more than 70% for PG&E Corporation and 65% for the Utility.
+
+The failure to comply with the financial covenants contained in these financing arrangements could result in an event of default and the acceleration of the loans under the financing arrangements. PG&E Corporation’s and the Utility’s various credit agreements and the DOE Loan Guarantee Agreement contain provisions that may result in an event of default if there was a failure to meet payment terms or observe other covenants under other financing arrangements that could result in an acceleration of payments due. Such provisions are referred to as “cross-default” provisions. As of December 31, 2025, PG&E Corporation and the Utility remain in compliance with all financial covenants.
+
+Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents
+
+Cash and cash equivalents consist of cash and short-term, highly liquid investments with original maturities of three months or less. PG&E Corporation and the Utility maintain separate bank accounts and primarily invest their cash in money market funds. In addition to Cash and cash equivalents, the Utility holds Restricted cash and restricted cash equivalents that primarily consist of AB 1054 and SB 901 fixed recovery charge collections that are to be used to service the associated bonds. As of December 31, 2025, PG&E Corporation and the Utility had cash and cash equivalents of $360 million and $353 million, respectively.
+
+Financial Resources
+
+Equity Financings
+
+PG&E Corporation does not expect to undertake any equity issuances through 2030. Factors that could affect PG&E Corporation’s planned equity issuances include liquidity and cash flow needs, capital expenditures, interest rates, its share price, its earnings, the timing and outcome of ratemaking proceedings, the timing and terms of other financings, and the outcome of the Wildfire-Related Securities Claims. See “Wildfire-Related Securities Litigation” in Note 14 of the Notes to the Consolidated Financial Statements in Part II, Item 8.
+
+Debt Financings, Credit Facilities, and Term Loans
+
+The Utility generally issues first mortgage bonds and secured debt to meet its long-term funding requirements.
+
+For more information, see “Credit Facilities and Term Loans” and “Long-Term Debt Issuances and Redemptions” in Note 4 of the Notes to the Consolidated Financial Statements in Part II, Item 8.
+
+DOE Loan Guarantee Agreement
+
+As of the date of this report, the Utility has not borrowed any advances under the facility. While the Utility has continued to work with the DOE, the Utility is not able to predict the timing or amount of any funds it may receive from the facility in the future.
+
+For more information about the DOE Loan Guarantee Agreement, see “Liquidity and Financial Resources” in Item 7: “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of the 2024 Form 10-K.
+
+Other Financings
+
+Citizens Energy Corporation
+
+On January 29, 2025, the Utility entered into an amended and restated agreement with Citizens Energy Corporation (“Citizens”) pursuant to which the Utility may lease to Citizens entitlements to certain transmission assets. A portion of the costs associated with each project that is expected to be subject to such a lease will be excluded from the Utility’s FERC transmission rates for the duration of the applicable lease. The Utility may offer Citizens up to five lease options over the term of the agreement, for a total investment by Citizens of up to $1.0 billion. If Citizens exercises and the parties close on a lease option, the Utility will receive an upfront payment as prepaid rent for that lease, which is expected to average approximately $200 million per lease, and the rate base associated with the leased entitlements will go into Citizens’ rate base, rather than the Utility’s, for 30 years. The transactions contemplated by the agreement are subject to FERC and CPUC approvals.
+
+Dividends
+
+PG&E Corporation has announced a dividend policy entailing consistent dividend increases targeting a dividend payout ratio of approximately 20% of core earnings by 2028. No dividend is payable unless and until declared by the applicable Board of Directors. The Board of Directors of PG&E Corporation retains authority to change the common stock dividend target and dividend payout ratio at any time. Future dividend decisions determined by the Board may be impacted by earnings, cash flows, credit metrics, and other business conditions.
+
+For information on dividend declarations and payments, see Notes 6 and 7 to the Consolidated Financial Statements in Part II, Item 8.
+
+Utility Cash Flows
+
+PG&E Corporation’s consolidated cash flows consist primarily of cash flows related to the Utility. The following discussion presents the Utility’s cash flows for the year ended December 31, 2025 and 2024.
+
+The Utility’s cash flows were as follows:
+
+Operating Activities
+
+The Utility’s cash flows from operating activities primarily consist of receipts from customers less payments of cash operating expenses. Net cash provided by operating activities increased by $767 million, or 9%, in 2025 compared to 2024. This increase was primarily due to:
+
+• an increase in collections driven in part by recoveries related to DCPP extended operations;
+
+• a decrease in non-wildfire related insurance costs; and
+
+• a decrease in wildfire-related payments, net of recoveries.
+
+Future cash flow from operating activities will be affected by various factors, including:
+
+• the timing and amount of costs in connection with the 2019 Kincade fire, the 2021 Dixie fire, and the 2022 Mosquito fire and the timing and amount of any potential related insurance, Wildfire Fund, and regulatory recoveries;
+
+• the timing and amount of costs in connection with future wildfires and the timing and amount of any potential related insurance, including funds available from self-insurance and the Wildfire Fund (see “Wildfire Fund Recoveries under AB 1054 and SB 254” in Note 14 of the Notes to the Consolidated Financial Statements in Part II, Item 8);
+
+• the timing and amount of costs in connection with the portion of the 2023-2025 WMP that are being recovered through rates and the portion of the costs previously incurred in connection with the 2021-2022 WMP that are not currently being recovered through rates (see “Regulatory Matters” below for more information);
+
+• the timing and outcomes of the Utility’s pending and future ratemaking and regulatory proceedings, including the extent to which PG&E Corporation and the Utility are able to recover their costs through regulated rates as recorded in memorandum accounts or balancing accounts, or as otherwise requested; and
+
+• the timing and amount of electric and natural gas commodity price volatility and differences between commodity costs and revenue collections.
+
+PG&E Corporation and the Utility do not have any off-balance sheet arrangements that have had, or are reasonably likely to have, a current or future material effect on their financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources, other than those discussed under “Purchase Commitments” in Note 15 of the Notes to the Consolidated Financial Statements in Part II, Item 8.
+
+Investing Activities
+
+The Utility’s investing activities primarily consist of the construction of new and replacement facilities necessary to provide safe and reliable electricity and natural gas services to its customers. Cash used in investing activities also includes the proceeds from sales of nuclear decommissioning trust, customer credit trust, and self-insurance investments which are partially offset by the amount of cash used to purchase new nuclear decommissioning trust, customer credit trust, and self-insurance investments.
+
+The following table summarizes changes in key components of the Utility’s investing cash flows for the year ended December 31, 2025, compared to December 31, 2024.
+
+Net cash used in investing activities increased by $0.9 billion, or 8%, in 2025 compared to 2024. This increase was primarily due to a $349 million payment for the purchase of the Oakland General Office, as discussed in Note 2 of the Notes to the Consolidated Financial Statements in Part II, Item 8, along with higher investments in new business, capacity projects, and distribution system hardening. These increases were partially offset by lower funding related to self‐insurance investments in 2025 compared to 2024.
+
+Future cash flows used in investing activities are largely dependent on the timing and amount of capital expenditures. The Utility estimates that it will invest $12.4 billion in capital expenditures in 2026.
+
+Financing Activities
+
+Cash provided by or used in financing activities is driven by the Utility’s financing needs, which depend on the level of cash provided by or used in operating activities, the level of cash provided by or used in investing activities, the conditions in the capital markets, and the maturity date or prepayment date of existing debt instruments. Additionally, the Utility’s future cash flows from financing activities will be affected by the timing and outcome of the Utility’s financings, dividend payments, and equity contributions from PG&E Corporation.
+
+The following table summarizes changes in key components of the Utility’s financing cash flows for the year ended December 31, 2025, compared to December 31, 2024.
+
+Net cash provided by financing activities decreased by $433 million, or 13%, during the year ended December 31, 2025 as compared to the same period in 2024. The decrease was primarily due to:
+
+• $3.8 billion decrease in equity contributions received from PG&E Corporation;
+
+• $1.1 billion increase in repayments of long-term debt, net of proceeds;
+
+• $2.7 billion decrease in net borrowings under term loan;
+
+• $1.4 billion of proceeds related to the issuance of senior secured recovery bonds under the AB 1054 securitization in 2024, with no similar transaction in 2025;
+
+• $2.0 billion decrease in proceeds related to short-term debt issuance;
+
+• $980 million decrease in proceeds related to the DWR loan; and
+
+• $325 million increase in dividend payments.
+
+Partially offset by:
+
+• $6.6 billion increase in net borrowings under credit facilities.
+
+REGULATORY MATTERS
+
+The Utility is subject to substantial regulation by the CPUC, the FERC, the OEIS, NRC, and other federal and state regulatory agencies. The resolutions of the proceedings described below and other proceedings may materially affect PG&E Corporation’s and the Utility’s financial condition, results of operations, liquidity, and cash flows. Except as otherwise noted, PG&E Corporation and the Utility are unable to predict the timing or outcome of the following proceedings.
+
+Key updates to regulatory matters include the following:
+
+• In February 2026, the CPUC issued a final decision in the Utility’s 2023 WMCE proceeding, approving recovery of $1.9 billion of costs.
+
+• In February 2026, the OEIS issued a final decision approving the Utility’s 2026–2028 WMP. In December 2025, the Utility submitted its 2025 safety certificate request to OEIS.
+
+• In December 2025, the CPUC issued a final decision in the Utility’s 2026 Cost of Capital proceeding that set the Utility’s ROE at 9.98% effective January 1, 2026 and approved a yield spread adjustment.
+
+• In December 2025, the CPUC approved a resolution that updated CPUC guidelines for implementation of the SB 884 undergrounding program.
+
+• In November 2025, the Utility filed the Kincade and Dixie AB 1054 Wildfire Cost Review and Recovery Proceeding application requesting recovery of approximately $1.59 billion of WEMA costs, review of costs drawn from the Wildfire Fund, and recovery of $314 million of CEMA costs.
+
+• In August 2025, the FERC approved an all-party settlement in the Utility’s Transmission Owner Rate Case for 2024 (the “TO21” rate case).
+
+• In August 2025, the CPUC issued a final decision that increases the cost cap for 2025 and 2026 by an aggregate $2.38 billion in connection with the Order Instituting Rulemaking (“OIR”) to Establish Energization Timelines.
+
+• In September 2025, the CPUC issued a final decision approving $1.06 billion in cost recovery in the 2022 WMCE proceeding.
+
+• In May 2025, the Utility filed its 2027 GRC application with the CPUC.
+
+Cost Recovery Proceedings
+
+Periodically, costs arise that could not have been anticipated by the Utility during CPUC GRC proceedings or that have been deliberately excluded from such proceedings. For instance, these costs may result from catastrophic events, changes in regulation, or extraordinary changes in operating practices. The Utility may seek authority to track incremental costs in a memorandum account and the CPUC may later authorize recovery of costs tracked in memorandum accounts if the costs are deemed incremental and prudently incurred. The CPUC may also authorize memorandum and balancing accounts with limitations or caps on cost recovery. These accounts, which include the CEMA, WEMA, FRMMA, WMPMA, VMBA, WMBA, among others, allow the Utility to track the costs associated with work related to disaster and wildfire response, other wildfire prevention-related costs, and certain third-party wildfire claims. While the Utility generally expects such costs to be recoverable, the CPUC may authorize the Utility to recover less than the full amount of its costs.
+
+In recent years, the Utility has recorded significant amounts to these accounts. Because rate recovery may require CPUC authorization of the costs in these accounts, there can be a delay between when the Utility incurs costs and when it may recover those costs. As of December 31, 2025, the Utility had recorded an aggregate amount of approximately $2.2 billion in costs for the CEMA, WEMA, FRMMA, WMPMA, VMBA, and WMBA, substantially all of which was accounted for as long term. See Note 3 of the Notes to the Consolidated Financial Statements in Part II, Item 8.
+
+If the amount of the costs recorded in these accounts increases, or the delay between incurring and recovering costs lengthens, PG&E Corporation and the Utility may incur additional financing costs. If the Utility does not recover the full amount of its recorded costs, the difference between the recorded and recovered amounts would be written off as a non-cash disallowance. Such disallowances could materially affect PG&E Corporation’s and the Utility’s financial condition, results of operations, liquidity, and cash flows.
+
+For more information, see Note 3 of the Notes to the Consolidated Financial Statements in Part II, Item 8, and “Wildfire Mitigation and Catastrophic Events Cost Recovery Applications” and “Wildfire and Gas Safety Costs Recovery Application” below.
+
+Key updates to the Utility’s cost recovery proceedings are summarized in the following table:
+
+(1) The revenue requirement amounts requested do not include interest.
+
+Wildfire Mitigation and Catastrophic Events Cost Recovery Applications
+
+2022 WMCE Application
+
+On December 15, 2022, the Utility filed an application with the CPUC requesting cost recovery of approximately $1.36 billion of recorded expenditures, resulting in a proposed revenue requirement of approximately $1.29 billion (the “2022 WMCE application”). The costs addressed in the 2022 WMCE application reflect costs related to wildfire mitigation and certain catastrophic events, as well as implementation of various customer-focused initiatives. These costs were incurred primarily in 2021. The recorded expenditures consisted of $1.2 billion in expenses and $136 million in capital expenditures.
+
+On September 26, 2025, the CPUC issued a final decision adopting the settlement agreement and authorizing total cost recovery for this matter of $1.06 billion. The final decision disallowed $217 million in VMBA costs.
+
+2023 WMCE Application
+
+On December 1, 2023, the Utility filed an application with the CPUC requesting cost recovery of approximately $2.18 billion of recorded expenditures, resulting in a proposed revenue requirement of approximately $1.86 billion (the “2023 WMCE application”). The costs addressed in the 2023 WMCE application reflect costs related to wildfire mitigation and certain catastrophic events, as well as implementation of various customer-focused initiatives. These costs were incurred primarily in 2022.
+
+The recorded expenditures consist of $1.6 billion in expenses and $559 million in capital expenditures. Of these amounts, approximately 15% of expense, or $239 million, and 30% of capital expenditures, or $167 million, relate to the Utility’s response to the 2022-2023 extreme winter storms CEMA event.
+
+On September 16, 2024, the CPUC issued a final decision on interim rate recovery that grants the Utility interim rate relief of $944 million, plus interest, subject to refund, to be recovered over at least 17 months starting October 1, 2024.
+
+On February 5, 2026, the CPUC voted out a final decision, which approved recovery of $1.9 billion of costs. The final decision denied recovery of $173 million in vegetation management costs.
+
+2024 WMCE Application
+
+On November 21, 2024, the Utility filed an application with the CPUC requesting cost recovery of approximately $596 million of recorded expenditures in the CEMA and other accounts, resulting in a revenue requirement of approximately $435 million (the “2024 WMCE application”). The costs addressed in the 2024 WMCE application include those incurred in connection with rebuild and restoration activities, certain catastrophic wildfire and weather events, and other programs supporting gas, customer, and climate initiatives. These costs were incurred primarily in 2023.
+
+The recorded expenditures consist of $80 million in expense and $516 million in capital expenditures. Of these amounts, approximately $50 million of expense and $396 million of capital expenditures relate to community rebuild and restoration activities and other catastrophic events included in the CEMA.
+
+Wildfire and Gas Safety Costs Recovery Application
+
+On June 15, 2023, the Utility filed a WGSC application with the CPUC requesting cost recovery of approximately $2.5 billion of recorded expenditures related to wildfire mitigation costs and gas safety and electric modernization costs.
+
+The recorded expenditures for wildfire mitigation consist of $726 million in expenses and $1.5 billion in capital expenditures and cover activities during the years 2020 to 2022. The recorded expenditures for gas safety and electric modernization efforts consist of $120 million in expenses and $118 million in capital expenditures and cover activities during the years 2017 to 2022. If approved, the requested cost recovery would result in an aggregate revenue requirement of $688 million. The costs addressed in the WGSC application are incremental to those previously authorized in the Utility’s 2020 GRC and other proceedings.
+
+The Utility recorded these costs to the memorandum and balancing accounts as set forth in the following table:
+
+In connection with the WGSC application, the Utility also requested interim rate relief of $583 million. The remaining $105 million would be recovered after the CPUC issues a final decision. On March 7, 2024, the CPUC approved a final decision authorizing the Utility to recover $516 million in interim rates to be recovered over at least 12 months starting April 1, 2024.
+
+On June 12, 2025, the CPUC issued a decision extending the statutory deadline in the proceeding from June 30, 2025 to March 31, 2026.
+
+Review and Recovery of Costs Associated with the 2019 Kincade Fire and 2021 Dixie Fire Under AB 1054 Proceeding Application
+
+On November 14, 2025, the Utility filed an application with the CPUC seeking review and recovery of costs associated with the 2019 Kincade fire and 2021 Dixie fire. The application seeks (1) recovery of $1.59 billion of costs recorded to the WEMA and not covered through the Wildfire Fund or insurance, (2) review of the costs recorded to the WEMA and drawn from the Wildfire Fund, and (3) recovery of $314 million of costs recorded to the CEMA.
+
+The Utility had drawn approximately $674 million from the Wildfire Fund at the time of the application. This amount will increase as the Utility continues to resolve claims and draw from the Wildfire Fund. The CPUC may require the Utility to reimburse the Wildfire Fund to the extent that amounts drawn from the Wildfire Fund are determined not to be just and reasonable. See Note 14 of the Notes to the Consolidated Financial Statements.
+
+The scoping memo indicates that a PD will be issued by November 2026. That deadline could be extended by six months.
+
+Forward-Looking Rate Cases
+
+The Utility routinely participates in forward-looking rate case applications before the CPUC and the FERC. Those applications include GRCs, where the revenue required for general operations (“base revenue”) of the Utility is assessed and reset. In addition, the Utility is periodically involved in “cost of capital” proceedings to adjust its regulated return on rate base. The Utility’s future earnings will depend on the revenue requirements authorized in such rate cases.
+
+Decisions in GRC proceedings have historically been expected prior to the commencement of the period to which the rates would apply. In recent decades, decisions in GRC proceedings have been delayed. Delayed decisions may cause the Utility to develop its budgets based on possible outcomes, rather than authorized amounts. When decisions are delayed, the CPUC typically provides rate relief to the Utility effective as of the commencement of the rate case period (not effective as of the date of the delayed decision). Nonetheless, the Utility’s spending during the period of the delay may exceed the authorized amount, without an ability for the Utility to seek cost recovery of such excess. If the Utility’s spending during the period of the delay is less than the authorized amount, the Utility could be exposed to operational and financial risks associated with the lower level of work achieved compared to that funded by the CPUC.
+
+Key updates to the Utility’s forward-looking rate cases are summarized in the following table:
+
+2027 General Rate Case
+
+On May 15, 2025, the Utility filed its 2027 GRC application with the CPUC. In the 2027 GRC, the CPUC will determine the annual amount of revenue requirements that the Utility will be authorized to collect through rates from 2027 through 2030 to recover its anticipated costs for gas distribution, transmission and storage, electric distribution, and electric generation and to provide the Utility an opportunity to earn its authorized rate of return. On November 10, 2025, the Utility submitted errata to update its GRC opening testimony and revenue requirement request.
+
+The table below compares the portion of CPUC jurisdictional revenue requirements and weighted-average rate base that are requested in the GRC proceeding, as updated, from 2027 through 2030 to the amounts adopted for 2026 in the 2023 GRC and other cost recovery proceedings:
+
+In the 2027 GRC application, the Utility proposed various safety, resiliency, and clean energy investments. Among other things, the Utility proposed to invest a total of approximately $45.0 billion between 2027 and 2030 in CPUC-jurisdictional assets. The proposed investments would support wildfire safety (including undergrounding 307 miles of electrical lines in 2027 and 400 miles per year for 2028 through 2030 until a 10-year undergrounding plan is approved), grid modernization, gas system safety, clean energy, and resilience.
+
+In addition, the Utility requested authorization to establish new balancing accounts for new business capital spend and employee medical expenses.
+
+The Utility is not seeking recovery of compensation of PG&E Corporation’s and the Utility’s officers within the scope of 17 Code of Federal Regulations 240.3b-7.
+
+On July 31, 2025, the CPUC issued a scoping memo that modifies the standard rate case plan schedule. The scoping memo indicates that the CPUC will issue a PD by March 2027 and a final decision by May 2027.
+
+Cost of Capital Proceedings
+
+2026 Cost of Capital Application
+
+On March 20, 2025, the Utility (along with the other IOUs in California) submitted its 2026 Cost of Capital application.
+
+On December 18, 2025, the CPUC issued a final decision and approved the following cost of capital rates, which went into effect beginning January 1, 2026:
+
+T he decision approved a revenue credit to return the benefit of potential DOE loan draws to customers and a temporary yield spread adjustment to compensate the Utility for its actual cost of short-term debt above the commercial paper rate. The yield spread adjustment for 2026 is 125 basis points. The decision also continued the Cost of Capital mechanism pursuant to which the Utility’s ROE will be adjusted and the cost of debt will be trued up to the most recent recorded cost of debt upon a significant change in rates.
+
+Transmission Owner Rate Case for 2024
+
+On October 13, 2023, the Utility filed its TO21 rate case with the FERC. In the filing, the Utility forecasted a 2024 retail electric transmission revenue requirement of $2.83 billion. The Utility requested that FERC approve a 12.37% base ROE as well as a 0.5% adder for its participation in the CAISO. The TO21 filing also addresses the Utility’s capital structure and several new issues including wildfire self-insurance recovery from transmission customers.
+
+On December 29, 2023, the FERC issued an order accepting the TO21 filing subject to refund, establishing a January 1, 2024 effective date, and establishing a settlement and hearing process, but denying the 0.5% ROE adder for participation in the CAISO, which results in a forecast transmission revenue requirement of $2.78 billion. On January 29, 2024, the Utility filed a request for rehearing of the FERC’s denial of the 0.5% ROE adder for participation in the CAISO. On June 12, 2024, the FERC issued an order denying the Utility’s request for rehearing. On June 18, 2024, the Utility and other California IOUs filed an appeal of the FERC’s order denying the Utility’s request for rehearing. On July 11, 2025, the Ninth Circuit Court of Appeals denied the utilities’ joint appeal. On August 20, 2025, the Utility and California IOUs sought en banc review from the Ninth Circuit. On September 15, 2025, the Ninth Circuit denied en banc review. On October 7, 2025, the Utility and California IOUs filed a petition for certiorari with the Supreme Court.
+
+On March 21, 2025, the Utility filed with the FERC a settlement in the TO21 rate case. On August 5, 2025, the FERC issued a decision approving the settlement and resolving all contested issues in the proceeding, as well as specific wildfire cost recovery issues raised by stakeholders in prior proceedings related to the Utility’s TO tariff. The decision sets a base ROE of 10.38%, a fixed capital structure with common equity weighted at 50.0%, preferred equity at 0.3%, and long-term debt at 49.7%.
+
+On December 1, 2025, the Utility filed with the FERC the TO annual update for rate year 2026, which included the provisions of the TO21 settlement. The revenue requirement for rates that went into effect on January 1, 2026 is $2.6 billion, which represents a decrease from the 2025 revenue requirement of $2.9 billion.
+
+Other Regulatory Proceedings
+
+2026-2028 Wildfire Mitigation Plan
+
+On April 4, 2025, the Utility submitted to the OEIS its 2026-2028 WMP, which it revised on July 28, 2025. The 2026-2028 WMP provides a comprehensive overview of the Utility’s wildfire mitigation strategy and incorporates lessons learned from previous years and emerging best practices. On February 5, 2026, the OEIS issued a final decision approving the Utility’s 2026–2028 WMP.
+
+Extension of Diablo Canyon Operations
+
+On September 2, 2022, SB 846 became law. SB 846 supports the extension of operations at DCPP through no later than 2030, with the potential for an earlier retirement date. Under the legislation, the Utility continues to operate DCPP on behalf of all CPUC-jurisdictional LSEs, and all customers of those LSEs are responsible for the cost of extended operations.
+
+The key steps to continued operations are NRC license renewal and approvals from several California state agencies. As of December 31, 2025, the Utility has received all necessary state approvals except for approval from the Central Coast Region Water Quality Control Board. The CPUC’s approval is subject to the following conditions: (1) the NRC continues to authorize DCPP operations; (2) the loan agreement authorized by SB 846 is not terminated; and (3) the CPUC does not make a future determination that DCPP extended operations are imprudent or unreasonable.
+
+On November 7, 2023, the Utility submitted an application for license renewal with the NRC. On December 19, 2023, the NRC deemed the application sufficient, which allows continued operations at DCPP past the plant’s current licenses until the relicensing review is complete. In June 2025, the NRC issued the final safety evaluation report and supplemental environmental impact statement.
+
+SB 884 10-Year Distribution Undergrounding Program
+
+On March 7, 2024, the CPUC approved a resolution that establishes an expedited utility distribution infrastructure undergrounding program pursuant to Public Utilities Code Section 8388.5. The resolution addressed the process and requirements for the CPUC’s review of any large electrical corporation’s 10-year distribution infrastructure undergrounding plan and conditional approval of its related costs. On December 4, 2025, the CPUC approved a resolution that updated and refined the prior resolution and instructed the Utility to file a joint application with SCE and SDGE requesting approval of a proposal to resolve several cost recovery issues, including the benefit-cost ratio and audit methodologies, not addressed in the resolution. On February 9, 2026, the utilities submitted that filing.
+
+On February 20, 2025, the OEIS adopted final program guidelines. The OEIS has indicated that it will issue separate compliance guidelines.
+
+LEGISLATIVE AND REGULATORY INITIATIVES
+
+SB 254
+
+On September 19, 2025, SB 254 became law and became effective. Among other things, the law provides for the Continuation Account, which is designed to provide additional liquidity to reimburse catastrophic wildfire-related claims incurred by large electric corporations (as defined in SB 254), if the Wildfire Fund is depleted. Each of California’s large electric IOUs has elected to participate in the Continuation Account. The Continuation Account would be similar to the Wildfire Fund, except:
+
+• The Continuation Account would provide up to $18 billion of liquidity. If the Wildfire Fund administrator determines that the Continuation Account is necessary prior to December 31, 2028, the CPUC will consider whether to extend the non-bypassable charge on customers from 2036 through 2045. If the CPUC extends the non-bypassable charge on customers, the participating utilities’ annual $300 million contributions will be extended from 2029 through 2045.
+
+The Wildfire Fund administrator is also authorized to determine if additional annual contributions are needed, in which case the participating utilities will contribute an additional $3.9 billion in equal installment payments over five years. If the administrator winds up and terminates the Continuation Account before the final installment payment is made, the utilities will return one-half of the unpaid installment payments as rate credits to customers.
+
+The Utility’s allocation among the participating utilities for these contributions is 47.85%.
+
+• If a utility is required to reimburse the Continuation Account, the amount of reimbursement will be reduced by the amount of contributions for which the utility has not claimed a reduction.
+
+• The disallowance cap on reimbursements, which is equal to 20% of the equity portion of the utility’s electric transmission and distribution rate base, is determined based on the year of the ignition. This revised disallowance cap applies to fires occurring before or after the effective date of SB 254.
+
+Assets in the Continuation Account are separate from the Wildfire Fund and are not available for fires ignited before the effective date of SB 254.
+
+For fires that destroy 1,000 or more structures, SB 254 gives the participating utilities a right of first refusal over insurers’ transactions to sell their right of subrogation, reimbursement, or recovery.
+
+SB 254 also prohibits the Utility from including in its equity rate base the first $2.9 billion that it first expends on fire risk mitigation capital expenditures approved by the CPUC on or after January 1, 2026. The Utility expects to finance this amount with securitization.
+
+SB 254 requires the Wildfire Fund administrator to prepare a report by April 1, 2026 that evaluates and sets forth recommendations on new models or approaches that mitigate damage, accelerate recovery, and responsibly and equitably allocate the burdens from natural catastrophes, including catastrophic wildfires, earthquakes, and other natural disasters, across stakeholders, including insurers, communities, homeowners, landowners, governments, large electrical corporations, and local publicly owned electric utilities, to complement or replace the Wildfire Fund.
+
+LITIGATION AND OTHER MATTERS
+
+PG&E Corporation and the Utility have significant contingencies arising from their operations, including contingencies related to matters described in Notes 14 and 15 of the Notes to the Consolidated Financial Statements in Part II, Item 8 and in “Regulatory Matters” above that are incorporated by reference herein. The outcome of these matters, individually or in the aggregate, could have a material effect on PG&E Corporation’s and the Utility’s financial condition, results of operations, liquidity, and cash flows.
+
+ENVIRONMENTAL MATTERS
+
+The Utility’s operations are subject to extensive federal, state, and local laws and permits relating to the protection of the environment and the safety and health of the Utility’s personnel and the public. These laws and requirements relate to a broad range of the Utility’s activities, including the remediation of hazardous substances; the reporting and reduction of carbon dioxide and other GHG emissions; the discharge of pollutants into the air, water, and soil; the reporting of safety and reliability measures for natural gas storage facilities; and the transportation, handling, storage, and disposal of spent nuclear fuel. See Item 1A: “Risk Factors,” “Environmental Regulation” in Item 1 and “Environmental Remediation Contingencies” in Note 15 of the Notes to the Consolidated Financial Statements in Item 8.
+
+RISK MANAGEMENT ACTIVITIES
+
+PG&E Corporation, mainly through its ownership of the Utility, and the Utility are exposed to risks associated with adverse changes in commodity prices, interest rates, and counterparty credit. The Utility actively manages market risk through risk management programs designed to support business objectives, discourage unauthorized risk-taking, reduce commodity cost volatility, and manage cash flows. The Utility uses derivative instruments only for non-trading purposes (i.e., risk mitigation) and not for speculative purposes.
+
+Commodity Price Risk
+
+The Utility is exposed to commodity price risk as a result of its electricity and natural gas procurement activities, including the procurement of natural gas and nuclear fuel necessary for electricity generation and natural gas procurement for core customers. The Utility’s risk management activities include the use of physical and financial instruments such as forward contracts, futures, swaps, options, and other instruments and agreements. As long as the Utility can conclude that it is probable that its reasonably incurred wholesale electricity procurement costs and natural gas costs are recoverable, fluctuations in electricity and natural gas prices do not affect earnings. Such fluctuations, however, may impact cash flows. The Utility’s natural gas transportation and storage costs for core customers are also fully recoverable through a ratemaking mechanism.
+
+The Utility does not have a balancing account for costs in excess of its revenue requirement for natural gas transportation and storage service to non-core customers. The Utility recovers these costs in its GRC through fixed reservation charges and volumetric charges from long-term contracts, resulting in price and volumetric risk. PG&E Corporation uses value-at-risk to measure its shareholders’ exposure to these risks. The value-at-risk was approximately $4 million and $5 million at December 31, 2025 and 2024, respectively. See Note 10 of the Notes to the Consolidated Financial Statements in Item 8 for further discussion of price risk management activities.
+
+Interest Rate Risk
+
+Interest rate risk sensitivity analysis is used to measure interest rate risk by computing estimated changes in cash flows as a result of assumed changes in market interest rates. At December 31, 2025 and 2024, if interest rates changed by one percent for all PG&E Corporation and Utility variable rate long-term debt, short-term borrowings, and cash investments, the pre-tax impact on net income over the next 12 months would be $37 million and $6 million, respectively, based on net variable rate debt and other interest rate-sensitive instruments outstanding. See Note 4 of the Notes to the Consolidated Financial Statements in Item 8 for further discussion of interest rates.
+
+Energy Procurement Credit Risk
+
+The Utility conducts business with counterparties mainly in the energy industry to purchase electricity or gas and related services, including the CAISO market, other California IOUs, municipal utilities, energy trading companies, pipelines, financial institutions, electricity generation companies, and oil and natural gas production companies located in the United States and Canada. If a counterparty fails to perform on its contractual obligation to deliver electricity or gas and related services, then the Utility may find it necessary to procure electricity or gas at current market prices or seek alternate services, which may be higher than the contract prices.
+
+The Utility manages credit risk associated with its counterparties by assigning credit limits based on evaluations of their financial conditions, net worth, credit ratings, and other credit criteria as deemed appropriate. Credit limits and credit quality are monitored periodically. The Utility executes many energy contracts under master commodity enabling agreements that may require security. Security may be in the form of cash or letters of credit. The Utility may accept other forms of performance assurance in the form of corporate guarantees of acceptable credit quality or other eligible securities (as deemed appropriate by the Utility). Security or performance assurance may be required from the Utility or counterparties when current net receivables or payables and exposure exceed contractually specified limits.
+
+The following table summarizes the Utility’s energy procurement credit risk exposure to its counterparties:
+
+(1) Exposure is the positive exposure maximum that equals mark-to-market value on physically and financially settled contracts, plus net receivables (payables) where netting is contractually allowed minus collateral posted by counterparties and held by the Utility plus collateral posted by the Utility and held by the counterparties. For purposes of this table, parental guarantees are not included as part of the calculation. Exposure amounts reported above do not include adjustments for time value or liquidity.
+
+CRITICAL ACCOUNTING ESTIMATES
+
+The preparation of the Consolidated Financial Statements in accordance with GAAP involves the use of estimates and assumptions that affect the recorded amounts of assets and liabilities as of the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The accounting policies described below are considered to be critical accounting estimates due, in part, to their complexity and because their application is relevant and material to the financial position and results of operations of PG&E Corporation and the Utility, and because these policies require the use of material judgments and estimates. Actual results may differ materially from these estimates and assumptions.
+
+Contributions to the Wildfire Fund
+
+PG&E Corporation and the Utility account for shareholder contributions to the Wildfire Fund by recognizing an asset, amortizing the asset ratably over the life of the fund based on an estimated period of coverage, and accelerating amortization of the asset when it is determined probable and estimable that the Wildfire Fund longevity has declined, as further described below.
+
+AB 1054 did not specify a period of coverage; therefore, this accounting treatment is subject to significant accounting judgments and estimates. In estimating the longevity of the fund, PG&E Corporation and the Utility use a dataset with historical, publicly available fire-loss data caused by electrical equipment to create Monte Carlo simulations of expected loss. The simulation began with 12 years of publicly available fire-loss data, and PG&E Corporation and the Utility add an additional year of data each subsequent year. In addition to historical data, significant assumptions also include the estimated amount of Wildfire Fund claim payments, the number of years of fire-loss data, estimated costs of wildfire settlement claims from other participating utilities, CPUC’s determinations of whether costs were just and reasonable in cases of electric utility-caused wildfires and the amounts required to be reimbursed to the Wildfire Fund, and the effects of climate change. Due to the significant judgment required to estimate the life of the Wildfire Fund, there is a high degree of uncertainty for many of these assumptions, and so subsequent changes to the available information could materially impact the remaining estimated life of the fund. Based upon the outcome of newly run Monte Carlo simulations when known information becomes available, PG&E Corporation and the Utility may determine to increase or decrease, as applicable, the estimated life of the fund. For instance, in 2024, a re-evaluation in the estimate resulted in the Wildfire Fund life increasing from 15 to 20 years.
+
+Estimates for the useful life of the Wildfire Fund and the accelerated amortization of the fund, respectively, are based on a variety of assumptions and are subject to uncertainty and change as additional information becomes publicly available. The estimated life of the Wildfire Fund reflects wildfire risk in the state, while accelerated amortization anticipates potential draw-downs of the Wildfire Fund. Both of these estimates have a high degree of uncertainty since they rely on a number of assumptions, such as potential wildfire claim payments, future wildfire activity, regulatory decisions, and any potential disclosed cost of wildfires caused by other participating electric utilities.
+
+SCE has disclosed that a liability for the Eaton fire is probable but not reasonably estimable. PG&E Corporation and the Utility expect to reduce their 20-year estimated life of the Wildfire Fund and assess the Wildfire Fund asset for accelerated amortization based on reliable, publicly available information, including when and if SCE accrues a liability or a Wildfire Fund receivable, respectively. As a result, the Wildfire Fund asset could be amortized down to zero in the near future. For every $5 billion of Wildfire Fund receivables recorded by a participating utility, PG&E Corporation and the Utility expect that they would record approximately $1 billion of accelerated amortization.
+
+As of December 31, 2025, PG&E Corporation and the Utility recorded $193 million in Other current liabilities, $377 million in Other noncurrent liabilities, $297 million in Current assets - Wildfire Fund asset, and $3.7 billion in Noncurrent assets - Wildfire Fund asset in the Consolidated Balance Sheets. During the years ended December 31, 2025 and 2024, the Utility recorded amortization and accretion expense of $352 million and $383 million, respectively. The amortization of the asset, accretion of the liability, and acceleration of the amortization of the asset is reflected in Wildfire Fund expense in the Consolidated Statements of Income.
+
+The period of historic fire-loss data and the effectiveness of mitigation efforts by the California electric utility companies are significant assumptions used to estimate the useful life. These assumptions along with the other assumptions below create a high degree of uncertainty related to the estimated useful life of the Wildfire Fund.
+
+The Monte Carlo simulation creates annual distributions of potential losses due to fires that could be attributed to the participating electric utilities. Initial use of five years of historical data, with average annual statewide claims or settlements of approximately $6.5 billion versus 12 years of historical data, with average annual statewide claims or settlements of approximately $2.9 billion, would have resulted in a six year amortization period. As of December 31, 2025, a 10% change to the assumption around current and future mitigation effort effectiveness would increase the amortization period by ten years assuming greater effectiveness and would decrease the amortization period by five years assuming less effectiveness.
+
+Other assumptions used to estimate the useful life include the disclosed cost of wildfires caused by participating electric utilities, the amount at which wildfire claims would be settled, the likely adjudication of the CPUC in cases of electric utility-caused wildfires and determination of any amounts required to be reimbursed to the Wildfire Fund, the impacts of climate change, the level of future insurance coverage held by the electric utilities, the FERC-allocable portion of loss recovery, and the future transmission and distribution equity rate base growth of participating electric utilities. Significant changes in any of these estimates could materially impact the amortization period.
+
+For more information, see “Contributions to the Wildfire Fund and the Continuation Account” in Note 2 and “Wildfire Fund Recoveries under AB 1054 and SB 254” in Note 14 of the Notes to the Consolidated Financial Statements in Item 8.
+
+Loss Contingencies
+
+PG&E Corporation and the Utility record an estimated liability when they determine that a loss is probable, and they can reasonably estimate the loss or a range of losses. As discussed below, PG&E Corporation and the Utility have recorded material estimated liabilities for various wildfire-related, enforcement, environmental remediation, and other legal matters. For more information about PG&E Corporation’s and the Utility’s accounting policies and sources of uncertainty in these estimates, see Notes 14 and 15 of the Notes to the Consolidated Financial Statements in Item 8.
+
+PG&E Corporation and the Utility are subject to various laws and regulations and, in the normal course of business, are named as parties in a number of claims and lawsuits. In addition, penalties may be incurred for failure to comply with federal, state, or local laws and regulations.
+
+The assessment of whether a loss is probable or reasonably possible, and whether the loss or a range of loss is estimable, often involves a series of complex judgments about future events. The process for estimating liabilities requires management to exercise significant judgment based on a number of assumptions and subjective factors, including negotiations (including those during mediations with claimants), discovery, settlements and payments, rulings, advice of legal counsel, and other information and events pertaining to a particular matter, and estimates based on currently available information and prior experience. As more information becomes available, including from potential claimants as litigation or resolutions progress, management estimates and assumptions regarding the potential financial impacts of wildfire events may change.
+
+PG&E Corporation and the Utility are subject to various laws and regulations and, in the normal course of business, are named as parties in a number of claims and lawsuits. In addition, penalties may be incurred for failure to comply with federal, state, or local laws and regulations.
+
+With respect to environmental remediation, as of December 31, 2025 and 2024, the Utility’s estimated undiscounted gross environmental liabilities were $1.2 billion each. The Utility’s undiscounted future costs could increase to as much as $2.2 billion if the extent of contamination or necessary remediation is greater than anticipated or if the other potentially responsible parties are not financially able to contribute to these costs and could increase further if the Utility chooses to remediate beyond regulatory requirements. Although the Utility has provided for known environmental obligations that are probable and reasonably estimable, estimated costs may vary significantly from actual costs, and the amount of additional future costs may be material to results of operations in the period in which they are recognized.
+
+Loss Recoveries
+
+PG&E Corporation and the Utility have recovery mechanisms available for wildfire liabilities including from insurance, through rates, and from the Wildfire Fund. The Utility has liability insurance from various insurers, which provides coverage for third-party claims arising before August 1, 2023. PG&E Corporation and the Utility record a receivable for a recovery when they determine that it is probable that they will recover a recorded loss, and they can reasonably estimate the amount or its range. The assessment of whether recovery is probable or reasonably possible, and whether the recovery or a range of recoveries is estimable, often involves a series of complex judgments about future events. Loss recoveries are reviewed quarterly, and estimates are adjusted to reflect the impact of all known information, including contractual liability insurance policy coverage, advice of legal counsel, past experience with similar events, communications with the Wildfire Fund administrators, the CPUC and FERC, and other information and events pertaining to a particular matter. See “Loss Recoveries” in Note 14 of the Notes to the Consolidated Financial Statements in Item 8.
+
+Regulatory Accounting
+
+As a regulated entity, the Utility records regulatory assets and liabilities for amounts that are deemed probable of recovery from, or refund to, customers. The Utility continues to apply ASC 980, Regulated Operations . Refer to “Regulation and Regulated Operations” in Note 2 as well as Note 3 of the Notes to the Consolidated Financial Statements in Item 8. As of December 31, 2025, PG&E Corporation and the Utility reported regulatory assets (including current regulatory balancing accounts receivable) of $22.6 billion and regulatory liabilities (including current regulatory balancing accounts payable) of $24.3 billion.
+
+Determining probability requires significant judgment by management and includes consideration of testimony presented in regulatory hearings, proposed regulatory decisions, final regulatory orders, and the strength or status of applications for rehearing or court appeals. For some of the Utility’s regulatory assets, including utility-retained generation, the Utility has determined that the costs are recoverable based on specific approval from the CPUC. The Utility also records a regulatory asset when a mechanism is in place to recover current expenditures and historical experience indicates that recovery of incurred costs is probable, such as the regulatory assets for pension benefits; deferred income tax; price risk management; and unamortized loss, net of gain, on reacquired debt. If the Utility determined that it is no longer probable that regulatory assets would be recovered or reflected in future rates, or if the Utility ceased to be subject to rate regulation, the regulatory assets would be charged against income in the period in which that determination was made. If regulatory accounting did not apply, the Utility’s future financial results could become more volatile as compared to historical financial results due to the differences in the timing of expense or revenue recognition.
+
+A portion of the Utility’s regulatory asset balances relate to items which could not be anticipated by the Utility during CPUC GRC rate requests resulting from catastrophic events, changes in regulation, or extraordinary changes in operating practices. The Utility may seek authority to track incremental costs in a memorandum account, and the CPUC may authorize recovery of costs tracked in memorandum accounts if the costs are deemed incremental and prudently incurred. These accounts, which include the CEMA, WEMA, FRMMA, WMPMA, VMBA, WMBA, and MGMA among others, allow the Utility to track the costs associated with work related to disaster and wildfire response, and other wildfire prevention-related costs. While the Utility generally believes such costs are recoverable, rate recovery requires CPUC authorization in separate proceedings or through a GRC.
+
+Additionally, SB 901 provides a mechanism for the CPUC to allow recovery in future rates, through a securitization mechanism, of wildfire-related costs found to be just and reasonable by the CPUC and, only for the 2017 Northern California wildfires, any amounts in excess of the customer harm threshold (“CHT”). SB 901 required the CPUC to establish the CHT to limit certain disallowances in the aggregate, so that they do not exceed the maximum amount that the Utility can pay without harming customers or materially impacting its ability to provide adequate and safe service. The Utility must evaluate the likelihood of recovery in future rates each period. In 2022, PG&E Corporation and the Utility recorded a regulatory asset associated with SB 901. As of December 31, 2025, the SB 901 regulatory asset was approximately $5.1 billion. See Note 5 of the Notes to the Consolidated Financial Statements in Item 8.
+
+In addition, regulatory accounting standards require recognition of a loss if it becomes probable that capital expenditures will be disallowed for ratemaking purposes and if a reasonable estimate of the amount of the disallowance can be made. Such assessments require significant judgment by management regarding probability of recovery, as described above, and the ultimate cost of construction of capital assets. The Utility records a loss to the extent capital costs are expected to exceed the amount to be recovered. The Utility’s capital forecasts involve a series of complex judgments regarding detailed project plans, estimates included in third-party contracts, historical cost experience for similar projects, permitting requirements, environmental compliance standards, and a variety of other factors.
+
+Asset Retirement Obligations
+
+PG&E Corporation and the Utility account for an ARO at fair value in the period during which the legal obligation is incurred if a reasonable estimate of fair value and its settlement date can be made. At the time of recording an ARO, the associated asset retirement costs are capitalized as part of the carrying amount of the related long-lived asset. The Utility recognizes a regulatory asset or liability for the timing differences between the recognition of expenses and costs recovered through the ratemaking process. See Notes 2 and 3 of the Notes to the Consolidated Financial Statements in Item 8.
+
+To estimate its liability, the Utility uses a discounted cash flow model based upon significant estimates and assumptions about future decommissioning costs, escalation rates, credit-adjusted risk-free rates, and estimated decommissioning dates. The estimated future cash flows are discounted using a credit-adjusted risk-free rate that reflects the risk associated with the decommissioning obligation. The Utility performs detailed cost studies of its nuclear generation facilities in conjunction with the NDCTP, most recently performed in 2021, and updates its nuclear AROs accordingly, unless circumstances warrant more frequent updates. The decommissioning cost estimates are based on the plant location and cost characteristics for the Utility’s nuclear power plant. Actual decommissioning costs may vary from these estimates as a result of changes in assumptions such as decommissioning dates; regulatory requirements; technology; and costs of labor, materials, and equipment.
+
+At December 31, 2025, the Utility’s recorded ARO for the estimated cost of retiring these long-lived assets was approximately $5.4 billion. Changes in these estimates and assumptions could materially affect the amount of the recorded ARO for these assets.
+
+Pension and Other Postretirement Benefit Plans
+
+PG&E Corporation and the Utility sponsor a non-contributory defined benefit pension plan for eligible employees as well as contributory postretirement health care and medical plans for eligible retirees and their eligible dependents, and non-contributory postretirement life insurance plans for eligible employees and retirees. Adjustments to the pension and other benefit obligation are based on the differences between actuarial assumptions and actual plan results. These amounts are deferred in accumulated other comprehensive income (loss) and amortized into income on a gradual basis. The differences between pension benefit expense recognized in accordance with GAAP, and amounts recognized for ratemaking purposes are recorded as regulatory assets or liabilities as amounts are probable of recovery through rates. To the extent the other benefits are in an overfunded position, the Utility records a regulatory liability. See Note 3 of the Notes to the Consolidated Financial Statements in Item 8.
+
+The pension and other postretirement benefit obligations are calculated using actuarial models as of the December 31 measurement date. The significant actuarial assumptions used in determining pension and other benefit obligations include the discount rate, the average rate of future compensation increases, the health care cost trend rate, and the expected return on plan assets. PG&E Corporation and the Utility review these assumptions on an annual basis and adjust them as necessary. While PG&E Corporation and the Utility believe that the assumptions used are appropriate, significant differences in actual experience, plan changes or amendments, or significant changes in assumptions may materially affect the recorded pension and other postretirement benefit obligations and future plan expenses. See Note 12 of the Notes to the Consolidated Financial Statements in Item 8.
+
+In establishing health care cost assumptions, PG&E Corporation and the Utility consider recent cost trends and projections from industry experts. This evaluation suggests that current rates of inflation are expected to continue in the near term. In recognition of continued high inflation in health care costs and given the design of PG&E Corporation’s plans, the assumed health care cost trend rate for 2026 was 7.0%, gradually decreasing to the ultimate trend rate of approximately 4.5% in 2036 and beyond.
+
+Expected rates of return on plan assets were developed by estimating future stock and bond returns and then applying these returns to the target asset allocations of the employee benefit plan trusts, resulting in a weighted average rate of return on plan assets. Returns on fixed-income debt investments were projected based on real maturity and credit spreads added to a long-term inflation rate. Returns on equity investments were projected based on estimates of dividend yield and real earnings growth added to a long-term inflation rate. For the Utility’s defined benefit pension plan, the assumed return of 7.0% compares to a ten-year actual return of 5.7%.
+
+The rate used to discount pension benefits and other benefits was based on a yield curve developed from market data of approximately 831 Aa-grade non-callable bonds at December 31, 2025. This yield curve has discount rates that vary based on the duration of the obligations. The estimated future cash flows for the pension and other postretirement benefit obligations were matched to the corresponding rates on the yield curve to derive a weighted average discount rate.
+
+The following reflects the sensitivity of pension costs and projected benefit obligation to changes in certain actuarial assumptions:
+
+The following reflects the sensitivity of other postretirement benefit costs and accumulated benefit obligation to changes in certain actuarial assumptions:
+
+ACCOUNTING STANDARDS ISSUED BUT NOT YET ADOPTED
+
+See Note 2 of the Notes to the Consolidated Financial Statements in Item 8.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+See Note 2 of the Notes to the Consolidated Financial Statements in Item 8.

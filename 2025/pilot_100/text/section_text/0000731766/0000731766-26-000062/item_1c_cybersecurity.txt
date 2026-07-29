@@ -1,0 +1,39 @@
+ITEM 1C. CYBERSECURITY
+
+Overview of Cybersecurity Program
+
+UnitedHealth Group assesses its cybersecurity and data protection initiatives through the National Institute of Standards and Technology (NIST) Cybersecurity Framework. This framework provides guidelines for maintaining a mature and comprehensive cybersecurity program, outlining the essential components and responsibilities required to safeguard sensitive information.
+
+Risk Assessment and Management Practices
+
+The Company employs processes to assess, identify, and manage cybersecurity risks. These processes include conducting tabletop exercises to test and reinforce incident response controls, performing control gap analyses, executing penetration tests, and implementing data recovery testing. Internal and external security assessments, along with ongoing threat intelligence monitoring, are used to further strengthen the program. Employees participate in annual cybersecurity and data privacy training to enhance awareness and preparedness across the enterprise.
+
+Incident Management and Response
+
+The Company has established an incident management and response program that continuously monitors information systems for vulnerabilities, threats, and incidents. This program is designed to respond to and manage incidents as they arise, remediate vulnerabilities, and communicate significant threats or incidents to management, including the Chief Security Officer (CSO), the Chief Digital and Technology Officer (CDTO) , and executive leadership. Under the incident response plan, incidents are reported to the Audit and Finance Committee and, when necessary, to appropriate government agencies, based on their impact, significance, and scope.
+
+Third-Party Risk Management
+
+We require third-party partners and contractors to handle data in accordance with the Company’s data privacy and cybersecurity requirements, as well as applicable laws. The Company maintains ongoing engagement with suppliers, partners, contractors, and service providers to identify and remediate vulnerabilities, and monitors system upgrades to mitigate future risks. Through our third-party risk management program, we evaluate whether third parties use effective controls and business continuity plans, and drive the remediation of any identified issues or risks.
+
+Auditing, Certifications, and Continuous Improvement
+
+We engage both internal and external advisors and auditors to review and audit our infrastructure and information systems to enhance the program’s design and operational effectiveness. The Company maintains various certifications from industry-recognized organizations. We conduct regular vulnerability assessments and penetration tests to improve system security and address emerging security threats. The internal audit team independently assesses cybersecurity controls against enterprise policies, using a combination of auditing and cybersecurity frameworks to evaluate the application of leading practices. Audit results and remediation progress are reported to, and monitored by, senior management and the Audit and Finance Committee. We also engage external cybersecurity and audit firms to provide an evaluation of the program’s maturity.
+
+Enterprise Risk Assessment
+
+As part of the overall enterprise cybersecurity risk management program, we complete regular enterprise information risk assessments. Overseen by the CSO, these assessments address unexpected or unforeseen changes in the risk environment by reviewing internal and external threats and evaluating changes to the cybersecurity risk landscape. The results of these assessments inform future investments and program enhancements and are communicated as part of the Company’s broader enterprise risk management program.
+
+Engagement with Third-Party Experts
+
+In addition to in-house cybersecurity capabilities, the Company engages assessors, consultants, and other third parties to assist with a range of cybersecurity matters, including red team testing, auditing, and strategic advisory services.
+
+Leadership and Governance
+
+Management of UnitedHealth Group’s cybersecurity risks is overseen by the CSO and CDTO . Our CSO brings more than 30 years of experience in security roles across private and public sectors, including law enforcement and leadership positions at major multinational corporations. Our CDTO has been with the Company for more than two decades, holding leadership roles in finance, operations and technology, and has previously served as chief information officer for UnitedHealthcare and several of our Optum businesses. Together, the CSO and CDTO co-chair UnitedHealth Group’s Enterprise Security Council, which oversees the security team’s work and includes the Chief Compliance Officer, the Chief Legal Officer, the Chief Audit Executive, the Chief Privacy Officer, and senior business executives.
+
+Board Oversight
+
+The Board of Directors has delegated to the Audit and Finance Committee primary responsibility for overseeing the Company’s risk management and compliance programs related to cybersecurity, data protection, and privacy. The Audit and Finance Committee receives regular updates from the CSO and CDTO on critical cybersecurity risks, strategy, supplier risk, and business continuity. The Audit and Finance Committee has also engaged a leading cybersecurity incident and response firm to advise on and strengthen oversight of these matters.
+
+As of December 31, 2025, the Company has not identified any risks from cybersecurity threats that have materially affected or are reasonably likely to materially affect the Company, including our business strategy, results of operations or financial condition, but there can be no assurance that any such risk will not materially affect the Company in the future. For further information about the cybersecurity risks we face, and potential impacts of such risks, see Part I, Item 1A, “Risk Factors.”

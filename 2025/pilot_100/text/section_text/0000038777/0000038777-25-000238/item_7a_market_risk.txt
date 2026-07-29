@@ -1,0 +1,31 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+In the normal course of business, our financial position is subject to market risk, including, but not limited to, potential loss due to changes in the value of financial instruments including those resulting from adverse changes in interest rates, foreign currency exchange rates and market valuation. Financial instruments include, but are not limited to, investment securities and debt obligations. Management is responsible for managing market risk. Our Enterprise Risk Management Committee is responsible for providing a framework to assist management to identify, assess and manage market and other risks.
+
+Our market risk from assets and liabilities of CIPs is limited to that of our direct equity investments in them and investment management fees earned from them. Accordingly, the assets and liabilities of CIPs are excluded from the discussion below.
+
+AUM Market Price Risk
+
+We are exposed to market risk through our investment management and distribution fees, which are generally calculated as a percentage of AUM. Changes in market prices, interest rates, credit spreads, foreign exchange rates, or a combination of these factors could cause the value of AUM to decline, which would result in lower investment management and distribution fees. Our exposure to these risks is reduced as we sponsor a broad range of investment products in various global jurisdictions, which serves to mitigate the impact of changes in any particular market or region.
+
+Assuming the respective effective fee rates and asset mix remain unchanged, a proportional 10% change in the value of our average AUM would result in corresponding 10% changes in our investment management fees, excluding performance-based investment management fees and asset-based distribution fee revenues. Such a change for the fiscal year ended September 30, 2025 would have resulted in an increase or decrease in operating revenues of $772.7 million.
+
+Interest Rate Risk
+
+We are exposed to changes in interest rates primarily through our investments in funds that invest in debt securities, which were $2,645.6 million at September 30, 2025. Our exposure to interest rate risks from these investments is mitigated by the low average duration exposure and a broad range of products in various global jurisdictions. We had no exposure to changes in interest rates from debt obligations at September 30, 2025 as all of our outstanding debt was issued at fixed rates. Any borrowings under the Amended and Restated Credit Agreement would bear interest at variable rates.
+
+As of September 30, 2025, we have considered the potential impact of a 100 basis point movement in market interest rates on our investments in funds that invest in debt securities. Based on our analysis, we do not expect that such a change would have a material impact on our earnings in the next 12 months.
+
+Foreign Currency Exchange Risk
+
+We are subject to foreign currency exchange risk through our international operations. While the majority of our revenues are earned in the U.S., we also provide services and earn revenue in international jurisdictions. Our exposure to foreign currency exchange risk is reduced in relation to our results of operations since a significant portion of these revenues is denominated in U.S. dollars. This situation may change in the future as our business continues to grow outside the U.S. and expenses incurred denominated in foreign currencies increase.
+
+The exposure to foreign currency exchange risk in our consolidated balance sheet mostly relates to cash and cash equivalents and investments that are denominated in foreign currencies, primarily in the Euro, Indian Rupee, Pound Sterling, Chinese Yuan and Australian dollar. These assets accounted for 27% of the total cash and cash equivalents and investments at September 30, 2025.
+
+A 10% weakening of the U.S. dollar against the various foreign currencies to which we had exposure as described above would result in corresponding 10% increases in the U.S. dollar values of the foreign currency assets and 10% decreases in the foreign currency values of the U.S. dollar assets. Such a weakening as of September 30, 2025 would result in a $118.4 million decrease in accumulated other comprehensive loss and a $0.2 million decrease in pre-tax earnings. We generally do not use derivative financial instruments to manage foreign currency exchange risk exposure. As a result, both positive and negative currency fluctuations against the U.S. dollar may affect our results of operations and accumulated other comprehensive income (loss).
+
+Market Valuation Risk
+
+We are exposed to market valuation risks related to securities we hold that are carried at fair value. To mitigate the risks we maintain a diversified investment portfolio and, from time to time, we may enter into derivative agreements.
+
+The following is a summary of the effect of a 10% increase or decrease in the carrying values of our financial instruments subject to market valuation risks at September 30, 2025. If such a 10% increase or decrease in carrying values were to occur, the changes from investments measured at fair value and direct investments in CIPs would result in a $240.1 million increase or decrease in our pre-tax earnings.

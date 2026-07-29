@@ -1,0 +1,45 @@
+ITEM 1C. CYBERSECURITY
+
+Our Board of Directors (the “Board”), in coordination with our Executive Steering Committee and the Audit Committee, is responsible for overseeing our cybersecurity program. The Cyber Security department leads cybersecurity risk management for our business. Effective Cyber Risk Management is foundational to our Cybersecurity program and is informed by widely recognized industry standards and best practices. Our Cybersecurity Risk Management program includes processes and controls for the business to ensure that cybersecurity risks are identified and responded to promptly. These range from formal processes that are triggered in certain circumstances, detective controls, protective controls and other technology that we use to identify and manage risks. Cyber Security’s Risk Management process is consistent with our Enterprise Risk Management Policy, which describes how we manage risks generally. The Cyber Security team also engages with external consultants to ensure best practices in our Cyber Risk Management.
+
+Cybersecurity Risk Management and Strategy
+
+Our cybersecurity risk management and strategy focus on several areas:
+
+• Risk Identification and Reporting: We have implemented a comprehensive, cross-functional approach to assessing, identifying, and managing material cybersecurity threats and incidents. Our program includes controls and procedures to properly identify, classify, and escalate certain cybersecurity incidents to provide management visibility and obtain an assessment from management as to the public disclosure and reporting of material incidents in a timely manner. The Cyber Security team’s responsibilities include:
+
+◦ Rating cyber risk severity, coordinating remediation, and monitoring cyber risks within our enterprise risk register;
+
+◦ Monitoring cybersecurity detective controls for alerts, responding to alerts, and managing response to cyber incidents;
+
+◦ Cyber threat intelligence functions, including monitoring cybercrime and geopolitical developments;
+
+◦ Supporting mergers and acquisitions activities, including integration of newly acquired businesses;
+
+◦ Performing security architecture reviews in existing enterprise systems and in those of newly acquired organizations;
+
+◦ Procuring and arranging for the implementation of both protective and detective controls across our business;
+
+◦ Monitoring and ensuring Payment Card Industry Data Security Standard (PCI-DSS) compliance where required across the enterprise; and
+
+◦ Monitor for cybersecurity vulnerabilities and defects, including through penetration testing assessments.
+
+• Technical Safeguards: We have implemented technical safeguards that are designed to protect our information systems from cybersecurity threats, including firewalls, intrusion prevention and detection systems, endpoint detection and response, and access controls, which are evaluated and improved through vulnerability assessments and cybersecurity threat intelligence, as well as external audits and certifications. The Cyber Security department also manages security log information, and carries out vulnerability and application scanning to support the identification of cyber risks.
+
+• Incident Response and Recovery Planning: We maintain comprehensive incident response, business continuity, and disaster recovery plans designed to guide our response to cybersecurity incidents. We also conduct regular tabletop exercises to test these plans and ensure personnel are familiar with their roles in a response scenario.
+
+• Third-Party Risk Management (TPRM): We maintain a comprehensive, risk-based approach to identifying and overseeing material cybersecurity threats presented by third parties, including vendors, service providers, and other external users of our systems, as well as the systems of third parties that could adversely impact our business in the event of a material cybersecurity incident affecting those third-party systems, including any outside auditors or consultants who advise on our cybersecurity systems.
+
+• Education and Awareness: We provide regular, mandatory training for all levels of employees regarding cybersecurity threats to equip our employees with effective tools to address cybersecurity threats, and to communicate our evolving cybersecurity policies, standards, processes, and practices.
+
+Governance
+
+The Board, in coordination with our Executive Steering Committee and the Audit Committee, oversees our cybersecurity program, including the management of cybersecurity threats. The Executive Steering Committee receives regular presentations and reports on developments in the cybersecurity space, including risk management practices, recent developments, evolving standards, vulnerability assessments, third-party and independent reviews, the threat environment, technological trends and cybersecurity.
+
+The Chief Information Security Officer (CISO) is the risk manager overseeing the organization’s cybersecurity risk management function. As the Risk Manager, the CISO is responsible for the administration of the cybersecurity risk management program, policy and standards. This includes ensuring that risks are properly identified, assessed, managed, and reported as prescribed by the organization. The Risk Manager also has the responsibility of promoting an effective risk management culture through regular training across the organization. The CISO has direct communication with senior executives regarding cybersecurity risks and works collaboratively with our leadership to respond to and manage the response to cybersecurity incidents.
+
+The CISO has over 30 years of experience in cybersecurity, including more than nine years serving in chief information security leadership roles. The CISO’s background spans intelligence-driven and threat-actor focused security programs across highly regulated and complex global environments, including building and maturing enterprise capabilities such as incident response, threat intelligence, application security and vulnerability management. Our cybersecurity organization is comprised of experienced professionals with comparable depth of expertise in their respective disciplines that supports the effective execution of our cybersecurity risk management program. This collective experience enables effective oversight of cybersecurity risks, incident response and communication with senior leadership.
+
+Material Effects of Cybersecurity Incidents
+
+Risks from cybersecurity threats, including as a result of any previous cybersecurity incidents, have not materially affected us, including our business strategy, results of operations or financial condition. Further information regarding cybersecurity risks can be found in Item 1A. Risk Factors - Risks Relating to Information Technology, Cybersecurity and Intellectual Property.

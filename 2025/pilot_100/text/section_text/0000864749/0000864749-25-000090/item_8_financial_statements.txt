@@ -1,0 +1,717 @@
+Item 8. Financial Statements and Supplementary Data
+
+TRIMBLE INC.
+
+INDEX TO FINANCIAL STATEMENTS
+
+Index to Financial Statements
+
+TRIMBLE INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+Index to Financial Statements
+
+TRIMBLE INC.
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+Index to Financial Statements
+
+TRIMBLE INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+Index to Financial Statements
+
+TRIMBLE INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+Index to Financial Statements
+
+TRIMBLE INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(1) Includes $ 9.0 million and $ 9.1 million of cash and cash equivalents classified as held for sale as of January 3, 2025 and December 29, 2023.
+
+See accompanying Notes to the Consolidated Financial Statements.
+
+Index to Financial Statements
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1: DESCRIPTION OF BUSINESS AND ACCOUNTING POLICIES
+
+Trimble Inc. (“we” or “our” or “us”) is incorporated in the State of Delaware since October 2016.
+
+We are a leading provider of technology solutions that enable professionals and field mobile workers to improve or transform their work processes. We focus on transforming the way the world works by delivering products and services that connect the physical and digital worlds. We generate revenue primarily through the sale of our hardware, software, subscriptions, maintenance and support, and professional services.
+
+Basis of Presentation
+
+These Consolidated Financial Statements include our results of our consolidated subsidiaries. Intercompany accounts and transactions have been eliminated.
+
+We use a 52–53 week fiscal year ending on the Friday nearest to December 31. 2024 was a 53 -week year and 2023 and 2022 were 52 -week years ending on January 3, 2025, December 29, 2023, and December 30, 2022. Unless otherwise stated, all dates refer to our fiscal year and fiscal periods.
+
+Use of Estimates
+
+The preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Estimates and assumptions are used for (i) revenue recognition, including determining the nature and timing of satisfaction of performance obligations and determining standalone selling price of performance obligations; (ii) inventory valuation; (iii) valuation of investments; (iv) valuation of long-lived assets and their estimated useful lives; (v) goodwill and other long-lived asset impairment analyses; (vi) stock-based compensation; and (vii) income taxes. We base our estimates on historical experience and various other assumptions we believe to be reasonable . Actual results that we experience may differ materially from our estimates.
+
+Reportable Segments
+
+As a result of the Ag divestiture and our Chief Operating Decision Maker’s (“CODM”) revised organizational structure, effective in the first quarter of 2024, we reorganized our businesses under a new segment structure. This structure brings similar businesses together, which is expected to enhance our ability to achieve scale and growth consistent with our strategy. We report our financial performance, including revenue and operating income, based on three updated segments: (i) Architects, Engineers, Construction and Owners (“AECO”), (ii) Field Systems, and (iii) Transportation and Logistics(“T&L”). Prior years’ information have been adjusted to reflect the change in segment reporting.
+
+Our CODM views and evaluates operations based on the results of our reportable operating segments under our management reporting system.
+
+Revenue Recognition
+
+Significant Judgments
+
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services. Revenue is recognized net of allowance for returns and any taxes collected from customers. We enter into contracts that may include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations; however, determining whether products or services are considered distinct performance obligations that should be accounted for separately versus together may sometimes require significant judgment.
+
+Judgment is required to determine SSP for each performance obligation. We use a range of amounts to estimate SSP and determine whether there is a discount to be allocated based on the relative SSP of the various products and services. We estimate SSP considering multiple factors including but not limited to, our internal cost, pricing practices, sales channel, competitive positioning, and overall market and business environments. As our offerings and markets change, we may be required to reassess our estimated SSP and, as a result, the timing and classification of our revenue could be affected.
+
+Index to Financial Statements
+
+Nature of Goods and Services
+
+We generate revenue primarily from products and services and subscriptions; each of which is a distinct performance obligation. Descriptions are as follows:
+
+Product
+
+Product revenue includes hardware and perpetual software licenses.
+
+Hardwar e is recognized when the control of the product transfers to the customer, which is generally when the product is shipped. We recognize shipping fees reimbursed by customers as revenue and the cost for shipping as an expense in Cost of sales when control over products has transferred to the customer.
+
+Software including perpetual licenses is recognized upon delivery and commencement of the license term. In general, our contracts do not provide for customer specific acceptances.
+
+Subscription and Services
+
+Subscription and services revenue includes SaaS and hosting services, term licenses, hardware and software maintenance, and support and professional services.
+
+SaaS may be sold with devices used to collect, generate, and transmit data. SaaS is distinct from the related devices. SaaS is provided on either a subscription or a consumption basis. In addition, we may host the software that the customer has separately licensed. Hosting services are distinct from the underlying software. Subscription terms generally range from month-to-month to one to three years . Subscription revenue is recognized monthly over the subscription term, commencing from activation. Revenue related to SaaS on a consumption basis is recognized when the customer utilizes the service based on the quantity of the services consumed.
+
+Term license subscriptions contain an on-premise term license component as well as maintenance and support. Term licenses are distinct and recognized upon transfer and commencement of the subscription license term. Maintenance and support are recognized ratably over the subscription term. The subscription term generally ranges from one to three years .
+
+Hardware maintenance and support, commonly called extended warranty, entitles the customer to receive replacement parts and repair services. Extended warranty is separately priced and is recognized on a straight-line basis over the extended service period, which begins after the standard warranty period, ranging from one to two years depending on the product line.
+
+Software maintenance and support entitles the customer to receive software product upgrades and enhancements on a when and if available basis and technical support. Software maintenance is recognized on a straight-line basis commencing upon product delivery over the post-contract support term, which ranges from one to three years , with one year being most common.
+
+Professional services include installation, training, configuration, project management, system integrations, customization, data migration/conversion, and other implementation services. The majority of professional services are not complex, can be provided by other vendors, and are readily available and billed on a time-and-material basis. Revenue for distinct professional services is recognized over time, based on work performed.
+
+Deferred Costs to Obtain Customer Contracts
+
+Sales commissions incurred in obtaining contracts that include maintenance or subscription revenue are deferred if the contractual term is greater than a year or if renewals are expected, and the renewal commission is not commensurate with the initial commission. These commission costs are deferred and amortized over the estimated benefit period, which is either the contract term or the shorter of customer life or product life, which ranges from three to seven years .
+
+At the end of 2024 and 2023, deferred costs to obtain customer contracts were $ 124.3 million and $ 96.4 million. These costs are included in Other non-current assets in the Consolidated Balance Sheets. Amortization expense related to deferred costs to obtain customer contracts was $ 55.2 million, $ 39.5 million, and $ 32.0 million for 2024, 2023, and 2022. This expense is included in Sales and marketing expense in our Consolidated Statements of Income.
+
+Accounts Receivable, Net
+
+Accounts receivable, net, includes billed and unbilled amounts due from customers. Unbilled receivables include revenue recognized that exceeds the amount billed to the customer, provided the billing is not contingent upon future performance, and we have the unconditional right to future payment with only the passage of time required. Both billed and unbilled amounts due are stated at their net estimated realizable value.
+
+Index to Financial Statements
+
+We maintain an allowance for credit losses to provide for the estimated amount of receivables that will not be collected. Each reporting period, we evaluate the collectability of our trade accounts receivable based on a number of factors, such as age of the accounts receivable balances, credit quality, historical experience, and current and future economic conditions that may affect a customer’s ability to pay. At the end of 2024 and 2023, the allowances for credit losses were immaterial.
+
+Inventories
+
+Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost, which approximates actual cost. Adjustments are also made to reduce the cost of inventory for estimated excess or obsolete balances. Factors influencing these adjustments include declines in demand that impact inventory purchasing forecasts, technological changes, product lifecycle and development plans, component cost trends, product pricing, physical deterioration, and quality issues. If our estimate used to reserve for excess and obsolete inventory differs from what is expected, we may be required to recognize additional reserves, which would negatively impact our gross margin.
+
+Property and Equipment, Net
+
+Property and equipment are depreciated using the straight-line method over the shorter of the estimated useful lives or the lease terms when applicable. Useful lives generally range from four to six years for machinery and equipment, five to ten years for furniture and fixtures, two to five years for computer equipment and software, thirty-nine years for buildings, and the life of the lease for leasehold improvements. Included in the software category, internal-use software includes certain costs to purchase, develop, and implement the software during the application development phase.
+
+Cloud Computing Arrangements
+
+Costs incurred for certain cloud-based software hosting arrangements are capitalized for application development activities, and for preliminary project and post-implementation activities. Our capitalized development costs are amortized using the straight-line method over the remaining non-cancellable term of the associated hosting arrangement plus any reasonably certain renewal periods. The capitalized costs are included in “Prepaid expenses” and “Other non-current assets” in our Consolidated Balance Sheets. Capitalized costs net of accumulated amortization were $ 64.1 million and $ 58.0 million at the end of 2024 and 2023. Amortization expense was $ 16.3 million, $ 8.7 million, and $ 4.5 million in 2024, 2023, and 2022.
+
+Leases
+
+We determine if an arrangement is a lease at inception. Operating leases with lease terms greater than one year are included in Operating lease right-of-use (“ROU”) assets, Other current liabilities, and Operating lease liabilities in our Consolidated Balance Sheets.
+
+ROU assets represent our right to use an underlying asset for the lease term, and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. Present value is determined by using our incremental borrowing rate based on the estimated rate of interest for collateralized borrowings over a similar term of the lease payments at the commencement date. The operating lease ROU assets include adjustments made for uneven rents, lease incentives, and lease impairments. Lease expense for lease payments is recognized on a straight-line basis over the lease term.
+
+Lease agreements that include both lease and non-lease components are accounted for as part of the overall lease arrangement.
+
+Business Combinations
+
+We allocate the fair value of purchase consideration to the assets acquired and liabilities assumed based on their fair values at the acquisition date. When determining the fair values, we make significant estimates and assumptions, especially concerning intangible assets. Critical estimates when valuing intangible assets include expected future cash flows based on consideration of revenue and revenue growth rates and margins, customer attrition rates, future changes in technology and brand awareness, loyalty and position, and discount rates. Any purchase consideration in excess of the fair values of the net assets acquired is recorded as goodwill.
+
+Amounts recorded in a business combination may change during the measurement period, which is a period not to exceed one year from the date of acquisition, as additional information about conditions existing at the acquisition date becomes available.
+
+Acquisition costs are expensed as incurred.
+
+Goodwill
+
+We evaluate goodwill on an annual basis or more frequently if indicators of potential impairment exist. To determine whether goodwill is impaired, we first assess qualitative factors. Qualitative factors include but are not limited to macroeconomic conditions, industry and market considerations, cost factors, overall financial performance, or other relevant company-specific events. If it is determined more likely than not that the fair value of a goodwill reporting unit is less than its carrying amount,
+
+Index to Financial Statements
+
+we perform a quantitative analysis. Alternatively, we may bypass the qualitative assessment and perform a quantitative impairment test.
+
+When performing a quantitative approach, we compare the reporting unit’s carrying amount, including goodwill, to the reporting unit’s fair value. The estimation of a reporting unit’s fair value involves using estimates and assumptions, including expected future operating performance using risk-adjusted discount rates. If the reporting unit’s carrying amount exceeds its fair value, an impairment loss is recognized.
+
+Intangible Assets
+
+Intangible assets acquired in a business combination are recorded at fair value. Our intangible assets are amortized using the straight-line method over their estimated useful lives, which ra nge from three to eleven years and have a weighted-average useful life of approximately nine years . We write off fully amortized intangible assets when those assets are no longer used.
+
+We review intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of those assets may not be recoverable based on their future cash flows. The estimated future cash flows are primarily based upon assumptions about expected future operating performance.
+
+Equity Investments
+
+We have investments in various unconsolidated entities. These investments represent non-marketable securities and include joint operating ventures and strategic investments. We use the equity method of accounting for investments in common stock holdings where we have significant influence, such as for our 15 % investment in PTx Trimble. Our proportionate share of income or loss for equity method investments is recorded in income (loss) from equity method investments, net.
+
+For all other investments, we use the measurement alternative election. Under the measurement alternative, investments without readily determinable fair values are measured at cost, less any impairments, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer. To determine if a transaction is deemed a similar investment, we consider the rights and obligations of the investments. All gains and losses on these investments are recognized in other income (loss), net.
+
+We assess all equity investments for impairment whenever events or changes in circumstances indicate that the carrying value of an investment may not be recoverable.
+
+We enter into related party transactions with certain of our investees. These transactions are recorded based on the nature of the arrangements and primarily include sales and purchases involving GNSS technology and guidance products, positioning services, grade control solutions, and surveying products. Total related party revenue from our investees was $ 108.8 million, $ 87.7 million, and $ 102.3 million for 2024, 2023, and 2022.
+
+Foreign Currency Translation
+
+Assets and liabilities recorded in foreign currency are translated to U.S. dollars at the exchange rate s on the balance sheet date. Revenue and expenses are translated at average monthly exchange rates during the year. Translation adjustments resulting from this process are recorded to other comprehensive income.
+
+Advertising and Promotional Costs
+
+Advertising and promotional costs are expensed as incurred. Advertising and promotional expense was approximately $ 57.9 million, $ 57.3 million, and $ 50.9 million for 2024, 2023, and 2022.
+
+Stock-Based Compensation
+
+Stock-based compensation expense is based on the measurement date fair value of the awards, net of expected forfeitures. Expense is generally recognized on a straight-line basis over the requisite service period of the stock awards. The estimate of the forfeiture rate is based on historical experience.
+
+Research and Development Costs
+
+Research and development costs are expensed as incurred. Development costs for software to be sold subsequent to reaching technical feasibility were not significant and were expensed as incurred. We offset research and development expense with any unconditional third-party funding earned and retain the rights to any technology developed under such arrangements.
+
+Income Taxes
+
+Income taxes are accounted for under the liability method, whereby deferred tax assets or liability account balances are calculated at the balance sheet date using current tax laws and rates in effect for the year in which the differences are expected to affect taxable income. A valuation allowance is recorded to reduce the carrying amounts of deferred tax assets if it is more
+
+Index to Financial Statements
+
+likely than not that such assets will not be realized. Our valuation allowance is primarily attributable to state research and development credit carryforwards, foreign net operating and capital losses, and our investment in PTx Trimble.
+
+Relative to uncertain tax positions, we only recognize a tax benefit if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. We consider many factors when evaluating and estimating our tax positions and tax benefits, which may require periodic adjustments and may not accurately forecast actual tax audit outcomes. Changes in recognition or measurement of our uncertain tax positions would result in the recognition of a tax benefit or an additional charge to the tax provision. Our practice is to recognize interest and/or penalties related to income tax matters in income tax expense.
+
+We are subject to income taxes in the U.S. and numerous other countries and are subject to routine corporate income tax audits in many of these jurisdictions. We generally believe that positions taken on our tax returns are more likely than not to be sustained upon audit, but tax authorities in some circumstance have, and may in the future, successfully challenge these positions. Accordingly, our income tax provision includes amounts intended to satisfy assessments that may result from these challenges. The amounts ultimately paid on resolution of an audit could be materially different from the amounts previously included in our income tax provision and, therefore, could have a material impact on our income tax provision, net income, and cash flows.
+
+Concentrations of Risk
+
+Cash and cash equivalents are maintained with several financial institutions. Deposits held with banks may exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed upon demand and are maintained with financial institutions of reputable credit and therefore bear minimal credit risk.
+
+We are also exposed to credit risk in our trade receivables, which are derived from sales to end-user customers in diversified industries as well as various resellers. We perform ongoing credit evaluations of our customers’ financial conditions and limit the amount of credit extended, when deemed necessary, but generally do not require collateral.
+
+In addition, we rely on a limited number of suppliers for a number of our critical components.
+
+Guarantees, Including Indirect Guarantees of Indebtedness of Others
+
+In the normal course of business to facilitate sales of our products, we indemnify other parties, including customers, lessors, and parties to other transactions with us with respect to certain matters. We may agree to hold the other party harmless against losses arising from a breach of representations or covenants, or out of intellectual property infringement or other claims made against certain parties. These agreements may limit the time within which an indemnification claim can be made and the amount of the claim. In connection with divesting some of our businesses or assets, we may also indemnify purchasers for certain matters in the normal course of business, such as breaches of representations, covenants, or excluded liabilities. In addition, we enter into indemnification agreements with our officers and directors, and our bylaws contain similar indemnification obligations to our agents.
+
+It is not possible to determine the maximum potential amount under these indemnification agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made under these agreements were not material; thus, no liabilities have been recorded for these obligations in the Consolidated Balance Sheets at the end of 2024 and 2023.
+
+Derivative Financial Instruments
+
+We enter into foreign exchange forward contracts to minimize the short-term impact of foreign currency fluctuations on cash and certain trade and intercompany receivables and payables, primarily denominated in Euro, Canadian Dollars, New Zealand Dollars, British Pound, and Australian Dollars . T hese contracts reduce the exposure to fluctuations in foreign currency exchange rate movements, as the gains and losses associated with foreign currency balances are generally offset with the gains and losses on the forward contracts. We occasionally enter into foreign currency contracts to minimize the impact of foreign currency fluctuations on the purchase price of pending acquisitions. We do not enter into foreign currency forward contracts for trading purposes.
+
+At the end of 2024 and 2023, there were no derivatives outstanding that were accounted for as hedges.
+
+Recently Issued Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued Accounting Standards Update (“ASU”) 2024-03, Income Statement - Reporting Comprehensive Income (Topic 220): Disaggregation of Income Statement Expenses . The ASU requires additional disclosures by disaggregating the costs and expense line items that are presented on the face of the income statement. The disaggregation includes: (i) amounts of purchased inventory, employee compensation, depreciation, amortization, and other related costs and expenses; (ii) an explanation of costs and expenses that are not disaggregated on a quantitative basis; and (iii) the definition and
+
+Index to Financial Statements
+
+total amount of selling expenses. The ASU is effective for our Annual Report on Form 10-K beginning in 2027 and subsequent interim reports. Early adoption is permitted. The ASU should be applied prospectively. Retrospective application is permitted for all prior periods presented in the financial statements. We are currently evaluating the impact of adopting this ASU on our financial reporting disclosures.
+
+In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures . The ASU updates the annual income tax disclosures by requiring (i) specific categories and greater disaggregation of information in the rate reconciliation, (ii) income taxes paid disaggregated by taxing authority and jurisdiction, and (iii) disclosures of pretax income (or loss) and income tax expense (or benefit). Additionally, certain existing disclosure requirements are removed. The ASU is effective for our Annual Report on Form 10-K beginning in 2025 and is applied prospectively. Early adoption and retrospective application are permitted. We are currently evaluating the impact of adopting this ASU on our financial reporting disclosures.
+
+Recently Adopted Accounting Pronouncements
+
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures . The ASU updates reportable segment disclosure requirements primarily through (i) enhanced disclosures about significant segment expenses and (ii) optional disclosures of more than one measure of segment profit or loss if the CODM uses those measures to assess segment performance and allocate resources.
+
+We adopted the ASU in the fourth quarter of 2024 retrospectively to all our prior periods presented since the beginning of 2022. See Note 7 “Reporting Segment and Geographic Information” in Item 8 of this report for additional disclosure, including significant segment expenses.
+
+NOTE 2: EARNINGS PER SHARE
+
+Basic earnings per share is computed based on the weighted-average number of shares of common stock outstanding during the period. Diluted earnings per share is computed based on the weighted-average number of shares of common stock outstanding during the period plus additional shares of common stock that would have been outstanding if potentially dilutive securities had been issued. Potentially dilutive shares of common stock include outstanding stock options, restricted stock units (“RSUs”), contingently issuable shares, and shares to be purchased under our employee stock purchase plan.
+
+The following table shows the computation of basic and diluted earnings per share:
+
+(1) Antidilutive stock-based awards are excluded from the calculation of diluted shares and diluted earnings per share because their impact would increase diluted earnings per share.
+
+NOTE 3: ACQUISITIONS
+
+In 2024, we acquired one business, with total purchase consideration of $ 26.3 million. In the aggregate, the businesses acquired contributed less than 1 % of our total revenue during 2024.
+
+In 2023, we acquired Transporeon GmbH in an all-cash transaction. Transporeon is a Germany-based company and leading cloud-based transportation management software platform that connects key stakeholders across the industry lifecycle to positively impact the optimization of global supply chains, which aligns with our Connect & Scale strategy. Transporeon is reported as part of our T&L segment.
+
+The total purchase consideration was € 1.9 billion or $ 2.1 billion, which included the repayment of outstanding Transporeon
+
+Index to Financial Statements
+
+debt of $ 339.6 million. In allocating the purchase price, we recorded $ 1,390.1 million of goodwill, $ 939.8 million of identifiable intangible assets, $ 9.3 million of net tangible assets, and $ 256.6 million of deferred tax liability.
+
+In addition to Transporeon, we acquired two businesses in 2023 with total purchase consideration of $ 47.0 million. In the aggregate, the two businesses acquired contributed less than 1 % of our total revenue during 2023.
+
+In 2022 , we acquired two businesses, with total purchase consideration of $ 379.5 million. The largest acquisition was Bid2Win Software, LLC, a leading provider of estimating and operations solutions for the heavy civil construction industry. In the aggregate, the businesses acquired contributed less than 1 % of our total revenue during 2023.
+
+Acquisition costs of $ 9.1 million, $ 35.0 million , and $ 20.4 million in 2024, 2023, and 2022 , were expensed as incurred and are included in Cost of sales and General and administrative expenses in our Consolidated Statements of Income.
+
+Pro Forma Financial Information
+
+The unaudited pro forma financial information presented in the following table was determined by combining the historical financial information of Trimble and Transporeon along with the effects from business combination accounting and the associated debt resulting from this acquisition as if the companies were combined beginning in the first quarter of 2022. This information is presented for informational purposes only, and it is not necessarily indicative of the operating results that would have occurred if the acquisition had been consummated as of that date. This information should not be used as a predictive measure of our future financial position, results of operations, or liquidity.
+
+NOTE 4: DIVESTITURES
+
+Mobility Divestiture
+
+On September 14, 2024, we entered into a definitive agreement with Platform Science to sell our Mobility business. Subsequent to the end of the year 2024, the transaction closed on February 8, 2025 resulting in our ownership , or rights to acquire ownership of 32.5 % of Platform Science’s expanded business, with an approximate fair value of $ 248.7 million. The approximate fair value was determined based on unobservable inputs, including discounted cash flow projections, market comparables, and an option pricing model. We received (i) shares of preferred stock of Platform Science, with certain liquidation preferences, that represent 28.5 % of Platform Science’s expanded business and (ii) warrants allowing us the rights to acquire 4 % of Platform Science’s expanded business. The combined businesses aim to enhance driver experience, fleet safety, efficiency, and compliance by combining two cutting-edge in-cab commercial vehicle ecosystems, which will give customers access to more applications and offerings.
+
+The assets and liabilities of Mobility were classified as held for sale beginning in the third quarter of 2024. A valuation allowance was established to reduce the carrying value of the disposal group assets to the approximate fair value of the consideration we would receive. As a result, we recorded a pre-tax loss of approximately $ 32.9 million included within Divestitures gain, net in our Consolidated Statements of Income in 2024.
+
+Upon the closing of the transaction in the first quarter of 2025, we derecognized the assets and liabilities that were transferred and recorded our equity investment at its cost under the measurement alternative election. Mobility was reported as a part of our T&L segment.
+
+Index to Financial Statements
+
+The following table presents the major classes of assets and liabilities classified as held for sale at the end of 2024, including the valuation allowance.
+
+Ag Divestiture
+
+On September 28, 2023, we executed a Sale and Contribution Agreement with AGCO that provided for the formation of a joint venture, called PTx Trimble, that operates in the mixed fleet precision agriculture market. The agreement was amended and restated on March 31, 2024, and the transaction closed on April 1, 2024. Under the terms of the agreement, we contributed our Ag business, excluding certain GNSS and guidance technologies, to PTx Trimble, an LLC. Following the closing of the transaction, we own 15 % and AGCO owns 85 % of PTx Trimble. The agreement provides AGCO with a call option and Trimble with a put option with respect to our retained interest in PTx Trimble. Ag was reported as a part of our Field Systems segment.
+
+Upon closing of the transaction in the second quarter of 2024, we received $ 1.9 billion of cash proceeds from AGCO, subject to working capital adjustments. As a result, we deconsolidated $ 457.3 million of net assets, including $ 357.4 million of goodwill, and recognized a pre-tax gain of $ 1.7 billion. The gain included $ 275.6 million for our retained 15 % ownership interest in PTx Trimble, which is reported as an equity method investment and represents a non-cash investing activity. The fair value of our equity method investment was determined by using a combination of the equity value, primarily based on the transaction price, and an option pricing model for a put and call option. At the end of 2024, the fair value of our equity method investment was $ 222.3 million, which included a $ 52.7 million charge for our proportionate share of PTx Trimble’s goodwill impairment in the fourth quarter.
+
+In addition to forming PTx Trimble, the parties concurrently entered into agreements that included the following:
+
+• a seven-year renewable supply agreement (the “Supply Agreement”) through which we will provide key GNSS and guidance technologies to PTx Trimble for use in professional agriculture machines sold by AGCO, on an exclusive basis with limited exceptions;
+
+• a technology transfer and license agreement to govern the licensing of certain non-divested intellectual property and technology for use by PTx Trimble in the agriculture field and, upon expiration of the Supply Agreement, to govern fixed and variable royalty payments made to us by PTx Trimble;
+
+• a trademark license agreement to govern the licensing of certain Trimble trademarks for use by PTx Trimble in the agriculture field;
+
+• a master sale and distribution agreement through which PTx Trimble will serve as our channel partner for positioning services in the agriculture market; and
+
+• a transition services agreement to provide contract manufacturing services for the divested products for two years following the closing of the transaction.
+
+Index to Financial Statements
+
+Other Divestitures
+
+In addition to the Mobility divestiture and Ag divestiture, we divested two businesses in 2024 with total proceeds of $ 13.3 million.
+
+In 2023, we divested five businesses with total proceeds of $ 18.7 million.
+
+In 2022, we divested six businesses with total proceeds of $ 226.3 million. The largest divestiture was the sale of Time and Frequency, LOADRITE, Spectra Precision Tools, and SECO accessories businesses to Precisional LLC, an affiliate of The Jordan Company, for $ 205.1 million in cash, which included a working capital adjustment.
+
+NOTE 5: INTANGIBLE ASSETS AND GOODWILL
+
+Intangible Assets
+
+The following table presents a summary of our intangible assets:
+
+As of the end of 2024 and 2023, $ 182.8 million and $ 267.8 million of fully amortized intangible assets were written off.
+
+The estimated future amortization expense of intangible assets at the end of 2024 was as follows:
+
+Goodwill
+
+The changes in the carrying amount of goodwill by segment for 2024 were as follows:
+
+Index to Financial Statements
+
+NOTE 6: CERTAIN BALANCE SHEET COMPONENTS
+
+The components of inventories, net were as follows:
+
+Finished goods includes $ 6.8 million and $ 11.3 million at the end of 2024 and 2023 for costs of sales that have been deferred in connection with deferred revenue arrangements.
+
+The components of property and equipment, net were as follows:
+
+Depreciation expense was $ 33.0 million, $ 38.3 million, and $ 40.2 million for 2024, 2023, and 2022.
+
+The components of accumulated other comprehensive loss, net of related tax were as follows:
+
+NOTE 7: REPORTING SEGMENT AND GEOGRAPHIC INFORMATION
+
+We determined our operating segments based on how our CODM (our Chief Executive Officer) views and evaluates operations. Various factors, including market separation and customer-specific applications, go-to-market channels, and products and services, were considered in determining these operating segments. Our CODM uses segment revenue and operating income to assess segment performance and to allocate resources. The CODM evaluates segment revenue and operating income by considering periodic forecast-to-actual variances and trends, as well as overall strategic initiatives. Asset information by segments is not regularly reviewed by the CODM.
+
+In each of our segments, we sell many individual products. For this reason, it is impracticable to segregate and identify revenue for each of the individual products or group of products we sell.
+
+Our reportable segments are described below:
+
+• Architects, Engineers, Construction and Owners (“AECO”) . This segment primarily provides software solutions that sell primarily through a direct channel to customers in the construction industry.
+
+• Field Systems . This segment primarily provides hardware and associated software solutions that sell primarily through dealer partner channels.
+
+• Transportation and Logistics (“T&L”) . This segment primarily provides solutions for customers working in long haul trucking and freight shipper markets.
+
+Index to Financial Statements
+
+The following reporting segment tables reflect the revenue, costs and expenses, and operating income of our reportable operating segments under our management reporting system. Segment costs and expenses include directly attributable costs and certain indirect costs allocated to segments, such as facilities, information technology, cloud services, finance, legal, and human resources. This is consistent with the way the CODM evaluates each of the segment's performance and allocates resources.
+
+A reconciliation of our total segment operating income to consolidated income before income taxes was as follows:
+
+Index to Financial Statements
+
+The disaggregation of revenue by geography is summarized in the tables below. Revenue is defined as revenue from external customers attributed to countries based on the location of the customer and is consistent with the Reporting Segment tables above.
+
+Total revenue in the United States as included in the Consolidated Statements of Income wa s $ 1,911.2 million, $ 1,855.2 million, and $ 1,777.4 million in 2024, 2023, and 2022. No single customer or country othe r than the United States accounted for 10% or more of our total revenue in 2024, 2023 , and 2022. No single customer accounted for 10% or more of our accounts receivable at the end of 2024 and 2023.
+
+The following table presents our physical long-lived assets by geographic area, which consist of property and equipment, net and operating lease right-of-use assets:
+
+Index to Financial Statements
+
+NOTE 8: DEBT
+
+Debt consisted of the following:
+
+Debt Maturities
+
+At the end of 2024, our debt maturities based on outstanding principal were as follows (in millions):
+
+Senior Notes
+
+All of our senior notes are unsecured obligations. Interest on the senior notes is payable semi-annually in June and December of each year for the 2028 senior notes and in March and September for the 2033 senior notes. For both the 2028 and 2033 senior notes, the interest rate is subject to adjustment from time to time if Moody’s or S&P (or, if applicable, a substitute rating agency) downgrades (or subsequently upgrades) its rating assigned to the notes.
+
+Senior Notes are unsecured and rank equally in right of payment with all of our other senior unsecured indebtedness. We may redeem the notes of each series of senior notes at our option in whole or in part at any time at optional redemption prices. Such indenture also contains covenants limiting our ability to create certain liens, enter into sale and lease-back transactions, and consolidate or merge with or into, or convey, transfer, or lease all or substantially all of our properties and assets, each subject to certain exceptions.
+
+Credit Facilities
+
+2022 Credit Facility
+
+In 2022, we entered into a five-year , unsecured, revolving credit facility in the aggregate principal amount of $ 1.25 billion. Subject to approval, we may increase the commitments for revolving loans by an aggregate principal amount of up to $ 500.0 million. The variable interest rate and commitment fees are based on our current long-term, senior unsecured debt ratings, our leverage ratio, and certain specified sustainability targets.
+
+The 2022 credit facility contains customary covenants, including, among other requirements, limitations that restrict our and our subsidiaries’ ability to create liens and enter into sale and leaseback transactions, and restrictions on the ability of the subsidiaries to incur indebtedness. The facility contains financial covenants that require the maintenance of maximum leverage
+
+Index to Financial Statements
+
+and minimum interest coverage ratios, as well as the timely delivery of quarterly financial reports and compliance certificates. At the end of 2024, we were in compliance with our debt covenants under a waiver of the financial reporting covenants.
+
+Uncommitted Facilities
+
+At the end of 2024, we had two $ 75.0 million and one € 100.0 million revolving credit facilities, which are uncommitted. Generally, these variable-rate uncommitted facilities may be redeemed upon demand. Borrowings under uncommitted facilities are classified as short-term debt in the Consolidated Balance Sheet.
+
+NOTE 9: LEASES
+
+We have operating leases primarily for certain of our major facilities, including corporate offices, research and development facilities, and manufacturing facilities. Lease terms range from 1 to 13 years, and certain leases include options to extend the lease for up to 10 years. We consider options to extend the lease in determining the lease term.
+
+Operating lease expense consisted of:
+
+Supplemental cash flow information related to leases was as follows:
+
+(1) Excludes cash payments for short-term leases, which are not capitalized.
+
+Supplemental balance sheet information related to leases was as follows:
+
+Index to Financial Statements
+
+At the end of 2024, the maturities of lease liabilities were as follows:
+
+NOTE 10: COMMITMENTS AND CONTINGENCIES
+
+Commitments
+
+At the end of 2024, we had unconditional purchase obligations of approximately $ 470.7 million as compared to $ 618.9 million at the end of 2023. These unconditional purchase obligations primarily represent (i) various non-cancellable agreements with certain service providers with minimum or fixed commitments, and (ii) open non-cancellable purchase orders for material purchases with our inventory vendors.
+
+Litigation
+
+From time to time, we are involved in litigation arising in the ordinary course of our business. There are no material legal proceedings, other than ordinary routine litigation incidental to the business, that we or any of our subsidiaries is a party, or that any of our or our subsidiaries’ property is subject.
+
+NOTE 11: FAIR VALUE MEASUREMENTS
+
+Fair value is measured by using observable or, to the extent necessary, unobservable inputs.
+
+Financial instruments recorded at fair value include our deferred compensation plan. The fair value was $ 31.0 million and $ 31.2 million at the end of 2024 and 2023, and is included in Other non-current assets and Other non-current liabilities on our Consolidated Balance Sheets. The fair value was measured by using quoted prices in active markets.
+
+Financial instruments not recorded at fair value on a recurring basis (debt) had an estimated fair value of $ 1.4 billion and $ 3.1 billion at the end of 2024 and 2023. The fair value of the debt was determined based on observable market prices in less active markets. The fair values do not indicate the amount we would currently have to pay to extinguish the debt.
+
+NOTE 12: DEFERRED REVENUE AND REMAINING PERFORMANCE OBLIGATIONS
+
+Deferred Revenue
+
+Changes in our deferred revenue during 2024 and 2023 were as follows:
+
+Remaining Performance Obligations
+
+At the end of 2024, approximately $ 1.7 billion of revenue is expected to be recognized from remaining performance obligations for which goods or services have not been delivered, primarily subscription, software, and software maintenance, and to a lesser extent, hardware and professional services contracts. We expect to recognize $ 1.2 billion or 71 % of our remaining performance obligations as revenue during the next 12 months and the remainder thereafter.
+
+The remaining performance obligations exclude $ 0.2 billion for the Mobility divestiture, which closed on February 8, 2025.
+
+Index to Financial Statements
+
+NOTE 13: INCOME TAXES
+
+Income before taxes and the provision (benefit) for taxes consisted of the following:
+
+The difference between the tax provision at the statutory federal income tax rate and the tax provision as a percentage of income before taxes (“effective tax rate”) was as follows:
+
+The increase in 2024 tax rate was primarily due to gains from the Ag divestiture, which impacted the foreign and domestic items in the table above.
+
+Index to Financial Statements
+
+Deferred income taxes reflect the net effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The significant components of deferred tax assets and liabilities were as follows:
+
+At the end of 2024, we have U.S. federal net operating loss carryforwards, or federal NOLs, of approximately $ 18.9 million, which will begin to expire in 2036. At the end of 2024, we have foreign net operating and capital loss carryforwards, or foreign losses, of approximately $ 106.3 million, which generally have no expiration. Utilization of our U.S. federal NOLs is subject to annual limitations in accordance with the applicable tax code. We have determined that it is more likely than not that a portion of the foreign losses will not be realized and, accordingly, a valuation allowance has been established for such amount.
+
+We have California research and development credit carryforwards of approximately $ 35.2 million, which have an indefinite carryforward period. We believe that it is more likely than not that a significant portion of the California research and development credit carryforwards will not be realized and, accordingly, a valuation allowance has been established for such amount.
+
+We have net deferred tax assets of $ 14.4 million relating to our investment in PTx Trimble. We believe that it is more likely than not that a significant portion of the net deferred tax assets will not be realized and, accordingly, a valuation allowance has been established for such amount.
+
+As a result of the Tax Act, we can repatriate foreign earnings back to the U.S. when needed with minimal U.S. income tax consequences. We reinvested a large portion of our undistributed foreign earnings in acquisitions and other investments and intend to bring back a portion of foreign cash that was subject to the transition tax and the global intangible low-taxed income tax. During 2024, we repatriated $ 232.7 million cash from foreign earnings to the U.S.
+
+Index to Financial Statements
+
+The total amount of unrecognized tax benefits at the end of 2024 was $ 78.2 million . A reconciliation of gross unrecognized tax benefits was as follows:
+
+Total unrecognized tax benefits that, if recognized, would affect our effective tax rate were $ 45.8 million and $ 59.5 million at the end of 2024 and 2023.
+
+We and our subsidiaries are subject to U.S. federal, state, and foreign income taxes. We are currently under a U.S. federal income tax audit for our tax year 2021 and have not yet received any assessment. Our tax years before 2021 are closed for U.S. federal income tax audit purposes. Our tax years are substantially closed for all state income taxes for audit purposes through 2015. Non-U.S. income tax matters have been concluded for years through 2008. We are currently in various stages of multiple year examinations from state and foreign (multiple jurisdictions) taxing authorities. While we generally believe it is more likely than not that our tax positions will be sustained, it is reasonably possible that future obligations related to these matters could arise. We believe that our reserves are adequate to cover any potential assessments that may result from the examinations and negotiations.
+
+Although the timing of the resolution and/or closure of audits is not certain, we do not believe that our gross unrecognized tax benefits would materially change in the next twelve months.
+
+Our practice is to recognize interest and/or penalties related to income tax matters in income tax expense. Our liability for unrecognized tax benefits including interest and penalties was recorded in Other non-current liabilities on our Consolidated Balance Sheets. At the end of 2024 and 2023, we accrued $ 8.8 million and $ 9.9 million for interest and penalties.
+
+NOTE 14: EMPLOYEE STOCK BENEFIT PLANS
+
+Amended and Restated 2002 Stock Plan
+
+In September 2024, our stockholders approved an amendment to the 2002 Stock Plan to increase the number of shares of common stock available for issuance by 10.0 million shares. As such, our Amended and Restated 2002 Stock Plan provides for the grant of incentive and non-statutory stock options and Restricted Stock Units (“RSUs”) for up to 102.6 million shares. At the end of 2024 , the remaining number of shares available for grant under the Amended and Restated 2002 Stock Plan was 17.9 million .
+
+Stock-Based Compensation Expense
+
+The following table summarizes the components of stock-based compensation expense recognized in our Consolidated Statements of Income for the periods indicated:
+
+Index to Financial Statements
+
+Stock-based compensation expense was allocated as follows:
+
+At the end of 2024, total unamortized stock-based compensation expense was $ 200.2 million, with a weighted-average recognition period of 1.7 years.
+
+Restricted Stock Units
+
+We grant RSUs containing only service conditions and RSUs containing a combination of service, performance, and market conditions (“PSUs”). RSUs containing only service conditions typically vest ratably over a three-year service period. PSUs are granted to executive officers and other senior employees and vest after a three-year service period.
+
+The fair value at the grant date is determined by (a) the closing pr ice of our common stock for awards containing only service or both service and performance conditions, or (b) the Monte Carlo valuation model for awards containing both service and market conditions.
+
+For PSUs, the number of shares received at vesting will range from 0 % to 220 % of the target grant amount based on either market conditions or performance conditions or, in some cases, both. Market conditions consider our relative total stockholder return (“TSR”) of our common stock as compared to the TSR of the constituents of the S&P 500 over the vesting period. Performance conditions consider the achievement of our financial results or metrics over the vesting period.
+
+(1) Includes 0.3 million PSUs granted, 0.1 million PSUs vested, 0.3 million PSUs cancelled and forfeited, and 1.1 million PSUs unvested at the end of the year.
+
+(2) Excludes approximately 0.1 million PSUs related to achievement above target levels at the vesting date and approximately 0.1 million PSUs related to shares cancelled due to achievement below target levels.
+
+The weighted-average grant date fair value of all RSUs granted during 2024, 2023, and 2022 was $ 65.12 , $ 49.93 , and $ 73.32 per share. The fair value of all RSUs vested during 2024, 2023, and 2022 was $ 126.5 million, $ 110.1 million, and $ 108.3 million.
+
+Employee Stock Purchase Plan
+
+We have an employee stock purchase plan (“ESPP”) under which our stockholders have approved an aggregate of 39.0 million shares of common stock for issuance to eligible employees. The fair value at the grant date is based on the Black-Scholes valuation model. The plan permits eligible employees to purchase common stock through payroll deductions at 85 % of the lower of the fair market value of the common stock at the beginning or at the end of each offering period, which is six months . Rights to purchase shares are granted during the first and third quarter of each year. The ESPP terminates on March 15, 2027. In 2024, 2023, and 2022, 0.7 million, 0.8 million, and 0.6 million shares were issued, representing $ 34.5 million, $ 35.7 million, and $ 34.7 million in cash received for the issuance of stock under the ESPP. At the end of 2024, the number of shares reserved for future purchases was 3.9 million.
+
+Index to Financial Statements
+
+NOTE 15: COMMON STOCK REPURCHASE
+
+On January 28, 2024, our Board of Directors approved a new stock repurchase program (the “2024 Stock Repurchase Program”) authorizing up to $ 800.0 million in repurchases of our common stock. The 2024 Stock Repurchase Program replaced the prior stock repurchase program, which was approved in August 2021 and has been cancelled. At the end of 2024 , there were remaining authorized funds of $ 625.0 million.
+
+During 2024, 2023, and 2022 , we repurchased approximately 2.9 million, 2.4 million, and 6.0 million shares of common stock in open market purchases at an average price of $ 60.97 , $ 42.50 , and $ 65.90 per share for a total of $ 175.0 million, $ 100.0 million , and $ 394.7 million.
+
+Stock repurchases are reflected as a decrease to common stock based on par value and additional-paid-in-capital, determined by the average book value per share of outstanding stock, calculated at the time of each individual repurchase transaction. The excess of the purchase price over this average for each repurchase was charged to retained earnings. Common stock repurchases under the program were recorded based upon the trade date for accounting purposes. As a result of the 2024 repurchases under the 2024 Stock Repurchase Program, retained earnings was reduced by $ 149.1 million in 2024 .
+
+Subsequent to the end of the year 2024, the Board of Directors authorized a common stock repurchase authorization of up to $ 1.0 billion, which replaces the existing 2024 Stock Repurchase Program in the first quarter of 2025.
+
+We may repurchase stock from time to time through accelerated stock repurchase programs, open market transactions, privately negotiated transactions, block purchases, tender offers, or other means. The timing and actual number of any stock repurchased will depend on a variety of factors, including market conditions, our stock price, other available uses of capital, applicable legal requirements, and other factors. This program may be suspended, modified, or discontinued at any time without prior notice.
+
+Index to Financial Statements
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Trimble Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Trimble Inc. (the Company) as of January 3, 2025 and December 29, 2023, the related consolidated statements of income, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended January 3, 2025, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at January 3, 2025 and December 29, 2023, and the results of its operations and its cash flows for each of the three years in the period ended January 3, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of January 3, 2025, based on criteria established in Internal Control–Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated April 25, 2025 expressed an adverse opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Index to Financial Statements
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1986.
+
+San Jose, California April 25, 2025
+
+Index to Financial Statements
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Trimble Inc.
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Trimble Inc.’s internal control over financial reporting as of January 3, 2025, based on criteria established in Internal Control–Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, because of the effect of the material weaknesses described below on the achievement of the objectives of the control criteria, Trimble Inc. (the Company) has not maintained effective internal control over financial reporting as of January 3, 2025, based on the COSO criteria.
+
+A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company’s annual or interim financial statements will not be prevented or detected on a timely basis. The following material weaknesses have been identified and included in management’s assessment. Management has identified material weaknesses in certain information technology controls related to certain systems that support the Company’s financial reporting processes. Management has also identified material weaknesses related to review controls and controls over the completeness and accuracy of information utilized in the performance of controls, which affected the Company’s controls over revenue and related accounts, income taxes, excess and obsolete inventory, and other controls as part of the Company’s reporting and disclosure process. Additionally, management identified a material weakness in controls over the evaluation of standalone selling prices of performance obligations utilized in the Company’s accounting for revenue.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of January 3, 2025 and December 29, 2023, the related consolidated statements of income, comprehensive income, stockholders’ equity, and cash flows for each of the three years in the period ended January 3, 2025, and the related notes. These material weaknesses were considered in determining the nature, timing, and extent of audit tests applied in our audit of the 2024 consolidated financial statements, and this report does not affect our report dated April 25, 2025, which expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+San Jose, California April 25, 2025
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+Item 9A. Controls and Procedures
+
+(a) Evaluation of Disclosure Controls and Procedures
+
+Management, including our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), has evaluated the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of the end of the period covered by this report. Based on such evaluation, our CEO and CFO concluded that our disclosure controls and procedures were not effective as of the end of such period because of the material weaknesses in internal control over financial reporting described below.
+
+Inherent Limitations on Effectiveness of Controls
+
+Management does not expect that the internal control over financial reporting will prevent or detect all errors and all fraud. A control system, no matter how well-designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. The design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+
+(b) Management’s Annual Report on Internal Control over Financial Reporting
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). The internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. GAAP.
+
+Management conducted an evaluation of the effectiveness of the internal control over financial reporting based on the Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on the assessment by management, it was determined that the Company’s internal control over financial reporting was not effective due to the material weaknesses described below.
+
+• We did not design and maintain effective controls over certain information technology general controls (“ITGCs”) for certain business systems related to the Company’s financial reporting processes. Specifically, the Company did not design sufficient controls to (i) manage user access to systems, (ii) ensure that program changes made to systems were authorized and approved, or (iii) identify and resolve system issues impacting the financial reporting process. Certain business process controls and IT interfaces that are dependent on the ineffective ITGCs, or that rely on data produced from systems impacted by the ineffective ITGCs, could have been adversely impacted, and were also deemed ineffective.
+
+• We did not design and maintain (i) effective review controls, including the retention of evidence to support the design and operating effectiveness of controls and (ii) effective controls over the completeness and accuracy of information produced by the entity utilized in the performance of controls, including the retention of relevant evidence to support the design and operating effectiveness of controls. These deficiencies primarily affected controls over revenue and related accounts, income taxes and excess and obsolete inventory, and other controls as a part of our reporting and disclosure process.
+
+• We did not design and maintain effective controls over the evaluation of standalone selling prices of performance obligations utilized in accounting for revenue, including review controls over the establishment and subsequent changes to standard pricing and discounting.
+
+The effectiveness of our internal control over financial reporting at the end of 2024 has been audited by Ernst & Young LLP, an independent registered public accounting firm, as stated in their report.
+
+(c) Remediation of Previously Reported Material Weaknesses
+
+Remediation Plan for Material Weaknesses
+
+Management, with the oversight of the Audit Committee, is currently taking actions to remediate the material weaknesses and is implementing additional processes and controls to address the underlying causes associated with the material weaknesses described above. These efforts include:
+
+• We are in the process of finalizing the design and implementation of controls of certain ITGCs for business systems related to the Company’s financial reporting processes.
+
+• We are in the process of updating our policies and practices related to maintaining evidence of review of business process controls, including the review of information used in the performance of controls.
+
+• We are in the process of finalizing the design and implementation of controls over the evaluation of standalone selling prices of performance obligations utilized in accounting for revenue, including review controls over pricing and discounting.
+
+The material weaknesses will not be considered remediated until the applicable remedial controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively. We believe the measures described above will remediate the control deficiencies we have identified and strengthen our internal control over financial reporting. We are committed to continuing to improve our internal control processes and will continue to review, optimize, and enhance our financial reporting controls and procedures.
+
+The process of designing and implementing an effective financial reporting system is a continuous effort that requires us to anticipate and react to changes in our business and the economic and regulatory environments, and to expend significant resources to maintain a financial reporting system that is adequate to satisfy our reporting obligations. As we continue to evaluate and take actions to improve our internal control over financial reporting, we may determine to take additional actions to address control deficiencies or determine to modify certain of the remediation measures described above.
+
+(d) Changes in Internal Control over Financial Reporting
+
+In addition to the identified material weaknesses noted above, we are implementing a customer relationship management tool across our businesses as a strategic initiative that will replace many legacy systems and that could materially affect our internal control over financial reporting (as such term is defined in Rules 13a - 15(f) and 15d - 15(f) under the Exchange Act). Other than as described above, there have been no changes that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting during the period for which this report relates.
+
+Item 9B. Other Information
+
+Rule 10b5-1 Trading Plan
+
+During the fourth quarter of 2024, none of our directors or executive officers adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement. We previously reported in our Quarterly Report on Form 10-Q for the quarter ended March 29, 2024, that Jennifer Allison had entered into a Rule 10b5-1 trading arrangement on February 29, 2024 for potential sales of 1,571 shares between June 3, 2024 and June 2, 2025 . The actual number of shares under that trading arrangement was 3,571 shares, which have all now been sold, as reported on a Form 4 filed on January 22, 2025.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+The information required by this item, insofar as it relates to our directors, will be contained under the captions “Election of Directors” and “Section 16(a) Beneficial Ownership Reporting Compliance” in the Proxy Statement and is incorporated herein by reference. The information required by this item relating to executive officers is set forth above in Item 1 of this report under the caption “ Information about our Executive Officers .”
+
+The information required by this item insofar as it relates to the nominating and audit committees will be contained in the Proxy Statement under the caption “Board Meetings and Committees; Director Independence.”
+
+Code of Ethics
+
+Our Business Ethics and Conduct Policy applies to, among others, our Chief Executive Officer, Chief Financial Officer, Chief Accounting Officer, and other finance organization employees. We make available our Business Ethics and Conduct Policy free of charge through our website at www.trimble.com under the heading “Corporate Governance - Governance Documents” on the Investor Relations page.
+
+If any substantive amendments to the Business Ethics and Conduct Policy are made or any waivers are granted, including any implicit waiver, from a provision of the Business Ethics and Conduct Policy, to its Chief Executive Officer, Chief Financial Officer, or Chief Accounting Officer, we will disclose the nature of such amendment or waiver on our website at www.trimble.com or in a report on Form 8-K. The contents of these websites are not intended to be incorporated by reference into this report or in any other report or document we file or furnish with the SEC, and any reference to these websites are intended to be inactive textual references only.
+
+Insider Trading Policy
+
+We have adopted an insider trading policy governing transactions in our securities by our directors, employees, contractors, consultants, and other personnel providing services to Trimble, as well as by Trimble itself. We believe this policy is reasonably designed to promote compliance with insider trading laws, rules and regulations, and the Nasdaq listing standards. A copy of our insider trading policy is filed as Exhibit 19.1 to this Form 10-K.
+
+Item 11. Executive Compensation
+
+The information required by this item will be contained in the Proxy Statement under the captions “Executive Compensation” and “Non-Employee Director Compensation” and is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by this item will be contained in the Proxy Statement under the caption “Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters” and is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this item will be contained in the Proxy Statement under the caption “Certain Relationships and Related Person Transactions” and is incorporated herein by reference.
+
+Item 14. Principal Accounting Fees and Services
+
+The information required by this item will be contained in the Proxy Statement under the caption “Principal Accounting Fees and Services” and is incorporated herein by reference.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(1) Financial Statements
+
+The following consolidated financial statements required by this item are included in Part II, Item 8 of this report under the caption “Financial Statements and Supplementary Data”.
+
+(2) Financial Statement Schedules
+
+All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes included in this report.
+
+(3) Exhibits
+
+We have filed, or incorporated into the report by reference, the exhibits listed on the accompanying Index to Exhibits immediately preceding the signature page of this report.
+
+Item 16. Form 10-K Summary
+
+None.
+
+INDEX TO EXHIBITS
+
++ Indicates management contract or compensatory plan or arrangement required to be filed as an exhibit to this Annual Report on Form 10–K.
+
+++ Pursuant to applicable securities laws and regulations, the Company is deemed to have complied with the reporting obligation relating to the submission of interactive data files in such exhibits and is not subject to liability under any anti-fraud provisions of the federal securities laws as long as the Company has made a good faith attempt to comply with the submission requirements and promptly amends the interactive data files after becoming aware that the interactive data files fails to comply with the submission requirements.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+POWER OF ATTORNEY
+
+Know all persons by these presents, that each person whose signature appears below constitutes and appoints Robert G. Painter as his attorney-in-fact, with the power of substitution, for him in any and all capacities, to sign any amendments to this Report of this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that said attorney-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Annual Report on Form 10-K has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated:

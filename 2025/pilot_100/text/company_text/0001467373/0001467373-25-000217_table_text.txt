@@ -1,0 +1,751 @@
+[TABLE 001]
+☑ Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+[END TABLE 001]
+
+[TABLE 002]
+Ireland 98-0627530 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
+[END TABLE 002]
+
+[TABLE 003]
+Title of each class Trading Symbol(s) Name of each exchange on which registered Class A ordinary shares, par value $0.0000225 per share ACN New York Stock Exchange
+[END TABLE 003]
+
+[TABLE 004]
+Large accelerated filer ☑ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 004]
+
+[TABLE 005]
+Page Part I Item 1. Business 2 Item 1A. Risk Factors 11 Item 1B. Unresolved Staff Comments 26 Item 1C. Cybersecurity 26 Item 2. Properties 27 Item 3. Legal Proceedings 27 Item 4. Mine Safety Disclosures 28 Part II Item 5. Market for Registrant’s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 29 Item 6. [Reserved] 30 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 31 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 42 Item 8. Financial Statements and Supplementary Data 43 Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 43 Item 9A. Controls and Procedures 43 Item 9B. Other Information 44 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 44 Part III Item 10. Directors, Executive Officers and Corporate Governance 46 Item 11. Executive Compensation 46 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 47 Item 13. Certain Relationships and Related Transactions, and Director Independence 47 Item 14. Principal Accountant Fees and Services 48 Part IV Item 15. Exhibits, Financial Statement Schedules 49 Item 16. Form 10-K Summary 51 Signatures 52
+[END TABLE 005]
+
+[TABLE 006]
+Table of Contents ACCENTURE 2025 FORM 10-K Part I 1
+[END TABLE 006]
+
+[TABLE 007]
+Fiscal 2025 Highlights We serve clients and manage our business through three geographic markets: Americas, EMEA (Europe, Middle East and Africa) and Asia Pacific. These markets bring together all of our Reinvention Services with both local and global talent and solutions. We go to market by industry, leveraging our deep expertise across our five industry groups—Communications, Media & Technology, Financial Services, Health & Public Service, Products and Resources. We deliver two types of work: Consulting and Managed Services. $69.7B in revenues Our revenues are derived primarily from Forbes Global 2000 companies, governments and government agencies. Today, we work across every major market with more than 9,000 clients, including the world’s largest companies; three quarters of the Fortune Global 100 and 500. As of August 31, 2025, we employed approximately 779,000 people. We have long-term relationships and have partnered with 195 of our top 200 clients for 10+ years.
+[END TABLE 007]
+
+[TABLE 008]
+Fiscal 2025 Investments $1.5B $0.8B $1.0B across 23 strategic acquisitions in research and development in learning and professional development
+[END TABLE 008]
+
+[TABLE 009]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 3
+[END TABLE 009]
+
+[TABLE 010]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 4
+[END TABLE 010]
+
+[TABLE 011]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 5
+[END TABLE 011]
+
+[TABLE 012]
+Communications, Media & Technology FY25 Revenues of $11.5B Percent of Group’s FY25 Revenue 39% 18% 43% Communications & Media High Tech Software & Platforms B2C and B2B communications service providers (both fixed and mobile), MVNO (mobile virtual network operators) and network infrastructure companies inclusive of edge and IOT connectivity infrastructure, cable and satellite communications, broadcasters and TV networks, gaming, print, online and traditional publishing, entertainment, sports, content producers (including studios), content aggregators and streaming live events (sports) and media infrastructure providers, integrated advertising agencies and creative Enterprise technology, hardware, and associated manufacturing; semiconductor including silicon design and development, foundries, capital equipment, and manufacturing; consumer technology, electronics, batteries, and associated manufacturing; network equipment and device providers and manufacturers; data centers; medical equipment companies and manufacturers Cloud-based enterprise, consumer software and platform companies; large language model owners; both subscription and ad-driven consumer platforms spanning ecommerce, social, media, advertising and gaming
+[END TABLE 012]
+
+[TABLE 013]
+Financial Services FY25 Revenues of $12.8B Percent of Group’s FY25 Revenue 70% 30% Banking & Capital Markets Insurance Retail and commercial banks, wealth and asset managers, payment providers, corporate and investment banks, market infrastructure providers and exchanges, broker/dealers, depositories, private equity firms, central banks, clearing and settlement organizations, mortgage lenders, retirement services providers and other diversified financial enterprises Property and casualty personal and commercial lines, life and annuities and group benefits insurers, retirement companies, reinsurance firms and insurance brokers
+[END TABLE 013]
+
+[TABLE 014]
+Health & Public Service FY25 Revenues of $14.8B Percent of Group’s FY25 Revenue 32% 68% Health Public Service Healthcare providers, such as hospitals, public health systems, policy-making authorities, health insurers (payers) and industry organizations and associations Human and social services agencies; defense departments and military forces; public safety authorities, including justice departments; educational institutions; non-profit organizations; cities; transportation agencies; and postal, customs, revenue and tax agencies
+[END TABLE 014]
+
+[TABLE 015]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 6
+[END TABLE 015]
+
+[TABLE 016]
+Products FY25 Revenues of $21.2B Percent of Group’s FY25 Revenue 45% 35% 20% Consumer Goods, Retail & Travel Services Industrials Life Sciences Food and beverage, household goods, personal care, fashion/apparel; supermarkets, mass-merchandise discounters, department, quick serve and convenience stores and specialty retailers; aviation, hospitality and travel services companies, tobacco, agribusiness and consumer health companies Automotive & mobility, industrial & electrical equipment manufacturers, industrial suppliers, construction, infrastructure, heavy equipment, consumer durables, business services, freight, logistics, aerospace & defense, rail and public transportation companies Biopharmaceutical, medical technology and distributors
+[END TABLE 016]
+
+[TABLE 017]
+Resources FY25 Revenues of $9.5B Percent of Group’s FY25 Revenue 28% 25% 47% Chemicals & Natural Resources Energy Utilities Mining, petrochemicals, specialty chemicals, polymers and plastics, gases and agricultural chemicals companies, as well as the metals and forest products industries Oil and gas companies, including upstream, midstream, downstream, oilfield services, clean energy and energy trading companies Power generators and developers, including nuclear, renewables and other conventional generators; electric and gas transmission and distribution operators, energy and energy service retailers; water, waste and recycling service providers
+[END TABLE 017]
+
+[TABLE 018]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 7
+[END TABLE 018]
+
+[TABLE 019]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 8
+[END TABLE 019]
+
+[TABLE 020]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 9
+[END TABLE 020]
+
+[TABLE 021]
+Melissa Burgum, 53, became our chief accounting officer in September 2022 and has served as our corporate controller since September 2021. Prior to that, Ms. Burgum served as our assistant corporate controller from December 2016 to September 2021 and as controller for Accenture Federal Services from May 2013 to December 2016. Prior to joining Accenture, Ms. Burgum held controllership roles at two public companies and was previously an auditor and consultant for Arthur Andersen. Ms. Burgum has been with Accenture for 12 years. Kate Clifford, 48, became our chief leadership and human resources officer in September 2025. From September 2024 to September 2025, Ms. Clifford was our chief human resources officer—the Americas. From June 2022 to September 2024, she served as our chief human resources officer—North America. Prior to that, she served as our North America human resources service delivery lead from December 2018 to June 2022. Ms. Clifford has been with Accenture for 27 years. Atsushi Egawa, 60, became our co-chief executive officer—Asia Pacific and chief executive officer —Japan in September 2024. Since September 2015, Mr. Egawa has served as our market unit lead in Japan. Prior to September 2015, Mr. Egawa led our Products industry group in Japan. Prior to that role, he led our Consumer Goods business in Japan. He has partnered closely with numerous global clients on their digital transformations and was integral in the opening of Accenture’s Innovation Hub in Tokyo. Mr. Egawa has been with Accenture for 36 years. Kate Hogan, 49, became our chief operating officer in September 2025. From September 2024 to September 2025, she served as our chief operating officer—the Americas. From September 2023 to September 2024, she served as chief operating officer—North America. Prior to that, Ms. Hogan served as our US West lead from September 2022 to September 2023 and chief operating officer—North America from March 2020 to August 2022. Ms. Hogan has been with Accenture for 27 years. Mauro Macchi, 60, became our chief executive officer—EMEA in September 2024. From September 2021 to September 2024, Mr. Macchi served as our market unit lead for Italy, Central Europe and Greece. From March 2020 to September 2021, Mr. Macchi served as the Strategy & Consulting lead for Europe. Previously, he served as our Financial Services lead for Europe from November 2019 to March 2020, Financial Services lead for Italy, Central Europe and Greece from October 2017 to October 2019 and global Banking industry lead for Strategy from March 2015 to September 2017. Mr. Macchi has been with Accenture for 35 years. Angie Park, 53, became our chief financial officer in December 2024. From September 2023 to December 2024, she served as our Business and Commercial Finance lead. From September 2022 to September 2023, she served as our chief financial officer—Technology. Prior to assuming that role, she served as our head of investor relations from December 2016 to September 2022 and finance director—Health & Public Service from April 2014 to September 2023. Ms. Park has been with Accenture for 29 years
+[END TABLE 021]
+
+[TABLE 022]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1. Business 10
+[END TABLE 022]
+
+[TABLE 023]
+Ryoji Sekido, 58, became our co-chief executive officer—Asia Pacific and chief executive officer—Asia Oceania in September 2024. From April 2023 to September 2024, Mr. Sekido served as our Technology lead for Growth Markets. Prior to March 2023, Mr. Sekido served as the Technology and Cloud First lead for Asia Pacific, Middle East and Africa. In his earlier roles, he led several industry and technology teams and served as the Financial Services client service group lead and the Financial Services technology consulting lead for APAC. Mr. Sekido has been with Accenture for 33 years. Manish Sharma, 57, became our chief strategy and services officer in September 2025. Prior to that, Mr. Sharma served as our chief executive officer—the Americas from September 2024 to September 2025, chief executive officer—North America from September 2023 to September 2024 and chief operating officer from March 2022 to September 2023. From March 2020 to March 2022, Mr. Sharma served as our group chief executive—Operations. Prior to that, he held key leadership positions in Operations, including as group chief operating officer and global business process outsourcing delivery lead. Mr. Sharma has been with Accenture for 30 years. Julie Sweet, 58, became chair of our Board of Directors in September 2021 and has served as our chief executive officer since September 2019. From June 2015 to September 2019, she served as our chief executive officer—North America. From March 2010 to June 2015, she served as our general counsel, secretary and chief compliance officer. Prior to joining Accenture in 2010, Ms. Sweet was a partner for 10 years in the law firm Cravath, Swaine & Moore LLP, which she joined as an associate in 1992. Ms. Sweet has been with Accenture for 15 years and has served as a director since September 2019. Joel Unruch, 47, became our general counsel in September 2019 and has served as our corporate secretary since June 2015. Mr. Unruch also served as our chief compliance officer from September 2019 to January 2020. Mr. Unruch joined Accenture in 2011 as our assistant general counsel and assistant secretary and also oversaw ventures & acquisitions and alliances & ecosystems practices for our legal group. Prior to joining Accenture, Mr. Unruch was corporate counsel at Amazon.com and previously an associate in the corporate department of the law firm Cravath, Swaine & Moore LLP. Mr. Unruch has been with Accenture for 14 years. John Walsh, 61, became our chief executive officer—the Americas in September 2025. Prior to that, Mr. Walsh served as our chief operating officer from September 2023 to September 2025. From March 2020 to September 2023, Mr. Walsh served as our chief strategic accounts and global sales officer. From November 2019 to March 2020, he served as our group chief executive—Communications, Media & Technology. He served as senior managing director—Communications, Media & Technology in North America, from 2013 to 2019. Mr. Walsh has been with Accenture for 39 years.
+[END TABLE 023]
+
+[TABLE 024]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 11
+[END TABLE 024]
+
+[TABLE 025]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 12
+[END TABLE 025]
+
+[TABLE 026]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 13
+[END TABLE 026]
+
+[TABLE 027]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 14
+[END TABLE 027]
+
+[TABLE 028]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 15
+[END TABLE 028]
+
+[TABLE 029]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 16
+[END TABLE 029]
+
+[TABLE 030]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 17
+[END TABLE 030]
+
+[TABLE 031]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 18
+[END TABLE 031]
+
+[TABLE 032]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 19
+[END TABLE 032]
+
+[TABLE 033]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 20
+[END TABLE 033]
+
+[TABLE 034]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 21
+[END TABLE 034]
+
+[TABLE 035]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 22
+[END TABLE 035]
+
+[TABLE 036]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 23
+[END TABLE 036]
+
+[TABLE 037]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 24
+[END TABLE 037]
+
+[TABLE 038]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1A. Risk Factors 25
+[END TABLE 038]
+
+[TABLE 039]
+Table of Contents ACCENTURE 2024 FORM 10-K Item 1B. Unresolved Staff Comments 26
+[END TABLE 039]
+
+[TABLE 040]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1C. Cybersecurity 27
+[END TABLE 040]
+
+[TABLE 041]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 1C. Cybersecurity 28
+[END TABLE 041]
+
+[TABLE 042]
+Table of Contents ACCENTURE 2025 FORM 10-K Part II 29
+[END TABLE 042]
+
+[TABLE 043]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 5. Market for Registrant’s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities 30
+[END TABLE 043]
+
+[TABLE 044]
+Period Total Number of Shares Purchased Average Price Paid per Share (1) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (3) (in millions of U.S. dollars) June 1, 2025 — June 30, 2025 633,762 $ 305.70 606,123 $ 3,124 July 1, 2025 — July 31, 2025 961,398 289.01 945,536 2,851 August 1, 2025 — August 31, 2025 8,341 259.47 — 2,851 Total (4) 1,603,501 $ 295.45 1,551,659
+[END TABLE 044]
+
+[TABLE 045]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 31
+[END TABLE 045]
+
+[TABLE 046]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 32
+[END TABLE 046]
+
+[TABLE 047]
+Fiscal Percent Increase (Decrease) U.S. Dollars Percent Increase (Decrease) Local Currency Percent of Total Revenues for Fiscal (in billions of U.S. dollars) 2025 2024 2025 2024 Geographic Markets Americas (1) $ 35.1 $ 32.6 8 % 9 % 50 % 50 % EMEA 24.6 22.8 8 6 35 35 Asia Pacific (1) 10.0 9.5 5 4 14 15 Total Revenues $ 69.7 $ 64.9 7 % 7 % 100 % 100 % Industry Groups Communications, Media & Technology $ 11.5 $ 10.8 6 % 6 % 16 % 17 % Financial Services 12.8 11.6 10 10 18 18 Health & Public Service 14.8 13.8 7 6 21 21 Products 21.2 19.6 8 8 30 30 Resources 9.5 9.1 5 5 14 14 Total Revenues $ 69.7 $ 64.9 7 % 7 % 100 % 100 % Type of Work Consulting $ 35.1 $ 33.2 6 % 5 % 50 % 51 % Managed Services 34.6 31.7 9 9 50 49 Total Revenues $ 69.7 $ 64.9 7 % 7 % 100 % 100 %
+[END TABLE 047]
+
+[TABLE 048]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 33
+[END TABLE 048]
+
+[TABLE 049]
+Utilization Workforce Voluntary Attrition 92% 779,000+ 14% consistent with fiscal 2024 compared to approximately 774,000 as of August 31, 2024 compared to 13% in fiscal 2024
+[END TABLE 049]
+
+[TABLE 050]
+Fiscal Percent Increase (Decrease) U.S. Dollars Percent Increase (Decrease) Local Currency (in billions of U.S. dollars) 2025 2024 Consulting $ 37.6 $ 37.0 2 % 2 % Managed Services 43.0 44.2 (3) (3) Total New Bookings $ 80.6 $ 81.2 (1) % (1) %
+[END TABLE 050]
+
+[TABLE 051]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 34
+[END TABLE 051]
+
+[TABLE 052]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 35
+[END TABLE 052]
+
+[TABLE 053]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 36
+[END TABLE 053]
+
+[TABLE 054]
+Fiscal Percent Increase (Decrease) U.S. Dollars Percent Increase (Decrease) Local Currency (in millions of U.S. dollars) 2025 2024 Geographic Markets Americas (1) $ 35,057 $ 32,552 8 % 9 % EMEA 24,644 22,818 8 6 Asia Pacific (1) 9,972 9,526 5 4 Total Revenues $ 69,673 $ 64,896 7 % 7 % Industry Groups Communications, Media & Technology $ 11,454 $ 10,837 6 % 6 % Financial Services 12,774 11,610 10 10 Health & Public Service 14,763 13,841 7 6 Products 21,197 19,554 8 8 Resources 9,485 9,054 5 5 Total Revenues $ 69,673 $ 64,896 7 % 7 % Type of Work Consulting $ 35,107 $ 33,195 6 % 5 % Managed Services 34,566 31,701 9 9 Total Revenues $ 69,673 $ 64,896 7 % 7 %
+[END TABLE 054]
+
+[TABLE 055]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 37
+[END TABLE 055]
+
+[TABLE 056]
+Fiscal (in millions of U.S. dollars) 2025 2024 Increase (Decrease) Operating Expenses $ 59,447 85.3 % $ 55,301 85.2 % $ 4,147 Cost of services 47,438 68.1 43,734 67.4 3,703 Sales and marketing 7,043 10.1 6,847 10.6 197 General and administrative costs 4,351 6.2 4,281 6.6 70 Business optimization costs 615 0.9 438 0.7 177
+[END TABLE 056]
+
+[TABLE 057]
+Fiscal 2025 2024 (in millions of U.S. dollars) Operating Income Operating Margin Operating Income Operating Margin Increase (Decrease) Americas (1) $ 5,324 15 % $ 5,080 16 % $ 245 EMEA 3,091 13 2,804 12 287 Asia Pacific (1) 1,810 18 1,713 18 98 Total $ 10,226 14.7 % $ 9,596 14.8 % $ 630
+[END TABLE 057]
+
+[TABLE 058]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 38
+[END TABLE 058]
+
+[TABLE 059]
+Fiscal 2025 2024 (in millions of U.S. dollars) Operating Income (GAAP) Business Optimization (1) Operating Income (Non-GAAP) Operating Margin (Non-GAAP) Operating Income (GAAP) Business Optimization (2) Operating Income (Non-GAAP) Operating Margin (Non-GAAP) Increase (Decrease) Americas (3) $ 5,324 $ 420 $ 5,745 16 % $ 5,080 $ 83 $ 5,163 16 % $ 582 EMEA 3,091 132 3,223 13 2,804 249 3,052 13 171 Asia Pacific (3) 1,810 63 1,873 19 1,713 107 1,819 19 54 Total $ 10,226 $ 615 $ 10,841 15.6 % $ 9,596 $ 438 $ 10,034 15.5 % $ 807
+[END TABLE 059]
+
+[TABLE 060]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 39
+[END TABLE 060]
+
+[TABLE 061]
+Fiscal 2024 As Reported $ 11.44 Business optimization costs 0.69 Tax effect of business optimization costs (1) (0.18) 2024 As Adjusted $ 11.95 2025 As Reported $ 12.15 Business optimization costs 0.98 Tax effect of business optimization costs (1) (0.20) 2025 As Adjusted $ 12.93
+[END TABLE 061]
+
+[TABLE 062]
+Fiscal 2024 As Adjusted $ 11.95 Higher revenue and operating results 0.97 Lower share count 0.07 Lower effective tax rate 0.01 Lower non-operating income (0.07) 2025 As Adjusted $ 12.93
+[END TABLE 062]
+
+[TABLE 063]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 40
+[END TABLE 063]
+
+[TABLE 064]
+Fiscal Change (in millions of U.S. dollars) 2025 2024 Net cash provided by (used in): Operating activities $ 11,474 $ 9,131 $ 2,343 Investing activities (2,020) (7,062) 5,042 Financing activities (2,948) (6,064) 3,115 Effect of exchange rate changes on cash and cash equivalents (32) (46) 14 Net increase (decrease) in cash and cash equivalents $ 6,474 $ (4,041) $ 10,515
+[END TABLE 064]
+
+[TABLE 065]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 41
+[END TABLE 065]
+
+[TABLE 066]
+(in millions of U.S. dollars) Payments (1) Less than 1 year $ 1,154 1-3 years 1,275 3-5 years 513 More than 5 years 38 Total $ 2,980
+[END TABLE 066]
+
+[TABLE 067]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7A. Quantitative and Qualitative Disclosures About Market Risk 42
+[END TABLE 067]
+
+[TABLE 068]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 7A. Quantitative and Qualitative Disclosures About Market Risk 43
+[END TABLE 068]
+
+[TABLE 069]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 9A. Controls and Procedures 44
+[END TABLE 069]
+
+[TABLE 070]
+Name Title Date of Adoption or Termination Duration of Plan (1) Aggregate number of Class A ordinary shares to be sold pursuant to the trading agreement Julie Sweet Chair and chief executive officer Adopted on July 12, 2025 October 22, 2025 - July 24, 2026 39,000 (2) Manish Sharma Chief strategy and services officer Adopted on June 24, 2025 October 22, 2025 - July 24, 2026 11,500 (2) Ryoji Sekido Chief executive officer— Asia Pacific Adopted on June 24, 2025 October 22, 2025 - July 24, 2026 6,000 (2) Mauro Macchi Chief executive officer— EMEA Adopted on July 28, 2025 October 27, 2025 - July 24, 2026 4,000
+[END TABLE 070]
+
+[TABLE 071]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 9A. Controls and Procedures 45
+[END TABLE 071]
+
+[TABLE 072]
+Table of Contents ACCENTURE 2025 FORM 10-K Part III 46
+[END TABLE 072]
+
+[TABLE 073]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters 47
+[END TABLE 073]
+
+[TABLE 074]
+Plan Category Number of Shares to be Issued Upon Exercise of Outstanding Options, Warrants and Rights Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights (3) Number of Shares Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in 1st Column) Equity compensation plans approved by shareholders: 2001 Share Incentive Plan 1,872 (1) $ — — Amended and Restated 2010 Share Incentive Plan 16,388,598 (2) — 20,971,852 Amended and Restated 2010 Employee Share Purchase Plan — N/A 46,056,389 Equity compensation plans not approved by shareholders — N/A — Total 16,390,470 67,028,241
+[END TABLE 074]
+
+[TABLE 075]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 14. Principal Accountant Fees and Services 48
+[END TABLE 075]
+
+[TABLE 076]
+Table of Contents ACCENTURE 2025 FORM 10-K Part IV 49
+[END TABLE 076]
+
+[TABLE 077]
+Exhibit Number Exhibit 3.1 Amended and Restated Memorandum and Articles of Association of Accenture plc (incorporated by reference to Exhibit 3.1 to Accenture plc’s 8-K filed on February 7, 2018 ) 3.2 Certificate of Incorporation of Accenture plc (incorporated by reference to Exhibit 3.2 to Accenture plc’s 8-K12B filed on September 1, 2009 (the “8-K12B”)) 4.1 Description of Accenture plc’s Securities (incorporated by reference to Exhibit 4.1 to the August 31, 2024 10-K ) 4.2 Indenture, among Accenture Capital Inc., Accenture plc and The Bank of New York Mellon Trust Company, N.A., dated as of October 4, 2024 (incorporated by reference to Exhibit 4.1 to Accenture plc’s 8-K filed on October 4, 2024 ) 4.3 Officer’s Certificate of Accenture Capital Inc., dated as of October 4, 2024, containing Form of 3.900% Note due 2027, Form of 4.050% Note due 2029, Form of 4.250% Note due 2031 and Form of 4.500% Note due 2034 (incorporated by reference to Exhibit 4.2 to Accenture plc’s 8-K filed on October 4, 2024 ) 10.1 Form of Voting Agreement, dated as of April 18, 2001, among Accenture Ltd and the covered persons party thereto as amended and restated as of February 3, 2005 (incorporated by reference to Exhibit 9.1 to the Accenture Ltd February 28, 2005 10-Q (File No. 001-16565)) 10.2 Assumption Agreement of the Amended and Restated Voting Agreement, dated September 1, 2009 (incorporated by reference to Exhibit 10.4 to the 8-K12B ) 10.3* Form of Non-Competition Agreement, dated as of April 18, 2001, among Accenture Ltd and certain employees (incorporated by reference to Exhibit 10.2 to the Accenture Ltd Registration Statement on Form S-1 (File No. 333-59194) filed on April 19, 2001) 10.4 Assumption and General Amendment Agreement between Accenture plc and Accenture Ltd, dated September 1, 2009 (incorporated by reference to Exhibit 10.1 to the 8-K12B ) 10.5* 2001 Share Incentive Plan (incorporated by reference to Exhibit 10.3 to the Accenture Ltd Registration Statement on Form S-1/A (File No. 333-59194) filed on July 12, 2001) 10.6* Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.1 to Accenture plc’s 8-K filed on January 31, 2024 )
+[END TABLE 077]
+
+[TABLE 078]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 15. Exhibits, Financial Statement Schedules 50
+[END TABLE 078]
+
+[TABLE 079]
+10.7* Amended and Restated 2010 Employee Share Purchase Plan (incorporated by reference to Exhibit 10.2 to Accenture plc’s 8-K filed on January 31, 2024 ) 10.8 Credit Agreement, dated as of May 14, 2024, among Accenture plc, the borrowers party thereto, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent (incorporated by reference to Exhibit 10.1 to Accenture plc’s 8-K filed on May 17, 2024 ) 10.9 Form of Support Agreement, dated as of May 23, 2001, between Accenture Ltd and Accenture Canada Holdings Inc. (incorporated by reference to Exhibit 10.9 to the Accenture Ltd Registration Statement on Form S-1/A (the “July 2, 2001 Form S-1/A”)) 10.10 First Supplemental Agreement to Support Agreement among Accenture plc, Accenture Ltd and Accenture Canada Holdings Inc., dated September 1, 2009 (incorporated by reference to Exhibit 10.2 to the 8-K12B ) 10.11* Form of Employment Agreement of executive officers in the United States (incorporated by reference to Exhibit 10.3 to the February 28, 2013 10-Q ) 10.12* 2012 Employment Contract between Accenture SAS and Jean-Marc Ollagnier, together with 2017 and 2022 Addenda (incorporated by reference to Exhibit 10.12 to the August 31, 2022 10-K ) 10.13 Form of Articles of Association of Accenture Canada Holdings Inc. (incorporated by reference to Exhibit 10.11 to the July 2, 2001 Form S-1/A ) 10.14 Articles of Amendment to Articles of Association of Accenture Canada Holdings Inc. (incorporated by reference to Exhibit 10.21 to the August 31, 2013 10-K ) 10.15 Form of Exchange Trust Agreement by and between Accenture Ltd and Accenture Canada Holdings Inc. and CIBC Mellon Trust Company, made as of May 23, 2001 (incorporated by reference to Exhibit 10.12 to the July 2, 2001 Form S-1/A ) 10.16 First Supplemental Agreement to Exchange Trust Agreement among Accenture plc, Accenture Ltd, Accenture Canada Holdings Inc. and Accenture Inc., dated September 1, 2009 (incorporated by reference to Exhibit 10.3 to the 8-K12B ) 10.17* 2015 Sub-plan for Restricted Share Units Granted in France, as amended (incorporated by reference to Exhibit 10.1 to the February 28, 2022 10-Q ) 10.18* Form of Director Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.1 to the February 28, 2025 10-Q ) 10.19* Form of Key Executive Performance-Based Award Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.2 to the February 28, 2023 10-Q ) 10.20* Form of Key Executive Performance-Based Award Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.2 to the February 29, 2024 10-Q ) 10.21* Form of Key Executive Performance-Based Award Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.2 to the February 28, 2025 10-Q ) 10.22* Form of Fiscal 2023 Key Executive Performance-Based Award Restricted Share Unit Agreement in France (incorporated by reference to Exhibit 10.6 to the February 28, 2023 10-Q ) 10.23* Form of Fiscal 2024 Key Executive Performance-Based Award Restricted Share Unit Agreement in France (incorporated by reference to Exhibit 10.6 to the February 29, 2024 10-Q ) 10.24* Form of Accenture Leadership Performance Equity Award Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.3 to the February 28, 2023 10-Q ) 10.25* Form of Accenture Leadership Performance Equity Award Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.3 to the February 29, 2024 10-Q ) 10.26* Form of Accenture Leadership Performance Equity Award Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.3 to the February 28, 2025 10-Q ) 10.27* Form of Accenture Leadership Performance Equity Award Restricted Share Unit Agreement in France (incorporated by reference to Exhibit 10.7 to the February 29, 2024 10-Q ) 10.28* Form of Accenture Leadership Performance Equity Award Restricted Share Unit Agreement in France (incorporated by reference to Exhibit 10.7 to the February 28, 2025 10-Q 10.29* Form of Voluntary Equity Investment Program Matching Grant Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.4 to the February 29, 2024 10-Q ) 10.30* Form of Voluntary Equity Investment Program Matching Grant Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.4 to the February 28, 2025 10-Q ) 10.31* Form of CEO Discretionary Grant Restricted Share Unit Agreement pursuant to the Amended and Restated Accenture plc 2010 Share Incentive Plan (incorporated by reference to Exhibit 10.5 to the February 28, 2025 10-Q ) 10.32* Description of Global Annual Bonus Plan (incorporated by reference to Exhibit 10.9 to the February 28, 2022 10-Q ) 10.33* Form of Indemnification Agreement, between Accenture Inc. and the indemnitee party thereto (incorporated by reference to Exhibit 10.28 to the August 31, 2018 10-K ) 10.34* Form of Severance Agreement (incorporated by reference to Exhibit 10.1 to the November 30, 2023 10-Q ) 10.35* Relocation Benefits Agreement between Accenture LLP and Manish Sharma (incorporated by reference to Exhibit 10.2 to the November 30, 2023 10-Q )
+[END TABLE 079]
+
+[TABLE 080]
+Table of Contents ACCENTURE 2025 FORM 10-K Item 15. Exhibits, Financial Statement Schedules 51
+[END TABLE 080]
+
+[TABLE 081]
+10.36* Accenture LLP Leadership Separation Benefits Plan (incorporated by reference to Exhibit 10.1 to November 30, 2024 10-Q ) 19.1 Insider Trading Policy ( filed herewith ) 21.1 Subsidiaries of the Registrant ( filed herewith ) 23.1 Consent of KPMG LLP ( filed herewith ) 23.2 Consent of KPMG LLP related to the Accenture plc 2010 Employee Share Purchase Plan ( filed herewith ) 24.1 Power of Attorney (included on the signature page hereto) 31.1 Certification of the Principal Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 ( filed herewith ) 31.2 Certification of the Principal Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 ( filed herewith ) 32.1 Certification of the Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 ( furnished herewith ) 32.2 Certification of the Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 ( furnished herewith ) 97.1* Mandatory Recoupment Policy (incorporated by reference to Exhibit 97.1 to the August 31, 2023 10-K ) 99.1 Amended and Restated Accenture plc 2010 Employee Share Purchase Plan Financial Statements ( filed herewith ) 101 The following financial information from Accenture plc’s Annual Report on Form 10-K for the fiscal year ended August 31, 2025, formatted in Inline XBRL: (i) Consolidated Balance Sheets as of August 31, 2025 and August 31, 2024, (ii) Consolidated Income Statements for the years ended August 31, 2025, 2024 and 2023, (iii) Consolidated Statements of Comprehensive Income for the years ended August 31, 2025, 2024 and 2023, (iv) Consolidated Shareholders’ Equity Statements for the years ended August 31, 2025, 2024 and 2023, (v) Consolidated Cash Flows Statements for the years ended August 31, 2025, 2024 and 2023, and (vi) the Notes to Consolidated Financial Statements 104 The cover page from Accenture plc’s Annual Report on Form 10-K for the year ended August 31, 2025, formatted in Inline XBRL (included as Exhibit 101)
+[END TABLE 081]
+
+[TABLE 082]
+(*) Indicates management contract or compensatory plan or arrangement.
+[END TABLE 082]
+
+[TABLE 083]
+Table of Contents ACCENTURE 2025 FORM 10-K Signatures 52
+[END TABLE 083]
+
+[TABLE 084]
+ACCENTURE PLC By: /s/ J ULIE S WEET Name: Julie Sweet Title: Chief Executive Officer
+[END TABLE 084]
+
+[TABLE 085]
+Signature Title /s/ J ULIE S WEET Chief Executive Officer, Chair of the Board and Director Julie Sweet (principal executive officer) /s/ A NGIE P ARK Chief Financial Officer Angie Park (principal financial officer) /s/ M ELISSA A . B URGUM Chief Accounting Officer Melissa A. Burgum (principal accounting officer) /s/ A RUN S ARIN Lead Director Arun Sarin /s/ J AIME A RDILA Director Jaime Ardila
+[END TABLE 085]
+
+[TABLE 086]
+Table of Contents ACCENTURE 2025 FORM 10-K Signatures 53
+[END TABLE 086]
+
+[TABLE 087]
+/s/ M ARTIN B RUDERMÜLLER Director Martin Brudermüller /s/ A LAN J OPE Director Alan Jope /s/ N ANCY M C K INSTRY Director Nancy McKinstry /s/ J ENNIFER N ASON Director Jennifer Nason /s/ P AULA A. P RICE Director Paula A. Price /s/ V ENKATA S.M. R ENDUCHINTALA Director Venkata S.M. Renduchintala /s/ T RACEY T. T RAVIS Director Tracey T. Travis /s/ M ASAHIKO U OTANI Director Masahiko Uotani
+[END TABLE 087]
+
+[TABLE 088]
+Table of Contents ACCENTURE 2025 FORM 10-K Index to Consolidated Financial Statements F-1
+[END TABLE 088]
+
+[TABLE 089]
+Page Report of Independent Registered Public Accounting Firm (Auditor Firm ID: 185 ) F-2 Consolidated Financial Statements as of August 31, 2025 and 2024 and for the years ended August 31, 2025, 2024 and 2023: Consolidated Balance Sheets F-5 Consolidated Income Statements F-6 Consolidated Statements of Comprehensive Income F-7 Consolidated Shareholders’ Equity Statements F-8 Consolidated Cash Flows Statements F-11 Notes to Consolidated Financial Statements F-12
+[END TABLE 089]
+
+[TABLE 090]
+Table of Contents ACCENTURE 2025 FORM 10-K Report of Independent Registered Public Accounting Firm F-2
+[END TABLE 090]
+
+[TABLE 091]
+Table of Contents ACCENTURE 2025 FORM 10-K Report of Independent Registered Public Accounting Firm F-3
+[END TABLE 091]
+
+[TABLE 092]
+Table of Contents ACCENTURE 2025 FORM 10-K Report of Independent Registered Public Accounting Firm F-4
+[END TABLE 092]
+
+[TABLE 093]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars, except share and per share amounts) ACCENTURE 2025 FORM 10-K F-5
+[END TABLE 093]
+
+[TABLE 094]
+August 31, 2025 August 31, 2024 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 11,478,729 $ 5,004,469 Short-term investments 5,945 5,396 Receivables and contract assets 14,985,073 13,664,847 Other current assets 2,430,942 2,183,069 Total current assets 28,900,689 20,857,781 NON-CURRENT ASSETS: Contract assets 180,362 120,260 Investments 721,260 334,664 Property and equipment, net 1,566,374 1,521,119 Lease assets 2,740,321 2,757,396 Goodwill 22,536,416 21,120,179 Deferred contract costs 1,025,391 862,140 Deferred tax assets 3,791,215 4,147,496 Intangibles 2,410,755 2,904,031 Other non-current assets 1,522,114 1,307,297 Total non-current assets 36,494,208 35,074,582 TOTAL ASSETS $ 65,394,897 $ 55,932,363 LIABILITIES AND SHAREHOLDERS’ EQUITY CURRENT LIABILITIES: Current portion of long-term debt and bank borrowings $ 114,484 $ 946,229 Accounts payable 2,695,589 2,743,807 Deferred revenues 6,073,170 5,174,923 Accrued payroll and related benefits 8,084,214 7,050,833 Income taxes payable 701,219 719,084 Lease liabilities 729,003 726,202 Other accrued liabilities 1,954,418 1,615,049 Total current liabilities 20,352,097 18,976,127 NON-CURRENT LIABILITIES: Long-term debt 5,034,169 78,628 Deferred revenues 642,361 641,091 Retirement obligation 1,858,499 1,815,867 Deferred tax liabilities 471,931 428,845 Income taxes payable 1,291,921 1,514,869 Lease liabilities 2,305,210 2,369,490 Other non-current liabilities 1,197,742 939,198 Total non-current liabilities 12,801,833 7,787,988 COMMITMENTS AND CONTINGENCIES SHAREHOLDERS’ EQUITY: Ordinary shares, par value 1.00 euros per share, 40,000 shares authorized and issued as of August 31, 2025 and August 31, 2024 57 57 Class A ordinary shares, par value $ 0.0000225 per share, 20,000,000,000 shares authorized, 657,964,764 and 672,484,852 shares issued as of August 31, 2025 and August 31, 2024, respectively 14 15 Class X ordinary shares, par value $ 0.0000225 per share, 1,000,000,000 shares authorized, 302,358 and 307,754 shares issued and outstanding as of August 31, 2025 and August 31, 2024, respectively — — Restricted share units 2,790,652 2,614,608 Additional paid-in capital 16,603,344 14,710,857 Treasury shares, at cost: Ordinary, 40,000 shares as of August 31, 2025 and August 31, 2024; Class A ordinary, 36,108,842 and 47,204,565 shares as of August 31, 2025 and August 31, 2024, respectively ( 7,751,973 ) ( 10,564,572 ) Retained earnings 21,018,731 23,082,423 Accumulated other comprehensive loss ( 1,465,379 ) ( 1,554,742 ) Total Accenture plc shareholders’ equity 31,195,446 28,288,646 Noncontrolling interests 1,045,521 879,602 Total shareholders’ equity 32,240,967 29,168,248 TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY $ 65,394,897 $ 55,932,363
+[END TABLE 094]
+
+[TABLE 095]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars, except share and per share amounts) ACCENTURE 2025 FORM 10-K F-6
+[END TABLE 095]
+
+[TABLE 096]
+2025 2024 2023 REVENUES: Revenues $ 69,672,977 $ 64,896,464 $ 64,111,745 OPERATING EXPENSES: Cost of services 47,437,576 43,734,147 43,380,138 Sales and marketing 7,043,445 6,846,714 6,582,629 General and administrative costs 4,350,968 4,281,316 4,275,943 Business optimization costs 615,324 438,440 1,063,146 Total operating expenses 59,447,313 55,300,617 55,301,856 OPERATING INCOME 10,225,664 9,595,847 8,809,889 Interest income 336,324 272,256 280,409 Interest expense ( 228,555 ) ( 58,969 ) ( 47,525 ) Other income (expense), net ( 63,040 ) ( 109,811 ) 96,559 INCOME BEFORE INCOME TAXES 10,270,393 9,699,323 9,139,332 Income tax expense 2,437,993 2,280,126 2,135,802 NET INCOME 7,832,400 7,419,197 7,003,530 Net income attributable to noncontrolling interests in Accenture Canada Holdings Inc. ( 7,240 ) ( 7,198 ) ( 7,204 ) Net income attributable to noncontrolling interests – other ( 146,727 ) ( 147,212 ) ( 124,769 ) NET INCOME ATTRIBUTABLE TO ACCENTURE PLC $ 7,678,433 $ 7,264,787 $ 6,871,557 Weighted average Class A ordinary shares: Basic 624,891,649 627,852,613 630,608,186 Diluted 632,435,108 635,940,044 638,591,616 Earnings per Class A ordinary share: Basic $ 12.29 $ 11.57 $ 10.90 Diluted $ 12.15 $ 11.44 $ 10.77 Cash dividends per share $ 5.92 $ 5.16 $ 4.48
+[END TABLE 096]
+
+[TABLE 097]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars) ACCENTURE 2025 FORM 10-K F-7
+[END TABLE 097]
+
+[TABLE 098]
+2025 2024 2023 NET INCOME $ 7,832,400 $ 7,419,197 $ 7,003,530 OTHER COMPREHENSIVE INCOME (LOSS), NET OF TAX: Foreign currency translation 235,681 214,889 341,688 Defined benefit plans 58,232 ( 27,669 ) 122,268 Cash flow hedges ( 204,550 ) 1,139 ( 16,715 ) OTHER COMPREHENSIVE INCOME (LOSS) ATTRIBUTABLE TO ACCENTURE PLC 89,363 188,359 447,241 Other comprehensive income (loss) attributable to noncontrolling interests 6,231 2,117 8,489 COMPREHENSIVE INCOME $ 7,927,994 $ 7,609,673 $ 7,459,260 COMPREHENSIVE INCOME ATTRIBUTABLE TO ACCENTURE PLC $ 7,767,796 $ 7,453,146 $ 7,318,798 Comprehensive income attributable to noncontrolling interests 160,198 156,527 140,462 COMPREHENSIVE INCOME $ 7,927,994 $ 7,609,673 $ 7,459,260
+[END TABLE 098]
+
+[TABLE 099]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars and share amounts) ACCENTURE 2025 FORM 10-K F-8
+[END TABLE 099]
+
+[TABLE 100]
+Ordinary Shares Class A Ordinary Shares Class X Ordinary Shares Restricted Share Units Additional Paid-in Capital Treasury Shares Accumulated Other Comprehensive Loss Total Accenture plc Shareholders’ Equity Noncontrolling Interests Total Shareholders’ Equity $ No. Shares $ No. Shares $ No. Shares $ No. Shares Retained Earnings Balance as of August 31, 2022 $ 57 40 $ 15 664,561 $ — 501 $ 2,091,382 $ 10,679,180 $ ( 6,678,037 ) ( 33,434 ) $ 18,203,842 $ ( 2,190,342 ) $ 22,106,097 $ 640,991 $ 22,747,088 Net income 6,871,557 6,871,557 131,973 7,003,530 Other comprehensive income (loss) 447,241 447,241 8,489 455,730 Purchases of Class A shares 3,915 ( 4,322,529 ) ( 15,314 ) ( 4,318,614 ) ( 3,915 ) ( 4,322,529 ) Cancellation of treasury shares ( 8,828 ) ( 175,701 ) 2,595,281 8,828 ( 2,419,580 ) — — Share-based compensation expense 1,790,886 122,165 1,913,051 1,913,051 Purchases/redemptions of Accenture Canada Holdings Inc. exchangeable shares and Class X shares ( 176 ) ( 7,874 ) ( 7,874 ) ( 7,874 ) Issuances of Class A shares for employee share programs 8,883 ( 1,592,561 ) 2,151,005 1,342,773 3,529 ( 401,493 ) 1,499,724 1,345 1,501,069 Dividends 113,667 ( 2,938,102 ) ( 2,824,435 ) ( 2,959 ) ( 2,827,394 ) Other, net 6,092 6,092 ( 10,170 ) ( 4,078 ) Balance as of August 31, 2023 $ 57 40 $ 15 664,616 $ — 325 $ 2,403,374 $ 12,778,782 $ ( 7,062,512 ) ( 36,391 ) $ 19,316,224 $ ( 1,743,101 ) $ 25,692,839 $ 765,754 $ 26,458,593
+[END TABLE 100]
+
+[TABLE 101]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars and share amounts) ACCENTURE 2025 FORM 10-K F-9
+[END TABLE 101]
+
+[TABLE 102]
+Ordinary Shares Class A Ordinary Shares Class X Ordinary Shares Restricted Share Units Additional Paid-in Capital Treasury Shares Accumulated Other Comprehensive Loss Total Accenture plc Shareholders’ Equity Noncontrolling Interests Total Shareholders’ Equity $ No. Shares $ No. Shares $ No. Shares $ No. Shares Retained Earnings Net income 7,264,787 7,264,787 154,410 7,419,197 Other comprehensive income (loss) 188,359 188,359 2,117 190,476 Purchases of Class A shares 3,867 ( 4,509,392 ) ( 13,913 ) ( 4,505,525 ) ( 3,867 ) ( 4,509,392 ) Share-based compensation expense 1,821,490 120,100 1,941,590 1,941,590 Purchases/redemptions of Accenture Canada Holdings Inc. exchangeable shares and Class X shares ( 17 ) ( 15,254 ) ( 15,254 ) ( 15,254 ) Issuances of Class A shares for employee share programs 7,869 ( 1,739,452 ) 2,280,198 1,007,332 3,059 ( 131,133 ) 1,416,945 1,186 1,418,131 Dividends 129,196 ( 3,367,455 ) ( 3,238,259 ) ( 3,220 ) ( 3,241,479 ) Other, net ( 456,836 ) ( 456,836 ) ( 36,778 ) ( 493,614 ) Balance as of August 31, 2024 $ 57 40 $ 15 672,485 $ — 308 $ 2,614,608 $ 14,710,857 $ ( 10,564,572 ) ( 47,245 ) $ 23,082,423 $ ( 1,554,742 ) $ 28,288,646 $ 879,602 $ 29,168,248
+[END TABLE 102]
+
+[TABLE 103]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars and share amounts) ACCENTURE 2025 FORM 10-K F-10
+[END TABLE 103]
+
+[TABLE 104]
+Ordinary Shares Class A Ordinary Shares Class X Ordinary Shares Restricted Share Units Additional Paid-in Capital Treasury Shares Accumulated Other Comprehensive Loss Total Accenture plc Shareholders’ Equity Noncontrolling Interests Total Shareholders’ Equity $ No. Shares $ No. Shares $ No. Shares $ No. Shares Retained Earnings Net income 7,678,433 7,678,433 153,967 7,832,400 Other comprehensive income (loss) 89,363 89,363 6,231 95,594 Purchases of Class A shares 3,708 ( 4,614,969 ) ( 14,082 ) ( 4,611,261 ) ( 3,708 ) ( 4,614,969 ) Cancellation of treasury shares ( 1 ) ( 22,739 ) ( 771,268 ) 6,666,403 22,739 ( 5,895,134 ) — — Share-based compensation expense 1,974,575 119,303 2,093,878 2,093,878 Purchases/redemptions of Accenture Canada Holdings Inc. exchangeable shares and Class X shares ( 6 ) ( 4,528 ) ( 4,528 ) ( 4,528 ) Issuances of Class A shares for employee share programs 8,219 ( 1,933,220 ) 2,540,363 761,165 2,439 ( 15,625 ) 1,352,683 1,070 1,353,753 Dividends 134,689 ( 3,831,366 ) ( 3,696,677 ) ( 3,492 ) ( 3,700,169 ) Other, net 4,909 4,909 11,851 16,760 Balance as of August 31, 2025 $ 57 40 $ 14 657,965 $ — 302 $ 2,790,652 $ 16,603,344 $ ( 7,751,973 ) ( 36,149 ) $ 21,018,731 $ ( 1,465,379 ) $ 31,195,446 $ 1,045,521 $ 32,240,967
+[END TABLE 104]
+
+[TABLE 105]
+Table of Contents Consolidated Financial Statements (In thousands of U.S. dollars) ACCENTURE 2025 FORM 10-K F-11
+[END TABLE 105]
+
+[TABLE 106]
+2025 2024 2023 CASH FLOWS FROM OPERATING ACTIVITIES: Net income $ 7,832,400 $ 7,419,197 $ 7,003,530 Adjustments to reconcile Net income to Net cash provided by (used in) operating activities— Depreciation, amortization and other 2,441,594 2,168,038 2,281,085 Share-based compensation expense 2,093,878 1,941,590 1,913,051 Deferred tax expense (benefit) 357,348 ( 93,988 ) ( 268,953 ) Other, net ( 200,473 ) ( 144,920 ) ( 219,082 ) Change in assets and liabilities, net of acquisitions— Receivables and contract assets, current and non-current ( 1,021,191 ) ( 601,935 ) 87,669 Other current and non-current assets ( 1,067,698 ) ( 853,202 ) ( 526,228 ) Accounts payable ( 110,554 ) 46,512 ( 171,217 ) Deferred revenues, current and non-current 706,585 28,401 159,819 Accrued payroll and related benefits 904,322 ( 614,771 ) ( 261,913 ) Income taxes payable, current and non-current ( 300,251 ) 114,076 113,251 Other current and non-current liabilities ( 161,561 ) ( 277,971 ) ( 586,744 ) Net cash provided by (used in) operating activities 11,474,399 9,131,027 9,524,268 CASH FLOWS FROM INVESTING ACTIVITIES: Purchases of property and equipment ( 600,039 ) ( 516,509 ) ( 528,172 ) Purchases of businesses and investments, net of cash acquired ( 1,471,255 ) ( 6,582,702 ) ( 2,530,863 ) Proceeds from the sale of businesses and investments, net of cash transferred 36,834 28,721 424,387 Other investing, net 14,810 8,672 12,178 Net cash provided by (used in) investing activities ( 2,019,650 ) ( 7,061,818 ) ( 2,622,470 ) CASH FLOWS FROM FINANCING ACTIVITIES: Proceeds from issuance of shares 1,353,753 1,418,131 1,501,069 Purchases of shares ( 4,619,497 ) ( 4,524,646 ) ( 4,330,403 ) Proceeds from debt 5,061,085 1,599,033 100,000 Repayments of debt ( 931,885 ) ( 771,246 ) — Cash dividends paid ( 3,700,169 ) ( 3,241,479 ) ( 2,827,394 ) Other financing, net ( 111,621 ) ( 543,301 ) ( 88,598 ) Net cash provided by (used in) financing activities ( 2,948,334 ) ( 6,063,508 ) ( 5,645,326 ) Effect of exchange rate changes on cash and cash equivalents ( 32,155 ) ( 46,264 ) ( 101,273 ) NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 6,474,260 ( 4,040,563 ) 1,155,199 CASH AND CASH EQUIVALENTS, beginning of period 5,004,469 9,045,032 7,889,833 CASH AND CASH EQUIVALENTS, end of period $ 11,478,729 $ 5,004,469 $ 9,045,032 SUPPLEMENTAL CASH FLOW INFORMATION: Interest paid $ 155,428 $ 37,182 $ 46,505 Income taxes paid, net $ 2,471,554 $ 2,386,620 $ 2,315,920
+[END TABLE 106]
+
+[TABLE 107]
+Table of Contents Notes to Consolidated Financial Statements (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-12
+[END TABLE 107]
+
+[TABLE 108]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-13
+[END TABLE 108]
+
+[TABLE 109]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-14
+[END TABLE 109]
+
+[TABLE 110]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-15
+[END TABLE 110]
+
+[TABLE 111]
+August 31, 2025 August 31, 2024 Equity method investments $ 355,276 $ 128,634 Investments without readily determinable fair values 365,984 206,030 Total non-current investments $ 721,260 $ 334,664
+[END TABLE 111]
+
+[TABLE 112]
+Fiscal 2025 2024 2023 Depreciation $ 622,493 $ 547,935 $ 620,659 Amortization—Deferred transition 337,072 352,045 339,139 Amortization—Intangible assets 745,892 530,062 440,957 Operating lease cost 729,727 719,434 868,082 Other 6,410 18,562 12,248 Total depreciation, amortization and other $ 2,441,594 $ 2,168,038 $ 2,281,085
+[END TABLE 112]
+
+[TABLE 113]
+Computers, related equipment and software 3 to 7 years Furniture and fixtures 5 to 10 years Leasehold improvements Lesser of lease term or 15 years
+[END TABLE 113]
+
+[TABLE 114]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-16
+[END TABLE 114]
+
+[TABLE 115]
+Fiscal 2025 2024 2023 Research and development costs $ 817,300 $ 1,150,430 $ 1,298,657 Advertising costs (1) 78,519 104,510 100,652 Provision for (release of) doubtful accounts (2) 11,589 10,163 3,856
+[END TABLE 115]
+
+[TABLE 116]
+Fiscal 2025 2024 Americas (1) $ 420,469 $ 83,201 EMEA 131,980 248,724 Asia Pacific (1) 62,875 106,515 Total business optimization costs $ 615,324 $ 438,440
+[END TABLE 116]
+
+[TABLE 117]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-17
+[END TABLE 117]
+
+[TABLE 118]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-18
+[END TABLE 118]
+
+[TABLE 119]
+August 31, 2025 August 31, 2024 Receivables $ 13,065,433 $ 11,873,442 Contract assets (current) 1,919,640 1,791,405 Receivables and contract assets, net of allowance (current) 14,985,073 13,664,847 Contract assets (non-current) 180,362 120,260 Deferred revenues (current) 6,073,170 5,174,923 Deferred revenues (non-current) 642,361 641,091
+[END TABLE 119]
+
+[TABLE 120]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-19
+[END TABLE 120]
+
+[TABLE 121]
+Fiscal 2025 2024 2023 Basic Earnings per share Net income attributable to Accenture plc $ 7,678,433 $ 7,264,787 $ 6,871,557 Basic weighted average Class A ordinary shares 624,891,649 627,852,613 630,608,186 Basic earnings per share $ 12.29 $ 11.57 $ 10.90 Diluted Earnings per share Net income attributable to Accenture plc $ 7,678,433 $ 7,264,787 $ 6,871,557 Net income attributable to noncontrolling interests in Accenture Canada Holdings Inc. (1) 7,240 7,198 7,204 Net income for diluted earnings per share calculation $ 7,685,673 $ 7,271,985 $ 6,878,761 Basic weighted average Class A ordinary shares 624,891,649 627,852,613 630,608,186 Class A ordinary shares issuable upon redemption/exchange of noncontrolling interests (1) 588,890 621,333 660,420 Diluted effect of employee compensation related to Class A ordinary shares 6,514,861 7,232,113 7,207,770 Diluted effect of share purchase plans related to Class A ordinary shares 439,708 233,985 115,240 Diluted weighted average Class A ordinary shares (2) 632,435,108 635,940,044 638,591,616 Diluted earnings per share $ 12.15 $ 11.44 $ 10.77
+[END TABLE 121]
+
+[TABLE 122]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-20
+[END TABLE 122]
+
+[TABLE 123]
+Fiscal 2025 2024 2023 Foreign currency translation Beginning balance $ ( 1,295,743 ) $ ( 1,510,632 ) $ ( 1,852,320 ) Foreign currency translation 242,799 215,655 349,151 Income tax benefit (expense) ( 750 ) 1,376 918 Portion attributable to noncontrolling interests ( 6,368 ) ( 2,142 ) ( 8,381 ) Foreign currency translation, net of tax 235,681 214,889 341,688 Ending balance ( 1,060,062 ) ( 1,295,743 ) ( 1,510,632 ) Defined benefit plans Beginning balance ( 254,172 ) ( 226,503 ) ( 348,771 ) Actuarial gains (losses) 74,486 ( 67,860 ) 147,499 Pension settlement ( 437 ) ( 5,276 ) ( 9,481 ) Prior service costs arising during the period — ( 307 ) 11,888 Reclassifications into net periodic pension and post-retirement expense 16,981 26,080 34,634 Income tax benefit (expense) ( 32,743 ) 19,668 ( 62,147 ) Portion attributable to noncontrolling interests ( 55 ) 26 ( 125 ) Defined benefit plans, net of tax 58,232 ( 27,669 ) 122,268 Ending balance ( 195,940 ) ( 254,172 ) ( 226,503 ) Cash flow hedges Beginning balance ( 4,827 ) ( 5,966 ) 10,749 Unrealized gain (loss) ( 265,161 ) 22,139 ( 64,331 ) Reclassification adjustments into Cost of services 10,165 ( 28,386 ) 27,865 Income tax benefit (expense) 50,254 7,387 19,734 Portion attributable to noncontrolling interests 192 ( 1 ) 17 Cash flow hedges, net of tax ( 204,550 ) 1,139 ( 16,715 ) Ending balance (1) ( 209,377 ) ( 4,827 ) ( 5,966 ) Accumulated other comprehensive loss $ ( 1,465,379 ) $ ( 1,554,742 ) $ ( 1,743,101 )
+[END TABLE 123]
+
+[TABLE 124]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-21
+[END TABLE 124]
+
+[TABLE 125]
+August 31, 2025 August 31, 2024 Computers, related equipment and software $ 2,260,910 $ 2,163,222 Furniture and fixtures 447,533 431,516 Leasehold improvements 1,784,561 1,640,236 Property and equipment, gross 4,493,004 4,234,974 Total accumulated depreciation ( 2,926,630 ) ( 2,713,855 ) Property and equipment, net $ 1,566,374 $ 1,521,119
+[END TABLE 125]
+
+[TABLE 126]
+Fiscal 2025 2024 2023 Total consideration $ 1,168,698 $ 6,456,648 $ 2,482,109 Goodwill 1,054,190 5,320,890 2,094,972 Intangible assets 199,120 1,265,290 544,661
+[END TABLE 126]
+
+[TABLE 127]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-22
+[END TABLE 127]
+
+[TABLE 128]
+August 31, 2023 Additions/ Adjustments Foreign Currency Translation August 31, 2024 Additions/ Adjustments Foreign Currency Translation August 31, 2025 Geographic Markets Americas (1) $ 9,149,539 $ 2,836,135 $ ( 25,024 ) $ 11,960,650 $ 456,712 $ ( 2,664 ) $ 12,414,698 EMEA 5,152,149 2,021,785 167,752 7,341,686 342,876 352,065 8,036,627 Asia Pacific (1) 1,271,315 491,680 54,848 1,817,843 312,346 ( 45,098 ) 2,085,091 Total $ 15,573,003 $ 5,349,600 $ 197,576 $ 21,120,179 $ 1,111,934 $ 304,303 $ 22,536,416
+[END TABLE 128]
+
+[TABLE 129]
+August 31, 2025 August 31, 2024 Intangible Asset Class Gross Carrying Amount Accumulated Amortization Net Carrying Amount Gross Carrying Amount Accumulated Amortization Net Carrying Amount Customer-related $ 3,735,706 $ ( 1,572,270 ) $ 2,163,436 $ 3,924,339 $ ( 1,336,679 ) $ 2,587,660 Technology 294,292 ( 173,864 ) 120,428 335,845 ( 183,182 ) 152,663 Patents 114,739 ( 72,430 ) 42,309 120,457 ( 72,518 ) 47,939 Other 125,255 ( 40,673 ) 84,582 150,098 ( 34,329 ) 115,769 Total $ 4,269,992 $ ( 1,859,237 ) $ 2,410,755 $ 4,530,739 $ ( 1,626,708 ) $ 2,904,031
+[END TABLE 129]
+
+[TABLE 130]
+Fiscal Year Estimated Amortization 2026 $ 554,481 2027 487,023 2028 448,951 2029 356,955 2030 260,891 Thereafter 302,454 Total $ 2,410,755
+[END TABLE 130]
+
+[TABLE 131]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-23
+[END TABLE 131]
+
+[TABLE 132]
+Fiscal 2025 2024 2023 Operating lease cost $ 729,727 $ 719,434 $ 868,082 Variable lease cost 229,094 220,953 213,078 Sublease income ( 16,122 ) ( 18,618 ) ( 17,061 ) Total $ 942,699 $ 921,769 $ 1,064,099
+[END TABLE 132]
+
+[TABLE 133]
+Fiscal 2025 2024 2023 Lease liability payments $ 744,694 $ 678,489 $ 768,797 Lease assets obtained in exchange for liabilities 419,965 590,892 434,179
+[END TABLE 133]
+
+[TABLE 134]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-24
+[END TABLE 134]
+
+[TABLE 135]
+Lease Payments Sublease Receipts 2026 $ 747,240 $ ( 2,242 ) 2027 636,671 ( 1,667 ) 2028 502,789 ( 1,495 ) 2029 362,627 ( 1,077 ) 2030 272,200 — Thereafter 949,789 — Total lease payments (receipts) $ 3,471,316 $ ( 6,481 ) Less interest ( 437,103 ) Total lease liabilities $ 3,034,213
+[END TABLE 135]
+
+[TABLE 136]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-25
+[END TABLE 136]
+
+[TABLE 137]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-26
+[END TABLE 137]
+
+[TABLE 138]
+August 31, 2025 August 31, 2024 Assets Cash Flow Hedges Other current assets $ 13,208 $ 51,152 Other non-current assets 5,506 28,363 Other Derivatives Other current assets 18,133 39,733 Total assets $ 36,847 $ 119,248 Liabilities Cash Flow Hedges Other accrued liabilities $ 128,285 $ 29,247 Other non-current liabilities 126,793 35,346 Other Derivatives Other accrued liabilities 26,311 25,974 Total liabilities $ 281,389 $ 90,567 Total fair value $ ( 244,542 ) $ 28,681 Total notional value $ 17,201,447 $ 14,824,483
+[END TABLE 138]
+
+[TABLE 139]
+August 31, 2025 August 31, 2024 Net derivative assets $ 767 $ 91,127 Net derivative liabilities 245,309 62,446 Total fair value $ ( 244,542 ) $ 28,681
+[END TABLE 139]
+
+[TABLE 140]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-27
+[END TABLE 140]
+
+[TABLE 141]
+August 31, 2025 August 31, 2024 Current portion of long-term debt and bank borrowings Commercial paper (1) $ 99,963 $ 931,507 Other (2) 14,521 14,722 Total current portion of long-term debt and bank borrowings $ 114,484 $ 946,229 Long-term debt Senior notes – 3.90 % due 2027 $ 1,100,000 $ — Senior notes – 4.05 % due 2029 1,200,000 — Senior notes – 4.25 % due 2031 1,200,000 — Senior notes – 4.50 % due 2034 1,500,000 — Total principal amount (3) $ 5,000,000 $ — Less: unamortized debt discount and issuance costs ( 32,774 ) — Total carrying amount $ 4,967,226 $ — Other (2) 66,943 78,628 Total long-term debt $ 5,034,169 $ 78,628
+[END TABLE 141]
+
+[TABLE 142]
+Fiscal Year Amount 2026 $ 100,000 2027 — 2028 1,100,000 2029 — 2030 1,200,000 Thereafter 2,700,000 Total $ 5,100,000
+[END TABLE 142]
+
+[TABLE 143]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-28
+[END TABLE 143]
+
+[TABLE 144]
+Credit Facilities Syndicated loan facility (1) $ 5,500,000 Separate, uncommitted, unsecured multicurrency revolving credit facilities (2) 2,029,480 Local guaranteed and non-guaranteed lines of credit (3) 292,539 Total $ 7,822,019
+[END TABLE 144]
+
+[TABLE 145]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-29
+[END TABLE 145]
+
+[TABLE 146]
+Fiscal 2025 2024 2023 Current taxes U.S. federal $ 238,115 $ 408,281 $ 422,435 U.S. state and local 88,612 173,024 220,043 Non-U.S. 1,753,918 1,792,809 1,762,277 Total current tax expense 2,080,645 2,374,114 2,404,755 Deferred taxes U.S. federal 53,095 ( 154,553 ) ( 334,942 ) U.S. state and local 33,112 ( 55,141 ) ( 63,098 ) Non-U.S. 271,141 115,706 129,087 Total deferred tax (benefit) expense 357,348 ( 93,988 ) ( 268,953 ) Total $ 2,437,993 $ 2,280,126 $ 2,135,802
+[END TABLE 146]
+
+[TABLE 147]
+Fiscal 2025 2024 2023 U.S. sources $ 1,071,581 $ 1,628,818 $ 1,562,011 Non-U.S. sources 9,198,812 8,070,505 7,577,321 Total $ 10,270,393 $ 9,699,323 $ 9,139,332
+[END TABLE 147]
+
+[TABLE 148]
+Fiscal 2025 2024 2023 (2) U.S. federal statutory income tax rate 21.0 % 21.0 % 21.0 % U.S. state and local taxes, net 0.7 0.9 1.1 Non-U.S. operations taxed at other rates — 1.0 1.4 Final determinations (1) ( 1.5 ) ( 1.2 ) ( 1.0 ) Other net activity in unrecognized tax benefits 3.0 2.7 3.2 Excess tax benefits from share based payments ( 0.6 ) ( 1.0 ) ( 1.3 ) Foreign-derived intangible income deduction ( 1.4 ) ( 1.5 ) ( 2.1 ) Other, net 2.5 1.6 1.1 Effective income tax rate 23.7 % 23.5 % 23.4 %
+[END TABLE 148]
+
+[TABLE 149]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-30
+[END TABLE 149]
+
+[TABLE 150]
+August 31, 2025 August 31, 2024 (1) Deferred tax assets Pensions $ 494,346 $ 542,749 Compensation and benefits 902,451 756,863 Share-based compensation 603,195 558,772 Tax credit carryforwards 1,544,834 1,481,510 Net operating loss carryforwards 266,770 287,818 Deferred amortization deductions 649,143 788,681 Indirect effects of unrecognized tax benefits 369,406 399,504 Licenses and other intangibles 651,160 866,606 Leases 725,001 771,755 Capitalized research costs 287,480 667,999 Other 1,185,022 858,875 Total deferred tax assets 7,678,808 7,981,132 Valuation allowance ( 1,689,015 ) ( 1,618,414 ) Deferred tax assets, net of valuation allowance 5,989,793 6,362,718 Deferred tax liabilities Pensions ( 156,872 ) ( 162,221 ) Investments in subsidiaries ( 226,901 ) ( 243,796 ) Intangibles ( 813,876 ) ( 826,078 ) Leases ( 635,331 ) ( 677,569 ) Revenue recognition ( 255,333 ) ( 99,317 ) Other ( 582,196 ) ( 635,086 ) Total deferred tax liabilities ( 2,670,509 ) ( 2,644,067 ) Net deferred tax assets $ 3,319,284 $ 3,718,651
+[END TABLE 150]
+
+[TABLE 151]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-31
+[END TABLE 151]
+
+[TABLE 152]
+Fiscal 2025 2024 Balance, beginning of year $ 1,904,867 $ 1,744,481 Additions for tax positions related to the current year 430,312 348,146 Additions for tax positions related to prior years 501,497 95,354 Reductions for tax positions related to prior years ( 314,740 ) ( 189,689 ) Statute of limitations expirations ( 99,001 ) ( 85,362 ) Settlements with tax authorities ( 12,396 ) ( 11,488 ) Cumulative translation adjustment ( 884 ) 3,425 Balance, end of year $ 2,409,655 $ 1,904,867
+[END TABLE 152]
+
+[TABLE 153]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-32
+[END TABLE 153]
+
+[TABLE 154]
+Pension Plans Postretirement Plans August 31, 2025 August 31, 2024 August 31, 2023 August 31, 2025 August 31, 2024 August 31, 2023 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans U.S. and Non-U.S. Plans U.S. and Non-U.S. Plans U.S. and Non-U.S. Plans Discount rate for determining projected benefit obligation 5.50 % 4.50 % 5.25 % 4.46 % 5.00 % 4.68 % 5.48 % 5.24 % 5.00 % Discount rate for determining net periodic pension expense 5.25 % 4.46 % 5.00 % 4.68 % 4.25 % 3.99 % 5.24 % 5.00 % 4.28 % Long term rate of return on plan assets 4.25 % 3.91 % 3.75 % 3.82 % 3.50 % 3.19 % 2.80 % 2.47 % 2.88 % Rate of increase in future compensation for determining projected benefit obligation 2.00 % 4.99 % 2.05 % 5.07 % 2.07 % 5.13 % N/A N/A N/A Rate of increase in future compensation for determining net periodic pension expense 2.05 % 5.07 % 2.07 % 5.13 % 2.07 % 5.30 % N/A N/A N/A Interest crediting rate for determining projected benefit obligation N/A 1.08 % N/A 1.10 % N/A 1.59 % N/A N/A N/A Interest crediting rate for determining net periodic pension expense N/A 1.10 % N/A 1.59 % N/A 1.37 % N/A N/A N/A
+[END TABLE 154]
+
+[TABLE 155]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-33
+[END TABLE 155]
+
+[TABLE 156]
+Pension Plans Postretirement Plans August 31, 2025 August 31, 2024 August 31, 2025 August 31, 2024 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans U.S. and Non-U.S. Plans U.S. and Non-U.S. Plans Reconciliation of benefit obligation Benefit obligation, beginning of year $ 304,342 $ 2,176,883 $ 311,871 $ 2,032,733 $ 595,971 $ 500,978 Service cost 861 151,485 1,379 143,673 25,319 21,628 Interest cost 14,564 93,986 15,209 89,795 30,171 24,992 Participant contributions — 19,894 — 20,524 — — Acquisitions/divestitures/transfers — 6,336 — 6,999 — — Amendments — — — 307 — — Actuarial (gain) loss ( 6,457 ) ( 10,852 ) ( 5,848 ) 31,528 ( 65,651 ) 70,382 Benefits paid ( 18,992 ) ( 111,277 ) ( 18,269 ) ( 102,054 ) ( 19,063 ) ( 21,183 ) Exchange rate impact — 54,145 — ( 46,622 ) 37 ( 826 ) Benefit obligation, end of year $ 294,318 $ 2,380,600 $ 304,342 $ 2,176,883 $ 566,784 $ 595,971 Reconciliation of fair value of plan assets Fair value of plan assets, beginning of year $ 220,926 $ 1,202,348 $ 216,596 $ 1,126,387 $ 29,140 $ 28,391 Actual return on plan assets 5,864 44,832 11,396 64,530 332 1,696 Acquisitions/divestitures/transfers — ( 2,915 ) — 5,142 — — Employer contributions 10,674 126,948 11,203 116,343 17,386 20,236 Participant contributions — 19,894 — 20,524 — — Benefits paid ( 18,992 ) ( 111,277 ) ( 18,269 ) ( 102,054 ) ( 19,063 ) ( 21,183 ) Exchange rate impact — 60,535 — ( 28,524 ) — — Fair value of plan assets, end of year $ 218,472 $ 1,340,365 $ 220,926 $ 1,202,348 $ 27,795 $ 29,140 Funded status, end of year $ ( 75,846 ) $ ( 1,040,235 ) $ ( 83,416 ) $ ( 974,535 ) $ ( 538,989 ) $ ( 566,831 ) Amounts recognized in the Consolidated Balance Sheets Non-current assets $ 10,455 $ 161,404 $ 12,098 $ 148,357 $ — $ — Current liabilities ( 10,855 ) ( 63,117 ) ( 11,389 ) ( 52,743 ) ( 1,058 ) ( 1,195 ) Non-current liabilities ( 75,446 ) ( 1,138,522 ) ( 84,125 ) ( 1,070,149 ) ( 537,931 ) ( 565,636 ) Funded status, end of year $ ( 75,846 ) $ ( 1,040,235 ) $ ( 83,416 ) $ ( 974,535 ) $ ( 538,989 ) $ ( 566,831 )
+[END TABLE 156]
+
+[TABLE 157]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-34
+[END TABLE 157]
+
+[TABLE 158]
+Pension Plans Postretirement Plans August 31, 2025 August 31, 2024 August 31, 2025 August 31, 2024 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans U.S. and Non-U.S. Plans U.S. and Non-U.S. Plans Net (gain) loss $ 64,419 $ 292,577 $ 72,948 $ 310,100 $ ( 87,367 ) $ ( 22,993 ) Prior service (credit) cost — ( 18,190 ) — ( 17,326 ) 3,163 4,143 Accumulated other comprehensive (gain) loss, pre-tax $ 64,419 $ 274,387 $ 72,948 $ 292,774 $ ( 84,204 ) $ ( 18,850 )
+[END TABLE 158]
+
+[TABLE 159]
+August 31, 2025 August 31, 2024 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans Accumulated benefit obligation $ 293,823 $ 2,089,774 $ 303,302 $ 1,894,477
+[END TABLE 159]
+
+[TABLE 160]
+Pension Plans Postretirement Plans August 31, 2025 August 31, 2024 August 31, 2025 August 31, 2024 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans U.S. and Non-U.S. Plans U.S. and Non-U.S. Plans Projected benefit obligation in excess of plan assets Projected benefit obligation $ 86,302 $ 1,531,376 $ 95,514 $ 1,426,931 $ 566,784 $ 595,971 Fair value of plan assets — 329,737 — 304,039 27,795 29,140
+[END TABLE 160]
+
+[TABLE 161]
+August 31, 2025 August 31, 2024 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans Accumulated benefit obligation in excess of plan assets Accumulated benefit obligation $ 86,302 $ 1,260,569 $ 95,514 $ 1,110,660 Fair value of plan assets — 320,087 — 241,608
+[END TABLE 161]
+
+[TABLE 162]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-35
+[END TABLE 162]
+
+[TABLE 163]
+2026 Target Allocation 2025 2024 U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans U.S. Plans Non-U.S. Plans Asset Category Equity securities — % 30 % — % 23 % — % 23 % Debt securities 100 37 96 44 94 42 Cash and short-term investments — 5 4 4 6 5 Insurance contracts — 20 — 19 — 21 Other — 8 — 10 — 9 Total 100 % 100 % 100 % 100 % 100 % 100 %
+[END TABLE 163]
+
+[TABLE 164]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-36
+[END TABLE 164]
+
+[TABLE 165]
+Non-U.S. Plans Level 1 Level 2 Level 3 Total Equity Mutual fund equity securities $ 29,567 $ 278,951 $ — $ 308,518 Fixed Income U.S. government, state and local debt securities — 5,823 — 5,823 Non-U.S. government debt securities 237,760 35,549 — 273,309 Non-U.S. corporate debt securities 15,250 — — 15,250 Mutual fund debt securities — 291,250 — 291,250 Cash and short-term investments 54,186 — — 54,186 Insurance contracts — 69,219 193,119 262,338 Other — 99,194 30,497 129,691 Total $ 336,763 $ 779,986 $ 223,616 $ 1,340,365
+[END TABLE 165]
+
+[TABLE 166]
+Level 3 Assets Fiscal 2025 Beginning balance $ 211,703 Changes in fair value 11,913 Ending Balance $ 223,616
+[END TABLE 166]
+
+[TABLE 167]
+Non-U.S. Plans Level 1 Level 2 Level 3 Total Equity Mutual fund equity securities $ 20,205 $ 253,494 $ — $ 273,699 Fixed Income U.S. government, state and local debt securities — 9,765 — 9,765 Non-U.S. government debt securities 208,550 18,821 — 227,371 Non-U.S. corporate debt securities 13,471 — — 13,471 Mutual fund debt securities — 253,025 — 253,025 Cash and short-term investments 63,383 — — 63,383 Insurance contracts — 65,083 184,884 249,967 Other — 84,848 26,819 111,667 Total $ 305,609 $ 685,036 $ 211,703 $ 1,202,348
+[END TABLE 167]
+
+[TABLE 168]
+Level 3 Assets Fiscal 2024 Beginning balance $ 207,910 Changes in fair value 3,793 Ending Balance $ 211,703
+[END TABLE 168]
+
+[TABLE 169]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-37
+[END TABLE 169]
+
+[TABLE 170]
+Pension Plans Postretirement Plans U.S. Plans Non-U.S. Plans U.S. and Non-U.S. Plans 2026 $ 20,491 $ 152,741 $ 14,917 2027 21,175 154,859 16,736 2028 22,024 170,569 18,794 2029 22,734 184,843 20,978 2030 23,197 198,392 23,244 2031-2035 115,611 1,066,986 154,411
+[END TABLE 170]
+
+[TABLE 171]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-38
+[END TABLE 171]
+
+[TABLE 172]
+Fiscal 2025 2024 2023 Total share-based compensation expense included in Net income $ 2,093,878 $ 1,941,590 $ 1,913,051 Income tax benefit related to share-based compensation included in Net income 581,521 572,904 585,767
+[END TABLE 172]
+
+[TABLE 173]
+Number of Restricted Share Units Weighted Average Grant-Date Fair Value Nonvested balance as of August 31, 2024 15,823,227 $ 311.06 Granted (1) 7,642,010 346.49 Vested (2) ( 6,119,669 ) 310.36 Forfeited ( 1,360,494 ) 345.82 Nonvested balance as of August 31, 2025 15,985,074 $ 325.33
+[END TABLE 173]
+
+[TABLE 174]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-39
+[END TABLE 174]
+
+[TABLE 175]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-40
+[END TABLE 175]
+
+[TABLE 176]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-41
+[END TABLE 176]
+
+[TABLE 177]
+Accenture plc Class A Ordinary Shares Accenture Canada Holdings Inc. Exchangeable Shares Shares Amount Shares Amount Open-market share purchases (1) 11,878,584 $ 3,838,976 — $ — Other share purchase programs — — 12,271 4,528 Other purchases (2) 2,203,778 775,993 — — Total 14,082,362 $ 4,614,969 12,271 $ 4,528
+[END TABLE 177]
+
+[TABLE 178]
+Dividend Per Share Accenture plc Class A Ordinary Shares Accenture Canada Holdings Inc. Exchangeable Shares Total Cash Outlay Dividend Payment Date Record Date Cash Outlay Record Date Cash Outlay November 15, 2024 $ 1.48 October 10, 2024 $ 924,675 October 9, 2024 $ 883 $ 925,558 February 14, 2025 1.48 January 16, 2025 928,114 January 15, 2025 878 928,992 May 15, 2025 1.48 April 10, 2025 923,028 April 9, 2025 866 923,894 August 15, 2025 1.48 July 10, 2025 920,860 July 9, 2025 865 921,725 Total Dividends $ 3,696,677 $ 3,492 $ 3,700,169
+[END TABLE 178]
+
+[TABLE 179]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-42
+[END TABLE 179]
+
+[TABLE 180]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-43
+[END TABLE 180]
+
+[TABLE 181]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-44
+[END TABLE 181]
+
+[TABLE 182]
+Fiscal 2025 (1) Americas EMEA Asia Pacific Total Revenues $ 35,056,715 $ 24,643,957 $ 9,972,305 $ 69,672,977 Less: Payroll costs 22,603,084 16,859,804 6,216,464 45,679,352 Non-payroll costs including subcontractor costs (2) 5,917,032 4,000,523 1,709,620 11,627,175 Depreciation and amortization (3) 791,791 560,657 173,014 1,525,462 Business optimization costs (4) 420,469 131,980 62,875 615,324 Operating income 5,324,339 3,090,993 1,810,332 10,225,664 Net assets as of August 31, 2025 (5) 5,679,520 3,556,536 239,237 9,475,293 Property & equipment, net as of August 31, 2025 575,647 517,547 473,180 1,566,374 Fiscal 2024 (1) Revenues $ 32,552,489 $ 22,817,879 $ 9,526,096 $ 64,896,464 Less: Payroll costs 21,139,496 15,537,443 5,905,191 42,582,130 Non-payroll costs including subcontractor costs (2) 5,494,547 3,706,158 1,640,468 10,841,173 Depreciation and amortization (3) 755,594 521,944 161,336 1,438,874 Business optimization costs (4) 83,201 248,724 106,515 438,440 Operating income 5,079,651 2,803,610 1,712,586 9,595,847 Net assets as of August 31, 2024 (5) 5,009,988 3,440,180 381,065 8,831,233 Property & equipment, net as of August 31, 2024 599,417 458,651 463,051 1,521,119 Fiscal 2023 (1) Revenues $ 32,193,134 $ 22,292,584 $ 9,626,027 $ 64,111,745 Less: Payroll costs 21,300,112 15,340,110 6,065,227 42,705,449 Non-payroll costs including subcontractor costs (2) 5,066,185 3,537,451 1,592,001 10,195,637 Depreciation and amortization (3) 685,414 493,447 158,763 1,337,624 Business optimization costs (4) 496,992 438,093 128,061 1,063,146 Operating income 4,644,431 2,483,483 1,681,975 8,809,889 Net assets as of August 31, 2023 (5) 4,459,978 2,811,231 353,837 7,625,046 Property & equipment, net as of August 31, 2023 617,941 458,736 453,330 1,530,007
+[END TABLE 182]
+
+[TABLE 183]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-45
+[END TABLE 183]
+
+[TABLE 184]
+August 31, 2025 August 31, 2024 August 31, 2023 United States 29 % 31 % 33 % India 14 16 15 Ireland 2 2 2
+[END TABLE 184]
+
+[TABLE 185]
+Fiscal 2025 2024 2023 Industry Groups Communications, Media & Technology $ 11,453,982 $ 10,837,174 $ 11,452,914 Financial Services 12,773,856 11,610,225 12,131,531 Health & Public Service 14,762,837 13,840,634 12,560,458 Products 21,197,397 19,554,154 19,103,892 Resources 9,484,905 9,054,277 8,862,950 Total $ 69,672,977 $ 64,896,464 $ 64,111,745 Type of Work Consulting $ 35,106,786 $ 33,195,104 $ 33,613,008 Managed Services 34,566,191 31,701,360 30,498,737 Total $ 69,672,977 $ 64,896,464 $ 64,111,745
+[END TABLE 185]
+
+[TABLE 186]
+Table of Contents Notes to Consolidated Financial Statements — (continued) (In thousands of U.S. dollars, except share and per share amounts or as otherwise disclosed) ACCENTURE 2025 FORM 10-K F-46
+[END TABLE 186]
+
+[TABLE 187]
+Fiscal 2025 First Quarter Second Quarter Third Quarter Fourth Quarter Annual Revenues $ 17,689,545 $ 16,659,301 $ 17,727,871 $ 17,596,260 $ 69,672,977 Cost of services 11,866,716 11,684,313 11,901,221 11,985,326 47,437,576 Operating income 2,948,477 2,244,714 2,982,782 2,049,691 10,225,664 Net income 2,316,190 1,822,441 2,243,963 1,449,806 7,832,400 Net income attributable to Accenture plc 2,278,894 1,788,075 2,197,501 1,413,963 7,678,433 Weighted average Class A ordinary shares: —Basic 625,676,922 626,824,946 624,343,707 622,635,814 624,891,649 —Diluted 634,656,410 634,211,978 630,457,461 629,418,129 632,435,108 Earnings per Class A ordinary share: —Basic $ 3.64 $ 2.85 $ 3.52 $ 2.27 $ 12.29 —Diluted $ 3.59 $ 2.82 $ 3.49 $ 2.25 $ 12.15
+[END TABLE 187]
+
+[TABLE 188]
+Fiscal 2024 First Quarter Second Quarter Third Quarter Fourth Quarter Annual Revenues $ 16,224,303 $ 15,799,514 $ 16,466,828 $ 16,405,819 $ 64,896,464 Cost of services 10,776,362 10,921,045 10,968,377 11,068,363 43,734,147 Operating income 2,564,887 2,046,427 2,630,865 2,353,668 9,595,847 Net income 2,009,981 1,709,202 1,981,348 1,718,666 7,419,197 Net income attributable to Accenture plc 1,973,444 1,674,859 1,932,183 1,684,301 7,264,787 Weighted average Class A ordinary shares: —Basic 627,996,111 629,016,555 628,353,267 626,122,298 627,852,613 —Diluted 637,398,361 636,797,814 635,607,597 633,883,494 635,940,044 Earnings per Class A ordinary share: —Basic $ 3.14 $ 2.66 $ 3.07 $ 2.69 $ 11.57 —Diluted $ 3.10 $ 2.63 $ 3.04 $ 2.66 $ 11.44
+[END TABLE 188]

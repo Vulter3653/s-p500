@@ -1,0 +1,507 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following commentary should be read in conjunction with the consolidated financial statements and accompanying notes included in Item 8 of this Annual Report on Form 10-K. The discussion and analysis of our financial condition as of December 31, 2024 and results of operations for the year ended December 31, 2024 compared to the year ended December 31, 2023, is included in Item 7. Management's Discussion and Analysis of
+
+Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the year ended December 31, 2024.
+
+EXECUTIVE OVERVIEW
+
+Description of the Company, Recent Strategic Actions and Business Segments
+
+Baxter International Inc. is a global medical technology with approximately 37,500 employees worldwide who are engaged in the development, manufacture and sale of a broad range of products, digital health solutions and therapies used by hospitals, nursing homes, rehabilitation centers, ambulatory surgery centers, doctors’ offices and patients at home under physician supervision. Our global footprint and the critical nature of our products and services, which are sold in over 100 countries as of December 31, 2025, play a key role in expanding access to healthcare in emerging and developed countries.
+
+Sale of Kidney Care Business
+
+On August 12, 2024, we entered into an Equity Purchase Agreement (EPA ) with certain affiliates of Carlyle Group Inc. (Carlyle) to sell our Kidney Care business. That business, which is now known as Vantive Health LLC (Vantive) is comprised of our former Kidney Care segment. On January 31, 2025, we completed the sale of our Kidney Care business to Carlyle for an aggregate purchase price of $3.80 billion in cash, subject to certain closing cash, working capital and debt adjustments. After giving effect to certain adjustments, we received approximately $3.71 billion pre-tax cash proceeds at closing of the transaction with the net after tax proceeds of approximately $3.3 billion, prior to giving effects to certain post-closing adjustments. As of December 31, 2025, we repaid $3.81 billion of legacy indebtedness in 2025 (which repayment does not include $2.00 billion of indebtedness repaid with proceeds from a new notes offering) primarily with the net after-tax cash proceeds from the sale of our Kidney Care business.
+
+The financial position, results of operations and cash flows of our Kidney Care business, including our gain from the sale of that business and the related cash proceeds received, are reported as discontinued operations in the accompanying consolidated financial statements, and our prior period results have been adjusted to reflect discontinued operations.
+
+We have incurred and expect to incur additional dis-synergies following our sale of our Kidney Care business due to the reduced size of our company and, as a result, we have begun to undertake certain restructuring actions (and intend undertake additional actions) to help ensure our cost structure is appropriate to support our remaining businesses.
+
+See Notes 2 and 5 in Item 8 of this Annual Report on Form 10-K for additional information.
+
+Implementation of New Operating Model
+
+In the third quarter of 2023, we completed the implementation of a new operating model intended to simplify and streamline our operations and better align our manufacturing and supply chain to our commercial activities. Under this operating model, our business is currently comprised of three reportable segments: Medical Products & Therapies, Healthcare Systems & Technologies, and Pharmaceuticals (each discussed below).
+
+For financial information about our segments, see Note 17 in Item 8 of this Annual Report on Form 10-K.
+
+Sale of BPS Business
+
+On September 29, 2023, we completed the sale of our BioPharma Solutions (BPS) business and received cash proceeds of $3.96 billion from that transaction. The results of operations and cash flows of our BPS business, including the $2.88 billion pre-tax gain ($2.59 billion net of tax) from the sale of that business and the related cash proceeds received, are reported as discontinued operations in the accompanying consolidated financial statements. We used substantially all of the after-tax proceeds from this transaction to repay certain of our debt obligations, including $514 million of commercial paper borrowings and $2.28 billion of long-term debt that we repaid during the fourth quarter of 2023, as well as €750 million of senior notes that we repaid during the second quarter of 2024.
+
+See Notes 2 and 5 in Item 8 of this Annual Report on Form 10-K for additional information.
+
+Financial Results
+
+Our global net sales totaled $11.24 billion in 2025, an increase of 6% over 2024 on a reported basis and 3% on an operational sales basis. International sales totaled $5.12 billion in 2025, an increase of 7% compared to 2024 on a reported basis and 5% on an operational sales basis. Sales in the United States totaled $6.12 billion in 2025, an increase of 5% compared to 2024 on a reported basis and 1% on an operational basis. Refer to the Net Sales discussion in the Results of Operations section below for more information related to changes in net sales on an operational sales basis.
+
+Net income (loss) attributable to Baxter stockholders totaled $(957) million, or $(1.87) per diluted share, in 2025. Net income (loss) attributable to Baxter stockholders in 2025 included special items which adversely impacted net income (loss) by $2.09 billion, or $4.08 per diluted share. See our special items subsection, in the Results of Operations section below, for information about special items for all periods present.
+
+Net income (loss) from continuing operations totaled $(900) million, or $(1.75) per diluted share, in 2025. Net income (loss) from continuing operations in 2025 included special items which adversely impacted our results by $2.07 billion, or $4.02 per diluted share.
+
+Our financial results included research and development (R&D) expenses totaling $518 million in 2025, which reflects our focus on balancing investments to support our new product pipeline with efforts to optimize overall R&D spending (including with respect to the maintenance of our portfolio).
+
+While we have faced and may continue to face operational and global macroeconomic challenges, our financial position remains strong, with operating cash flows from continuing operations totaling $951 million in 2025. We have continued to execute on our disciplined capital allocation framework, as discussed in the "Business Strategy" section in Item 1. Business of this Annual Report on Form 10-K, which is designed to optimize stockholder value creation in a manner and timing consistent with our previously stated commitment to achieve our net leverage targets.
+
+Capital expenditures totaled $513 million in 2025 as we continued to invest across our businesses to support future growth, including additional investments in support of new and existing product capacity expansions. Our investments in capital expenditures in 2025 were focused on projects that are structured to improve production efficiency, enhance our quality systems and optimize manufacturing capabilities to support our business growth.
+
+We also continued to return value to our stockholders. During 2025, we paid cash dividends to our stockholders totaling $348 million.
+
+FACTORS AFFECTING OUR RESULTS OF OPERATIONS
+
+Hurricane Helene
+
+In September 2024, Hurricane Helene, which brought significant rain and extensive flooding to Western North Carolina, caused damage to certain of our assets at our North Cove facility in Marion, N.C. and disrupted operations at that facility. The facility was fully operational by the end of the first quarter of 2025. In response to Hurricane Helene and the related supply disruption, certain customers have enacted fluid conservation practices embedded with clinical practice changes which have resulted in, and are currently expected to continue to result in, reduced demand in our intravenous (IV) solutions business and may impact other aspects of our business. See Note 1 in Item 8 of this Annual Report on Form 10-K for additional information.
+
+Novum IQ Large Volume Pump (Novum LVP)
+
+Beginning in April 2025, we initiated a voluntary correction for the Novum LVP due to the potential for under-infusion when the pump is in "standby mode" for an extended period of time. Beginning in July 2025, we initiated voluntary corrections for the Novum LVP due to the potential for under-infusion when the pump is directed to deliver a bolus infusion or significantly increase the rate of infusion after it has been running at a lower infusion rate and the potential for over- and under-infusion related to set misloading, as well as certain software anomalies. The U.S. Food and Drug Administration (FDA) classified these voluntary corrections as Class I recalls. We have implemented certain corrections related to the recalls and are developing additional corrections related to these recalls, some of which may require regulatory clearance or approval. In July 2025, we elected to temporarily stop distributing and
+
+installing the Novum LVP in the U.S. and Canada, except in the case of medical necessity. The timing of the release of the ship and installation hold remains uncertain. As a result, we expect no meaningful sales of Novum LVP while these holds are in effect. Our Spectrum IQ large volume pump remains available as an alternative option for customers with Novum LVPs. We have recorded estimates for sales reductions, for returns or exchanges of Novum LVP, and certain other charges, including estimates of reserves for remediation costs and inventory and contract asset write-downs associated with these Novum LVP corrections of approximately $105 million in the aggregate in 2025. We regularly review these estimates (including those associated with any additional future corrections and customer returns or exchanges) which may be subject to change in the future.
+
+Supply Constraints, Tariffs and Global Economic Conditions
+
+We have experienced challenges to our global supply chain, including, as a result of adverse impacts from significant weather events like Hurricane Helene, as well as adverse impacts as result of other global macroeconomic and geopolitical events, which have had a negative impact on our results of operations and may do so in the future. In addition, announcements regarding changes in U.S. trade policies and practices, including the implementation of global tariffs and proposed further tariffs (including potential medical device and pharmaceutical tariffs), have significantly affected financial markets and economic conditions. While we are in the process of implementing select tariff offsets and working to identify additional mitigation opportunities, our results have been adversely affected by these events and we expect for our results to continue to be negatively affected by tariffs. Additionally, continued global macroeconomic uncertainty, including in trade policies and practices, elevated tariffs and operational and policy changes in the governments of the U.S. and other countries and other geopolitical events or conflicts, could contribute to further market volatility, deteriorating or prolonged weakened economic conditions and decreased hospital capital spending levels, all of which could adversely affect our business, results of operations or financial condition. Sole source supplier relationships may limit our ability to respond to these tariffs with alternative or lower cost raw materials or component parts.
+
+Over the past few years, the existence of high inflation rates in the United States and in many of the countries where we conduct business has resulted in, and may in the future result in, higher interest rates, shipping costs, labor costs, and other costs and expenses. Additionally, adverse changes in foreign currency exchange rates have increased, and could continue to increase, our costs of sourcing certain raw materials in some jurisdictions. We have experienced and are likely in the future to experience inflationary and other increases in manufacturing costs and operating expenses (including as a result of the aforementioned tariffs) and are limited in our ability to pass these cost increases on to our customers in a timely manner or at all due to the longer term nature of our customer contracts and arrangements, which could have a material adverse impact on our profitability and results of operations. Inflation and general macroeconomic factors have caused certain of our customers to reduce or delay orders for our products and services and could cause them to do so in the future, which could have a material adverse impact on our sales and results of operations.
+
+As a medical products company, our operations and many of the products manufactured or sold by us are subject to extensive regulation by numerous government agencies, both within and outside the United States. These regulations (as described in Item 1, Government Regulation, of this Annual Report on Form 10-K) require that we obtain specific approval from FDA or the applicable non-U.S. regulatory authorities before we can market and sell most of our products in a particular country. Failure to obtain or maintain those approvals, clearances (including temporary importation authorizations), licenses or other marketing authorizations could have a material adverse impact on our business (including with respect to our ability to compete in the product markets in which we currently operate). Furthermore, FDA in the United States, the European Medicines Agency in the Europe Union, the Medicines & Healthcare products Regulatory Agency in the United Kingdom, Health Canada in Canada, the China Food and Drug Administration in China, and other government agencies, inside and outside of the United States, administer requirements covering the testing, safety, effectiveness, manufacturing, labeling, promotion and advertising, pricing, distribution, and post-market surveillance of our products. Our failure to comply with these requirements have subjected us to and may in the future subject us to various actions. These have included, or may in the future include, warning letters, product recalls or seizures, import restrictions, monetary sanctions, injunctions to halt the manufacture or distribution of products, civil or criminal sanctions, costly litigation, refusal of a government to grant licenses or other marketing authorizations, or restrictions on our operations or withdrawal of existing approvals and licenses, and may have a material adverse impact on our results of operations (including on our ability to launch new products and demand for those products). For more information on compliance actions taken by us, refer to the discussion under the caption entitled “Certain Regulatory Matters” herein.
+
+For further discussion, please refer to Item 1A. Risk Factors of this Annual Report on Form 10-K.
+
+NON-GAAP FINANCIAL MEASURES
+
+Our presentation of percentage changes in net sales at operational sales growth excludes the impact of the Kidney Care Manufacturing and Supply Agreement (Kidney Care MSA) sales not reflected in reportable segments, reflects the previously announced exit of IV solutions in China in our Infusion Therapies & Technologies division, in our Medical Products & Therapies reportable segment, and is calculated at constant currency rates. Constant currency rates are computed using current period local currency sales at the prior period's foreign exchange rates. Operational sales growth is a non-GAAP financial measure. The measure provides information about growth (or declines) in our net sales as if the Kidney Care MSA and the exit of IV solutions in China had no impact on our sales and foreign currency exchange rates had not changed between the prior period and the current period. We believe that the non-GAAP measure of percent change in net sales at operational growth, when used in conjunction with the U.S. GAAP measure of percent change in net sales at actual currency rates, may provide a more complete understanding and facilitate a fuller analysis of our results of operations, particularly in evaluating performance from one period to another.
+
+RESULTS OF OPERATIONS
+
+1 Emerging markets include sales from our operations in Eastern Europe, the Middle East, Africa, Latin America and Asia (except for Japan).
+
+2 Rest of world includes sales from our operations in Western Europe, Canada, Japan, Australia and New Zealand.
+
+3 Percent change in net sales at operational sales growth is a non-GAAP financial measure. See the section entitled “Non-GAAP Financial Measures” for additional information about our use of that measure.
+
+For the year ended December 31, 2025, the Kidney Care MSA sales favorably impacted sales growth by 3%. The previously announced exit of IV solutions in China and foreign currency rates were not meaningful.
+
+NET SALES BY SEGMENT
+
+Medical Products & Therapies
+
+1 Percent change in net sales at operational sales growth is a non-GAAP financial measure. See the section entitled “Non-GAAP Financial Measures” for additional information about our use of that measure.
+
+Medical Product & Therapies segment net sales increased 2% for the year ended December 31, 2025, as compared to the prior year period.
+
+Infusion Therapies & Technologies net sales were flat for the year ended December 31, 2025, as compared to the prior year period. Sales performance in 2025 was primarily driven by lower sales as a result of the ship and installation hold on Novum LVP and lower demand in our IV Solutions business in the U.S. as customers continued
+
+fluid conservation practices embedded with clinical practice changes. This decline was partially offset by one-time pricing benefits and price increases in certain products globally. The previously announced exit of IV solutions in China adversely impacted sales growth by 1% for the year ended December 31, 2025, as compared to the prior year period. As previously discussed in "Factors Affecting our Results of Operations", we elected to temporarily stop distributing and installing the Novum LVP in the U.S. and Canada, except in the case of medical necessity. The timing of the release of the ship and installation hold remains uncertain. As a result, we expect no meaningful sales of Novum LVP while these holds are in effect. Our Spectrum IQ large volume pump remains available as an alternative option for customers with Novum LVPs.
+
+Advanced Surgery net sales increased 9% for the year ended December 31, 2025, as compared to the prior year period, driven by growth in hemostats and sealants and was primarily attributable to increased sales volume globally. Foreign currency exchange rates favorably impacted net sales by 1% for the year ended December 31, 2025, as compared to the prior year period.
+
+Healthcare Systems & Technologies
+
+1 Percent change in net sales at operational sales growth is a non-GAAP financial measure. See the section entitled “Non-GAAP Financial Measures” for additional information about our use of that measure.
+
+Healthcare Systems & Technologies segment net sales increased 4% for the year ended December 31, 2025, as compared to the prior year period.
+
+Care and Connectivity Solutions net sales increased 5% for the year ended December 31, 2025, driven by increased volume associated with increased capital spending by customers in the U.S. for both patient support systems and surgical solutions product categories, as compared to the prior year periods, as well as higher installations of our care communications products. Foreign currency exchange rates favorably impacted net sales by 1% for the year ended December 31, 2025, as compared to the prior year period.
+
+Front Line Care net sales increased 2% for the year ended December 31, 2025, as compared to the prior year period, primarily driven by growth in our cardiology products partially offset by a strategic product exit within our respiratory health products business.
+
+Pharmaceuticals
+
+1 Percent change in net sales at operational sales growth is a non-GAAP financial measure. See the section entitled “Non-GAAP Financial Measures” for additional information about our use of that measure.
+
+Pharmaceuticals segment net sales increased 3% for the year ended December 31, 2025, as compared to the prior year period.
+
+Injectables and Anesthesia net sales decreased 2% for the year ended December 31, 2025, as compared to the prior year period, primarily driven by pricing competition and lower demand in specialty injectables, partially offset by growth in inhaled anesthesia in certain international markets.
+
+Drug Compounding net sales increased 10% for the year ended December 31, 2025, as compared to the prior year period, driven by improved product mix and increased demand for our international pharmacy compounding offerings. Foreign currency exchange rates favorably impacted net sales by 1% for the year ended December 31, 2025, as compared to the prior year period.
+
+Other
+
+During the years ended December 31, 2025 and 2024, we earned $381 million and $67 million, respectively, of revenues that were not attributable to our reportable segments. In the current year period, Other sales primarily represent revenue recognized under the Kidney Care MSA, entered into upon the sale of our Kidney Care business in January 2025, and to a lesser extent, revenues earned by certain of our manufacturing facilities from contract manufacturing activities. In the prior year period, Other sales primarily represented revenues earned by certain of our manufacturing facilities from contract manufacturing activities.
+
+Special Items
+
+Management believes that providing the separate impact of the following items on our results in accordance with U.S. GAAP may provide a more complete understanding of our operations and can facilitate a fuller analysis of our results of operations, particularly in evaluating performance from one period to another. The adjustment of U.S. GAAP measures to remove the impact of special items is a non-GAAP presentation. Intangible asset amortization expense is identified as a special item to facilitate an evaluation of current and past operating performance and is consistent with how management and our Board of Directors assess performance. Additional special items are identified because they are highly variable, difficult to predict and of a size that may substantially impact our reported results of operations for the period.
+
+1 Our results in 2025 included an indefinite-lived asset impairment charge of $290 million to reduce the carrying amount of a trade name asset to its fair value. Our results in 2024 included an indefinite-lived asset impairment charge of $50 million to reduce the carrying amount of an IPR&D asset to its fair value. Refer to Note 4 in Item 8 of this Annual Report on Form 10-K for further information regarding the impairments.
+
+2 Our results in 2025 and 2024 included business optimization charges of $178 million and $162 million, respectively. In 2025, these restructuring and business optimization costs primarily related to our initiative to reduce our cost structure following the sale of our former Kidney Care segment and the exit of a product line at one our manufacturing facilities. In 2024, these restructuring and other business optimization costs included costs primarily related to initiatives to reduce our cost structure following the sale of our former Kidney Care segment, initiatives within our Healthcare Systems & Technologies segment including the discontinuance of a product line and rationalization of certain other manufacturing and distribution facilities. Refer to Note 11 in Item 8 of this Annual Report on Form 10-K for further information regarding these charges and related liabilities.
+
+3 Our results in 2025 included charges $113 million primarily related to inventory and contract asset write-downs and estimates of warranty and remediation activities from field corrective actions across our infusion pump category. Our results in 2024 included charges of $15 million, comprised of (i) $12 million related to warranty and remediation activities arising from field corrective actions on Healthcare Systems & Technologies products and (ii) $3 million related to a revised estimate of warranty and remediation activities arising from a field corrective action on certain of our infusion pumps initially recorded in 2022.
+
+4 Our results in 2025 and 2024 included $32 million and $23 million, respectively, of integration costs which primarily reflected third-party consulting costs related to our ongoing integration of Hill-Rom Holdings Inc. (Hillrom). Our results in 2025 also included the recognition of a noncash impairment of property, plant and equipment related to integration activities.
+
+5 Our results in 2025 and 2024 included $21 million and $33 million, respectively, of incremental costs to comply with the European Union's medical device regulations for previously registered products, which primarily consist of contractor costs and other direct third-party costs. We consider the adoption of these regulations to be a significant one-time regulatory charge and believe that the costs of initial compliance for previously registered products over the implementation period are not indicative of our core operating results.
+
+6 Our results in 2025 included $58 million of separation-related costs primarily reflecting costs of external advisors supporting our activities related to the sale of our former Kidney Care segment.
+
+7 Our results in 2025 included pre-tax charges of $133 million related to damages caused by Hurricane Helene. This amount consisted of remediation, air freight and other costs. Our results in 2024 included pre-tax net charges of $110 million related damages caused by Hurricane Helene. This amount consisted of $44 million related to the write-off of damaged inventory and fixed assets, as well as $317 million of remediation, idle facility, air freight and other costs, partially offset by $251 million of insurance recoveries. Refer to Note 1 in Item 8 of this Annual Report on Form 10-K for further information.
+
+8 Our results in 2025 included charges of $11 million related to matters involving alleged injury from environmental exposure. Our results in 2024 included charges of $17 million related to environmental reserves for remediation actions associated with historic operations at certain of our facilities.
+
+9 Our results in 2025 and 2024 included a goodwill impairment charge of $485 million and $425 million, respectively, related to the Front Line Care reporting unit within our Health Care Systems & Technologies segment. Refer to Note 4 in Item 8 of this Annual Report on Form 10-K for further information regarding these goodwill impairments.
+
+10 Our results in 2025 included a gain of $16 million related to the sale of a long-lived asset.
+
+11 Our results in 2025 included $9 million of losses from a noncash impairment write-down in an equity method investment.
+
+12 Our results in 2025 included a gain of $16 million on the early extinguishment of debt. Refer to Note 5 in Item 8 of this Annual Report on Form 10-K for further information on the debt repayments.
+
+13 Our results in 2025 included $513 million of income tax expense primarily related to an increase in reserves for uncertain tax positions, increases to our valuation allowances related to the realizability of our deferred tax assets and a step-up in Swiss Valuation allowances, partially offset by a tax benefit from an internal reorganization which resulted in a capital loss. Our results in 2024 included a $80 million net income tax expense consisting of a $28 million valuation allowance recorded to reduce the carrying amount of tax attribute carryforwards in the U.S., $22 million of net income tax costs on internal reorganization transactions related to the sale of our former Kidney Care segment, a $17 million income tax expense related to legislative changes under Internal Revenue Code of 1986 (IRC) Section 987 (which is the exchange gain or loss on foreign branch remittances in the U.S., effective in 2024), and a $13 million net revaluation of the Swiss basis step-up deferred tax asset and related valuation allowance that arose from Swiss tax reform legislation in 2019 that was partially offset by a decrease in such valuation allowance to reflect our current estimate of recoverability of the basis step-up deferred tax asset.
+
+14 This item reflects the income tax impact of the special items identified in this table. The tax effect of each special item is based on the jurisdiction in which the item was incurred and the tax laws in effect for each such jurisdiction.
+
+COSTS AND EXPENSES
+
+Gross Margin and Expense Ratios
+
+Gross Margin
+
+The gross margin ratio was 30.1% and 37.5% for the years ended 2025 and 2024, respectively. The special items identified earlier in this section had an unfavorable impact on gross margin ratio of 9.2 and 6.0 percentage points in 2025 and 2024, respectively. Refer to the Special Items caption earlier in this section for additional detail.
+
+Excluding the impact of special items, the gross margin ratio decreased by 4.2 percentage points in 2025 compared to 2024. The decrease in 2025 was primarily driven by the impact of the Kidney Care MSA, product mix, an updated estimate of indirect costs previously recorded in SG&A now capitalized into inventory after the separation of our Kidney Care business, unfavorable manufacturing variances driven by tariffs and certain inventory adjustments, partially offset by improved pricing and initiatives to reduce our manufacturing and supply chain costs.
+
+SG&A
+
+The SG&A expense ratio was 25.7% and 27.9% for the years ended 2025 and 2024, respectively. The special items identified earlier in this section had an unfavorable impact on the SG&A expense ratio of 3.4 and 2.9 percentage points in 2025 and 2024, respectively. Refer to the Special Items caption earlier in this section for additional detail.
+
+Excluding the impact of special items, the SG&A expense ratio decreased 2.7 percentage points in 2025 compared to 2024. The decrease in 2025 primarily reflects an updated estimate of indirect costs previously recorded in SG&A now capitalized into inventory after the separation of our Kidney Care business.
+
+R&D
+
+The R&D expense ratio was 4.6% and 5.5% for the years ended 2025 and 2024, respectively. The special items identified earlier in this section had an unfavorable impact on the R&D expense ratio of 0.1 and 0.7 percentage points in 2025 and 2024, respectively. Refer to the Special Items caption earlier in this section for additional detail.
+
+Excluding the impact of special items, the R&D expense ratio decreased 0.3 percentage points in 2025 compared to 2024. The decrease in 2025 was primarily driven by a one-time benefit related to the release of a contingent milestone liability.
+
+Business Optimization Items
+
+In recent years, we have undertaken actions to transform our cost structure and enhance operational efficiency. These efforts, which are ongoing as we work to continue to optimize our operating model and manufacturing footprint, have included restructuring the organization into verticalized segments, optimizing our manufacturing footprint, R&D operations and supply chain network, employing disciplined cost management and centralizing and streamlining certain support functions. The costs of these actions consisted primarily of employee termination costs, implementation costs, contract termination costs, and asset impairments.
+
+We incurred charges of $178 million and $162 million in 2025 and 2024, respectively. In 2025, $100 million of the restructuring charges, consisting of employee termination costs, were related to initiatives to reduce our cost structure following the sale of our Kidney Care segment, In addition $28 million of the restructuring charges consisting of $14 million of asset impairment charges, $9 million of contract termination and other costs, and $5 million of employee termination costs, were related to the exit of a product line at one of our manufacturing facilities. In 2024, $45 million of the restructuring charges, consisting of employee termination costs, were related to initiatives to reduce our cost structure following the sale of our Kidney Care segment. In addition, $46 million of the restructuring charges were related to business optimization initiatives within our Healthcare Systems & Technologies segment. These charges included $21 million of long-lived asset impairment charges, $9 million of other asset write-downs related to inventory and $2 million of employee termination costs related to our decision to discontinue a product line. Additionally, these charges included $14 million of employee termination costs related to other business optimization initiatives within this segment.
+
+We currently expect to incur additional pre-tax cash costs, primarily related to the implementation of business optimization programs, of approximately $2 million through the completion of initiatives that were launched prior to December 31, 2025. We continue to pursue cost savings initiatives, including those intended to mitigate a portion of the dis-synergies that arose as a result of the sale of our Kidney Care business and to further optimize our business and manufacturing footprint, and to the extent further cost savings opportunities are identified, we would incur additional restructuring charges and costs to implement business optimization programs in future periods. Refer to Note 11 in Item 8 of this Annual Report on Form 10-K for additional information regarding our business optimization programs.
+
+Goodwill Impairments
+
+We assess goodwill and indefinite-lived intangible assets for impairment annually during the fourth quarter or whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. We recognize a goodwill impairment charge for the amount by which a reporting unit's carrying amount exceeds its fair value.
+
+In connection with our annual goodwill impairment assessment in the fourth quarters of 2025 and 2024, we recorded goodwill impairment charges of $485 million and $425 million, respectively related to our Front Line Care reporting unit within our Healthcare Systems & Technologies segment. Refer to the "Critical Accounting Policies" section below and Note 4 in Item 8 of this Annual Report on Form 10-K for additional information regarding these goodwill impairments.
+
+Further adverse changes to macroeconomic conditions or our earnings forecasts could lead to additional goodwill impairment charges in future periods and such charges could be material to our results of operations. For further discussion, refer to Item 1A. Risk Factors of this Annual Report on Form 10-K.
+
+Other Operating Expense (Income), Net
+
+Other operating expense (income), net was income of $206 million and $12 million in 2025 and 2024, respectively. In 2025, this amount was primarily related to the income recognized under the Kidney Care Transition Services Agreement (Kidney Care TSA) entered into upon the sale of the Kidney Care business in January 2025. In 2024, this amount was comprised of income from transition services arrangements related to the divestiture of our BPS business.
+
+Interest Expense, Net
+
+Interest expense, net was $238 million and $341 million in 2025 and 2024, respectively. The decrease in 2025 was driven by debt repayments during the year.
+
+Other (Income) Expense, Net
+
+Other (income) expense, net was income of $41 million and $38 million in 2025 and 2024, respectively. The net income in 2025 was primarily driven by pension and other postretirement benefits and a gain on early extinguishment of debt, partially offset by foreign exchange losses. The net income in 2024 was primarily driven by pension and other postretirement benefits, partially offset by foreign exchange losses.
+
+Income Taxes
+
+Our effective income tax rate was (78.2)% and (12.8)% in 2025 and 2024, respectively. The special items identified above impacted our effective tax rate by (94.3) and (30.3) percentage points in 2025 and 2024, respectively. Refer to the Special Items caption earlier in this section for additional detail. Our effective income tax rate can differ from the 21% U.S. federal statutory rate due to a number of factors, including foreign rate differences, tax incentives, non-deductible expenses, non-taxable income, increases or decreases in valuation allowances, increase or decreases in liabilities for uncertain tax positions, and excess tax benefits or shortfalls on stock compensation awards.
+
+For the year ended December 31, 2025, the difference between our effective income tax rate and the U.S. federal statutory rate was primarily driven by an increase in liabilities for uncertain tax positions (as discussed below), increases to our valuation allowances relate to the realizability of our deferred tax assets, changes in the treatment of accumulated earnings that are considered indefinitely reinvested as of December 31, 2025 and a tax benefit driven by an entity classification election that we made for U.S. tax purposes, which resulted in a capital loss.
+
+For the year ended December 31, 2024, the difference between our effective income tax rate and the U.S. federal statutory rate was adversely impacted by a non-deductible impairment of goodwill, legislative changes under IRC Section 987 (which is the exchange gain or loss on foreign branch remittances in the U.S., effective in 2024), and a net revaluation of the Swiss basis step-up deferred tax asset and related valuation allowance that arose from Swiss tax reform legislation in 2019, partially offset by a favorable geographic earnings mix, a decrease in valuation allowance mainly related to U.S. foreign tax credit carryforward, and a tax benefit related to research and development tax credits.
+
+Our tax provisions for 2025 and 2024 did not include any significant tax charges related to either the Base Erosion and Anti-Abuse Tax (BEAT) or Global Intangible Low Taxed Income (GILTI) provisions, except for the inability to fully utilize foreign tax credits against such GILTI. Our accounting policy is to recognize any GILTI charge as a period cost.
+
+We are currently under examination by the Internal Revenue Service (IRS) for transfer pricing matters related to transactions with our manufacturing operations in Costa Rica and Puerto Rico for the 2019 and 2020 tax years. While we have not yet received a final Notice of Proposed Adjustment (NOPA) from the IRS, the examination is ongoing, and we are in the process of responding to inquiries from, and engaging in ongoing discussions with, the IRS related to certain intercompany transactions between our U.S. entities and these foreign manufacturers. As a result, we have recorded reserves for uncertain tax positions related to these transfer pricing matters for tax years 2019 through 2025. These reserves in aggregate are recorded to expense for approximately $280 million as of December 31, 2025, exclusive of any potential penalties and interest. While we believe that our transfer pricing positions are well documented and properly supported, and adequate amounts have been reserved to account for any adjustments that may ultimately result from this examination, the ultimate outcome of this matter is uncertain (upon the receipt of a final NOPA or otherwise). Additionally, if the IRS were to assert we owe additional taxes and prevails in this assertion, such outcome could have a material impact on our financial position, results of operations, and cash flows.
+
+During 2025, because of a cumulative history of operating losses in the U.S., we recorded a valuation allowance against our U.S. deferred tax assets, including certain federal and state tax attributes such as foreign tax credits. Although, we expect to remain in a U.S. valuation allowance position for at least the next twelve months, we also anticipate future changes in the amount of the valuation, which could be material, due to operational activity and movement in our routine deferred tax assets and liabilities.
+
+The Organization of Economic Co-operation and Development (OECD) reached agreement among over 140 countries to implement a minimum 15% tax rate on certain multinational enterprises, commonly referred to as Pillar Two. The impact of the Pillar Two legislation on our income tax expense for the years ended December 31, 2025 and 2024 was not material. We will continue to evaluate the impact of legislative changes as additional guidance becomes available.
+
+On July 4, 2025, the United States enacted the One Big Beautiful Bill Act (OBBBA), which includes significant tax provisions, including extensions of key provisions from the 2017 Tax Cuts and Jobs Act and modifications to the U.S. international tax framework. The legislation has multiple effective dates, with certain provisions effective in 2025 and others to be implemented through 2027. The impact of the OBBBA legislation on our income tax expense for the year ending December 31, 2025 was not material. We will continue to monitor regulatory guidance and interpretations as they are issued.
+
+Discontinued Operations
+
+On January 31, 2025, we completed the sale of our Kidney Care Business and its results have been presented as discontinued operations for the years ended December 31, 2025, 2024 and 2023 in the consolidated financial statements included in Item 8 of this Annual Report on Form 10-K. On September 29, 2023, we completed the sale of our BPS business and its results have been presented as discontinued operations for the year ended December 31, 2023 in the consolidated financial statements included in Item 8 of this Annual Report on Form 10-K.
+
+Income (loss) from discontinued operations, net of tax, was $(57) million and $(312) million in 2025 and 2024, respectively. The increase in the current year period was primarily driven by the $97 million pre-tax gain from the sale of our Kidney Care business ($37 million net of tax)] and the $430 million goodwill impairment recognized in the prior year related to the Chronic Therapies reporting unit within our former Kidney Care segment. Refer to Note 2 in Item 8 of this Annual Report on Form 10-K for additional information.
+
+Net Income (Loss) and Earnings (Loss) per Diluted Share
+
+Net income (loss) for the total company, including discontinued operations, was $(957) million in 2025 and $(638) million in 2024. Diluted earnings (loss) per share for the total company, including discontinued operations, was $(1.87) per share in 2025 and $(1.27) per share in 2024. The significant factors and events causing the net changes from 2024 to 2025 are discussed above.
+
+SEGMENT OPERATING INCOME (LOSS)
+
+The following is a summary of operating income (loss) for our reportable segments.
+
+Medical Products & Therapies
+
+Segment operating income was $970 million and $950 million for the years ended 2025 and 2024, respectively. Segment operating income increased in 2025 compared to the prior year primarily due to increased pricing, partially offset by lower sales volume, increased manufacturing and supply costs, and higher costs due to tariffs.
+
+Healthcare Systems & Technologies
+
+Segment operating income was $441 million and $468 million for the years ended 2025 and 2024, respectively. Segment operating income decreased in 2025 primarily due to the impact of a higher allocation of corporate costs following the sale of our Kidney Care segment, higher costs related to tariffs, and higher accruals under our annual employee incentive compensation plans, partially offset by increased gross profit from higher sales and margin improvement projects.
+
+Pharmaceuticals
+
+Segment operating income was $222 million and $313 million for the years ended 2025 and 2024, respectively. The decrease in segment operating income in 2025 was primarily due to higher allocation of corporate costs following the sale of our Kidney Care segment, pricing competition, unfavorable product mix and increased manufacturing and supply costs, partially offset by lower accruals under our annual employee incentive compensation plans.
+
+Other
+
+Other operating income, which represents operating income not attributable to our reportable segments, was $43 million and $18 million for the years ended December 31, 2025 and 2024, respectively. In the current year period, other operating income primarily represents income from revenues earned under the Kidney Care MSA. In the prior year period, other operating income primarily represents income from revenues earned by certain of our manufacturing facilities from contract manufacturing activities. The increase in the current year period reflects the revenues earned under the Kidney Care MSA following the close of the sale of the Kidney Care business on January 31, 2025.
+
+Unallocated Corporate Costs
+
+Under our operating model, most global functional support costs, overhead costs and other shared costs that benefit our segments are allocated to those segments. Corporate costs that are not allocated to our segments, as well as any differences between actual corporate costs and the amounts allocated to our segments, are presented as unallocated corporate costs. Additionally, intangible asset amortization and other special items are not allocated to our segments. Certain of the costs that were previously maintained at corporate under our prior segment structure that are now allocated to our segments include manufacturing variances and centrally managed supply chain costs, certain R&D costs, product category support costs, stock compensation expense, and certain employee benefit plan costs.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash Flows from Operations — Continuing Operations
+
+In 2025 and 2024, cash provided by operating activities from continuing operations was $951 million and $819 million, respectively.
+
+Operating cash flows from continuing operations in the current year were favorably impacted as compared to 2024 due to improved profitability, after consideration of non-cash impairment charges, and improved working capital primarily due to collections of value added tax receivables.
+
+Cash Flows from Investing Activities - Continuing Operations
+
+In 2025, cash used in investing activities from continuing operations included capital expenditures of $513 million. In 2024, cash used in investing activities from continuing operations included capital expenditures of $446 million.
+
+Cash Flows from Financing Activities
+
+In 2025, cash used in financing activities included debt repayments of $5.49 billion, dividend payments of $348 million, a decrease in commercial paper borrowings of $300 million and payments of a contingent liability to Vantive of $50 million, partially offset by proceeds from the issuance of debt of $2.00 billion and from stock issued under employee benefit plans of $30 million.
+
+In 2024, cash used in financing activities included debt repayments of $2.66 billion, dividend payments of $590 million, partially offset by proceeds from borrowings on our delayed draw term loan of $1.83 billion, an increase in commercial paper borrowings of $296 million, and proceeds from stock issued under employee benefit plans of $71 million.
+
+As authorized by the Board of Directors, we repurchase our stock depending upon our cash flows, net debt levels and market conditions. In July 2012, our Board of Directors authorized a share repurchase program and the related authorization was subsequently increased a number of times. We did not repurchase any shares under this authority in 2024 and had $1.30 billion remaining available under this authorization as of December 31, 2025.
+
+Credit Facilities, Commercial Paper Program and Access to Capital and Credit Ratings
+
+Credit Facilities and Commercial Paper Program
+
+As of December 31, 2025, we had a multicurrency revolving credit facility, as described below.
+
+On June 11 2025, we entered into an amended and restated U.S. term loan credit facility (the Term Loan Facility), which amends and restates in its entirety our existing term loan credit facility. In February 2025, we repaid $1.00 billion under our previously existing five-year term loan facility maturing in 2026. In December 2025, we repaid the remaining $645 million outstanding under the Term Loan, at which time it was terminated.
+
+On June 11, 2025, we entered into an amended and restated revolving credit facility (the Multicurrency Revolver), which amended and restated in its entirety our existing U.S. Dollar-denominated revolving credit facility and replaced our prior Euro-denominated revolving credit facility. Our Multicurrency Revolver has a maximum capacity of $2.20 billion and matures in 2030. Borrowings under the Multicurrency Revolver in U.S. dollars bear interest on the principal amount outstanding at either Term SOFR plus an applicable margin or a “base rate” plus an applicable margin. The Multicurrency Revolver contains various covenants, including a maximum net leverage ratio (which ratio was most recently increased for the four fiscal quarters ending December 31, 2025, March 31, 2026, June 30, 2026, and September 30, 2026 pursuant to a November 2025 amendment). Borrowings in Euros are subject to a sublimit of $300 million. We may, at our option, seek to increase the aggregate commitment under the Multicurrency Revolver by up to $1.10 billion, which would result in a maximum aggregate commitment of up to $3.30 billion. There were no borrowings outstanding under the Multicurrency Revolver as of December 31, 2025 or 2024.
+
+On July 17, 2024, we entered into a credit agreement pursuant to which a group of banks committed to provide us with senior unsecured term loans in an aggregate principal amount of up to $2.05 billion ("bridge facility"). Borrowings under the bridge facility were available in up to three drawings to fund (a) the refinancing of our 1.322% Senior Notes due November 29, 2024, our Floating Rate Notes due November 29, 2024, and certain borrowings under our existing term loan facility and (b) payment of certain U.S. tax liabilities arising from internal reorganization transactions related to the sale of our Kidney Care business. Borrowings under the bridge facility bore interest at a rate based on our long-term debt ratings in effect from time to time. The banks' funding commitments under the bridge facility terminated on December 31, 2024. In January 2025, we used a portion of the approximately $3.3 billion of net after-tax cash proceeds from the sale of our Kidney Care business to repay the $1.83 billion outstanding under the bridge facility, at which time it was terminated.
+
+As of December 31, 2025, we were in compliance with the financial covenants in the Multicurrency Revolver. Based on our covenant calculations as of December 31, 2025, we had capacity to draw approximately $1.79 billion thereunder. The non-performance of any financial institution supporting the Multicurrency Revolver would reduce the maximum capacity thereunder by such institution’s respective commitment. Additionally, a deterioration in our financial performance may reduce our ability to draw on such facility.
+
+We have a commercial paper program that currently enables us to borrow efficiently at short-term interest rates. Upon maturity of any commercial paper borrowings under this program, and to the extent old issuances are not repaid by cash on hand, we are exposed to the rollover risk of not being able to issue new commercial paper. Our commercial paper borrowing arrangements require us to maintain undrawn borrowing capacity under the Multicurrency Revolver for an amount at least equal to our outstanding commercial paper borrowings. If we were not able to issue new commercial paper, we have the option of drawing on the Multicurrency Revolver; however, electing to do so would result in higher interest expense. We have no commercial paper borrowings outstanding as of December 31, 2025. As of December 31, 2024, we had $300 million of commercial paper outstanding, which was repaid in full in the first quarter of 2025.
+
+We also maintain other credit arrangements, as described in Note 5 in Item 8 of this Annual Report on Form 10-K.
+
+Access to Capital and Credit Ratings
+
+We intend to fund short-term and long-term obligations as they mature through cash on hand, future cash flows from operations, or by issuing additional debt, which could include commercial paper. We had $1.97 billion of cash and cash equivalents as of December 31, 2025, with adequate cash available to meet operating requirements in each jurisdiction in which we operate. We invest our excess cash in money market and other funds and diversify the concentration of cash among different financial institutions. As of December 31, 2025, we had $9.48 billion of long-term debt and finance lease obligations, including current maturities, and short-term debt. During the year ended December 31, 2025, we repaid $3.81 billion of short-and long-term indebtedness, primarily with the net after-tax
+
+cash proceeds from the sale of our Kidney Care business and an additional $2.00 billion of short-and long-term debt using the proceeds from the senior notes issued in the fourth quarter of 2025. Subject to market conditions, we regularly evaluate opportunities with respect to our capital structure (including with respect to the potential refinancing of our outstanding indebtedness).
+
+Our ability to generate cash flows from operations, issue debt, including commercial paper, or enter into other financing arrangements on acceptable terms could be adversely affected if there is a material decline in the demand for our products or in the solvency of our customers or suppliers, deterioration in our credit ratings (as discussed below), or other significantly unfavorable changes in conditions (including if our key financial ratios do not show sustained improvement). However, we believe we have sufficient financial flexibility to issue additional debt, enter into other financing arrangements and attract long-term capital on acceptable terms to support our growth objectives and reduce our debt levels as we take actions consistent with our capital allocation priorities.
+
+During the fourth quarter of 2025, Standard & Poor's revised our senior debt credit rating from BBB to BBB-, our short-term debt credit rating from A2 to A3 and our outlook from Negative to Stable. Additionally, Moody's Ratings revised our senior debt credit rating from Baa2 to Baa3, our short-term debt rating from P2 to P3 and our outlook from Negative to Stable.
+
+Contractual Obligations
+
+As of December 31, 2025, we had contractual obligations, excluding accounts payable and accrued expenses and other current liabilities, payable or maturing in the following periods.
+
+1. Interest payments on debt and finance lease obligations are calculated for future periods using interest rates in effect at the end of 2025. Certain of these projected interest payments may differ in the future based on foreign currency fluctuations or other factors or events. The projected interest payments only pertain to obligations and agreements outstanding at December 31, 2025. Refer to Note 5 and Note 6, respectively, in Item 8 of this Annual Report on Form 10-K for further discussion regarding our debt instruments outstanding and finance lease obligations at December 31, 2025.
+
+2. The primary components of other non-current liabilities in our consolidated balance sheet as of December 31, 2025 are pension and other postretirement benefits, deferred tax liabilities, long-term tax liabilities, and litigation and environmental reserves. We projected the timing of the related future cash payments based on contractual maturity dates (where applicable) and estimates of the timing of payments (for liabilities with no contractual maturity dates). The actual timing of payments could differ from our estimates.
+
+We contributed $56 million and $46 million to our defined benefit pension plans in 2025 and 2024, respectively. The timing of funding in future periods is uncertain and is dependent on future movements in interest rates, investment returns, changes in laws and regulations, and other variables. Therefore, the table above excludes cash outflows related to our pension plans. The amount included within other non-current liabilities (and excluded from the table above) related to our pension plan liabilities was $513 million as of December 31, 2025. We have no obligation to fund our principal plans in the United States in 2026. We
+
+continually reassess the amount and timing of any discretionary contributions. In 2026, we expect to make contributions of at least $10 million to our Puerto Rico plan and $5 million to our foreign pension plans. We expect to have net cash outflows relating to our OPEB plans of $15 million in 2026. Additionally, we have excluded long-term tax liabilities, which include liabilities for unrecognized tax positions, and deferred tax liabilities from the table above because we are unable to estimate the timing of the related cash outflows. The amounts of long-term tax liabilities and deferred tax liabilities included within other non-current liabilities (and excluded from the table above) were $146 million and $245 million, respectively, as of December 31, 2025.
+
+We enter into certain unconditional purchase obligations and other commitments in the normal course of business. There have been no changes to these commitments that would have a material impact on our ability to meet either short-term or long-term future cash requirements.
+
+Off-Balance Sheet Arrangements
+
+We periodically enter into off-balance sheet arrangements. Certain contingencies arise in the normal course of business and are not recorded in the consolidated balance sheets in accordance with U.S. GAAP (such as contingent joint development and commercialization arrangement payments). Also, upon resolution of uncertainties, we may incur charges in excess of presently established liabilities for certain matters (such as contractual indemnifications). For a discussion of our significant off-balance sheet arrangements, refer to Note 7 in Item 8 of this Annual Report on Form 10-K for information regarding joint development and commercialization arrangements, indemnifications and legal contingencies.
+
+FINANCIAL INSTRUMENT MARKET RISK
+
+We operate on a global basis and are exposed to the risk that our earnings, cash flows and equity could be adversely impacted by fluctuations in foreign exchange and interest rates. Our hedging policy attempts to manage these risks to an acceptable level based on our judgment of the appropriate trade-off between risk, opportunity and costs. Refer to Note 15 in Item 8 of this Annual Report on Form 10-K for further information regarding our financial instruments and hedging strategies.
+
+Currency Risk
+
+We are primarily exposed to foreign exchange risk with respect to revenues generated outside of the United States denominated in the Euro, British Pound, Australian Dollar, Turkish Lira, Canadian Dollar, New Zealand Dollar, and Mexican Peso. We manage our foreign currency exposures on a consolidated basis, which allows us to net exposures and take advantage of any natural offsets. In addition, we use derivative and nonderivative financial instruments to further reduce the net exposure to foreign exchange. Gains and losses on the hedging instruments offset losses and gains on the hedged transactions and reduce the earnings and stockholders’ equity volatility relating to foreign exchange. However, we don't hedge our entire foreign exchange exposure and are still subject to earnings and stockholders' equity volatility relating to foreign exchange risk. Financial market and currency volatility may limit our ability to cost-effectively hedge these exposures.
+
+We primarily use forward contracts to hedge the foreign exchange risk to earnings relating to forecasted transactions and recognized assets and liabilities denominated in foreign currencies. The maximum term over which we have cash flow hedge contracts in place related to foreign exchange risk on forecasted transactions as of December 31, 2025 is 12 months. We also enter into derivative instruments to hedge foreign exchange risk on certain intra-company and third-party receivables and payables and debt denominated in foreign currencies.
+
+As part of our risk-management program, we perform sensitivity analyses to assess potential changes in the fair value of our foreign exchange instruments relating to hypothetical and reasonably possible near-term movements in foreign exchange rates.
+
+A sensitivity analysis of changes in the fair value of foreign exchange contracts outstanding as of December 31, 2025, while not predictive in nature, indicated that if the U.S. Dollar uniformly weakened by 10% against all currencies, the net pre-tax liability balance of $1 million with respect to those contracts would change by $2 million. A similar analysis performed with respect to contracts outstanding as of December 31, 2024 indicated that, on a pre-tax basis, the net asset balance of $5 million would change by $5 million.
+
+The sensitivity analysis model recalculates the fair value of the foreign exchange contracts outstanding as of December 31, 2025 by replacing the actual exchange rates as of December 31, 2025 with exchange rates that are 10% weaker compared to the actual exchange rates for each applicable currency. All other factors are held constant. These sensitivity analyses disregard the possibility that currency exchange rates can move in opposite directions and that gains from one currency may or may not be offset by losses from another currency. The analyses also disregard the offsetting change in value of the underlying hedged transactions and balances.
+
+In February 2022, the three-year cumulative inflation rate in Turkey exceeded 100 percent. As a result, on April 1, 2022, we began reporting the results of our subsidiary in that jurisdiction using highly inflationary accounting, which requires that the functional currency of the entity be changed to the reporting currency of its parent. As of December 31, 2025, our subsidiary in Turkey had net monetary assets of $38 million.
+
+Interest Rate Risk
+
+We are also exposed to the risk that our earnings and cash flows could be adversely impacted by fluctuations in interest rates. Our policy is to manage interest costs using the mix of fixed- and floating-rate debt that we believe is appropriate at that time. To manage this mix in a cost-efficient manner, we periodically enter into interest rate swaps in which we agree to exchange, at specified intervals, the difference between fixed and floating interest amounts calculated by reference to an agreed-upon notional amount. We also periodically use forward-starting interest rate swaps and treasury rate locks to hedge the risk to earnings associated with fluctuations in interest rates relating to anticipated issuances of term debt. As of December 31, 2025, there were no interest rate derivative contracts outstanding.
+
+CHANGES IN ACCOUNTING STANDARDS
+
+Refer to Note 1 in Item 8 of this Annual Report on Form 10-K for information on recently adopted accounting pronouncements.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+Recently issued accounting standards not yet adopted
+
+In November 2024, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which requires disaggregated disclosure of certain expenses on an interim and annual basis in the notes to the financial statements. This standard is effective for annual consolidated financial statements for the year ending December 31, 2027 and for interim periods beginning in 2028. We are currently evaluating the impact of this new standard on our consolidated financial statements.
+
+CRITICAL ACCOUNTING POLICIES
+
+The preparation of financial statements in accordance with U.S. GAAP requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. A summary of our significant accounting policies is included in Note 1 in Item 8 of this Annual Report on Form 10-K. Certain of our accounting policies are considered critical, as these policies are the most important to the depiction of our financial statements and require significant, difficult or complex judgments by us, often employing the use of estimates about the effects of matters that are inherently uncertain. Actual results that differ from our estimates could have an unfavorable effect on our results of operations and financial position. The following is a summary of accounting policies that we consider critical to the consolidated financial statements.
+
+Revenue Recognition and Related Provisions and Allowances
+
+Revenues from product sales are recorded at the net sales price (transaction price), which includes estimates of variable consideration primarily related to rebates and distributor chargebacks. These reserves are based on estimates of the amounts earned or to be claimed on the related sales. Our estimates take into consideration historical experience, current contractual and statutory requirements, specific known market events and trends, industry data, and forecasted customer buying and payment patterns. Overall, these reserves reflect our best estimates of the amount of consideration to which we are entitled based on the terms of the contract. The amount of variable consideration included in the net sales price is limited to the amount that is probable not to result in a significant reversal in the amount of the cumulative revenue recognized in a future period. Additionally, our
+
+contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and services are considered distinct performance obligations that should be accounted for separately and determining the allocation of the transaction price may require significant judgment.
+
+Deferred Tax Asset Valuation Allowances and Reserves for Uncertain Tax Positions
+
+We maintain valuation allowances unless it is more likely than not that all or a portion of the deferred tax asset will be realized. Changes in valuation allowances are included in our tax provision in the period of change. In determining whether a valuation allowance is warranted, we evaluate factors such as prior earnings history, expected future earnings, carryback and carryforward periods, and tax strategies that could potentially enhance the likelihood of realization of a deferred tax asset. The realizability assessments made at a given balance sheet date are subject to change in the future, particularly if earnings of a subsidiary are significantly higher or lower than expected, or if we take operational or tax planning actions that could impact the future taxable earnings of a subsidiary.
+
+During 2025, because of a cumulative history of operating losses in the U.S., we recorded a valuation allowance against our U.S. deferred tax assets, including certain federal and state tax attributes such as foreign tax credits. Additionally, we recorded additional valuation allowance against deferred tax assets in Switzerland related to the tax basis step-up we received in connection with the 2019 Swiss tax reform.
+
+In the normal course of business, we are audited by federal, state and foreign tax authorities, and are periodically challenged regarding the amount of taxes due. These challenges relate to the timing and amount of deductions and the allocation of income among various tax jurisdictions. We believe our tax positions comply with applicable tax law and we intend to defend our positions. In evaluating the exposure associated with various tax filing positions, we record reserves for uncertain tax positions in accordance with U.S. GAAP based on the technical support for the positions, our past audit experience with similar situations, and potential interest and penalties related to the matters. Our results of operations and effective tax rate in a given period could be impacted if, upon final resolution with taxing authorities, we prevail in positions for which reserves have been established, or we are required to pay amounts in excess of established reserves.
+
+Impairment of Goodwill and Other Long-Lived Assets
+
+Goodwill
+
+Goodwill is initially measured as the excess of the purchase price over the fair value (or other measurement attribute required by U.S. GAAP) of acquired assets and liabilities in a business combination. Management performs an impairment test in the fourth quarter of each year, or whenever events or changes in circumstances indicate that the fair value of the reporting unit is more likely than not below its carrying amount. We have the option to assess goodwill for impairment by initially performing a qualitative assessment to determine whether it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount. If we determine that it is not more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, then the quantitative goodwill impairment test is not required to be performed. If we determine that it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, or if we do not elect the option to perform an initial qualitative assessment, we perform a quantitative goodwill impairment test. In the quantitative impairment test, we calculate the estimated fair value of the reporting unit. If the carrying amount of the reporting unit exceeds the estimated fair value, an impairment charge is recorded for the amount that the reporting unit’s carrying amount, including goodwill, exceeds its fair value, limited to the total amount of goodwill allocated to that reporting unit.
+
+In a quantitative goodwill impairment test, the fair values of our reporting units are generally determined based on a discounted cash flow model (an income approach) and earnings multiples (a market approach) based on the guideline public company method. Significant assumptions used in reporting unit fair value measurements generally include revenue growth rates, forecasted EBITDA margins, discount rates, terminal growth rates and earnings multiples. The discounted cash flow models used to determine the fair value of the Front Line Care reporting unit within our Healthcare Systems & Technologies segment which was quantitatively valued during 2025 reflected our most recent cash flow projections, a discount rate of 10.0% and terminal growth rates of 3.0%. Each of these inputs can significantly affect the fair value of a reporting unit.
+
+In connection with our annual goodwill impairment assessment in the fourth quarter of 2025, we recorded a $485 million goodwill impairment related to our Front Line Care reporting unit within our Healthcare Systems &
+
+Technologies segment. The reduction in value was primarily due to lower forecasted operating results, a higher discount rate and a lower terminal growth rate utilized in valuing this reporting unit which contributed to reduced expected future cash flows, as well as lower earnings multiples. The fair value of the Front Line Care reporting unit was determined based on a discounted cash flow model (an income approach) and earnings multiples (a market approach) based on the guideline public company method. Significant assumptions used in the determination of the fair values of our reporting units generally include revenue growth rates, forecasted EBITDA margins, discount rates, terminal growth rates and earnings multiples. The discounted cash flow model used to determine the fair value of our Front Line Care reporting unit reflected our most recent cash flow projections, a discount rate of 10.0% and a terminal growth rate of 3.0%. In order to evaluate the sensitivity of the fair value calculations used in the Front Line Care reporting unit goodwill impairment test, we applied a hypothetical 5% decrease to the fair value and compared that hypothetical value to the underlying asset carrying value. The application of a hypothetical 5% decrease in fair value would result in an additional impairment of approximately $160 million. As of December 31, 2025, the carrying amount of goodwill for our Front Line Care reporting unit was $1.52 billion. No goodwill impairments were recorded for our remaining reporting units in connection with our annual goodwill impairment tests because the fair values of those reporting units exceeded their carrying amounts.
+
+In connection with our annual goodwill impairment assessment in the fourth quarter of 2024, we recorded a $425 million goodwill impairment related to our Front Line Care reporting unit within our Healthcare Systems & Technologies segment. The reduction in value was primarily due to lower forecasted operating results and a lower terminal growth rate utilized in valuing this reporting unit which contributed to reduced expected future cash flows, as well as lower earnings multiples. The fair value of the Front Line Care reporting unit was determined based on a discounted cash flow model (an income approach) and earnings multiples (a market approach) based on the guideline public company method. Significant assumptions used in the determination of the fair values of our reporting units generally include revenue growth rates, forecasted EBITDA margins, discount rates, terminal growth rates and earnings multiples. The discounted cash flow model used to determine the fair value of our Front Line Care reporting unit reflected our most recent cash flow projections, a discount rate of 9.5% and a terminal growth rate of 3.25%. In order to evaluate the sensitivity of the fair value calculations used in the Front Line Care reporting unit goodwill impairment test, we applied a hypothetical 5% decrease to the fair value and compared that hypothetical value to the underlying asset carrying value. The application of a hypothetical 5% decrease in fair value would result in an additional impairment of approximately $200 million. As of December 31, 2024, the carrying amount of goodwill for our Front Line Care reporting unit was $1.99 billion. No goodwill impairments were recorded for our remaining reporting units in connection with our annual goodwill impairment tests because the fair values of those reporting units exceeded their carrying amounts.
+
+Other Long-Lived Assets
+
+Other long-lived assets are primarily comprised of property, plant and equipment and intangible assets, including both indefinite-lived intangible assets and amortizing intangible assets.
+
+Indefinite-Lived Intangible Assets
+
+Indefinite-lived intangible assets, such as IPR&D acquired in business combinations and certain trade names with indefinite lives, are subject to an impairment review annually and whenever indicators of impairment exist. We have the option to assess indefinite-lived intangible assets for impairment by first performing qualitative assessments to determine whether it is more-likely-than-not that the fair values of the indefinite-lived intangible assets are less than the carrying amounts. If we determine that it is more-likely-than-not that an indefinite-lived intangible asset is impaired, or if we elect not to perform an initial qualitative assessment, we then perform the quantitative impairment test by comparing the fair value of the indefinite-lived intangible asset with its carrying amount. If the carrying amount exceeds the fair value of the indefinite-lived intangible asset, we write the carrying amount down to the fair value.
+
+In a quantitative indefinite-lived intangible asset impairment test, fair values are generally determined based on a discounted cash flow model. Significant assumptions used in valuations of indefinite-lived intangible assets include the forecasted cash flows, discount rates, the assessment of the asset’s life cycle, the stage in completion (for acquired IPR&D intangible assets), royalty rates, terminal growth rates and contributory asset charges.
+
+In connection with our annual trade name impairment assessment in the fourth quarter of 2025, we recognized a pre-tax impairment charge of $290 million to reduce the carrying amount of the Welch Allyn trade name within our Healthcare Systems & Technologies segment, an indefinite-lived intangible asset, to its estimated fair value. The
+
+reduction in value was primarily due to lower forecasted revenues and margins which contributed to a lower royalty rate and reduced expected future cash flows. The intangible asset impairment charge is classified within cost of sales in the accompanying consolidated statements of income (loss) for the year ended December 31, 2025. The fair value of the trade name intangible asset was determined using the relief from royalty method. Significant assumptions used in the determination of the fair value of the trade name intangible assets included revenue growth rates, a discount rate and a royalty rate. The relief from royalty model used in the determination of the fair value of our trade name intangible asset during 2025 reflected our most recent revenue projections, a discount rate of 9.0% and a royalty rate of 3.0%.
+
+In connection with our annual IPR&D impairment assessment in the fourth quarter of 2024, we recognized a pre-tax impairment charge of $50 million to reduce the carrying amount of an IPR&D asset to its fair value. The reduction in value was primarily due to lower forecasted revenues and margins which contributed to reduced expected future cash flows. The intangible asset impairment charge is classified within research and development expenses in the accompanying consolidated statements of income (loss) for the year ended December 31, 2024. The fair value of the IPR&D asset was determined using the multi-period excess earnings method. Significant assumptions used in the determination of the fair value of the IPR&D asset included forecasted cash flows and the discount rate. The multi-period excess earnings model used in our determination of the fair value of the IPR&D asset reflected our most recent cash flow projections and a discount rate of 11%.
+
+The total carrying amount of our indefinite-lived intangible assets was $497 million as of December 31, 2025, comprised of a trade name intangible asset and IPR&D.
+
+Intangible Assets with Definite Lives and Property, Plant and Equipment
+
+We review the carrying amounts of long-lived assets used in operations, other than goodwill and intangible assets not subject to amortization, for potential impairment when events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. In evaluating recoverability, we group assets and liabilities at the lowest level such that the identifiable cash flows relating to the group are largely independent of the cash flows of other assets and liabilities. We then compare the carrying amounts of the assets or asset groups with the related estimated undiscounted future cash flows. In the event an asset (or asset group) is not recoverable, an impairment charge is recorded as the amount by which the carrying amount of the asset (or asset group) exceeds its fair value. However, the portion of an impairment loss allocated to an individual long-lived asset within an asset group cannot reduce the carrying amount of that asset below its fair value if its fair value is determinable without undue cost and effort.
+
+Long-Lived Assets Held for Sale
+
+Long-lived assets are classified as held for sale when certain criteria are met, including when management has committed to sell the asset, the asset is available for sale in its present condition and the sale is probable of being completed within one year of the balance sheet date. Assets held for sale are no longer depreciated or amortized and they are reported at the lower of their carrying amount or fair value less cost to sell.
+
+Our goodwill and other long-lived asset fair value measurements are classified as Level 3 in the fair value hierarchy because they involve significant unobservable inputs.
+
+Further adverse changes to macroeconomic conditions or our earnings forecasts could lead to additional goodwill or other long-lived asset impairment charges in future periods and such charges could be material to our results of operations.
+
+CERTAIN REGULATORY MATTERS
+
+In July 2017, immediately prior to the closing of our acquisition of Claris Injectables Limited (Claris), FDA commenced an inspection of the Claris’ facilities in Ahmedabad, India. FDA completed the inspection and subsequently issued a Warning Letter based on observations identified in the 2017 inspection1. FDA completed a re-inspection of the facilities in May 2022, which was subsequently classified as Voluntary Action Indicated (VAI). FDA performed an additional inspection of the facilities in January 2023. In April 2023, the site received an Official Action Indicated, or “OAI”, classification following FDA’s January 2023 inspection. In July 2023, FDA issued a Warning Letter to the site based on the observations from the agency’s January 2023 inspection (2023 Warning
+
+Letter) 2 . In June 2025, FDA performed another re-inspection of the site. On October 31, 2025, FDA classified the June 2025 inspection as VAI, indicating that the site is in acceptable compliance with FDA’s current Good Manufacturing Practice requirements. Based on the VAI reclassification, Baxter expects that the 2023 Warning Letter will be closed and no additional Warning Letters on the facilities will remain outstanding.
+
+Refer to Item 1A. Risk Factors of this Annual Report on Form 10-K for additional discussion of regulatory matters and how they may impact us.
+
+1 Available online at https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/ucm613538.htm
+
+2 Available online at https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/baxter-healthcare-corporation-654136-07252023
+
+FORWARD-LOOKING INFORMATION
+
+Certain statements contained in this Annual Report may constitute “forward-looking statements,” as defined in the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. These statements by their nature address matters that are uncertain to different degrees. Use of the words “may,” “will,” “would,” “could,” “should,” “believes,” “estimates,” “projects,” “potential,” “expects,” “plans,” “seeks,” “intends,” “evaluates,” “pursues,” “anticipates,” “continues,” “designs,” “impacts,” “affects,” “forecasts,” “target,” “outlook,” “initiative,” “objective,” “designed,” “priorities,” “goal,” or the negative of those words or other similar expressions may identify forward-looking statements, although not all forward-looking statements contain such words.
+
+These forward-looking statements are based on certain assumptions and analyses made in light of our experience and perception of historical trends, current conditions, and expected future developments as well as other factors that we believe are appropriate in the circumstances. While these statements represent our judgment on what the future may hold, and we believe these judgments are reasonable, these statements are not guarantees of any events or financial results. Whether actual future results and developments will conform to expectations and predictions is subject to a number of risks and uncertainties, including the following factors, many of which are beyond our control:
+
+• We are exposed to risks as a result of our strategic actions;
+
+• We may not achieve the anticipated benefits of our significant transactions, including the sale of our Kidney Care business and our acquisition of Hillrom;
+
+• Our significant indebtedness requires us to use a substantial amount of our cash flow for debt service and constrains our ability to pursue growth strategies and advance our R&D capabilities;
+
+• There is substantial competition in the product markets in which we operate and the risk of declining demand and pricing pressures could adversely affect our business, results of operations, financial condition and cash flows;
+
+• We may be unable to successfully introduce or monetize new and existing products or services or keep pace with changing consumer preferences and needs or advances in technology;
+
+• We may not achieve our financial goals;
+
+• We have experienced disruptions in our supply chain;
+
+• Global economic conditions, including inflation, have adversely affected, and could continue to adversely affect, our operations;
+
+• We may not be successful in achieving expected operating efficiencies and sustaining or improving operating expense reductions;
+
+• Continued consolidation in the health care industry or additional governmental controls exerted over pricing and access in key markets could lead to increased demands for price concessions or limit or eliminate our ability to sell to certain of our significant market segments;
+
+• Our operating results and financial condition have fluctuated and may in the future continue to fluctuate;
+
+• Management transition creates uncertainties, and we may experience difficulties in managing such transitions, including attracting and retaining key employees;
+
+• Changes in foreign currency exchange rates and interest rates have had, and may in the future have, an adverse effect on our results of operations, financial condition, cash flows, and liquidity;
+
+• Future material impairments in the value of our goodwill, intangible assets, and other long-lived assets would negatively affect our operating results;
+
+• Segments of our business are significantly dependent on major contracts with GPOs, IDNs, and certain other distributors and purchasers;
+
+• We may be unable to obtain sufficient components or raw materials on a timely basis or for a cost-effective price;
+
+• We may experience manufacturing, sterilization, supply, or distribution difficulties;
+
+• We have experienced and may continue to experience issues with quality management or product quality;
+
+• We may experience breaches and breakdowns affecting our information technology systems or protected information, including from obsolescence, cyber security breaches and data leakage;
+
+• We are exposed to risks associated with incorporating AI, machine learning and other emerging technologies into our products, services and operations;
+
+• We are subject to risks associated with doing business globally;
+
+• A portion of our workforce is unionized, and we could face labor disruptions that would interfere with our operations;
+
+• The effects of climate change, including legal, regulatory, or market measures related to climate change and other sustainability topics, could adversely affect our business, results of operations, financial condition, and cash flows;
+
+• Our commitments, goals, activities, and disclosures related to sustainability and corporate responsibility matters, and the perception of our activities in these areas, may fail to satisfy the differing expectations of key stakeholders on these matters;
+
+• We are subject to laws and regulations globally, and our failure to comply with rapidly changing and increasingly divergent expectations of regulators in different jurisdictions could adversely impact the company;
+
+• If reimbursement or other payment for our current or future products is reduced or modified in the U.S. or in foreign countries, or there are changes to policies with respect to pricing, taxation, or rebates, our business could suffer;
+
+• Increasing regulatory focus on, and expanding laws relating to, privacy, AI, and cybersecurity could impact our business and expose us to increased liability;
+
+• We are party to a number of pending lawsuits and other disputes which may adversely impact us;
+
+• We could be subject to fines or damages and possible exclusion from participation in federal or state healthcare programs if we fail to comply with the laws and regulations applicable to our business;
+
+• If we are unable to protect or enforce our patents or other proprietary rights, or if we become subject to claims or litigation alleging infringement of the patents or other proprietary rights of others, our competitiveness and business prospects may be materially damaged;
+
+• Changes in tax laws or exposure to additional income tax liabilities may have a negative impact on our operating results;
+
+• Our Amended and Restated Bylaws could limit our stockholders’ ability to choose their preferred judicial forum for disputes with us or our directors, officers, or employees;
+
+• We recently decreased our quarterly dividend to $0.01 per share and cannot guarantee that we will increase the amount of dividends we pay, or that we will not cease paying dividends;
+
+• Our common stock price has fluctuated significantly and may continue to do so; and
+
+• other factors discussed elsewhere in this Annual Report on Form 10-K, including those factors described in Item 1A. Risk Factors, and other filings with the SEC, all of which are available on our website.
+
+Actual results may differ materially from those projected in the forward-looking statements, which are more fully discussed in Item 1A. Risk Factors and Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations and elsewhere in this Annual Report on Form 10-K. These forward-looking statements are not exclusive and are in addition to other factors discussed elsewhere in this Annual Report on Form 10-K. Further, other unknown or unpredictable factors could also have material adverse effects on future results. Any forward-looking statement in this Annual Report on Form 10-K speaks only as of the date on which it is made. Except as required by law, we assume no obligation, and expressly disclaim any obligation, to update or revise any forward-looking statements, whether as a result of new information or future events.

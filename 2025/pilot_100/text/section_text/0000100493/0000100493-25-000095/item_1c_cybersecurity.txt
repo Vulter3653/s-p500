@@ -1,0 +1,39 @@
+ITEM 1C. CYBERSECURITY DISCLOSURE
+
+RISK MANAGEMENT AND STRATEGY
+
+Governance
+
+As part of our overall risk management program, we run and maintain a formal information security, cybersecurity, and privacy program led by our Chief Information Security Officer (“CISO”) that uses a risk-based approach to evaluate new technology, third parties, and changes to the technology landscape. The program is assessed using multiple industry frameworks including the National Institute of Standards and Technology Cybersecurity Framework (NIST-CSF Version 2.0). We engage with industry partners, assessment firms and advisors, law enforcement, and others to periodically assess our cybersecurity capabilities, and utilize a defense-in-depth approach to protect our systems and services.
+
+Additionally, we assess data risks using privacy impact assessments and manage these risks in close alignment with data governance, operations, and analytics teams. We identify assets and their criticality to business operations and provide reasonable protection, threat detection, response and recovery capabilities.
+
+We address third-party cybersecurity risks presented by our use of third-party software, service, data and technology providers, including cloud-based services, and proactively evaluate the cybersecurity risk of third parties using multiple evaluation factors which are aligned with our contracting and vendor selection processes. We actively work with internal partners to assess and implement methods of transferring risk to appropriate parties.
+
+Identification
+
+We assess our technology assets and their vulnerabilities, including risks from our suppliers and vendors, to prioritize and improve program efforts consistent with our risk management strategy. We engage in the periodic assessment and testing of our program. These include tabletop exercises, vulnerability testing and other methods focused on evaluating the effectiveness of our cybersecurity measures and planning. We actively engage third parties to assist with our assessments and testing processes. We adjust our cybersecurity policies, standards, processes and practices, where appropriate, based on internal and external assessments and testing results.
+
+Protection
+
+We provide technical safeguards that are designed to provide commercially reasonable protection of our technology and information systems. We actively monitor and assess the impact of potential cybersecurity threats to our technology systems. We partner with public and private organizations, such as the Food and Agriculture Information Sharing and Analysis Center (Food and Ag-ISAC), to understand and modify our programs to respond to an ever-evolving threat landscape. We implement training and awareness practices to mitigate human risk, including regular phishing awareness campaigns, mandatory computer-based training and internal communications.
+
+Detection, Response and Recovery
+
+We employ threat monitoring and detection capabilities intended to identify active attackers and threats to our technology systems. We have established a defined incident response plan to assess, respond and recover from cybersecurity incidents, including cyberattacks and other non-cybersecurity related business technology outages. The plan includes the coordination of activities that include an evaluation of materiality and facilitation of any required notifications, regulatory obligations and disclosures.
+
+We are not aware of any risks from cybersecurity threats, including as a result of previous cybersecurity incidents, which have materially affected us or are reasonably likely to materially affect us, including our business strategy, results of operations, or financial condition. However, the cybersecurity threat environment is increasingly challenging, and we constantly face risks from cybersecurity threats. There can be no assurance that we, or the third parties with which we interact, will not experience a cybersecurity incident in the future that could materially affect us. Additional information about the cybersecurity risks we face is discussed in Item 1A. Risk Factors, which should be read in conjunction with the information above.
+
+GOVERNANCE
+
+The Board of Directors and management work together to manage cybersecurity risk as part of our broader enterprise risk management approach.
+
+Our Board of Directors has delegated risk management oversight responsibility for information security, which includes data privacy and cybersecurity, to the Governance and Nominating Committee. In addition, beginning in fiscal 2025, the Company’s Board of Directors appointed a special committee of the Board of Directors (the “Technology Committee”) to oversee and advise on technology-related strategies, investments, risks and innovations to enable alignment with the Company’s strategy, operational priorities and cybersecurity protections. Among other responsibilities, the Technology Committee oversees the Company’s cybersecurity framework, data privacy practices, and information security programs and scorecards.
+
+Certain of our board members, including certain members of our Governance and Nominating Committee and the Technology Committee have backgrounds or experience in risk management and/or information technology. On at least an annual basis, the Governance and Nominating Committee receives updates from our CISO, Chief Technology Officer (“CTO”) and other members of management on risks related to information systems, information security, data privacy and cybersecurity. The Board of Directors also receives regular reports from the Governance and Nominating Committee and the Technology Committee on these and other risk-related matters as necessary. Our CISO provides information to the Technology Committee pursuant to risk-based escalation protocols for cybersecurity incidents that exceed designated thresholds.
+
+MANAGEMENT'S ROLE IN CYBERSECURITY RISK MANAGEMENT
+
+Our CISO leads the Information Security team and has global responsibility for overseeing our information security, data privacy and cybersecurity program. The program is operationalized through use of multi-disciplinary teams including governance, risk and compliance; identity and access management; cloud and infrastructure security; data security; application security; vulnerability and threat management; and security detection and response operations.
+
+Additionally, our CISO monitors the prevention, detection, mitigation and remediation of cybersecurity incidents and reports cybersecurity incidents that reach designated thresholds to senior management and, if necessary, to the Governance and Nominating committee. Our CISO has been with the Company since 1997, has held numerous roles in information technology and has led the information security program since 2016. Our CTO, to whom the CISO reports, has been with the Company since 2013 and has served as the Company’s CTO since 2025.

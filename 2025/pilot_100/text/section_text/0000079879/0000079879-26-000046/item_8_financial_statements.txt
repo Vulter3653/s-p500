@@ -1,0 +1,945 @@
+Item 8. Financial Statements and Supplementary Data
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of PPG Industries, Inc.
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We have audited the accompanying consolidated balance sheet of PPG Industries, Inc. and its subsidiaries (the "Company") as of December 31, 2025 and 2024, and the related consolidated statements of income, of comprehensive income, of shareholders' equity and of cash flows for each of the three years in the period ended December 31, 2025, including the related notes (collectively referred to as the "consolidated financial statements"). We also have audited the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the COSO.
+
+Basis for Opinions
+
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Annual Report on Internal Control Over Financial Reporting. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 33
+
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matters
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Annual Goodwill Impairment Test – Architectural Coatings Europe, Middle East and Africa Reporting Unit
+
+As described in Notes 1 and 6 to the consolidated financial statements, the Company’s consolidated goodwill balance was $6,149 million as of December 31, 2025, a portion of which relates to the goodwill for the Architectural Coatings Europe, Middle East and Africa (EMEA) reporting unit. Management tests goodwill for impairment by either performing a qualitative evaluation or a quantitative test, at least annually in connection with management’s strategic planning process or more frequently if an indication of impairment exists. Management’s quantitative goodwill impairment testing, if deemed necessary, is performed during the fourth quarter of each year by comparing the estimated fair value of an associated reporting unit to its carrying value. In 2025, the annual impairment testing of goodwill did not result in impairment of any of the Company’s reporting units. As disclosed by management, in the quantitative test, fair values are estimated using a discounted cash flow model. Key assumptions used in the discounted cash flow model included projected future revenues, discount rates, operating cash flows, capital expenditures, and tax rates.
+
+The principal considerations for our determination that performing procedures relating to the annual goodwill impairment test of the Architectural Coatings EMEA reporting unit is a critical audit matter are (i) the significant judgment by management when developing the fair value estimate of the Architectural Coatings EMEA reporting unit; (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating management’s significant assumption related to the discount rate; and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management’s goodwill impairment test, including controls over the valuation of the Architectural Coatings EMEA reporting unit. These procedures also included, among others (i) testing management’s process for developing the fair value estimate of the Architectural Coatings EMEA reporting unit; (ii) evaluating the appropriateness of the discounted cash flow model used by management; (iii) testing the completeness and accuracy of underlying data used in the discounted cash flow model; and (iv) evaluating the reasonableness of the significant assumption used by management related to the discount rate. Evaluating management’s assumption related to the discount rate involved evaluating whether the assumption used by management was reasonable considering (i) the current and past performance of the Architectural Coatings EMEA reporting unit and (ii) whether the assumption was consistent with evidence obtained in other areas of the audit. Professionals with specialized skill and knowledge were used to assist in evaluating (i) the appropriateness of the discounted cash flow model and (ii) the reasonableness of the discount rate assumption.
+
+/s/ PricewaterhouseCoopers LLP
+
+Pittsburgh, Pennsylvania
+
+February 19, 2026
+
+We have served as the Company’s auditor since 2013.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 34
+
+Management Report
+
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+We are responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934, as amended. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+We conducted an evaluation of the effectiveness of the Company’s internal control over financial reporting as of December 31, 2025. In making this evaluation, we used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control - Integrated Framework (2013) . Based on this evaluation we have concluded that, as of December 31, 2025, the Company’s internal control over financial reporting was effective.
+
+PricewaterhouseCoopers LLP, an independent registered public accounting firm, has issued their report, included on pages 33-34 of this Form 10-K, regarding the Company’s internal control over financial reporting.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 35
+
+Consolidated Statement of Income
+
+The accompanying notes to the consolidated financial statements are an integral part of these consolidated statements.
+
+Consolidated Statement of Comprehensive Income
+
+The accompanying notes to the consolidated financial statements are an integral part of these consolidated statements.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 36
+
+Consolidated Balance Sheet
+
+The accompanying notes to the consolidated financial statements are an integral part of this consolidated statement.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 37
+
+Consolidated Statement of Shareholders’ Equity
+
+The accompanying notes to the consolidated financial statements are an integral part of this consolidated statement.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 38
+
+Consolidated Statement of Cash Flows
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 39
+
+1. Summary of Significant Accounting Policies
+
+Principles of Consolidation
+
+The accompanying consolidated financial statements include the accounts of PPG Industries, Inc. (“PPG” or the “Company”) and all subsidiaries, both U.S. and non-U.S., that it controls. PPG owns more than 50% of the voting stock of most of the subsidiaries that it controls. For those consolidated subsidiaries in which the Company’s ownership is less than 100%, the outside shareholders’ interests are shown as noncontrolling interests. Investments in companies in which PPG owns 20% to 50% of the voting stock and has the ability to exercise significant influence over operating and financial policies of the investee are accounted for using the equity method of accounting. As a result, PPG’s share of income or losses from such equity affiliates is included in the consolidated statement of income and PPG’s share of these companies’ shareholders’ equity is included in Investments on the consolidated balance sheet. Transactions between PPG and its subsidiaries are eliminated in consolidation.
+
+Use of Estimates in the Preparation of Financial Statements
+
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of income and expenses during the reporting period. Such estimates also include the fair value of assets acquired and liabilities assumed resulting from the allocation of the purchase price related to business combinations consummated. Actual outcomes could differ from those estimates.
+
+Revenue Recognition
+
+Revenue is recognized as performance obligations with the customer are satisfied, at an amount that is determined to be collectible. For the sale of products, this generally occurs at the point in time when control of the Company’s products transfers to the customer based on the agreed upon shipping terms.
+
+Shipping and Handling Costs
+
+Amounts billed to customers for shipping and handling are reported in Net sales in the consolidated statement of income. Shipping and handling costs incurred by the Company for the delivery of goods to customers are included in Cost of sales, exclusive of depreciation and amortization in the consolidated statement of income.
+
+Selling, General and Administrative Costs
+
+Amounts presented in Selling, general and administrative in the consolidated statement of income are comprised of selling, customer service, distribution and advertising costs, as well as the costs of providing corporate-wide functional support in areas such as finance, law, human resources and planning. Distribution costs pertain to the movement and storage of finished goods inventory at company-owned and leased warehouses and other distribution facilities.
+
+Advertising Costs
+
+Advertising costs are charged to expense as incurred and totaled $ 199 million, $ 203 million and $ 193 million in 2025, 2024 and 2023, respectively.
+
+Research and Development
+
+Research and development costs, which consist primarily of employee-related costs, are charged to expense as incurred.
+
+Legal Costs
+
+Legal costs, which primarily include costs associated with acquisition and divestiture transactions, general litigation, environmental regulation compliance, patent and trademark protection and other general corporate purposes, are charged to expense as incurred.
+
+Income Taxes
+
+Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to operating losses and tax credit carryforwards as well as differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in Income tax expense in the consolidated statement of income in the period that includes the enactment date.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 40
+
+A valuation allowance is provided against deferred tax assets in situations where PPG determines it is more likely than not such assets will not ultimately be realized.
+
+PPG does not recognize a tax benefit unless it concludes that it is more likely than not that the benefit will be sustained on audit by the taxing authority based solely on the technical merits of the associated tax position. If the recognition threshold is met, PPG recognizes a tax benefit measured at the largest amount of the tax benefit that, in PPG’s judgment, is greater than 50 percent likely to be realized. PPG records interest and penalties related to uncertain tax positions in Income tax expense in the consolidated statement of income.
+
+Foreign Currency Translation
+
+The functional currency of most significant non-U.S. operations is their local currency. Assets and liabilities of those operations are translated into U.S. dollars using year-end exchange rates. Income and expenses are translated using the average exchange rates for the reporting period. Unrealized foreign currency translation gains and losses are deferred in Accumulated other comprehensive loss on the consolidated balance sheet.
+
+Cash Equivalents
+
+Cash equivalents are highly liquid investments (valued at cost, which approximates fair value) acquired with an original maturity of three months or less.
+
+Short-term Investments
+
+Short-term investments are highly liquid, high credit quality investments (valued at cost plus accrued interest) that have stated maturities of greater than three months to less than one year. The purchases and sales of these investments are classified as Investing activities in the consolidated statement of cash flows.
+
+Marketable Equity Securities
+
+The Company’s investment in marketable equity securities is recorded at fair market value and reported as Other current assets and Investments on the consolidated balance sheet with changes in fair market value recorded in income.
+
+Inventories
+
+Inventories are stated at the lower of cost or net realizable value. Most U.S. inventories are stated at cost, using the last-in, first-out (“LIFO”) method of accounting, which does not exceed net realizable value. All other inventories are stated at cost, using the first-in, first-out (“FIFO”) method of accounting, which does not exceed net realizable value. PPG determines cost using either average or standard factory costs, which approximate actual costs, excluding certain fixed costs such as depreciation and property taxes. Refer to Note 3, “Working Capital Detail” for further information related to the Company’s inventories.
+
+Derivative Financial Instruments
+
+The Company recognizes all derivative financial instruments (a “derivative”) as either assets or liabilities at fair value on the consolidated balance sheet. The accounting for changes in the fair value of a derivative depends on the use of the instrument.
+
+For derivative instruments that are designated and qualify as cash flow hedges, the unrealized gains or losses on the derivatives are recorded in the consolidated statement of comprehensive income. Amounts in Accumulated other comprehensive loss on the consolidated balance sheet are reclassified into Income before income taxes in the consolidated statement of income in the same period or periods during which the hedged transactions are recorded in Income before income taxes in the consolidated statement of income.
+
+For derivative instruments that are designated and qualify as fair value hedges, the change in the fair value of the derivatives are reported in Income before income taxes in the consolidated statement of income, offsetting the gain or loss recognized for the change in fair value of the asset, liability, or firm commitment that is being hedged.
+
+For derivatives, debt or other financial instruments that are designated and qualify as net investment hedges, the gains or losses associated with the financial instruments are reported as translation gains or losses in Accumulated other comprehensive loss on the consolidated balance sheet. Gains and losses in Accumulated other comprehensive loss related to hedges of the Company’s net investments in foreign operations are reclassified out of Accumulated other comprehensive loss and recognized in Income before income taxes in the consolidated statement of income upon a substantial liquidation, sale or partial sale of such investments or upon impairment of all or a portion of such investments. The cash flow impact of these instruments is classified as Investing activities in the consolidated statement of cash flows.
+
+Changes in the fair value of derivative instruments not designated as hedges for hedge accounting purposes are recognized in Income before income taxes in the consolidated statement of income in the period of change.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 41
+
+Property, Plant and Equipment
+
+Property, plant and equipment is recorded at cost. Depreciation is computed on a straight-line method based on the estimated useful lives of related assets. Accelerated depreciation expense is recorded when facilities or equipment are subject to abnormal economic conditions, restructuring actions or obsolescence.
+
+The cost of significant improvements that add to productive capacity or extend the lives of properties are capitalized. Costs for repairs and maintenance are charged to expense as incurred. When a capitalized asset is retired or otherwise disposed of, the original cost and related accumulated depreciation balance are removed from the accounts and any related gain or loss is recorded in Income before income taxes in the consolidated statement of income. The amortization cost of finance lease assets is recorded in Depreciation expense in the consolidated statement of income. Property and other long-lived assets are reviewed for impairment whenever events or circumstances indicate that their carrying amounts may not be recoverable. Refer to Note 4, “Property, Plant and Equipment” for further details.
+
+Goodwill and Identifiable Intangible Assets
+
+Goodwill represents the excess of the cost over the fair value of acquired identifiable tangible and intangible assets less liabilities assumed from acquired businesses. Identifiable intangible assets acquired in business combinations are recorded based upon their fair value at the date of acquisition.
+
+PPG is a multinational manufacturer with 10 operating segments (which the Company refers to as “strategic business units”) that are organized based on the Company’s major product lines. These operating segments are also the Company’s reporting units for purposes of testing goodwill for impairment, which is tested at least annually in connection with PPG’s strategic planning process or more frequently if an indication of impairment exists. The Company tests goodwill for impairment by either performing a qualitative evaluation or a quantitative test. The qualitative evaluation is an assessment of factors, including reporting unit specific operating results as well as industry, market and general economic conditions, to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount, including goodwill. The Company may elect to bypass this qualitative assessment for some or all of its reporting units and perform a quantitative test. Quantitative goodwill impairment testing, if deemed necessary, is performed during the fourth quarter of each year by comparing the estimated fair value of an associated reporting unit to its carrying value. Fair value is estimated using a discounted cash flow model. Key assumptions and estimates used in the discounted cash flow model include projected future revenues, discount rates, operating cash flows, capital expenditures and tax rates.
+
+The annual indefinite-lived intangible asset impairment assessment takes place in the fourth quarter of each year either by completing a qualitative assessment or quantitatively by comparing the estimated fair value of each trademark to its carrying value. Fair value is estimated using the relief from royalty method (a discounted cash flow methodology). The qualitative assessment includes consideration of factors, including revenue relative to the asset being assessed, the operating results of the related business and industry, market and general economic conditions, to determine whether it is more likely than not that the fair value of the asset is less than its carrying amount.
+
+Identifiable intangible assets with finite lives are amortized on a straight-line basis over their estimated useful lives ( 1 to 30 years) and are reviewed for impairment whenever events or circumstances indicate that their carrying amount may not be recoverable.
+
+Receivables and Allowances
+
+All trade receivables are reported on the consolidated balance sheet at the outstanding principal adjusted for any allowance for doubtful accounts and any charge offs. The Company provides an allowance for doubtful accounts to reduce receivables to their estimated net realizable value when it is probable that a loss will be incurred. Those estimates are based on historical collection experience, current regional economic and market conditions, the aging of accounts receivable, assessments of current creditworthiness of customers, and forward-looking information. Refer to Note 20, “Revenue Recognition” for further details.
+
+Leases
+
+The Company determines if a contract is a lease at the inception of the arrangement. The Company reviews all options to extend, terminate, or purchase its right of use assets at the inception of the lease and accounts for these options when they are reasonably certain of being exercised. Certain real estate leases contain lease and non-lease components, which are accounted for separately. For certain equipment leases, lease and non-lease components are accounted for as a single lease component.
+
+Leases with an initial term of 12 months or less are not recorded on the consolidated balance sheet. Lease expense for these leases is recognized on a straight-line basis over the lease term.
+
+Variable lease expense is based on contractual arrangements with PPG’s lessors determined based on external indices or other relevant market factors. In addition, PPG’s variable lease expense also includes elements of a contract that do not represent a good or service but for which the lessee is responsible for paying.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 42
+
+Nearly all of PPG’s lease contracts do not provide a readily determinable implicit rate. For these contracts, PPG’s estimated incremental borrowing rate is based on information available at the inception of the lease.
+
+Product Warranties
+
+The Company accrues for product warranties at the time the associated products are sold based on historical claims experience. The reserve, pretax charges against income and cash outlays for product warranties were not significant to the consolidated financial statements of the Company for any year presented.
+
+Asset Retirement Obligations
+
+An asset retirement obligation represents a legal obligation associated with the retirement of a tangible long-lived asset that is incurred upon the acquisition, construction, development or normal operation of that long-lived asset. PPG recognizes asset retirement obligations in the period in which they are incurred if a reasonable estimate of fair value can be made. The asset retirement obligation is subsequently adjusted for changes in fair value. The associated estimated asset retirement costs are capitalized as part of the carrying amount of the long-lived asset and depreciated over its useful life. PPG’s asset retirement obligations are primarily associated with the retirement or closure of certain assets used in PPG’s manufacturing process. The accrued asset retirement obligation is recorded in Accounts payable and accrued liabilities and Other liabilities on the consolidated balance sheet and was $ 12 million and $ 11 million as of December 31, 2025 and December 31, 2024, respectively.
+
+PPG’s only conditional asset retirement obligation relates to the possible future abatement of asbestos contained in certain PPG production facilities. The asbestos in PPG’s production facilities arises from the application of normal and customary building practices in the past when the facilities were constructed. This asbestos is encapsulated in place and, as a result, there is no current legal requirement to abate it. Because there is no requirement to abate, the Company does not have any current plans or an intention to abate and therefore the timing, method and cost of future abatement, if any, are not known. The Company has not recorded an asset retirement obligation associated with asbestos abatement, given the uncertainty concerning the timing of future abatement, if any.
+
+Environmental Contingencies
+
+It is PPG’s policy to accrue expenses for environmental contingencies when it is probable that a liability has been incurred and the amount of loss can be reasonably estimated. Reserves for environmental contingencies are exclusive of claims against third parties and are generally not discounted.
+
+Assets and Liabilities Held for Sale
+
+The Company classifies assets and liabilities as held for sale (a “disposal group”) when management commits to a plan to sell the disposal group, the sale is probable within one year and the disposal group is available for immediate sale in its present condition. The Company considers various factors, particularly whether actions required to complete the plan indicate it is unlikely that significant changes to the plan will be made or the plan will be withdrawn. Assets held for sale are measured at the lower of carrying value or fair value less costs to sell. Any loss resulting from the measurement is recognized in the period the held-for-sale criteria are met. Conversely, gains are not recognized until the date of the sale. When the disposal group is classified as held for sale, depreciation and amortization ceases and the Company tests the assets for impairment.
+
+Reclassifications
+
+Certain reclassifications of prior years’ data have been made to conform to the current year presentation. These reclassifications had no impact on our previously reported Net income, cash flows or shareholders’ equity.
+
+Accounting Standards Adopted in 2025
+
+Effective for the annual period ended December 31, 2025, PPG adopted Financial Accounting Standards Board (“FASB”) Accounting Standards Update (“ASU”) No. 2023-09 “Improvements to Income Tax Disclosures (Topic 740)”. This ASU updated current income tax disclosure requirements to require disclosures of specific categories of information within the effective tax rate reconciliation, as well as disclosure of income taxes paid disaggregated by jurisdiction. PPG elected to apply ASU 2023-09 prospectively. Adoption of this ASU resulted in additional disclosure, but did not impact PPG’s consolidated financial position, results of operations or cash flows.
+
+Accounting Standards to be Adopted in Future Years
+
+In November 2024, the FASB issued ASU 2024-03, “Income Statement – Reporting Comprehensive Income-Expense Disaggregation (Subtopic 220-40): Disaggregation of Income Statement Expenses”. The ASU requires the disclosure of additional information related to certain costs and expenses, including amounts of inventory purchases, employee compensation, and depreciation and amortization included in each income statement line item. The ASU also requires disclosure of the total amount of selling expenses and our definition of selling expenses. This ASU will be effective for the
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 43
+
+annual period ending December 31, 2027. Adoption of this ASU will result in additional disclosure, but will not impact PPG’s consolidated financial position, results of operations or cash flows.
+
+In September 2025, the FASB issued ASU 2025-06, “Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software”. The ASU is intended to modernize the recognition and disclosure framework for internal-use software costs, removing the previous “development stage” model to align the accounting rules with how software is developed today. This ASU will be effective for PPG beginning January 1, 2028. The Company is currently evaluating the impact of this ASU on its consolidated financial statements.
+
+2. Divestitures
+
+U.S. and Canada Architectural Coatings Business
+
+In 2024, PPG completed the sale of 100 % of its architectural coatings business in the U.S. and Canada to American Industrial Partners (AIP), an industrials investor. PPG received $ 516 million in proceeds and recorded a loss on the sale of $ 285 million. No tax benefit was recorded on the loss. The loss on the sale was recorded in “ Income/(loss) from discontinued operations, net of tax ” in the consolidated statement of income. The proceeds from the sale were recorded in “Cash from/(used for) investing activities - discontinued operations” in the consolidated statement of cash flows.
+
+The sale represented a strategic shift in PPG’s business portfolio that had a major effect on the Company’s operations and financial results. Accordingly, the Company’s consolidated results of operations and cash flows were recast to present the results of the architectural coatings business in the U.S. and Canada as discontinued operations for all periods presented. The results of the U.S. and Canada architectural coatings business were previously included in the Performance Coatings segment.
+
+The operating results of discontinued operations related to the U.S. and Canada architectural coatings business for the three years ended December 31, 2025, 2024, and 2023 were as follows:
+
+The following table presents the significant non-cash items and capital expenditures for the discontinued operations related to the U.S. and Canada architectural coatings business that are included in the Consolidated Statement of Cash Flows for the three years ended December 31, 2025, 2024, and 2023:
+
+In conjunction with the divestiture of U.S. and Canada architectural coatings business, PPG entered into a supply agreement with the divested business to sell certain products, which are recognized as Net sales in the refinish coatings, industrial coatings and protective and marine coatings businesses. Additionally, PPG entered into transition services agreements to provide administrative services subsequent to the sale. The fees for services rendered under the transition services agreements are expected to offset the cost of providing those services.
+
+Silicas Products Business
+
+In 2024, PPG completed the sale of its silicas products business for $ 325 million in proceeds and recorded a pre-tax gain on the sale of $ 129 million. The gain on the sale was recorded in “Other charges/(income), net” in the consolidated statement of income. The Company determined that the divestiture did not meet the criteria of a discontinued operation as it did not represent a strategic shift for the Company, and therefore, its historical results are included in the Company's continuing operations within the Industrial Coatings reportable business segment.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 44
+
+3. Working Capital Detail
+
+(1) Most U.S. inventories are valued using the LIFO method. If the FIFO method of inventory valuation had been used, inventories would have been $ 181 million and $ 169 million higher as of December 31, 2025 and 2024, respectively.
+
+4. Property, Plant and Equipment
+
+5. Investments
+
+Investments in equity affiliates represent PPG’s ownership interests in entities between 20% and 50% that manufacture and sell coatings and certain chemicals.
+
+PPG’s share of undistributed net earnings of equity affiliates was $ 19 million, $ 20 million and $ 21 million in 2025, 2024 and 2023, respectively. Dividends received from equity affiliates were $ 12 million, $ 14 million and $ 17 million in 2025, 2024 and 2023, respectively.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 45
+
+6. Goodwill and Other Identifiable Intangible Assets
+
+In the fourth quarter, the Company tests the carrying value of goodwill for impairment, as discussed in Note 1. “Summary of Significant Accounting Policies.” In both 2025 and 2024, the annual impairment testing of goodwill did not result in impairment of any of the Company’s reporting units. In conjunction with the 2023 assessment, the Company determined that the estimated fair value of the traffic solutions reporting unit was less than its carrying value, resulting in recognition of a goodwill impairment charge of $ 158 million in Impairment and other related charges , net in the accompanying consolidated statements of income. The fair value of the traffic solutions reporting unit was estimated using a discounted cash flow model. Key assumptions and estimates used in the discounted cash flow model included projected future revenues, a discount rate, operating cash flows, capital expenditures, and a tax rate. The decline in the fair value of the traffic solutions reporting unit compared to prior periods was primarily due to an increase in the weighted average cost of capital (discount rate assumption) reflecting the current interest rate environment. In addition, the fair value was impacted by a decline in the reporting unit’s long-term cash generation forecast due to the highly inflationary environment in Argentina and the fourth quarter 2023 divestitures of its European and Australian businesses.
+
+As of December 31, 2025, accumulated goodwill impairment losses totaled $ 158 million, all of which relates to the Performance Coatings reportable segment.
+
+In the fourth quarter, the Company tests the carrying value of indefinite-lived trademarks for impairment, as discussed in Note 1, “Summary of Significant Accounting Policies.” In both 2025 and 2024, the annual impairment testing review of indefinite-lived intangibles did not result in an impairment. In conjunction with the 2023 annual impairment test, the Company determined that the estimated fair value of certain trademarks in the Global Architectural Coatings segment were less than the carrying value, resulting in recognition of impairment charges of $ 2 million in Impairment and other related charges, net in the accompanying consolidated statement of income.
+
+Aggregate amortization expense was $ 125 million, $ 132 million and $ 154 million in 2025, 2024 and 2023, respectively. In the fourth quarter 2023, the Company recognized accelerated amortization expense of $ 6 million related to the exit of a non-core business.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 46
+
+7. Impairment and Other Related Charges, Net
+
+In 2025, the Company recognized pretax net impairment and other related charges of $ 24 million related to a consolidated joint venture in the Performance Coatings segment. The charges primarily represented the impairment of definite-lived identified intangible assets and are included in Impairment and other related charges, net in the consolidated statement of income. Net loss of $ 12 million related to the charges was attributable to noncontrolling interests.
+
+In 2023, the Company recorded a goodwill impairment charge for the traffic solutions reporting unit and indefinite-lived intangible asset impairment charges related to certain trademarks. Refer to Note 6, “Goodwill and Other Identifiable Intangible Assets” for further detail related to this charge, which is included in Impairment and other related charges, net in the accompanying consolidated statement of income.
+
+Sale of Russia Operations
+
+In 2024, the Company received written approval from Russian regulatory authorities of a definitive agreement to sell the Company’s remaining Russian business. As a result, the Company classified the business as held for sale as of December 31, 2024 and recognized an impairment charge of $ 146 million during 2024, primarily related to accumulated foreign currency translation losses, which was included in Impairment and other related charges, net in the consolidated statement of income. No tax benefit was recorded on the impairment charge. The remaining liabilities of the business were reported as held for sale in Other current liabilities on the consolidated balance sheet as of December 31, 2024. In the first quarter 2025, PPG completed the sale of its remaining Russian business. The results of the business were reported within the Global Architectural Coatings reportable business segment.
+
+8. Business Restructuring
+
+The Company records restructuring liabilities that represent charges incurred in connection with consolidations of certain operations, including operations from acquisitions, as well as headcount reduction programs. These charges consist primarily of severance costs and certain other cash costs. As a result of these programs, the Company will also incur incremental non-cash accelerated depreciation expense for certain assets due to their reduced expected asset life. These charges are not allocated to the Company’s reportable business segments. Refer to Note 21, “Reportable Business Segment Information” for additional information.
+
+In 2024, the Company approved a comprehensive cost reduction program. The multi-year program focused on reducing structural costs primarily in Europe and in certain other global businesses, along with other corporate costs following the divestitures of PPG’s silicas products business and the architectural coatings business in the U.S. and Canada. The program includes various facility closures and other targeted fixed cost reductions. In connection with approval of this restructuring program, the Company recorded a pretax restructuring charge of $ 239 million, representing employee severance and other cash costs. As a result of this program, the Company also recognized a $ 110 million non-cash charge in 2024 due to the recognition of accumulated currency losses related to the exit of its Argentina operations.
+
+The majority of the remaining approved business restructuring actions and associated cash outlays are expected to be completed in 2026 and 2027.
+
+The following table summarizes restructuring reserve activity for the years ended December 31, 2025 and 2024:
+
+(a) Certain releases were recorded to reflect the current estimate of costs to complete planned business restructuring actions.
+
+9. Leases
+
+PPG leases certain retail paint stores, warehouses, distribution facilities, office space, fleet vehicles and equipment.
+
+The components of lease expense for the years ended December 31, 2025, 2024 and 2023 were as follows:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 47
+
+Total operating lease cost for the years ended December 31, 2025, 2024 and 2023 is inclusive of the following:
+
+The lease amounts included in the consolidated balance sheet as of December 31, 2025 and 2024 were as follows:
+
+(1) Net of accumulated depreciation of $ 16 million and $ 14 million as of December 31, 2025 and 2024, respectively.
+
+Supplemental cash flow information related to leases for the years ended December 31, 2025, 2024 and 2023 was as follows:
+
+Lease terms and discount rates as of December 31, 2025, 2024 and 2023 were as follows:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 48
+
+As of December 31, 2025, maturities of lease liabilities were as follows:
+
+10. Borrowings and Lines of Credit
+
+Long-term Debt Obligations
+
+(1) As of December 31, 2025, the Term Loan was due in 2028. In January 2026, the Term Loan was amended to extend its maturity to January 2029.
+
+(2) In February 2018, PPG entered into interest rate swaps which converted $ 375 million of the notes from a fixed interest rate to a floating interest rate based on the three month SOFR. The impact of the derivative on the notes represents the fair value adjustment of the debt. The average effective interest rate for the portion of the notes impacted by the swaps was 5.5 % and 6.4 % for the years ended December 31, 2025 and 2024, respectively. Refer to Note 11, “Financial Instruments, Hedging Activities and Fair Value Measurements” for additional information.
+
+(3) Fair value adjustment of the 3.75 % $ 800 million notes as a result of fair value hedge accounting treatment related to the outstanding interest rate swaps as of December 31, 2025 and 2024. Refer to Note 11, “Financial Instruments, Hedging Activities and Fair Value Measurements” for additional information.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 49
+
+Credit Agreements
+
+In April 2023, PPG entered into a € 500 million term loan credit agreement (the "Term Loan"). The Term Loan contains covenants that are consistent with those in the Credit Agreement discussed below and that are usual and customary restrictive covenants for facilities of its type, which include, with specified exceptions, limitations on the Company’s ability to create liens or other encumbrances, to enter into sale and leaseback transactions and to enter into consolidations, mergers or transfers of all or substantially all of its assets. In April 2023, PPG borrowed € 500 million under the Term Loan. In December 2023, PPG obtained lender commitments sufficient to increase the size of the Term Loan by € 250 million. In January 2024, PPG borrowed the additional € 250 million. In December 2024, PPG obtained lender commitments sufficient to increase the size of the Term Loan by € 300 million. In January 2025, PPG borrowed the additional € 300 million. In January 2026, the Term Loan was amended to extend its maturity. Based on this amendment, the Term Loan terminates and all amounts outstanding are payable in January 2029. The Term Loan is denominated in euro and has been designated as a hedge of the net investment in the Company’s European operations. For more information, refer to Note 11 “Financial Instruments, Hedging Activities and Fair Value Measurements.”
+
+In July 2023, PPG amended and restated its five -year credit agreement (the "Credit Agreement") dated as of August 30, 2019, extending the term through July 27, 2028. In October 2025, PPG amended the Credit Agreement to extend its maturity as to certain commitments. The amended Credit Agreement provides for a $ 2.3 billion unsecured revolving credit facility, of which $ 2,148 million of the total commitment has a term through July 2029 and $ 152 million of the total commitment has a term through July 2028. The Company has the ability to increase the size of the Credit Agreement by up to an additional $ 750 million, subject to the receipt of lender commitments and other conditions precedent. The Company has the right, subject to certain conditions set forth in the Credit Agreement, to designate certain subsidiaries of the Company as borrowers under the Credit Agreement. In connection with any such designation, the Company is required to guarantee the obligations of any such subsidiaries under the Credit Agreement. There were no amounts outstanding under the Credit Agreement as of December 31, 2025 and December 31, 2024.
+
+Borrowings under the Credit Agreement may be made in U.S. Dollars or in euros. The Credit Agreement provides that loans will bear interest at rates based, at the Company’s option, on one of two specified base rates plus a margin based on certain formulas defined in the Credit Agreement. Additionally, the Credit Agreement contains a Commitment Fee, as defined in the Credit Agreement, on the amount of unused commitments under the Credit Agreement ranging from 0.060 % to 0.125 % per annum.
+
+The Credit Agreement also supports the Company’s commercial paper borrowings which are classified as long-term based on PPG’s intent and ability to refinance these borrowings on a long-term basis. There were no commercial paper borrowings outstanding as of both December 31, 2025 and December 31, 2024.
+
+The Credit Agreement contains usual and customary restrictive covenants for facilities of its type, which include, with specified exceptions, limitations on the Company’s ability to create liens or other encumbrances, to enter into sale and leaseback transactions and to enter into consolidations, mergers or transfers of all or substantially all of its assets. The Credit Agreement also requires the Company to maintain a ratio of Total Indebtedness to Total Capitalization, as defined in the Credit Agreement, of 60 % or less; provided, that for any fiscal quarter in which the Company has made an acquisition for consideration in excess of $ 1 billion and for the next five fiscal quarters thereafter, the ratio of Total Indebtedness to Total Capitalization may not exceed 65 % at any time. As of December 31, 2025, Total Indebtedness to Total Capitalization as defined under the Credit Agreement was 47 %.
+
+The Credit Agreement contains, among other things, customary events of default that would permit the lenders to accelerate the loans, including the failure to make timely payments when due under the Credit Agreement or other material indebtedness, the failure to satisfy covenants contained in the Credit Agreement, a change in control of the Company and specified events of bankruptcy and insolvency.
+
+Other Long-term Debt Activities
+
+In November 2025, PPG’s € 600 million 0.875 % notes matured, and the Company repaid this obligation using cash on hand.
+
+In October 2025, PPG completed a public offering of $ 700 million 4.375 % Notes due 2031. These notes were issued pursuant to PPG’s existing shelf registration statement and pursuant to an indenture between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee, as supplemented (the "2025 Indenture"). The 2025 Indenture governing these notes contains covenants that limit the Company’s ability to, among other things, incur certain liens securing indebtedness, engage in certain sale-leaseback transactions, and enter into certain consolidations, mergers, conveyances, transfers or leases of all or substantially all the Company’s assets. The terms of these notes also require the Company to make an offer to repurchase Notes upon a Change of Control Triggering Event (as defined in the 2025 Indenture) at a price equal to 101 % of their principal amount plus accrued and unpaid interest. The Company may issue additional debt from time to time pursuant to the Indenture. The aggregate cash proceeds from the notes, net of discounts and fees, was $ 693 million.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 50
+
+In June 2025, PPG's € 300 million 1.875 % notes matured, and the Company repaid this obligation using cash on hand.
+
+In March 2025, PPG completed a public offering of € 900 million 3.250 % Notes due 2032. These notes were issued pursuant to PPG’s existing shelf registration statement and pursuant to an indenture between the Company and The Bank of New York Mellon Trust Company, N.A., as trustee, as supplemented. These notes contain covenants materially consistent with the $ 700 million 4.375 % Notes due 2031 discussed above. The aggregate cash proceeds from the notes, net of discounts and fees, was $ 940 million. The notes are denominated in euro and the notes have been designated as hedges of net investments in the Company’s European operations. Refer to Note 11 “Financial Instruments, Hedging Activities and Fair Value Measurements” for additional information.
+
+In August 2024, PPG’s $ 300 million 2.4 % notes matured, and the Company repaid this obligation using cash on hand.
+
+In March 2023, PPG’s $ 300 million 3.2 % notes matured, and the Company repaid this obligation using cash on hand.
+
+In February 2021, PPG entered into a $ 2.0 billion term loan credit agreement (the "Term Loan Credit Agreement") to finance the Company’s acquisition of Tikkurila, and to pay fees, costs and expenses related thereto. The Term Loan Credit Agreement provided the Company with the ability to borrow up to an aggregate principal amount of $ 2.0 billion on an unsecured basis. In 2023, PPG fully repaid the remaining $ 1.1 billion that was outstanding under the Term Loan Credit Agreement using cash on hand.
+
+Restrictive Covenants and Cross-Default Provisions
+
+As of December 31, 2025, PPG was in full compliance with the restrictive covenants under its various credit agreements, loan agreements and indentures.
+
+Additionally, the Company’s Credit Agreement and Term Loan contain customary cross-default provisions. These provisions provide that a default on a debt service payment of $ 100 million or more for longer than the grace period provided under another agreement may result in an event of default under this agreement. None of the Company’s primary debt obligations are secured or guaranteed by the Company’s affiliates.
+
+Long-term Debt Maturities
+
+(1) As of December 31, 2025, the Term Loan with an outstanding balance of $1,233 million was due in 2028. The Term Loan is shown as due in 2028 within this table. In January 2026, the Term Loan was amended to extend its maturity to January 2029.
+
+Short-term Debt Obligations
+
+Lines of Credit, Letters of Credit and Surety Bonds
+
+PPG’s non-U.S. operations have uncommitted lines of credit totaling $ 436 million of which none was used as of December 31, 2025. These uncommitted lines of credit are subject to cancellation at any time and are generally not subject to any commitment fees.
+
+The Company had outstanding letters of credit and surety bonds of $ 272 million and $ 302 million as of December 31, 2025 and 2024, respectively. The letters of credit secure the Company’s performance to third parties under certain self-insurance programs and other commitments made in the ordinary course of business. The Company does not believe any loss related to these letters of credit or surety bonds is likely.
+
+11. Financial Instruments, Hedging Activities and Fair Value Measurements
+
+Financial instruments include cash and cash equivalents, short-term investments, cash held in escrow, marketable equity securities, accounts receivable, company-owned life insurance, accounts payable, short-term and long-term debt instruments, and derivatives. The fair values of these financial instruments approximated their carrying values at December 31, 2025 and 2024, in the aggregate, except for long-term debt instruments.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 51
+
+Hedging Activities
+
+The Company has exposure to market risk from changes in foreign currency exchange rates and interest rates. As a result, financial instruments, including derivatives, have been used to hedge a portion of these underlying economic exposures. Certain of these instruments qualify as fair value, cash flow, and net investment hedges upon meeting the requisite criteria, including effectiveness of offsetting hedged or underlying exposures. Changes in the fair value of derivatives that do not qualify for hedge accounting are recognized in Income before income taxes in the period incurred.
+
+PPG’s policies do not permit speculative use of derivative financial instruments. PPG enters into derivative financial instruments with high credit quality counterparties and diversifies its positions among such counterparties in order to reduce its exposure to credit losses. The Company did not realize a credit loss on derivatives during the three-year period ended December 31, 2025.
+
+All of PPG’s outstanding derivative instruments are subject to accelerated settlement in the event of PPG’s failure to meet its debt or payment obligations under the terms of the instruments’ contractual provisions. In addition, if the Company would be acquired and its payment obligations under its derivative instruments’ contractual arrangements are not assumed by the acquirer, or if PPG would enter into bankruptcy, receivership or reorganization proceedings, its outstanding derivative instruments would also be subject to accelerated settlement.
+
+In 2025 and 2024, there were no derivative instruments de-designated or discontinued as a hedging instrument. There were no gains or losses deferred in Accumulated other comprehensive loss on the consolidated balance sheet that were reclassified to Income before income taxes in the consolidated statement of income during the three-year period ended December 31, 2025 related to hedges of anticipated transactions that were no longer expected to occur.
+
+Fair Value Hedges
+
+The Company uses interest rate swaps from time to time to manage its exposure to changing interest rates. When outstanding, the interest rate swaps are typically designated as fair value hedges of certain outstanding debt obligations of the Company and are recorded at fair value.
+
+PPG has interest rate swaps which converted $ 375 million of fixed rate debt to variable rate debt as of both December 31, 2025 and December 31, 2024, respectively. These swaps are designated as fair value hedges and are carried at fair value. Changes in the fair value of these swaps and changes in the fair value of the related debt are recorded in Interest expense in the accompanying consolidated statement of income. The fair value of these interest rate swaps were liabilities of $6 million and $ 16 million at December 31, 2025 and 2024, respectively.
+
+Cash Flow Hedges
+
+At times, PPG designates certain foreign currency forward contracts as cash flow hedges of the Company’s exposure to variability in exchange rates on third party transactions denominated in foreign currencies. There were no outstanding cash flow hedges at December 31, 2025 and December 31, 2024, respectively.
+
+Net Investment Hedges
+
+PPG uses cross currency swaps and foreign currency euro-denominated debt to hedge a significant portion of its net investment in its European operations, as follows:
+
+PPG had U.S. dollar to euro cross currency swap contracts with total notional amounts o f $ 375 million as of both December 31, 2025 and December 31, 2024, respectively, and designated these contracts as hedges of the Company's net investment in its European operations. During the term of these contracts, PPG will receive payment in U.S. dollars and make payments in euros to the counterparties. As of December 31, 2025 and 2024, the fair value of these contracts were net assets of $ 11 million and $ 50 million, respectively.
+
+At December 31, 2025 and 2024, PPG had designated € 3.5 billion and € 3.2 billion, respectively, of euro-denominated borrowings as hedges of a portion of its net investment in the Company’s European operations. The carrying value of these instruments was $ 4.1 billion and $ 3.3 billion at December 31, 2025 and 2024, respectively.
+
+There were no foreign currency forward contracts designated as net investment hedges used or outstanding as of and for the periods ended December 31, 2025, 2024 and 2023.
+
+Other Financial Instruments
+
+PPG uses foreign currency forward contracts to manage net transaction exposures that do not qualify for hedge accounting; therefore, the change in the fair value of these instruments is recorded in Other charges/(income), net in the consolidated statement of income in the period of change. Underlying notional amounts related to these foreign currency forward contracts were $ 2.9 billion and $ 2.8 billion at December 31, 2025 and 2024, respectively. The fair values of these contracts were net assets of $ 1 million as of December 31, 2025 and net liabilities of $ 53 million a s of December 31, 2024, respectively.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 52
+
+Gains/Losses Deferred in Accumulated Other Comprehensive Loss
+
+As of December 31, 2025, the Company had accumulated pretax unrealized translation losses in Accumulated other comprehensive loss on the consolidated balance sheet related to the euro-denominated borrowings, foreign currency forward contracts, and the cross currency swaps of $ 572 million and gains of $ 460 million as of December 31, 2024.
+
+The following table summarizes the amount of gains/(losses) deferred in Other comprehensive income ("OCI") and the amount and location of gains recognized within the consolidated statement of income related to derivative and debt financial instruments for the years ended December 31, 2025, 2024 and 2023. All dollar amounts are shown on a pretax basis.
+
+Fair Value Measurements
+
+The Company follows a fair value measurement hierarchy to measure its assets and liabilities. As of December 31, 2025 and 2024, respectively, the assets and liabilities measured at fair value on a recurring basis were cash equivalents, equity securities and derivatives. In addition, the Company measures its pension plan assets at fair value (see Note 14, “Employee Benefit Plans” for further details). The Company’s financial assets and liabilities are measured using inputs from the following three levels:
+
+Level 1 inputs are quoted prices in active markets for identical assets and liabilities that the Company has the ability to access at the measurement date. Level 1 inputs are considered to be the most reliable evidence of fair value as they are based on unadjusted quoted market prices from various financial information service providers and securities exchanges.
+
+Level 2 inputs are directly or indirectly observable prices that are not quoted on active exchanges, which include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability and inputs that are derived principally from or corroborated by observable market data by correlation or other means. The fair values of the derivative instruments reflect the instruments’ contractual terms, including the period to maturity, and uses observable market-based inputs, including forward curves.
+
+Level 3 inputs are unobservable inputs employed for measuring the fair value of assets or liabilities. The Company does not have any recurring financial assets or liabilities that are recorded in its consolidated balance sheets as of December 31, 2025 and 2024 that are classified as Level 3 inputs.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 53
+
+Assets and liabilities reported at fair value on a recurring basis
+
+(a) Derivatives not designated as hedging instruments
+
+(b) Net investment hedges
+
+(c) Fair value hedges
+
+Long-Term Debt
+
+(a) Excluding finance lease obligations of $ 7 million and short term borrowings of $ 4 million as of December 31, 2025.
+
+(b) Excluding finance lease obligations of $ 7 million and short term borrowings of $ 7 million as of December 31, 2024.
+
+The fair values of the debt instruments were measured using Level 2 inputs, including discounted cash flows and interest rates then currently available to the Company for instruments of the same remaining maturities.
+
+12. Earnings Per Common Share
+
+(a) Excluded from the computation of earnings per diluted share due to their antidilutive effect.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 54
+
+13. Income Taxes
+
+The provision for income taxes by taxing jurisdiction and by significant components consisted of the following:
+
+The following table is a reconciliation of the statutory U.S. corporate federal income tax rate to the Company’s effective tax rate for 2025 in accordance with the guidance in ASU 2023-09:
+
+The following table is a reconciliation of the statutory U.S. corporate federal income tax rate to the Company’s effective tax rate for 2024 and 2023 in accordance with the guidance prior to the adoption of ASU 2023-09:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 55
+
+Income/(loss) before income taxes of the Company’s U.S. operations for 2025, 2024 and 2023 was $ 293 million, $ 210 million and $( 129 ) million, respectively. Income before income taxes of the Company’s foreign operations for 2025, 2024 and 2023 was $ 1,752 million, $ 1,642 million and $ 1,819 million, respectively.
+
+Income tax payments, net of refunds
+
+The following table presents the net income taxes paid/(net refunds received) by the Company for 2025 in accordance with the guidance in ASU 2023-09:
+
+(1) Net refund received due to overpayment of prior year tax liability related to portfolio optimization actions in 2024 and other items.
+
+Deferred income taxes
+
+Deferred income taxes are provided for the effect of temporary differences that arise because there are certain items treated differently for financial accounting than for income tax reporting purposes. The deferred tax assets and liabilities are determined by applying the enacted tax rate in the year in which the temporary difference is expected to reverse.
+
+Net operating loss and credit carryforwards
+
+A valuation allowance of $ 258 million and $ 327 million has been established as of December 31, 2025 and 2024, respectively, for carryforwards and certain other items when the ability to utilize them is not likely.
+
+Undistributed foreign earnings
+
+The Company had $ 7.5 billion of undistributed earnings of non-U.S. subsidiaries as of December 31, 2025. This amount relates to approximately 220 subsidiaries in more than 50 taxable jurisdictions. The Company estimates repatriation of undistributed earnings of non-U.S. subsidiaries as of December 31, 2025 would result in a tax cost of $ 167 million.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 56
+
+As of December 31, 2025, the Company had not changed its intention to reinvest foreign earnings indefinitely or repatriate when it is tax effective to do so, and as such, has not established a liability for foreign withholding taxes or other costs that would be incurred if the earnings were repatriated.
+
+Unrecognized tax benefits
+
+The Company files federal, state and local income tax returns in numerous domestic and foreign jurisdictions. In most tax jurisdictions, returns are subject to examination by the relevant tax authorities for a number of years after the returns have been filed. In one tax jurisdiction, the Company remains subject to examinations by the tax authority for tax years dating back to 2007. In all other major jurisdictions, the Company is no longer subject to examinations by tax authorities for years before 2016. Furthermore, the Company is no longer subject to examination by the Internal Revenue Service for U.S. federal income tax returns filed for years through 2021, and there are no examinations open by the Internal Revenue Service for U.S. federal income tax returns.
+
+A reconciliation of the total amounts of unrecognized tax benefits (excluding interest and penalties) as of December 31 follows:
+
+(1) In 2025, the Company recorded a net charge related to the anticipated resolution of an outstanding tax matter. The Company expects to pay incremental income taxes and non-income taxes in the impacted taxing jurisdiction related to the matter. In connection with this matter, the Company reduced its provision for uncertain tax positions.
+
+The Company expects that any reasonably possible change in the amount of unrecognized tax benefits in the next 12 months would not be significant. The total amount of unrecognized tax benefits that, if recognized, would affect the effective tax rate was $ 94 million as of December 31, 2025.
+
+Interest and penalties
+
+The Company recognizes accrued interest and penalties related to unrecognized tax benefits in income tax expense.
+
+14. Employee Benefit Plans
+
+Defined Benefit Plans
+
+PPG has defined benefit pension plans that cover certain employees worldwide. The principal defined benefit pension plans are those in the U.S., Canada, Germany, the Netherlands and the U.K. These plans in the aggregate represent 92 % of PPG’s total projected benefit obligation at December 31, 2025, of which the U.S. defined benefit pension plans represent the largest component.
+
+As of January 1, 2006, the Company’s U.S. salaried defined benefit plans were closed to new entrants. In 2011 and 2012, the Company approved amendments related to its U.S. and Canadian defined benefit plans pursuant to which employees stopped accruing benefits at certain dates based on the affected employee’s combined age and years of service to PPG. As of December 31, 2020, the Company’s U.S. and Canadian defined benefit plans were frozen for all participants. The Company plans to continue reviewing and potentially amending PPG defined benefit plans in the future.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 57
+
+U.S. pension annuity contracts
+
+In March 2023, the Company purchased group annuity contracts that transferred to third-party insurance companies pension benefit obligations for certain of the Company’s retirees in the U.S. who were receiving their monthly retirement benefit payments from a U.S. pension plan. The amount of each affected retiree’s annuity payment was equal to the amount of such individual’s pension benefit. The purchase of group annuity contracts was funded directly by the assets of the U.S. plans. By transferring the obligations and assets to the insurance companies, the Company reduced its overall pension projected benefit obligation by $ 309 million and recognized a non-cash Pension settlement charge of $ 190 million in the consolidated statement of income for the year ended December 31, 2023.
+
+Postretirement medical
+
+PPG sponsors welfare benefit plans that provide postretirement medical and life insurance benefits for certain U.S. and Canadian employees and their dependents of which the U.S. welfare benefit plans represent 87% of PPG’s total projected benefit obligation at December 31, 2025. Salaried and certain hourly employees in the U.S. hired on or after October 1, 2004, or rehired on or after October 1, 2012 are not eligible for postretirement medical benefits. These plans in the U.S. and Canada require retiree contributions based on retiree-selected coverage levels for certain retirees and their dependents and provide for sharing of future benefit cost increases between PPG and participants based on management discretion. The Company has the right to modify, amend or terminate certain of these benefit plans in the future.
+
+The following table sets forth the changes in projected benefit obligations (“PBO”), plan assets, the funded status and the amounts recognized on the accompanying consolidated balance sheet for the Company’s defined benefit pension and other postretirement benefit plans:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 58
+
+The PBO is the actuarial present value of benefits attributable to employee service rendered to date, including the effects of estimated future pay increases. The accumulated benefit obligation (“ABO”) is the actuarial present value of benefits attributable to employee service rendered to date, but does not include the effects of estimated future pay increases. The ABO for all defined benefit pension plans as of December 31, 2025 and 2024 was $ 2.1 billion and $ 2.0 billion, respectively.
+
+The following table details the pension plans where the benefit liability exceeds the fair value of the plan assets:
+
+Net actuarial losses/(gains) and prior service credit deferred in accumulated other comprehensive loss
+
+The accumulated net actuarial losses/(gains) for pensions and other postretirement benefits relate primarily to historical changes in the discount rates. The accumulated net actuarial losses exceeded 10% of the higher of the market value of plan assets or the PBO at the beginning of each of the last three years; therefore, amortization of such excess has been included in net periodic benefit costs for pension and other postretirement benefits in these periods. The amortization period is the average remaining service period of active employees expected to receive benefits unless a plan is mostly inactive in which case the amortization period is the average remaining life expectancy of the plan participants. Accumulated prior service credit is amortized over the future service periods of those employees who are active at the dates of the plan amendments and who are expected to receive benefits.
+
+The net decrease in Accumulated other comprehensive loss (pretax) related to defined benefit pension and other postretirement benefit plans during the year ended December 31, 2025 was due to the following:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 59
+
+Net periodic benefit cost
+
+Service cost for net periodic pension and other postretirement benefit costs is included in Cost of sales, exclusive of depreciation and amortization, Selling, general and administrative, and Research and development, net in the accompanying consolidated statement of income. Except for the U.S. pension settlement charge in 2023, which is recorded in Pension settlement charge, all other non-service cost components of net periodic benefit cost are recorded in Other charges/(income), net in the accompanying consolidated statement of income.
+
+Key assumptions
+
+The following weighted average assumptions were used to determine the benefit obligation for the Company’s defined benefit pension and other postretirement plans as of December 31, 2025 and 2024:
+
+The following weighted average assumptions were used to determine the net periodic benefit cost for the Company’s defined benefit pension and other postretirement benefit plans for the three years in the period ended December 31, 2025:
+
+These assumptions for each plan are reviewed on an annual basis. In determining the expected return on plan asset assumption, the Company evaluates the mix of investments that comprise each plan’s assets and external forecasts of future long-term investment returns. The Company compares the expected return on plan assets assumption to actual historic returns to ensure reasonability. For 2025, the return on plan assets assumption for PPG’s U.S. defined benefit pension plans was 7.7 %. A change in the rate of return of 75 basis points, with other assumptions held constant, would impact 2026 net periodic pension expense by $ 6 million. The global expected return on plan assets assumption to be used in determining 2026 net periodic pension expense will be 7.1 % ( 7.7 % for the U.S. plans only).
+
+The discount rates used in accounting for pension and other postretirement benefits are determined using a yield curve constructed of high-quality fixed-income securities as of the measurement date and using the plans’ projected benefit payments. The Company has elected to use a full yield curve approach in the estimation of the service and interest cost components of net periodic pension benefit cost/(income) for countries with significant pension plans. The full yield curve approach (also known as the split-rate or spot-rate method) allows the Company to align the applicable discount rates with the cost of additional service being earned and the interest being accrued on these obligations. A change in the discount rate of 75 basis points, with all other assumptions held constant, would impact 2026 net periodic benefit expense for our defined benefit pension and other postretirement benefit plans by $ 4 million and $ 1 million, respectively.
+
+The weighted-average health care cost trend rate (inflation) used for 2025 was 6.6 % declining to a projected 3.9 % in the year 2050. For 2026, the assumed weighted-average health care cost trend rate used will be 5.6 % declining to a projected 4.0 % between 2025 and 2050 for medical and prescription drug costs. These assumptions are reviewed on an annual basis. In selecting rates for current and long-term health care cost assumptions, the Company takes into consideration a number of factors, including the Company’s actual health care cost increases, the design of the Company’s benefit programs, the demographics of the Company’s active and retiree populations and external expectations of future medical cost inflation rates.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 60
+
+Contributions to defined benefit pension plans
+
+PPG expects to make mandatory contributions to its defined benefit pension plans in the range of $ 20 million to $ 30 million during 2026. In addition to any mandatory contributions, PPG may elect to make voluntary contributions to its defined benefit pension plans in 2026 and beyond.
+
+Benefit payments
+
+The estimated benefits expected to be paid under the Company’s defined benefit pension and other postretirement benefit plans are:
+
+Plan assets
+
+Each PPG sponsored defined benefit pension plan is managed in accordance with the requirements of local laws and regulations governing defined benefit pension plans for the exclusive purpose of providing pension benefits to participants and their beneficiaries. Investment committees comprised of PPG managers have fiduciary responsibility to oversee the management of pension plan assets by third party asset managers. Pension plan assets are held in trust by financial institutions and managed on a day-to-day basis by the asset managers. The asset managers receive a mandate from each investment committee that is aligned with the asset allocation targets established by each investment committee to achieve the plan’s investment strategies. The performance of the asset managers is monitored and evaluated by the investment committees throughout the year.
+
+Pension plan assets are invested to generate investment earnings over an extended time horizon to help fund the cost of benefits promised under the plans while mitigating investment risk. The asset allocation targets established for each pension plan are intended to diversify the investments among a variety of asset categories and among a variety of individual securities within each asset category to mitigate investment risk and provide each plan with sufficient liquidity to fund the payment of pension benefits to retirees.
+
+The following summarizes the weighted average target pension plan asset allocation as of December 31, 2025 and 2024 for all PPG defined benefit plans:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 61
+
+The fair values of the Company’s pension plan assets at December 31, 2025 and 2024, by asset category, are as follows:
+
+(1) These levels refer to the accounting guidance on fair value measurement described in Note 11, “Financial Instruments, Hedging Activities and Fair Value Measurements.”
+
+(2) This category represents holdings in investment grade debt or equity securities of issuers in both developed markets and emerging economies.
+
+(3) This category represents investment grade debt securities from a diverse set of industry issuers.
+
+(4) This category primarily represents insurance contracts.
+
+(5) Certain investments that are measured at net asset value per share (or its equivalent) are not required to be classified in the fair value hierarchy.
+
+The change in the fair value of the Company’s Level 3 pension assets for the years ended December 31, 2025 and 2024 was as follows:
+
+Real estate properties are externally appraised at least annually by reputable, independent appraisal firms. Property valuations are also reviewed on a regular basis and are adjusted if there has been a significant change in circumstances related to the property since the last valuation.
+
+Other debt securities primarily consist of insurance contracts, which are valued externally by insurance companies based on the present value of the expected future cash flows.
+
+Hedge funds consist of a wide range of investments which target a relatively stable investment return. The underlying funds are valued at different frequencies, some monthly and some quarterly, based on the value of the underlying investments. Other assets consist primarily of small investments in private equity funds and debt obligations of non-investment grade borrowers.
+
+Other Plans
+
+Employee savings plans
+
+PPG’s Employee Savings Plans (“Savings Plans”) cover substantially all employees in the U.S., Puerto Rico and Canada. The Company makes matching contributions to the Savings Plans, at management’s discretion, based upon participants’ savings, subject to certain limitations. For most participants, Company-matching contributions are established each year at the discretion of the Company and are applied to participant accounts up to a maximum of 6 % of eligible participant compensation. The Company-matching contribution remained at 100 % for 2025.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 62
+
+Compensation expense and cash contributions related to the Company match of participant contributions to the Savings Plans for 2025, 2024, and 2023 totaled $ 38 million , $ 52 million and $ 49 million, respectively. A portion of the Savings Plans qualifies under the Internal Revenue Code as an Employee Stock Ownership Plan. Accordingly, dividends received on PPG shares held in that portion of the Savings Plans totaling $ 10 million in the year ended December 31, 2025 and $ 11 million in each of the years ended December 31, 2024 and 2023, respectively, are deductible for PPG’s U.S. Federal tax purposes.
+
+Defined contribution plans
+
+Additionally, the Company has defined contribution plans for certain employees in the U.S., China, United Kingdom, Australia, Italy and other countries. The U.S. defined contribution plan is part of the Employee Savings Plan, and eligible employees receive a contribution equal to between 2 % and 5 % of annual compensation, based on age and years of service. For the years ended December 31, 2025, 2024 and 2023, the Company recognized expense for its defined contribution retirement plans of $ 100 million, $ 97 million and $ 83 million, respectively. The Company’s annual cash contributions to its defined contribution retirement plans approximated the expense recognized in each year.
+
+Deferred compensation plan
+
+The Company has a deferred compensation plan for certain key managers which allows them to defer a portion of their compensation in a phantom PPG stock account or other phantom investment accounts. The amount deferred earns a return based on the investment options selected by the participant. The amount owed to participants is an unfunded and unsecured general obligation of the Company. Upon retirement, death, disability, termination of employment, scheduled payment or unforeseen emergency, the compensation deferred and related accumulated earnings are distributed in a lump sum or in accordance with the participant’s election in cash or in PPG stock, based on the accounts selected by the participant and whether the participant meets the definition of a retiree under the plan.
+
+The plan provides participants with investment alternatives and the ability to transfer amounts between the phantom non-PPG stock investment accounts. To mitigate the impact on compensation expense of changes in the market value of the liability, the Company has purchased a portfolio of marketable securities that mirror the phantom non-PPG stock investment accounts selected by the participants, except the money market accounts. These investments are carried by PPG at fair market value, and the changes in market value of these securities are also included in Income before income taxes in the consolidated statement of income. Trading occurs in this portfolio to align the securities held with the participant’s phantom non-PPG stock investment accounts, except the money market accounts.
+
+The cost of the deferred compensation plan, comprised of dividend equivalents accrued on the phantom PPG stock account, investment income and the change in market value of the liability, was $ 16 million, $ 25 million and $ 23 million in 2025, 2024 and 2023, respectively. These amounts are included in Selling, general and administrative in the consolidated statements of income. The change in market value of the investment portfolio was income of $ 16 million, $ 23 million, and $ 21 million in 2025, 2024 and 2023, respectively, and is also included in Selling, general and administrative in the consolidated statements of income.
+
+The Company’s obligations under this plan, which are included in Accounts payable and accrued liabilities and Other liabilities on the consolidated balance sheet, totaled $ 116 million and $ 125 million as of December 31, 2025 and 2024, respectively, and the investments in marketable securities, which are included in Investments and Other current assets on the accompanying consolidated balance sheet, were $ 89 million and $ 94 million as of December 31, 2025 and 2024, respectively.
+
+15. Commitments and Contingent Liabilities
+
+PPG is involved in a number of lawsuits and claims, both actual and potential, including some that it has asserted against others, in which substantial monetary damages are sought. These lawsuits and claims may relate to contract, patent, environmental, product liability, antitrust, employment and other matters arising out of the conduct of PPG’s current and past business activities. To the extent that these lawsuits and claims involve personal injury, property damage and certain other claims, PPG believes it has adequate insurance; however, certain of PPG’s insurers are contesting coverage with respect to some of these claims, and other insurers may contest coverage with respect to some claims in the future. PPG’s lawsuits and claims against others include claims against insurers and other third parties with respect to actual and contingent losses related to environmental, asbestos and other matters.
+
+The results of any current or future litigation and claims are inherently unpredictable. However, management believes that, in the aggregate, the outcome of all lawsuits and claims involving PPG will not have a material effect on PPG’s consolidated financial position or liquidity; however, such outcome may be material to the results of operations of any particular period in which costs, if any, are recognized.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 63
+
+Asbestos Matters
+
+As of December 31, 2025, the Company was aware of certain asbestos-related claims pending against the Company and certain of its subsidiaries. The Company is defending these asbestos-related claims vigorously. The asbestos-related claims consist of claims against the Company alleging:
+
+• exposure to asbestos or asbestos-containing products manufactured, sold or distributed by the Company or its subsidiaries (“Products Claims”);
+
+• personal injury caused by asbestos on premises presently or formerly owned, leased or occupied by the Company (“Premises Claims”); and
+
+• asbestos-related claims against a subsidiary the Company acquired in 2013 (“Subsidiary Claims”).
+
+The Company monitors and reviews the activity associated with its asbestos claims and evaluates, on a periodic basis, its estimated liability for such claims and all underlying assumptions to determine whether any adjustment to the reserves for these claims is required. Additionally, as a supplement to its periodic monitoring and review, the Company conducts discussions with counsel and engages valuation consultants to analyze its claims history and estimate the amount of the Company’s potential liability for asbestos-related claims.
+
+As of December 31, 2025 and 2024, the Company’s asbestos-related reserves totaled $ 43 million and $ 45 million, respectively.
+
+The Company believes that, based on presently available information, the total reserves for asbestos-related claims will be sufficient to encompass all of the Company’s current and estimable potential future asbestos liabilities. These reserves, which are included within Other liabilities on the accompanying consolidated balance sheets, involve significant management judgment and represent the Company’s current best estimate of its liability for these claims.
+
+The amount reserved for asbestos-related claims by its nature is subject to many uncertainties that may change over time, including (i) the ultimate number of claims filed; (ii) whether closed, dismissed or dormant claims are reinstituted, reinstated or revived; (iii) the amounts required to resolve both currently known and future unknown claims; (iv) the amount of insurance, if any, available to cover such claims; (v) the unpredictable aspects of the tort system, including a changing trial docket and the jurisdictions in which trials are scheduled; (vi) the outcome of any trials, including potential judgments or jury verdicts; (vii) the lack of specific information in many cases concerning exposure for which the Company is allegedly responsible, and the claimants’ alleged diseases resulting from such exposure; and (viii) potential changes in applicable federal and/or state tort liability law. All of these factors may have a material effect upon future asbestos-related liability estimates. While the ultimate outcome of the Company’s asbestos litigation cannot be predicted with certainty, the Company believes that any financial exposure resulting from its asbestos-related claims will not have a material adverse effect on the Company’s consolidated financial position, liquidity or results of operations.
+
+Environmental Matters
+
+In management’s opinion, the Company operates in an environmentally sound manner and the outcome of the Company’s environmental contingencies will not have a material effect on PPG’s financial position or liquidity; however, any such outcome may be material to the results of operations of any particular period in which costs, if any, are recognized. Management anticipates that the resolution of the Company’s environmental contingencies will occur over an extended period of time.
+
+As remediation at certain environmental sites progresses, PPG continues to refine its assumptions underlying the estimates of the expected future costs of its remediation programs. PPG’s ongoing evaluation may result in additional charges against income to adjust the reserves for these sites. In 2025, 2024 and 2023, certain charges have been recorded based on updated estimates to increase existing reserves for these sites. Certain other charges related to environmental remediation actions are recorded to expense as incurred.
+
+As of December 31, 2025 and 2024, PPG had reserves for environmental contingencies associated with PPG’s former chromium manufacturing plant in Jersey City, New Jersey (“New Jersey Chrome”), glass and chemical manufacturing sites, and for other environmental contingencies, including current manufacturing locations and National Priority List sites. These reserves are reported as Accounts payable and accrued liabilities and Other liabilities in the accompanying consolidated balance sheet.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 64
+
+Pretax charges against income for environmental remediation costs are included in Other charges/(income), net in the accompanying consolidated statement of income. The pretax charges and cash outlays related to such environmental remediation in 2025, 2024 and 2023, were as follows:
+
+In 2025, the Company recognized pretax environmental remediation charges of $ 16 million related to certain legacy PPG manufacturing sites. These legacy environmental remediation charges primarily relate to an increase in the expected cost of surrounding site remediation at the New Jersey Chrome site and remedial actions at a legacy glass manufacturing site.
+
+The Company continues to analyze, assess and remediate the environmental issues associated with New Jersey Chrome as further discussed below. Excluding the charges related to New Jersey Chrome, pretax charges against income for environmental remediation have ranged between approximately $ 5 million and $ 40 million per year for the past 10 years.
+
+Management expects cash outlays for environmental remediation costs to range from $ 20 million to $ 60 million annually from 2026 through 2030.
+
+Actual future cash outlays may vary from expected future cash outlays and actual future costs may vary from accrued estimates due to the inherent uncertainties involved in estimating future environmental remediation costs, including possible technological, regulatory and enforcement developments, the results of environmental studies and other factors. Specifically, the level of expected future remediation costs and cash outlays is highly dependent upon activity related to New Jersey Chrome as discussed below.
+
+Remediation: New Jersey Chrome
+
+In June 2009, PPG entered into a settlement agreement with the New Jersey Department of Environmental Protection (“NJDEP”) and Jersey City, New Jersey (which had asserted claims against PPG for lost tax revenue) which was in the form of a Partial Consent Judgment (the "Consent"). Under the Consent, PPG accepted sole responsibility for the remediation activities at its former chromium manufacturing location in Jersey City and a number of additional surrounding sites. Remediation of the New Jersey Chrome sites requires PPG to remediate soil and groundwater contaminated by hexavalent chromium, as well as perform certain other environmental remediation activities. The most significant assumptions underlying the estimate of remediation costs for all New Jersey Chrome sites relate to the extent and concentration of chromium in the soil.
+
+PPG regularly evaluates the assessments of costs incurred to date versus current progress and the potential cost impacts of the most recent information, including the extent of impacted soils and groundwater, engineering, administrative and other associated costs. Based on these assessments, the reserve is adjusted accordingly. As of December 31, 2025 and 2024, PPG’s reserve for remediation of all New Jersey Chrome sites was $ 56 million and $ 58 million, respectively. The major cost components of this liability are related to excavation of impacted soil, as well as groundwater remediation. These components each account for approximately 65 % and 10 % of the amount accrued at December 31, 2025, respectively.
+
+There are multiple, future events yet to occur, including further remedy selection and design, remedy implementation and execution and applicable governmental agency or community organization approvals. Considerable uncertainty exists regarding the timing of these future events for the New Jersey Chrome sites. Further resolution of these events is expected to occur over the next several years. As these events occur and to the extent that the cost estimates of the environmental remediation remedies change, the existing reserve for this environmental remediation matter will continue to be adjusted.
+
+Remediation: Glass, Chemicals and Other Sites
+
+Among other sites at which PPG is managing environmental liabilities, remedial actions are occurring at a chemical manufacturing site in Barberton, Ohio where PPG has completed a Facility Investigation and Corrective Measure Study
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 65
+
+under the United States Environmental Protection Agency's Resource Conservation and Recovery Act Corrective Action Program. PPG has also been addressing the impacts from a legacy plate glass manufacturing site in Kokomo, Indiana under the Voluntary Remediation Program of the Indiana Department of Environmental Management and a site associated with a legacy plate glass manufacturing site near Ford City, Pennsylvania under the Pennsylvania Land Recycling Program under the oversight of the Pennsylvania Department of Environmental Protection. PPG is currently performing additional investigation and remedial activities at these locations.
+
+With respect to certain other waste sites, the financial condition of other potentially responsible parties also contributes to the uncertainty of estimating PPG’s final costs. Although contributors of waste to sites involving other potentially responsible parties may face governmental agency assertions of joint and several liability, in general, final allocations of costs are made based on the relative contributions of wastes to such sites. PPG is generally not a major contributor to such sites.
+
+Remediation: Reasonably Possible Matters
+
+In addition to the amounts currently reserved for environmental remediation, the Company may be subject to loss contingencies related to environmental matters estimated to be as much as $ 100 million to $ 200 million. Such unreserved losses are reasonably possible but are not currently considered to be probable of occurrence. These reasonably possible unreserved losses relate to environmental matters at a number of sites, none of which are individually significant. The loss contingencies related to these sites include significant unresolved issues such as the nature and extent of contamination at these sites and the methods that may have to be employed to remediate them.
+
+The impact of evolving programs, such as natural resource damage claims, industrial site re-use initiatives and domestic and international remediation programs, also adds to the present uncertainties with regard to the ultimate resolution of this unreserved exposure to future loss. The Company’s assessment of the potential impact of these environmental contingencies is subject to considerable uncertainty due to the complex, ongoing and evolving process of investigation and remediation, if necessary, of such environmental contingencies, and the potential for technological and regulatory developments.
+
+16. Shareholders' Equity
+
+A class of 10 million shares of preferred stock, without par value, is authorized but unissued. Common stock has a par value of $1.66 2 / 3 per share; 1.2 billion shares are authorized.
+
+Per share cash dividends paid were $ 2.78 , $ 2.66 and $ 2.54 in 2025, 2024 and 2023, respectively.
+
+17. Accumulated Other Comprehensive Loss (AOCL)
+
+(1) The tax (benefit)/cost related to unrealized foreign currency translation adjustments on net investment hedges as of December 31, 2025, 2024 and 2023 was $( 34 ) million, $ 105 million and $ 47 million, respectively.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 66
+
+(2) The tax cost/(benefit) related to the adjustment for pension and other postretirement benefits for the year ended December 31, 2025, 2024 and 2023 was $ 9 million, $( 12 ) million and $ 20 million, respectively. Reclassifications from AOCL are included in the computation of net periodic benefit costs (see Note 14, “Employee Benefit Plans").
+
+18. Other Charges/(Income), Net
+
+(1) In 2025, PPG recognized charges of $ 16 million related to environmental remediation costs at certain non-operating PPG manufacturing sites. In both 2024 and 2023, PPG recognized charges of $ 24 million related to environmental remediation costs at certain non-operating PPG manufacturing sites.
+
+(2) In the fourth quarter 2025, the Company recorded a net charge related to the anticipated resolution of an outstanding tax matter that includes both income taxes and non-income taxes. The portion of the charge related to non-income taxes is $ 41 million.
+
+(3) In 2025, PPG recognized net gains on the sale of certain businesses and non-core assets. In 2024, PPG recognized a $ 129 million gain on the divestiture of the silicas products business. In 2023, PPG recognized a $ 22 million loss on the divestitures of the European and Australian traffic solutions businesses.
+
+(4) In the first quarter 2025, the Company received reimbursement under its insurance policies for damages incurred at a southern U.S. factory from a winter storm in 2021. In 2024 and 2023, the Company received reimbursement for previously approved insurance claims under policies covering legacy asbestos-related matters. In 2023, the Company received reimbursement under its insurance policies for damages incurred at a southern U.S. factory from a winter storm in 2020.
+
+(5) In the fourth quarter 2025, the Company settled a legal matter related to a legacy business that it no longer operates and recognized a gain of $ 12 million.
+
+(6) In 2024, PPG recognized accumulated foreign currency translation losses of $ 110 million related to the Company's exit of its Argentina operations in connection with a restructuring program.
+
+19. Stock-Based Compensation
+
+The Company’s stock-based compensation includes stock options, restricted stock units (“RSUs”) and grants of contingent shares that are earned based on achieving targeted levels of total shareholder return. All current grants of stock options, RSUs and contingent shares are made under the PPG Industries, Inc. Amended and Restated Omnibus Incentive Plan (“PPG Amended Omnibus Plan”), which was amended and restated effective April 21, 2016.
+
+Stock Options
+
+PPG has outstanding stock option awards that have been granted under the PPG Amended Omnibus Plan. Under the PPG Amended Omnibus Plan, certain employees of the Company have been granted options to purchase shares of common stock at prices equal to the fair market value of the shares on the date the options were granted. The options are generally exercisable 36 months after being granted and have a maximum term of 10 years. Upon exercise of a stock option, shares of Company stock are issued from treasury stock.
+
+The fair value of stock options issued to employees is measured on the date of grant and is recognized as expense, net of estimated forfeitures, over the requisite service period. PPG estimates the fair value of stock options using the Black-Scholes option pricing model. The risk-free interest rate is determined by using the U.S. Treasury yield curve at the date of the grant and using a maturity equal to the expected life of the option. The expected term assumption is estimated based on the weighted average term of historical stock option grants. The expected dividend yield and volatility are based on historical stock prices and dividend amounts over past time periods equal in length to the expected life of the options. PPG applies an estimated forfeiture rate that is calculated based on historical activity.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 67
+
+The following weighted average assumptions were used to calculate the fair values of stock option grants in each year:
+
+The weighted average fair value of options granted was $ 32.93 per share, $ 43.83 per share and $ 38.55 per share for the years ended December 31, 2025, 2024, and 2023, respectively.
+
+At December 31, 2025, unrecognized compensation cost related to outstanding stock options that have not yet vested totaled $ 9 million. This cost is expected to be recognized as expense over a weighted average period of 1.5 years.
+
+The following table presents stock option activity for the years ended December 31, 2025, 2024 and 2023:
+
+Restricted Stock Units (“RSUs”)
+
+Long-term incentive value is delivered to selected key management employees by granting RSUs, which have either time or performance-based vesting features. The fair value of an RSU is equal to the market value of a share of PPG common stock on the date of grant. Time-based RSUs generally vest over the three-year period following the date of grant, unless forfeited, and will be paid out in the form of stock, cash or a combination of both at the Company’s discretion at the end of the vesting period. Performance-based RSUs vest based on achieving specific annual performance targets for earnings per share growth and cash flow return on capital over the three calendar year-end periods following the date of grant. Unless forfeited, the performance-based RSUs will be paid out in the form of stock at the end of the three-year performance period if PPG meets the performance targets.
+
+The amount paid upon vesting of performance-based RSUs may range from 0 % to 200 % of the original grant, based upon the level of earnings per share growth achieved and frequency with which the annual cash flow return on capital performance target is met over the three calendar year periods comprising the vesting period. Performance against the earnings per share growth and the cash flow return on capital goal is calculated annually, and the annual payout for each goal will be weighted equally over the three-year period.
+
+There was $ 17 million of total unrecognized compensation cost related to unvested RSUs outstanding as of December 31, 2025. This cost is expected to be recognized as expense over a weighted average period of 1.5 years.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 68
+
+Contingent Share Grants
+
+The Company also provides grants of contingent shares to selected key executives that may be earned based on PPG’s total shareholder return (“TSR”) over the three-year period following the date of grant. Contingent share grants (referred to as “TSR awards”) are made annually and are paid out at the end of each three-year period based on the Company’s performance. Performance is measured by determining the percentile rank of the total shareholder return of PPG common stock in relation to the total shareholder return of the S&P 500 for the three-year period following the date of grant. This comparison group represents the entire S&P 500 Index as it existed at the beginning of the performance period, excluding any companies that have been removed from the index because they ceased to be publicly traded. The payout is based on performance achieved during the three-year period calculated in accordance with the scale set forth in the plan agreement and may range from 0 % to 200 % of the initial grant. A payout of 100 % is earned if the target performance is achieved. Contingent share awards earn dividend equivalents for the award period, which will be paid to participants or credited to the participants’ deferred compensation plan accounts with the award payout at the end of the period based on the actual number of contingent shares earned. Any payments made at the end of the award period may be in the form of stock, cash or a combination of both. The TSR awards are classified as liability awards, and compensation expense is recognized over the three-year award period based on the fair value of the awards (giving consideration to the Company’s percentile rank of total shareholder return) remeasured in each reporting period until settlement of the awards.
+
+During 2025, the Company granted TSR awards representing 76,925 contingent shares with a weighted average grant date fair value of $ 114.39 . During 2024, the Company granted TSR awards representing 71,426 contingent shares with a weighted average grant date fair value of $ 137.94 .
+
+The performance period for the TSR shares granted in 2023 ended on December 31, 2025, and PPG’s total shareholder return was measured against that of the S&P 500 over the three‐year period, resulting in no payout. As of December 31, 2025, there were 148,351 contingent shares outstanding under TSR awards and total unrecognized compensation cost related to those awards is $ 0 .
+
+20. Revenue Recognition
+
+The Company recognizes revenue when control of the promised goods or services is transferred to the customer and in amounts that the Company expects to collect. The timing of revenue recognition takes into consideration the various shipping terms applicable to the Company’s sales. For most transactions, control passes in accordance with agreed upon delivery terms.
+
+The Company delivers products to company-owned stores, home centers and other regional or national consumer retail outlets, paint dealers, concessionaires and independent distributors, company-owned distribution networks, and directly to manufacturing companies and retail customers. Each product delivered to a third party customer is considered to satisfy a performance obligation. Performance obligations generally occur at a point in time and are satisfied when control of the goods passes to the customer. The Company is entitled to collection of the sales price under normal credit terms in the regions in which it operates. Accounts receivable are recognized when there is an unconditional right to consideration. Payment terms vary from customer to customer, depending on creditworthiness, prior payment history and other considerations.
+
+The Company also provides services by applying coatings to customers' manufactured parts and assembled products and by providing technical support to certain customers. Performance obligations are satisfied over time as critical milestones are met and as services are provided. PPG is entitled to payment as the services are rendered. For the years ended December 31, 2025, 2024 and 2023, service revenue constituted less than 5 % of total revenue.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 69
+
+Net sales by segment and region for the years ended December 31, 2025, 2024 and 2023 were as follows:
+
+(1) Net sales to external customers are attributed to geographic regions based upon the location of the operating unit shipping the product.
+
+(2) Net sales recognized in the United States represented 32 % of the Company’s total Net sales for each of the years ended December 31, 2025, 2024 and 2023, respectively.
+
+(3) Net sales recognized in China represented 10 % of the Company’s total Net sales for each of the years ended December 31, 2025, 2024 and 2023, respectively.
+
+(4) Net sales recognized in Mexico represented 11 % of the Company’s total Net sales for each of the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Allowance for Doubtful Accounts
+
+All trade receivables are reported on the consolidated balance sheet at the outstanding principal amount adjusted for any allowance for doubtful accounts and any charge-offs. PPG provides an allowance for doubtful accounts to reduce trade receivables to their estimated net realizable value equal to the amount that is expected to be collected. This allowance is estimated based on historical collection experience, current regional economic and market conditions, the aging of accounts receivable, assessments of current creditworthiness of customers and forward-looking information. The use of forward-looking information is based on certain macroeconomic and microeconomic indicators including, but not limited to, regional business environment risk, political risk, and commercial and financing risks.
+
+PPG reviews its allowance for doubtful accounts on a quarterly basis to ensure the estimate reflects regional risk trends as well as current and future global operating conditions.
+
+The following table summarizes allowance for doubtful accounts activity for the years ended December 31, 2025, 2024 and 2023:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 70
+
+21. Reportable Business Segment Information
+
+PPG is a multinational manufacturer with 10 operating segments (which the Company refers to as “strategic business units”) that are organized based on the Company’s major products lines. The operating segments are aggregated into reportable business segments based on their similar economic characteristics, including similar nature of products, production processes, end-use markets and methods of distribution.
+
+The Global Architectural Coatings reportable business segment is comprised of the architectural coatings EMEA and architectural coatings Latin America and Asia Pacific operating segments. This reportable business segment primarily supplies paints, wood stains, adhesives, sealants and purchased sundries.
+
+The Performance Coatings reportable business segment is comprised of the automotive refinish coatings, aerospace coatings, protective and marine coatings and traffic solutions operating segments. This reportable business segment primarily supplies a variety of coatings, solvents, adhesives, sealants and finishes, along with pavement marking products, transparencies and paint films.
+
+The Industrial Coatings reportable business segment is comprised of the automotive OEM coatings, industrial coatings, packaging coatings, and the specialty products operating segments. This reportable business segment primarily supplies a variety of protective and decorative coatings and finishes along with adhesives, sealants, metal pretreatment products, optical monomers and coatings, low-friction coatings, paint films and other specialty products.
+
+Production facilities and sales for PPG’s reportable business segments are global and each segment continues to pursue opportunities to further develop their global reach. Each of the reportable business segments in which PPG is engaged is highly competitive. The diversification of product lines and the worldwide sales tend to minimize the impact on PPG’s business of changes in demand in a particular industry or in a particular geographic area.
+
+PPG’s chief operating decision maker is its Executive Committee, which is comprised of the Chief Executive Officer, the Chief Financial Officer and General Counsel. The Executive Committee regularly reviews the discrete financial information of the 10 operating segments to assess performance and make decisions about the allocation of resources by comparing actual results versus forecasted and historical financial information and discussing observations with the leadership team responsible for managing the operations of each operating segment. The primary measure of profit or loss considered by the Executive Committee when evaluating operating segment performance is segment income, which is income before interest expense, interest income, income taxes and noncontrolling interests and excludes certain charges which are considered to be unusual or non-recurring. The Company also evaluates performance of operating segments based on working capital management and selling price and sales volume performance.
+
+The accounting policies of the operating segments are the same as those described in the summary of significant accounting policies (see Note 1, “Summary of Significant Accounting Policies”). Corporate unallocated costs include the costs of corporate staff functions not directly associated with the operating segments, certain legal matters, net of related insurance recoveries, the cost of certain insurance and stock-based compensation programs and certain other unusual or non-recurring items. The service cost component of net periodic benefit cost related to current employees of each reportable business segment is allocated to that reportable business segment and the remaining portion of net periodic pension expense is included in Corporate unallocated costs.
+
+Product movement between PPG’s reportable business segments is limited, is accounted for as an inventory transfer, and is recorded at cost plus a mark-up, the impact of which is not significant to the net sales or segment income of the reportable business segments.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 71
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 72
+
+(1) Other segment items for each reportable business segment includes research and development, net and other segment (income)/expense, net.
+
+(2) Business restructuring-related costs, net include business restructuring charges, offset by releases related to previously approved programs, which are included in Business restructuring, net on the consolidated statement of income, accelerated depreciation of certain assets, which is included in Depreciation on the consolidated statement of income, and other restructuring-related costs, which are included in Cost of sales, exclusive of depreciation and amortization and Selling, general and administrative on the consolidated statement of income. Business restructuring-related costs, net also includes the fourth quarter 2024 recognition of accumulated foreign currency translation losses of $ 110 million related to the company's exit of its Argentina operations in connection with a restructuring program, which are included in Other (income)/charges, net in the consolidated statement of income. No tax benefit was recorded on the fourth quarter 2024 recognition of the accumulated foreign currency translation losses.
+
+(3) Portfolio optimization includes gains and losses related to the sale of certain assets, which are included in Other (income)/charges, net on the consolidated statement of income, including the gain of $ 129 million on the sale of the company's silicas products business in the fourth quarter 2024, and the losses on the sales of the company's traffic solutions business in Argentina in the second quarter 2024. Portfolio optimization includes advisory, legal, accounting, valuation, other professional or consulting fees and certain internal costs directly incurred to effect acquisitions, as well as similar fees and other costs to effect divestitures and other portfolio optimization exit actions. These costs are included in Selling, general and administrative expense on the consolidated statement of income. Portfolio optimization also includes an impairment charge of $ 146 million recognized during the fourth quarter 2024 when the company's remaining operations in Russia were classified as held for sale, which is included in Impairment and other related charges, net on the consolidated statement of income. No tax benefit was recorded on the fourth quarter 2024 impairment charge.
+
+(4) Legacy environmental remediation charges represent environmental remediation costs at certain non-operating PPG manufacturing sites. These charges are included in Other (income)/charges, net in the consolidated statement of income.
+
+(5) In the first quarter 2025, the Company received reimbursement under its insurance policies for damages incurred at a southern U.S. factory from a winter storm in 2021. In the fourth quarter 2024, the company received reimbursement for previously approved insurance claims under policies
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 73
+
+covering legacy asbestos-related matters. In the first quarter 2023, the company received reimbursement under its insurance policies for damages incurred at a southern U.S. factory from a winter storm in 2020. In the fourth quarter 2023, the company received reimbursement for a previously approved insurance claim under a policy covering legacy asbestos-related matters. These insurance recoveries are included in Other charges/(income), net on the consolidated statement of income.
+
+(6) In the third quarter 2025, the Company recorded net impairment and other related charges related to a consolidated joint venture in the Performance Coatings segment, which are included in Other charges/(income), net on the consolidated statement of income. In the fourth quarter 2023, the Company recorded impairment and other related charges due to a non-cash goodwill impairment recognized for the Traffic Solutions reporting unit as a result of its annual goodwill impairment test. The fair value of the Traffic Solutions reporting unit decreased primarily due to increases in the cost of capital (discount rate assumption) and declines in the reporting unit’s long-term forecast driven by challenges at its operations in Argentina due to the highly inflationary environment and changes to the reporting unit’s global footprint, including the fourth quarter 2023 divestiture of its European and Australian businesses.
+
+(7) In the fourth quarter 2025, the Company settled a legal matter related to a legacy business that it no longer operates. The related gain is included in Other charges/(income), net on the consolidated statement of income.
+
+(8) In the fourth quarter 2025, the Company recorded a net charge related to the anticipated resolution of an outstanding tax matter. The Company expects to pay incremental income taxes and non-income taxes in the impacted taxing jurisdiction related to the matter. The portion of the charge related to non-income taxes is included in Other charges/(income), net on the consolidated statement of income. In connection with this matter, the Company reduced its provision for uncertain tax positions, the impact of which is included in income tax expense on the consolidated statement of income.
+
+(9) In December 2023, the central bank of Argentina adjusted the official foreign currency exchange rate for the Argentine peso, significantly devaluing the currency relative to the United States dollar. Argentina currency devaluation losses represent foreign currency translation losses recognized during December 2023 related to the devaluation of the Argentine peso, which is included in Other charges/(income), net on the consolidated statement of income.
+
+(10) In the first quarter 2023, PPG purchased group annuity contracts that transferred pension benefit obligations for certain of the Company’s retirees in the U.S. to third-party insurance companies, resulting in a non-cash pension settlement charge.
+
+(11) Segment assets are the total assets used in the operation of each segment. Corporate assets principally include amounts recorded in Cash and cash equivalents, Deferred income taxes, and Property, plant and equipment, net on the consolidated balance sheet.
+
+22. Supplier Finance Programs
+
+PPG has certain voluntary supply chain finance programs with financial intermediaries which provide participating suppliers the option to be paid by the intermediary earlier than the original invoice due date. PPG’s responsibility is limited to making payments on the terms originally negotiated with the suppliers, regardless of whether the intermediary pays the supplier in advance of the original due date. The range of payment terms PPG negotiates with suppliers are consistent, regardless of whether a supplier participates in a supply chain finance program. These amounts are included within Accounts payable and accrued liabilities on the accompanying consolidated balance sheet.
+
+The rollforward of outstanding obligations confirmed as valid under the supplier finance programs for the years ended December 31, 2025 and 2024 is as follows:
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 74
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+(a) Evaluation of disclosure controls and procedures.
+
+Based on their evaluation as of the end of the period covered by this Form 10-K, the Company’s principal executive officer and principal financial officer have concluded that the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”)) are effective to ensure that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms and to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, including its principal executive and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure .
+
+(b) Changes in internal control over financial reporting.
+
+There were no changes in the Company’s internal control over financial reporting that occurred during the Company’s quarter ended December 31, 2025 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+(c) Management report on internal control over financial reporting.
+
+Refer to Management Report on page 35 for management’s annual report on internal control over financial reporting. Refer to Report of Independent Registered Public Accounting Firm on pages 33-34 for PricewaterhouseCoopers LLP’s audit report on the Company’s internal control over financial reporting.
+
+Item 9B. Other Information
+
+Rule 10b5-1 Trading Plans
+
+During the quarter ended December 31, 2025, none of the Company's directors or officers, as defined in Section 16 of the Securities Exchange Act of 1934, adopted or terminated a "Rule 10b5-1 trading arrangement" or a "non-Rule 10b5-1 trading arrangement," as each term is defined in Item 408(a) of Regulation S-K of the Securities Exchange Act of 1934.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+Part III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+The information about the Company’s directors required by Item 10 and not otherwise set forth below is contained under the caption “Proposal 1: Election of Directors” in PPG’s definitive Proxy Statement for the 2026 Annual Meeting of Shareholders (the “Proxy Statement”) which the Company anticipates filing with the Securities and Exchange Commission, pursuant to Regulation 14A, not later than 120 days after the end of the Company’s fiscal year, and is incorporated herein by reference.
+
+The executive officers of the Company are elected by the Board of Directors. The information required by this item concerning the Company’s executive officers is incorporated by reference herein from Part I of this report under the caption “Information About Our Executive Officers.”
+
+Information regarding the Company’s Audit Committee is included in the Proxy Statement under the caption “Corporate Governance – Audit Committee” and is incorporated herein by reference. Information regarding the Company’s codes of ethics is included in the Proxy Statement under the caption “Corporate Governance – Codes of Ethics” and is incorporated herein by reference.
+
+We have adopted insider trading policies and procedures governing the purchase, sale, and other dispositions of securities of PPG by directors, officers, and employees that we believe are reasonably designed to promote compliance with insider trading laws, rules and regulations. Our insider trading policy states, among other things, that our directors, officers, and certain employees are prohibited from trading in such securities while in possession of material, nonpublic information. In addition, PPG’s Global Code of Ethics prohibits all employees from trading PPG securities while in possession of material, nonpublic information. The foregoing summary of our insider trading policy and procedures does not purport to be complete and is qualified by reference to our Insider Trading Policy filed as an exhibit to this Annual Report on Form 10-K.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 75
+
+Item 11. Executive Compensation
+
+The information required by Item 11 is contained in the Proxy Statement under the captions “Compensation of Directors,” “Compensation Discussion and Analysis,” “Compensation of Executive Officers,” “Potential Payments upon Termination or Change in Control,” “Corporate Governance – Compensation Committee Interlocks and Insider Participation,” and “Corporate Governance – Human Capital Management and Compensation Committee Report to Shareholders” and is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by Item 12 is contained in the Proxy Statement under the captions “Beneficial Ownership” and “Equity Compensation Plan Information” and is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by Item 13 is contained in the Proxy Statement under the captions “Corporate Governance – Director Independence,” “Corporate Governance – Review and Approval or Ratification of Transactions with Related Persons” and “Corporate Governance – Certain Relationships and Related Transactions” and is incorporated herein by reference.
+
+Item 14. Principal Accounting Fees and Services
+
+The information required by Item 14 is contained in the Proxy Statement under the caption “Independent Registered Public Accounting Firm” and is incorporated herein by reference.
+
+Part IV
+
+Item 15. Exhibits, Financial Statement Schedules
+
+(a)(1) Consolidated Financial Statements and Reports of Independent Registered Public Accounting Firm (see Part II, Item 8 of this Form 10-K).
+
+The following information is filed as part of this Form 10-K:
+
+(a)(2) All financial statement schedules have been omitted because the information required to be presented in them is not applicable or is shown in the consolidated financial statements or related notes included in this Annual Report on Form 10-K.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 76
+
+(a)(3) Exhibits. The following exhibits are filed as a part of, or incorporated by reference into, this Form 10-K.
+
+Index to Exhibits
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 77
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 78
+
+Item 16. Form 10-K Summary
+
+None.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 79
+
+Signatures
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized on February 19, 2026.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the Registrant and in the capacities indicated on February 19, 2026.
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 80

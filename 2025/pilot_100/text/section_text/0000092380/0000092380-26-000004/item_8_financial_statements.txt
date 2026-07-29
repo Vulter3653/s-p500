@@ -1,0 +1,923 @@
+Item 8. Financial Statements and Supplementary Data
+
+Southwest Airlines Co.
+
+Consolidated Balance Sheet
+
+(in millions, except share data)
+
+See accompanying notes.
+
+Southwest Airlines Co.
+
+Consolidated Statement of Income
+
+(in millions, except per share amounts)
+
+See accompanying notes.
+
+Southwest Airlines Co.
+
+Consolidated Statement of Comprehensive Income
+
+(in millions)
+
+(a) Includes reclassification adjustments from Accumulated Other Comprehensive Income into Fuel and oil expense associated with hedges previously terminated.
+
+See accompanying notes.
+
+Southwest Airlines Co.
+
+Consolidated Statement of Stockholders' Equity
+
+(in millions, except per share amounts)
+
+(a) Includes excise tax incurred on share repurchases, net of issuances, payable in April of the following year .
+
+See accompanying notes.
+
+Southwest Airlines Co.
+
+Consolidated Statement of Cash Flows
+
+(in millions)
+
+See accompanying notes.
+
+Southwest Airlines Co.
+
+Notes to Consolidated Financial Statements
+
+1. Summary of Significant Accounting Policies
+
+2. New Accounting Pronouncements and Accounting Changes
+
+3. Net Income Per Share
+
+4. Commitments and Contingencies
+
+5. Revenue
+
+6. Financing Activities
+
+7. Leases
+
+8. Common Stock
+
+9. Stock Plans
+
+10. Financial Derivative Instruments
+
+11. Fair Value Measurements
+
+12. Accumulated Other Comprehensive Income (Loss)
+
+13. Employee Retirement Plans
+
+14. Income Taxes
+
+15. Supplemental Financial Information
+
+16. Restructuring
+
+Report of Independent Registered Public Accounting Firm
+
+Notes to Consolidated Financial Statements
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Basis of Presentation
+
+Southwest Airlines Co. (the "Company" or "Southwest") operates Southwest Airlines, a major domestic airline. The Consolidated Financial Statements include the accounts of the Company and its wholly owned subsidiaries. The accompanying Consolidated Financial Statements include the results of operations and cash flows for all periods presented and all significant inter-entity balances and transactions have been eliminated. The preparation of financial statements in conformity with generally accepted accounting principles in the United States ("GAAP") requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from these estimates.
+
+In late December 2022, Winter Storm Elliott impacted a significant portion of the United States, leading to wide-scale operational disruptions for the Company. In attempting to recover from this weather event, the Company was challenged in its efforts to realign flight crews, flight schedules, and fleet for a period of days during this peak demand travel period. As a result, the Company canceled a significant number of flights between December 21 and December 29, before ultimately returning to a normal flight schedule on December 30, 2022. These canceled flights resulted in a significant reduction in Passenger revenues during this period and also created a deceleration in bookings, primarily isolated to January and February 2023. In addition, the Company incurred significant costs associated with this event, including approximately $ 55 million of additional expenses during first quarter 2023, which is included in the accompanying Consolidated Statement of Income. Such costs were primarily related to expense reimbursements to Customers impacted by the cancellations and the value of Rapid Rewards points offered as a gesture of goodwill to impacted Customers.
+
+Based on the Company's wide-scale operational disruption, the Company could be subject to fines and/or penalties resulting from investigations by government agencies as well as litigation from Customers and Shareholders. During fourth quarter 2023, the Company reached a settlement with the Department of Transportation (the "DOT") based on their investigation into the disruption, and the Company accrued an associated expense of $ 107 million. On December 5, 2025, based on the Company's significant improvement to its ontime performance and completion factor since the time of the disruption, and as a result of its significant financial investment in its Network Operations Control function, the DOT waived the final settlement payment of $ 11 million, originally due January 2026. Other than these transactions, there were no material impacts to operating revenues or expenses as a result of this disruption beyond first quarter 2023.
+
+Cash and Cash Equivalents
+
+Cash in excess of that necessary for operating requirements is invested in short-term, highly liquid, income-producing investments. Investments with original maturities of three months or less when purchased are classified as cash and cash equivalents, which primarily consist of money market funds and time deposits issued by major corporations and financial institutions. Cash and cash equivalents are stated at cost, which approximates fair value.
+
+As of December 31, 2025, the Company had no outstanding fuel derivative instruments and therefore no cash collateral deposits associated with its fuel hedge counterparties. Additionally, there were no cash collateral deposits associated with its interest rate hedges as of December 31, 2025. As of December 31, 2024, $ 22 million in cash collateral deposits were held by the Company from its fuel hedge counterparties, and the Company had no outstanding interest rate swap agreements and therefore no cash collateral deposits associated with its interest rate hedge counterparties. Cash collateral amounts provided or held associated with fuel derivative instruments historically have not been restricted in any way and earned interest income at an agreed upon rate that approximates the rates earned on short-term securities issued by the U.S. Government. See Note 10 for further information on fuel and interest rate derivative instruments.
+
+Short-term and Noncurrent Investments
+
+Notes to Consolidated Financial Statements
+
+Short-term investments consist of investments with original maturities of greater than three months but less than twelve months when purchased. These are primarily short-term securities issued by the U.S. Government and certificates of deposit issued by domestic banks. All of these investments are classified as available-for-sale securities and are stated at fair value, which approximates cost. For all short-term investments, at each reset period or upon reinvestment, the Company accounts for the transaction as Proceeds from sales of short-term and other investments for the security relinquished, and Purchases of short-term investments for the security purchased, in the accompanying Consolidated Statement of Cash Flows. Unrealized gains and losses, net of tax, if any, are recognized in Accumulated other comprehensive income (loss) ("AOCI") in the accompanying Consolidated Balance Sheet. Realized net gains and losses on specific investments, if any, are reflected in Interest income in the accompanying Consolidated Statement of Income. Both unrealized and realized gains and/or losses associated with investments were immaterial for all years presented.
+
+Noncurrent investments consist of investments with maturities of greater than twelve months. Noncurrent investments are included as a component of Other assets in the Consolidated Balance Sheet.
+
+Accounts and Other Receivables
+
+Accounts and other receivables are initially recorded at cost and are evaluated for collectability in every period. They primarily consist of the amounts due from the credit card companies associated with sales of tickets for future travel and amounts due from business partners in the Company’s loyalty program. See Note 15 for further information. The allowance for doubtful accounts was immaterial as of December 31, 2025 and 2024. In addition, the provision for doubtful accounts and write-offs for 2025, 2024, and 2023 were each immaterial.
+
+Inventories
+
+Inventories primarily consist of aircraft fuel and flight equipment expendable parts, materials, and supplies. All of these items are carried at average cost, less an allowance for obsolescence. These items are generally charged to expense when issued for use. The reserve for obsolescence was immaterial as of December 31, 2025, and 2024. In addition, the Company’s provision for obsolescence and write-offs for 2025, 2024, and 2023 were each immaterial.
+
+Property and Equipment
+
+Property and equipment is stated at cost. Capital expenditures, net include payments made for aircraft, other flight equipment, purchase deposits related to future aircraft deliveries, airport and other facility construction projects, and ground and other property and equipment. Proceeds from the disposition of property and equipment that are retired from service are presented net against capital expenditures, and were immaterial as a component of total capital expenditures for each period presented. Depreciation is provided by the straight-line method to estimated residual values over periods of approximately 25 years for flight equipment, and 5 to 30 years for ground property and equipment. As of December 31, 2025, residual values estimated for aircraft range from 18 percent to 22 percent, and generally range from 0 to 10 percent for ground property and equipment. Assets constructed for others consists of airport improvement projects in which the Company is considered to have control of the asset during the construction period. Once construction is effectively completed, the sale-leaseback model would apply when control passes from the lessee to the lessor. See Note 4 for further information. Leasehold improvements are amortized as a component of depreciation expense over the estimated useful life of the asset or the remaining term of the underlying lease, whichever is less. In certain situations, the term of the lease may include periods covered by renewal options, if renewal is reasonably certain.
+
+The Company evaluates its long-lived assets used in operations for impairment when events and circumstances indicate that the undiscounted cash flows to be generated by that asset group are less than the carrying amounts of the asset group and may not be recoverable. Factors that would indicate potential impairment include, but are not limited to, significant decreases in the market value of the long-lived asset group, a significant change in the long-lived asset group’s physical condition, and operating or cash flow losses associated with the use of the long-lived asset group. If an asset group is deemed to be impaired, an impairment loss is recorded for the excess of the asset
+
+Notes to Consolidated Financial Statements
+
+group's book value in relation to its estimated fair value. There were no material impairments in 2025, 2024, or 2023. In 2024 and 2023, the Company identified certain -700 aircraft that were to be retired earlier than planned through 2025. This change in retirement dates, and the corresponding impact to depreciation expense, is considered a change in estimate and resulted in the following impact to expense in 2024 and 2023:
+
+* net of profitsharing benefit and income taxes
+
+During third quarter 2025, the Company completed an annual review of the estimated residual values of its long-lived assets. As a result of this review, the Company increased the estimated residual values for its Boeing 737-700 ("-700") airframe and -700, Boeing 737-800 ("-800"), and Boeing 737-8 ("-8") engine assets. This change took into consideration third party valuation data and recent market transactions. As this is considered a change in estimate, it has been accounted for on a prospective basis in accordance with Accounting Standards Codification ("ASC") 205, "Accounting Changes and Error Corrections" and thus the Company will record less depreciation expense over the remainder of the useful lives for each related asset. This change in estimated residual values, and the corresponding impact to depreciation expense resulted in the following impact to expense in the year ended December 31, 2025.
+
+* net of profitsharing benefit and income taxes
+
+Leases
+
+The Company determines if an arrangement is a lease at inception. Operating leases are included in Operating lease right-of-use assets, Current operating lease liabilities, and Noncurrent operating lease liabilities in the Consolidated Balance Sheet. Finance leases are included in Property and equipment, Current maturities of long-term debt, and Long-term debt less current maturities in the Consolidated Balance Sheet.
+
+Right-of-use assets represent the Company's right to use an underlying asset for the lease term, and lease liabilities represent the Company's obligation to make lease payments arising from the lease. The lease liability is measured as the present value of the unpaid lease payments, and the right-of-use asset value is derived from the calculation of the lease liability. Lease payments include fixed and in-substance fixed payments, variable payments based on an index or rate, reasonably certain purchase options, termination penalties, fees paid by the lessee to the owners of a special-purpose entity for restructuring the transaction, and probable amounts the lessee will owe under a residual value guarantee. Lease payments do not include (i) variable lease payments other than those that depend on an index or rate, (ii) any guarantee by the lessee of the lessor’s debt, or (iii) any amount allocated to non-lease components, if such election was made upon adoption, per the provisions of the ASC 842 Leases. The Company uses its estimated incremental borrowing rate, which is derived from information available at the lease commencement date, in determining the present value of lease payments, since the Company does not know the actual implicit rates in its leases. The Company gives consideration to its most recent debt issuances as well as publicly available data for instruments with similar characteristics when calculating its incremental borrowing rate. Lease expense for operating lease payments is recognized on a straight-line basis over the lease term. The Company combines lease
+
+Notes to Consolidated Financial Statements
+
+and non-lease components for all asset groups. The lease term includes any option to extend the lease when it is reasonably certain to be exercised based on considering all relevant economic factors.
+
+Aircraft and Engine Maintenance
+
+The cost of scheduled inspections and repairs and routine maintenance costs for all aircraft and engines are charged to Maintenance materials and repairs expense within the accompanying Consolidated Statement of Income as incurred.
+
+The Company has maintenance agreements related to certain aircraft engines with external service providers, including agreements that effectively transfer the risk of performance of such work to the service provider. Under the agreements where the risk of performance is deemed transferred to the counterparty, expense is recorded commensurate with the period in which the corresponding level of service is provided. For its engine maintenance contracts that do not transfer risk to the service provider, the Company records expense on a time and materials basis when an engine repair event takes place.
+
+Modifications that significantly enhance the operating performance or extend the useful lives of aircraft or engines are capitalized and amortized over the remaining life of the asset.
+
+Goodwill and Intangible Assets
+
+The Company applies a fair value-based impairment test to the carrying value of goodwill and indefinite-lived intangible assets annually on October 1, or more frequently if certain events or circumstances indicate that an impairment loss may have been incurred. The Company assesses the value of goodwill and indefinite-lived intangible assets under either a qualitative or quantitative approach. Under a qualitative approach, the Company considers various market factors, including applicable key assumptions also used in the quantitative assessment listed below. These factors are analyzed to determine if events and circumstances could reasonably have affected the fair value of goodwill and indefinite-lived intangible assets. If the Company determines that it is more likely than not that an indefinite-lived intangible asset or reporting unit goodwill is impaired, the quantitative approach is used to assess the asset or reporting unit fair value and the amount of the impairment. Under a quantitative approach, the fair value of the Company's indefinite-lived intangible asset or reporting unit is calculated based on key market participant assumptions. If the indefinite-lived intangible assets' carrying value exceeds the fair value calculated using the quantitative approach, an impairment charge is recorded for the difference in fair value and carrying value. If the reporting unit carrying value exceeds the reporting unit fair value calculated using the quantitative approach, an impairment charge is recorded for the difference between fair value and carrying value, limited to the amount of goodwill in the reporting unit.
+
+The Company’s intangible assets primarily consist of acquired rights to certain airport owned takeoff and landing slots (a "slot" is the right of an air carrier, pursuant to regulations of the Federal Aviation Administration ("FAA"), to operate a takeoff or landing at a specific time at certain airports) at certain domestic slot-controlled airports. Indefinite-lived slots of $ 296 million are included as a component of Other assets in the Company's Consolidated Balance Sheet, as of December 31, 2025 and 2024.
+
+The Company applied the qualitative approach during its 2025 impairment tests, and no impairment was determined to exist for Goodwill or indefinite-lived intangible assets.
+
+Revenue Recognition
+
+Tickets sold for Passenger air travel are initially deferred as Air traffic liability. Passenger revenue is recognized and Air traffic liability is reduced when the service is provided (i.e., when the flight takes place). Air traffic liability primarily represents tickets sold for future travel dates, flight credits that are expected to be used in the future, and loyalty benefits that are expected to be redeemed in the future. The majority of the Company’s tickets sold are nonrefundable. Southwest has a No-Show Policy that applies to fares that are not canceled or changed by a Customer at least 10 minutes prior to a flight's scheduled departure. Nonrefundable tickets that are sold but not
+
+Notes to Consolidated Financial Statements
+
+flown on the travel date, and are canceled in accordance with the No-Show Policy, can be applied to future travel. Refundable tickets that are sold but not flown on the travel date can also be applied to future travel. A small percentage of tickets (or partial tickets) will go unused, which is sometimes referred to as breakage. The Company estimates the amount of tickets that will go unused and recognizes such amounts in Passenger revenue in proportion to the pattern of flights taken by the Customers, once the flight date has lapsed. Based on the Company's revenue recognition policy, revenue is recorded at the flight date for a Customer who does not change his/her itinerary or does not cancel in accordance with the No-Show Policy as the Company has then fulfilled its performance obligation. Amounts collected from Passengers for ancillary services are also recognized when the service is provided, which is typically the flight date.
+
+On July 28, 2022, the Company modified its policy and announced that all unexpired flight credits as of that date, including flight credits previously extended as a result of the COVID-19 pandemic, no longer had an expiration date and thus would be able to be redeemed by Customers indefinitely. This change in policy was considered a contract modification under ASC 606, and the Company accounted for such change prospectively in third quarter 2022. Due to Customer redemptions of these pre-policy change flight credits that were issued to Customers during 2022 and prior at a higher than projected rate throughout 2024, as well as projected redemptions beyond 2024, the Company determined that a reversal of a portion of prior recorded breakage revenue was warranted. This change in breakage revenue, and the corresponding impact to Passenger revenue, was considered a change in estimate and resulted in the following impact to 2024 results:
+
+* net of profitsharing benefit and income taxes
+
+On May 28, 2025, the Company implemented a change to its flight credit policy. Flight credits created from reservations booked and ticketed or voluntarily changed on or after May 28, 2025, will have a specified expiration date of one year or less, depending on the type of fare purchased. Flight credits issued between July 28, 2022, and May 28, 2025, including any future issuances associated with bookings made prior to the policy change on May 28, 2025, will continue to have no expiration date.
+
+Breakage estimates are based on the Company's Customers' historical travel behavior as well as assumptions about their future travel behavior. Assumptions about the Customers' future travel behavior can be impacted by several factors including, but not limited to: fare increases; fare sales; changes to the Company's ticketing policies; changes to the Company’s refund, exchange, and unused flight credit policies; seat availability; and economic factors. See Note 5 for further information.
+
+Approximately $ 756 million, approximately $ 798 million, and approximately $ 828 million of the Company's Operating revenues in 2025, 2024, and 2023, respectively, were attributable to foreign operations. The remainder of the Company's Operating revenues, approximately $ 27.3 billion, approximately $ 26.7 billion, and approximately $ 25.0 billion in 2025, 2024, and 2023, respectively, were attributable to domestic operations.
+
+Loyalty Program
+
+The Company records a liability for the relative fair value of providing free travel under its loyalty program for all points earned from flight activity or sold to business partners participating in the Company’s Rapid Rewards loyalty program. The loyalty liability represents performance obligations that will be satisfied when a Rapid Rewards loyalty Member redeems points and travels or other goods and services are provided. Points earned from flight activity are valued at their relative stand-alone selling price by applying fair value based on historical redemption
+
+Notes to Consolidated Financial Statements
+
+patterns. Points earned from business partner activity, which primarily consist of points sold, along with related marketing services, to companies participating in the Rapid Rewards loyalty program, are valued using a relative fair value methodology based on the contractual rate which partners pay to Southwest to award Rapid Rewards points to the business partners' customers. For points that are expected to remain unused, the Company recognizes breakage revenue in proportion to the pattern of points used by the Customer, which approximates the average period over which the population of Rapid Reward Members redeem their points. The Company records Passenger revenue related to air transportation when the transportation is delivered, the marketing elements are recognized as Other - net revenue when earned, and the airline benefits are recognized as Passenger revenue when they are provided. The Company’s liability for loyalty benefits includes a portion that is expected to be redeemed during the following twelve months (classified as a component of Air traffic liability), and a portion that is not expected to be redeemed during the following twelve months (classified as Air traffic liability - noncurrent). The Company continually updates this analysis and adjusts the split between current and non-current liabilities as appropriate. See Note 5 for further information.
+
+Advertising
+
+Advertising costs are charged to expense as incurred. Advertising and promotions expense for the years ended December 31, 2025, 2024, and 2023 was $ 332 million, $ 346 million, and $ 266 million, respectively, and is included as a component of Other operating expense in the accompanying Consolidated Statement of Income.
+
+Share-based Employee Compensation
+
+The Company has share-based compensation plans covering certain Employees, including a plan that also covers the Company’s Board of Directors. The Company accounts for share-based compensation based on its grant date fair value. See Note 9 for further information.
+
+Financial Derivative Instruments
+
+The Company accounts for financial derivative instruments at fair value and applies hedge accounting rules where appropriate. The Company has utilized various derivative instruments, including jet fuel, crude oil, unleaded gasoline, and heating oil-based derivatives, in an attempt to reduce the risk of its exposure to jet fuel price increases. These instruments were accounted for as cash flow hedges upon proper qualification. During second quarter 2025, the Company terminated its remaining portfolio of fuel hedging contracts, which were scheduled to settle through 2027, to effectively close its fuel hedging portfolio and program. See Note 10 . The Company also has interest rate swap agreements to convert a portion of its fixed-rate debt to floating rates. These interest rate hedges are appropriately designated as fair value hedges.
+
+Since the Company’s financial derivative instruments are not traded on a market exchange, the Company estimates their fair values. Depending on the type of instrument, the values are determined by the use of present value methods or option value models with assumptions based on those observed in underlying markets.
+
+All cash flows associated with purchasing and selling derivatives are classified as operating cash flows in the Consolidated Statement of Cash Flows, within Changes in certain assets and liabilities. The Company classifies any cash collateral provided to or held from counterparties in a "net" presentation on the Consolidated Balance Sheet against the fair value of the derivative positions with those counterparties. See Note 10 for further information.
+
+Software Capitalization
+
+The Company capitalizes certain internal and external costs related to the acquisition and development of internal use software during the application development stages of projects. The Company amortizes these costs using the straight-line method over the estimated useful life of the software, which is typically five to fifteen years . Costs incurred during the preliminary project or the post-implementation/operation stages of the project are expensed as incurred. Capitalized computer software, included as a component of Ground property and equipment in the
+
+Notes to Consolidated Financial Statements
+
+accompanying Consolidated Balance Sheet, net of accumulated depreciation, was $ 1.3 billion and $ 1.1 billion as of December 31, 2025, and 2024, respectively. Computer software depreciation expense was $ 318 million, $ 271 million, and $ 246 million for the years ended December 31, 2025, 2024, and 2023, respectively, and is included as a component of Depreciation and amortization expense in the accompanying Consolidated Statement of Income. The Company evaluates internal use software for impairment on a quarterly basis, and if it is determined the value of an asset was not recoverable or it qualifies for impairment, a charge will be recorded to write down the software to the lower of its carrying value or fair value. The Company had no significant impairments during 2025, 2024, or 2023.
+
+Insurance Reserves
+
+The Company uses a combination of insurance and self-insurance mechanisms, including a wholly-owned captive insurance entity and participation in a reinsurance treaty, to provide for the potential liabilities associated with certain risks, including workers’ compensation, healthcare benefits, general liability, and aviation liability. Liabilities associated with the risks that are retained by the Company are not discounted and are estimated, in part, by considering historical claims experience, demographics, exposure and severity factors, and other actuarial assumptions.
+
+Income Taxes
+
+The Company accounts for deferred income taxes utilizing an asset and liability method, whereby deferred tax assets and liabilities are recognized based on the tax effect of temporary differences between the financial statements and the tax basis of assets and liabilities, as measured by current enacted tax rates. The Company also evaluates the need for a valuation allowance to reduce deferred tax assets to estimated recoverable amounts.
+
+The Company uses the portfolio approach for releasing income tax effects associated with amounts reclassified out of AOCI.
+
+The Company’s policy for recording interest and penalties associated with uncertain tax positions is to record such items as a component of Income (loss) before income taxes. Penalties are recorded in Other (gains) losses, net, and interest paid or received is recorded in Interest expense or Interest income, respectively, in the accompanying Consolidated Statement of Income. There were no material amounts recorded for penalties and interest related to uncertain tax positions for all years presented. See Note 14 for further information.
+
+On July 4, 2025, the One Big Beautiful Bill Act was signed into law. The legislation did not have a material impact on the Company's income tax expense for the year ended December 31, 2025, nor did it materially change the Company's effective income tax rate for 2025.
+
+Concentration Risk
+
+Approximately 84 percent of the Company’s Employees are unionized and are covered by collective-bargaining agreements. The Company's last open collective-bargaining labor contract subject to Section 6 of the Railway Labor Act was ratified in December 2024, and all of the Company's collective-bargaining labor contracts are closed until October 2026 when the next labor contract becomes amendable, subject to any early opening of renegotiations.
+
+The Company attempts to minimize its concentration risk with regards to its cash, cash equivalents, and its investment portfolio. This is accomplished by diversifying and limiting amounts among different counterparties, the type of investment, and the amount invested in any individual security or money market fund.
+
+As of December 31, 2025, the Company operated an all-Boeing fleet, all of which are variations of the Boeing 737. The Boeing 737 MAX aircraft ("MAX") are crucial to the Company’s growth plans and fleet modernization initiatives. Boeing has in the past experienced, and may continue to experience, delays in fulfilling its commitments with regards to delivery of the -8 to the Company as a result of manufacturing challenges. Further, the Company's contractual delivery schedule for the Boeing 737-7 ("-7") is dependent on the FAA issuing required certifications
+
+Notes to Consolidated Financial Statements
+
+and approvals to the Boeing Company ("Boeing") and the Company. The FAA will ultimately determine the timing of the -7 certification and entry into service, and the Company therefore offers no assurances that current estimations and timelines are correct.
+
+Boeing no longer manufactures versions of the 737 other than the MAX family of aircraft. If the MAX aircraft were to become unavailable for the Company’s flight operations, the Company’s growth would be restricted unless and until it could procure and operate other types of aircraft from Boeing or another manufacturer, seller, or lessor, and the Company’s operations would be materially adversely affected. In particular, if the Company’s growth were to be dependent upon the introduction of a new aircraft make and model to the Company’s fleet, the Company would need to, among other things, (i) develop and implement new maintenance, operating, and training programs, (ii) secure extensive regulatory approvals, and (iii) implement new technologies. The requirements associated with operating a new aircraft make and model could take an extended period of time to fulfill and would likely impose substantial costs on the Company. A shift away from a single fleet type could also add complexity to the Company’s operations, present operational and compliance risks, and materially increase the Company's costs. Any of these events would have a material, adverse effect on the Company's business, operating results, and financial condition. The Company could also be materially adversely affected if the pricing or operational attributes of its aircraft were to become less competitive.
+
+The Company is also dependent on sole or limited suppliers for aircraft engines and certain other aircraft parts and services. Therefore, it would also be materially adversely impacted in the event of the unavailability of engines, parts and certain repair services, the inability to find adequate support at commercially reasonable terms, or mechanical or regulatory issues associated with such engines or other parts or services.
+
+The Company has historically entered into agreements with some of its co-brand, payment, and loyalty partners that contain exclusivity aspects which place certain confidential restrictions on the Company from entering into certain arrangements with other payment and loyalty partners. These arrangements generally extend for the terms of the agreements, none of which extend beyond October 31, 2031, as of December 31, 2025. Some of these agreements automatically renew on an annual basis, unless either party objects to such extension. In 2025, the Company reached an amended co-brand agreement with JPMorgan Chase Bank USA, N.A. ("Chase")—in the first quarter to extend the term of the agreement and add enhanced airline benefits for Cardmembers associated with the Company's planned assigned seating and premium seating initiative, and again in the second quarter to add benefits to Cardmembers related to the Company's changes in its checked bag policy that went into effect on May 28, 2025. None of these agreements are more than 10 years in length. The Company believes the financial benefits generated by the exclusivity aspects of these arrangements outweigh the risks involved with such agreements.
+
+Operating Segments and Related Disclosures
+
+Operating segments are defined as components of an enterprise with separate financial information, which are evaluated regularly by the chief operating decision maker ("CODM") and are used in resource allocation and performance assessments. The Company's CODM is considered to be the Company's President, Chief Executive Officer, & Vice Chairman of the Board of Directors. The Company is managed as a single operating segment that provides air transportation for Passengers and cargo. Managing the Company as one segment allows the Company to benefit from the value of integrated revenue pricing and its route network. The Company's flight equipment, which are all variations of the Boeing 737 series of aircraft, forms one fleet that is deployed through a single route scheduling system to maximize its value. The Company's tangible assets consist primarily of flight equipment, which are mobile across geographic markets and, therefore, have not been allocated.
+
+Financial information and annual operational plans and forecasts are prepared and reviewed by the CODM at the consolidated level. The CODM assesses performance for the Company's single reportable segment and decides how to allocate resources based on Net income. Significant expenses that are regularly provided to the CODM for the Company's one reportable segment are presented in the Consolidated Statement of Income and are included within the operational measure of Net income. There are no additional significant expenses beyond the Consolidated Statement of Income provided to the CODM on a recurring basis. When making operational decisions, the CODM
+
+Notes to Consolidated Financial Statements
+
+is indifferent to the results on a geographic region basis. The Company's objective in making resource allocation decisions is to optimize the consolidated financial results, such as deciding whether to reinvest profits into parts of the entity, including fleet and network planning, or for other general Corporate purposes, such as shareholder returns.
+
+For single reportable segment-level financial information, total assets, and significant non-cash transactions, see Item 8. Financial Statements.
+
+2. NEW ACCOUNTING PRONOUNCEMENTS AND ACCOUNTING CHANGES
+
+On September 18, 2025, the Financial Accounting Standards Board (the "FASB") issued Accounting Standards Update ("ASU") 2025-06, Accounting for and Disclosure of Software Costs. The new standard modernizes the guidance to reflect the software development approaches currently being used by removing all references to "development stages" from ASC 350-40 Intangibles—Goodwill and Other - Internal-Use Software. Under ASU 2025-06, only the following criteria in ASC 350-40-25-12(b) and (c) must be met for entities to begin capitalizing software costs: (i) management, with the relevant authority, implicitly or explicitly authorizes and commits to funding a computer software project and (ii) it is probable that the project will be completed and the software will be used to perform the function intended (referred to as the "probable-to-complete recognition threshold"). This standard is effective for all entities for annual reporting periods beginning after December 15, 2027, and interim reporting periods within those annual reporting periods, with early adoption permitted. Entities may apply the guidance prospectively, retrospectively, or via a modified prospective transition method. The Company is evaluating this new standard, but does not expect it to have a significant impact on its financial statement presentation or results.
+
+On November 4, 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. This standard requires public companies to disclose, in interim and annual reporting periods, additional information about certain expenses in the notes to the financial statements. This standard is effective for all entities that are subject to Subtopic 220-40, for annual periods beginning after December 15, 2026, and interim periods within annual reporting periods beginning after December 15, 2027, but early adoption is permitted. The Company is evaluating this new standard but does not expect it to have a significant impact on its financial statement disclosures.
+
+On December 14, 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures. This standard increases transparency and decision usefulness of income tax disclosures for investors by requiring information to better assess how an entity's operations and related tax risks and tax planning and operational opportunities affect its tax rate and prospects for future cash flows. This standard requires entities to provide enhanced disclosures related to the income tax rate reconciliation and income taxes paid. This standard is effective for all entities that are subject to Topic 740, Income Taxes for annual periods beginning after December 15, 2024, but early adoption is permitted. The Company adopted this standard as of January 1, 2025, utilizing the retrospective application as permitted in the standard and has included all required disclosures within this Form 10-K for the year ended December 31, 2025. See Note 14 for further information on the Company's income taxes.
+
+3. NET INCOME PER SHARE
+
+The following table sets forth the computation of basic and diluted net income per share (in millions except per share amounts). Basic net income per share is calculated by dividing net income by the weighted average of shares outstanding during the period. Diluted net income per share reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted into common stock. An immaterial number of shares related to the Company's restricted stock units were excluded from the denominator for the fiscal years ended December 31, 2024 and 2023 because inclusion of such shares would be antidilutive. There were no antidilutive restricted stock units for the fiscal year ended December 31, 2025. During second quarter 2025, the Company's remaining balance of 1.25 percent Convertible Senior Notes due 2025 (the "Convertible Notes") of
+
+Notes to Consolidated Financial Statements
+
+$ 1.6 billion was repaid, settling both principal and accrued interest. Since they were outstanding for a portion of the period prior to repayment, the Convertible Notes had a weighted-average dilutive impact on the net income per share calculation for the year ended December 31, 2025.
+
+(a) Net of profitsharing benefit and income taxes
+
+(b) See Note 8 for further information
+
+4. COMMITMENTS AND CONTINGENCIES
+
+Commitments
+
+The Company has contractual obligations and commitments primarily with regard to future purchases of aircraft, repayment of debt (see Note 6), and lease arrangements (see Note 7). During the year ended December 31, 2025, the Company entered into supplemental agreements with Boeing relating to its contractual order book for -7 and -8 aircraft. The Company's contractual order book with Boeing for -7 and -8 aircraft, which extends to 2031, was designed to support the Company's growth and fleet modernization plans, while also providing significant flexibility and optionality to manage its fleet gauge and size, including opportunities to accelerate fleet modernization efforts if growth opportunities do not materialize. The Company received 55 -8 aircraft deliveries from Boeing in 2025 and retired 48 -700 aircraft and seven -800 aircraft, including the sale of five -800 aircraft. During fourth quarter 2025, the Company exercised six -7 options for delivery in 2027, converted one 2025 -7 firm order into a 2025 -8 firm order, and converted 12 2026 -7 firm orders into 2026 -8 firm orders.
+
+Boeing continues to experience delays in fulfilling its commitments with regards to delivery of MAX aircraft to the Company and delays in achieving FAA certification of one of its new aircraft types, the -7, for which Southwest expects to be the launch customer. During 2025, as a result of Boeing's ongoing delivery delays, the Company conservatively re-planned its capacity and delivery expectations for 2026. The Company will continue to closely monitor the ongoing aircraft delivery delays with Boeing and adjust expectations as needed.
+
+Based on the Company's current agreement with Boeing, capital commitments associated with its firm orders as of December 31, 2025 were:
+
+Notes to Consolidated Financial Statements
+
+(a) Capital commitments associated with the Company's firm orders in 2026 of $ 4.2 billion include approximately $ 2.5 billion primarily related to the existing scheduled 86 MAX aircraft to be delivered in 2026 and $ 1.7 billion related to 81 MAX aircraft ( 27 -7s and 54 -8s) that were contractually committed for 2024 and 2025, but were not received.
+
+In addition, subsequent to December 31, 2025, and through February 5, 2026, the Company exercised four -7 options for delivery in 2027, resulting in an increase of the Company's 2027 capital commitments to $ 2.8 billion.
+
+Los Angeles International Airport
+
+In April 2023, the Company executed a lease agreement with Los Angeles World Airports ("LAWA"), which owns and operates Los Angeles International Airport ("LAX"), for the ground lease and construction of a new concourse. In this agreement, the Company will manage the development, design, financing, and construction of nine new gates, along with additional features, at LAX. Construction of the concourse is estimated to not exceed $ 2.3 billion. During 2024, the Company's leadership met with LAWA and agreed to pause the project, with plans to restart it in 2026. The Company expects to commence construction in 2028 with construction to be completed in 2032.
+
+Funding for this project will flow through a credit facility and the outstanding loans are expected to be paid off directly by LAWA to the credit facility at project completion, thus reimbursing the Company on all costs drawn on the credit facility. As of December 31, 2025, the credit facility has yet to be put into place and is expected to be established closer to the beginning of construction in 2028. The Company is expected to be reimbursed by the credit facility on prior payments made once in place.
+
+Based on this agreement, the Company has determined that it does have control over the assets during this project for accounting purposes. As a result, the costs incurred to fund this project thus far, which totaled $ 88 million as of December 31, 2025, are included within Assets constructed for others on the accompanying Consolidated Balance Sheet.
+
+William P. Hobby Airport
+
+In March 2022, the Company executed a Memorandum of Agreement ("MOA") with the City of Houston, Texas (the "City") which owns William P. Hobby Airport ("Hobby") that is managed and operated by the City's Houston Airport System. Under the MOA, the Company will manage the development, design, and construction of seven new gates in Hobby's West Concourse.
+
+The project is currently estimated to be completed in 2027 at a cost of at least $ 470 million. The Company is providing initial funding for the majority of the project, but is being reimbursed for such funding from the City on a monthly basis and therefore the project has not and is not expected to significantly impact the Company’s liquidity. The City plans to fund these reimbursements utilizing rates and charges collected from current and future Hobby occupants, including the Company.
+
+Based on the MOA, as well as an amendment to the terminal lease agreement signed in August 2023, the Company has determined that it does not control the assets during the construction period for accounting purposes, and thus is recording the amounts funded for the project as a receivable until reimbursed by the City, at which time the balance is derecognized. A balance of $ 88 million was reflected within Accounts and other receivables in the accompanying Consolidated Balance Sheet as of December 31, 2025.
+
+Contingencies
+
+The Company is from time to time subject to various legal proceedings and claims arising in the ordinary course of business and records a liability for such claims when it is probable that a loss will be incurred and the amount is reasonably estimable.
+
+The Company is a defendant in class action litigation asserting it has not provided paid short-term military leave to certain Employees, in violation of the federal Uniformed Services Employment and Reemployment Rights Act (“USERRA”). The United States District Court for the Northern District of California previously issued an order to
+
+Notes to Consolidated Financial Statements
+
+effectively stay the action, pending an appeal from an order by the United States District Court for the Eastern District of Washington granting summary judgment in favor of an airline in a separate case involving substantially the same claims at issue in this action. On February 1, 2023, the Ninth Circuit reversed the district court’s grant of summary judgment and remanded the separate airline case to the District Court. The Ninth Circuit’s decision may adversely affect the Company’s defenses in the USERRA proceeding and may give rise to additional litigation in this or other areas. On October 29, 2024, the Company filed a motion to decertify the class. On February 13, 2025, the parties filed a notice of settlement advising the Court that they reached a settlement in principle, and the parties made a stipulated request for the Court to vacate the case schedule, including the hearing on the Company's decertification motion, and to set a deadline of June 19, 2025, for the filing of either a motion for preliminary approval of the class settlement or a status update about the timing of the remaining steps in the settlement process. The Court granted the stipulation on February 14, 2025. On June 20, 2025, the Court granted the parties’ stipulated request to continue the deadline for filing a motion for preliminary approval of the class settlement. On September 25, 2025, plaintiffs filed a motion for preliminary approval of the settlement class. The settlement includes an $ 18.5 million settlement fund and prospective relief that includes a differential pay benefit for up to 10 days of military leave per year, which will remain in place for at least five years once initiated. On December 11, 2025, the Court granted preliminary approval of the settlement and set the final approval hearing for May 14, 2026. The proposed settlement is fully accrued as of December 31, 2025.
+
+On December 27, 2019, a former Customer Service Agent at Oakland International Airport, filed a putative class action complaint in the Superior Court of California, for the County of Santa Clara, against the Company alleging the following seven claims under the California Labor Code and Business & Professions Code: (1) failure to provide meal periods; (2) failure to provide rest periods; (3) failure to pay hourly wages; (4) failure to provide accurate wage statements; (5) failure to timely pay all final wages; (6) unfair competition; and (7) civil penalties for the foregoing. Plaintiff filed a First Amended Complaint on October 15, 2021, that asserted the same causes of action and added a named plaintiff. The First Amended Complaint primarily seeks unpaid wages, interest thereon, and associated civil and statutory penalties, along with attorneys’ fees and costs. On February 26, 2025, the Court granted class certification as to the first cause of action for failure to provide meal periods, denied certification on the second through fourth causes of action, and granted certification on the fifth and sixth causes of action only insofar as they are predicated on the first cause of action. The certified class consists of all of the Company’s non-exempt ground Employees in California who worked a shift in excess of five hours for the time period between October 24, 2014, forward. On April 17, 2025, the Company filed a summary judgment motion arguing that Plaintiffs’ first cause of action, and all causes of action predicated thereon, failed as a matter of law. The motion was granted on July 25, 2025. Judgment was entered in favor of the Company on September 2, 2025, and Plaintiffs filed a notice of appeal on September 4, 2025. The Company is currently not able to estimate a range of possible loss with regards to the litigation to which it is a defendant.
+
+5. REVENUE
+
+Passenger Revenues
+
+The Company’s contracts with its Customers primarily consist of its tickets sold, which are initially deferred as Air traffic liability. Passenger revenue associated with tickets is recognized when the performance obligation to the Customer is satisfied, which is primarily when travel is provided.
+
+Revenue is categorized by revenue source as the Company believes it best depicts the nature, amount, timing, and uncertainty of revenue and cash flow. The following table provides the components of Passenger revenue recognized for the years ended December 31, 2025, 2024, and 2023:
+
+Notes to Consolidated Financial Statements
+
+Passenger non-loyalty includes all revenues recognized from Passengers for flights purchased primarily with credit card. Passenger loyalty - air transportation primarily consists of the revenue associated with award flights taken by loyalty program Members upon redemption of loyalty points. Passenger ancillary sold separately includes any revenue associated with ancillary fees charged separately, such as in-flight purchases, baggage fees, EarlyBird Check-In ® , and Upgraded Boarding.
+
+In order to determine the value of each loyalty point in a flight transaction, certain assumptions must be made at the time of measurement, which include the following:
+
+• Allocation of Passenger Revenue - Revenues from Passengers, related to travel, who also earn Rapid Rewards points have been allocated between flight (recognized as revenue when transportation is provided) and loyalty (deferred until points are redeemed) based on each obligation’s relative stand-alone selling price. The Company utilizes historical earning patterns to assist in this allocation.
+
+• Fair Value of Rapid Rewards Points - Determined from the base fare value of tickets which were purchased using prior point redemptions for travel and other products and services, which the Company believes to be indicative of the fair value of points as perceived by Customers and representative of the value of each point at the time of redemption. The Company’s booking site allows a Customer to toggle between fares utilizing either cash (or equivalent) or point redemptions, which provides the Customer with an approximation of the equivalent value of their points. The value can differ, however, based on demand, the amount of time prior to the flight, and other factors. The mix of fare classes during the period measured represents a constraint, which could result in the assumptions above changing at the measurement date, as fare classes can have different coefficients used to determine the total loyalty points needed to purchase an award ticket. The mixture of these fare classes and changes in the coefficients used by the Company could cause the fair value per point to fluctuate.
+
+The Company allocates consideration received to performance obligations based on the relative fair value of those obligations. The Company maintains a decades-long relationship with and has a co-branded credit card agreement (“Co-brand Agreement”) with Chase, through which the Company sells loyalty points and certain marketing components, which consist of the use of the Southwest Airlines brand and access to Rapid Rewards Member lists, licensing and advertising elements, the use of the Company’s resource team, and other airline benefits. In 2025, the Company and Chase amended the Co-brand Agreement—in the first quarter to extend the term of the agreement and add enhanced airline benefits for Cardmembers associated with the Company's planned assigned seating and premium seating initiative, and again in the second quarter to add benefits to Cardmembers related to the Company's changes in its checked bag policy that went into effect on May 28, 2025. For each change to the Co-brand Agreement, the Company estimated the selling prices and volumes over the term of the Co-brand Agreement in order to determine the allocation of proceeds to each of the three performance obligations identified in the Co-brand Agreement, which have been characterized as a transportation component, a marketing component, and an airline benefits component. The allocations utilized are reviewed to determine if adjustment is necessary any time there is a modification to the Co-brand Agreement. The Company records Passenger revenue related to loyalty point redemptions for air travel when the travel is delivered, the marketing elements are recognized as Other revenue when the performance obligations related to those services are satisfied, which is generally the same period consideration is received from Chase, and the airline benefits are recognized primarily within Passenger revenue when those performance obligations are satisfied. As a result of the 2025 amendments to the Co-brand Agreement, a larger portion of the Company’s co-brand credit card benefits from Chase are now being classified within Passenger revenues.
+
+Notes to Consolidated Financial Statements
+
+For points that are expected to remain unused, the Company recognizes breakage in proportion to the pattern of points used by the Customer, which approximates the average period over which the population of Rapid Reward Members redeem their points. The Company utilizes historical behavioral data to develop a predictive statistical model to analyze the amount of expected breakage for points sold to business partners and earned through flight. The Company continues to evaluate expected breakage annually and applies appropriate adjustments in the fourth quarter of each year, or other times, if significant changes in Customer behavior are detected. Changes to breakage estimates impact revenue recognition prospectively. Due to the size of the Company’s liability for loyalty benefits, changes in Customer behavior and/or expected future redemption patterns could result in significant variations in Passenger revenue.
+
+As performance obligations to Customers are satisfied, the related revenue is recognized. The events that result in revenue recognition that are associated with performance obligations identified as a part of the Rapid Rewards loyalty program are as follows:
+
+• Tickets and Rapid Rewards Points - When a flight occurs, the related performance obligation is satisfied and the related value provided by the Customer, whether from purchased tickets, Rapid Rewards points, or a combination thereof, is recognized as Passenger revenue.
+
+• Loyalty Points Redeemed for Goods and/or Services Other Than Travel - Rapid Rewards Members have the option to redeem points for goods and services offered through a third-party vendor, who acts as principal. The performance obligation related to the purchase of these goods and services is satisfied when the good and/or service is delivered to the Customer as a component of Other revenue.
+
+• Marketing Royalties - As part of its Co-brand Agreement with Chase, Southwest provides certain deliverables, including use of the Southwest Airlines’ brand, access to Rapid Rewards Member lists, advertising elements, and the Company’s resource team. These performance obligations are satisfied each month that the Co-brand Agreement is active and are recognized as a component of Other revenue.
+
+• Travel-Related Services - Travel-related services are primarily composed of services performed in conjunction with a passenger’s flight, including checked baggage, seat, and other on-board benefits. The Company recognizes Passenger revenue for these services when the related transportation service is provided.
+
+As of the years ended December 31, 2025 and 2024, the components of Air traffic liability, including contract liabilities based on tickets sold and unused flight credits available to the Customer, both of which are net of recorded breakage, and loyalty points available for redemption, within the Consolidated Balance Sheet were as follows:
+
+The balance in Air traffic liability - passenger travel and ancillary passenger services also includes flight credits not currently associated with a ticket that can be applied by Customers towards the purchase of future travel. These flight credits are typically created as a result of a prior ticket cancellation or exchange, and are reflected net of associated breakage. Rollforwards of the Company's Air traffic liability - loyalty program for the years ended December 31, 2025 and 2024 were as follows (in millions):
+
+Notes to Consolidated Financial Statements
+
+Air traffic liability includes consideration received for ticket and loyalty related performance obligations which have not been satisfied as of a given date. Rollforwards of the amounts included in Air traffic liability as of December 31, 2025 and 2024 were as follows (in millions):
+
+(a) Current period sales include passenger travel, ancillary services, flight loyalty, and partner loyalty
+
+On July 28, 2022, the Company announced that all existing Customer flight credits as of that date, as well as any future flight credits issued, no longer expire and will thus remain redeemable by Customers. The Company’s balance of existing Customer flight credits as of the modification date was approximately $ 1.9 billion, including a portion of the extended flight credits issued during the early portion of the COVID-19 pandemic. The Company determined a $ 116 million reversal of a portion of prior breakage revenue was warranted for the twelve months ended December 31, 2024. This was due to continued redemptions for flight credits issued prior to the modification date during 2024 as well as projected redemptions at that time. This change in breakage revenue, and the corresponding impact to passenger revenue, is considered a change in estimate (see Note 1 for further information).
+
+On May 28, 2025, the Company implemented a change to its flight credit policy. Flight credits created from reservations booked and ticketed or voluntarily changed on or after May 28, 2025, will have a specified expiration date of one year or less, depending on the type of fare purchased. Flight credits issued between July 28, 2022, and May 28, 2025, including any future issuances associated with bookings made prior to the policy change on May 28, 2025, do not have an expiration date. The Company also began to issue vacation travel credits for cancelled bookings resulting from the launch of the new Getaways by SouthwestTM ("Getaways") product, and these credits will have an 18-month expiration period from original booking date. As the Company believes that a portion of Customer travel credits (both flight credits and Getaways travel credits) issued will not be redeemed, it estimates and records breakage associated with such amounts.
+
+The amount of Customer flight credits represents approximately 5 percent and 8 percent of the total Air traffic liability balance as of December 31, 2025, and December 31, 2024, respectively.
+
+Recognition of revenue associated with the Company’s loyalty liability can be difficult to predict, as the number of award seats available to Members is not currently restricted and Members could choose to redeem their points at any time that a seat is available. The performance obligations classified as a current liability related to the Company’s loyalty program were estimated based on expected redemptions utilizing historical redemption patterns, and forecasted flight availability and fares. The entire balance classified as Air traffic liability-noncurrent relates to loyalty points that were estimated to be redeemed in periods beyond the twelve months following the representative balance sheet date. Based on historical experience as well as current forecasted redemptions, the Company expects the majority of loyalty points to be redeemed within approximately one year of the date the points are issued. The
+
+Notes to Consolidated Financial Statements
+
+Company's policy change on flight credit expirations for any reservations booked and ticketed or voluntarily changed on or after May 28, 2025, will generally have satisfied the performance obligation duration of twelve months or less. For all other flight credits created under the prior policy, the Company currently does not expect the amount of flight credits that will be redeemed beyond twelve months to be material as a percentage of the Air traffic liability as of the financial statement date.
+
+All performance obligations related to freight services sold are completed within twelve months or less; therefore, the Company has elected to not disclose the amount of the remaining transaction price and its expected timing of recognition for freight shipments.
+
+Other revenues primarily consist of marketing royalties associated with the Company’s co-brand Chase ® Visa credit card program, but also include commissions and advertising associated with Southwest.com. All amounts classified as Other revenues are paid monthly, coinciding with the Company fulfilling its deliverables; therefore, the Company has elected to not disclose the amount of the remaining transaction price and its expected timing of recognition for such services provided.
+
+The Company recognized revenue related to the marketing, advertising, and other travel-related benefits of the cash flows associated with various loyalty partner agreements including, but not limited to, the Co-brand Agreement with Chase, the majority of which is within Other operating revenues. For the years ended December 31, 2025, 2024, and 2023 the Company recognized $ 2.6 billion, $ 2.2 billion, and $ 2.1 billion, respectively. The increase in revenue recognized in 2025 was primarily driven by immediate recognition of a larger portion of revenues (and thus lower revenue deferred) associated with the Company's aforementioned co-brand agreement with Chase from 2025 modifications to the agreement, which has also resulted in a lower balance in Air traffic liability as of December 31, 2025, as compared to the prior year.
+
+The Company is also required to collect certain taxes and fees from Customers on behalf of government agencies and remit these back to the applicable governmental entity on a periodic basis. These taxes and fees include foreign and U.S. federal transportation taxes, federal security charges, and airport passenger facility charges. These items are collected from Customers at the time they purchase their tickets, are excluded from the contract transaction price, and are therefore not included in Passenger revenue. The Company records a liability upon collection from the Customer and relieves the liability when payments are remitted to the applicable governmental agencies.
+
+Notes to Consolidated Financial Statements
+
+6. FINANCING ACTIVITIES
+
+(a) The interest rate will change to Secured Overnight Financing Rate plus two percent on the fifth anniversary of the loan, which occurs in April 2026.
+
+Senior Unsecured Notes due through 2035
+
+During November 2025, the Company issued $ 750 million senior unsecured notes due 2035. The notes bear interest at 5.250 percent. Interest is payable semi-annually in arrears on May 15 and November 15. Concurrently, the Company entered into a fixed-to-floating interest rate swap to convert the interest on these unsecured notes to a floating rate until their maturity. See Note 10 for further information on the interest-rate swap agreement. Additionally, the Company issued $ 750 million senior unsecured notes due 2028. The notes bear interest at 4.375 percent. Interest is payable semi-annually in arrears. The Company expects to use the net proceeds from this offering for general corporate purposes, which may include, but are not limited to, repayment or redemption of indebtedness or other corporate obligations.
+
+During 2020, the Company issued $ 2.0 billion of unsecured notes due 2027, of which $ 1.3 billion was issued June 8, 2020 (the “$ 1.3 billion 2027 Notes”) and $ 700 million was issued July 31, 2020 (the “$ 700 million 2027 Notes”). The notes bear interest at 5.125 percent. Interest is payable semi-annually in arrears. The $ 700 million 2027 Notes were offered as an additional issuance of the Company’s $ 1.3 billion 2027 Notes issued on June 8, 2020. The Company made early prepayments on the notes of $ 273 million throughout 2022, utilizing available cash on hand.
+
+During February 2020, the Company issued $ 500 million senior unsecured notes due 2030. The notes bear interest at 2.625 percent. Interest is payable semi-annually in arrears.
+
+During November 2017, the Company issued $ 300 million senior unsecured notes due 2027. The notes bear interest at 3.45 percent. Interest is payable semi-annually in arrears.
+
+During November 2016, the Company issued $ 300 million senior unsecured notes due 2026. The notes bear interest at 3.00 percent. Interest is payable semi-annually in arrears.
+
+On February 28, 1997, the Company issued $ 100 million of senior unsecured 7.375 percent debentures due March 1, 2027. Interest is payable semi-annually.
+
+Convertible Notes due 2025
+
+Notes to Consolidated Financial Statements
+
+On May 1, 2020, the Company completed the public offering of $ 2.3 billion aggregate principal amount of the Convertible Notes, bearing interest at a rate of 1.25 percent, payable semi-annually in arrears. The Company repurchased $ 689 million during the two year period ending December 31, 2022, and the remaining $ 1.6 billion principal amount of the Convertible Notes was repaid at maturity during second quarter 2025 utilizing available cash on hand. An immaterial amount of Convertible Note conversions settled at maturity .
+
+The Company recognized interest expense associated with the Convertible Notes as follows:
+
+The unamortized debt issuance costs were recognized as non-cash interest expense based on the 5 -year term of the notes, through May 1, 2025, less amounts that were required to be accelerated immediately upon conversion or repurchases. The Company had no changes to contingencies with regards to the Convertible Notes through the settlement date, May 1, 2025.
+
+Payroll Support Program Loans due through 2031
+
+D uring 2020 and 2021, the Company entered into definitive documentation with the United States Department of the Treasury ("Treasury") with respect to payroll funding support ("Payroll Support") pursuant to three separate Payroll Support programs: the "PSP1 Payroll Support Program" in April 2020 under the Coronavirus Aid, Relief, and Economic Security Act ("CARES Act"); the "PSP2 Payroll Support Program” in January 2021 under the Consolidated Appropriations Act, 2021; and the "PSP3 Payroll Support Program" in April 2021 under the American Rescue Plan Act of 2021.
+
+As consideration for its receipt of funding under each of these Payroll Support programs, the Company issued promissory notes in favor of Treasury (each initially classified as a component of Long-term debt less current maturities in the unaudited Condensed Consolidated Balance Sheet). The note associated with the PSP1 Payroll Support Program was originally due in April 2030 but was redeemed early on April 17, 2025, in the amount of $ 976 million. The note associated with the PSP2 Payroll Support Program was originally due in January 2031 but was redeemed early on December 29, 2025, in the amount of $ 566 million. The note associated with the PSP3 Payroll Support Program is due in April 2031. On December 30, 2025, the Company made a partial prepayment on the note associated with the PSP3 Payroll Support Program in the amount of $ 100 million. All payments were made utilizing available cash on hand.
+
+On the day after the fifth anniversary of the note associated with the PSP3 Payroll Support Program during April 2026, the applicable interest rate is scheduled to change to SOFR plus two percent.
+
+Revolving Credit Facility
+
+As of December 31, 2025, the Company has access to $ 1.5 billion under its amended and restated revolving credit facility (the "Amended Credit Agreement"), which expires in August 2028, reflecting the Company's exercise of the accordion feature to increase the size of the facility on July 22, 2025. For the twelve months ended December 31, 2025 and 2024 there were no amounts outstanding under the Amended Credit Agreement.
+
+Generally, amounts outstanding under the Amended Credit Agreement bear interest at rates based on either the SOFR rate (selected by the Company for designated interest periods) or the “alternate base rate” (being the highest of (1) the Wall Street Journal prime rate, (2) one-month adjusted SOFR (one-month SOFR plus 0.1 percent) plus 1 percent, and (3) the Federal Reserve Bank of New York Rate, plus 0.5 percent). The underlying SOFR rate is subject to a floor of 1 percent per annum and the “alternate base rate” is subject to a floor of 1 percent per annum.
+
+Notes to Consolidated Financial Statements
+
+The facility contains a financial covenant requiring a minimum coverage ratio of adjusted pre-tax income to fixed obligations, as defined. As of December 31, 2025, the Company was in compliance with this covenant and all other covenants in the Amended Credit Agreement.
+
+The Company is required to provide standby letters of credit to support certain obligations that arise in the ordinary course of business. Although the letters of credit are an off-balance sheet item, the majority of the obligations to which they relate are reflected as liabilities in the Consolidated Balance Sheet. Outstanding letters of credit totaled $ 272 million as of December 31, 2025.
+
+The Company had no assets pledged as collateral for its borrowings as of December 31, 2025.
+
+Maturities
+
+As of December 31, 2025, aggregate annual principal maturities of debt and finance leases (not including amounts associated with interest on finance leases) are as follows:
+
+7. LEASES
+
+The Company enters into leases for aircraft, property, and other types of equipment in the normal course of business. As allowed under ASC 842, Leases, the Company has elected a practical expedient to exclude from recognition lease assets and lease liabilities associated with leases that have an initial term of twelve months or less. Such expense was not material for the twelve months ended December 31, 2025, 2024, and 2023.
+
+As of December 31, 2025, the Company held aircraft leases with remaining terms extending up to eight years . The aircraft leases generally can be renewed for three months to three years at rates based on the fair market value at the end of the lease term. Residual value guarantees included in the Company's lease agreements are not material. The lease return costs incurred by the Company for returns completed in 2025 were $ 33 million, recognized as a component of Other operating expenses but were not material for all other periods presented.
+
+In fourth quarter 2024, the Company entered into an agreement with UMB Bank, N.A. ("UMB Bank") involving the sale of 36 of the Company’s -800 aircraft that qualified as sale-leaseback arrangements under applicable accounting guidance. Of the 36 -800 sale-leasebacks, 35 were executed in fourth quarter 2024 and one was executed in first quarter 2025. The Company sold the 35 -800 aircraft in fourth quarter 2024 to UMB Bank for $ 871 million, then immediately leased the aircraft back for approximately two to three years . In first quarter 2025, the Company sold one -800 aircraft to UMB Bank for $ 24 million, then immediately leased the aircraft back for approximately three years . As such, 36 aircraft were de-recognized from Property and equipment at their remaining net book values at the time of sale. All of the leases from the sale-leasebacks are accounted for as operating leases, and thus are now reflected as part of the Company’s Operating lease right-of-use assets and operating lease liabilities in the accompanying Consolidated Balance Sheet. The -800 sale-leaseback transaction resulted in a recognized gain of $ 92 million and operating lease right-of-use assets and liabilities of $ 319 million in fourth quarter 2024 and resulted in a recognized gain of $ 3 million and operating lease right-of-use assets and liabilities of $ 9 million in first quarter
+
+Notes to Consolidated Financial Statements
+
+2025. These gains were reflected within Other operating expenses, net in the accompanying Consolidated Statement of Comprehensive Income.
+
+Throughout 2024, the Company entered into agreements with third parties to purchase two -700 aircraft, both of which were already in the Company's fleet under finance lease terms, one -800 aircraft, and the airframe of one -800 aircraft, both of which were already in the Company's fleet under operating lease terms. The Company paid the lessors $ 45 million in 2024, of which $ 3 million was recorded as the elimination of the Company's remaining finance lease obligation for the aircraft, and which was also reflected within Payments of long-term debt and finance lease obligations in the accompanying Consolidated Statement of Cash Flows and $ 2 million was recorded as the elimination of the Company's remaining operating lease obligation for the aircraft, and which was also reflected within Changes in Other noncurrent assets in the accompanying Consolidated Statement of Cash Flows. The remaining $ 40 million was the net purchase price of the aircraft and is included as part of the Company's Capital expenditures for 2024. There was no gain or loss recorded as a result of these transactions. As of December 31, 2025, the Company has 82 operating and 15 finance leased aircraft remaining in its fleet.
+
+In second and third quarter 2023, the Company also entered into additional transactions with third parties to purchase four -700 aircraft, all of which were already in the Company's fleet under finance lease terms. The Company paid the lessors $ 44 million in 2023, of which $ 3 million was recorded as the elimination of the Company's remaining finance lease obligation for the aircraft, and which was also reflected within Payments of long-term debt and finance lease obligations in the accompanying Consolidated Statement of Cash Flows. The remaining $ 41 million was the net purchase price of the aircraft and is included as part of the Company's Capital expenditures for 2023. There was no gain or loss recorded as a result of these transactions.
+
+In first quarter 2023, the Company completed the purchase of eight -700 aircraft from an aircraft sale agreement with AerCap Ireland Limited (“AerCap”) to purchase a total of 39 -700 aircraft, all of which were already in the Company's fleet under finance lease terms. The Company completed the purchase of the other 31 of these aircraft during fourth quarter 2022. The Company paid the lessor 88 million in first quarter 2023 as part of this transaction, of which $ 50 million was recorded as the elimination of the Company’s remaining finance lease obligation for the aircraft, and which was also reflected within Payments of long-term debt and finance lease obligations in the accompanying Consolidated Statement of Cash Flows. The remaining $ 38 million was the net purchase price of the aircraft and is included as part of the Company’s Capital expenditures for first quarter 2023. There was no gain or loss recorded as a result of these transactions.
+
+At each airport where the Company conducts flight operations, the Company has lease agreements, generally with a governmental unit or authority, for the use of airport terminals, airfields, office space, cargo warehouses, gates, and/or maintenance facilities. These leases are classified as operating lease agreements and have remaining lease terms extending up to 35 years. Certain leases can be renewed from one year to 11 years. The majority of the airport terminal leases contain certain provisions for periodic adjustments to rates that depend upon airport operating costs or use of the facilities, and are reset at least annually. Because of the variable nature of these rates, these leases are not recorded as a right-of-use asset or a lease liability on the Consolidated Balance Sheet.
+
+The Company also leases certain technology assets, fuel storage tanks, and various other equipment that qualify as leases under the applicable accounting guidance with lease terms extending up to five years . Certain leases can be renewed to one year .
+
+Notes to Consolidated Financial Statements
+
+Lease-related assets and liabilities recorded on the Consolidated Balance Sheet were as follows:
+
+The components of lease costs, included in the Consolidated Statement of Income, were as follows:
+
+(a) Net of sublease income of $ 1 million and $ 7 million for the years ended December 31, 2024 and 2023
+
+Supplemental cash flow information related to leases, included in the Consolidated Statement of Cash Flows, was as follows:
+
+Notes to Consolidated Financial Statements
+
+As of December 31, 2025, maturities of lease liabilities were as follows:
+
+The table below presents additional information related to the Company's leases:
+
+8. COMMON STOCK
+
+The Company has one class of capital stock, its common stock. Holders of shares of common stock are entitled to receive dividends when and if declared by the Board of Directors and are entitled to one vote per share on all matters submitted to a vote of the Shareholders. As of December 31, 2025, the Company had 80 million shares of common stock reserved for issuance pursuant to Employee equity plans (of which 21 million shares had not been granted) through various share-based compensation arrangements. See Note 9 for information regarding the Company's equity plans.
+
+Repurchase of Common Stock
+
+Under an accelerated share repurchase program entered into by the Company with third-party financial institutions in first quarter 2025 (the “First Quarter 2025 ASR Program”), the Company paid $ 750 million and received an initial delivery of 19,867,550 shares during February 2025, representing an estimated 80 percent of the shares to be purchased by the Company under the First Quarter 2025 ASR Program. This share amount was based on the $ 30.20 closing price of the Company’s common stock on February 19, 2025. Final settlement of the First Quarter 2025 ASR Program occurred in April 2025 and was based on a discount to the volume-weighted average price per share of the Company’s common stock during a calculation period completed in April 2025. Upon settlement, the third-party financial institutions delivered 4,242,267 additional shares of the Company’s common stock to the Company. Upon completion of the First Quarter 2025 ASR Program in April 2025, the average purchase price per share for the 24,109,817 shares repurchased was $ 31.11 .
+
+Under an accelerated share repurchase program entered into by the Company with third-party financial institutions in second quarter 2025 (the “Second Quarter 2025 ASR Program”), the Company paid $ 1.5 billion and received an initial delivery of 45,300,111 shares during April 2025, representing an estimated 80 percent of the shares to be
+
+Notes to Consolidated Financial Statements
+
+purchased by the Company under the Second Quarter 2025 ASR Program. This share amount was based on the $ 26.49 closing price of the Company’s common stock on April 25, 2025. Final settlement of the Second Quarter 2025 ASR Program occurred in August 2025 and was based on a discount to the volume-weighted average price per share of the Company’s common stock during a calculation period completed in July 2025. Upon settlement, the third-party financial institutions delivered 934,237 additional shares of the Company’s common stock to the Company in July 2025, and 388,662 additional shares of the Company’s common stock to the Company in August 2025. Upon completion of the Second Quarter 2025 ASR Program in August 2025, the average purchase price per share for the 46,623,010 shares repurchased was $ 32.17 .
+
+On July 23, 2025, the Board approved a new $ 2.0 billion share repurchase authorization of the Company’s common stock. Under an accelerated share repurchase program entered into by the Company with a third-party financial institution in third quarter 2025 (the “Third Quarter 2025 ASR Program”), the Company paid $ 250 million and received an initial delivery of 6,368,213 shares during September 2025, representing an estimated 80 percent of the shares to be purchased by the Company under the Third Quarter 2025 ASR Program. This share amount was based on the $ 31.39 and $ 31.43 closing price of the Company’s common stock on September 5, 2025 and September 15, 2025, respectively. Final settlement of the Third Quarter 2025 ASR Program occurred in October 2025 and was based on a discount to the volume-weighted average price per share of the Company’s common stock during a calculation period completed in October 2025. Upon settlement, the third-party financial institution delivered 1,409,551 additional shares of the Company’s common stock to the Company. Upon completion of the Third Quarter 2025 ASR Program in October 2025, the average purchase price per share for the 7,777,764 shares repurchased was $ 32.14 .
+
+Under an accelerated share repurchase program entered into by the Company with a third party financial institution in fourth quarter 2025 (the "Fourth Quarter 2025 ASR Program"), the Company paid $ 50 million and received an initial delivery of 1,224,740 shares during November 2025, representing an estimated 80 percent of the shares to be purchased by the Company under the Fourth Quarter 2025 ASR Program. This share amount was based on the $ 32.66 closing price of the Company's common stock on November 10, 2025. Final settlement of the Fourth Quarter 2025 ASR Program occurred in December 2025 and was based on a discount to the volume-weighted average price per share of the Company's common stock during a calculation period completed in December 2025. Upon settlement, the third party financial institution delivered 106,178 additional shares of the Company’s common stock to the Company. Upon completion of the Fourth Quarter 2025 ASR Program in December 2025, the average purchase price per share for the 1,330,918 shares repurchased was $ 37.57 .
+
+Under a forward contract entered into by the Company with a third-party financial institution in fourth quarter 2025, the Company committed $ 750 million for an accelerated share repurchase program that was both funded and completed in January 2026 (the "January 2026 ASR Program"). Final settlement of the accelerated share repurchase program was based on a discount to the volume-weighted average price per share of the Company's common stock during a calculation period completed in January 2026. Upon completion of the January 2026 ASR Program in January 2026, the third-party financial institution delivered 17,965,193 shares of the Company’s common stock to the Company at an average purchase price per share repurchased of $ 41.75 . During December 2025, the forward purchase agreement was accounted for as a freestanding financial instrument and was marked to market value through earnings, resulting in an $ 8 million gain within Other gains/(losses) in the accompanying Consolidated Statement of Income for 2025. This non-cash gain also resulted in the Company recording a current asset of $ 8 million within Other current assets in the accompanying Consolidated Balance Sheet as of December 31, 2025, which was netted into Treasury stock upon completion of the January 2026 ASR Program in January 2026.
+
+Under an accelerated share repurchase program entered into by the Company with a third party financial institution in January 2026 (the "First Quarter 2026 ASR Program"), the Company paid $ 400 million and received an initial delivery of 6,597,939 shares during January 2026, representing approximately 80 percent of the shares to be purchased by the Company under the First Quarter 2026 ASR Program. This share amount was based on the $ 48.50 closing price of the Company's common stock on January 29, 2026. Final settlement of the First Quarter 2026 ASR Program is scheduled to occur by the end of April 2026 and will be based on a discount to the volume-weighted
+
+Notes to Consolidated Financial Statements
+
+average price per share of the Company's common stock during a calculation period to be completed at the time of settlement.
+
+9. STOCK PLANS
+
+Share-based Compensation
+
+The Company accounts for share-based compensation utilizing fair value, which is determined on the date of grant for all instruments. The Consolidated Statement of Income for the years ended December 31, 2025, 2024, and 2023, reflects share-based compensation expense of $ 99 million, $ 45 million, and $ 86 million, respectively. The total tax impact recognized in earnings from share-based compensation arrangements for the years ended December 31, 2025, 2024, and 2023, was not material. As of December 31, 2025, there was $ 100 million of total unrecognized compensation cost related to share-based compensation arrangements, which is expected to be recognized over a weighted-average period of 1.9 years. The Company expects substantially all unvested shares associated with time-based restricted stock unit awards to vest.
+
+Restricted Stock Units and Stock Grants
+
+Under the Company’s Amended and Restated 2007 Equity Incentive Plan ("2007 Equity Plan"), which was approved by Shareholders, the Company granted restricted stock units ("RSUs") and performance-based restricted stock units ("PBRSUs") to certain Employees during 2025, 2024, and 2023.
+
+The RSUs are scheduled to vest with respect to one-third of the shares covered thereby annually. Other than in connection with death or disability, vesting is subject to the individual’s continued service as an Employee, Board member, or advisor through the vesting date. However, with respect to the RSUs granted in 2023, 2024, and 2025, provided that the individual's service has terminated no earlier than 12 months after the date of grant, in the event of a “qualified retirement,” any outstanding unvested RSUs will remain outstanding as if the individual’s service has not terminated and will continue to vest in accordance with the schedule set forth in the notice of the grant. An individual's termination of service will be considered a "qualified retirement" if (a) the individual has completed at least 10 years of continuous service; (b) the individual’s age plus completed years of continuous service equal at least 65 at the time of the individual’s termination of service; and (c) the individual has not been terminated for cause.
+
+Under the 2023 grants, the number of PBRSUs vesting on the vesting date will be interpolated based on the Company's Adjusted ROIC performance, as defined, and ranges from zero to 200 percent of granted PBRSUs, only after a minimum performance level has been achieved. Adjusted ROIC for the Performance Period is the average of the ROIC, using an assumed federal tax rate of 24 percent, over the three full fiscal years within the Performance Period (2023, 2024, and 2025), and vesting is also subject generally to the individual’s continued employment or service. However, in the event the Company's average Adjusted ROIC is greater than zero and exceeds the median (i.e., 50th percentile) return on invested capital of certain of the Company's Peer Group of domestic mainline carriers subject to the Securities and Exchange Commission's reporting requirements, the minimum number of PBRSUs that will vest, as of the vesting date, will be equal to the grant amount times 50 percent. If the Company's relative Adjusted ROIC ranks highest compared to the Company's Peer Group, the minimum number of PBRSUs that will vest, as of the vesting date, will be equal to the grant amount times 100 percent.
+
+Under the 2024 grants, the number of PBRSUs vesting on the vesting date will be interpolated based on the Company's Adjusted ROIC performance, as defined, and ranges from zero to 200 percent of granted PBRSUs, only after a minimum performance level has been achieved. Adjusted ROIC for the Performance Period is the average of the ROIC, using an assumed federal tax rate of 24 percent, over the three full fiscal years within the Performance Period (2024, 2025, and 2026), and vesting is also subject generally to the individual’s continued employment or service. However, in the event the Company's average Adjusted ROIC is greater than zero and exceeds the median (i.e., 50th percentile) return on invested capital of certain of the Company's Peer Group of domestic mainline carriers subject to the Securities and Exchange Commission's reporting requirements, the minimum number of
+
+Notes to Consolidated Financial Statements
+
+PBRSUs that will vest, as of the vesting date, will be equal to the grant amount times 50 percent. If the Company's relative Adjusted ROIC ranks highest compared to the Company's Peer Group, the minimum number of PBRSUs that will vest, as of the vesting date, will be equal to the grant amount times 100 percent.
+
+Under the 2025 grants, the number of PBRSUs vesting on the vesting date will be interpolated based on the Company's Adjusted ROIC performance, as defined, and ranges from zero to 200 percent of granted PBRSUs, only after a minimum performance level has been achieved. Adjusted ROIC for the Performance Period is the average of the ROIC, using an assumed federal tax rate of 23.5 percent, over the three full fiscal years within the Performance Period (2025, 2026, and 2027), and vesting is also subject generally to the individual’s continued employment or service. However, in the event the Company's average Adjusted ROIC is greater than zero and exceeds the median (i.e., 50th percentile) return on invested capital of certain of the Company's Peer Group of domestic mainline carriers subject to the Securities and Exchange Commission's reporting requirements, the minimum number of PBRSUs that will vest, as of the vesting date, will be equal to the grant amount times 50 percent. If the Company's relative Adjusted ROIC ranks highest compared to the Company's Peer Group, the minimum number of PBRSUs that will vest, as of the vesting date, will be equal to the grant amount times 100 percent.
+
+Under the 2025 Southwest Even Better ("SEB") grants, the number of PBRSUs vesting on the vesting date will be based on the Company's Adjusted EBIT (as defined) for the years 2026 and 2027 and ranges from zero percent of granted PBRSUs to 200 percent of granted PBRSUs, only after a minimum performance level has been achieved. Vesting is also subject generally to the individual's continued employment.
+
+With respect to PBRSUs granted in 2023, 2024, and 2025, not including the SEB grants, provided that the individual's service has terminated no earlier than 12 months after the date of grant, in the event of a “qualified retirement,” such individual’s PBRSUs will remain outstanding as if the individual’s service has not terminated and will otherwise be settleable in accordance with the notice of grant and applicable terms and conditions; however, the number of shares received upon settlement will be prorated based on the individual’s number of days of service between the date of grant and the end of the performance period.
+
+For all RSU and PBRSU grants, forfeiture rates are estimated at the time of grant based on historical actuals for similar grants, and are trued-up to actuals over the vesting period. For all RSU and PBRSU grants, the Company recognizes all expense on a straight-line basis over the vesting period, as adjusted for qualified retirement provisions, with any changes in expense due to the number of RSUs and PBRSUs expected to vest being modified on a prospective basis.
+
+Notes to Consolidated Financial Statements
+
+Aggregated information regarding the Company’s RSUs and PBRSUs is summarized below:
+
+(a) Includes 1.1 million PBRSUs
+
+(b) Includes 1.7 million PBRSUs
+
+(c) Includes 2.4 million PBRSUs
+
+In addition, the Company granted approximately 65 thousand shares of unrestricted stock at a weighted average grant price of $ 31.38 in 2025, approximately 108 thousand shares at a weighted average grant price of $ 28.77 in 2024, and approximately 73 thousand shares at a weighted average grant price of $ 30.12 in 2023, to members of its Board of Directors.
+
+A remaining balance of up to 9 million shares of the Company’s common stock may be issued pursuant to grants under the 2007 Equity Plan.
+
+Employee Stock Purchase Plan
+
+Under the Amended and Restated 1991 Employee Stock Purchase Plan ("ESPP"), which has been approved by Shareholders, the Company is authorized to issue up to a remaining balance of 12 million shares of the Company’s common stock to Employees of the Company. These shares may be issued at a price equal to 90 percent of the market value at the end of each monthly purchase period. Common stock purchases are paid for through periodic payroll deductions.
+
+The following table provides information about the Company’s ESPP activity during 2025, 2024, and 2023:
+
+(a) The weighted-average fair value of each purchase right under the ESPP granted is equal to a ten percent discount from the market value of the Common Stock at the end of each monthly purchase period.
+
+Notes to Consolidated Financial Statements
+
+Taxes
+
+Grants of RSUs result in the creation of a deferred tax asset, which is a temporary difference, until the time the RSU vests. All excess tax benefits and tax deficiencies are recorded through the Consolidated Statement of Income. Due to the treatment of RSUs for tax purposes, the Company’s effective tax rate from year to year is subject to variability.
+
+Notes to Consolidated Financial Statements
+
+10. FINANCIAL DERIVATIVE INSTRUMENTS
+
+Fuel Contracts
+
+Airline operators are inherently dependent upon energy to operate and, therefore, are impacted by changes in jet fuel prices. Furthermore, jet fuel and oil typically represents one of the largest operating expenses for airlines. The Company has historically aimed to reduce volatility in operating expenses through its fuel hedging program. However, based on higher fuel hedging premium costs over time and other factors, the Company has discontinued its fuel hedging program in 2025 and does not intend to add additional fuel derivatives at this time.
+
+For the purpose of evaluating its net cash spend for jet fuel and for forecasting its future estimated jet fuel expense, the Company has historically evaluated its hedge volumes strictly from an "economic" standpoint and thus did not consider whether the hedges had qualified or would qualify for hedge accounting. The Company defined its "economic" hedge as the net volume of fuel derivative contracts held, including the impact of positions that were offset through sold positions, regardless of whether those contracts qualified for hedge accounting.
+
+During second quarter 2025, the Company terminated its remaining portfolio of fuel hedging contracts, which were scheduled to settle through 2027, to effectively close its fuel hedging portfolio and program. This resulted in the derecognition of all remaining related hedge assets in the Consolidated Balance Sheet. The cash proceeds from this transaction totaled approximately $ 40 million, which will reduce future premium costs. Subsequent to this termination, approximately $ 96 million that was previously expended on hedge positions in prior periods was reclassified from AOCI and recognized as an increase to Fuel and oil expense within the Consolidated Statement of Income during 2025, all of which is characterized as premium expense from terminated fuel hedging positions. As of December 31, 2025, approximately $ 137 million remained in AOCI related to these closed positions. This balance in AOCI, which does not include any tax impact, will also be characterized as premium expense and similarly reclassified as an increase to Fuel and oil expense in future periods when the originally forecasted transactions occur (through the end of 2027), and is net of the impact of the cash proceeds from the hedge terminations. See Note 12 for additional information on AOCI.
+
+Historically, upon proper qualification, the Company accounted for its fuel derivative instruments as cash flow hedges. Qualification was re-evaluated quarterly, and all periodic changes in fair value of the derivatives designated as hedges were recorded in AOCI until the underlying jet fuel was consumed. See Note 12.
+
+If a derivative initially did not qualify or ceased to qualify for hedge accounting, any change in the fair value of derivative instruments since the last reporting period was recorded in Other (gains) losses, net in the Consolidated Statement of Income in the period of the change; however, any amounts previously recorded to AOCI remained there until such time as the original forecasted transaction occurred, at which time these amounts were reclassified to Fuel and oil expense.
+
+During third quarter 2024, the routine statistical analysis performed by the Company to determine which commodities qualify for special hedge accounting treatment on a prospective basis indicated that WTI crude oil-based derivatives no longer qualified for hedge accounting. This change was primarily due to the fact that the correlation between WTI crude oil prices and jet fuel prices during recent periods had not been as strong as in the past, and therefore the Company could no longer demonstrate that derivatives based on WTI crude oil prices would result in effective hedges on a prospective basis. As such, all WTI-based instruments were de-designated from their hedging relationships and the change in fair value of all of the Company's derivatives based in WTI was recorded to Other (gains) losses for third and fourth quarter 2024. All WTI crude oil based derivatives in the Company's portfolio have settled as of December 31, 2024. The change in fair value of the Company's WTI derivative contracts during the second half of 2024 was a decrease of $ 37 million, which resulted in a corresponding loss in the Consolidated Statement of Income. Any amounts previously recorded to AOCI remained there until the original forecasted transaction occurred in accordance with hedge accounting requirements.
+
+Notes to Consolidated Financial Statements
+
+All cash flows associated with purchasing and selling fuel derivatives (including terminations) are classified as Other operating cash flows in the Consolidated Statement of Cash Flows. The following table presents the location of all assets and liabilities associated with the Company’s derivative instruments within the Consolidated Balance Sheet:
+
+(a) Represents the position of each trade before consideration of offsetting positions with each counterparty and does not include the impact of cash collateral deposits provided to or received from counterparties.
+
+In addition, the Company had the following amounts associated with fuel derivative instruments and hedging activities in its Consolidated Balance Sheet:
+
+All of the Company's prior period fuel derivative instruments and current period interest rate swaps are subject to agreements that follow the netting guidance in the applicable accounting standards for derivatives and hedging. The types of derivative instruments the Company determined were subject to netting requirements in the accompanying Consolidated Balance Sheet are those in which the Company paid or received cash for transactions with the same counterparty and in the same currency via one net payment or receipt. For cash collateral held by the Company or provided to counterparties, the Company netted such amounts against the fair value of the Company's derivative portfolio by each counterparty. The Company elected to utilize netting for its prior period fuel derivative instruments and also classified such amounts as either current or noncurrent, based on the net fair value position with each of the Company's counterparties in the Consolidated Balance Sheet.
+
+The Company had the following recognized financial assets and financial liabilities resulting from those transactions that meet the scope of the disclosure requirements as necessitated by applicable accounting guidance for balance sheet offsetting:
+
+Notes to Consolidated Financial Statements
+
+(a) The net amounts of derivative assets and liabilities are reconciled to the individual line item amounts presented in the Consolidated Balance Sheet in Note 15.
+
+(a) The net amounts of derivative assets and liabilities are reconciled to the individual line item amounts presented in the Consolidated Balance Sheet in Note 15.
+
+Notes to Consolidated Financial Statements
+
+The following tables present the impact of derivative instruments, including terminations, within the Consolidated Statement of Income for the years ended December 31, 2025 and 2024:
+
+The Company also recorded expenses associated with net premiums paid for fuel derivative contracts that settled/expired and/or terminated during 2025, 2024, and 2023. Gains and/or losses associated with fuel derivatives that qualified for hedge accounting were ultimately recorded to Fuel and oil expense. Gains and/or losses associated with fuel derivatives that did not qualify for hedge accounting were recorded to Other (gains) losses, net. The following table presents the expense impacts and their location within the Consolidated Statement of Income during the period the contracts settled or were scheduled to settle:
+
+Notes to Consolidated Financial Statements
+
+Interest Rate Derivatives
+
+The Company is at times party to certain interest rate swap agreements that are accounted for as either fair value hedges or cash flow hedges, as defined in the applicable accounting guidance for derivative instruments and hedging. The Company did not have any interest rate swap agreements designated as cash flow hedges during the periods presented. During the periods presented, the Company's interest rate swap agreements qualify for the "shortcut" or "critical terms match" methods of accounting for hedges, which dictate that the hedges were assumed to be perfectly effective at origination and, thus, there was no ineffectiveness to be recorded in the Consolidated Statement of Income.
+
+During fourth quarter 2025, the Company entered into interest rate swap agreements as a hedge related to its $ 750 million 5.25 % Notes due 2035. See Note 6. The primary objective for the Company's use of this interest rate hedge was to hedge against changes in the fair value of the debt instrument caused by changes in market interest rates, specifically SOFR. The hedge strategy is to eliminate the changes in fair value of the debt by converting the fixed rate interest of the debt to a floating rate. Under these interest rate swap agreements, the Company pays SOFR plus a margin every six months on the notional amount of the debt, and receives payments based on the fixed stated rate of the notes every six months until the date the notes become due. These interest rate swap agreements collectively qualify as a fair value hedge. As a result of the fixed-to-floating interest rate swap agreements in place, the average floating rate recognized during 2025 was approximately 5.44 percent, based on actual and forward rates as of December 31, 2025.
+
+The fair values of the interest rate swap agreements, which are adjusted regularly, have been aggregated by counterparty for classification in the Consolidated Balance Sheet. Agreements totaling a net liability of $ 16 million, are fair value hedges, and are classified as components of Other noncurrent liabilities. The corresponding offsetting adjustment related to the net asset (or liability) associated with the Company’s fair value hedges is to Long-term debt less current maturities.
+
+During fourth quarter 2023, the Company terminated $ 150 million notional value of forward-starting interest rate swap agreements associated with the Company's forecasted issuance of debt. These swap agreements had been classified as cash flow hedges, and all fair market value changes were recorded to AOCI prior to their termination. Following the issuance of the Company's $ 750 million 5.25 % Notes due 2035 in fourth quarter 2025, the deferred gain of $ 23 million associated with these terminated swaps is now being amortized to Interest expense over the life of the notes.
+
+Credit Risk and Collateral
+
+The Company had no cash collateral posted or received as of December 31, 2025.
+
+Notes to Consolidated Financial Statements
+
+11. FAIR VALUE MEASUREMENTS
+
+Accounting standards pertaining to fair value measurements establish a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value. These tiers include: Level 1, defined as observable inputs such as quoted prices in active markets; Level 2, defined as inputs other than quoted prices in active markets that are either directly or indirectly observable; and Level 3, defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.
+
+As of December 31, 2025, the Company held certain items that are required to be measured at fair value on a recurring basis. These consisted of cash equivalents, but at other times the Company also holds short-term investments and available-for-sale securities. The majority of the Company’s cash equivalents and short-term investments consist of instruments classified as Level 1. However, when the Company holds certificates of deposit and time deposits, they are classified as Level 2, due to the fact that the fair value for these instruments is determined utilizing observable inputs in non-active markets. Equity securities primarily consist of investments with readily determinable market values associated with the Company’s excess benefit plan and market-based cash balance plan.
+
+During second quarter 2025, the Company terminated its remaining portfolio of fuel hedging contracts, which were scheduled to settle through 2027, to effectively close its fuel hedging portfolio and program. The Company’s interest rate derivative instruments and prior period fuel derivative instruments consist of over-the-counter contracts, which are not traded on a public exchange. Fuel derivative instruments historically consisted solely of option contracts, whereas interest rate derivatives consist solely of swap agreements. See Note 10 for further information on the Company's derivative instruments and hedging activities. The fair values of swap contracts are determined based on inputs that are readily available in public markets or can be derived from information available in publicly quoted markets. Therefore, the Company has categorized these swap contracts as Level 2. In prior periods, the Company determined the value of option contracts utilizing an option pricing model based on inputs that are either readily available in public markets, can be derived from information available in publicly quoted markets, or are provided by financial institutions that trade these contracts. The option pricing model used by the Company is an industry standard model for valuing options and is a similar model used by the broker/dealer community (i.e., the Company’s counterparties). The inputs to this option pricing model are the option strike price, underlying price, risk free rate of interest, time to expiration, and volatility. Because certain inputs used to determine the fair value of option contracts are unobservable (principally implied volatility), the Company categorized these option contracts as Level 3. Volatility information was obtained from external sources, but was analyzed by the Company for reasonableness and compared to similar information received from other external sources. Holding other inputs constant, an increase (decrease) in implied volatility would have resulted in a higher (lower) fair value measurement, respectively, for the Company’s derivative option contracts. The fair value of option contracts considered both the intrinsic value and any remaining time value associated with those derivatives that had not yet settled. The Company also considered counterparty credit risk and its own credit risk in its determination of all estimated fair values. To validate the reasonableness of the Company’s option pricing model, on a monthly basis, the Company compared its option valuations to third party valuations. However, no significant differences were noted. The Company has consistently applied these valuation techniques in prior periods presented and believes it obtained the most accurate information available for the types of derivative contracts it previously held.
+
+Included in Equity securities are the Company's investments primarily associated with its deferred compensation plans, which consist of mutual funds that are publicly traded and for which market prices are readily available. These plans are non-qualified deferred compensation plans designed to hold contributions in excess of limits established by the Internal Revenue Code of 1986, as amended. The distribution timing and payment amounts under these plans are made based on the participant's distribution election and plan balance. Assets related to the funded portions of the deferred compensation plans are held in a rabbi trust, and the Company remains liable to these participants for the unfunded portion of the plans. The Company records changes in the fair value of plan obligations and plan assets, which net to zero, within the Salaries, wages, and benefits line and Other (gains) losses, net line, respectively, of the Consolidated Statement of Income.
+
+Notes to Consolidated Financial Statements
+
+The following tables present the Company’s assets and liabilities that are measured at fair value on a recurring basis as of December 31, 2025, and December 31, 2024:
+
+(a) Cash equivalents are primarily composed of money market investments.
+
+(a) Cash equivalents are primarily composed of money market investments and treasury bills.
+
+(b) In the Consolidated Balance Sheet amounts are presented as an asset. See Note 10.
+
+The Company did not have any material assets or liabilities measured at fair value on a nonrecurring basis as of December 31, 2025 or 2024. The following tables present the Company’s activity for items measured at fair value on a recurring basis using significant unobservable inputs (Level 3) for 2025 and 2024:
+
+Notes to Consolidated Financial Statements
+
+(a) Included in Other (gains) losses, net, within the Consolidated Statement of Income.
+
+(b) The purchase of fuel derivatives is recorded on a gross basis based on the structure of the derivative instrument and whether a contract with multiple derivatives was purchased as a single instrument or separate instruments.
+
+The carrying amounts and estimated fair values of the Company’s short-term and long-term debt (including current maturities), as well as the applicable fair value hierarchy tier, as of December 31, 2025, are presented in the table below. The fair values of the Company’s publicly held debt are determined based on inputs that are readily available in public markets or can be derived from information available in publicly quoted markets; therefore, the Company has categorized these agreements as Level 2. All privately held debt agreements are categorized as Level 3. The Company has determined the estimated fair value of this debt to be Level 3, as certain inputs used to determine the fair value of these agreements are unobservable. The Company utilizes indicative pricing from counterparties and a discounted cash flow method to estimate the fair value of the Level 3 items.
+
+(a) The interest rate will change to Secured Overnight Financing Rate plus two percent in April 2026. See Note 6 for further information.
+
+Notes to Consolidated Financial Statements
+
+12. ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+
+Comprehensive income includes changes in the fair value of certain financial derivative instruments that qualified for hedge accounting and actuarial gains/losses arising from the Company’s postretirement benefit obligation. During second quarter 2025, the Company terminated its remaining portfolio of fuel hedging contracts, which were scheduled to settle through 2027, to effectively close its fuel hedging portfolio and program. See Note 10 . A rollforward of the amounts included in AOCI, net of taxes, is shown below for 2025 and 2024:
+
+The following table illustrates the significant amounts reclassified out of each component of AOCI for the year ended December 31, 2025:
+
+13. EMPLOYEE RETIREMENT PLANS
+
+Defined Contribution Plans
+
+The Company has defined contribution plans covering substantially all Employees. Contributions to these plans are primarily based on Employee elective deferrals as well as their eligible compensation and Company performance. The Company sponsors Employee savings plans under section 401(k) of the Internal Revenue Code of 1986, as amended. The Southwest Airlines Pilots Retirement Saving Plan has non-elective Company contributions. In the Southwest Airlines Co. Retirement Savings Plan (the "Retirement Savings Plan"), non-elective contributions are allowed for certain eligible workgroups that have negotiated such items as part of ratified collective-bargaining
+
+Notes to Consolidated Financial Statements
+
+contracts, Company matching contributions are made for eligible Employees contributing to their 401(k) accounts, and the Company contributes a percentage of its annual net profits, as defined.
+
+Amounts associated with the Company's defined contribution plans expensed in 2025, 2024, and 2023, reflected as a component of Salaries, wages, and benefits, were $ 1.0 billion, $ 825 million, and $ 941 million respectively.
+
+Defined Benefit Plan
+
+In 2024, the Company began offering a market based cash balance defined benefit plan covering eligible Pilots. The Company's funding obligation for the qualified plan is governed by the Employee Retirement Income Security Act of 1974 (ERISA) and any applicable regulations. The plan provides pension credits equal to 1 percent of eligible wages for qualifying participants, which are credited based on in a designated portfolio of equity and fixed income assets. For payroll periods ending on or after January 1, 2026, each pension credit shall be equal to 2 percent of eligible wages for qualifying participants. Participants’ hypothetical account balances reflect interest credits, calculated monthly based on the actual returns (positive or negative) of the designated portfolio. Participants' benefits consist of the sum of the pension credits and the returns (or losses) accrued on the hypothetical invested contributions. Amounts exceeding the limits established under the Internal Revenue Code will be provided through a separate unfunded arrangement or paid in cash. As a defined benefit plan, participants are guaranteed a distribution equivalent to no less than the sum of the original pension credits. For married participants, the default form of payment is a 50 percent qualified joint and survivor annuity payable over the joint lives of the participant and spouse unless the spouse consents to an alternative form. For unmarried participants, the default form is a single life annuity. Other annuity forms may be available as described in the plan document.
+
+Postretirement Benefit Plans
+
+The Company provides postretirement benefits to qualified retirees in the form of medical and dental coverage. Employees must meet minimum levels of service and age requirements as set forth by the Company, or as specified in collective-bargaining agreements with specific workgroups. Employees meeting these requirements, as defined, may use accrued unused sick time to pay for medical and dental premiums from the age of retirement until age 65 .
+
+The following table shows the change in the accumulated market based cash balance plan and postretirement benefit obligations for the years ended December 31, 2025 and 2024:
+
+During 2025, the Company recorded $ 59 million in combined actuarial losses as an increase to the market based cash balance and postretirement benefit plans with an offset to AOCI. These 2025 actuarial losses are reflected
+
+Notes to Consolidated Financial Statements
+
+above and resulted from changes in certain key assumptions used to determine the Company’s year-end obligation. The assumption change that resulted in the largest portion of the actuarial loss was a decrease in the discount rate used.
+
+Benefits earned under the market based cash balance plan are expected to be paid from funded benefit plan assets, while the postretirement benefits are funded from current assets. The following table shows the estimated future benefit payments expected to be paid:
+
+The following table reconciles the funded status of the postretirement benefit plans to the accrued benefit plan cost recognized in Other noncurrent liabilities on the Company’s Consolidated Balance Sheet as of December 31, 2025 and 2024.
+
+The consolidated periodic benefit cost for the years ended December 31, 2025, 2024, and 2023 included the following:
+
+Service cost is recognized within Salaries, wages, and benefits expense, and all other costs are recognized in Other (gains) losses, net in the Consolidated Statement of Income. Unrecognized prior service cost is expensed using a straight-line amortization of the cost over the average future service of Employees expected to receive benefits under the plans. Actuarial gains are amortized utilizing the minimum amortization method. The following actuarial assumptions were used to account for the Company’s market based cash balance and postretirement plans at December 31, 2025, 2024, and 2023:
+
+Notes to Consolidated Financial Statements
+
+(a) The assumed healthcare cost trend rate is expected to be 8.35 % for 2026, then decline gradually to 4.5 % by 2035 and remain level thereafter.
+
+The selection of a discount rate is made annually and is selected by the Company based upon comparison of the expected future cash flows associated with the Company’s future payments under its consolidated benefit obligations to a yield curve created using high quality bonds that closely match those expected future cash flows.
+
+This rate for postretirement benefits decreased during 2025 due to market conditions. The assumed healthcare trend rate is also reviewed at least annually and is determined based upon both historical experience with the Company’s benefits paid and expectations of how those trends may or may not change in future years.
+
+The expected long-term rate of return on plan assets is based on historical market and volatility data and expected market conditions, reflecting a target asset allocation of 40 percent equities and 60 percent fixed income. The Company reviews the rate of return on plan assets assumption annually. The annual investment performance for one particular year does not, by itself, significantly influence the Company's evaluation.
+
+Notes to Consolidated Financial Statements
+
+14. INCOME TAXES
+
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The components of deferred tax assets and liabilities as of December 31, 2025 and 2024, are as follows:
+
+(a) As of December 31, 2025 and 2024, the Company had approximately $ 66 million and $ 56 million, respectively, of state net operating loss carryforwards (tax effected) to reduce future state taxable income. These state net operating loss carryforwards will expire in years 2026 through 2046 if unused. As of December 31, 2025 and 2024, the Company had $ 504 million and $ 253 million, respectively, of federal net operating loss carryforwards (tax effected) that may be carried forward indefinitely. As of December 31, 2025 and 2024, the Company had $ 75 million and $ 53 million, respectively, of federal research and development tax credit carryforwards subject to expiration beginning in 2043 if unused.
+
+A valuation allowance is recorded when it is more likely than not that some portion of deferred tax assets will not be realized. During 2025, the Company established deferred tax assets related to Texas research and development tax credits. The gross deferred tax asset totaled $ 13 million, of which approximately $ 12 million is not expected to be realized based on current projections of taxable income and applicable utilization limitations. Accordingly, as of December 31, 2025, the Company recorded a valuation allowance of approximately $ 12 million against these assets. The change in the valuation allowance during the year reflects the initial recognition of the deferred tax assets and updated assessments of future utilization.
+
+Foreign pretax income, income tax expense, and income taxes paid were immaterial for all periods presented. As a result, foreign amounts have not been separately disaggregated.
+
+The provision (benefit) for income taxes is composed of the following:
+
+Notes to Consolidated Financial Statements
+
+The following table presents the differences between the Company's income tax provision and the amounts computed at the federal statutory income tax rate, on both a dollar and percentage basis:
+
+(1) State taxes in California, New York City, and Hawaii for 2023; California, Texas, and Hawaii for 2024; and Florida, Maryland, California, Colorado, and Arizona for 2025 represented the majority (greater than 50%) of the tax effect within this category.
+
+The total cash paid for income taxes (net of refunds) is composed of the following:
+
+* Some jurisdictions met the 5% disaggregation threshold; however, the related amounts were immaterial.
+
+The amount of, and changes to, the Company's uncertain tax positions were not material in any of the periods presented. Additionally, the Company does not expect significant changes to the total amount of unrecognized tax benefits within the next 12 months.
+
+The only periods subject to examination for the Company’s federal tax return are tax years 2020, 2024, and 2025. The Company is also subject to various examinations from state and local income tax jurisdictions in the ordinary course of business. These examinations are not expected to have a material effect on the financial results of the Company.
+
+Notes to Consolidated Financial Statements
+
+15. SUPPLEMENTAL FINANCIAL INFORMATION
+
+Notes to Consolidated Financial Statements
+
+For further information on derivative instruments, see Note 10.
+
+Other Operating Expenses
+
+Other operating expenses consist of aircraft rentals, distribution costs, advertising expenses, personnel expenses, professional fees, certain technology-related costs, and other operating costs, none of which individually exceeded 10 percent of Total operating expenses.
+
+16. RESTRUCTURING
+
+In February 2025, the Company implemented a reduction in its workforce designed to reduce operating costs, increase efficiency, and create a leaner and more agile organization as part of its transformational plan. The workforce reduction of approximately 1,750 Employee roles was focused almost entirely on corporate overhead and leadership positions and represented approximately 15 percent of corporate positions, including senior leadership. Separations were substantially completed by the end of second quarter 2025.
+
+As a result of this workforce reduction, the Company recorded a one-time expense of $ 62 million in first quarter 2025, which is included on the Consolidated Statement of Income as part of Salaries, wages, and benefits and Other operating expenses . Substantially all of the expense is due to Employee severance payments and related professional fees and was substantially paid in first and second quarter 2025, with no amounts remaining on the Consolidated Balance Sheet as of December 31, 2025. The Company does not expect to incur any material additional costs in connection with this reduction in workforce.
+
+Notes to Consolidated Financial Statements
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and the Board of Directors of Southwest Airlines Co.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Southwest Airlines Co. (the Company) as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control — Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 5, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical audit matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Notes to Consolidated Financial Statements
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1971.
+
+Dallas, Texas
+
+February 5, 2026
+
+Notes to Consolidated Financial Statements
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and the Board of Directors of Southwest Airlines Co.
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Southwest Airlines Co.’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 Framework), (the COSO criteria). In our opinion, Southwest Airlines Co. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and our report dated February 5, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Notes to Consolidated Financial Statements
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+Dallas, Texas
+
+February 5, 2026
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures. The Company maintains disclosure controls and procedures (as defined in Rule 13a-15(e) of the Securities Exchange Act (the “Exchange Act”)) designed to provide reasonable assurance that the information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. These include controls and procedures designed to ensure that this information is accumulated and communicated to the Company’s management, including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the Company’s disclosure controls and procedures as of December 31, 2025. Based on this evaluation, the Company’s Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were effective as of December 31, 2025, at the reasonable assurance level.
+
+Management’s Annual Report on Internal Control over Financial Reporting. Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) of the Exchange Act). The Company’s internal control over financial reporting is a process, under the supervision of the Company’s Chief Executive Officer and Chief Financial Officer, designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable assurance of achieving their control objectives.
+
+Management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the Company’s internal control over financial reporting as of December 31, 2025. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control - Integrated Framework (2013 Framework). Based on this evaluation, management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, concluded that, as of December 31, 2025, the Company’s internal control over financial reporting was effective.
+
+Ernst & Young LLP, the independent registered public accounting firm who audited the Company’s Consolidated Financial Statements included in this Form 10-K, has issued an attestation report on the Company’s internal control over financial reporting, which is included herein.
+
+Changes in Internal Control over Financial Reporting. There were no changes in the Company’s internal control over financial reporting (as defined in Rule 13a-15(f) of the Exchange Act) during the quarter ended December 31, 2025, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+Item 9B. Other Information
+
+None .
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+PART III
+
+Item 10. Directors, Executive Officers, and Corporate Governance
+
+Directors and Executive Officers
+
+The information required by this Item 10 regarding the Company’s directors will be set forth under the heading “Proposal 1 - Election of Directors” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference. The information required by this Item 10 regarding the Company’s executive officers is set forth under the heading “Information about our Executive Officers” in Part I of this Form 10-K and is incorporated herein by reference.
+
+Section 16(a) Compliance
+
+If applicable, the information required by this Item 10 regarding compliance with Section 16(a) of the Exchange Act will be set forth under the heading “Delinquent Section 16(a) Reports” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference.
+
+Corporate Governance
+
+Except as set forth in the following paragraph, the remaining information required by this Item 10 will be set forth under the heading “Corporate Governance” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference.
+
+The Company has adopted a Code of Ethics that applies to its principal executive officer, principal financial officer, and principal accounting officer or controller. The Company’s Code of Ethics, as well as its Corporate Governance Guidelines and the charters of its Audit, Compensation, and Nominating and Corporate Governance Committees, are available on the Company’s website, www.southwest.com. Copies of these documents are also available upon request to Investor Relations, Southwest Airlines Co., P.O. Box 36611, Dallas, TX 75235. The Company intends to disclose any amendments to, or waivers from, its Code of Ethics that apply to the Company’s principal executive officer, principal financial officer, and principal accounting officer or controller on the Company’s website, www.southwest.com, under the “About Southwest” caption, promptly following the date of any such amendment or waiver.
+
+Item 11. Executive Compensation
+
+The information required by this Item 11 will be set forth under the headings “Compensation of Executive Officers” and “Compensation of Directors” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Except as set forth below regarding securities authorized for issuance under equity compensation plans, the information required by this Item 12 will be set forth under the heading “Voting Securities and Principal Shareholders” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference.
+
+Securities Authorized for Issuance under Equity Compensation Plans
+
+The following table provides information as of December 31, 2025, regarding compensation plans under which equity securities of the Company are authorized for issuance.
+
+Equity Compensation Plan Information
+
+(1) Restricted share units settleable in shares of the Company’s common stock.
+
+(2) Restricted share units discussed in footnote (1) above do not have a weighted average exercise price because the restricted share units do not have an exercise price upon vesting.
+
+(3) Of these shares, (i) 12,126,078 shares remained available for issuance under the Company’s tax-qualified employee stock purchase plan; and (ii) 9,201,349 shares remained available for issuance under the Company’s 2007 Equity Incentive Plan in connection with the exercise of stock options and stock appreciation rights, the settlement of awards of restricted stock, restricted stock units, and phantom shares, and the grant of unrestricted shares of common stock; however, no more than 1,258,442 shares remain available for grant in connection with awards of unrestricted shares of common stock, stock-settled phantom shares, and awards to non-Employee members of the Board. These shares are in addition to the shares reserved for issuance pursuant to outstanding awards included in column (a).
+
+See Note 9 to the Consolidated Financial Statements for information regarding the material features of the above plans. Each of the above plans provides that the number of shares with respect to which options may be granted, the number of shares of common stock subject to an outstanding option, and the number of restricted share units granted shall be proportionately adjusted in the event of a subdivision or consolidation of shares or the payment of a stock dividend on common stock, and the purchase price per share of outstanding options shall be proportionately revised.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this Item 13 will be set forth under the heading “Certain Relationships and Related Transactions, and Director Independence” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference.
+
+Item 14. Principal Accounting Fees and Services
+
+The Company's independent registered public accounting firm is Ernst & Young LLP , Dallas, TX , Auditor Firm ID: 42 .
+
+The information required by this Item 14 will be set forth under the heading “Relationship with Independent Auditors” in the Proxy Statement for the Company’s 2026 Annual Meeting of Shareholders and is incorporated herein by reference.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a) 1. Financial Statements:
+
+The financial statements included in Item 8. Financial Statements and Supplementary Data above are filed as part of this annual report.
+
+2. Financial Statement Schedules:
+
+There are no financial statement schedules filed as part of this annual report, since the required information is included in the Consolidated Financial Statements, including the notes thereto, or the circumstances requiring inclusion of such schedules are not present.
+
+3. Exhibits:
+
+(1) Certain confidential information contained in this agreement has been omitted because it is both not material and is of the type that the registrant treats as private or confidential.
+
+(2) Management contract or compensatory plan or arrangement.
+
+(3) This exhibit is being furnished rather than filed and shall not be deemed incorporated by reference into any filing, in accordance with Item 601 of Regulation S-K.
+
+A copy of each exhibit may be obtained at a price of 15 cents per page, $10.00 minimum order, by writing to: Investor Relations, Southwest Airlines Co., P.O. Box 36611, Dallas, Texas 75235-1611.
+
+Item 16. 10-K Summary
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on February 5, 2026, on behalf of the registrant and in the capacities indicated.

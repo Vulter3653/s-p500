@@ -1,0 +1,319 @@
+[TABLE 001]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware 77-0560389 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
+[END TABLE 003]
+
+[TABLE 004]
+Title of each class Trading Symbol Name of each exchange on which registered Common Stock, $0.001 Par Value FTNT The Nasdaq Stock Market LLC
+[END TABLE 004]
+
+[TABLE 005]
+Large accelerated filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 005]
+
+[TABLE 006]
+Page Risk Factor Summary 1 Part I Item 1. Business 3 Item 1A. Risk Factors 12 Item 1B. Unresolved Staff Comments 48 Item 1C. Cybersecurity 49 Item 2. Properties 51 Item 3. Legal Proceedings 51 Item 4. Mine Safety Disclosures 51 Part II Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 52 Item 6. [Reserved] 54 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 55 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 74 Item 8. Financial Statements and Supplementary Data 75 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 116 Item 9A. Controls and Procedures 116 Item 9B. Other Information 118 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevents Inspections 118 Part III Item 10. Directors, Executive Officers and Corporate Governance 119 Item 11. Executive Compensation 119 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 119 Item 13. Certain Relationships and Related Transactions, and Director Independence 119 Item 14. Principal Accounting Fees and Services 119 Part IV Item 15. Exhibits and Financial Statement Schedules 120 Exhibit Index 121 Item 16. Form 10-K Summary 123 Signatures 124
+[END TABLE 006]
+
+[TABLE 007]
+Location Approximate Owned Square Footage Description of Use United States 2,400 Corporate headquarters, data centers, research and development, warehousing and operations, sales and support functions, and PoP Canada 1,000 Data center and office space, sales and support, research and development functions, and PoP EMEA 910 Data center and office space, warehousing and operations, sales and support functions, and PoP Asia Pacific (“APAC”) 40 Office space and PoP Total 4,350
+[END TABLE 007]
+
+[TABLE 008]
+December 2020 * December 2021 December 2022 December 2023 December 2024 December 2025 Fortinet, Inc. $ 100 $ 242 $ 165 $ 197 $ 318 $ 267 S&P 500 Index $ 100 $ 127 $ 102 $ 127 $ 157 $ 182 NASDAQ Computer $ 100 $ 138 $ 89 $ 147 $ 201 $ 258 * Assumes that $100 was invested on December 31, 2020 in stock or index, including reinvestment of dividends. Stockholder returns over the indicated period should not be considered indicative of future stockholder returns.
+[END TABLE 008]
+
+[TABLE 009]
+Period Total Number of Shares Purchased Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plan or Program Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs October 1 - October 31, 2025 — $ — — $ 795.9 November 1 - November 30, 2025 0.7 $ 78.46 0.7 $ 738.6 December 1 - December 31, 2025 — $ — — $ 738.6 Total 0.7 $ — 0.7
+[END TABLE 009]
+
+[TABLE 010]
+Year Ended or As of December 31, 2025 2024 2023 (in millions) Revenue $ 6,799.6 $ 5,955.8 $ 5,304.8 Deferred revenue $ 7,115.8 $ 6,360.9 $ 5,735.0 Billings (non-GAAP) $ 7,553.7 $ 6,532.5 $ 6,399.5 Net cash provided by operating activities $ 2,590.6 $ 2,258.1 $ 1,935.5 Free cash flow (non-GAAP) $ 2,211.8 $ 1,879.2 $ 1,731.4
+[END TABLE 010]
+
+[TABLE 011]
+Year Ended December 31, 2025 2024 2023 (in millions) Billings: Revenue $ 6,799.6 $ 5,955.8 $ 5,304.8 Add: Change in deferred revenue 754.9 625.9 1,094.7 Less: Deferred revenue balance acquired in business combinations (0.8) (49.2) — Total billings (non-GAAP) $ 7,553.7 $ 6,532.5 $ 6,399.5
+[END TABLE 011]
+
+[TABLE 012]
+Year Ended December 31, 2025 2024 2023 (in millions) Free Cash Flow: Net cash provided by operating activities $ 2,590.6 $ 2,258.1 $ 1,935.5 Less: Purchases of property and equipment (364.8) (378.9) (204.1) Less: Proceeds from intellectual property matter (14.0) — — Free cash flow (non-GAAP) $ 2,211.8 $ 1,879.2 $ 1,731.4 Net cash used in investing activities $ (599.1) $ (727.4) $ (649.3) Net cash used in financing activities $ (2,371.5) $ (50.1) $ (1,570.4)
+[END TABLE 012]
+
+[TABLE 013]
+Year Ended December 31, 2025 2024 2023 (in millions) Consolidated Statements of Income Data: Revenue: Product $ 2,218.4 $ 1,908.7 $ 1,927.3 Service 4,581.2 4,047.1 3,377.5 Total revenue 6,799.6 5,955.8 5,304.8 Cost of revenue: Product 725.4 652.0 763.6 Service 603.5 505.6 473.6 Total cost of revenue 1,328.9 1,157.6 1,237.2 Gross profit: Product 1,493.0 1,256.7 1,163.7 Service 3,977.7 3,541.5 2,903.9 Total gross profit 5,470.7 4,798.2 4,067.6 Operating expenses: Research and development 815.5 716.8 613.8 Sales and marketing 2,347.5 2,044.8 2,006.0 General and administrative 233.4 237.8 211.3 Gain on intellectual property matters (10.4) (4.6) (4.6) Total operating expenses 3,386.0 2,994.8 2,826.5 Operating income 2,084.7 1,803.4 1,241.1 Interest income 162.3 155.2 119.7 Interest expense (20.1) (20.0) (21.0) Other income (expense)—net 55.3 119.9 (6.1) Income before income taxes and loss from equity method investments 2,282.2 2,058.5 1,333.7 Provision for income taxes 439.1 283.9 143.8 Gain (Loss) from equity method investments 10.3 (29.4) (42.1) Net income $ 1,853.4 $ 1,745.2 $ 1,147.8
+[END TABLE 013]
+
+[TABLE 014]
+Year Ended December 31, 2025 2024 2023 (as percentage of revenue) Revenue: Product 33 % 32 % 36 % Service 67 68 64 Total revenue 100 100 100 Cost of revenue: Product 11 11 14 Service 9 8 9 Total cost of revenue 20 19 23 Gross margin: Product 67 66 60 Service 87 88 86 Total gross margin 80 81 77 Operating expenses: Research and development 12 12 12 Sales and marketing 35 34 38 General and administrative 3 4 4 Gain on intellectual property matter — — — Total operating expenses 50 50 53 Operating margin 31 30 23 Interest income 2 3 2 Interest expense — — — Other income (expense)—net 1 2 — Income before income taxes and loss from equity method investments 34 35 25 Provision for income taxes 6 5 3 Gain (Loss) from equity method investments — — (1) Net income 27 % 29 % 22 % Percentages have been rounded for presentation purposes and may differ from unrounded results.
+[END TABLE 014]
+
+[TABLE 015]
+Year Ended December 31, 2025 2024 Amount % of Revenue Amount % of Revenue Change % Change (in millions, except percentages) Revenue: Product $ 2,218.4 33 % $ 1,908.7 32 % $ 309.7 16 % Service 4,581.2 67 4,047.1 68 534.1 13 Total revenue $ 6,799.6 100 % $ 5,955.8 100 % $ 843.8 14 % Revenue by geography: Americas $ 2,700.4 40 % $ 2,442.2 41 % $ 258.2 11 % EMEA 2,834.3 42 2,396.2 40 438.1 18 APAC 1,264.9 18 1,117.4 19 147.5 13 Total revenue $ 6,799.6 100 % $ 5,955.8 100 % $ 843.8 14 % Percentages have been rounded for presentation purposes and may differ from unrounded results.
+[END TABLE 015]
+
+[TABLE 016]
+Year Ended December 31, 2025 2024 Change % Change (in millions, except percentages) Cost of revenue: Product $ 725.4 $ 652.0 $ 73.4 11 % Service 603.5 505.6 97.9 19 Total cost of revenue $ 1,328.9 $ 1,157.6 $ 171.3 15 % Gross margin (%): Product 67.3 % 65.8 % Service 86.8 % 87.5 % Total gross margin 80.5 % 80.6 %
+[END TABLE 016]
+
+[TABLE 017]
+Year Ended December 31, Change % Change 2025 2024 Amount % of Revenue Amount % of Revenue (in millions, except percentages) Operating expenses: Research and development $ 815.5 12 % $ 716.8 12 % $ 98.7 14 % Sales and marketing 2,347.5 35 2,044.8 34 302.7 15 General and administrative 233.4 3 237.8 4 (4.4) (2) Gain on intellectual property matters (10.4) — (4.6) — (5.8) 126 Total operating expenses $ 3,386.0 50 % $ 2,994.8 50 % $ 391.2 13 %
+[END TABLE 017]
+
+[TABLE 018]
+Year Ended December 31, 2025 2024 Change % Change (in millions, except percentages) Interest income $ 162.3 $ 155.2 $ 7.1 5 % Interest expense (20.1) (20.0) (0.1) 1 % Other income (expense)—net 55.3 119.9 (64.6) (54) %
+[END TABLE 018]
+
+[TABLE 019]
+Year Ended December 31, Change % Change 2025 2024 (in millions, except percentages) Provision for income taxes $ 439.1 $ 283.9 $ 155.2 55 % Effective tax rate (%) 19 % 14 %
+[END TABLE 019]
+
+[TABLE 020]
+Year Ended December 31, Change % Change 2025 2024 (in millions, except percentages) Gain (loss) from equity method investments $ 10.3 $ (29.4) $ 39.7 (135) %
+[END TABLE 020]
+
+[TABLE 021]
+As of December 31, 2025 2024 2023 (in millions) Cash and cash equivalents $ 2,495.3 $ 2,875.9 $ 1,397.9 Short-term investments 1,087.2 1,190.6 1,042.5 Long-term investments 339.7 — — Total cash, cash equivalents and investments $ 3,922.2 $ 4,066.5 $ 2,440.4 Working capital $ 866.2 $ 1,910.8 $ 709.3 Year Ended December 31, 2025 2024 2023 (in millions) Net cash provided by operating activities $ 2,590.6 $ 2,258.1 $ 1,935.5 Net cash used in investing activities (599.1) (727.4) (649.3) Net cash used in financing activities (2,371.5) (50.1) (1,570.4) Effect of exchange rate changes on cash and cash equivalents (0.6) (2.6) (0.8) Net increase (decrease) in cash and cash equivalents $ (380.6) $ 1,478.0 $ (285.0)
+[END TABLE 021]
+
+[TABLE 022]
+Page Report of Independent Registered Public Accounting Firm (PCAOB ID No. 34 ) 76 Consolidated Balance Sheets 78 Consolidated Statements of Income 79 Consolidated Statements of Comprehensive Income 80 Consolidated Statements of Stockholders’ Equity (Deficit) 81 Consolidated Statements of Cash Flows 82 Notes to Consolidated Financial Statements 83
+[END TABLE 022]
+
+[TABLE 023]
+December 31, 2025 December 31, 2024 ASSETS CURRENT ASSETS: Cash and cash equivalents $ 2,495.3 $ 2,875.9 Short-term investments 1,087.2 1,190.6 Accounts receivable—Net of allowance for credit losses of $ 7.4 million and $ 5.9 million at December 31, 2025 and 2024, respectively 1,691.2 1,463.4 Inventory 399.5 315.5 Prepaid expenses and other current assets 227.0 126.1 Total current assets 5,900.2 5,971.5 LONG-TERM INVESTMENTS 339.7 — PROPERTY AND EQUIPMENT—NET 1,619.0 1,349.5 DEFERRED CONTRACT COSTS 735.5 622.9 DEFERRED TAX ASSETS 1,314.9 1,335.6 GOODWILL 257.4 235.4 OTHER INTANGIBLE ASSETS—NET 97.3 115.0 OTHER ASSETS 125.2 133.2 TOTAL ASSETS $ 10,389.2 $ 9,763.1 LIABILITIES AND STOCKHOLDERS’ EQUITY CURRENT LIABILITIES: Accounts payable $ 230.8 $ 190.9 Accrued liabilities 354.6 337.9 Accrued payroll and compensation 312.9 255.7 Current portion of long-term debt 499.7 — Deferred revenue 3,636.0 3,276.2 Total current liabilities 5,034.0 4,060.7 DEFERRED REVENUE 3,479.8 3,084.7 LONG-TERM DEBT 496.6 994.3 OTHER LIABILITIES 141.3 129.6 Total liabilities 9,151.7 8,269.3 COMMITMENTS AND CONTINGENCIES (Note 11) STOCKHOLDERS’ EQUITY: Common stock, $ 0.001 par value— 1,500.0 shares authorized; 743.0 shares and 767.0 shares issued and outstanding at December 31, 2025 and 2024, respectively 0.7 0.8 Additional paid-in capital 1,770.1 1,636.2 Accumulated other comprehensive loss ( 25.4 ) ( 26.1 ) Accumulated deficit ( 507.9 ) ( 117.1 ) Total stockholders’ equity 1,237.5 1,493.8 TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY $ 10,389.2 $ 9,763.1
+[END TABLE 023]
+
+[TABLE 024]
+Year Ended December 31, 2025 2024 2023 REVENUE: Product $ 2,218.4 $ 1,908.7 $ 1,927.3 Service 4,581.2 4,047.1 3,377.5 Total revenue 6,799.6 5,955.8 5,304.8 COST OF REVENUE: Product 725.4 652.0 763.6 Service 603.5 505.6 473.6 Total cost of revenue 1,328.9 1,157.6 1,237.2 GROSS PROFIT: Product 1,493.0 1,256.7 1,163.7 Service 3,977.7 3,541.5 2,903.9 Total gross profit 5,470.7 4,798.2 4,067.6 OPERATING EXPENSES: Research and development 815.5 716.8 613.8 Sales and marketing 2,347.5 2,044.8 2,006.0 General and administrative 233.4 237.8 211.3 Gain on intellectual property matters ( 10.4 ) ( 4.6 ) ( 4.6 ) Total operating expenses 3,386.0 2,994.8 2,826.5 OPERATING INCOME 2,084.7 1,803.4 1,241.1 INTEREST INCOME 162.3 155.2 119.7 INTEREST EXPENSE ( 20.1 ) ( 20.0 ) ( 21.0 ) OTHER INCOME (EXPENSE)—NET 55.3 119.9 ( 6.1 ) INCOME BEFORE INCOME TAXES AND GAIN (LOSS) FROM EQUITY METHOD INVESTMENTS 2,282.2 2,058.5 1,333.7 PROVISION FOR INCOME TAXES 439.1 283.9 143.8 GAIN (LOSS) FROM EQUITY METHOD INVESTMENTS 10.3 ( 29.4 ) ( 42.1 ) NET INCOME $ 1,853.4 $ 1,745.2 $ 1,147.8 Net income per share (Note 8): Basic $ 2.45 $ 2.28 $ 1.47 Diluted $ 2.42 $ 2.26 $ 1.46 Weighted-average shares used to compute net income per share: Basic 758.0 764.4 778.6 Diluted 764.6 771.9 788.2
+[END TABLE 024]
+
+[TABLE 025]
+Year Ended December 31, 2025 2024 2023 Net income $ 1,853.4 $ 1,745.2 $ 1,147.8 Other comprehensive income (loss): Change in foreign currency translation — ( 7.5 ) ( 5.5 ) Change in unrealized gains (losses) on investments 1.0 0.4 8.8 Less: tax provision related to items of other comprehensive income (loss) 0.3 0.1 2.0 Other comprehensive income (loss) 0.7 ( 7.2 ) 1.3 Comprehensive income $ 1,854.1 $ 1,738.0 $ 1,149.1
+[END TABLE 025]
+
+[TABLE 026]
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Stockholders’ Equity (Deficit) Shares Amount BALANCE—December 31, 2022 781.5 $ 0.8 $ 1,284.2 $ ( 20.2 ) $ ( 1,546.4 ) $ ( 281.6 ) Issuance of common stock in connection with equity incentive plans - net of tax withholding 6.7 — ( 68.5 ) — — ( 68.5 ) Repurchase and retirement of common stock ( 27.2 ) — ( 37.4 ) — ( 1,463.1 ) ( 1,500.5 ) Excise tax on net stock repurchases — — ( 10.9 ) — — ( 10.9 ) Stock-based compensation expense — — 249.0 — — 249.0 Net unrealized gain on investments - net of tax — — — 6.8 — 6.8 Foreign currency translation adjustment — — — ( 5.5 ) — ( 5.5 ) Net income — — — — 1,147.8 1,147.8 BALANCE—December 31, 2023 761.0 0.8 1,416.4 ( 18.9 ) ( 1,861.7 ) ( 463.4 ) Issuance of common stock in connection with equity incentive plans - net of tax withholding 6.0 — ( 38.1 ) — — ( 38.1 ) Repurchase and retirement of common stock — — — — ( 0.6 ) ( 0.6 ) Stock-based compensation expense — — 257.9 — — 257.9 Net unrealized gain on investments - net of tax — — — 0.3 — 0.3 Foreign currency translation adjustment — — — ( 7.5 ) — ( 7.5 ) Net income — — — — 1,745.2 1,745.2 BALANCE—December 31, 2024 767.0 0.8 1,636.2 ( 26.1 ) ( 117.1 ) 1,493.8 Issuance of common stock in connection with equity incentive plans - net of tax withholding 4.7 — ( 81.8 ) — — ( 81.8 ) Repurchase and retirement of common stock ( 28.7 ) ( 0.1 ) ( 45.5 ) — ( 2,244.2 ) ( 2,289.8 ) Excise tax on net stock repurchases — — ( 18.3 ) — — ( 18.3 ) Stock-based compensation expense — — 279.5 — — 279.5 Net unrealized gain on investments - net of tax — — — 0.7 — 0.7 Net income — — — — 1,853.4 1,853.4 BALANCE—December 31, 2025 743.0 $ 0.7 $ 1,770.1 $ ( 25.4 ) $ ( 507.9 ) $ 1,237.5
+[END TABLE 026]
+
+[TABLE 027]
+Year Ended December 31, 2025 2024 2023 CASH FLOWS FROM OPERATING ACTIVITIES: Net income $ 1,853.4 $ 1,745.2 $ 1,147.8 Adjustments to reconcile net income to net cash provided by operating activities: Stock-based compensation 279.5 257.9 249.0 Amortization of deferred contract costs 336.3 293.7 266.3 Depreciation and amortization 152.0 122.8 113.4 Amortization of investment discounts ( 33.7 ) ( 48.8 ) ( 27.7 ) Other ( 52.7 ) ( 92.1 ) 60.6 Changes in operating assets and liabilities, net of impact of business combinations: Accounts receivable—net ( 215.9 ) ( 45.4 ) ( 146.4 ) Inventory ( 90.6 ) 131.2 ( 253.5 ) Prepaid expenses and other current assets ( 95.9 ) ( 13.7 ) ( 27.6 ) Deferred contract costs ( 449.0 ) ( 311.1 ) ( 353.5 ) Deferred tax assets 66.2 ( 223.2 ) ( 301.9 ) Other assets ( 16.2 ) ( 11.0 ) 17.7 Accounts payable 27.9 ( 10.2 ) ( 43.1 ) Accrued liabilities 13.3 ( 106.7 ) 137.4 Accrued payroll and compensation 55.0 — 23.4 Deferred revenue 754.2 577.8 1,095.3 Other liabilities 6.8 ( 8.3 ) ( 21.7 ) Net cash provided by operating activities 2,590.6 2,258.1 1,935.5 CASH FLOWS FROM INVESTING ACTIVITIES: Purchases of investments ( 1,996.1 ) ( 1,948.6 ) ( 1,855.8 ) Sales of investments 10.6 0.5 4.0 Maturities of investments 1,792.7 1,891.7 1,414.8 Purchases of property and equipment ( 364.8 ) ( 378.9 ) ( 204.1 ) Purchases of investments in privately held companies — — ( 8.5 ) Payments made in connection with business combinations, net of cash acquired ( 41.6 ) ( 275.5 ) — Purchases of marketable equity securities — ( 16.7 ) — Other 0.1 0.1 0.3 Net cash used in investing activities ( 599.1 ) ( 727.4 ) ( 649.3 ) CASH FLOWS FROM FINANCING ACTIVITIES: Repurchase and retirement of common stock ( 2,289.8 ) ( 0.6 ) ( 1,500.5 ) Proceeds from issuance of common stock 44.7 63.1 43.8 Taxes paid related to net share settlement of equity awards ( 126.3 ) ( 100.9 ) ( 112.5 ) Other ( 0.1 ) ( 11.7 ) ( 1.2 ) Net cash used in financing activities ( 2,371.5 ) ( 50.1 ) ( 1,570.4 ) EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS ( 0.6 ) ( 2.6 ) ( 0.8 ) NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS ( 380.6 ) 1,478.0 ( 285.0 ) CASH AND CASH EQUIVALENTS—Beginning of year 2,875.9 1,397.9 1,682.9 CASH AND CASH EQUIVALENTS—End of year $ 2,495.3 $ 2,875.9 $ 1,397.9 SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION: Cash paid for income taxes—net $ 451.5 $ 578.9 $ 426.3 Operating lease liabilities arising from obtaining right-of-use assets $ 51.3 $ 39.3 $ 19.2 NON-CASH INVESTING AND FINANCING ACTIVITIES: Transfers of evaluation units and equipment from inventory to property and equipment $ 29.2 $ 35.5 $ 31.8 Liability for purchase of property and equipment $ 25.6 $ 23.0 $ 23.6 Excise tax payable on net stock repurchases $ 18.3 $ — $ 10.9 Liability incurred in connection with business combinations $ 4.6 $ 6.2 $ —
+[END TABLE 027]
+
+[TABLE 028]
+Estimated Useful Lives Building and building improvements 2 to 40 years Computer equipment and software 1 to 7 years Evaluation units 1 year Furniture and fixtures 3 to 8 years Leasehold improvements Shorter of useful life or lease term
+[END TABLE 028]
+
+[TABLE 029]
+Year Ended December 31, 2025 2024 2023 Product $ 2,218.4 $ 1,908.7 $ 1,927.3 Service: Security subscription 2,633.2 2,316.7 1,898.1 Technical support and other 1,948.0 1,730.4 1,479.4 Total service revenue 4,581.2 4,047.1 3,377.5 Total revenue $ 6,799.6 $ 5,955.8 $ 5,304.8
+[END TABLE 029]
+
+[TABLE 030]
+December 31, 2025 Amortized Cost Unrealized Gains Unrealized Losses Fair Value U.S. government and agency securities $ 513.7 $ 0.9 $ — $ 514.6 Corporate debt securities 368.5 0.4 ( 0.1 ) 368.8 Commercial paper 354.8 0.1 — 354.9 Certificates of deposit and term deposits 90.3 0.1 — 90.4 Total available-for-sale investments 1,327.3 1.5 ( 0.1 ) 1,328.7 Marketable equity securities 98.2 Total short-term and long-term investments $ 1,327.3 $ 1.5 $ ( 0.1 ) $ 1,426.9 December 31, 2024 Amortized Cost Unrealized Gains Unrealized Losses Fair Value U.S. government and agency securities $ 469.1 $ 0.4 $ — $ 469.5 Corporate debt securities 166.4 0.1 ( 0.1 ) 166.4 Commercial paper 428.7 0.2 ( 0.2 ) 428.7 Certificates of deposit and term deposits 61.8 — — 61.8 Total available-for-sale investments 1,126.0 0.7 ( 0.3 ) 1,126.4 Marketable equity securities 64.2 Total short-term and long-term investments $ 1,126.0 $ 0.7 $ ( 0.3 ) $ 1,190.6
+[END TABLE 030]
+
+[TABLE 031]
+December 31, 2025 Less Than 12 Months 12 Months or Greater Total Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses U.S. government and agency securities $ 514.5 $ — $ — $ — $ 514.5 $ — Corporate debt securities 368.9 ( 0.1 ) — — 368.9 ( 0.1 ) Commercial paper 354.9 — — — 354.9 — Certificates of deposit and term deposits 90.4 — — — 90.4 — Total available-for-sale investments $ 1,328.7 $ ( 0.1 ) $ — $ — $ 1,328.7 $ ( 0.1 )
+[END TABLE 031]
+
+[TABLE 032]
+December 31, 2024 Less Than 12 Months 12 Months or Greater Total Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses U.S. government and agency securities $ 27.8 $ — $ — $ — $ 27.8 $ — Corporate debt securities 63.5 ( 0.1 ) — — 63.5 ( 0.1 ) Commercial paper 149.4 ( 0.2 ) — — 149.4 ( 0.2 ) Certificates of deposit and term deposits 10.9 — — — 10.9 — Total available-for-sale investments $ 251.6 $ ( 0.3 ) $ — $ — $ 251.6 $ ( 0.3 )
+[END TABLE 032]
+
+[TABLE 033]
+December 31, 2025 December 31, 2024 Due within one year $ 989.0 $ 1,126.4 Due within one to three years 339.7 — Total $ 1,328.7 $ 1,126.4
+[END TABLE 033]
+
+[TABLE 034]
+December 31, 2025 December 31, 2024 Aggregate Fair Value Quoted Prices in Active Markets For Identical Assets Significant Other Observable Remaining Inputs Significant Other Unobservable Remaining Inputs Aggregate Fair Value Quoted Prices in Active Markets For Identical Assets Significant Other Observable Remaining Inputs Significant Other Unobservable Remaining Inputs (Level 1) (Level 2) (Level 3) (Level 1) (Level 2) (Level 3) Cash equivalents: Money market funds $ 174.4 $ 174.4 $ — $ — $ 296.1 $ 296.1 $ — $ — Corporate debt securities 1.1 — 1.1 — — — — — Commercial paper 38.1 — 38.1 — 59.7 — 59.7 — Total cash equivalents 213.6 174.4 39.2 — 355.8 296.1 59.7 — Short-term investments: U.S. government and agency securities 383.5 381.5 2.0 — 469.5 464.5 5.0 — Corporate debt securities 160.2 — 160.2 — 166.4 — 166.4 — Commercial paper 354.9 — 354.9 — 428.7 — 428.7 — Certificates of deposit and term deposits 90.4 — 90.4 — 61.8 — 61.8 — Marketable equity securities 98.2 98.2 — — 64.2 64.2 — — Total short-term investments 1,087.2 479.7 607.5 — 1,190.6 528.7 661.9 — Long-term investments: U.S. government and agency securities 131.1 121.8 9.3 — — — — — Corporate debt securities 208.6 — 208.6 — — — — — Total long-term investments 339.7 121.8 217.9 — — — — — Total $ 1,640.5 $ 775.9 $ 864.6 $ — $ 1,546.4 $ 824.8 $ 721.6 $ —
+[END TABLE 034]
+
+[TABLE 035]
+December 31, 2025 December 31, 2024 Raw materials $ 61.9 $ 90.9 Work in process 3.0 4.1 Finished goods 334.6 220.5 Inventory $ 399.5 $ 315.5
+[END TABLE 035]
+
+[TABLE 036]
+December 31, 2025 December 31, 2024 Land $ 592.4 $ 500.6 Buildings and improvements 974.0 801.4 Computer equipment and software 341.0 279.1 Leasehold improvements 58.5 64.3 Evaluation units 24.1 31.8 Furniture and fixtures 36.3 36.4 Construction-in-progress 74.6 52.0 Total property and equipment 2,100.9 1,765.6 Less: accumulated depreciation ( 481.9 ) ( 416.1 ) Property and equipment—net $ 1,619.0 $ 1,349.5
+[END TABLE 036]
+
+[TABLE 037]
+Year Ended December 31, 2024 2023 Pro forma revenue $ 6,016.8 $ 5,404.3 Pro forma net income $ 1,468.2 $ 1,017.5
+[END TABLE 037]
+
+[TABLE 038]
+Amount Balance—December 31, 2024 $ 235.4 Additions due to business combinations 21.9 Foreign currency translation adjustments 0.1 Balance—December 31, 2025 $ 257.4
+[END TABLE 038]
+
+[TABLE 039]
+December 31, 2025 Weighted-Average Useful Life (in Years) Gross Accumulated Amortization Net Other intangible assets—net: Finite-lived intangible assets: Developed technologies 4.3 $ 159.1 $ 96.0 $ 63.1 Customer relationships 5.3 66.9 42.4 24.5 Trade names 4.2 11.3 5.4 5.9 Backlog 2.5 13.5 9.7 3.8 Total other intangible assets—net $ 250.8 $ 153.5 $ 97.3
+[END TABLE 039]
+
+[TABLE 040]
+December 31, 2024 Weighted-Average Useful Life (in Years) Gross Accumulated Amortization Net Other intangible assets—net: Finite-lived intangible assets: Developed technologies 4.4 $ 141.9 $ 73.7 $ 68.2 Customer relationships 5.5 53.9 23.0 30.9 Trade names 7.5 8.8 1.8 7.0 Backlog 2.5 13.5 4.6 8.9 Total other intangible assets—net $ 218.1 $ 103.1 $ 115.0
+[END TABLE 040]
+
+[TABLE 041]
+Year Ending December 31, Amount 2026 $ 37.2 2027 27.5 2028 20.0 2029 9.3 2030 1.0 Thereafter 2.3 Total $ 97.3
+[END TABLE 041]
+
+[TABLE 042]
+Year Ended December 31, 2025 2024 2023 Numerator: Net income $ 1,853.4 $ 1,745.2 $ 1,147.8 Denominator: Basic shares: Weighted-average common stock outstanding-basic 758.0 764.4 778.6 Diluted shares: Weighted-average common stock outstanding-basic 758.0 764.4 778.6 Effect of potentially dilutive securities: RSUs 2.3 2.4 3.3 Stock options 3.8 4.7 6.2 PSUs 0.5 0.4 0.1 Weighted-average shares used to compute diluted net income per share 764.6 771.9 788.2 Net income per share: Basic $ 2.45 $ 2.28 $ 1.47 Diluted $ 2.42 $ 2.26 $ 1.46
+[END TABLE 042]
+
+[TABLE 043]
+Year Ended December 31, 2025 2024 2023 RSUs 1.9 0.2 0.7 Stock options 0.7 2.5 2.8 PSUs — 0.1 0.1 Total 2.6 2.8 3.6
+[END TABLE 043]
+
+[TABLE 044]
+Year Ended December 31, 2025 2024 2023 Operating lease expense $ 51.7 $ 44.5 $ 43.0 Variable lease expense (1) 7.0 7.4 5.8 Short-term lease expense 13.7 10.2 9.3 Total lease expense $ 72.4 $ 62.1 $ 58.1 (1) Variable lease expense for the years ended December 31, 2025, 2024 and 2023 predominantly included common area maintenance charges, real estate taxes, certain parking expense, utilities based on actual usage and insurance costs.
+[END TABLE 044]
+
+[TABLE 045]
+Classification December 31, 2025 December 31, 2024 Operating lease ROU assets – non-current Other assets $ 64.4 $ 72.2 Operating lease liabilities – current Accrued liabilities $ 36.1 $ 32.7 Operating lease liabilities – non-current Other liabilities 29.4 46.4 Total operating lease liabilities $ 65.5 $ 79.1 Weighted average remaining lease term in years – operating leases 2.1 3.0 Weighted average discount rate – operating leases 4.1 % 4.2 %
+[END TABLE 045]
+
+[TABLE 046]
+Year Ended December 31, 2025 2024 2023 Cash paid for amounts included in the measurement of lease liabilities Operating cash flows used for operating leases $ 51.3 $ 38.6 $ 40.0
+[END TABLE 046]
+
+[TABLE 047]
+Year Ending December 31, Amount 2026 $ 37.6 2027 21.3 2028 7.9 2029 1.2 2030 0.1 Thereafter — Total lease payments $ 68.1 Less imputed interest ( 2.6 ) Total $ 65.5
+[END TABLE 047]
+
+[TABLE 048]
+Maturity Coupon Rate Effective Interest Rate December 31, 2025 December 31, 2024 Debt 2026 Senior Notes March 2026 1.0 % 1.3 % $ 500.0 $ 500.0 2031 Senior Notes March 2031 2.2 % 2.3 % 500.0 500.0 Total debt 1,000.0 1,000.0 Less: Unamortized discount and debt issuance costs 3.7 5.7 Less: Current portion of long-term debt $ 499.7 $ — Total long-term debt $ 496.6 $ 994.3
+[END TABLE 048]
+
+[TABLE 049]
+Total 2026 Thereafter Inventory purchase commitments $ 810.6 $ 720.9 $ 89.7
+[END TABLE 049]
+
+[TABLE 050]
+Restricted Stock Units Outstanding Number of Shares Weighted-Average Grant Date Fair Value per Share Balance—December 31, 2022 10.5 $ 40.94 Granted 4.8 60.14 Forfeited ( 0.8 ) 49.85 Vested ( 5.4 ) 35.47 Balance—December 31, 2023 9.1 53.61 Granted 4.7 71.25 Forfeited ( 1.0 ) 61.98 Vested ( 4.4 ) 49.50 Balance—December 31, 2024 8.4 64.70 Granted 3.8 97.88 Forfeited ( 0.8 ) 76.00 Vested ( 3.8 ) 62.01 Balance—December 31, 2025 7.6 $ 81.51
+[END TABLE 050]
+
+[TABLE 051]
+Year Ended December 31, 2025 2024 2023 Expected term in years 2.7 2.7 2.7 Volatility 41.7 % 45.4 % 47.5 % Risk-free interest rate 4.1 % 4.5 % 4.6 % Dividend rate — % — % — %
+[END TABLE 051]
+
+[TABLE 052]
+Performance Stock Units Outstanding Number of Shares Weighted-Average Grant Date Fair Value per Share Balance—December 31, 2022 — $ — Granted 0.3 90.96 Forfeited — — Vested — — Balance—December 31, 2023 0.3 90.96 Granted 0.3 97.40 Forfeited ( 0.1 ) 93.84 Vested ( 0.1 ) 88.10 Balance—December 31, 2024 0.4 94.93 Granted 0.2 163.23 Forfeited ( 0.1 ) 116.82 Vested ( 0.1 ) 91.19 Balance—December 31, 2025 0.4 $ 117.17
+[END TABLE 052]
+
+[TABLE 053]
+Year Ended December 31, 2025 2024 2023 Shares withheld for taxes 1.3 1.5 1.8 Amount withheld for taxes $ 126.5 $ 101.0 $ 112.5
+[END TABLE 053]
+
+[TABLE 054]
+Year Ended December 31, 2025 2024 2023 Expected term in years 4.5 4.5 4.4 Volatility 41.8 % 42.6 % 42.0 % Risk-free interest rate 4.1 % 4.3 % 4.2 % Dividend rate — % — % — %
+[END TABLE 054]
+
+[TABLE 055]
+Options Outstanding Number of Shares Weighted- Average Exercise Price Weighted- Average Remaining Contractual Life (Years) Aggregate Intrinsic Value Balance—December 31, 2022 13.2 $ 24.37 3.5 344.8 Granted 1.3 60.16 Forfeited ( 0.2 ) 49.13 Exercised ( 3.1 ) 14.11 Balance—December 31, 2023 11.2 31.14 3.3 315.8 Granted 0.8 68.21 Forfeited ( 0.2 ) 54.74 Exercised ( 3.1 ) 20.30 Balance—December 31, 2024 8.7 37.81 3.1 493.8 Granted 0.9 100.08 Forfeited ( 0.1 ) 74.07 Exercised ( 2.1 ) 21.59 Balance—December 31, 2025 7.4 $ 49.39 Options vested and expected to vest—December 31, 2025 7.4 $ 49.39 3.0 $ 241.7 Options exercisable—December 31, 2025 5.7 $ 39.53 2.3 $ 228.6
+[END TABLE 055]
+
+[TABLE 056]
+Year Ended December 31, 2025 2024 2023 Weighted-average fair value per share granted $ 40.21 $ 27.87 $ 24.20 Intrinsic value of options exercised $ 166.3 $ 166.9 $ 140.7 Fair value of options vested $ 26.8 $ 31.3 $ 30.1
+[END TABLE 056]
+
+[TABLE 057]
+Options Outstanding Options Exercisable Range of Exercise Prices Number Outstanding Weighted- Average Remaining Contractual Life (Years) Weighted- Average Exercise Price Number Exercisable Weighted- Average Exercise Price $ 16.02 -$ 29.12 2.1 0.9 $ 21.26 2.1 $ 21.26 $ 34.39 -$ 60.21 2.6 3.0 45.12 2.3 42.97 $ 61.13 -$ 79.61 1.8 4.0 64.61 1.3 63.21 $ 79.73 -$ 110.02 0.9 6.3 101.44 — 100.88 7.4 5.7
+[END TABLE 057]
+
+[TABLE 058]
+December 31, 2025 Reserved for future equity award grants 48.1 Outstanding stock options, RSUs and PSUs 15.4 Total common stock reserved for future issuances 63.5
+[END TABLE 058]
+
+[TABLE 059]
+Year Ended December 31, 2025 2024 2023 Cost of product revenue $ 2.2 $ 1.9 $ 1.8 Cost of service revenue 27.1 25.4 23.3 Research and development 98.7 85.9 76.8 Sales and marketing 117.2 105.3 111.8 General and administrative 36.9 41.7 37.9 Total stock-based compensation expense $ 282.1 $ 260.2 $ 251.6
+[END TABLE 059]
+
+[TABLE 060]
+Year Ended December 31, 2025 2024 2023 RSUs $ 239.8 $ 217.2 $ 211.8 Stock options 26.9 28.2 28.8 PSUs 15.4 14.8 11.0 Total stock-based compensation expense $ 282.1 $ 260.2 $ 251.6
+[END TABLE 060]
+
+[TABLE 061]
+Year Ended December 31, 2025 2024 2023 Income tax benefit associated with stock-based compensation $ 61.7 $ 57.3 $ 55.5
+[END TABLE 061]
+
+[TABLE 062]
+Year Ended December 31, 2025 2024 2023 Domestic $ 2,106.8 $ 1,929.2 $ 1,195.0 Foreign 175.4 129.3 138.7 Total income before income taxes and loss from equity method investments $ 2,282.2 $ 2,058.5 $ 1,333.7
+[END TABLE 062]
+
+[TABLE 063]
+Year Ended December 31, 2025 2024 2023 Current: Federal $ 294.6 $ 444.2 $ 398.5 State 21.9 25.8 27.7 Foreign 54.3 36.8 24.3 Total current $ 370.8 $ 506.8 $ 450.5 Deferred: Federal $ 56.8 $ ( 210.7 ) $ ( 281.1 ) State 11.9 ( 12.4 ) ( 18.9 ) Foreign ( 0.4 ) 0.2 ( 6.7 ) Total deferred 68.3 ( 222.9 ) ( 306.7 ) Provision for income taxes $ 439.1 $ 283.9 $ 143.8
+[END TABLE 063]
+
+[TABLE 064]
+Year Ended December 31, 2025 Amount % U.S. Federal Statutory Tax Rate $ 479.3 21.0 % State and Local Income Taxes, Net of Federal Income Tax Effect (1) 26.4 1.2 % Foreign Tax Effects (2) 82.0 3.6 % Effect of Changes in Tax Laws or Rates Enacted in the Current Period — — % Effect of Cross-Border Tax Laws Foreign-Derived Intangible Income deduction ( 84.3 ) ( 3.7 ) % Branch income 37.8 1.7 % Other 1.5 0.1 % Tax Credits Foreign tax credit ( 101.8 ) ( 4.5 ) % Other ( 15.4 ) ( 0.7 ) % Changes in Valuation Allowances — — % Nontaxable or Nondeductible Items Stock-based compensation expense 32.5 1.4 % Excess tax benefit from stock-based compensation ( 60.9 ) ( 2.7 ) % Other ( 4.4 ) ( 0.2 ) % Changes in Unrecognized Tax Benefits 16.5 0.7 % Other Adjustments Acquisition-related effects 31.2 1.4 % Other ( 1.3 ) ( 0.1 ) % Effective Tax Rate $ 439.1 19.2 % (1) In 2025, State and local income taxes in California, Illinois, New Jersey, New York and Pennsylvania made up the majority (greater than 50%) of the tax effect in this category. (2) Presented on an aggregated basis as no individual foreign jurisdiction and no individual reconciling item by nature within any jurisdiction met the disaggregation threshold.
+[END TABLE 064]
+
+[TABLE 065]
+Year Ended December 31, 2024 2023 Tax at federal statutory tax rate $ 432.3 $ 280.1 Foreign income taxed at different rates 29.8 27.0 Foreign withholding taxes 58.0 35.1 Stock-based compensation expense ( 23.6 ) ( 54.3 ) Foreign tax credit ( 79.5 ) ( 72.6 ) State taxes—net of federal benefit 1.1 5.0 Research and development credit ( 13.9 ) ( 14.0 ) Valuation allowance 7.5 ( 67.7 ) Impact of the 2017 Tax Cuts and Jobs Act: Tax effect of a law change — ( 20.8 ) Foreign-Derived Intangible Income ( 111.5 ) ( 89.5 ) Adjustment to prior year’s FDII — 92.8 Other ( 16.3 ) 22.7 Total provision for income taxes $ 283.9 $ 143.8
+[END TABLE 065]
+
+[TABLE 066]
+December 31, 2025 December 31, 2024 Deferred tax assets: General business credit carryforward $ 31.6 $ 31.7 Deferred revenue 694.0 650.8 Reserves and accruals 101.7 139.0 Net operating loss and capital loss carryforwards 291.9 227.7 Stock-based compensation expense 33.1 27.0 Depreciation and amortization 9.4 12.0 Capitalized research expenditures 394.5 437.7 Operating lease liabilities 14.3 17.4 Total deferred tax assets 1,570.5 1,543.3 Less: Valuation allowance ( 71.8 ) ( 40.7 ) Deferred tax assets, net of valuation allowance 1,498.7 1,502.6 Deferred tax liabilities: Deferred contract costs ( 162.3 ) ( 140.2 ) Operating lease ROU assets ( 14.0 ) ( 15.8 ) Acquired intangibles ( 13.2 ) ( 14.6 ) Total deferred tax liabilities ( 189.5 ) ( 170.6 ) Net deferred tax assets $ 1,309.2 $ 1,332.0
+[END TABLE 066]
+
+[TABLE 067]
+Year Ended December 31, 2025 2024 2023 Unrecognized tax benefits, beginning of year $ 75.9 $ 65.8 $ 67.4 Gross increases for tax positions related to the current year 13.2 14.7 11.4 Gross decreases for tax positions related to the current year — — — Gross increases for tax positions related to the prior year 3.1 0.2 1.0 Gross decreases for tax positions related to prior year — ( 2.3 ) ( 4.0 ) Gross decreases for tax positions related to prior year audit settlements ( 1.1 ) ( 1.8 ) — Gross decreases for tax positions related to expiration of statute of limitations ( 0.7 ) ( 0.7 ) ( 10.0 ) Unrecognized tax benefits, end of year $ 90.4 $ 75.9 $ 65.8
+[END TABLE 067]
+
+[TABLE 068]
+Year Ended December 31, 2025 US federal $ 294.8 US state and local (1) 34.5 Foreign (1) 122.2 Total $ 451.5 (1) Jurisdiction below the disaggregation threshold
+[END TABLE 068]
+
+[TABLE 069]
+Year Ended December 31, 2025 2024 2023 Total revenue $ 6,799.6 $ 5,955.8 $ 5,304.8 Less: Cost of product revenue 725.4 652.0 763.6 Cost of service revenue 603.5 505.6 473.6 Research and development expenses 815.5 716.8 613.8 Adjusted sales and marketing expenses (1) 1,900.9 1,654.9 1,635.3 Commission expense 446.6 389.9 370.7 General and administrative expenses 233.4 237.8 211.3 Provision for income taxes 439.1 283.9 143.8 Add: Other segment items (2) 218.2 230.3 55.1 Net income $ 1,853.4 $ 1,745.2 $ 1,147.8 (1) Excludes commission expense. (2) The following table presents other segment items (in millions):
+[END TABLE 069]
+
+[TABLE 070]
+Year Ended December 31, 2025 2024 2023 Gain on intellectual property matters $ 10.4 $ 4.6 $ 4.6 Interest income 162.3 155.2 119.7 Interest expense ( 20.1 ) ( 20.0 ) ( 21.0 ) Other income (expense)—net 55.3 119.9 ( 6.1 ) Gain (loss) from equity method investments 10.3 ( 29.4 ) ( 42.1 ) Total other segment items $ 218.2 $ 230.3 $ 55.1
+[END TABLE 070]
+
+[TABLE 071]
+Year Ended December 31, 2025 2024 2023 Significant non-cash items: Stock‐based compensation expense $ 279.5 $ 257.9 $ 249.0 Depreciation and amortization expense 152.0 122.8 113.4 Total assets $ 10,389.2 $ 9,763.1 $ 7,258.9 Purchases of property and equipment $ 364.8 $ 378.9 $ 204.1
+[END TABLE 071]
+
+[TABLE 072]
+Year Ended December 31, Revenue 2025 2024 2023 Americas: United States $ 1,929.5 $ 1,778.9 $ 1,605.9 Other Americas 770.9 663.3 569.3 Total Americas 2,700.4 2,442.2 2,175.2 EMEA 2,834.3 2,396.2 2,072.9 APAC 1,264.9 1,117.4 1,056.7 Total revenue $ 6,799.6 $ 5,955.8 $ 5,304.8
+[END TABLE 072]
+
+[TABLE 073]
+Property and Equipment — net December 31, 2025 December 31, 2024 Americas: United States $ 1,000.8 $ 993.5 Canada 329.2 216.8 Latin America 4.9 4.4 Total Americas 1,334.9 1,214.7 EMEA 211.3 73.3 APAC 72.8 61.5 Total property and equipment—net $ 1,619.0 $ 1,349.5
+[END TABLE 073]
+
+[TABLE 074]
+Year Ended December 31, 2025 2024 2023 Distributor A 28 % 29 % 28 % Distributor B 15 % 15 % 15 % Distributor C 12 % 13 % 13 %
+[END TABLE 074]
+
+[TABLE 075]
+2025 2024 Distributor A 32 % 31 % Distributor B 12 % 14 % Distributor C 9 % 10 %
+[END TABLE 075]
+
+[TABLE 076]
+Exhibit Number Description Form Incorporated by reference herein Date Filed Exhibit Number 3.1 Restated Certificate of Incorporation Quarterly Report on Form 10-Q (File No. 001-34511) August 7, 2023 3.3 3.2 Amended and Restated Bylaws Current Report on Form 8-K (File No. 001-34511) June 23, 2023 3.3 4.1 Specimen common stock certificate of the Company Registration Statement on Form S-l, as amended (File No. 333-161190) November 2, 2009 4.1 4.2 * Description of Securities Registered Pursuant to Section 12 of the Exchange Act 10.1 † Forms of Indemnification Agreement between the Company and its directors and officers Registration Statement on Form S-l (File No. 333-161190) August 10, 2009 10.1 10.2 † Amended and Restated 2009 Equity Incentive Plan Quarterly Report on Form 10-Q (File No. 001-34511) August 1, 2019 10.1 10.3 † Forms of stock option agreement under Amended and Restated 2009 Equity Incentive Plan Annual Report on Form 10-K (File No. 001-34511) February 28, 2012 10.5 10.4 † Form of performance stock unit award agreement under Amended and Restated 2009 Equity Incentive Plan Quarterly Report on Form 10-Q (File No. 001-34511) August 6, 2013 99.1 10.5 † Forms of restricted stock unit award and performance stock unit award agreement under Amended and Restated 2009 Equity Incentive Plan (Additional Forms) Annual Report on Form 10-K (File No. 001-34511) March 2, 2015 10.7 10.6 † Form of restricted stock unit award agreement under Amended and Restated 2009 Equity Incentive Plan (Additional Form) Annual Report on Form 10-K (File No. 001-34511) February 26, 2020 10.6 10.7 † Form of stock option award agreement under Amended and Restated 2009 Equity Incentive Plan (Additional Form) Annual Report on Form 10-K (File No. 001-34511) February 26, 2020 10.7 10.8 † Fortinet, Inc. Amended Bonus Plan Annual Report on Form 10-K (File No. 001-34511) February 19, 2021 10.8 10.9 † Fortinet, Inc. Cash and Equity Incentive Plan Quarterly Report on Form 10-Q (File No. 001-34511) November 5, 2013 10.1 10.10 † Form of Change of Control Agreement between the Company and its directors Quarterly Report on Form 10-Q (File No. 001-34511) August 4, 2015 10.1 10.11 † Amended and Restated Change of Control Severance Agreement, effective as of August 7, 2024, between the Company and Ken Xie Quarterly Report on Form 10-Q (File No. 001-34511) August 8, 2024 10.1 10.12 † Amended and Restated Change of Control Severance Agreement, effective as of August 7, 2024, between the Company and Michael Xie Quarterly Report on Form 10-Q (File No. 001-34511) August 8, 2024 10.2 10.13 † Amended and Restated Change of Control Severance Agreement, effective as of August 7, 2024, between the Company and John Whittle Quarterly Report on Form 10-Q (File No. 001-34511) August 8, 2024 10.3 10.14 † Offer Letter, dated as of October 23, 2006, by and between the Company and John Whittle Registration Statement on Form S-l, as amended (File No. 333-161190) August 10, 2009 10.10 10.1 5 † Change of Control Severance Agreement, effective as of May 15, 2025, between the Company and Christian Ohlgart Quarterly Report on Form 10-Q (File No. 001-34511) August 8, 2025 10.1 10.1 6 † Form of performance stock unit award agreement under Amended and Restated 2009 Equity Incentive Plan Quarterly Report on Form 10-Q (File No. 001-34511) May 8, 2023 10.1 10.1 7 † Form of restricted stock unit award agreement under Amended and Restated 2009 Equity Incentive Plan (Additional Form) Quarterly Report on Form 10-Q (File No. 001-34511) May 8, 2023 10.2 19.1 Insider Trading Policy Annual Report on Form 10-K (File No. 001-34511) February 21, 2025 19.1 21.1 * List of subsidiaries 23.1 * Consent of Independent Registered Public Accounting Firm 24.1 * Power of Attorney (incorporated by reference to the signature page of this Annual Report on Form 10-K)
+[END TABLE 076]
+
+[TABLE 077]
+31.1 * Certification of Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 31.2 ** Certification of Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 32.1 ** Certifications of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 97.1 Compensation Recovery Policy Annual Report on Form 10-K (File No. 001-34511) February 6, 2024 97.1 101.INS * Inline XBRL Instance Document - the instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document. 101.SCH * Inline XBRL Taxonomy Extension Schema Document 101.CAL * Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF * Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB * Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE * Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 * Cover Page Interactive Data File - the cover page from the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 is formatted in inline XBRL.
+[END TABLE 077]
+
+[TABLE 078]
+Date: February 24, 2026 FORTINET, INC. By: /s/ Ken Xie Ken Xie, Chief Executive Officer and Chairman (Duly Authorized Officer and Principal Executive Officer)
+[END TABLE 078]
+
+[TABLE 079]
+Date: February 24, 2026 FORTINET, INC. By: /s/ Christiane Ohlgart Christiane Ohlgart, Chief Financial Officer (Duly Authorized Officer and Principal Financial Officer and Principal Accounting Officer)
+[END TABLE 079]
+
+[TABLE 080]
+Signature Title Date /s/ Ken Xie Chief Executive Officer and Chairman February 24, 2026 Ken Xie (Principal Executive Officer) /s/ Christiane Ohlgart Chief Financial Officer February 24, 2026 Christiane Ohlgart (Principal Financial Officer and Principal Accounting Officer) /s/ Michael Xie President, Chief Technology Officer and Director February 24, 2026 Michael Xie /s/ Kenneth A. Goldman Director February 24, 2026 Kenneth A. Goldman /s/ Ming Hsieh Director February 24, 2026 Ming Hsieh /s/ Jean Hu Director February 24, 2026 Jean Hu /s/ Janet Napolitano Director February 24, 2026 Janet Napolitano /s/ Judith Sim Director February 24, 2026 Judith Sim /s/ Admiral James Stavridis Director February 24, 2026 Admiral James Stavridis
+[END TABLE 080]

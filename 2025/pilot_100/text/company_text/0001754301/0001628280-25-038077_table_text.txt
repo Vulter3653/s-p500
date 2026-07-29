@@ -1,0 +1,531 @@
+[TABLE 001]
+x ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+o TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware 83-1825597 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
+[END TABLE 003]
+
+[TABLE 004]
+1211 Avenue of the Americas New York, New York 10036 (Address of principal executive offices and Zip Code)
+[END TABLE 004]
+
+[TABLE 005]
+Title of each class Trading Symbols Name of each exchange on which registered Class A Common Stock, par value $0.01 per share FOXA The Nasdaq Global Select Market Class B Common Stock, par value $0.01 per share FOX The Nasdaq Global Select Market
+[END TABLE 005]
+
+[TABLE 006]
+Large accelerated filer x Accelerated filer o Non-accelerated filer o Smaller reporting company o Emerging growth company o
+[END TABLE 006]
+
+[TABLE 007]
+Page PART I ITEM 1. BUSINESS 1 ITEM 1A. RISK FACTORS 18 ITEM 1B. UNRESOLVED STAFF COMMENTS 30 ITEM 1C. CYBERSECURITY 30 ITEM 2. PROPERTIES 31 ITEM 3. LEGAL PROCEEDINGS 32 ITEM 4. MINE SAFETY DISCLOSURES 32 PART II ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 33 ITEM 6. [RESERVED] 33 ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 34 ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 49 ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 51 ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 103 ITEM 9A. CONTROLS AND PROCEDURES 103 ITEM 9B. OTHER INFORMATION 103 ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 103 PART III ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 104 ITEM 11. EXECUTIVE COMPENSATION 104 ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 104 ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 104 ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 104 PART IV ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 105 ITEM 16. FORM 10-K SUMMARY 107 SIGNATURES 108
+[END TABLE 007]
+
+[TABLE 008]
+As of June 30, 2025 2024 (in millions) FOX News Media Networks FOX News 61 67 FOX Business 60 65 FOX Sports Networks FS1 61 67 FS2 44 48 The Big Ten Network 42 45 FOX Deportes 10 12
+[END TABLE 008]
+
+[TABLE 009]
+DMA/Rank Station Digital Channel RF (Virtual) Type Percentage of U.S. Television Households in the DMA (a) New York, NY 1 WNYW 27(5) UHF 6.0% WWOR-TV (b)(c) 25(9) UHF Los Angeles, CA* 2 KTTV 11(11) VHF 4.6% KCOP-TV (b) 13(13) VHF Chicago, IL* 3 WFLD 24(32) UHF 2.9% WPWR-TV (b)(d) 31(50) UHF Dallas, TX* 4 KDFW 35(4) UHF 2.6% KDFI (b) 27(27) UHF Philadelphia, PA* 5 WTXF-TV 31(29) UHF 2.5% Houston, TX* 6 KRIV 26(26) UHF 2.2%
+[END TABLE 009]
+
+[TABLE 010]
+DMA/Rank Station Digital Channel RF (Virtual) Type Percentage of U.S. Television Households in the DMA (a) KTXH (b) 19(20) UHF Atlanta, GA* 7 WAGA-TV 27(5) UHF 2.2% Washington, DC* 8 WTTG 36(5) UHF 2.1% WDCA (b)(e) 36(20) UHF San Francisco, CA* 10 KTVU 31(2) UHF 2.0% KICU-TV (b) 36(36) UHF Tampa, FL* 11 WTVT 12(13) VHF 1.8% Phoenix, AZ* 12 KSAZ-TV 10(10) VHF 1.7% KUTP (b) 26(45) UHF Seattle-Tacoma, WA* 13 KCPQ 13(13) VHF 1.7% KZJO (b) 36(22) UHF Detroit, MI* 14 WJBK 7(2) VHF 1.5% Orlando, FL* 15 WOFL 22(35) UHF 1.5% WRBW (b) 28(65) UHF Minneapolis, MN* (f) 16 KMSP-TV 9(9) VHF 1.5% WFTC (b) 29(29) UHF Austin, TX* 34 KTBC 7(7) VHF 0.8% Milwaukee, WI 38 WITI (g) 31(6) UHF 0.8% Gainesville, FL* 157 WOGX 31(51) UHF 0.1% TOTAL 38.5%
+[END TABLE 010]
+
+[TABLE 011]
+* Denotes a market where stations are also broadcasting in the ATSC 3.0 "NextGenTV" standard in partnership with broadcasters in the applicable DMA through channel sharing arrangements or, in the case of KCOP-TV, KTXH and WRBW, each of those stations has made the conversion to and is broadcasting in the ATSC 3.0 standard. (a) VHF television stations transmit on Channels 2 through 13 and UHF television stations on Channels 14 through 36. The Federal Communications Commission (the “FCC”) applies a discount (the “UHF Discount"), which attributes only 50% of the television households in a local television market to the audience reach of a UHF television station for purposes of calculating whether that station’s owner complies with the national station ownership cap imposed by FCC regulations and by statute; in making this calculation, only the station’s RF Broadcast Channel is considered. In a duopoly market, both stations must be UHF for the discount to apply. In addition, the coverage of two commonly owned stations in the same market is counted only once. The percentages listed are rounded and do not take into account the UHF Discount. For more information regarding the FCC’s national station ownership cap, see “Government Regulation.” (b) MyNetworkTV licensee station. (c) WWOR-TV hosts television station WRNN, New Rochelle, NY, licensed to WRNN License Company, LLC, an unrelated third party pursuant to a channel sharing agreement between FOX Television Stations and shared WRNN License Company, LLC. A portion of the spectrum formerly licensed to WWOR-TV is now shared with and licensed to WRNN. (d) WPWR-TV channel shares with WFLD. (e) WDCA channel shares with WTTG. (f) The Company also owns and operates full power station KFTC, Channel 26, Bemidji, MN as a satellite station of WFTC, Channel 29, Minneapolis, MN. Station KFTC is in addition to the 29 full power stations described in this section.
+[END TABLE 011]
+
+[TABLE 012]
+(g) WITI hosts television station WVCY, Milwaukee, WI, licensed to VCY America, Inc., an unrelated third party pursuant to a channel sharing agreement between WITI Television, LLC, the predecessor in interest of FOX Television Stations, and VCY America, Inc. A portion of the spectrum family licensed to WITI is now shared with and licensed to WVCY.
+[END TABLE 012]
+
+[TABLE 013]
+Total number of shares purchased (a) Average price paid per share (b) Approximate dollar value of shares that may yet be purchased under the program (b)(c) (in millions) First quarter fiscal 2025 6,376,797 $ 39.22 Second quarter fiscal 2025 5,480,348 45.62 Third quarter fiscal 2025 4,682,037 53.38 April 1, 2025 - April 30, 2025 997,155 50.14 May 1, 2025 - May 31, 2025 2,351,080 55.29 June 1, 2025 - June 30, 2025 1,281,951 54.60 Total fiscal 2025 21,169,368 47.24 $ 400
+[END TABLE 013]
+
+[TABLE 014]
+(a) The Company has not made any purchases of Common Stock other than in connection with the publicly announced stock repurchase program described below. (b) These amounts exclude any fees, commissions, excise taxes or other costs associated with the share repurchases. (c) The Company’s Board of Directors has authorized a stock repurchase program, under which the Company can repurchase $7 billion of Common Stock. The program has no time limit and may be modified, suspended or discontinued at any time. Subsequent to June 30, 2025, the Company announced that the Board has authorized incremental stock repurchases of an additional $5 billion of Class A and Class B Common Stock. With this increase, the Company’s total stock repurchase authorization is now $12 billion .
+[END TABLE 014]
+
+[TABLE 015]
+For the years ended June 30, 2025 2024 $ Change % Change (in millions, except %) Better/(Worse) Revenues Affiliate fee $ 7,656 $ 7,324 $ 332 5 % Advertising 6,865 5,444 1,421 26 % Other 1,779 1,212 567 47 % Total revenues 16,300 13,980 2,320 17 % Operating expenses (10,518) (9,089) (1,429) (16) % Selling, general and administrative (2,168) (2,024) (144) (7) % Depreciation and amortization (385) (389) 4 1 % Restructuring, impairment and other corporate matters (350) (67) (283) ** Equity losses of affiliates (29) (44) 15 34 % Interest expense, net (227) (216) (11) (5) % Non-operating other, net 438 (47) 485 ** Income before income tax expense 3,061 2,104 957 45 % Income tax expense (768) (550) (218) (40) % Net income 2,293 1,554 739 48 % Less: Net income attributable to noncontrolling interests (30) (53) 23 43 % Net income attributable to Fox Corporation stockholders $ 2,263 $ 1,501 $ 762 51 %
+[END TABLE 015]
+
+[TABLE 016]
+** not meaningful
+[END TABLE 016]
+
+[TABLE 017]
+For the years ended June 30, 2025 2024 $ Change % Change (in millions, except %) Better/(Worse) Revenues Cable Network Programming $ 6,930 $ 5,955 $ 975 16 % Television 9,325 7,875 1,450 18 % Corporate and Other 244 209 35 17 % Eliminations (199) (59) (140) ** Total revenues $ 16,300 $ 13,980 $ 2,320 17 %
+[END TABLE 017]
+
+[TABLE 018]
+For the years ended June 30, 2025 2024 $ Change % Change (in millions, except %) Better/(Worse) Segment EBITDA Cable Network Programming $ 3,030 $ 2,693 $ 337 13 % Television 945 506 439 87 % Corporate and Other (351) (316) (35) (11) % Adjusted EBITDA (a) $ 3,624 $ 2,883 $ 741 26 %
+[END TABLE 018]
+
+[TABLE 019]
+** not meaningful (a) For a discussion of Adjusted EBITDA and a reconciliation of Net income to Adjusted EBITDA, see “Non-GAAP Financial Measures” below.
+[END TABLE 019]
+
+[TABLE 020]
+For the years ended June 30, 2025 2024 $ Change % Change (in millions, except %) Better/(Worse) Revenues Affiliate fee $ 4,316 $ 4,188 $ 128 3 % Advertising 1,531 1,262 269 21 % Other 1,083 505 578 ** Total revenues 6,930 5,955 975 16 % Operating expenses (3,275) (2,668) (607) (23) % Selling, general and administrative (635) (610) (25) (4) % Amortization of cable distribution investments 10 16 (6) (38) % Segment EBITDA $ 3,030 $ 2,693 $ 337 13 %
+[END TABLE 020]
+
+[TABLE 021]
+** not meaningful
+[END TABLE 021]
+
+[TABLE 022]
+For the years ended June 30, 2025 2024 $ Change % Change (in millions, except %) Better/(Worse) Revenues Advertising $ 5,334 $ 4,182 $ 1,152 28 % Affiliate fee 3,340 3,136 204 7 % Other 651 557 94 17 % Total revenues 9,325 7,875 1,450 18 % Operating expenses (7,308) (6,372) (936) (15) % Selling, general and administrative (1,072) (997) (75) (8) % Segment EBITDA $ 945 $ 506 $ 439 87 %
+[END TABLE 022]
+
+[TABLE 023]
+For the years ended June 30, 2025 2024 $ Change % Change (in millions, except %) Better/(Worse) Revenues $ 244 $ 209 $ 35 17 % Operating expenses (82) (56) (26) (46) % Selling, general and administrative (513) (469) (44) (9) % Segment EBITDA $ (351) $ (316) $ (35) (11) %
+[END TABLE 023]
+
+[TABLE 024]
+For the years ended June 30, 2025 2024 (in millions) Net income $ 2,293 $ 1,554 Add Amortization of cable distribution investments 10 16 Depreciation and amortization 385 389 Restructuring, impairment and other corporate matters 350 67 Equity losses of affiliates 29 44 Interest expense, net 227 216 Non-operating other, net (438) 47 Income tax expense 768 550 Adjusted EBITDA $ 3,624 $ 2,883
+[END TABLE 024]
+
+[TABLE 025]
+For the years ended June 30, 2025 2024 (in millions) Revenues $ 16,300 $ 13,980 Operating expenses (10,518) (9,089) Selling, general and administrative (2,168) (2,024) Amortization of cable distribution investments 10 16 Adjusted EBITDA $ 3,624 $ 2,883
+[END TABLE 025]
+
+[TABLE 026]
+For the years ended June 30, 2025 2024 Net cash provided by operating activities $ 3,324 $ 1,840
+[END TABLE 026]
+
+[TABLE 027]
+For the years ended June 30, 2025 2024 Net cash used in investing activities $ (537) $ (452)
+[END TABLE 027]
+
+[TABLE 028]
+For the years ended June 30, 2025 2024 Net cash used in financing activities $ (1,755) $ (1,341)
+[END TABLE 028]
+
+[TABLE 029]
+For the years ended June 30, 2025 2024 (in millions) Borrowings Notes due 2025 and 2024 (a) $ (600) $ (1,250) Notes due 2033 (b) — 1,232 Total borrowings $ (600) $ (18)
+[END TABLE 029]
+
+[TABLE 030]
+(a) In April 2025 and January 2024, $600 million of 3.050% senior notes and $1.25 billion of 4.030% senior notes matured and were repaid in full, respectively (See Note 9—Borrowings to the accompanying Financial Statements). (b) See Note 9—Borrowings to the accompanying Financial Statements under the heading "Public Debt - Senior Notes Issued."
+[END TABLE 030]
+
+[TABLE 031]
+Rating Agency Senior Debt Outlook Moody’s Baa2 Stable Standard & Poor’s BBB Stable
+[END TABLE 031]
+
+[TABLE 032]
+2025 2024 2023 (in millions, except %) Discount rate for service cost 5.5 % 5.3 % 4.8 % Discount rate for interest cost 5.3 % 5.4 % 4.5 % Assets Expected rate of return 5.6 % 5.3 % 5.0 % Actual return $ 54 $ 45 $ 53 Expected return 50 45 40 Actuarial gain $ 4 $ — $ 13
+[END TABLE 032]
+
+[TABLE 033]
+Changes in Assumption Impact on Annual Pension Expense Impact on PBO 0.25 percentage point decrease in discount rate Increase $3 million Increase $28 million 0.25 percentage point increase in discount rate Decrease $3 million Decrease $26 million 0.25 percentage point decrease in expected rate of return on assets Increase $2 million — 0.25 percentage point increase in expected rate of return on assets Decrease $2 million —
+[END TABLE 033]
+
+[TABLE 034]
+As of June 30, 2025 2024 (in millions) Fair Value Borrowings: liability $ 6,625 $ 7,017 Sensitivity Analysis Potential change in fair values resulting from a 10% adverse change in quoted interest rates $ 258 $ 297
+[END TABLE 034]
+
+[TABLE 035]
+As of June 30, 2025 2024 (in millions) Fair Value Total fair value of common stock investments $ 1,249 $ 797 Sensitivity Analysis Potential change in fair values resulting from a 10% adverse change in quoted market prices $ (125) $ (80)
+[END TABLE 035]
+
+[TABLE 036]
+Page Management’s Report on Internal Control Over Financial Reporting 52 Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42 ) 53 Consolidated Statements of Operations for the fiscal years ended June 30, 2025, 2024 and 2023 57 Consolidated Statements of Comprehensive Income for the fiscal years ended June 30, 2025, 2024 and 2023 58 Consolidated Balance Sheets as of June 30, 2025 and 2024 59 Consolidated Statements of Cash Flows for the fiscal years ended June 30, 2025, 2024 and 2023 60 Consolidated Statements of Equity for the fiscal years ended June 30, 2025, 2024 and 2023 61 Notes to the Consolidated Financial Statements 62
+[END TABLE 036]
+
+[TABLE 037]
+Program rights amortization – National sports programming Description of the Matter As disclosed in Note 2 to the consolidated financial statements, the Company has single and multi-year contracts for national sports programming. The costs of multi-year sports contracts at the Company are primarily amortized based on the ratio of each contract’s current period's attributable revenue to the estimated total remaining attributable revenue. Auditing the amortization of the Company’s national sports programming involved subjective estimation and complex auditor judgment because amortization of this programming is based on estimates of future revenues from the programming. Differing estimates of future revenues could materially affect the timing of sports programming amortization. How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of internal controls that address the risks of material misstatement relating to the amortization of the Company’s national sports programming, including controls over management’s review of the amortization analysis and the significant assumptions used to develop the estimated future revenues. We also tested management’s controls to validate that the data used in the analysis was complete and accurate. Among other audit procedures performed, we evaluated the significant assumptions used by the Company to estimate future revenues and tested the completeness and accuracy of the underlying data used in the analysis. For example, we evaluated management’s forecasts of estimated future revenues by performing a look-back analysis of management’s historical estimates compared to actual results. We also performed a sensitivity analysis of the estimated future revenues to evaluate the change in the amortization of the Company’s national sports programming resulting from changes in the assumptions. Defamation and disparagement claims Description of the Matter As disclosed in Note 14 to the consolidated financial statements, the Company and its news businesses and their employees are subject to lawsuits alleging defamation or disparagement. The Company records a liability for those legal proceedings when management determines it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. The Company also discloses when it is reasonably possible that a material loss may be incurred. The Company continues to believe the pending lawsuits alleging defamation or disparagement are without merit and intends to defend against them vigorously, including through any appeals. The Company is unable to predict the final outcome of these matters and has determined that a loss is neither probable nor reasonably estimable. Accounting for contingencies related to defamation and disparagement claims requires management to make significant judgments to determine the likelihood of a loss and if necessary, the estimate of the amount or range of loss related to such matters. Auditing management’s accounting for and disclosure of these matters involves complex auditor judgment in assessing the Company’s evaluation of the probability of a loss, and the estimated amount or range of loss.
+[END TABLE 037]
+
+[TABLE 038]
+How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of internal controls that address the risks of material misstatement relating to management’s evaluation of defamation and disparagement claims, including controls over determining whether a loss is probable and whether the amount of loss can be reasonably estimated, as well as financial statement disclosures. Among other audit procedures, we tested management’s evaluation of the probability of outcome and range of loss, if estimable, through inspection of responses to inquiry letters sent to both internal and external legal counsel, discussions with internal legal counsel to confirm our understanding of the allegations and related merits, and by obtaining written representations from executives of the Company. In addition, we evaluated the adequacy of financial disclosures.
+[END TABLE 038]
+
+[TABLE 039]
+For the years ended June 30, 2025 2024 2023 Revenues $ 16,300 $ 13,980 $ 14,913 Operating expenses ( 10,518 ) ( 9,089 ) ( 9,689 ) Selling, general and administrative ( 2,168 ) ( 2,024 ) ( 2,049 ) Depreciation and amortization ( 385 ) ( 389 ) ( 411 ) Restructuring, impairment and other corporate matters ( 350 ) ( 67 ) ( 1,182 ) Equity (losses) earnings of affiliates ( 29 ) ( 44 ) 4 Interest expense, net ( 227 ) ( 216 ) ( 218 ) Non-operating other, net 438 ( 47 ) 368 Income before income tax expense 3,061 2,104 1,736 Income tax expense ( 768 ) ( 550 ) ( 483 ) Net income 2,293 1,554 1,253 Less: Net income attributable to noncontrolling interests ( 30 ) ( 53 ) ( 14 ) Net income attributable to Fox Corporation stockholders $ 2,263 $ 1,501 $ 1,239 EARNINGS PER SHARE DATA Net income attributable to Fox Corporation stockholders per share: Basic $ 4.97 $ 3.14 $ 2.34 Diluted $ 4.91 $ 3.13 $ 2.33
+[END TABLE 039]
+
+[TABLE 040]
+For the years ended June 30, 2025 2024 2023 Net income $ 2,293 $ 1,554 $ 1,253 Other comprehensive (loss) income, net of tax: Benefit plan adjustments and other ( 17 ) 42 77 Other comprehensive (loss) income, net of tax ( 17 ) 42 77 Comprehensive income 2,276 1,596 1,330 Less: Net income attributable to noncontrolling interests (a) ( 30 ) ( 53 ) ( 14 ) Comprehensive income attributable to Fox Corporation stockholders $ 2,246 $ 1,543 $ 1,316
+[END TABLE 040]
+
+[TABLE 041]
+(a) Net income attributable to noncontrolling interests includes $( 1 ) million, $( 1 ) million and $( 16 ) million for the fiscal years ended June 30, 2025, 2024 and 2023, respectively, relating to redeemable noncontrolling interests.
+[END TABLE 041]
+
+[TABLE 042]
+As of June 30, 2025 2024 ASSETS Current assets Cash and cash equivalents $ 5,351 $ 4,319 Receivables, net 2,472 2,364 Inventories, net 432 626 Other 174 192 Total current assets 8,429 7,501 Non-current assets Property, plant and equipment, net 1,705 1,696 Intangible assets, net 2,969 3,038 Goodwill 3,639 3,544 Deferred tax assets 2,721 2,878 Other non-current assets 3,732 3,315 Total assets $ 23,195 $ 21,972 LIABILITIES AND EQUITY Current liabilities Borrowings $ — $ 599 Accounts payable, accrued expenses and other current liabilities 2,897 2,353 Total current liabilities 2,897 2,952 Non-current liabilities Borrowings 6,602 6,598 Other liabilities 1,341 1,366 Redeemable noncontrolling interests 288 242 Commitments and contingencies Equity Class A Common Stock (a) 2 2 Class B Common Stock (b) 2 2 Additional paid-in capital 7,603 7,678 Retained earnings 4,479 3,139 Accumulated other comprehensive loss ( 124 ) ( 107 ) Total Fox Corporation stockholders’ equity 11,962 10,714 Noncontrolling interests 105 100 Total equity 12,067 10,814 Total liabilities and equity $ 23,195 $ 21,972
+[END TABLE 042]
+
+[TABLE 043]
+(a) Class A Common Stock , $ 0.01 par value per share, 2,000,000,000 shares authorized, 210,754,900 shares and 225,727,598 shares issued and outstanding at par as of June 30, 2025 and 2024, respectively. (b) Class B Common Stock , $ 0.01 par value per share, 1,000,000,000 shares authorized, 235,581,025 shares issued and outstanding at par as of June 30, 2025 and 2024.
+[END TABLE 043]
+
+[TABLE 044]
+For the years ended June 30, 2025 2024 2023 OPERATING ACTIVITIES Net income $ 2,293 $ 1,554 $ 1,253 Adjustments to reconcile net income to net cash provided by operating activities Depreciation and amortization 385 389 411 Amortization of cable distribution investments 10 16 16 Restructuring, impairment and other corporate matters 267 67 367 Equity-based compensation 135 90 74 Equity losses (earnings) of affiliates 29 44 ( 4 ) Cash distributions received from affiliates 13 — — Non-operating other, net ( 438 ) 47 ( 368 ) Deferred income taxes 164 203 321 Change in operating assets and liabilities, net of acquisitions and dispositions Receivables and other assets ( 95 ) ( 172 ) ( 104 ) Inventories net of programming payable 521 ( 303 ) 145 Accounts payable and accrued expenses 89 ( 1 ) ( 68 ) Other changes, net ( 49 ) ( 94 ) ( 243 ) Net cash provided by operating activities 3,324 1,840 1,800 INVESTING ACTIVITIES Property, plant and equipment ( 331 ) ( 345 ) ( 357 ) Acquisitions, net of cash acquired ( 97 ) — — Purchase of investments ( 79 ) ( 103 ) ( 54 ) Other investing activities, net ( 30 ) ( 4 ) ( 27 ) Net cash used in investing activities ( 537 ) ( 452 ) ( 438 ) FINANCING ACTIVITIES Repurchase of shares ( 1,000 ) ( 1,000 ) ( 2,000 ) Repayment of borrowings ( 600 ) ( 1,250 ) — Borrowings — 1,232 — Dividends paid and distributions ( 277 ) ( 281 ) ( 299 ) Sale of subsidiary noncontrolling interest — — 35 Other financing activities, net 122 ( 42 ) ( 26 ) Net cash used in financing activities ( 1,755 ) ( 1,341 ) ( 2,290 ) Net increase (decrease) in cash and cash equivalents 1,032 47 ( 928 ) Cash and cash equivalents, beginning of year 4,319 4,272 5,200 Cash and cash equivalents, end of year $ 5,351 $ 4,319 $ 4,272
+[END TABLE 044]
+
+[TABLE 045]
+Class A Class B Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Loss Total Fox Corporation Stockholders’ Equity Noncontrolling Interests (a) Total Equity Common Stock Common Stock Shares Amount Shares Amount Balance, June 30, 2022 308 $ 3 243 $ 3 $ 9,098 $ 2,461 $ ( 226 ) $ 11,339 $ 36 $ 11,375 Net income — — — — — 1,239 — 1,239 30 1,269 Other comprehensive income — — — — — — 77 77 — 77 Dividends — — — — — ( 265 ) — ( 265 ) — ( 265 ) Shares repurchased ( 46 ) — ( 8 ) — ( 891 ) ( 1,123 ) — ( 2,014 ) — ( 2,014 ) Other 1 — — ( 1 ) 46 ( 43 ) — 2 1 3 Balance, June 30, 2023 263 $ 3 235 $ 2 $ 8,253 $ 2,269 $ ( 149 ) $ 10,378 $ 67 $ 10,445 Net income — — — — — 1,501 — 1,501 54 1,555 Other comprehensive income — — — — — — 42 42 — 42 Dividends — — — — — ( 250 ) — ( 250 ) — ( 250 ) Shares repurchased ( 40 ) — — — ( 663 ) ( 347 ) — ( 1,010 ) — ( 1,010 ) Other 3 ( 1 ) — — 88 ( 34 ) — 53 ( 21 ) 32 Balance, June 30, 2024 226 $ 2 235 $ 2 $ 7,678 $ 3,139 $ ( 107 ) $ 10,714 $ 100 $ 10,814 Net income — — — — — 2,263 — 2,263 31 2,294 Other comprehensive loss — — — — — — ( 17 ) ( 17 ) — ( 17 ) Dividends — — — — — ( 246 ) — ( 246 ) — ( 246 ) Shares repurchased ( 21 ) — — — ( 356 ) ( 654 ) — ( 1,010 ) — ( 1,010 ) Other 6 — — — 281 ( 23 ) — 258 ( 26 ) 232 Balance, June 30, 2025 211 $ 2 235 $ 2 $ 7,603 $ 4,479 $ ( 124 ) $ 11,962 $ 105 $ 12,067
+[END TABLE 045]
+
+[TABLE 046]
+(a) Excludes Redeemable noncontrolling interests (See Note 6—Fair Value under the heading “Redeemable Noncontrolling Interests”).
+[END TABLE 046]
+
+[TABLE 047]
+As of June 30, 2025 2024 (in millions) Total receivables $ 2,522 $ 2,408 Allowance for credit losses ( 50 ) ( 44 ) Total receivables, net $ 2,472 $ 2,364
+[END TABLE 047]
+
+[TABLE 048]
+For the years ended June 30, 2025 2024 2023 (in millions) Restructuring charges (a) $ ( 35 ) $ ( 13 ) $ ( 111 ) Impairment charges (b) ( 68 ) — — Other corporate matters Legal settlement costs (c) ( 126 ) ( 24 ) ( 894 ) U.K. Newspaper Matters Indemnity (c) ( 30 ) ( 20 ) ( 117 ) Other (d) ( 91 ) ( 10 ) ( 60 ) Total restructuring, impairment and other corporate matters $ ( 350 ) $ ( 67 ) $ ( 1,182 )
+[END TABLE 048]
+
+[TABLE 049]
+(a) Primarily related to Venu Sports at Corporate and Other (See Note 3—Acquisitions, Disposals and Other Transactions) for fiscal 2025 and severance costs at the Cable Network Programming and Television reportable segments and Corporate and Other for fiscal 2024 and 2023. (b) Related to a non-cash impairment charge for intangible assets for fiscal 2025 (See Note 2—Summary of Significant Accounting Policies under the heading "Goodwill and Other Intangible Assets”). (c) See Note 14—Commitments and Contingencies. (d) Primarily related to Venu Sports for fiscal 2025 (See Note 3—Acquisitions, Disposals and Other Transactions).
+[END TABLE 049]
+
+[TABLE 050]
+One time termination benefits Contract termination costs Total (in millions) Balance, June 30, 2022 $ ( 8 ) $ ( 19 ) $ ( 27 ) Additions ( 111 ) — ( 111 ) Payments 52 2 54 Balance, June 30, 2023 $ ( 67 ) $ ( 17 ) $ ( 84 ) Additions and other ( 19 ) 6 ( 13 ) Payments 69 11 80 Balance, June 30, 2024 $ ( 17 ) $ — $ ( 17 ) Additions (a) ( 35 ) — ( 35 ) Payments (a) 37 — 37 Balance, June 30, 2025 $ ( 15 ) $ — $ ( 15 )
+[END TABLE 050]
+
+[TABLE 051]
+(a) Excludes amounts collected from Disney and WBD related to the decision to discontinue Venu Sports (See Note 3—Acquisitions, Disposals and Other Transactions).
+[END TABLE 051]
+
+[TABLE 052]
+As of June 30, 2025 2024 2023 (in millions) Accounts payable, accrued expenses and other current liabilities $ 15 $ 17 $ 74 Other liabilities — — 10 Total restructuring liabilities $ 15 $ 17 $ 84
+[END TABLE 052]
+
+[TABLE 053]
+As of June 30, 2025 2024 (in millions) Licensed programming, including prepaid sports rights $ 633 $ 841 Owned programming 541 497 Total inventories, net 1,174 1,338 Less: current portion of inventories, net ( 432 ) ( 626 ) Total non-current inventories, net $ 742 $ 712 Owned programming Released $ 308 $ 238 In-process or other 233 259 Total $ 541 $ 497
+[END TABLE 053]
+
+[TABLE 054]
+For the years ended June 30, 2025 2024 2023 (in millions) Total amortization expense $ 6,638 $ 5,473 $ 6,036
+[END TABLE 054]
+
+[TABLE 055]
+For the years ending June 30, 2026 2027 2028 (in millions) Estimated amortization expense $ 555 $ 140 $ 88
+[END TABLE 055]
+
+[TABLE 056]
+Fair value measurements As of June 30, 2025 Total Level 1 Level 2 Level 3 (in millions) Investments in equity securities $ 1,249 $ 1,249 (a) $ — $ — Redeemable noncontrolling interests ( 288 ) — — ( 288 ) (b) Total $ 961 $ 1,249 $ — $ ( 288 )
+[END TABLE 056]
+
+[TABLE 057]
+Fair value measurements As of June 30, 2024 Total Level 1 Level 2 Level 3 (in millions) Investments in equity securities $ 797 $ 797 (a) $ — $ — Redeemable noncontrolling interests ( 242 ) — — ( 242 ) (b) Total $ 555 $ 797 $ — $ ( 242 )
+[END TABLE 057]
+
+[TABLE 058]
+(a) The investments categorized as Level 1 primarily represents an investment in equity securities of Flutter Entertainment plc (“Flutter”) with a readily determinable fair value. (b) The Company utilizes both the market and income approach valuation techniques for its Level 3 fair value measures. Inputs to such measures could include observable market data obtained from independent sources such as broker quotes and recent market transactions for similar assets. It is the Company’s policy to maximize the use of observable inputs in the measurement of its Level 3 fair value measurements. To the extent observable inputs are not available, the Company utilizes unobservable inputs based upon the assumptions market participants would use in valuing the redeemable noncontrolling interests. Examples of utilized unobservable inputs are future cash flows and long-term growth rates.
+[END TABLE 058]
+
+[TABLE 059]
+For the years ended June 30, 2025 2024 2023 (in millions) Beginning of year $ ( 242 ) $ ( 213 ) $ ( 188 ) Acquisitions (a) ( 27 ) — — Net loss 1 1 16 Accretion and redemption value adjustments ( 20 ) ( 30 ) ( 41 ) End of year $ ( 288 ) $ ( 242 ) $ ( 213 )
+[END TABLE 059]
+
+[TABLE 060]
+(a) The amount in fiscal 2025 was primarily due to the acquisition of a digital media company.
+[END TABLE 060]
+
+[TABLE 061]
+As of June 30, 2025 2024 (in millions) Borrowings Fair value $ 6,625 $ 7,017 Carrying value $ 6,602 $ 7,197
+[END TABLE 061]
+
+[TABLE 062]
+As of June 30, 2025 2024 (in millions) Land $ 206 $ 206 Buildings and leaseholds 1,463 1,369 Machinery and equipment 2,132 1,997 3,801 3,572 Less: accumulated depreciation and amortization ( 2,367 ) ( 2,170 ) 1,434 1,402 Construction in progress 271 294 Total property, plant and equipment, net $ 1,705 $ 1,696
+[END TABLE 062]
+
+[TABLE 063]
+Intangible assets not subject to amortization Amortizable intangible assets, net (a) Total intangible assets, net FCC licenses Other Total (in millions) Balance, June 30, 2023 $ 2,250 $ 642 $ 2,892 $ 192 $ 3,084 Amortization and other — — — ( 46 ) ( 46 ) Balance, June 30, 2024 $ 2,250 $ 642 $ 2,892 $ 146 $ 3,038 Acquisitions (b) — — — 33 33 Amortization and other (c) ( 66 ) ( 2 ) ( 68 ) ( 34 ) ( 102 ) Balance, June 30, 2025 $ 2,184 $ 640 $ 2,824 $ 145 $ 2,969
+[END TABLE 063]
+
+[TABLE 064]
+(a) Net of accumulated amortization of $ 441 million and $ 405 million as of June 30, 2025 and 2024, respectively. (b) See Note 3—Acquisitions, Disposals and Other Transactions. (c) Includes an impairment charge (See Note 2—Summary of Significant Accounting Policies under the heading “Goodwill and Other Intangible Assets”).
+[END TABLE 064]
+
+[TABLE 065]
+For the years ending June 30, 2026 2027 2028 2029 2030 (in millions) Estimated amortization expense (a) $ 37 $ 35 $ 29 $ 22 $ 14
+[END TABLE 065]
+
+[TABLE 066]
+(a) These amounts may vary as acquisitions and dispositions occur in the future.
+[END TABLE 066]
+
+[TABLE 067]
+Cable Network Programming Television Corporate and Other Total Goodwill (in millions) Balance, June 30, 2023 $ 1,059 $ 2,246 $ 254 $ 3,559 Other ( 15 ) — — ( 15 ) Balance, June 30, 2024 $ 1,044 $ 2,246 $ 254 $ 3,544 Acquisitions (a) 1 89 — 90 Other — 5 — 5 Balance, June 30, 2025 $ 1,045 $ 2,340 $ 254 $ 3,639
+[END TABLE 067]
+
+[TABLE 068]
+(a) See Note 3—Acquisitions, Disposals and Other Transactions.
+[END TABLE 068]
+
+[TABLE 069]
+Outstanding as of June 30, 2025 2024 (in millions) Public debt 3.050 % senior notes due 2025 $ — $ 600 4.709 % senior notes due 2029 2,000 2,000 3.500 % senior notes due 2030 600 600 6.500 % senior notes due 2033 1,250 1,250 5.476 % senior notes due 2039 1,250 1,250 5.576 % senior notes due 2049 1,550 1,550 Total public debt 6,650 7,250 Less: unamortized discount and debt issuance costs ( 48 ) ( 53 ) Total borrowings $ 6,602 $ 7,197
+[END TABLE 069]
+
+[TABLE 070]
+As of June 30, 2025 2024 (in millions) ROU assets $ 814 $ 904 Lease liabilities Current lease liabilities $ 41 $ 76 Non-current lease liabilities 822 879 Total lease liabilities $ 863 $ 955 Other supplemental information Weighted average remaining lease term 15 years 16 years Weighted average discount rate 5 % 5 %
+[END TABLE 070]
+
+[TABLE 071]
+For the years ended June 30, 2025 2024 2023 (in millions) Lease costs Total lease costs (a) $ 146 $ 147 $ 145 Supplemental cash flows information Operating cash flows from operating leases $ 125 $ 126 $ 119 ROU assets obtained in exchange for operating lease liabilities (b) $ 19 $ 36 $ 568
+[END TABLE 071]
+
+[TABLE 072]
+(a) Total lease costs are net of sublease income of approximately $ 15 million in each period. (b) The Company recorded an additional $ 540 million in operating lease assets and liabilities as of June 30, 2023, in connection with the extension of the operating lease for its corporate headquarters at 1211 Avenue of the Americas in New York through fiscal 2042.
+[END TABLE 072]
+
+[TABLE 073]
+As of June 30, 2025 (in millions) Fiscal Year 2026 $ 76 2027 72 2028 103 2029 96 2030 84 Thereafter 918 Total lease payments 1,349 Less: imputed interest ( 486 ) Present value of operating lease liabilities $ 863
+[END TABLE 073]
+
+[TABLE 074]
+For the years ended June 30, 2025 2024 2023 (in millions) Total cost of repurchases (a) $ 1,000 $ 1,000 $ 2,000 Total number of shares repurchased 21 40 54
+[END TABLE 074]
+
+[TABLE 075]
+(a) These amounts exclude any fees, commissions, excise taxes or other costs associated with the share repurchases.
+[END TABLE 075]
+
+[TABLE 076]
+For the years ended June 30, 2025 2024 2023 Cash dividend per share $ 0.54 $ 0.52 $ 0.50
+[END TABLE 076]
+
+[TABLE 077]
+For the year ended June 30, 2025 Before tax Tax benefit (provision) Net of tax (in millions) Benefit plan and cumulative translation adjustments Unrealized losses $ ( 32 ) $ 8 $ ( 24 ) Reclassifications realized in net income (a) 1 — 1 Cumulative translation adjustment 6 — 6 Other comprehensive loss $ ( 25 ) $ 8 $ ( 17 )
+[END TABLE 077]
+
+[TABLE 078]
+For the year ended June 30, 2024 Before tax Tax benefit (provision) Net of tax (in millions) Benefit plan adjustments and other Unrealized gains $ 47 $ ( 11 ) $ 36 Reclassifications realized in net income (a) 8 ( 2 ) 6 Other comprehensive income $ 55 $ ( 13 ) $ 42
+[END TABLE 078]
+
+[TABLE 079]
+For the year ended June 30, 2023 Before tax Tax benefit (provision) Net of tax (in millions) Benefit plan, cumulative translation adjustments and other Unrealized gains $ 79 $ ( 19 ) $ 60 Reclassifications realized in net income (a) 19 ( 5 ) 14 Cumulative translation adjustment 3 — 3 Other comprehensive income $ 101 $ ( 24 ) $ 77
+[END TABLE 079]
+
+[TABLE 080]
+(a) Reclassifications of amounts related to benefit plan adjustments are included in Non-operating other, net in the Statements of Operations (See Note 15—Pension and Other Postretirement Benefits for additional information).
+[END TABLE 080]
+
+[TABLE 081]
+As of June 30, 2025 2024 2023 (in millions) Benefit plan adjustments and other $ ( 126 ) $ ( 103 ) $ ( 145 ) Cumulative translation adjustment 2 ( 4 ) ( 4 ) Accumulated other comprehensive loss, net of tax $ ( 124 ) $ ( 107 ) $ ( 149 )
+[END TABLE 081]
+
+[TABLE 082]
+Fiscal 2025 Fiscal 2024 Fiscal 2023 Number of shares Weighted average grant- date fair value Number of shares Weighted average grant- date fair value Number of shares Weighted average grant- date fair value RSUs and PSUs Unvested units at beginning of the year 4,801 $ 35.20 4,284 $ 33.72 5,052 $ 32.53 Granted 1,945 37.58 3,209 35.13 2,314 34.31 Vested ( 1,685 ) 34.68 ( 2,153 ) 31.97 ( 2,092 ) 31.75 Cancelled ( 121 ) 39.57 ( 539 ) 35.28 ( 990 ) 33.30 Unvested units at the end of the year (a) 4,940 $ 36.75 4,801 $ 35.20 4,284 $ 33.72
+[END TABLE 082]
+
+[TABLE 083]
+(a) The intrinsic value of unvested RSUs and target PSUs as of June 30, 2025 was approximately $ 180 million.
+[END TABLE 083]
+
+[TABLE 084]
+Fiscal 2025 Fiscal 2024 Fiscal 2023 Number of options Weighted average exercise price Number of options Weighted average exercise price Number of options Weighted average exercise price Outstanding at the beginning of the year 18,326 $ 33.75 17,048 $ 33.12 14,250 $ 32.90 Granted 3,386 38.98 3,927 34.77 4,314 33.40 Exercised (a) ( 5,243 ) 32.67 ( 1,216 ) 27.85 ( 234 ) 28.76 Cancelled ( 192 ) 37.77 ( 1,433 ) 34.30 ( 1,282 ) 32.77 Outstanding at the end of the year (b) 16,277 $ 35.14 18,326 $ 33.75 17,048 $ 33.12 Exercisable at the end of the year (c) 5,907 $ 34.08 8,158 $ 32.95 5,282 $ 36.35 Weighted average grant-date fair value of options granted $ 11.67 $ 10.30 $ 10.32 Weighted average remaining contractual term of options outstanding at the end of the year 6.35 years 5.97 years 6.51 years Weighted average remaining contractual term of options exercisable at the end of the year 3.51 years 3.51 years 2.96 years
+[END TABLE 084]
+
+[TABLE 085]
+(a) During fiscal 2025, 2024 and 2023, the Company received approximately $ 171 million, $ 34 million and $ 7 million, respectively, in cash payments from the exercise of options. (b) The intrinsic value of options outstanding as of June 30, 2025, 2024 and 2023 was $ 340.2 million, $ 31.7 million and $ 37.1 million, respectively. (c) The intrinsic value of options exercisable as of June 30, 2025, 2024 and 2023 was $ 129.7 million, $ 28.7 million and $ 6.8 million, respectively.
+[END TABLE 085]
+
+[TABLE 086]
+For the years ended June 30, 2025 2024 2023 Expected volatility 30.17 % 31.63 % 35.00 % Risk-free interest rate 3.86 % 3.96 % 2.83 % Expected dividend yield 1.39 % 1.44 % 1.40 % Expected term 7.15 years 6.50 years 5.30 years
+[END TABLE 086]
+
+[TABLE 087]
+For the years ended June 30, 2025 2024 2023 (in millions) Equity-based compensation $ 135 $ 90 $ 74 Intrinsic value of all settled equity-based awards $ 134 $ 78 $ 77 Tax benefit on settled equity-based awards $ 24 $ 12 $ 14
+[END TABLE 087]
+
+[TABLE 088]
+As of June 30, 2025 Payments due by period Total 1 year 2 - 3 years 4 - 5 years After 5 years (in millions) Borrowings $ 6,650 $ — $ — $ 2,600 $ 4,050 Licensed programming 26,941 5,666 10,129 9,840 1,306 Other commitments and contractual obligations 1,595 464 704 262 165 Total commitments $ 35,186 $ 6,130 $ 10,833 $ 12,702 $ 5,521
+[END TABLE 088]
+
+[TABLE 089]
+Pension benefits Postretirement benefits As of June 30, 2025 2024 2025 2024 (in millions) Projected benefit obligation, beginning of the year $ 1,119 $ 1,172 $ 45 $ 47 Service cost 23 27 1 — Interest cost 57 61 2 2 Benefits paid ( 44 ) ( 43 ) ( 3 ) ( 3 ) Settlements (a) ( 37 ) ( 50 ) — — Actuarial losses (gains) (b) 37 ( 48 ) ( 1 ) ( 1 ) Projected benefit obligation, end of the year 1,155 1,119 44 45 Change in the fair value of plan assets for the Company’s benefit plans: Fair value of plan assets, beginning of the year 891 853 — — Actual return on plan assets 54 45 — — Employer contributions 40 86 3 3 Benefits paid ( 44 ) ( 43 ) ( 3 ) ( 3 ) Settlements (a) ( 37 ) ( 50 ) — — Fair value of plan assets, end of the year 904 891 — — Funded status (c) $ ( 251 ) $ ( 228 ) $ ( 44 ) $ ( 45 ) Grantor Trust assets (c) $ 265 $ 266 $ — $ —
+[END TABLE 089]
+
+[TABLE 090]
+(a) Represents the full settlement of former employees’ deferred pension benefit obligations through lump sum payments. (b) Actuarial losses for June 30, 2025 and actuarial gains for June 30, 2024 were primarily due to a change in the mortality assumption and higher interest rates, respectively, utilized in measuring the plan obligations. (c) The Company has established an irrevocable grantor trust (the “Grantor Trust”), administered by an independent trustee, with the intention of making cash contributions to the Trust to fund certain future pension benefit obligations of the Company. The assets in the Grantor Trust are unsecured funds of the Company and can be used to satisfy the Company’s obligations in the event of bankruptcy or insolvency.
+[END TABLE 090]
+
+[TABLE 091]
+Pension benefits Postretirement benefits As of June 30, 2025 2024 2025 2024 (in millions) Pension assets $ 10 $ 36 $ — $ — Accrued pension liabilities ( 261 ) ( 264 ) ( 44 ) ( 45 ) Net amounts recognized $ ( 251 ) $ ( 228 ) $ ( 44 ) $ ( 45 )
+[END TABLE 091]
+
+[TABLE 092]
+Pension benefits Postretirement benefits As of June 30, 2025 2024 2025 2024 (in millions) Actuarial losses (gains) $ 197 $ 169 $ ( 27 ) $ ( 30 )
+[END TABLE 092]
+
+[TABLE 093]
+Funded plans Unfunded plans As of June 30, 2025 2024 2025 2024 (in millions) Projected benefit obligation $ 894 $ 855 $ 261 $ 264 Accumulated benefit obligation 794 747 256 260 Fair value of plan assets 904 891 — (a) — (a)
+[END TABLE 093]
+
+[TABLE 094]
+(a) The fair value of the assets in the Grantor Trust as of June 30, 2025 and 2024 was $ 265 million and $ 266 million, respectively.
+[END TABLE 094]
+
+[TABLE 095]
+Pension benefits Postretirement benefits For the years ended June 30, 2025 2024 2023 2025 2024 2023 (in millions) Service cost $ 23 $ 27 $ 30 $ 1 $ — $ 1 Interest cost 57 61 52 2 2 2 Expected return on plan assets ( 50 ) ( 45 ) ( 40 ) — — — Amortization of deferred losses (gains) 5 12 23 ( 4 ) ( 4 ) ( 4 ) Net periodic benefit costs $ 35 $ 55 $ 65 $ ( 1 ) $ ( 2 ) $ ( 1 )
+[END TABLE 095]
+
+[TABLE 096]
+Pension benefits Postretirement benefits For the years ended June 30, 2025 2024 2023 2025 2024 2023 Additional information Weighted-average assumptions used to determine benefit obligations Discount rate 5.5 % 5.5 % 5.3 % 5.3 % 5.4 % 5.3 % Weighted-average assumptions used to determine net periodic benefit costs Discount rate for service cost 5.5 % 5.3 % 4.8 % 5.5 % 5.3 % 4.8 % Discount rate for interest cost 5.3 % 5.4 % 4.5 % 5.3 % 5.4 % 4.5 % Expected return on plan assets 5.6 % 5.3 % 5.0 % N/A N/A N/A
+[END TABLE 096]
+
+[TABLE 097]
+N/A – not applicable.
+[END TABLE 097]
+
+[TABLE 098]
+Postretirement benefits As of June 30, 2025 2024 Health care cost trend rate 6.4 % 6.6 % Rate to which the cost trend rate is assumed to decline (the ultimate trend rate) 4.9 % 4.9 % Year that the rate reaches the ultimate trend rate 2031 2031
+[END TABLE 098]
+
+[TABLE 099]
+Expected benefit payments Pension benefits Postretirement benefits (in millions) Fiscal year 2026 $ 88 $ 3 2027 87 4 2028 89 4 2029 96 4 2030 98 4 2031-2035 482 19
+[END TABLE 099]
+
+[TABLE 100]
+As of June 30, 2025 Fair value measurements at reporting date using Assets measured Total Level 1 at NAV (a) (in millions) Pension plan assets Pooled funds (b) Money market funds $ 35 $ 35 $ — Domestic equity funds 116 116 — Domestic fixed income funds (c) 582 582 — International equity funds 83 83 — Balanced funds 55 55 — Partnership interests 33 — 33 Total fair value of plan assets $ 904 $ 871 $ 33 Grantor Trust assets Pooled funds (b) Money market funds $ 8 $ 8 $ — Domestic fixed income funds (c) 68 68 — Balanced funds 60 60 — Domestic government obligations (d) 128 128 — Other (e) 1 1 — Total fair value of Grantor Trust assets $ 265 $ 265 $ —
+[END TABLE 100]
+
+[TABLE 101]
+As of June 30, 2024 Fair value measurements at reporting date using Assets measured Total Level 1 at NAV (a) (in millions) Pension plan assets Pooled funds (b) Money market funds $ 12 $ 12 $ — Domestic equity funds 156 156 — Domestic fixed income funds (c) 488 488 — International equity funds 118 118 — Balanced funds 69 69 — Partnership interests 48 — 48 Total fair value of plan assets $ 891 $ 843 $ 48 Grantor Trust assets Pooled funds (b) Money market funds $ 26 $ 26 $ — Domestic fixed income funds (c) 66 66 — Balanced funds 53 53 — Domestic government obligations (d) 120 120 — Other (e) 1 1 — Total fair value of Grantor Trust assets $ 266 $ 266 $ —
+[END TABLE 101]
+
+[TABLE 102]
+(a) Investments that are measured at fair value using the net asset value (“NAV”) per share (or its equivalent) as a practical expedient are excluded from the fair value hierarchy disclosure. These investments have monthly liquidity. (b) Pooled funds that have a readily determinable fair value are valued at the regularly published NAV. (c) Domestic fixed income funds consist primarily of investment grade securities. (d) Government obligations consist of investment grade securities whose fair value is based on observable market data obtained from dealers and brokers. (e) Includes cash and cash equivalents.
+[END TABLE 102]
+
+[TABLE 103]
+Pension benefits As of June 30, 2025 2024 Asset category Equity investments 22 % 31 % Fixed income investments, including cash 72 61 Other 6 8 Total 100 % 100 %
+[END TABLE 103]
+
+[TABLE 104]
+For the years ended June 30, 2025 2024 2023 (in millions) U.S. Federal $ 429 $ 300 $ 127 State, local and other 175 47 35 Total current 604 347 162 Deferred 164 203 321 Provision for income taxes $ 768 $ 550 $ 483
+[END TABLE 104]
+
+[TABLE 105]
+For the years ended June 30, 2025 2024 2023 U.S. federal income tax rate 21 % 21 % 21 % State and local taxes 3 4 4 Effect of enacted tax law changes — ( 2 ) 1 Valuation allowance movement — 2 2 Nondeductible compensation 1 1 — Effective tax rate 25 % 26 % 28 %
+[END TABLE 105]
+
+[TABLE 106]
+As of June 30, 2025 2024 (in millions) Deferred tax assets Basis difference (a) $ 2,288 $ 2,645 Operating lease liabilities 210 232 Sports rights contracts 90 — Net operating loss carryforwards 48 38 Tax credit carryforwards 45 96 Equity-based compensation 44 39 Other 339 238 Total deferred tax assets 3,064 3,288 Deferred tax liabilities Operating lease ROU assets ( 198 ) ( 220 ) Accrued liabilities ( 10 ) ( 24 ) Pension benefit obligations — ( 19 ) Sports rights contracts — ( 33 ) Total deferred tax liabilities ( 208 ) ( 296 ) Net deferred tax asset before valuation allowance 2,856 2,992 Less: valuation allowance ( 140 ) ( 119 ) Total net deferred tax assets (b) $ 2,716 $ 2,873
+[END TABLE 106]
+
+[TABLE 107]
+(a) As a result of the Transaction (See Note 14—Commitments and Contingencies under the heading "Other"), which was a taxable transaction for which the estimated tax liability of $ 5.8 billion was included in the transaction tax paid by the Company, FOX obtained a tax basis in its assets equal to their respective fair market values. This amount includes the remaining estimated deferred tax asset recorded as a result of the additional tax basis. (b) Includes a $ 5 million deferred tax liability recorded in Other liabilities in the Balance Sheets as of June 30, 2025 and 2024.
+[END TABLE 107]
+
+[TABLE 108]
+For the years ended June 30, 2025 2024 2023 (in millions) Balance, beginning of year $ 26 $ 26 $ 28 Additions for prior year tax positions (a) 26 6 2 Additions for current year tax positions — — 2 Reduction for prior year tax positions (b) ( 2 ) ( 6 ) ( 6 ) Balance, end of year $ 50 $ 26 $ 26
+[END TABLE 108]
+
+[TABLE 109]
+(a) The additions for prior year tax positions in fiscal 2025 is primarily due to federal tax matters related to the corporate alternative minimum tax. The additions for prior year tax positions in fiscal 2024 is primarily due to the impact of state tax law changes. (b) The reduction for tax positions was primarily due to audit settlements or the expiration of statutes of limitations.
+[END TABLE 109]
+
+[TABLE 110]
+For the years ended June 30, 2025 2024 2023 (in millions) Revenues Cable Network Programming $ 6,930 $ 5,955 $ 6,043 Television 9,325 7,875 8,710 Corporate and Other 244 209 217 Eliminations ( 199 ) ( 59 ) ( 57 ) Total revenues $ 16,300 $ 13,980 $ 14,913 Segment EBITDA Cable Network Programming $ 3,030 $ 2,693 $ 2,472 Television 945 506 1,009 Corporate and Other ( 351 ) ( 316 ) ( 290 ) Amortization of cable distribution investments ( 10 ) ( 16 ) ( 16 ) Depreciation and amortization ( 385 ) ( 389 ) ( 411 ) Restructuring, impairment and other corporate matters ( 350 ) ( 67 ) ( 1,182 ) Equity (losses) earnings of affiliates ( 29 ) ( 44 ) 4 Interest expense, net ( 227 ) ( 216 ) ( 218 ) Non-operating other, net 438 ( 47 ) 368 Income before income tax expense 3,061 2,104 1,736 Income tax expense ( 768 ) ( 550 ) ( 483 ) Net income 2,293 1,554 1,253 Less: Net income attributable to noncontrolling interests ( 30 ) ( 53 ) ( 14 ) Net income attributable to Fox Corporation stockholders $ 2,263 $ 1,501 $ 1,239
+[END TABLE 110]
+
+[TABLE 111]
+For the years ended June 30, 2025 2024 2023 (in millions) Reconciliation of Revenues to Segment EBITDA Cable Network Programming Revenues $ 6,930 $ 5,955 $ 6,043 Operating expenses ( 3,275 ) ( 2,668 ) ( 2,927 ) Selling, general and administrative ( 635 ) ( 610 ) ( 660 ) Amortization of cable distribution investments 10 16 16 Segment EBITDA $ 3,030 $ 2,693 $ 2,472 Television Revenues $ 9,325 $ 7,875 $ 8,710 Operating expenses ( 7,308 ) ( 6,372 ) ( 6,704 ) Selling, general and administrative ( 1,072 ) ( 997 ) ( 997 ) Segment EBITDA $ 945 $ 506 $ 1,009
+[END TABLE 111]
+
+[TABLE 112]
+For the years ended June 30, 2025 2024 2023 (in millions) Revenues by Segment by Component Cable Network Programming Affiliate fee $ 4,316 $ 4,188 $ 4,175 Advertising 1,531 1,262 1,403 Other 1,083 505 465 Total Cable Network Programming revenues 6,930 5,955 6,043 Television Advertising 5,334 4,182 5,204 Affiliate fee 3,340 3,136 2,876 Other 651 557 630 Total Television revenues 9,325 7,875 8,710 Corporate and Other 244 209 217 Eliminations ( 199 ) ( 59 ) ( 57 ) Total revenues $ 16,300 $ 13,980 $ 14,913
+[END TABLE 112]
+
+[TABLE 113]
+For the years ended June 30, 2025 2024 2023 (in millions) Depreciation and amortization Cable Network Programming $ 94 $ 77 $ 71 Television 119 117 126 Corporate and Other 172 195 214 Total depreciation and amortization $ 385 $ 389 $ 411
+[END TABLE 113]
+
+[TABLE 114]
+For the years ended June 30, 2025 2024 2023 (in millions) Capital expenditures Cable Network Programming $ 127 $ 161 $ 66 Television 82 76 96 Corporate and Other 122 108 195 Total capital expenditures $ 331 $ 345 $ 357
+[END TABLE 114]
+
+[TABLE 115]
+As of June 30, 2025 2024 (in millions) Assets Cable Network Programming $ 2,895 $ 2,792 Television 7,924 7,961 Corporate and Other 10,755 10,090 Investments 1,621 1,129 Total assets $ 23,195 $ 21,972
+[END TABLE 115]
+
+[TABLE 116]
+As of June 30, 2025 2024 (in millions) Goodwill and intangible assets, net Cable Network Programming $ 1,290 $ 1,288 Television 4,636 4,605 Corporate and Other 682 689 Total goodwill and intangible assets, net $ 6,608 $ 6,582
+[END TABLE 116]
+
+[TABLE 117]
+For the years ended June 30, 2025 2024 2023 (in millions, except per share amounts) Net income attributable to Fox Corporation stockholders $ 2,263 $ 1,501 $ 1,239 Weighted average shares - basic 455 478 529 Shares issuable under equity-based compensation plans (a) 6 2 2 Weighted average shares - diluted 461 480 531 Net income attributable to Fox Corporation stockholders per share - basic $ 4.97 $ 3.14 $ 2.34 Net income attributable to Fox Corporation stockholders per share - diluted $ 4.91 $ 3.13 $ 2.33
+[END TABLE 117]
+
+[TABLE 118]
+(a) Weighted average common shares include the incremental shares that would be issued upon the assumed vesting of RSUs, PSUs and stock options (including PSOs) if the effect is dilutive, and, for those shares that are contingently issuable, all necessary conditions have been satisfied for the periods presented (See Note 12—Equity-Based Compensation).
+[END TABLE 118]
+
+[TABLE 119]
+Balance as of beginning of year Additions Utilization Other Balance as of end of year (in millions) Fiscal 2025 Allowance for credit losses $ ( 44 ) $ ( 9 ) $ 3 $ — $ ( 50 ) Deferred tax valuation allowance ( 119 ) ( 15 ) 1 ( 7 ) ( 140 ) Fiscal 2024 Allowance for credit losses $ ( 44 ) $ ( 8 ) $ 5 $ 3 $ ( 44 ) Deferred tax valuation allowance ( 72 ) ( 52 ) 3 2 ( 119 ) Fiscal 2023 Allowance for credit losses $ ( 54 ) $ — $ 3 $ 7 $ ( 44 ) Deferred tax valuation allowance ( 34 ) ( 38 ) — — ( 72 )
+[END TABLE 119]
+
+[TABLE 120]
+For the years ended June 30, 2025 2024 2023 (in millions) Interest expense $ ( 403 ) $ ( 405 ) $ ( 349 ) Interest income 176 189 131 Total interest expense, net $ ( 227 ) $ ( 216 ) $ ( 218 )
+[END TABLE 120]
+
+[TABLE 121]
+For the years ended June 30, 2025 2024 2023 (in millions) Net gains (losses) on investments in equity securities (a) $ 449 $ ( 189 ) $ 403 Gain on sale of assets (b) — 166 — Other ( 11 ) ( 24 ) ( 35 ) Total non-operating other, net $ 438 $ ( 47 ) $ 368
+[END TABLE 121]
+
+[TABLE 122]
+(a) Net gains (losses) on investments in equity securities includes the gains (losses) related to the change in fair value of the Company’s investment in Flutter (See Note 6—Fair Value), and for the year ended June 30, 2024, the losses related to the Company’s investment in a live streaming mobile platform. (b) See Note 3—Acquisitions, Disposals and Other Transactions.
+[END TABLE 122]
+
+[TABLE 123]
+As of June 30, 2025 2024 (in millions) Investments (a) $ 1,621 $ 1,129 Operating lease assets 814 904 Inventories, net 742 712 Grantor Trust assets - long-term 246 247 Other 309 323 Total other non-current assets $ 3,732 $ 3,315
+[END TABLE 123]
+
+[TABLE 124]
+(a) Includes investments accounted for at fair value on a recurring basis of $ 1.2 billion and $ 797 million as of June 30, 2025 and 2024, respectively (See Note 6—Fair Value).
+[END TABLE 124]
+
+[TABLE 125]
+As of June 30, 2025 2024 (in millions) Accrued expenses $ 1,081 $ 1,006 Programming payable 1,070 683 Deferred revenue 299 180 Operating lease liabilities 41 76 Other current liabilities 406 408 Total accounts payable, accrued expenses and other current liabilities $ 2,897 $ 2,353
+[END TABLE 125]
+
+[TABLE 126]
+As of June 30, 2025 2024 (in millions) Non-current operating lease liabilities $ 822 $ 879 Accrued non-current pension/postretirement liabilities 276 276 Other non-current liabilities 243 211 Total other liabilities $ 1,341 $ 1,366
+[END TABLE 126]
+
+[TABLE 127]
+For the years ended June 30, 2025 2024 2023 (in millions) Supplemental cash flow information Cash paid for interest $ ( 402 ) $ ( 398 ) $ ( 345 ) Cash paid for income taxes $ ( 515 ) $ ( 232 ) $ ( 245 )
+[END TABLE 127]
+
+[TABLE 128]
+Number Description 2.1 Separation Agreement, dated as of March 19, 2019, between Twenty-First Century Fox, Inc. and Fox Corporation (the “ Registrant ” ) (incorporated herein by reference to Exhibit 2.1 to the Registrant ’ s Current Report on Form 8-K dated March 14, 2019 and filed with the Securities and Exchange Commission (the “ SEC ” ) on March 19, 2019 (the “ March 2019 Form 8-K ” ). ѱ 2.2 Tax Matters Agreement, dated as of March 19, 2019, between Twenty-First Century Fox, Inc., the Registrant and The Walt Disney Company (incorporated herein by reference to Exhibit 2.2 to the March 2019 Form 8-K). ѱ 3.1 Amended and Restated Certificate of Incorporation of the Registrant (incorporated herein by reference to Exhibit 3.1 to the Registrant’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2022). 3.2 Amended and Restated By-laws of the Registrant (incorporated herein by reference to Exhibit 3.1 to the Registrant’s Current Report on Form 8-K dated February 6, 2024 and filed with the SEC on February 7, 2024) . 4.1 Description of the Registrant’s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934.* 4.2 Indenture, dated as of January 25, 2019, between the Registrant and The Bank of New York Mellon, as trustee (incorporated by reference to Exhibit 4.1 to Amendment No. 2 to the Registration Statement on Form 10-12B/A filed with the SEC on January 25, 2019). 10.1 Fox Corporation 2019 Shareholder Alignment Plan (incorporated herein by reference to Exhibit 10.1 to the March 14, 2019 Form 8-K). + 10.2 Form of Amended and Restated Indemnification Agreement (incorporated herein by reference to Exhibit 10.1 to the Registrant’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2023). + 10.3 Form of Fox Corporation 2019 Shareholder Alignment Plan Restricted Stock Unit Terms and Conditions (incorporated herein by reference to Exhibit 10.3 to the Registrant’s Annual Report on Form 10-K for the year ended June 30, 2023). + 10.4 Form of Fox Corporation 2019 Shareholder Alignment Plan Non-Qualified Stock Option Terms and Conditions (incorporated herein by reference to Exhibit 10.4 to the March 2019 Form 8-K). + 10.5 Form of Fox Corporation 2019 Shareholder Alignment Plan Non-Qualified Stock Option Terms and Conditions FY 2025 Annual Grant (incorporated herein by reference to E xhibit 10.5 to the Reg istrant ’ s Annual Report on Form 10-K for the fiscal year ended June 30, 2024 ( the “ 2024 Form 10-K ” )) + 10.6 Form of Employment Agreement (incorporated herein by reference to Exhibit 10.1 to the Registrant’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2025). +
+[END TABLE 128]
+
+[TABLE 129]
+10.7 Letter Agreement between Lachlan K. Murdoch and News Corporation dated November 17, 2008 (incorporated herein by reference to Exhibit 10.6 to the March 2019 Form 10-Q). + 10.8 Letter Agreements between John P. Nallen and News Corporation dated January 1, 2005 and November 17, 2008, as amended through June 3, 2013 (incorporated herein by reference to Exhibit 10.7 to the March 2019 Form 10-Q). + 10.9 Letter A greement between Steven Tomsic and the Registrant dated November 17, 2023 (incorporated herein by reference to Exhibit 10.1 to the Registrant’s Quarterly Report on Form 10-Q for the quarter ended December 31, 2023 ). + 10.10 Transition and Separation Agreement, dated August 9, 2023, between the Registrant and Viet D. Dinh (incorporated herein by reference to Exhibit 10.1 to the Registrant’s Current Report on Form 8-K dated August 9, 2023 and filed with the SEC on August 11, 2023 (the “August 2023 Form 8-K”) ) . + 10.11 Advisory Services Agreement, dated August 9, 2023, by and among the Registrant, Viet D. Dinh, P.C. and Viet D. Dinh (incorporated herein by reference to Exhibit 10.2 to the August 2023 Form 8-K). + 10.12 Credit Agreement, dated as of June 14, 2023, among the Registrant, as Borrower, the initial lenders named therein, the initial issuing banks named therein, Citibank, N.A., as Administrative Agent, Deutsche Bank Securities Inc. and Goldman Sachs Bank USA, as Co-Syndication Agents, JPMorgan Chase Bank, N.A. and Morgan Stanley Senior Funding, Inc., as Co-Documentation Agents, and Citibank, N.A., Deutsche Bank Securities Inc., Goldman Sachs Bank USA, JPMorgan Chase Bank, N.A. and Morgan Stanley Senior Funding, Inc., as Joint Lead Arrangers and Joint Bookrunners (incorporated herein by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K dated June 14, 2023 and filed with the SEC on June 15, 2023). ѱ 10.13 Stockholders Agreement, dated as of November 6, 2019, by and between the Registrant and the Murdoch Family Trust (incorporated herein by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K dated November 5, 2019 and filed with the SEC on November 6, 2019). 19 Fox Corporation Insider Trading and Confidentiality Policy.* 21 Subsidiaries of the Registrant.* 23.1 Consent of Independent Registered Public Accounting Firm.* 31.1 Chief Executive Officer Certification required by Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934, as amended.* 31.2 Chief Financial Officer Certification required by Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934, as amended.* 32.1 Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of Sarbanes Oxley Act of 2002.** 97 Fox Corporation Clawback Policy (incorporated herein by reference to Exhibit 97 to the 2024 Form 10-K). 101 The following financial information from the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2025 formatted in Inline XBRL (eXtensible Business Reporting Language): (i) Consolidated Statements of Operations for the fiscal years ended June 30, 2025, 2024 and 2023; (ii) Consolidated Statements of Comprehensive Income for the fiscal years ended June 30, 2025, 2024 and 2023; (iii) Consolidated Balance Sheets as of June 30, 2025 and 2024; (iv) Consolidated Statements of Cash Flows for the fiscal years ended June 30, 2025, 2024 and 2023; (v) Consolidated Statements of Equity for the fiscal years ended June 30, 2025, 2024 and 2023 and (vi) Notes to the Consolidated Financial Statements.*
+[END TABLE 129]
+
+[TABLE 130]
+104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101).
+[END TABLE 130]
+
+[TABLE 131]
+ѱ Certain schedules and exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule or exhibit will be furnished supplementally to the SEC upon request. * Filed herewith. + This exhibit is a management contract or compensatory plan or arrangement. ** Furnished herewith.
+[END TABLE 131]
+
+[TABLE 132]
+Fox Corporation (Registrant) By: / S / Steven Tomsic Steven Tomsic Chief Financial Officer Date: August 6, 2025
+[END TABLE 132]
+
+[TABLE 133]
+Signature Title Date / S / Lachlan K. Murdoch Executive Chair and Chief Executive Officer (Principal Executive Officer) August 6, 2025 Lachlan K. Murdoch / S / Steven Tomsic Chief Financial Officer (Principal Financial and Accounting Officer) August 6, 2025 Steven Tomsic / S / Tony Abbott AC Director August 6, 2025 Tony Abbott / S / William A. Burck Director August 6, 2025 William A. Burck / S / Chase Carey Director August 6, 2025 Chase Carey / S / Roland A. Hernandez Director August 6, 2025 Roland A. Hernandez / S / Margaret L. Johnson Director August 6, 2025 Margaret L. Johnson / S / Paul D. Ryan Director August 6, 2025 Paul D. Ryan
+[END TABLE 133]

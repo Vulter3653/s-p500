@@ -1,0 +1,945 @@
+Item 8. Financial Statements and Supplementary Data
+
+CONSTELLATION BRANDS, INC. AND SUBSIDIARIES
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+FEBRUARY 28, 2025
+
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+Management of Constellation Brands, Inc. and subsidiaries (the Company) is responsible for establishing and maintaining an adequate system of internal control over financial reporting. This system is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles.
+
+The Company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, a system of internal control over financial reporting can provide only reasonable assurance and may not prevent or detect misstatements. Further, because of changes in conditions, effectiveness of internal controls over financial reporting may vary over time.
+
+Management conducted an evaluation of the effectiveness of the system of internal control over financial reporting based on the framework in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations (COSO) of the Treadway Commission. Based on that evaluation, management concluded that the Company’s internal control over financial reporting was effective as of February 28, 2025.
+
+The effectiveness of the Company’s internal control over financial reporting has been audited by KPMG LLP, an independent registered public accounting firm, as stated in their report which is included herein.
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and Board of Directors
+
+Constellation Brands, Inc.:
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Constellation Brands, Inc. and subsidiaries’ (the Company) internal control over financial reporting as of February 28, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of February 28, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of February 28, 2025 and February 29, 2024, the related consolidated statements of comprehensive income (loss), changes in stockholders’ equity, and cash flows for each of the fiscal years in the three-year period ended February 28, 2025, and the related notes (collectively, the consolidated financial statements), and our report dated April 23, 2025 expressed an unqualified opinion on those consolidated financial statements.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ KPMG LLP
+
+Rochester, New York
+
+April 23, 2025
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and Board of Directors
+
+Constellation Brands, Inc.:
+
+Opinion on the Consolidated Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Constellation Brands, Inc. and subsidiaries (the Company) as of February 28, 2025 and February 29, 2024, the related consolidated statements of comprehensive income (loss), changes in stockholders’ equity, and cash flows for each of the fiscal years in the three-year period ended February 28, 2025, and the related notes (collectively, the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of February 28, 2025 and February 29, 2024, and the results of its operations and its cash flows for each of the fiscal years in the three-year period ended February 28, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of February 28, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission, and our report dated April 23, 2025 expressed an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting .
+
+Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Unrecognized tax benefits
+
+As discussed in Notes 1 and 13 to the consolidated financial statements, the Company recognizes a tax benefit from an uncertain tax position when it is more likely than not that the position will be sustained upon examination. The Company has recorded unrecognized tax benefits of $ 318.9 million as of February 28, 2025.
+
+We identified the evaluation of certain of the Company’s unrecognized tax benefits as a critical audit matter. Specifically, complex auditor judgment, including the involvement of tax and valuation
+
+professionals with specialized skills and knowledge, was required in evaluating the Company’s interpretation of tax law and its estimate of the ultimate resolution of its tax positions.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company’s process to evaluate uncertain tax positions. This included controls related to the interpretation of tax law, its application in the liability estimation process, and the review of activity that could result in changes to the Company’s unrecognized tax benefits. We involved tax professionals with specialized skills and knowledge, who assisted in evaluating the Company’s interpretation of tax law and tax authority rulings and in performing an independent assessment of certain of the Company’s tax positions and the amount of unrecognized tax benefit, if any, and comparing the results to the Company’s assessment. We also involved valuation professionals with specialized skills and knowledge, who assisted in assessing certain transfer pricing studies for compliance with applicable laws and regulations.
+
+Fair value of the Wine and Spirits reporting unit
+
+As discussed in Notes 1, 7, and 8 to the consolidated financial statements, the Company performs goodwill impairment testing on an annual basis, or more frequently, if events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. During the three months ended August 31, 2024, in connection with negative trends within the Wine and Spirits business, the Company updated its outlook for the Wine and Spirits reporting unit. The updated forecast indicated it was more likely than not that the fair value of the reporting unit might be below its carrying value. Accordingly, the Company performed an interim quantitative assessment for goodwill impairment using a discounted cash flow model to estimate the fair value of this reporting unit. The assessment indicated that the carrying value of this reporting unit exceeded its estimated fair value, resulting in a $ 2,250.0 million goodwill impairment. During the three months ended February 28, 2025, the Company performed its annual impairment analysis and updated its estimate of the fair value of the Wine and Spirits reporting unit using a discounted cash flow model to reflect the latest financial projections and an increase in the discount rate. As a result, the Company recognized an additional $ 490.7 million goodwill impairment charge to write-off the remaining goodwill balance for the Wine and Spirits reporting unit as of February 28, 2025.
+
+We identified the evaluation of the fair value of the Wine and Spirits reporting unit as a critical audit matter. A high degree of subjective auditor judgment was required to evaluate the key assumptions used in the discounted cash flow model, including the discount rate, projected revenue growth rates and operating margins, and long-term growth rate. Changes to these key assumptions could have a significant impact on the fair value of the reporting unit. Additionally, specialized skills and knowledge were required to assess the discount rate and long-term growth rate assumptions used in determining the fair value.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company’s goodwill impairment assessment process, including controls related to the determination of the key assumptions used to estimate the fair value of the reporting unit. We evaluated the Company’s projected revenue growth rates and operating margins by comparing them to the Company’s historical performance and to relevant market data. In addition, we involved valuation professionals with specialized skills and knowledge, who assisted in:
+
+• evaluating the Company’s long-term growth rate by comparing it to market data for long-term industry and economic growth expectations
+
+• evaluating the Company’s discount rate by comparing it to a range of discount rates that were independently developed using publicly available market data for comparable companies.
+
+/s/ KPMG LLP
+
+We have served as the Company’s auditor since 2002.
+
+Rochester, New York
+
+April 23, 2025
+
+CONSTELLATION BRANDS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(in millions, except share and per share data)
+
+The accompanying notes are an integral part of these statements.
+
+CONSTELLATION BRANDS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+(in millions, except per share data)
+
+The accompanying notes are an integral part of these statements.
+
+CONSTELLATION BRANDS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+
+(in millions)
+
+The accompanying notes are an integral part of these statements.
+
+The accompanying notes are an integral part of these statements.
+
+CONSTELLATION BRANDS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+FEBRUARY 28, 2025
+
+1. DESCRIPTION OF BUSINESS, BASIS OF PRESENTATION, AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Description of business
+
+We operate primarily in the beverage alcohol industry with operations in the U.S., Mexico, New Zealand, and Italy producing a powerful portfolio of consumer-connected, high-end imported beer brands, and higher-end wine and spirits brands.
+
+Basis of presentation
+
+Principles of consolidation
+
+Our consolidated financial statements include our accounts and our majority-owned and controlled domestic and foreign subsidiaries. In addition, we have an equally-owned joint venture with Owens-Illinois. The joint venture owns and operates a state-of-the-art glass production plant which provides bottles exclusively for the Nava Brewery. We have determined that we are the primary beneficiary of this variable interest entity and accordingly, the results of operations of the joint venture are reported in the Beer segment and are included in our consolidated results of operations. All intercompany accounts and transactions are eliminated in consolidation.
+
+Reclassification
+
+We reclassified equity method investments to other assets on our consolidated balance sheet as of February 29, 2024, to conform with current year presentation.
+
+Equity method investments
+
+If we are not required to consolidate our investment in another entity, we use the equity method when we (i) can exercise significant influence over the other entity and (ii) hold common stock and/or in-substance common stock of the other entity. Under the equity method, investments are carried at cost, plus or minus our equity in the increases and decreases in the investee’s net assets after the date of acquisition. We monitor our equity method investments for factors indicating other-than-temporary impairment. Dividends received from the investee reduce the carrying amount of the investment.
+
+Management’s use of estimates
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+Summary of significant accounting policies
+
+Revenue recognition
+
+Our revenue (referred to in our financial statements as “sales”) consists primarily of the sale of beer, wine, and spirits domestically in the U.S. Sales of products are for cash or otherwise agreed-upon credit terms. Our payment terms vary by location and customer, however, the time period between when revenue is recognized and when payment is due is not significant. Our customers consist primarily of wholesale distributors. Our revenue generating activities have a single performance obligation and are recognized at the point in time when control transfers and our obligation has been fulfilled, which is when the related goods are shipped or delivered to the customer, depending upon the method of distribution, and shipping terms. We have elected to treat shipping as a fulfillment activity. Revenue is measured as the amount of consideration we expect to receive in exchange for the sale of our product. Our sales terms do not allow for a right of return except for matters related to any manufacturing defects on our part. Amounts billed to customers for shipping and handling are included in sales.
+
+As noted, the majority of our revenues are generated from the domestic sale of beer, wine, and spirits to wholesale distributors in the U.S. Our other revenue generating activities include the export of certain of our
+
+products to select international markets, as well as the sale of our products through state alcohol beverage control agencies, on-premise, retail locations in certain markets, and 3-tier eCommerce and DTC channels. We have evaluated these other revenue generating activities under the disaggregation disclosure criteria and concluded that they are immaterial for separate disclosure. See Note 22 for disclosure of net sales by product type.
+
+Sales reflect reductions attributable to consideration given to customers in various customer incentive programs, including pricing discounts on single transactions, volume discounts, promotional and advertising allowances, coupons, and rebates. This variable consideration is recognized as a reduction of the transaction price based upon expected amounts at the time revenue for the corresponding product sale is recognized. For example, customer promotional discount programs are entered into with certain distributors for certain periods of time. The amount ultimately reimbursed to distributors is determined based upon agreed-upon promotional discounts which are applied to distributors’ sales to retailers. Other common forms of variable consideration include volume rebates for meeting established sales targets, and coupons and mail-in rebates offered to the consumer. The determination of the reduction of the transaction price for variable consideration requires that we make certain estimates and assumptions that affect the timing and amounts of revenue and liabilities recognized. We estimate this variable consideration by taking into account factors such as the nature of the promotional activity, historical information, and current trends, availability of actual results and expectations of customer and consumer behavior.
+
+Excise taxes remitted to tax authorities are government-imposed excise taxes primarily on our beverage alcohol products. Excise taxes are shown on a separate line item as a reduction of sales and are recognized in our results of operations when the related product sale is recognized. Excise taxes are recognized as a current liability in other accrued expenses and liabilities, with the liability subsequently reduced when the taxes are remitted to the tax authority.
+
+Cost of product sold
+
+The types of costs included in cost of product sold are raw materials, packaging materials, manufacturing costs, plant administrative support and overheads, and freight and warehouse costs (including distribution network costs). Distribution network costs include inbound freight charges and outbound shipping and handling costs, purchasing and receiving costs, inspection costs, and warehousing and internal transfer costs.
+
+Selling, general, and administrative expenses
+
+The types of costs included in selling, general, and administrative expenses consist predominately of advertising and non-manufacturing administrative and overhead costs. We expense advertising (hereafter referred to as “marketing”) costs as incurred, shown, or distributed. Marketing expense for the years ended February 28, 2025, February 29, 2024, and February 28, 2023, was $ 931.2 million, $ 853.5 million, and $ 860.8 million, respectively.
+
+Foreign currency translation
+
+The functional currency of our foreign subsidiaries is generally the respective local currency. The translation from the applicable foreign currencies to U.S. dollars is performed for balance sheet accounts using exchange rates in effect at the balance sheet date and for revenue and expense accounts using a weighted average exchange rate for the period. The resulting translation adjustments are recognized as a component of AOCI. Gains or losses resulting from foreign currency denominated transactions are included in selling, general, and administrative expenses.
+
+Cash and cash equivalents
+
+Cash equivalents consist of highly liquid investments with an original maturity when purchased of three months or less and are stated at cost, which approximates fair value.
+
+Inventories
+
+Inventories are stated at the lower of cost (primarily computed in accordance with the first-in, first-out method) or net realizable value. Elements of cost include materials, labor, and overhead.
+
+Bulk wine inventories are included as in-process inventories within current assets, in accordance with the general practices of the wine industry, although a portion of such inventories may be aged for periods greater than one year. A substantial portion of barreled whiskey and brandy will not be sold within one year because of the duration of the aging process. All barreled spirits are classified as in-process inventories and are included in current assets, in accordance with industry practice. Warehousing, insurance, value added taxes, and other carrying charges applicable to barreled spirits held for aging are included in inventory costs.
+
+We assess the valuation of our inventories and reduce the carrying value of those inventories that are obsolete or in excess of our forecasted usage to their estimated net realizable value based on analyses and assumptions including, but not limited to, historical usage, future demand, and market requirements.
+
+Property, plant, and equipment
+
+Property, plant, and equipment is stated at cost. Major additions and improvements are recognized as an increase to the property accounts, while maintenance and repairs are expensed as incurred. The cost of properties sold or otherwise disposed of and the related accumulated depreciation are eliminated from the balance sheet accounts at the time of disposal and resulting gains and losses are included as a component of operating income (loss).
+
+Interest incurred relating to expansion, optimization, and construction of facilities is capitalized to construction in progress. We cease the capitalization of interest when construction activities are substantially completed and the facility and related assets are available for their intended use. At this point, construction in progress is transferred to the appropriate asset class.
+
+Depreciation
+
+Depreciation is computed primarily using the straight-line method over the following estimated useful lives:
+
+Derivative instruments
+
+We enter into derivative instruments to manage our exposure to fluctuations in foreign currency exchange rates, commodity prices, and interest rates. We enter into derivatives for risk management purposes only, including derivatives designated in hedge accounting relationships as well as those derivatives utilized as economic hedges. We do not enter into derivatives for trading or speculative purposes. We recognize all derivatives as either assets or liabilities and measure those instruments at estimated fair value (see Notes 6 and 7). We present our derivative positions gross on our balance sheets.
+
+The change in the fair value of outstanding cash flow hedges is deferred in stockholders’ equity as a component of AOCI. For all periods presented herein, gains or losses deferred in stockholders’ equity as a component of AOCI are recognized in our results of operations in the same period in which the hedged items are recognized and on the same financial statement line item as the hedged items.
+
+Changes in fair values for derivative instruments not designated in a hedge accounting relationship are recognized directly in our results of operations each period and on the same financial statement line item as the hedged item. For purposes of measuring segment operating performance, the net gain (loss) from the changes in fair value of our undesignated commodity derivative contracts, prior to settlement, is reported outside of segment operating results until such time that the underlying exposure is recognized in the segment operating results. Upon settlement, the net gain (loss) from the changes in fair value of the undesignated commodity derivative contracts is reported in the appropriate operating segment, allowing our operating segment results to reflect the
+
+economic effects of the commodity derivative contracts without the resulting unrealized mark to fair value volatility.
+
+Cash flows from the settlement of derivatives, including both economic hedges and those designated in hedge accounting relationships, appear on our statements of cash flows in the same categories as the cash flows of the hedged items.
+
+Fair value of financial instruments
+
+We calculate the estimated fair value of financial instruments using quoted market prices whenever available. When quoted market prices are not available, we use standard pricing models for various types of financial instruments (such as forwards, options, swaps, and convertible debt) which take into account the present value of estimated future cash flows (see Note 7).
+
+Goodwill and other intangible assets
+
+Goodwill is allocated to the reporting unit in which the business that created the goodwill resides. A reporting unit is an operating segment, or a business unit one level below that operating segment, for which discrete financial information is prepared and regularly reviewed by segment management. We review our goodwill and indefinite-lived intangible assets annually for impairment, or sooner, if events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. We use January 1 as our annual impairment test measurement date. Indefinite-lived intangible assets consist principally of trademarks. Intangible assets determined to have a finite life, primarily customer relationships, are amortized over their estimated useful lives and are subject to review for impairment when events or circumstances indicate that the carrying amount of an asset may not be recoverable. Note 9 provides a summary of intangible assets segregated between amortizable and nonamortizable amounts.
+
+Income taxes
+
+We use the asset and liability method of accounting for income taxes. This method accounts for deferred income taxes by applying statutory rates in effect at the balance sheet date to the difference between the financial reporting and tax bases of assets and liabilities. Certain income earned by foreign subsidiaries is subject to GILTI, a U.S. tax on foreign earnings. We treat the tax effect of GILTI as a current period tax expense when incurred. We provide deferred income taxes, consisting primarily of foreign withholding and state taxes, on all applicable unremitted earnings of our foreign subsidiaries. Interest and penalties are recognized as a component of (provision for) benefit from income taxes.
+
+We recognize a tax benefit from an uncertain tax position when it is more likely than not the position will be sustained upon examination. We measure and recognize the tax benefit from such a position based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. Due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the unrecognized tax benefit liabilities. In addition, changes in existing tax laws or rates could significantly change our current estimate of our unrecognized tax benefit liabilities. These differences will be reflected as increases or decreases to income tax expense in the period in which they are determined. Changes in current estimates, if significant, could have a material adverse impact on our financial statements.
+
+Leases
+
+We recognize right-of-use assets and lease liabilities on our balance sheet. We assess service arrangements to determine if an asset is explicitly or implicitly specified in the agreement and if we have the right to control the use of the identified asset.
+
+The right-of-use asset and lease liability are initially measured at the present value of future lease payments, discounted using the interest rate implicit in the lease or, if that rate cannot be readily determined, our secured incremental borrowing rate. The incremental borrowing rates are determined using a portfolio approach based on publicly available information in connection with our unsecured borrowing rates. We elected to recognize expenses for leases with a term of 12 months or less on a straight-line basis over the lease term and not to recognize these short-term leases on the balance sheet.
+
+The right-of-use asset and lease liability are calculated including options to extend or to terminate the lease when we determine that it is reasonably certain that we will exercise those options. In making that determination, we consider various existing economic and market factors, business strategies as well as the nature, length, and terms of the agreement. Based on our evaluation using these factors, we concluded that the exercise of renewal options or early termination options would not be reasonably certain in determining the lease term at commencement for leases we currently have in place. Assumptions made at the commencement date are re-evaluated upon occurrence of certain events such as a lease modification.
+
+Certain of our contractual arrangements may contain both lease and non-lease components. We elected to measure the lease liability by combining the lease and non-lease components as a single lease component for all asset classes.
+
+Certain of our leases include variable lease payments, including payments that depend on an index or rate, as well as variable payments for items such as raw materials, labor, property taxes, insurance, maintenance, and other operating expenses associated with leased assets. Certain grape purchasing arrangements include variable payments based on actual tonnage and price of grapes. In addition, certain third-party logistics arrangements include variable payments that vary depending on throughput. Such variable lease payments are excluded from the calculation of the right-of-use asset and the lease liability and are recognized in the period in which the obligation is incurred.
+
+Indemnification liabilities
+
+We have indemnified respective parties against certain liabilities that may arise in connection with certain acquisitions and divestitures. Indemnification liabilities are recognized when probable and estimable and included in deferred income taxes and other liabilities (see Note 16).
+
+Stock-based employee compensation
+
+We have two stock-based employee compensation plans (see Note 18). We apply grant date fair-value-based measurement methods in accounting for our stock-based payment arrangements and recognize all costs resulting from stock-based payment transactions, net of expected forfeitures, ratably over the requisite service period. Stock-based awards are subject to specific vesting conditions, generally time vesting, or upon retirement, disability, or death of the employee (as defined by the plan), if earlier. For awards granted to retirement-eligible employees, we recognize compensation expense ratably over the period from the date of grant to the date of retirement-eligibility.
+
+Net income (loss) per common share attributable to CBI
+
+We have one class of common stock with a material number of shares outstanding: Class A Stock. In addition, we have another class of common stock with an immaterial number of shares outstanding: Class 1 Stock. Prior to November 10, 2022, we had an additional class of common stock with a material number of shares outstanding: Class B Stock. For additional information on the classes of common stock and the Reclassification, see Note 17.
+
+For the years ended February 28, 2025, and February 29, 2024, net income (loss) per common share attributable to CBI (hereafter referred to as “net income (loss) per common share”) – basic for Class A Stock has been computed based on the weighted average shares of common stock outstanding during the period. Net income (loss) per common share – diluted for Class A Stock reflects the weighted average shares of common stock plus the effect of dilutive securities outstanding during the period using the treasury stock method. The effect of dilutive securities includes the impact of outstanding stock-based awards. The dilutive computation does not assume conversion, exercise, or contingent issuance of securities that would have an anti-dilutive effect on the net income (loss) per common share.
+
+For the year ended February 28, 2023, we used the two-class method for the computation and presentation of net income (loss) per common share. The two-class method is an earnings allocation formula that calculates basic and diluted net income (loss) per common share for each class of common stock separately based on dividends declared and participation rights in undistributed earnings as if all such earnings had been distributed during the period. Under the two-class method, Class A Stock was assumed to receive a 10 % greater participation
+
+in undistributed earnings (losses) than Class B Stock, in accordance with the respective minimum dividend rights of each class of stock.
+
+Net income (loss) per common share – basic excluded the effect of common stock equivalents and was computed using the two-class method. Net income (loss) per common share – diluted for Class A Stock reflected the potential dilution that could result if securities or other contracts to issue common stock were exercised or converted into common stock. Net income (loss) per common share – diluted for Class A Stock was computed using the more dilutive of the if-converted or two-class method. For the year ended February 28, 2023, net income (loss) per common share – diluted for Class A Stock was computed using the two-class method, until such conversion took place pursuant to the Reclassification. Net income (loss) per common share – diluted for Class B Stock was computed using the two-class method and did not assume conversion of Class B Stock into shares of Class A Stock.
+
+For additional information on net income (loss) per common share, see Note 19.
+
+Accounting pronouncements
+
+Recently adopted accounting pronouncement
+
+Segment reporting —
+
+In November 2023, the FASB issued a standard requiring disclosures, on an annual and interim basis, of significant segment expenses and other segment items that are regularly provided to the CODM as well as the title and position of the CODM. We adopted these disclosures for our annual period ending February 28, 2025. The amendments in this standard were applied retrospectively to all prior periods presented in the financial statements (see Note 22).
+
+Accounting pronouncements not yet adopted
+
+Income taxes —
+
+In December 2023, the FASB issued a standard to enhance the transparency and decision usefulness of income tax disclosures. This standard requires public companies to disclose (i) specific categories in the rate reconciliation and provide additional information for reconciling items that meet a quantitative threshold, (ii) the amount of income taxes paid disaggregated by federal, state, and foreign taxes and disaggregated by material individual jurisdictions, and (iii) income from continuing operations before income tax expense disaggregated between domestic and foreign and income tax expense from continuing operations disaggregated by federal, state, and foreign. We are required to adopt these disclosures for our annual period ending February 28, 2026, with early adoption permitted and this standard may be applied retrospectively. We expect this standard to impact our disclosures with no material impacts to our results of operations, cash flows, or financial condition.
+
+Disaggregation of income statement expenses —
+
+In November 2024, the FASB issued a standard requiring disaggregated information about certain income statement expense line items to be disclosed on an annual and interim basis. We are required to adopt these disclosures for our annual period ending February 29, 2028, with early adoption permitted and this standard may be applied retrospectively. We expect this standard to impact our disclosures with no material impacts to our results of operations, cash flows, or financial condition.
+
+2. ACQUISITIONS, DIVESTITURES, AND RESTRUCTURING
+
+Acquisitions
+
+Sea Smoke
+
+In June 2024, we acquired the Sea Smoke business, including a California-based luxury wine brand, vineyards, and a production facility for $ 158.7 million, net of closing and post-closing adjustments. This transaction also included the acquisition of goodwill, inventory, and a trademark. The results of operations of Sea Smoke are reported in the Wine and Spirits segment and have been included in our consolidated results of operations from the date of acquisition.
+
+Austin Cocktails
+
+In April 2022, we acquired the remaining 73 % ownership interest in Austin Cocktails, which included a portfolio of small batch, ready-to-drink cocktails. This transaction primarily included the acquisition of goodwill and a trademark. In addition, the purchase price for Austin Cocktails includes an earn-out over five years based on performance. The results of operations of Austin Cocktails are reported in the Wine and Spirits segment and have been included in our consolidated results of operations from the date of acquisition.
+
+Lingua Franca
+
+In March 2022, we acquired the Lingua Franca business, including a collection of Oregon-based luxury wines, a vineyard, and a production facility. This transaction also included the acquisition of a trademark and inventory. In addition, the purchase price for Lingua Franca includes an earn-out over seven years based on performance. The results of operations of Lingua Franca are reported in the Wine and Spirits segment and have been included in our consolidated results of operations from the date of acquisition.
+
+Divestitures
+
+SVEDKA Divestiture
+
+On January 6, 2025, we sold the SVEDKA brand and related assets, primarily including inventory and equipment. The net cash proceeds from the SVEDKA Divestiture were used for general corporate purposes, including funding share repurchases, capital expenditures, and repayment of debt. Prior to the SVEDKA Divestiture, we recorded the results of operations of the SVEDKA brand in the Wine and Spirits segment. The following table summarizes the net gain recognized in connection with this divestiture, for the year ended February 28, 2025:
+
+(1) Included in gain (loss) on sale of business within our consolidated results of operations.
+
+Craft Beer Divestitures
+
+In June 2023, we completed the Craft Beer Divestitures. Prior to the Craft Beer Divestitures, we recorded the results of operations of such craft beer brands in the Beer segment.
+
+2022 Wine Divestiture
+
+On October 6, 2022, we sold certain of our mainstream and premium wine brands and related inventory. The net cash proceeds from the 2022 Wine Divestiture were utilized primarily to reduce outstanding borrowings. Prior to the 2022 Wine Divestiture, we recorded the results of operations of these brands in the Wine and Spirits segment. The following table summarizes the net gain recognized in connection with this divestiture, for the year ended February 28, 2023:
+
+(1) Includes certain contract termination costs.
+
+(2) Included in gain (loss) on sale of business within our consolidated results of operations.
+
+Assets held for sale
+
+The 2025 Wine Divestitures Transaction largely resulted in both (i) $ 879.8 million of wine and spirits net assets being reclassified to held for sale as of February 28, 2025, and (ii) a $ 478.0 million assets held for sale
+
+impairment. The impairment loss was included in assets held for sale impairment within our consolidated results of operations for the year ended February 28, 2025. The carrying value of assets held for sale as of February 28, 2025, consisted of the following:
+
+(1) Liabilities held for sale are included in the Consolidated Balance Sheet as of February 28, 2025, within other accrued expenses and liabilities.
+
+2025 Restructuring Initiative
+
+The 2025 Restructuring Initiative is an enterprise-wide cost savings and restructuring initiative designed to help optimize the performance of our business, including through enhanced organizational efficiency and optimized expenditures across our organization. The majority of the work associated with the 2025 Restructuring Initiative is expected to be completed within the year ending February 28, 2026, and is estimated to result in $ 80 million to $ 100 million of cumulative pre-tax costs once all phases are fully implemented. This range is estimated to be comprised of (i) employee termination costs ( 60 %) and (ii) consulting services as well as other costs, which primarily include contract termination costs ( 40 %). We recognized $ 49.7 million of pre-tax restructuring costs during the year ended February 28, 2025, comprised of (i) $ 46.9 million of employee termination costs and (ii) $ 2.8 million of consulting services costs that were included in selling, general, and administrative costs within our consolidated results. As of February 28, 2025, the $ 49.7 million of pre-tax restructuring costs were captured in accrued restructuring within other accrued expenses and liabilities in the Consolidated Balance Sheet (see Note 11). We anticipate incurring approximately $ 40 million of additional pre-tax consulting services, employee termination, and other costs during the year ending February 28, 2026.
+
+Subsequent event
+
+2025 Wine Divestitures Transaction
+
+In April 2025, we entered into a definitive agreement to fully divest and, in certain instances, exclusively license the trademarks of a portion of our wine and spirits business, primarily centered around our remaining mainstream wine brands and associated inventory, wineries, vineyards, offices, and facilities for $ 900 million, subject to certain adjustments. The 2025 Wine Divestitures Transaction is subject to the satisfaction of certain closing conditions, including receipt of required regulatory approval, and is expected to close immediately following the end of our first quarter of Fiscal 2026. We expect to use the net cash proceeds from the 2025 Wine Divestitures Transaction for general corporate purposes.
+
+3. INVENTORIES
+
+The components of inventories are as follows:
+
+The inventories balance as of February 28, 2025, excludes amounts reclassified to assets held for sale.
+
+4. PREPAID EXPENSES AND OTHER
+
+The major components of prepaid expenses and other are as follows:
+
+The prepaid expenses and other balance at February 28, 2025, excludes an amount reclassified to assets held for sale.
+
+5. PROPERTY, PLANT, AND EQUIPMENT
+
+The major components of property, plant, and equipment are as follows:
+
+(1) We capitalized $ 74.2 million, $ 63.7 million, and $ 36.5 million of interest costs for the years ended February 28, 2025, February 29, 2024, and February 28, 2023, respectively, primarily due to the Mexico Beer Projects.
+
+(2) Initial production at the Veracruz Brewery is expected to commence in late Fiscal 2026 or early Fiscal 2027.
+
+The property, plant, and equipment balance at February 28, 2025, and February 29, 2024, excludes amounts reclassified to assets held for sale. In July 2024, we sold the remaining assets classified as held for sale at the Mexicali Brewery.
+
+6. DERIVATIVE INSTRUMENTS
+
+Overview
+
+We are exposed to market risk from changes in foreign currency exchange rates, commodity prices, and interest rates, that could affect our results of operations and financial condition. The impact on our results and financial position and the amounts reported in our financial statements will vary based upon the currency, commodity, and interest rate movements during the period, the effectiveness and level of derivative instruments outstanding, and whether they are designated and qualify for hedge accounting.
+
+The estimated fair values of our derivative instruments change with fluctuations in currency rates, commodity prices, and/or interest rates and are expected to offset changes in the values of the underlying exposures. Our derivative instruments are held solely to manage our exposures to the aforementioned market risks as part of our normal business operations. We follow strict policies to manage these risks and do not enter into derivative instruments for trading or speculative purposes.
+
+The aggregate notional value of outstanding derivative instruments is as follows:
+
+Cash flow hedges
+
+Our derivative instruments designated in hedge accounting relationships are designated as cash flow hedges. We are exposed to foreign denominated cash flow fluctuations primarily in connection with third party and intercompany sales and purchases. We primarily use foreign currency forward contracts to hedge certain of these risks. In addition, we utilize interest rate swap, treasury lock, and swap lock contracts periodically to manage our exposure to changes in interest rates. Derivatives managing our cash flow exposures generally mature within three years or less, with a maximum maturity of five years .
+
+To qualify for hedge accounting treatment, the details of the hedging relationship must be formally documented at inception of the arrangement, including the risk management objective, hedging strategy, hedged item, specific risk that is being hedged, the derivative instrument, how effectiveness is being assessed, and how ineffectiveness will be measured. The derivative must be highly effective in offsetting changes in the cash flows of the risk being hedged. Throughout the term of the designated cash flow hedge relationship on at least a quarterly basis, a retrospective evaluation and prospective assessment of hedge effectiveness is performed based on quantitative and qualitative measures. All components of our derivative instruments’ gains or losses are included in the assessment of hedge effectiveness.
+
+When we determine that a derivative instrument which qualified for hedge accounting treatment has ceased to be highly effective as a hedge, we discontinue hedge accounting prospectively. In the event the relationship is no longer effective, we recognize the change in the fair value of the hedging derivative instrument from the date the hedging derivative instrument became no longer effective immediately in our results of operations. We also discontinue hedge accounting prospectively when (i) a derivative expires or is sold,
+
+terminated, or exercised; (ii) it is no longer probable that the forecasted transaction will occur; or (iii) we determine that designating the derivative as a hedging instrument is no longer appropriate. When we discontinue hedge accounting prospectively, but the original forecasted transaction continues to be probable of occurring, the existing gain or loss of the derivative instrument remains in AOCI and is reclassified into earnings (losses) when the forecasted transaction occurs. When it becomes probable that the forecasted transaction will not occur, any remaining gain or loss in AOCI is recognized immediately in our results of operations.
+
+We expect $ 17.3 million of net gains, net of income tax effect, to be reclassified from AOCI to our results of operations within the next 12 months.
+
+Undesignated hedges
+
+Certain of our derivative instruments do not qualify for hedge accounting treatment; for others, we choose not to maintain the required documentation to apply hedge accounting treatment. These undesignated instruments are primarily used to economically hedge our exposure to fluctuations in the value of foreign currency denominated receivables and payables; foreign currency investments, primarily consisting of loans to subsidiaries and foreign-denominated investments, and cash flows related primarily to the repatriation of those loans or investments; and commodity prices, including aluminum, corn, diesel fuel, and natural gas prices. We primarily use foreign currency forward and option contracts, generally less than 12 months in duration, and commodity swap contracts, generally less than 36 months in duration, with a maximum maturity of four years , to hedge some of these risks. In addition, from time to time, we utilize interest rate swap contracts, generally less than six months in duration, to economically hedge our exposure to changes in interest rates associated with the financing of significant investments and acquisitions. Our derivative policy permits the use of undesignated derivatives as approved by senior management.
+
+Credit risk
+
+We are exposed to credit-related losses if the counterparties to our derivative contracts default. This credit risk is limited to the fair value of the derivative contracts. To manage this risk, we contract only with major financial institutions that have earned investment-grade credit ratings and with whom we have standard International Swaps and Derivatives Association agreements which allow for net settlement of the derivative contracts. We have also established counterparty credit guidelines that are regularly monitored. Because of these safeguards, we believe the risk of loss from counterparty default to be immaterial.
+
+In addition, our derivative instruments are not subject to credit rating contingencies or collateral requirements. As of February 28, 2025, the estimated fair value of derivative instruments in a net liability position due to counterparties was $ 20.5 million. If we were required to settle the net liability position under these derivative instruments on February 28, 2025, we would have had sufficient available liquidity on hand to satisfy this obligation.
+
+Results of period derivative activity
+
+The estimated fair value and location of our derivative instruments on our balance sheets are as follows (see Note 7):
+
+The principal effect of our derivative instruments designated in cash flow hedging relationships on our results of operations, as well as OCI, net of income tax effect, is as follows:
+
+The effect of our undesignated derivative instruments on our results of operations is as follows:
+
+7. FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+Authoritative guidance establishes a framework for measuring fair value, including a hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. The hierarchy includes three levels:
+
+• Level 1 inputs are quoted prices in active markets for identical assets or liabilities;
+
+• Level 2 inputs include data points that are observable such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical assets or similar assets or liabilities in markets that are not active, and inputs (other than quoted prices) such as volatility, interest rates, and yield curves that are observable for the asset or liability, either directly or indirectly; and
+
+• Level 3 inputs are unobservable data points for the asset or liability, and include situations where there is little, if any, market activity for the asset or liability.
+
+Fair value methodology
+
+The following methods and assumptions are used to estimate the fair value of our financial instruments:
+
+Foreign currency and commodity derivative contracts
+
+The fair value is estimated using market-based inputs, obtained from independent pricing services, entered into valuation models. These valuation models require various inputs, including contractual terms, market foreign exchange prices, market commodity prices, interest-rate yield curves, and currency volatilities, as applicable (Level 2 fair value measurement).
+
+Interest rate swap and Pre-issuance hedge contracts
+
+The fair value is estimated based on quoted market prices from respective counterparties. Quotes are corroborated by using discounted cash flow models based upon forward interest-rate yield curves, which are obtained from independent pricing services (Level 2 fair value measurement).
+
+Short-term borrowings
+
+Our short-term borrowings consist of our commercial paper program and the revolving credit facility under our senior credit facility. The revolving credit facility is a variable interest rate bearing note with a fixed margin, adjustable based upon our debt rating (as defined in our senior credit facility). For these short-term borrowings the carrying value approximates the fair value.
+
+Long-term debt
+
+The fair value of our fixed interest rate long-term debt is estimated by discounting cash flows using interest rates currently available for debt with similar terms and maturities (Level 2 fair value measurement). As of February 28, 2025, the carrying amount of long-term debt, including the current portion, was $ 10,691.0 million, compared with an estimated fair value of $ 9,990.0 million. As of February 29, 2024, the carrying amount of long-term debt, including the current portion, was $ 11,637.9 million, compared with an estimated fair value of $ 10,775.8 million.
+
+The carrying amounts of certain of our financial instruments, including cash and cash equivalents, accounts receivable, and accounts payable, approximate fair value as of February 28, 2025, and February 29, 2024, due to the relatively short maturity of these instruments.
+
+Recurring basis measurements
+
+The following table presents our financial assets and liabilities measured at estimated fair value on a recurring basis:
+
+Nonrecurring basis measurements
+
+The following table presents our assets and liabilities measured at estimated fair value on a nonrecurring basis for which an impairment assessment was performed for the periods presented:
+
+Goodwill
+
+During the three months ended August 31, 2024, in connection with continued negative trends within our Wine and Spirits business primarily attributable to our U.S. wholesale market, driven by declines in both the overall wine market and in our mainstream and premium wine brands, management updated its Fiscal 2025 outlook for this reporting unit. The updated forecast indicated it was more likely than not the fair value of the Wine and Spirits reporting unit might be below its carrying value. Accordingly, we performed an interim quantitative assessment for goodwill impairment. This assessment indicated that the carrying value of the Wine and Spirits reporting unit exceeded its estimated fair value, resulting in a $ 2,250.0 million goodwill impairment. During the three months ended February 28, 2025, we performed our annual impairment analysis and updated our estimate of the fair value of the Wine and Spirits reporting unit to reflect the latest financial projections and an increase in the discount rate. As a result, we recognized an additional $ 490.7 million goodwill impairment to write-off the remaining goodwill balance for the Wine and Spirits reporting unit as of February 28, 2025. The $ 2,740.7 million total loss from impairment was included in goodwill and intangible assets impairment within our consolidated results for the year ended February 28, 2025. See Notes 8, 9, and 13 for further discussion.
+
+When performing a quantitative assessment for impairment of goodwill, we measure the amount of impairment by calculating the amount by which the carrying value exceeds its estimated fair value. The estimated fair value is determined based on the discounted cash flow model. The most significant assumptions used in the discounted cash flow model were: (i) a 9 % discount rate (for the interim assessment) and a 10 % discount rate (for the annual assessment), (ii) a 1.5 % expected long-term growth rate, and (iii) the annual cash flow projections.
+
+Assets held for sale
+
+For the three months ended February 28, 2025, largely in connection with the 2025 Wine Divestitures Transaction, assets held for sale with a $ 1,357.8 million carrying value, were written down to their current estimated fair value of $ 879.8 million, less costs to sell, resulting in a $ 478.0 million loss. This loss from impairment was included within assets held for sale impairment within our consolidated results for the year ended February
+
+28, 2025. These assets consisted primarily of inventory, production facilities, and intangible assets which had satisfied the conditions necessary to be classified as held for sale. Our estimated fair value was largely based on the expected proceeds from the 2025 Wine Divestitures Transaction as of February 28, 2025.
+
+Trademarks
+
+For the year ended February 28, 2025, in connection with the assessment of the same events and circumstances that resulted in the wine and spirits goodwill carrying value being written down to zero, we completed a quantitative assessment of our wine trademarks. We re-evaluated the wine units of account in contemplation of the 2025 Wine Divestitures Transaction and determined it was appropriate to have two reporting units, (i) held for sale brands and (ii) remaining brands. As a result, the held for sale brands trademark unit with a $ 182.8 million carrying value was written down to its estimated fair value of $ 125.8 million, resulting in a $ 57.0 million impairment. This loss was included in goodwill and intangible assets impairment within our consolidated results of operations for the year ended February 28, 2025.
+
+When performing the quantitative assessment, the estimated fair value of the trademarks is calculated based on an income approach using the relief from royalty method. The most significant assumptions used in the relief from royalty method to determine the estimated fair value of intangible assets with indefinite lives in connection with this impairment testing were: (i) a 3 % royalty rate (held for sale brands trademark unit) and a 7 % royalty rate (remaining brands trademark unit), (ii) an 11 % discount rate, (iii) a 1.5 % expected long-term growth rate, and (iv) the annual revenue projections.
+
+For the year ended February 28, 2023, in connection with certain continued negative trends within our Beer segment’s Funky Buddha and Four Corners craft beer portfolios, we updated our long-term financial forecasts for these portfolios. As a result, the Funky Buddha and Four Corners craft beer trademark assets with a carrying value of $ 13.0 million were written-off, resulting in an impairment of $ 13.0 million. This loss was included in goodwill and intangible assets impairment within our consolidated results of operations for the year ended February 28, 2023. The estimated fair value of these trademark assets was determined based on our updated cash flow projections. Additionally, in June 2023, we completed the Funky Buddha Divestiture and the Four Corners Divestiture.
+
+Equity method investments
+
+As of February 28, 2025, August 31, 2024, November 30, 2023, and August 31, 2023, we evaluated certain equity method investments, made through our corporate venture capital function within the Corporate Operations and Other segment, and determined there were other-than-temporary impairments due to business underperformance. These losses from impairment were included in income (loss) from unconsolidated investments within our consolidated results for the respective periods. The estimated fair values for the equity method investments evaluated as of February 28, 2025, August 31, 2024, and November 30, 2023, were based largely on the cash flows expected to be generated by the investment using unobservable data points. The estimated fair value for the equity method investments evaluated as of August 31, 2023, was based largely on observable prices for similar assets. In October 2023, we exited one of these equity method investments in exchange for a note receivable.
+
+We evaluated our then-existing Canopy Equity Method Investment as of May 31, 2023, and determined there was an other-than-temporary impairment. Our conclusion was based on several contributing factors, including: (i) the fair value being less than the carrying value and the uncertainty surrounding Canopy’s stock price recovering in the near-term, (ii) Canopy recorded significant costs in its fourth quarter of fiscal 2023 results designed to align its Canadian cannabis operations and resources in response to continued unfavorable market trends, (iii) the substantial doubt about Canopy’s ability to continue as a going concern, as disclosed by Canopy, and (iv) C anopy’s identification of material misstatements in certain of its previously reported financial results related to sales in its BioSteel Sports Nutrition Inc. reporting unit that were accounted for incorrectly, including the recording of a goodwill impairment during its restated second quarter of fiscal 2023. As a result, the Canopy Equity Method Investment with a carrying value of $ 266.2 million was written down to its estimated fair value of $ 142.7 million, resulting in an impairment of $ 123.5 million. This loss from impairment was included in income (loss) from unconsolidated investments within our consolidated results for the year ended February 29, 2024. The estimated fair value was determined based on the closing price of the underlying equity security as of May 31,
+
+2023. Additionally, we no longer apply the equity method to our investment in Canopy following the April 2024 conversion of our Canopy common shares to Exchangeable Shares. For additional information, refer to Note 10.
+
+As of August 31, 2022, we evaluated our then-existing Canopy Equity Method Investment and determined there was an other-than-temporary impairment based on several contributing factors, including: (i) the period of time for which the fair value had been less than the carrying value and the uncertainty surrounding Canopy’s stock price recovering in the near-term, (ii) Canopy recording a significant impairment of goodwill related to its cannabis operations during its first quarter of fiscal 2023, and (iii) the uncertainty of U.S. federal cannabis permissibility. As a result, the Canopy Equity Method Investment with a carrying value of $ 1,695.1 million was written down to its estimated fair value of $ 634.8 million, resulting in an impairment of $ 1,060.3 million. This loss from impairment was included in income (loss) from unconsolidated investments within our consolidated results for the year ended February 28, 2023. The estimated fair value was determined based on the closing price of the underlying equity security as of August 31, 2022.
+
+Long-lived assets
+
+For the year ended February 28, 2023, in connection with certain continued negative trends within our Beer segment’s craft beer business, management updated its long-term financial forecasts for this business and determined it was no longer part of the beer asset group. This change in financial forecasts indicated it was more likely than not the fair value of our long-lived assets associated with the craft beer business might be below its carrying value. Accordingly, we performed a quantitative assessment for impairment. As a result, certain long-lived assets with a carrying value of $ 59.8 million were written down to their estimated fair value of $ 6.3 million, resulting in a loss of $ 53.5 million. This loss was included in selling, general, and administrative expenses within our consolidated results of operations for the year ended February 28, 2023. These assets consisted primarily of property, plant, and equipment, including the Daleville Facility. Our estimated fair value was primarily based on the cash flows expected to be generated by the assets. Additionally, in May 2023, we sold the Daleville Facility in connection with our decision to exit the craft beer business.
+
+8. GOODWILL
+
+The changes in the carrying amount of goodwill are as follows:
+
+(1) Purchase accounting allocations associated with the Domaine Curry acquisition.
+
+(2) Preliminary purchase accounting allocations associated with the Sea Smoke acquisition.
+
+(3) Allocation was based on the relative fair value of the portion of the business sold and the remaining wine and spirits portfolio. The relative fair values were determined using the transaction price and the income approach based on assumptions, including projected revenue growth, terminal growth, and discount rates and other projected financial information.
+
+9. INTANGIBLE ASSETS
+
+The major components of intangible assets are as follows:
+
+(1) The balance at February 28, 2025, was impacted by (i) assets reclassified to held for sale and (ii) a wine asset impairment.
+
+We did not incur costs to renew or extend the term of acquired intangible assets for the years ended February 28, 2025, February 29, 2024, and February 28, 2023. Net carrying amount represents the gross carrying value net of accumulated amortization. Amortization expense for intangible assets was $ 1.3 million, $ 1.3 million, and $ 3.2 million for the years ended February 28, 2025, February 29, 2024, and February 28, 2023, respectively.
+
+Estimated amortization expense for each of the five succeeding fiscal years and thereafter is as follows:
+
+10. OTHER ASSETS
+
+The major components of other assets are as follows:
+
+Equity method investments
+
+The carrying value of our equity method investments are as follows:
+
+(1) Following the April 2024 conversion to Exchangeable Shares we no longer apply the equity method.
+
+Other investments in debt and equity securities
+
+We have multiple investments through our corporate venture capital function in debt and equity securities. As of February 28, 2025, we evaluated certain investments, primarily driven by business underperformance and solvency concerns, and concluded they should be written down to zero resulting in a loss of $ 47.9 million. This loss on securities measured at fair value was included in income (loss) from unconsolidated investments within our consolidated results for the year ended February 28, 2025.
+
+Exchangeable Shares
+
+As of November 30, 2024, we evaluated the Exchangeable Shares for impairment primarily due to the business and industry factors that led to the decline in Canopy’s common share price since the date of conversion and exchange. We concluded that an impairment did exist and wrote down the Exchangeable Shares to their estimated fair value. Due to the continued decline in Canopy’s common share price, as of February 28, 2025, we evaluated the Exchangeable Shares for an additional impairment. We concluded an impairment did exist, and accordingly, the Exchangeable Shares with a $ 97.3 million carrying value at the April 2024 date of conversion and exchange were written down to $ 21.2 million, their estimated fair value as of February 28, 2025, resulting in a $ 76.1 million total impairment. The estimated fair values were determined using the same valuation model as of the date of conversion and exchange as noted below. This total loss from impairment was included in income (loss) from unconsolidated investments within our consolidated results for the year ended February 28, 2025. Future impairments, if any, will also be reported in income (loss) from unconsolidated investments within our consolidated results.
+
+In April 2024, we elected to convert our 17.1 million Canopy common shares into Exchangeable Shares on a one-for-one basis. Additionally, in April 2024, we exchanged C$ 81.2 million of the principal amount of the C$ 100.0 million 4.25 % promissory note issued to us by Canopy for 9.1 million Exchangeable Shares and forgave all accrued but unpaid interest together with the remaining principal amount of the note. As a result of these transactions, we (i) have 26.3 million Exchangeable Shares and (ii) recognized an $ 83.3 million net gain in income (loss) from unconsolidated investments within our consolidated results for the year ended February 28, 2025. The fair value of Exchangeable Shares on the date of the conversion and exchange was estimated using a valuation model based primarily on the following inputs: (i) Canopy’s common share price, (ii) the expected volatility of Canopy’s common shares, and (iii) the probability and timing of U.S. federal legalization of recreational cannabis. As the Exchangeable Shares are an equity security without a readily determinable fair value, we elected to account for the Exchangeable Shares under the measurement alternative method.
+
+11. OTHER ACCRUED EXPENSES AND LIABILITIES
+
+The major components of other accrued expenses and liabilities are as follows:
+
+(1) Represents amounts accrued as of February 28, 2025 in connection with the 2025 Restructuring Initiative.
+
+12. BORROWINGS
+
+Borrowings consist of the following:
+
+Bank facilities
+
+Senior credit facility
+
+In October 2022, the Company, CB International, the Administrative Agent, and certain other lenders agreed to amend the 2022 Credit Agreement. The October 2022 Credit Agreement Amendment revised certain defined terms and covenants and became effective in April 2024 following the (i) amendment by Canopy of its Articles of Incorporation, (ii) conversion of our Canopy common shares into Exchangeable Shares, and (iii) resignation of our nominees from the board of directors of Canopy.
+
+In April 2022, the Company, CB International, the Administrative Agent, and certain other lenders entered into the 2022 Restatement Agreement that amended and restated our then-existing senior credit facility (as
+
+amended and restated by the 2022 Restatement Agreement, the 2022 Credit Agreement). The principal changes effected by the 2022 Restatement Agreement were the:
+
+• refinance and increase of the existing revolving credit facility from $ 2.0 billion to $ 2.25 billion and extension of its maturity to April 14, 2027;
+
+• refinement of certain negative covenants; and
+
+• replacement of LIBOR rates with rates based on term SOFR.
+
+April 2022 Term Credit Agreement
+
+In April 2022, the Company, the Administrative Agent, and the Lender amended our then-existing credit agreement (as amended, the April 2022 Term Credit Agreement). The April 2022 Term Credit Agreement provided for a $ 491.3 million five year term loan facility. The principal changes effected by the amendment were the refinement of certain negative covenants and replacement of LIBOR rates with rates based on term SOFR. In August 2023, we repaid the outstanding five-year term loan facility borrowings under the April 2022 Term Credit Agreement with proceeds from commercial paper borrowings.
+
+August 2022 Term Credit Agreement
+
+In August 2022, the Company, the Administrative Agent, and certain other lenders entered into the August 2022 Term Credit Agreement. The August 2022 Term Credit Agreement provided for a $ 1.0 billion term loan facility and was not subject to amortization payments, with the balance due and payable three years after the November 10, 2022, funding date. The proceeds from the August 2022 Term Credit Agreement were used to partially fund the aggregate cash payment to holders of Class B Stock in connection with the Reclassification and to pay related fees as well as fees related to closing the August 2022 Term Credit Agreement. In February 2023, we repaid a portion of our indebtedness under the August 2022 Term Credit Agreement with proceeds from senior notes issued in February 2023. In May 2023, we repaid the remaining outstanding borrowings under the August 2022 Term Credit Agreement with proceeds from senior notes issued in May 2023. For additional information, refer to “Senior notes” below.
+
+General
+
+We and our subsidiaries are subject to covenants that are contained in the 2022 Credit Agreement, including those restricting the incurrence of additional subsidiary indebtedness, additional liens, mergers and consolidations, transactions with affiliates, and sale and leaseback transactions, in each case subject to numerous conditions, exceptions, and thresholds. The financial covenants are limited to a minimum interest coverage ratio and a maximum net leverage ratio.
+
+Our senior credit facility permits us to elect, subject to the willingness of existing or new lenders to fund such increase and other customary conditions, to increase the revolving credit commitments. The increased commitments may be an unlimited amount so long as our net leverage ratio, as defined and computed pursuant to our senior credit facility, is no greater than 4.00 to 1.00 subject to certain limitations for the period defined pursuant to our senior credit facility.
+
+Information with respect to borrowings under the 2022 Credit Agreement is as follows:
+
+(1) Net of outstanding revolving credit facility borrowings and outstanding letters of credit under the 2022 Credit Agreement and outstanding borrowings under our commercial paper program of $ 808.0 million and
+
+$ 241.5 million (excluding unamortized discount) for the years ended February 28, 2025, and February 29, 2024, respectively (see “Commercial paper program” below).
+
+(2) Contractual interest rate varies based on our debt rating (as defined in the agreement) and is a function of SOFR plus a margin and a credit spread adjustment, or the base rate plus a margin, or, in certain circumstances where SOFR cannot be adequately ascertained or available, an alternative benchmark rate plus a margin.
+
+(3) We and/or CB International are the borrower under the $ 2,250.0 million revolving credit facility with a maturity date of April 14, 2027. Includes a sub-facility for letters of credit of up to $ 200.0 million.
+
+Commercial paper program
+
+We have a commercial paper program which provides for the issuance of up to an aggregate principal amount of $ 2.25 billion of commercial paper. Our commercial paper program is backed by unused commitments under our revolving credit facility under our 2022 Credit Agreement. Accordingly, outstanding borrowings under our commercial paper program reduce the amount available under our revolving credit facility. Information with respect to our outstanding commercial paper borrowings is as follows:
+
+(1) Outstanding commercial paper borrowings are net of unamortized discount.
+
+Pre-issuance hedge contracts
+
+We entered into Pre-issuance hedge contracts, which were designated as cash flow hedges. As a result, we have hedged the treasury rate on $ 300.0 million of future debt issuances, of which $ 275.0 million was outstanding, as of February 28, 2025. Upon the termination and settlement of these contracts, the unrealized gain (loss) is recognized in AOCI within our consolidated balance sheets and amortized to interest expense, net within our consolidated results of operations.
+
+Senior notes
+
+Information on o ur senior notes is as follows:
+
+(1) Amounts are net of unamortized debt issuance costs and unamortized discounts, where applicable.
+
+(2) Senior unsecured obligations which rank equally in right of payment to all of our existing and future senior unsecured indebtedness.
+
+(3) Redeemable, in whole or in part, at our option at any time at a redemption price equal to 100 % of the outstanding principal amount, plus accrued and unpaid interest and a make-whole payment based on the present value of the future payments at the applicable treasury rate plus 50 basis points.
+
+(4) Redeemable, in whole or in part, at our option at any time prior to the stated redemption date as defined in the indenture, at a redemption price equal to 100 % of the outstanding principal amount, plus accrued and unpaid interest and a make-whole payment based on the present value of the future payments at the applicable treasury rate plus the stated basis points as defined in the indenture. On or after the stated redemption date, redeemable, in whole or in part, at our option at any time at a redemption price equal to 100 % of the outstanding principal amount, plus accrued and unpaid interest.
+
+(5) Redeemable, in whole or in part, at our option at any time at a redemption price equal to 100 % of the outstanding principal amount, plus accrued and unpaid interest.
+
+Indentures
+
+Our indentures relating to our outstanding senior notes contain certain covenants, including, but not limited to: (i) a limitation on liens on certain assets, (ii) a limitation on certain sale and leaseback transactions, and (iii) restrictions on mergers, consolidations, and the transfer of all or substantially all of our assets to another person.
+
+Subsidiary credit facilities
+
+General
+
+We have additional credit arrangements totaling $ 46.7 million and $ 67.7 million as of February 28, 2025, and February 29, 2024, respectively. As of February 28, 2025, and February 29, 2024, amounts outstanding under these arrangements were $ 8.7 million and $ 17.8 million, respectively, the majority of which is classified as long-term as of the respective date. These arrangements primarily support the financing needs of our domestic and foreign subsidiary operations. Interest rates and other terms of these borrowings vary from country to country, depending on local market conditions.
+
+Debt payments
+
+As of February 28, 2025, the required principal repayments under long-term debt obligations (excluding unamortized debt issuance costs and unamortized discounts of $ 47.0 million and $ 20.7 million, respectively) for each of the five succeeding fiscal years and thereafter are as follows:
+
+13. INCOME TAXES
+
+Income (loss) before income taxes was generated as follows:
+
+The income tax provision (benefit) consisted of the following:
+
+A reconciliation of the total tax provision (benefit) to the amount computed by applying the statutory U.S. federal income tax rate to income before provision for (benefit from) income taxes is as follows:
+
+(1) Includes differences resulting from adjustments to the current and deferred state effective tax rates.
+
+(2) Consists of the following (i) difference between the U.S. statutory rate and local jurisdiction tax rates, (ii) the provision for incremental U.S. taxes on earnings of certain foreign subsidiaries offset by foreign tax credits,
+
+(iii) the non-U.S. portion of tax provision (benefit) recorded on the unrealized net gain (loss) from the changes in fair value of our investment in Canopy, and (iv) the non-U.S. portion of tax benefits recorded on the Canopy equity in earnings (losses) and related activities.
+
+(3) The years ended February 29, 2024, and February 28, 2023, represent a net income tax provision resulting from the remeasurement of our deferred tax assets in connection with a legislative update in Switzerland.
+
+(4) Represents the recognition of the income tax effect of stock-based compensation awards in the income statement when the awards vest or are settled.
+
+(5) The year ended February 28, 2025, consists primarily of valuation allowances related to net operating losses and the years ended February 29, 2024, and February 28, 2023, consists primarily of valuation allowances related to our investment in Canopy.
+
+Deferred tax assets and liabilities reflect the future income tax effects of temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and are measured using enacted tax rates that apply to taxable income. Additionally, we have provided deferred income taxes, consisting primarily of foreign withholding and state taxes, on all applicable unremitted earnings of our foreign subsidiaries, except for those earnings that we consider to be indefinitely reinvested.
+
+Significant components of deferred tax assets (liabilities) consist of the following:
+
+In assessing the realizability of deferred tax assets, we consider whether it is more likely than not that some or all of the deferred tax assets will not be realized. In making this assessment, we consider the projected reversal of deferred tax liabilities and projected future taxable income as well as tax planning strategies. Based upon this assessment, we believe it is more likely than not that we will realize the benefits of these deductible differences, net of any valuation allowances.
+
+As of February 28, 2025, operating loss carryforwards, which are primarily state and foreign, totaling $ 3.2 billion are being carried forward in a number of jurisdictions where we are permitted to use tax operating losses from prior periods to reduce future taxable income. Of these operating loss carryforwards, $ 1.7 billion will expire by fiscal 2032, $ 850.0 million will expire between fiscal 2033 and fiscal 2045, and $ 650.0 million may be carried forward indefinitely in certain jurisdictions. Additionally, as of February 28, 2025, federal capital losses totaling $ 1.4 billion are being carried forward in multiple jurisdictions; and will expire, if unused, between Fiscal 2029 and fiscal 2034.
+
+We have recognized valuation allowances for operating loss carryforwards and other deferred tax assets when we believe it is more likely than not that these items will not be fully realized. The increase in our valuation allowances as of February 28, 2025, primarily related to operating loss carryforwards.
+
+The liability for income taxes associated with uncertain tax positions, excluding interest and penalties, and a reconciliation of the beginning and ending unrecognized tax benefit liabilities is as follows:
+
+As of February 28, 2025, and February 29, 2024, we had $ 438.4 million and $ 488.5 million, respectively, of unrecognized tax benefit liabilities, including interest and penalties, recognized on our balance sheets. These liabilities are primarily recorded as non-current as of the balance sheet date.
+
+As of February 28, 2025, we had $ 318.9 million of unrecognized tax benefit liabilities, of which $ 183.4 million if recognized would decrease the effective tax rate in the year of resolution. As of February 29, 2024, we had $ 416.1 million of unrecognized tax benefit liabilities that if recognized would decrease the effective tax rate in the year of resolution.
+
+We file U.S. federal income tax returns and various state, local, and foreign income tax returns. Major tax jurisdictions where we are subject to examination by tax authorities include Italy, Mexico, New Zealand, Switzerland, and the U.S. Various U.S. state and foreign income tax examinations are currently in progress. It is reasonably possible that the liability associated with our unrecognized tax benefit liabilities will increase or decrease within the next 12 months as a result of these examinations or the expiration of statutes of limitation. As of February 28, 2025, we estimate that unrecognized tax benefit liabilities could change by a range of $ 100 million to $ 250 million. With few exceptions, we are no longer subject to U.S. federal, state, local, or foreign income tax examinations for fiscal years prior to February 28, 2022.
+
+We provide for additional tax expense based on probable outcomes of ongoing tax examinations and assessments in various jurisdictions. While it is often difficult to predict the outcome or the timing of resolution of any tax matter, we believe the reserves reflect the probable outcome of known tax contingencies. Unfavorable settlement of any particular issue would require the use of cash.
+
+14. DEFERRED INCOME TAXES AND OTHER LIABILITIES
+
+The major components of deferred income taxes and other liabilities are as follows:
+
+15. LEASES
+
+General
+
+We primarily lease certain vineyards, office and production facilities, warehouses, production equipment, and vehicles. We have concluded that certain grape purchasing arrangements associated with the purchase of grape production yielded from a specified block of a vineyard and certain third-party logistics arrangements contain a lease.
+
+Balance sheet location
+
+A summary of lease right-of-use assets and liabilities are as follows:
+
+Lease cost
+
+The components of total lease cost are as follows:
+
+Lease maturities
+
+As of February 28, 2025, minimum payments due for lease liabilities for each of the five succeeding fiscal years and thereafter are as follows:
+
+Related party transaction
+
+We have a long-term lease for office space with an affiliate of a director.
+
+Supplemental information
+
+(1) Our leases have varying terms with remaining lease terms of up to approximately 30 years. Certain of our lease arrangements provide us with the option to extend or to terminate the lease early.
+
+16. COMMITMENTS AND CONTINGENCIES
+
+Purchase commitments and contingencies
+
+We have entered into various long-term contracts in the normal course of business. As of February 28, 2025, the estimated aggregate minimum purchase commitments under these contracts through the date of the last contractual commitment are as follows:
+
+(1) Certain grape purchasing arrangements include the purchase of grape production yielded from specified blocks of a vineyard. The actual tonnage and price of grapes that we purchase will vary each year depending on certain factors, including weather, time of harvest, overall market conditions, and the agricultural practices and location of the vineyard. Amounts included herein for the estimated aggregate minimum grape purchase commitments consist of estimates for the purchase of the grapes and the implicit leases of the land. Certain grape purchasing arrangements classified as leases have not resulted in the recognition of right-of-use assets and lease liabilities on our balance sheet due to their variable nature.
+
+(2) Consists of purchase commitments entered into primarily in connection with the Mexico Beer Projects.
+
+We expect a portion of our purchase commitments under these contracts to transfer with the 2025 Wine Divestitures Transaction.
+
+Indemnification liabilities
+
+In connection with prior divestitures, we have indemnified respective parties against certain liabilities that may arise subsequent to the divestiture. As of February 28, 2025, and February 29, 2024, these liabilities consist primarily of indemnifications related to certain income tax matters and lease contracts. As of February 28, 2025, and February 29, 2024, the carrying amount of our indemnification liabilities was $ 18.4 million and $ 32.9 million, respectively, and are included in other accrued expenses and liabilities and deferred income taxes and other
+
+liabilities. We do not expect to be required to make material payments under the indemnifications and we believe that the likelihood is remote that the indemnifications could have a material adverse effect on our business, liquidity, financial condition, and/or results of operations.
+
+Supply chain finance program
+
+We have an agreement with a financial institution for payment services and facilitate a voluntary supply chain finance program through this participating financial institution. The program is available to certain of our suppliers allowing them the option to manage their cash flow. We are not a party to the agreements between the participating financial institution and the suppliers in connection with the program. Our rights and obligations to our suppliers, including amounts due and scheduled payment terms, are not impacted. We account for payments made under the supply chain finance program the same as our other accounts payable , as a reduction to our cash flow from operating activities.
+
+The changes in outstanding obligations under our supply chain finance program are as follows:
+
+(1) Reflects amounts settled through the supply chain finance program and paid to the financial institution.
+
+(2) Reflects amount payable to the participating financial institution for suppliers who voluntarily participated in the supply chain finance program and was included in accounts payable within our consolidated balance sheets.
+
+Legal matters
+
+In the ordinary course of our business, we are subject to lawsuits, arbitration, claims, and other legal proceedings in connection with our business. Some of the legal actions include claims for substantial or unspecified compensatory and/or punitive damages and/or injunctive relief. A substantial adverse judgment or other unfavorable resolution of these matters could have a material adverse effect on our financial condition, results of operations, or cash flows. Management believes that we have adequate legal defenses with respect to the legal proceedings to which it is a defendant or respondent and that the outcome of these pending proceedings is not likely to have a material adverse effect on our financial condition, results of operations, and/or cash flows. However, we are unable to predict the outcome of these matters.
+
+Regulatory matters
+
+We are in discussions with various governmental agencies concerning matters raised during regulatory examinations or otherwise subject to such agencies’ inquiry. These matters could result in censures, fines, or other sanctions. Management believes the outcome of any pending regulatory matters will not have a material adverse effect on our financial condition, results of operations, and/or cash flows. However, we are unable to predict the outcome of these matters.
+
+Insurance recoveries
+
+During the year ended February 29, 2024, we recorded $ 56.3 million of business interruption and other recoveries from our insurance carriers. These recoveries related to an outage at our Nava Brewery due to severe winter weather events in early 2021. These proceeds are included in our consolidated results of operations for the year ended February 29, 2024.
+
+17. STOCKHOLDERS’ EQUITY
+
+Common stock
+
+We have one class of common stock with a material number of shares outstanding: Class A Stock. Holders of Class A Stock are entitled to one vote per share. In addition, we have a class of common stock with an immaterial number of shares outstanding: Class 1 Stock. Shares of Class 1 Stock generally have no voting rights. Class 1 Stock shares are convertible into shares of Class A Stock on a one-to-one basis at any time at the option of the holder, provided that the holder immediately sells the Class A Stock acquired upon conversion. Because shares of Class 1 Stock are convertible into shares of Class A Stock, for each share of Class 1 Stock issued, we must reserve one share of Class A Stock for issuance upon the conversion of the share of Class 1 Stock. Holders of Class 1 Stock do not have any preference as to dividends, but may participate in any dividend if and when declared by the Board of Directors. If we pay a cash dividend on Class 1 Stock, each share of Class A Stock will receive an amount at least 10 % greater than the amount of cash dividend per share paid on Class 1 Stock. In addition, the Board of Directors may declare and pay a dividend on Class A Stock without paying a dividend on Class 1 Stock.
+
+Prior to the Reclassification, we had an additional class of common stock with a material number of shares outstanding: Class B Stock. Shares of Class B Stock were convertible into shares of Class A Stock on a one-to-one basis at any time at the option of the holder. Holders of Class B Stock were entitled to 10 votes per share. See “Reclassification” below for additional information.
+
+The number of shares of common stock issued and treasury stock, and associated share activity, are as follows:
+
+(1) Shares of our Class B Treasury Stock were retired to authorized and unissued shares of our Class B Stock prior to completing the Reclassification.
+
+(2) Includes shares of Class B Stock issued and outstanding immediately prior to the Effective Time that were reclassified, exchanged, and converted into one share of Class A Stock and the right to receive $ 64.64 in cash, without interest (see “Reclassification” below).
+
+(3) Net of the following shares withheld to satisfy tax withholding requirements:
+
+Stock repurchases
+
+In January 2018, our Board of Directors authorized the repurchase of up to $ 3.0 billion of our publicly traded common stock, which was fully utilized as of May 31, 2022. Additionally, in each of January 2021 and November 2023, our Board of Directors authorized the repurchase of up to $ 2.0 billion of our publicly traded common stock. The 2021 Authorization was fully utilized as of November 30, 2024. The Board of Directors did not specify a date upon which these authorizations would expire. Shares repurchased under these authorizations become treasury shares.
+
+A summary of share repurchase activity is as follows:
+
+Subsequent to February 28, 2025, we repurchased 494,094 shares of Class A Stock pursuant to the 2025 Authorization at an aggregate cost of $ 91.7 million through open market transactions. As of April 23, 2025, total shares repurchased under our board authorizations are as follows:
+
+(1) In April 2025, we announced that our Board of Directors authorized the repurchase of up to $ 4.0 billion of our publicly traded common stock expiring in February 2028. The 2025 Authorization replaced the 2023 Authorization in its entirety and no further repurchases will be made pursuant to the 2023 Authorization. Shares repurchased under the 2025 Authorization have become treasury shares.
+
+(2) As of April 23, 2025, $ 3,908.3 million remains available for future share repurchases, excluding the impact of Federal excise tax owed pursuant to the IRA.
+
+Reclassification
+
+In November 2022, we completed the Reclassification at the Effective Time as contemplated by the Reclassification Agreement. Pursuant to the Reclassification, each share of Class B Stock issued and outstanding immediately prior to the Effective Time was reclassified, exchanged, and converted into one share of Class A Stock and the right to receive $ 64.64 in cash, without interest. The aggregate cash payment to holders of Class B Stock at the Effective Time was $ 1.5 billion. We utilized our $ 1.0 billion delayed draw three-year term loan facility under the August 2022 Term Credit Agreement and borrowings under our commercial paper program to fund the aggregate cash payment to holders of Class B Stock.
+
+Common stock dividends
+
+In April 2025, our Board of Directors declared a quarterly cash dividend of $ 1.02 per share of Class A Stock and $ 0.92 per share of Class 1 Stock payable in the first quarter of Fiscal 2026.
+
+Purchase of noncontrolling interest
+
+In October 2024, we purchased the remaining 25 % noncontrolling interest in Nelson’s Green Brier, a portfolio of Tennessee-based craft bourbon and whiskey products.
+
+18. STOCK-BASED EMPLOYEE COMPENSATION
+
+We have two stock-based employee compensation plans (as further discussed below). Total compensation cost recognized for our stock-based awards and income tax benefits related thereto are as follows:
+
+(1) The majority is included in selling, general, and administrative expenses.
+
+Long-Term Stock Incentive Plan
+
+Under our Long-Term Stock Incentive Plan, nonqualified stock options, restricted stock units, performance share units, and other stock-based awards may be granted to our employees, officers, and directors. The aggregate number of shares of our Class A Stock and Class 1 Stock available for awards under our Long-Term Stock Incentive Plan is 108,000,000 shares.
+
+The exercise price, vesting period, and term of nonqualified stock options granted are established by the committee administering the plan (the “Committee”). The exercise price of any nonqualified stock option may not be less than the fair market value of our Class A Stock on the date of grant. Nonqualified stock options generally vest and become exercisable over a three-year period from the date of grant and expire as established by the Committee, but not later than 10 years after the grant date.
+
+Grants of restricted stock units, performance share units, and other stock-based awards may contain such vesting periods, terms, conditions, and other requirements as the Committee may establish. Restricted stock unit awards are based on service and generally vest over one to three years from the date of grant. Performance share unit awards are based on service and the satisfaction of certain performance conditions, and vest over a required employee service period, generally from one to three years from the date of grant, which closely matches the performance period. The performance conditions include the achievement of specified financial or operational performance metrics, or market conditions which require the achievement of specified levels of stockholder return relative to other companies as defined in the applicable performance share unit agreement. The actual number of shares to be awarded upon vesting of a performance share unit award will range between 0 % and 200 % of the target award, based upon the measure of performance as certified by the Committee.
+
+A summary of stock option activity under our Long-Term Stock Incentive Plan is as follows:
+
+As of February 28, 2025, the aggregate intrinsic value of our options outstanding and exercisable was $ 12.6 million and $ 12.6 million, respectively. In addition, the weighted average remaining contractual life for our options outstanding and exercisable was 5.5 years and 4.9 years, respectively.
+
+The fair value of stock options vested, and the intrinsic value of and tax benefit realized from the exercise of stock options, are as follows:
+
+The weighted average grant-date fair value of stock options granted and the weighted average inputs used to estimate the fair value on the date of grant using the Black-Scholes option-pricing model are as follows:
+
+(1) Based on historical experience of employees’ exercise behavior for similar type awards.
+
+(2) Based primarily on historical volatility levels of our Class A Stock.
+
+(3) Based on the implied yield currently available on U.S. Treasury zero coupon issues with a remaining term equal to the expected life.
+
+(4) Based on the calculated yield on our Class A Stock at date of grant using the current fiscal year projected annualized dividend distribution rate.
+
+A summary of restricted stock unit and performance share unit activity under our Long-Term Stock Incentive Plan is as follows:
+
+(1) Reflects the net number of awards achieved above (below) target levels based on actual performance measured at the end of the performance period.
+
+The fair value of shares vested for our restricted stock unit and performance share unit awards is as follows:
+
+The weighted average grant-date fair value of performance share units granted with a market condition and the weighted average inputs used to estimate the fair value on the date of grant using the Monte Carlo Simulation model are as follows:
+
+(1) Based primarily on historical volatility levels of our Class A Stock.
+
+(2) Based on the implied yield currently available on U.S. Treasury zero coupon issues with a remaining term equal to the performance period.
+
+(3) No expected dividend yield as units granted earn dividend equivalents .
+
+Employee Stock Purchase Plan
+
+We have an Employee Stock Purchase Plan under which 9,000,000 shares of Class A Stock may be issued. Under the terms of the plan, eligible employees may purchase shares of our Class A Stock through payroll deductions. The purchase price is the lower of 85 % of the fair market value of the stock on the first or last day of the purchase period. For the years ended February 28, 2025, February 29, 2024, and February 28, 2023, employees purchased 67,405 shares, 59,408 shares, and 57,284 shares, respectively, under this plan.
+
+Other
+
+As of February 28, 2025, there was $ 57.6 million of total unrecognized compensation cost related to nonvested stock-based compensation arrangements granted under our stock-based employee compensation plans. This cost is expected to be recognized in our results of operations over a weighted-average period of 1.6 years. With respect to the issuance of shares under any of our stock-based compensation plans, we have the option to issue authorized but unissued shares or treasury shares.
+
+19. NET INCOME (LOSS) PER COMMON SHARE ATTRIBUTABLE TO CBI
+
+20. ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)
+
+Other comprehensive income (loss) attributable to CBI includes the following components:
+
+Accumulated other comprehensive income (loss), net of income tax effect, includes the following components:
+
+21. SIGNIFICANT CUSTOMERS AND CONCENTRATION OF CREDIT RISK
+
+Net sales to our 10 largest customers represented approximately 59 %, 58 %, and 55 % of our net sales for the years ended February 28, 2025, February 29, 2024, and February 28, 2023, respectively, and are expected to continue to represent a significant portion of our revenues. Net sales to customers which individually amount to
+
+10% or more of our net sales, and the associated amounts receivable from these customers as a percentage of our accounts receivable, are as follows:
+
+Net sales for the above customers are primarily reported within the Beer and Wine and Spirits segments, respectively. Our arrangements with certain of our customers may, generally, be terminated by either party with prior notice. The majority of our accounts receivable balance is generated from sales to independent distributors with whom we have a predetermined collection date arranged through electronic funds transfer. We perform ongoing credit evaluations of our customers’ financial position, and management is of the opinion that any risk of significant loss is reduced due to the diversity of our customers and geographic sales area.
+
+22. BUSINESS SEGMENT INFORMATION
+
+Our internal management financial reporting consists of two business divisions: (i) Beer and (ii) Wine and Spirits and we report our operating results in three segments: (i) Beer, (ii) Wine and Spirits, and (iii) Corporate Operations and Other. In th e Beer se gment, our portfolio consists of high-end imported beer brands and ABAs. We have an exclusive perpetual brand license to produce our Mexican beer portfolio and to import, market, and sell such portfolio in the U.S. In the Wine and Spirits segment, we sell a portfolio that includes higher-end wine brands complemented by certain higher-end spirits brands. Amounts included in the Corporate Operations and Other segment consist of costs of corporate communications, corporate development, corporate finance, corporate strategy and growth , executive management, human resources, internal audit, investor relations, IT, legal, and public affairs, as well as our Canopy investment and investments made through our corporate venture capital function . All costs included in the Corporate Operations and Other segment are general costs that are applicable to the consolidated group and are, therefore, not allocated to the other reportable segments. All costs reported within the Corporate Operations and Other segment are not included in our CODM’s evaluation of the operating income (loss) performance of the other reportable segments. Our CODM is our President and Chief Executive Officer. The business segments reflect how our operations are managed, how resources are allocated, how operating performance is evaluated by senior management, and the structure of our internal financial reporting. Long-lived tangible assets and total asset information by segment is not provided to, or reviewed by, our CODM as it is not used to make strategic decisions, allocate resources, or assess performance. Our CODM utilizes segment comparable operating income (loss) performance in deciding how to deploy capital in line with disciplined and balanced priorities. These priorities largely include investing in our people and our brands, making capital investments and strategic acquisitions, providing a cash dividend program, and from time-time time, repurchasing shares of our common stock. Our CODM also monitors budgeted versus actual results in assessing segment operating performance and understanding underlying business trends.
+
+Management excludes Comparable Adjustments from its evaluation of the results of each operating segment as these Comparable Adjustments are not reflective of core operations of the segments. Segment operating performance and the incentive compensation of segment management are evaluated based on core segment operating income (loss) which does not include the impact of these Comparable Adjustments, collectively referred to as comparable operating income (loss). We evaluate segment operating performance based on comparable operating income (loss) of the respective business units.
+
+The accounting policies of the segments are the same as those described for the Company in the Summary of Significant Accounting Policies in Note 1. Segment information is as follows:
+
+(1) Amounts are determined and presented on a non-GAAP basis and are intended to reflect our core operations.
+
+(2) Comparable Adjustments that impacted comparability in our segment operating income (loss) for each period are as follows:
+
+Our principal area of operation is in the U.S. Current operations outside the U.S. are in Mexico for the Beer segment and primarily in New Zealand and Italy for the Wine and Spirits segment. Revenues are attributed to countries based on the location of the customer.
+
+Geographic data is as follows:
+
+(1) Consists primarily of Canada and Italy for the year ended February 28, 2025, and primarily of Canada and New Zealand for the years ended February 29, 2024, and February 28, 2023.
+
+(1) Long-lived tangible assets balance at February 28, 2025, and February 29, 2024, excludes amounts reclassified to assets held for sale.
+
+23. SELECTED QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+
+A summary of selected quarterly financial information is as follows:
+
+(1) Includes the following:
+
+Item 9A. Controls and Procedures
+
+Disclosure controls and procedures
+
+Our Chief Executive Officer and our Chief Financial Officer have concluded, based on their evaluation as of the end of the period covered by this report, that the Company’s “disclosure controls and procedures” (as defined in the Exchange Act Rules 13a-15(e) and 15d-15(e)) are effective to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act (i) is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and (ii) is accumulated and communicated to our management, including our Chief Executive Officer and our Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+Internal control over financial reporting
+
+See page 56 of this Form 10-K for Management’s Annual Report on Internal Control over Financial Reporting, which is incorporated herein by reference.
+
+See page 57 of this Form 10-K for the attestation report of KPMG LLP, our independent registered public accounting firm, which is incorporated herein by reference.
+
+In connection with management’s quarterly evaluation of “internal control over financial reporting” (as defined in the Exchange Act Rules 13a-15(f) and 15d-15(f)), no changes were identified in our internal control over financial reporting during our fiscal quarter ended February 28, 2025 (our fourth fiscal quarter) that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Item 9B. Other Information
+
+During the three months ended February 28, 2025, none of our directors or officers (as defined in Exchange Act Rule 16a-1(f)) adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S-K.
+
+Item 10. Directors, Executive Officers, and Corporate Governance
+
+The information required by this Item (except for the information regarding executive officers required by Item 401 of Regulation S-K which is included in Part I hereof) is incorporated herein by reference to the Proxy Statement including under those sections of the Proxy Statement to be titled “Proposal 1 - Election of Directors,” and “Our Board Committees.” The Proxy Statement will be filed within 120 days after the end of our fiscal year.
+
+Our Chief Executive Officer and Senior Financial Executive Code of Ethics applies to our chief executive officer and our senior financial officers. The Chief Executive Officer and Senior Financial Executive Code of Ethics is located on our investor relations website at https://ir.cbrands.com. Amendments to, and waivers granted under, our Chief Executive Officer and Senior Financial Executive Code of Ethics, if any, will be posted to our investor relations website as well. We will provide to anyone, without charge, upon request, a copy of such Code of Ethics. Such requests should be directed in writing to Investor Relations Department, Constellation Brands, Inc., 50 East Broad Street, Rochester, New York 14614 or by telephoning our Investor Center at 1-888-922-2150.
+
+Our Board of Directors has adopted an insider trading policy governing purchases, sales, and other transactions in our securities by employees, officers, directors, and other designated individuals, which is reasonably designed to promote compliance with applicable securities laws and regulations. A copy of this policy is filed as Exhibit 19.1 to this Form 10-K. In addition, with regard to the Company’s trading in its own securities, it is the Company’s policy to comply with applicable securities laws, regulations, and New York Stock Exchange listing standards.
+
+Item 11. Executive Compensation
+
+The information required by this Item is incorporated herein by reference to the Proxy Statement including under those sections of the Proxy Statement to be titled “Executive Compensation” (except for the information under the subheadings “Pay versus Performance” and “Proposal 3 – Advisory Vote on Executive Compensation”), “Compensation Committee Interlocks and Insider Participation,” and “Director Compensation.” The Proxy Statement will be filed within 120 days after the end of our fiscal year. Notwithstanding the foregoing, the Compensation Committee Report included within the section of the Proxy Statement to be titled “Executive Compensation” is only being “furnished” hereunder and shall not be deemed “filed” with the SEC or subject to the liabilities of Section 18 of the Exchange Act.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by this Item is incorporated herein by reference to the Proxy Statement including under that section of the Proxy Statement to be titled “Beneficial Ownership.” The Proxy Statement will be filed within 120 days after the end of our fiscal year.
+
+Securities authorized for issuance under equity compensation plans
+
+The following table sets forth information with respect to our compensation plans under which our equity securities may be issued, as of February 28, 2025. The equity compensation plans approved by security holders include our Long-Term Stock Incentive Plan and our 1989 Employee Stock Purchase Plan.
+
+Equity Compensation Plan Information
+
+(1) Includes 253,141 shares of unvested performance share units and 333,985 shares of unvested restricted stock units under our Long-Term Stock Incentive Plan. The unvested performance share units represent the maximum number of shares to be awarded, or up to 200% of the target shares granted. We currently estimate that 113,069 of the target shares granted will be awarded at approximately 50% and 27,003 of the target shares granted will not be awarded based upon our expectations as of February 28, 2025, regarding the achievement of specified performance targets.
+
+(2) Excludes unvested performance share units and unvested restricted stock units under our Long-Term Stock Incentive Plan that can be exercised for no consideration.
+
+(3) Includes 1,044,053 shares of Class A Stock under our Employee Stock Purchase Plan remaining available for purchase, of which approximately 40,500 shares are subject to purchase during the current offering period.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this Item is incorporated herein by reference to the Proxy Statement including under those sections of the Proxy Statement to be titled “Proposal 1 - Election of Directors,” “Board Leadership Structure,” “Our Board Committees,” and “Certain Relationships and Related Transactions.” The Proxy Statement will be filed within 120 days after the end of our fiscal year.
+
+Item 14. Principal Accountant Fees and Services
+
+The information required by this Item is incorporated herein by reference to the Proxy Statement including under that section of the Proxy Statement to be titled “Audit Matters.” The Proxy Statement will be filed within 120 days after the end of our fiscal year.
+
+Item 15. Exhibits and Financial Statement Schedules
+
+1. Financial Statements
+
+The following consolidated financial statements of the Company are submitted herewith:
+
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+Report of Independent Registered Public Accounting Firm – KPMG LLP
+
+Consolidated Balance Sheets – February 28, 2025, and February 29, 2024
+
+Consolidated Statements of Comprehensive Income (Loss) for the years ended February 28, 2025, February 29, 2024, and February 28, 2023
+
+Consolidated Statements of Changes in Stockholders’ Equity for the years ended February 28, 2025, February 29, 2024, and February 28, 2023
+
+Consolidated Statements of Cash Flows for the years ended February 28, 2025, February 29, 2024, and February 28, 2023
+
+Notes to Consolidated Financial Statements
+
+2. Financial Statement Schedules
+
+Schedules are not submitted because they are not applicable or not required under Regulation S-X or because the required information is included in the financial statements or notes thereto.
+
+3. Exhibits required to be filed by Item 601 of Regulations S-K
+
+The information called for by this Item is incorporated by reference from the Index to Exhibits included in this Form 10-K.
+
+Item 16. Form 10-K Summary
+
+None.
+
+* Designates management contract or compensatory plan or arrangement.
+
+† The exhibits, disclosure schedules, and other schedules, as applicable, have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company agrees to furnish supplementally a copy of such exhibits, disclosure schedules, and other schedules, as applicable, or any section thereof, to the SEC upon request.
+
++ Portions of this exhibit have been redacted pursuant to Item 601(b)(10)(iv) of Regulation S-K.
+
+The Company agrees, upon request of the SEC, to furnish copies of each instrument that defines the rights of holders of long-term debt of the Company or its subsidiaries that is not filed herewith pursuant to Item 601(b)(4)(iii)(A) because the total amount of long-term debt authorized under such instrument does not exceed 10% of the total assets of the Company and its subsidiaries on a consolidated basis.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.

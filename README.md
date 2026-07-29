@@ -42,7 +42,8 @@ s-p500/
 │   ├── build_annual_constituents.py    # 원천자료에서 연도별 표본을 재생성
 │   ├── validate_annual_constituents.py # 구조·행 수·키·해시·manifest 검증
 │   ├── apply_pilot_replacement.py      # 승인된 TXT→ITW 교체 및 최종 표본 생성
-│   └── download_10k_html.py            # 최종 파일럿 SEC 원문 HTML 수집
+│   ├── download_10k_html.py            # 최종 파일럿 SEC 원문 HTML 수집
+│   └── extract_10k_analysis_text.py    # 분석용 본문·문단·문장·section 생성
 ├── AGENTS.md                       # 모든 작업자가 따라야 하는 저장소 운영 규칙
 ├── CHANGELOG.md                    # 버전별 변경 이력
 ├── VERSION                         # 현재 Semantic Version
@@ -91,6 +92,14 @@ python scripts/validate_annual_constituents.py
 유일한 입력은 `2025/pilot_100/sample/final_analysis_sample_100.csv`이며,
 원문과 SHA-256 manifest는 `2025/pilot_100/html/`에 있다. 아직 본문 추출,
 NLP 및 언어 분석은 수행하지 않았다.
+
+## 2025 파일럿 텍스트
+
+100개 HTML에서 표와 숨김 inline XBRL metadata를 제외한 언어 분석용 본문,
+원문 구조 보존 텍스트, 표 텍스트, 문단·문장 및 주요 10-K Item 자료를
+생성했다. 상세 문단과 문장 CSV는 각각 `paragraphs.csv.gz`와
+`sentences.csv.gz`로 저장한다. AI 여부, 감성, 시제, 구체성 등 언어 변수는
+아직 계산하지 않았다.
 
 ## 추가로 확정할 사항
 

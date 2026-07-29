@@ -1,0 +1,483 @@
+[TABLE 001]
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 10-K
+[END TABLE 001]
+
+[TABLE 002]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Or ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to
+[END TABLE 003]
+
+[TABLE 004]
+Mastercard Incorporated (Exact name of registrant as specified in its charter) Delaware 13-4172551 (State or other jurisdiction of incorporation or organization) (IRS Employer Identification Number) 2000 Purchase Street Purchase, NY 10577 (Address of principal executive offices) (Zip Code)
+[END TABLE 004]
+
+[TABLE 005]
+Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol Name of each exchange of which registered Class A Common Stock, par value $0.0001 per share MA New York Stock Exchange 2.1% Notes due 2027 MA27 New York Stock Exchange 1.0% Notes due 2029 MA29A New York Stock Exchange 2.5% Notes due 2030 MA30 New York Stock Exchange
+[END TABLE 005]
+
+[TABLE 006]
+Securities registered pursuant to Section 12(g) of the Act: Class B common stock, par value $0.0001 per share
+[END TABLE 006]
+
+[TABLE 007]
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+[END TABLE 007]
+
+[TABLE 008]
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. Large accelerated filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13 (a) of the Exchange Act. ☐ Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒ If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐ Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+[END TABLE 008]
+
+[TABLE 009]
+Portions of the registrant’s definitive proxy statement for the 2026 Annual Meeting of Stockholders are incorporated by reference into Part III hereof.
+[END TABLE 009]
+
+[TABLE 010]
+PART I 6 Item 1. Business 27 Item 1A. Risk factors 41 Item 1B. Unresolved staff comments 41 Item 1C. Cybersecurity 43 Item 2. Properties 43 Item 3. Legal proceedings 43 Item 4. Mine safety disclosures 44 - Information about our executive officers PART II 48 Item 5. Market for registrant’s common equity, related stockholder matters and issuer purchases of equity securities 48 Item 6. Reserved 49 Item 7. Management’s discussion and analysis of financial condition and results of operations 63 Item 7A. Quantitative and qualitative disclosures about market risk 64 Item 8. Financial statements and supplementary data 112 Item 9. Changes in and disagreements with accountants on accounting and financial disclosure 112 Item 9A. Controls and procedures 113 Item 9B. Other information 113 Item 9C. Disclosure r egarding f oreign j urisdictions that p revent i nspections PART III 115 Item 10. Directors, executive officers and corporate governance 115 Item 11. Executive compensation 115 Item 12. Security ownership of certain beneficial owners and management and related stockholder matters 115 Item 13. Certain relationships and related transactions, and director independence 115 Item 14. Principal accountant fees and services PART IV 117 Item 15. Exhibits and financial statement schedules 117 Item 16. Form 10-K summary
+[END TABLE 010]
+
+[TABLE 011]
+PART I Item 1. Business Item 1A. Risk factors Item 1B. Unresolved staff comments Item 1C. C ybersecurity Item 2. Properties Item 3. Legal proceedings Item 4. Mine safety disclosures Information about our executive officers
+[END TABLE 011]
+
+[TABLE 012]
+GAAP Net revenue Net income Diluted EPS $32.8B $15.0B $16.52 up 16% up 16% up 19% Non-GAAP 1 (currency-neutral growth rate) Adjusted net revenue Adjusted net income Adjusted diluted EPS $32.8B $15.4B $17.01 up 15% up 13% up 15% $14.5B $11.7B Repurchased shares $17.6B in capital returned to stockholders $2.8B Dividends paid cash flows from operations Gross dollar volume (growth on a local currency basis) Cross-border volume growth (on a local currency basis) Switched transactions $10.6T up 15% 175.5B up 9% up 10%
+[END TABLE 012]
+
+[TABLE 013]
+GDV Cards Year Ended December 31, 2025 As of December 31, 2025 Mastercard-branded Programs 1 (in billions) % Increase from December 31, 2024 (Local) % of Total GDV (in millions) % Increase from December 31, 2024 Consumer Credit $ 3,878 8 % 37 % 1,083 3 % Consumer Debit and Prepaid 2 5,349 9 % 50 % 2,134 11 % Commercial Credit and Debit 1,405 11 % 13 % 174 14 %
+[END TABLE 013]
+
+[TABLE 014]
+Our Strategy Grow our core Diversify into new customers and geographies Build new areas for the future Our Strategic Priorities Consumer payments Commercial and new payment flows Services and other solutions Enabled by People Brand Data & AI Technology Franchise Doing well by doing good
+[END TABLE 014]
+
+[TABLE 015]
+• Our payment network helps us scale our services and solutions, and those services and solutions help us differentiate our payments solutions • We grow in payments, which allows us to switch more transactions and bring more transaction data onto the network • We use that data to create insightful services and solutions that can, in turn, help us win new and renewed customer deals and drive greater payments volume growth
+[END TABLE 015]
+
+[TABLE 016]
+We provide a wide variety of products and services that support payment products that customers can offer to consumers and merchants to enable purchase transactions, cash withdrawals and cash advances. These offerings facilitate transactions across our payment network and platforms among account holders, merchants, financial institutions, digital partners, businesses, governments and other organizations in markets globally. Consumer Credit. We offer products that enable issuers to provide consumers with credit, allowing them to defer payment. These programs are designed to meet the needs of our customers around the world and address standard, premium and affluent consumer segments. Consumer Debit. We support a range of payment products and solutions that allow our customers to provide consumers with convenient access to funds in deposit and other accounts. Our debit and deposit access programs can be used to make purchases and to obtain cash from bank branches, at ATMs and, in some cases, at the point of sale. Our branded debit programs consist of Mastercard (including standard, premium and affluent offerings), Maestro (our PIN-based solution that operates globally) and Cirrus (our primary global cash access solution). Key 2025 Developments In 2025, we launched products aimed at driving top-of-wallet behavior by consumers (including offerings aimed at affluent consumers) such as: • The Mastercard CollectionTM, a comprehensive set of premium benefits • World LegendTM Mastercard, our most prestigious consumer card that is available to issuers globally • Mastercard One CredentialTM, which provides consumers greater control and choice of their preferred funding option across a wide range of our payments solutions
+[END TABLE 016]
+
+[TABLE 017]
+We offer platforms, products and applications that apply our payments capabilities to capture commercial and new payment flows, enabling us to serve the needs of a significant addressable market. Commercial We offer commercial credit, debit and prepaid payment products and solutions that meet the payment needs of large corporations, midsize companies, small businesses and government entities at the point of sale. Our point-of-sale solutions streamline procurement and payment processes, manage information and expenses (such as travel and entertainment) and reduce administrative costs. Our point-of-sale offerings include: • Small business cards (credit, debit and prepaid) tailored to small and medium businesses Key 2025 Developments • As of the end of 2025, we had embedded our virtual card technology in more than 10 global B2B and travel and expense platforms (more than double the number of platforms in 2024), increasing the opportunity for financial institutions and businesses to integrate card payments into their existing corporate invoice payment workflows.
+[END TABLE 017]
+
+[TABLE 018]
+We provide functionality and technology to help our customers provide benefits and experiences for consumers, merchants, businesses and others. • Delivering digital functionality and consumer experiences. We use our technologies and security protocols to develop solutions to make digital shopping and selling experiences, such as on smartphones and other connected devices (both online and in person), simpler, faster and more secure for consumers, businesses and merchants. We also offer products that make it easier for merchants to accept payments and expand their customer base. ◦ Our contactless payment solutions help deliver a simple and intuitive way to pay. Solutions such as SmartPOS and SoftPOS reduce the barrier to entry for merchants (including small businesses). Our Tap on Phone acceptance technology enables businesses of all sizes to accept payments from any contactless card or mobile wallet directly from their device, providing a turnkey and cost-effective solution without any additional hardware required. We extend our contactless payment solutions to a wide set of commerce use-cases, including instant provisioning of a card into a mobile wallet, verification of a transaction and sending money to family and friends or between businesses. Key 2025 Developments • We launched Mastercard Agent PayTM, a new framework designed to enable secure, scalable and trusted payments in agentic commerce. The solution enables AI-assisted and fully automated agent-based payments across Mastercard's acceptance network. The solution builds upon our existing tokenization capabilities (including Agentic Tokens) and dispute management capabilities. In 2025, we enabled all U.S.-based Mastercard cardholders to participate in this program, with a global launch scheduled for early 2026. Merchants are currently able to participate without the need for significant development or integration. • In 2025, we continued our efforts to support stablecoin across our network by: ◦ Enabling the spending of crypto and stablecoin assets across Mastercard's acceptance network through approximately 130 crypto co-brand card programs ◦ Embedding stablecoins into our Mastercard Move platform, which allows customers to send and receive stablecoin flows seamlessly • In 2025, approximately 40% of all Mastercard transactions are now tokenized
+[END TABLE 018]
+
+[TABLE 019]
+We offer an expansive and diversified portfolio of services and solutions built on unique and proprietary data sets and supported by global consulting and advisory expertise. These services and solutions help to differentiate our payments products and serve the needs of sizeable addressable markets beyond payments. Security Solutions We offer products and services designed to safeguard the payments and digital ecosystem from fraud and cyber-attacks and to enhance security for payments across card and non-card rails. Our security solutions suite provides organizations with the ability to adapt to the dynamic and multifaceted nature of threats while maintaining continuity and confidence in their operations. This includes: • Prevention solutions designed to help customers establish and strengthen measures that keep systems, applications and data secure from potential security risks. We continue to grow global usage of EMV chip and contactless security technology, helping to reduce fraud. We also utilize our technology to evaluate and continuously monitor the cybersecurity posture of organizations worldwide, offering insights into potential vulnerabilities and risks. • Identification solutions designed to help banks and merchants verify identities and authenticate consumers during digital interactions like account openings, account access and money movements using identity data and identity signals, device intelligence, biometric technologies and behavioral user data assessments. Key 2025 Developments • In 2025, we launched Mastercard Threat Intelligence, which combines Mastercard’s payment expertise and global network visibility with Recorded Future’s leading cyber threat intelligence capabilities in order to prevent payment fraud by proactively detecting cyberattacks. This new service complements our existing cybersecurity intelligence, fraud scoring and defense functionalities. • In 2025, we launched Mastercard Commerce MediaTM, a new digital media network aimed at making advertising more personalized, relevant and effective. Mastercard Commerce Media helps advertisers provide tailored offers to the right consumer at the right time by using our proprietary spend insights as well as measuring the effectiveness of the advertisements. • In 2025, we announced Mastercard Account-to-Account Protect, a new solution designed to combine our fraud prevention technology with a new dispute resolution framework in order to safeguard consumers when making account-to-account payments. • In 2025, we launched Merchant Cloud, a unified platform designed to offer a single point of entry to cutting-edge payment services (including payment gateways, security solutions and data) to simplify and support commerce growth in the global acceptance ecosystem and deliver exceptional experiences for end users.
+[END TABLE 019]
+
+[TABLE 020]
+Develop and retain talent. We develop and retain our employees, with a focus on staying competitive and being responsive to changing market dynamics. We also continue to build and promote the behaviors that underpin our culture. Our programs and practices include: • An annual cycle that focuses on objective setting, performance assessment aligned with the Mastercard Way behaviors, skills development and career progression opportunities • Succession planning for key roles as well as leadership development programming across various career levels, including personalized coaching • Learning resources and courses for all employees The Mastercard Way The Mastercard Way is the statement of our culture. It consists of three principles: • Create value • Grow together • Move fast These principles address where we are going as an organization, how we work together and how we deliver for our customers and each other.
+[END TABLE 020]
+
+[TABLE 021]
+Our brand plays an important role in building preference for our products and services, from the primary Mastercard brand to Maestro and Cirrus. We manage our brands across all aspects of our strategic priorities – consumer payments, commercial and new payment flows, and services and other solutions – to reinforce the connectivity and value of our offerings across our broad customer base. We bring our brand to life through a range of activities, including advertising, promotions and sponsorships, customer events, digital marketing, mobile marketing and social media initiatives. Over the course of nearly 30 years, “Priceless®” has evolved from an advertising campaign in more than 120 countries worldwide to a broader platform that reinforces special memories, passions and experiences in people’s personal and business lives. In all of its forms, the brand delivers a consistent, recognizable message that supports and promotes the benefits, acceptance and usage of our products and services around the globe. Key 2025 Developments • In 2025, Mastercard announced it would become the official naming partner of the McLaren Formula 1 Team, starting with the 2026 season.
+[END TABLE 021]
+
+[TABLE 022]
+• Security solutions • Consumer acquisition and engagement services • Business and market insights • Digital and authentication solutions • Processing and gateway • Other solutions (including ACH batch and real-time account-based payments and solutions, bill payments, cross-border services and open finance)
+[END TABLE 022]
+
+[TABLE 023]
+Global network Highly adaptable and world class global payments network that can reach a variety of parties to enable payments anywhere Franchise model Establishing rules, standards and bearing of financial risk (including our settlement guarantee backed by our strong credit standing) that allows for interoperability among all participants Multi-rail Multiple payments capabilities based on our innovation and technology that enable choice Brand Globally recognized and trusted brands Data and AI Products and services utilizing our data and AI assets, technology, platforms and expertise that incorporate our Data and Tech Responsibility Principles and reflect our Privacy by Design, Data by Design and AI Governance processes Talent and culture World class talent and culture guided by the Mastercard Way, with a focus on providing an environment where everyone has the opportunity to succeed Technology Leading-edge technology that advances the quality, speed and diversity of our offerings and solutions Local presence and government engagement Ability to serve a broad array of participants in global payments due to our expanded on-soil presence in individual markets and a heightened focus on working with governments
+[END TABLE 023]
+
+[TABLE 024]
+Payments Oversight and Regulation. Central banks and other regulators around the world either have established, or are seeking to establish, formal oversight over participants in the payments industry, as well as authority to regulate payments systems in their countries. Such authority has resulted in certain of these entities regulating Mastercard as financial market infrastructure, as well as establishing oversight related to various aspects of our business (including areas such as consumer protections and cybersecurity). In the European Union (the “EU”), Mastercard has been designated as a systemically important payment system (SIPS) and is subject to systemic importance regulation, which includes various requirements we must meet, including obligations related to governance and risk management. In the U.K., the Bank of England designated VocalinkTM, our real-time account-based payments network platform, as a “specified service provider”, and Mastercard as a “recognized payment system”, which includes supervisions and examination requirements. We have also been designated by certain jurisdictions as “critical infrastructure”, which includes cyber and physical security resilience requirements and related reporting obligations. In addition, EU legislation requires us to separate our scheme activities (brand, products, franchise and licensing) from our switching activities and other processing in terms of how we go to market, make decisions and organize our structure. Examples of other markets where Mastercard is formally overseen include Australia, Brazil, India, Mexico, South Africa and Canada. Additionally, certain of our subsidiaries are also regulated as payments institutions and payment service providers, including as money transmitters. This regulation subjects us to licensing obligations, regulatory supervision and examinations, as well as various business conduct and risk management requirements. Interchange Fees. Interchange fees that support the function and value of four-party payments systems like ours are subject to regulation in some jurisdictions. Examples include statutes in the U.S. that cap debit interchange for certain regulated activities, proposed legislation in the U.S. to extend routing mandates to credit and the EU regulation capping consumer credit and debit interchange fees. Interchange fees are also periodically subject to litigation. For more detail, see “Risk Factors - Other Regulation” in Part I, Item 1A and Note 19 (Legal and Regulatory Proceedings) to the consolidated financial statements included in Part II, Item 8. Key 2025 Developments • In July 2025, the EU introduced its revised systemic importance regulation, covering companies such as ours that have been designated as systemically important. The revision introduces a framework for cyber resilience and detailed rules for managing outsourcing risks. It also amended the definition of a SIPS operator in such a way as to extend to more companies in the payments ecosystem. • In November 2025, the Central Bank of Brazil established a new regulation for all Payment Scheme Operators (PSOs) in Brazil (including Mastercard and Visa), enhancing governance, risk management and transparency standards across the payments ecosystem. The new regulation reinforces the PSOs’ accountability for the financial and settlement integrity of payments to merchants (including in cases of default, operational failure or insolvency of any of their scheme participants) and, in particular, requires payment networks to extend their settlement guarantees to previously non-guaranteed transactions (such as merchant installment transactions). Although the regulation has already been enacted, its full implementation remains subject to the development and formal submission by PSOs of their corresponding governance and risk management frameworks, as well as to the Central Bank’s review and approval of these frameworks. The conclusion of this process is expected to occur by November 2026. • In August and September of 2025, two separate Federal district courts issued conflicting decisions regarding the validity of the interchange cap set by the Federal Reserve in Regulation II (related to the Durbin Amendment to the Dodd-Frank Wall Street Reform and Consumer Protection Act). One court vacated the interchange cap while the other upheld it. The interchange cap remains in effect while the litigation continues. • The New Zealand Commerce Commission approved the implementation of caps on cross-border interchange for most types of card transactions, effective May 2026.
+[END TABLE 024]
+
+[TABLE 025]
+RISK HIGHLIGHTS Legal and Regulatory Business and Operations Payments Industry Regulation Competition and Technology Brand, Reputational Impact and Environmental, Social and Governance Preferential or Protective Government Actions Information Security and Operational Resilience Talent and Culture Privacy, Data, AI and Information Security Stakeholder Relationships Acquisitions and Strategic Investments Other Regulation Global Economic and Political Environment Settlement and Third-Party Obligations Litigation Class A Common Stock and Governance Structure
+[END TABLE 025]
+
+[TABLE 026]
+Name Current Position Age Previous Mastercard Experience Previous Business Experience Ling Hai President, Asia Pacific, Europe, Middle East & Africa since January 2024 55 Co-President, International Markets (2022-2023) Co-President, Asia Pacific (2015-2021) President, Enterprise Development (2014-2015) President, Greater China (2010-2014) Various roles at Bank of America (2004-2009) and Booz Allen Hamilton (1998-2003) Jon M. Huntsman, Jr. Vice Chairman and President, Strategic Growth since April 2024 65 Vice Chair, Policy, Ford Motor Company (2021-2022) U.S. Federal Government: U.S. Ambassador to Russia (2017-2019); U.S. Ambassador to China (2009-2011); U.S. Trade Ambassador (2001-2003); U.S. Ambassador to Singapore (1992-1993) Chairman, Atlantic Council (2014-2017) Chairman, Huntsman Cancer Foundation (2012-2017) Governor of Utah (2005-2009) Linda Kirkpatrick President, Americas since January 2024 49 President, North America (2021-2023) President, U.S. Issuers (2020) Executive Vice President, Merchants and Acceptance (2016-2020) Senior Vice President, Core Merchants (2013-2016) Senior Vice President, Franchise Development (2011-2013) Vice President, U.S. Region (2008-2011) Vice President, Investor Relations (2006-2008) Jill Kramer Chief Marketing and Communications Officer since December 2025 56 Accenture PLC: Chief Marketing and Communications Officer (2021-2025) Senior Managing Director, Global Brand (2019-2021) Managing Director, Global Brand (2016-2019) Executive Vice President and Senior Director, BBDO Worldwide (2010-2015) Vice President, Account Director, DDB (2008-2010)
+[END TABLE 026]
+
+[TABLE 027]
+Name Current Position Age Previous Mastercard Experience Previous Business Experience Jorn Lambert Chief Product Officer since May 2024 54 Chief Digital Officer (2020-2024) Executive Vice President, Digital Solutions (2018-2020) Executive Vice President, Digital Channels (2013-2018) Group Head, Emerging Payments, Europe (2002-2013) Various roles at Clearstream (1995-2002) Edward McLaughlin President and Chief Technology Officer, Mastercard Technology since May 2017 60 Chief Information Officer (2016-2017) Chief Emerging Payments Officer (2010-2015) Various senior leadership roles, including Chief Franchise Development Officer and Senior Vice President, Bill Payment and Healthcare (2005-2009) Group Vice President, Product and Strategy, Metavante Corporation (2002-2005) Co-Founder and CEO, Paytrust, Inc. (1998-2002) Sachin Mehra Chief Financial Officer since April 2019 55 Chief Financial Operations Officer (2018-2019) Executive Vice President, Commercial Products (2015-2018) Executive Vice President and Business Financial Officer, North America (2013-2015) Corporate Treasurer (2010-2013) Various senior positions at Hess Corporation, including Vice President and Treasurer (2007-2010) Various senior treasury and finance positions at General Motors Corporation and GMAC (1996-2007) Michael Miebach President and Chief Executive Officer since January 2021 58 President (2020) Chief Product Officer (2016-2020) President, Middle East and Africa (2010-2015) Managing Director, Middle East and North Africa (2008-2010) and Managing Director, Sub-Saharan Africa (2007-2008), Barclays Bank PLC Various executive positions at Citigroup in Germany, Austria, U.K. and Turkey (1994-2007) Susan Muigai Chief People Officer since April 2025 56 Executive Vice President, Chief Human Resources Officer at TransUnion (2021-2025) Various executive positions at Walmart (2005-2021) Raj Seshadri Chief Commercial Payments Officer since May 2024 60 President, Data and Services (2020-2024) President, U.S. Issuers (2016-2019) Managing Director, Head of iShares U.S. Wealth Advisory business, BlackRock (2014-2016) Managing Director, Global Marketing Officer of iShares, BlackRock, Inc. (2012-2014) Various leadership positions at Citigroup (2008-2012), U.S. Trust Company (2006-2008) and McKinsey & Company, Inc. (1995-2006)
+[END TABLE 027]
+
+[TABLE 028]
+Name Current Position Age Previous Mastercard Experience Previous Business Experience Rich Verma Chief Administrative Officer since May 2025 57 Chief Legal Officer and Head of Global Public Policy (2021-2023) Executive Vice President, Global Public Policy and Regulatory Affairs (2020-2021) Deputy Secretary of State for Management and Resources, U.S. Department of State (2023-2025) Vice Chairman, The Asia Group (2017-2020) U.S. Ambassador to India, U.S. Department of State (2014-2017) Partner and Senior Counselor, Steptoe & Johnson LLP (2011-2014) Assistant Secretary of State for Legislative Affairs, U.S. Department of State (2009-2011) Senior National Security Advisor to U.S. Senate Majority Leader (2002-2007) Craig Vosburg Chief Services Officer since May 2024 58 Chief Product Officer (2021-2024) President, North America (2016-2020) Chief Product Officer (2014-2015) Executive Vice President, U.S. Market Development (2010-2014) Various senior leadership roles, including Head of Mastercard Advisors, U.S. and Canada and Head of Mastercard Advisors, Southeast Asia, Greater China and South Asia/Middle East/Africa (2006-2010) Senior member-financial services practice, Bain & Company (2002-2006) and A.T. Kearney (1997-2002) Vice President, CoreStates Financial Corporation (1989-1995)
+[END TABLE 028]
+
+[TABLE 029]
+PART II Item 5. Market for registrant’s common equity, related stockholder matters and issuer purchases of equity securities Item 6. Reserved Item 7. Management’s discussion and analysis of financial condition and results of operations Item 7A. Quantitative and qualitative disclosures about market risk Item 8. Financial statements and supplementary data Item 9. Changes in and disagreements with accountants on accounting and financial disclosure Item 9A. Controls and procedures Item 9B. Other information Item 9C. Disclosure r egarding f oreign j urisdictions that p revent i nspections
+[END TABLE 029]
+
+[TABLE 030]
+Base period Indexed Returns For the Years Ended December 31, Company/Index 2020 2021 2022 2023 2024 2025 Mastercard $ 100.00 $ 101.16 $ 98.47 $ 121.51 $ 150.88 $ 164.50 S&P 500 100.00 128.71 105.40 133.10 166.40 196.16 S&P 500 Financials 100.00 135.04 120.81 135.49 176.89 203.47
+[END TABLE 030]
+
+[TABLE 031]
+Date of Declaration Amount Payable per Share Record Date Date Payable December 9, 2025 $ 0.87 January 9, 2026 February 9, 2026 February 10, 2026 $ 0.87 April 9, 2026 May 8, 2026
+[END TABLE 031]
+
+[TABLE 032]
+Period Total Number of Shares Purchased Average Price Paid per Share (including commission cost) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Dollar Value of Shares that may yet be Purchased under the Plans or Programs 1 October 1 – 31 2,646,404 $ 567.86 2,646,404 $ 5,516,017,590 November 1 – 30 2,027,835 $ 546.34 2,027,835 $ 4,408,129,281 December 1 – 31 1,691,869 $ 559.56 1,691,869 $ 17,461,429,536 Total 6,366,108 $ 558.80 6,366,108
+[END TABLE 032]
+
+[TABLE 033]
+Years ended December 31, 2025 Increase/ (Decrease) 2024 Increase/ (Decrease) 2025 2024 2023 (in millions, except percentages and per share data) Net revenue $ 32,791 $ 28,167 $ 25,098 16% 12% Operating expenses $ 13,894 $ 12,585 $ 11,090 10% 13% Operating income $ 18,897 $ 15,582 $ 14,008 21% 11% Operating margin 57.6 % 55.3 % 55.8 % 2.3 ppt (0.5) ppt Income tax expense $ 3,610 $ 2,380 $ 2,444 52% (3)% Effective income tax rate 19.4 % 15.6 % 17.9 % 3.8 ppt (2.3) ppt Net income $ 14,968 $ 12,874 $ 11,195 16% 15% Diluted earnings per share $ 16.52 $ 13.89 $ 11.83 19% 17% Diluted weighted-average shares outstanding 906 927 946 (2)% (2)%
+[END TABLE 033]
+
+[TABLE 034]
+Years ended December 31, 2025 Increase/(Decrease) 2024 Increase/(Decrease) 2025 2024 2023 As adjusted Currency-neutral As adjusted Currency-neutral (in millions, except percentages and per share data) Net revenue $ 32,791 $ 28,167 $ 25,098 16% 15% 12% 13% Adjusted operating expenses $ 13,389 $ 11,714 $ 10,551 14% 14% 11% 11% Adjusted operating margin 59.2 % 58.4 % 58.0 % 0.8 ppt 0.7 ppt 0.4 ppt 0.7 ppt Adjusted effective income tax rate 19.6 % 16.2 % 18.5 % 3.4 ppt 3.4 ppt (2.3) ppt (2.2) ppt Adjusted net income $ 15,415 $ 13,541 $ 11,607 14% 13% 17% 18% Adjusted diluted earnings per share $ 17.01 $ 14.60 $ 12.26 17% 15% 19% 21%
+[END TABLE 034]
+
+[TABLE 035]
+Net revenue GAAP Non-GAAP (currency-neutral) Both the as-reported and currency-neutral net revenue increases were attributable to growth in our payment network and value-added services and solutions. up 16% up 15%
+[END TABLE 035]
+
+[TABLE 036]
+Operating expenses Adjusted operating expenses GAAP Non-GAAP (currency-neutral) Both the as-reported and as-adjusted operating expenses increases were primarily due to higher general and administrative expenses. up 10% up 14%
+[END TABLE 036]
+
+[TABLE 037]
+Effective income tax rate Adjusted effective income tax rate GAAP Non-GAAP Both the as-reported and as-adjusted effective income tax rates were higher versus the comparable period in 2024, primarily due to a change in the net tax effect of our Singapore operations, which includes the 15% global minimum tax rate (Pillar 2 Rules) that took effect in 2025. Additionally, a change in our geographic mix of earnings contributed to the higher effective income tax rates, partially offset by net discrete tax benefits. 19.4% 19.6% up 3.8 ppt up 3.4 ppt
+[END TABLE 037]
+
+[TABLE 038]
+Year ended December 31, 2025 Operating expenses Operating margin Other income (expense) Effective income tax rate Net income Diluted earnings per share ($ in millions, except per share data) Reported - GAAP $ 13,894 57.6 % $ (319) 19.4 % $ 14,968 $ 16.52 (Gains) losses on equity investments ** ** 88 (0.1) % 90 0.10 Litigation provisions (504) 1.5 % ** 0.3 % 357 0.39 Adjusted - Non-GAAP $ 13,389 59.2 % $ (232) 19.6 % $ 15,415 $ 17.01
+[END TABLE 038]
+
+[TABLE 039]
+Year ended December 31, 2024 Operating expenses Operating margin Other income (expense) Effective income tax rate Net income Diluted earnings per share ($ in millions, except per share data) Reported - GAAP $ 12,585 55.3 % $ (328) 15.6 % $ 12,874 $ 13.89 (Gains) losses on equity investments ** ** 29 — % 25 0.03 Litigation provisions (680) 2.4 % ** 0.5 % 495 0.53 Restructuring charge (190) 0.7 % ** 0.1 % 147 0.16 Adjusted - Non-GAAP $ 11,714 58.4 % $ (300) 16.2 % $ 13,541 $ 14.60
+[END TABLE 039]
+
+[TABLE 040]
+Year ended December 31, 2023 Operating expenses Operating margin Other income (expense) Effective income tax rate Net income Diluted earnings per share ($ in millions, except per share data) Reported - GAAP $ 11,090 55.8 % $ (369) 17.9 % $ 11,195 11.83 (Gains) losses on equity investments ** ** 61 0.1 % 36 0.04 Litigation provisions (539) 2.1 % ** 0.5 % 376 0.40 Adjusted - Non-GAAP $ 10,551 58.0 % $ (308) 18.5 % $ 11,607 $ 12.26
+[END TABLE 040]
+
+[TABLE 041]
+Year Ended December 31, 2025 as compared to the Year Ended December 31, 2024 Increase/(Decrease) Operating expenses Operating margin Effective income tax rate Net income Diluted earnings per share Reported - GAAP 10 % 2.3 ppt 3.8 ppt 16 % 19 % (Gains) losses on equity investments ** ** (0.1) ppt — % — % Litigation provisions 2 % (0.9) ppt (0.2) ppt (2) % (2) % Restructuring charge 2 % (0.7) ppt (0.1) ppt (1) % (1) % Adjusted - Non-GAAP 14 % 0.8 ppt 3.4 ppt 14 % 17 % Currency Impact (1) % (0.1) ppt (0.1) ppt (1) % (1) % Adjusted - Non-GAAP - currency-neutral 14 % 0.7 ppt 3.4 ppt 13 % 15 %
+[END TABLE 041]
+
+[TABLE 042]
+Year Ended December 31, 2024 as compared to the Year Ended December 31, 2023 Increase/(Decrease) Operating expenses Operating margin Effective income tax rate Net income Diluted earnings per share Reported - GAAP 13 % (0.5) ppt (2.3) ppt 15 % 17 % (Gains) losses on equity investments ** ** (0.1) ppt — % — % Litigation provisions (1) % 0.3 ppt — ppt 1 % 1 % Restructuring charge (2) % 0.7 ppt 0.1 ppt 1 % 1 % Adjusted - Non-GAAP 11 % 0.4 ppt (2.3) ppt 17 % 19 % Currency Impact — % 0.3 ppt 0.1 ppt 1 % 1 % Adjusted - Non-GAAP - currency-neutral 11 % 0.7 ppt (2.2) ppt 18 % 21 %
+[END TABLE 042]
+
+[TABLE 043]
+For the Years Ended December 31, 2025 2024 Increase/(Decrease) USD Local USD Local Mastercard-branded GDV growth 1 9% 9% 8% 11% United States 6% 6% 7% 7% Worldwide less United States 10% 10% 9% 12% Cross-border volume growth 1 18% 15% 17% 18%
+[END TABLE 043]
+
+[TABLE 044]
+For the Years Ended December 31, 2025 2024 Increase/(Decrease) Switched transactions growth 10% 11%
+[END TABLE 044]
+
+[TABLE 045]
+Years ended December 31, 2025 2024 Increase/(Decrease) Increase/(Decrease) 2025 2024 2023 As reported Currency-neutral As reported Currency-neutral ($ in millions) Domestic assessments $ 11,029 $ 10,245 $ 9,566 8% 8% 7% 9% Cross-border assessments 12,021 10,181 8,409 18% 17% 21% 22% Transaction processing assessments 15,930 13,602 12,067 17% 16% 13% 14% Other network assessments 1,018 936 963 9% 8% (3)% (3)%
+[END TABLE 045]
+
+[TABLE 046]
+For the Years Ended December 31, Increase/(Decrease) 2025 2024 2023 2025 2024 ($ in millions) Payment network $ 19,476 $ 17,335 $ 15,824 12% 10% Value-added services and solutions 13,315 10,832 9,274 23% 17% Total net revenue $ 32,791 $ 28,167 $ 25,098 16% 12%
+[END TABLE 046]
+
+[TABLE 047]
+For the Years Ended December 31, Operational Acquisitions Currency Impact 1 Total 2025 2024 2025 2024 2025 2024 2025 2024 Payment network 12% 11% ** ** 1% (1)% 12 % 10 % Value-added services and solutions 18% 17% 3% —% 2% (1)% 23 % 17 % Net revenue 14% 13% 1% —% 1% (1)% 16 % 12 %
+[END TABLE 047]
+
+[TABLE 048]
+For the Years Ended December 31, Increase/(Decrease) 2025 2024 2023 2025 2024 ($ in millions) General and administrative $ 11,318 $ 10,193 $ 8,927 11 % 14 % Advertising and marketing 929 815 825 14 % (1) % Depreciation and amortization 1,143 897 799 27 % 12 % Provision for litigation 504 680 539 (26) % 26 % Total operating expenses 13,894 12,585 11,090 10 % 13 % Special Items 1 (504) (870) (539) ** ** Adjusted total operating expenses 1 $ 13,389 $ 11,714 $ 10,551 14 % 11 %
+[END TABLE 048]
+
+[TABLE 049]
+For the Years Ended December 31, Operational Acquisitions Currency Impact 1, 2 Special Items 2 Total 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 General and administrative 9% 12 % 4 % 1 % 1 % — % (2) % 2 % 11 % 14 % Advertising and marketing 7% — % 5 % — % 2 % (1) % ** ** 14 % (1) % Depreciation and amortization 13% 12 % 13 % — % 1 % — % ** ** 27 % 12 % Provision for litigation ** ** ** ** ** ** (26) % 26 % (26) % 26 % Total operating expenses 9% 11 % 4 % — % 1 % — % (4) % 2 % 10 % 13 %
+[END TABLE 049]
+
+[TABLE 050]
+For the Years Ended December 31, Increase/(Decrease) 2025 2024 2023 2025 2024 ($ in millions) Personnel $ 7,251 $ 6,673 $ 6,022 9% 11% Professional fees 537 549 495 (2)% 11% Data processing and telecommunications 1,272 1,119 1,008 14% 11% Foreign exchange activity 1 113 65 83 74% (22)% Other 2,145 1,787 1,319 20% 35% Total general and administrative expenses $ 11,318 $ 10,193 $ 8,927 11% 14%
+[END TABLE 050]
+
+[TABLE 051]
+For the Years Ended December 31, Favorable/(Unfavorable) 2025 2024 2023 2025 2024 (in millions) Investment income $ 325 $ 327 $ 274 $ (2) $ 53 Gains (losses) on equity investments, net (88) (29) (61) (59) 32 Interest expense (722) (646) (575) (76) (71) Other income (expense), net 1 166 20 (7) 146 27 Total other income (expense) (319) (328) (369) 9 41 (Gains) losses on equity investments, net 2 88 29 61 59 (32) Adjusted total other income (expense) 2 $ (232) $ (300) $ (308) $ 68 $ 9
+[END TABLE 051]
+
+[TABLE 052]
+2025 2024 (in billions) Cash, cash equivalents and investments 1 $ 10.9 $ 8.8 Unused line of credit 8.0 8.0
+[END TABLE 052]
+
+[TABLE 053]
+For the Years Ended December 31, 2025 2024 2023 (in millions) Net cash provided by operating activities $ 17,648 $ 14,780 $ 11,980 Net cash used in investing activities (1,362) (3,402) (1,351) Net cash used in financing activities (14,179) (10,836) (9,488)
+[END TABLE 053]
+
+[TABLE 054]
+For the Years Ended December 31, 2025 2024 2023 (in millions, except per share data) Cash dividend, per share $ 3.04 $ 2.64 $ 2.28 Cash dividends paid $ 2,756 $ 2,448 $ 2,158
+[END TABLE 054]
+
+[TABLE 055]
+Date of Declaration Amount Payable per Share Record Date Date Payable Aggregate Amount (in millions) December 9, 2025 $ 0.87 January 9, 2026 February 9, 2026 $ 777 February 10, 2026 $ 0.87 April 9, 2026 May 8, 2026 $ 776 1
+[END TABLE 055]
+
+[TABLE 056]
+(in millions, except per share data) Remaining authorization at December 31, 2024 $ 15,188 Dollar-value of shares repurchased in 2025 $ 11,727 Remaining authorization at December 31, 2025 $ 17,461 Shares repurchased in 2025 21.1 Average price paid per share in 2025 $ 555.78 Dollar-value of shares repurchased January 1, 2026 through February 6, 2026 $ 1,147
+[END TABLE 056]
+
+[TABLE 057]
+Page As of December 31, 2025 and 2024 and for the years ended December 31, 2025, 2024 and 2023 Management’s report on internal control over financial reporting 65 Report of independent registered public accounting firm (PCAOB ID 238 ) 66 Consolidated Statements of Operations 68 Consolidated Statements of Comprehensive Income 69 Consolidated Balance Sheet s 70 Consolidated Statements of Changes in Equity 71 Consolidated Statements of Cash Flows 73 Notes to consolidated financial statements 74
+[END TABLE 057]
+
+[TABLE 058]
+Consolidated Statements of Operations For the Years Ended December 31, 2025 2024 2023 (in millions, except per share data) Net Revenue $ 32,791 $ 28,167 $ 25,098 Operating Expenses: General and administrative 11,318 10,193 8,927 Advertising and marketing 929 815 825 Depreciation and amortization 1,143 897 799 Provision for litigation 504 680 539 Total operating expenses 13,894 12,585 11,090 Operating income 18,897 15,582 14,008 Other Income (Expense): Investment income 325 327 274 Gains (losses) on equity investments, net ( 88 ) ( 29 ) ( 61 ) Interest expense ( 722 ) ( 646 ) ( 575 ) Other income (expense), net 166 20 ( 7 ) Total other income (expense) ( 319 ) ( 328 ) ( 369 ) Income before income taxes 18,578 15,254 13,639 Income tax expense 3,610 2,380 2,444 Net Income $ 14,968 $ 12,874 $ 11,195 Basic Earnings per Share $ 16.54 $ 13.91 $ 11.86 Basic weighted-average shares outstanding 905 925 944 Diluted Earnings per Share $ 16.52 $ 13.89 $ 11.83 Diluted weighted-average shares outstanding 906 927 946 The accompanying notes are an integral part of these consolidated financial statements.
+[END TABLE 058]
+
+[TABLE 059]
+Consolidated Statements of Comprehensive Income For the Years Ended December 31, 2025 2024 2023 (in millions) Net Income $ 14,968 $ 12,874 $ 11,195 Other comprehensive income (loss): Foreign currency translation adjustments 596 ( 456 ) 328 Income tax effect ( 72 ) 17 ( 33 ) Foreign currency translation adjustments, net of income tax effect 524 ( 439 ) 295 Translation adjustments on net investment hedges ( 215 ) 147 ( 165 ) Income tax effect 46 ( 33 ) 37 Translation adjustments on net investment hedges, net of income tax effect ( 169 ) 114 ( 128 ) Cash flow hedges ( 301 ) 161 ( 41 ) Income tax effect 20 ( 12 ) 10 Reclassification adjustments for cash flow hedges 395 ( 178 ) 35 Income tax effect ( 11 ) — ( 8 ) Cash flow hedges, net of income tax effect 103 ( 29 ) ( 4 ) Defined benefit pension and other postretirement plans ( 8 ) 23 ( 18 ) Income tax effect 2 ( 4 ) 5 Reclassification adjustments for defined benefit pension and other postretirement plans — — ( 1 ) Income tax effect — — — Defined benefit pension and other postretirement plans, net of income tax effect ( 6 ) 19 ( 14 ) Investment securities available-for-sale — 1 6 Income tax effect — — ( 1 ) Investment securities available-for-sale, net of income tax effect — 1 5 Other comprehensive income (loss), net of income tax effect 452 ( 334 ) 154 Comprehensive Income $ 15,420 $ 12,540 $ 11,349 The accompanying notes are an integral part of these consolidated financial statements.
+[END TABLE 059]
+
+[TABLE 060]
+Consolidated Balance Sheets December 31, 2025 2024 (in millions, except per share data) Assets Current assets: Cash and cash equivalents $ 10,566 $ 8,442 Restricted cash and restricted cash equivalents 561 492 Restricted security deposits held for customers 2,121 1,874 Investments 332 330 Accounts receivable 4,609 3,773 Settlement assets 1,626 1,821 Prepaid expenses and other current assets 3,743 2,992 Total current assets 23,558 19,724 Property, equipment and right-of-use assets, net 2,303 2,138 Deferred income taxes 1,567 1,614 Goodwill 9,560 9,193 Other intangible assets, net 5,554 5,453 Other assets 11,615 9,959 Total Assets $ 54,157 $ 48,081 Liabilities and Equity Current liabilities: Accounts payable $ 999 $ 929 Settlement obligations 2,409 2,316 Restricted security deposits held for customers 2,121 1,874 Accrued litigation 800 930 Accrued expenses 13,272 10,393 Short-term debt 749 750 Other current liabilities 2,412 2,028 Total current liabilities 22,762 19,220 Long-term debt 18,251 17,476 Deferred income taxes 307 317 Other liabilities 5,091 4,553 Total Liabilities 46,411 41,566 Commitments and Contingencies Stockholders’ Equity Class A common stock, $ 0.0001 par value; authorized 3,000 shares, 1,406 and 1,404 shares issued and 887 and 907 shares outstanding, respectively — — Class B common stock, $ 0.0001 par value; authorized 1,200 shares, 7 shares issued and outstanding — — Additional paid-in-capital 6,907 6,442 Class A treasury stock, at cost, 518 and 497 shares, respectively ( 83,224 ) ( 71,431 ) Retained earnings 85,035 72,907 Accumulated other comprehensive income (loss) ( 981 ) ( 1,433 ) Mastercard Incorporated Stockholders' Equity 7,737 6,485 Non-controlling interests 9 30 Total Equity 7,746 6,515 Total Liabilities and Equity $ 54,157 $ 48,081 The accompanying notes are an integral part of these consolidated financial statements.
+[END TABLE 060]
+
+[TABLE 061]
+Consolidated Statements of Changes in Equity Stockholders’ Equity Common Stock Additional Paid-In Capital Class A Treasury Stock Retained Earnings Accumulated Other Comprehensive Income (Loss) Mastercard Incorporated Stockholders' Equity Non- Controlling Interests Total Equity Class A Class B (in millions) Balance at December 31, 2022 $ — $ — $ 5,298 $ ( 51,354 ) $ 53,607 $ ( 1,253 ) $ 6,298 $ 58 $ 6,356 Net income — — — — 11,195 — 11,195 — 11,195 Activity related to non-controlling interests — — — — — — — ( 12 ) ( 12 ) Redeemable non-controlling interest adjustments — — — — ( 7 ) — ( 7 ) — ( 7 ) Other comprehensive income (loss) — — — — — 154 154 — 154 Dividends — — — — ( 2,231 ) — ( 2,231 ) — ( 2,231 ) Purchases of treasury stock — — — ( 9,088 ) — — ( 9,088 ) — ( 9,088 ) Share-based payments — — 595 13 — — 608 — 608 Balance at December 31, 2023 — — 5,893 ( 60,429 ) 62,564 ( 1,099 ) 6,929 46 6,975 Net income — — — — 12,874 — 12,874 — 12,874 Activity related to non-controlling interests — — — — — — — ( 16 ) ( 16 ) Redeemable non-controlling interest adjustments — — — — ( 5 ) — ( 5 ) — ( 5 ) Other comprehensive income (loss) — — — — — ( 334 ) ( 334 ) — ( 334 ) Dividends — — — — ( 2,526 ) — ( 2,526 ) — ( 2,526 ) Purchases of treasury stock — — — ( 11,025 ) — — ( 11,025 ) — ( 11,025 ) Share-based payments — — 549 23 — — 572 — 572 Balance at December 31, 2024 — — 6,442 ( 71,431 ) 72,907 ( 1,433 ) 6,485 30 6,515
+[END TABLE 061]
+
+[TABLE 062]
+Consolidated Statements of Changes in Equity (Continued) Stockholders’ Equity Common Stock Additional Paid-In Capital Class A Treasury Stock Retained Earnings Accumulated Other Comprehensive Income (Loss) Mastercard Incorporated Stockholders' Equity Non- Controlling Interests Total Equity Class A Class B (in millions) Balance at December 31, 2024 — — 6,442 ( 71,431 ) 72,907 ( 1,433 ) 6,485 30 6,515 Net income — — — — 14,968 — 14,968 14,968 Activity related to non-controlling interests — — — — — — — ( 21 ) ( 21 ) Other comprehensive income (loss) — — — — — 452 452 — 452 Dividends — — — — ( 2,840 ) — ( 2,840 ) — ( 2,840 ) Purchases of treasury stock — — — ( 11,837 ) — — ( 11,837 ) — ( 11,837 ) Share-based payments — — 465 44 — — 509 — 509 Balance at December 31, 2025 $ — $ — $ 6,907 $ ( 83,224 ) $ 85,035 $ ( 981 ) $ 7,737 $ 9 $ 7,746 The accompanying notes are an integral part of these consolidated financial statements.
+[END TABLE 062]
+
+[TABLE 063]
+Consolidated Statements of Cash Flows For the Years Ended December 31, 2025 2024 2023 (in millions) Operating Activities Net income $ 14,968 $ 12,874 $ 11,195 Adjustments to reconcile net income to net cash provided by operating activities: Amortization of customer incentives 2,098 1,830 1,622 Depreciation and amortization 1,143 897 799 (Gains) losses on equity investments, net 88 29 61 Share-based compensation 597 526 460 Deferred income taxes 57 ( 527 ) ( 236 ) Other 139 191 22 Changes in operating assets and liabilities: Accounts receivable ( 642 ) 186 ( 546 ) Income taxes receivable ( 91 ) ( 165 ) ( 171 ) Settlement assets 202 ( 593 ) 40 Prepaid expenses ( 3,388 ) ( 3,225 ) ( 2,438 ) Accrued litigation and legal settlements ( 142 ) 205 ( 375 ) Restricted security deposits held for customers 247 29 277 Accounts payable 45 75 ( 99 ) Settlement obligations 89 922 282 Accrued expenses 1,836 1,587 571 Long-term taxes payable ( 185 ) ( 163 ) ( 129 ) Net change in other assets and liabilities 587 102 645 Net cash provided by operating activities 17,648 14,780 11,980 Investing Activities Purchases of investment securities available-for-sale ( 501 ) ( 508 ) ( 300 ) Purchases of investments held-to-maturity ( 28 ) ( 108 ) ( 347 ) Proceeds from sales of investment securities available-for-sale 254 199 87 Proceeds from maturities of investment securities available-for-sale 232 262 191 Proceeds from maturities of investments held-to-maturity 52 378 157 Purchases of property and equipment ( 489 ) ( 474 ) ( 371 ) Capitalized software ( 726 ) ( 720 ) ( 717 ) Purchases of equity investments ( 339 ) ( 42 ) ( 89 ) Proceeds from sales of equity investments 181 125 44 Acquisition of businesses, net of cash acquired — ( 2,511 ) — Other investing activities 2 ( 3 ) ( 6 ) Net cash used in investing activities ( 1,362 ) ( 3,402 ) ( 1,351 ) Financing Activities Purchases of treasury stock ( 11,727 ) ( 10,954 ) ( 9,032 ) Dividends paid ( 2,756 ) ( 2,448 ) ( 2,158 ) Proceeds from debt, net 1,242 3,960 1,554 Payment of debt ( 750 ) ( 1,336 ) — Tax withholdings related to share-based payments ( 291 ) ( 178 ) ( 89 ) Cash proceeds from employee stock plans 203 224 237 Other financing activities ( 100 ) ( 104 ) — Net cash used in financing activities ( 14,179 ) ( 10,836 ) ( 9,488 ) Effect of exchange rate changes on cash, cash equivalents, restricted cash and restricted cash equivalents 333 ( 199 ) 128 Net increase in cash, cash equivalents, restricted cash and restricted cash equivalents 2,440 343 1,269 Cash, cash equivalents, restricted cash and restricted cash equivalents - beginning of period 10,808 10,465 9,196 Cash, cash equivalents, restricted cash and restricted cash equivalents - end of period $ 13,248 $ 10,808 $ 10,465 The accompanying notes are an integral part of these consolidated financial statements.
+[END TABLE 063]
+
+[TABLE 064]
+2024 (in millions) Assets: Cash and cash equivalents $ 270 Prepaid expenses and other current assets 79 Goodwill 1,736 Other intangible assets, net 1,361 Other assets 20 Total assets 3,466 Liabilities: Other current liabilities 413 Deferred income taxes 207 Other liabilities 65 Total liabilities 685 Net assets acquired $ 2,781
+[END TABLE 064]
+
+[TABLE 065]
+2024 2024 Acquisition Date Fair Value Weighted-Average Useful Life (in millions) (in years) Developed technologies $ 530 8.9 Customer relationships 781 15.0 Other 50 9.0 Other intangible assets, net $ 1,361 12.4
+[END TABLE 065]
+
+[TABLE 066]
+2025 2024 2023 (in millions) Net revenue by category: Payment network $ 19,476 $ 17,335 $ 15,824 Value-added services and solutions 13,315 10,832 9,274 Net revenue $ 32,791 $ 28,167 $ 25,098 Net revenue by geographic region: Americas 1 $ 14,044 $ 12,375 $ 11,135 Asia Pacific, Europe, Middle East and Africa 18,747 15,792 13,963 Net revenue $ 32,791 $ 28,167 $ 25,098
+[END TABLE 066]
+
+[TABLE 067]
+2025 2024 (in millions) Receivables from contracts with customers Accounts receivable $ 4,010 $ 3,491 Contract assets Prepaid expenses and other current assets 189 210 Other assets 508 460 Deferred revenue 1 Other current liabilities 1,137 890 Other liabilities 424 449
+[END TABLE 067]
+
+[TABLE 068]
+2025 2024 2023 (in millions, except per share data) Numerator Net income $ 14,968 $ 12,874 $ 11,195 Denominator Basic weighted-average shares outstanding 905 925 944 Dilutive stock options and stock units 1 2 2 Diluted weighted-average shares outstanding 1 906 927 946 Earnings per Share Basic $ 16.54 $ 13.91 $ 11.86 Diluted $ 16.52 $ 13.89 $ 11.83
+[END TABLE 068]
+
+[TABLE 069]
+2025 2024 (in millions) Available-for-sale securities $ 319 $ 292 Held-to-maturity securities 1 13 38 Total investments $ 332 $ 330
+[END TABLE 069]
+
+[TABLE 070]
+Amortized Cost Fair Value (in millions) Due within 1 year $ 103 $ 103 Due after 1 year through 5 years 215 216 Total $ 318 $ 319
+[END TABLE 070]
+
+[TABLE 071]
+Balance at December 31, 2024 Purchases Sales Changes in Fair Value 1 Other 2 Balance at December 31, 2025 (in millions) Marketable securities $ 237 $ — $ ( 168 ) $ ( 86 ) $ 220 $ 203 Nonmarketable securities 1,370 339 ( 13 ) ( 2 ) ( 192 ) 1,502 Total equity investments $ 1,607 $ 339 $ ( 181 ) $ ( 88 ) $ 28 $ 1,705
+[END TABLE 071]
+
+[TABLE 072]
+2025 2024 (in millions) Measurement alternative $ 1,242 $ 1,140 Equity method 260 230 Total Nonmarketable securities $ 1,502 $ 1,370
+[END TABLE 072]
+
+[TABLE 073]
+2025 (in millions) Initial cost basis $ 932 Cumulative adjustments 1 : Upward adjustments 522 Downward adjustments (including impairment) ( 212 ) Carrying amount, end of period $ 1,242
+[END TABLE 073]
+
+[TABLE 074]
+2025 2024 2023 (in millions) Measurement alternative investments: Upward adjustments $ 31 $ 11 $ 7 Downward adjustments (including impairment) ( 32 ) ( 9 ) ( 145 ) Marketable securities: Unrealized gains (losses), net ( 84 ) ( 34 ) 97
+[END TABLE 074]
+
+[TABLE 075]
+December 31, 2025 December 31, 2024 Quoted Prices in Active Markets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) Total Quoted Prices in Active Markets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) Total (in millions) Assets Investment securities: Available-for-sale securities 1 $ 20 $ 299 $ — $ 319 $ 36 $ 256 $ — $ 292 Derivative instruments 2 : Foreign exchange contracts — 35 — 35 — 206 — 206 Marketable securities 3 : Equity securities 203 — — 203 237 — — 237 Liabilities Derivative instruments 2 : Foreign exchange contracts $ — $ 160 $ — $ 160 $ — $ 36 $ — $ 36 Interest rate contracts — 27 — 27 — 63 — 63
+[END TABLE 075]
+
+[TABLE 076]
+2025 2024 (in millions) Customer incentives $ 2,531 $ 1,854 Other 1,212 1,138 Total prepaid expenses and other current assets $ 3,743 $ 2,992
+[END TABLE 076]
+
+[TABLE 077]
+2025 2024 (in millions) Customer incentives $ 7,870 $ 6,550 Equity investments 1,705 1,607 Income taxes receivable 1,101 1,002 Other 939 800 Total other assets $ 11,615 $ 9,959
+[END TABLE 077]
+
+[TABLE 078]
+2025 2024 (in millions) Buildings, building equipment and land $ 744 $ 709 Equipment 2,347 2,118 Furniture and fixtures 105 101 Leasehold improvements 497 436 Operating lease right-of-use assets 1,366 1,167 Property, equipment and right-of-use assets 5,059 4,531 Less: Accumulated depreciation and amortization ( 2,756 ) ( 2,393 ) Property, equipment and right-of-use assets, net $ 2,303 $ 2,138
+[END TABLE 078]
+
+[TABLE 079]
+2025 2024 (in millions) Balance sheet location Property, equipment and right-of-use assets, net $ 750 $ 681 Other current liabilities 157 133 Other liabilities 676 627
+[END TABLE 079]
+
+[TABLE 080]
+Asset Category Estimated Useful Life Buildings 30 years Building equipment 10 - 15 years Equipment and furniture and fixtures 2 - 6 years Leasehold improvements Shorter of life of improvement or lease term Right-of-use assets Shorter of life of the asset or lease term
+[END TABLE 080]
+
+[TABLE 081]
+(in millions) 2026 $ 187 2027 151 2028 126 2029 101 2030 87 Thereafter 306 Total operating lease payments 958 Less: Interest ( 125 ) Present value of operating lease liabilities $ 833
+[END TABLE 081]
+
+[TABLE 082]
+2025 2024 (in millions) Beginning balance $ 9,193 $ 7,660 Additions — 1,736 Foreign currency translation 367 ( 203 ) Ending balance $ 9,560 $ 9,193
+[END TABLE 082]
+
+[TABLE 083]
+2025 2024 Gross Carrying Amount Accumulated Amortization Net Carrying Amount Gross Carrying Amount Accumulated Amortization Net Carrying Amount (in millions) Finite-lived intangible assets Capitalized software 1 $ 5,415 $ ( 2,110 ) $ 3,305 $ 4,797 $ ( 1,640 ) $ 3,157 Customer relationships 2,967 ( 942 ) 2,025 2,804 ( 720 ) 2,084 Other 96 ( 44 ) 52 99 ( 40 ) 59 Total 8,478 ( 3,096 ) 5,382 7,700 ( 2,400 ) 5,300 Indefinite-lived intangible assets Customer relationships 172 — 172 153 — 153 Total $ 8,650 $ ( 3,096 ) $ 5,554 $ 7,853 $ ( 2,400 ) $ 5,453
+[END TABLE 083]
+
+[TABLE 084]
+(in millions) 2026 $ 801 2027 765 2028 692 2029 647 2030 569 Thereafter 1,908 Total $ 5,382
+[END TABLE 084]
+
+[TABLE 085]
+2025 2024 (in millions) Customer incentives $ 9,958 $ 7,627 Personnel costs 1,716 1,681 Income and other taxes 914 454 Other 684 631 Total accrued expenses $ 13,272 $ 10,393
+[END TABLE 085]
+
+[TABLE 086]
+2025 2024 (in millions) Fair value of plan assets $ 499 $ 454 Projected benefit obligation 452 410 Accumulated benefit obligation 450 408 Funded Status 47 44
+[END TABLE 086]
+
+[TABLE 087]
+2025 2024 Effective Interest Rate (in millions) Senior Notes 2025 USD Notes Floating Rate Senior Notes due March 2028 $ 300 $ — ** 4.550 % Senior Notes due March 2028 450 — 4.727 % 4.950 % Senior Notes due March 2032 500 — 5.063 % 2024 USD Notes 4.100 % Senior Notes due January 2028 750 750 4.262 % 4.350 % Senior Notes due January 2032 1,150 1,150 4.446 % 4.550 % Senior Notes due January 2035 1,100 1,100 4.633 % 4.875 % Senior Notes due May 2034 1,000 1,000 5.047 % 2023 USD Notes 4.875 % Senior Notes due March 2028 750 750 5.003 % 4.850 % Senior Notes due March 2033 750 750 4.923 % 2022 EUR Notes 1.000 % Senior Notes due February 2029 882 781 1.138 % 2021 USD Notes 2.000 % Senior Notes due November 2031 750 750 2.112 % 1.900 % Senior Notes due March 2031 600 600 1.981 % 2.950 % Senior Notes due March 2051 700 700 3.013 % 2020 USD Notes 3.300 % Senior Notes due March 2027 1,000 1,000 3.420 % 3.350 % Senior Notes due March 2030 1,500 1,500 3.430 % 3.850 % Senior Notes due March 2050 1,500 1,500 3.896 % 2019 USD Notes 2.950 % Senior Notes due June 2029 1,000 1,000 3.030 % 3.650 % Senior Notes due June 2049 1,000 1,000 3.689 % 2.000 % Senior Notes due March 2025 — 750 2.147 % 2018 USD Notes 3.500 % Senior Notes due February 2028 500 500 3.598 % 3.950 % Senior Notes due February 2048 500 500 3.990 % 2016 USD Notes 2.950 % Senior Notes due November 2026 750 750 3.044 % 3.800 % Senior Notes due November 2046 600 600 3.893 % 2015 EUR Notes 2.100 % Senior Notes due December 2027 941 833 2.189 % 2.500 % Senior Notes due December 2030 176 156 2.562 % 19,149 18,420 Less: Unamortized discount and debt issuance costs ( 122 ) ( 131 ) Less: Cumulative hedge accounting fair value adjustments 1 ( 27 ) ( 63 ) Total debt outstanding 19,000 18,226 Less: Short-term debt 2 ( 749 ) ( 750 ) Long-term debt $ 18,251 $ 17,476
+[END TABLE 087]
+
+[TABLE 088]
+(in millions) 2026 $ 750 2027 1,941 2028 2,750 2029 1,882 2030 1,676 Thereafter 10,150 Total $ 19,149
+[END TABLE 088]
+
+[TABLE 089]
+Class Par Value Per Share Authorized Shares (in millions) Dividend and Voting Rights A $ 0.0001 3,000 One vote per share Dividend rights B $ 0.0001 1,200 Non-voting Dividend rights Preferred $ 0.0001 300 No shares issued or outstanding at December 31, 2025 and 2024. Dividend and voting rights are to be determined by the Board of Directors of the Company upon issuance.
+[END TABLE 089]
+
+[TABLE 090]
+2025 2024 2023 (in millions, except per share data) Dividends declared per share $ 3.15 $ 2.74 $ 2.37 Total dividends declared $ 2,840 $ 2,526 $ 2,231
+[END TABLE 090]
+
+[TABLE 091]
+2025 2024 Equity Ownership General Voting Power Equity Ownership General Voting Power Class A stockholders 99.3 % 100.0 % 99.3 % 100.0 % Class B stockholders (Principal or Affiliate Customers) 0.7 % — % 0.7 % — %
+[END TABLE 091]
+
+[TABLE 092]
+Outstanding Shares Class A Class B (in millions) Balance at December 31, 2022 948.4 7.6 Purchases of treasury stock ( 23.8 ) — Share-based payments 2.3 — Conversion of Class B to Class A common stock 0.4 ( 0.4 ) Balance at December 31, 2023 927.3 7.2 Purchases of treasury stock ( 23.0 ) — Share-based payments 1.9 — Conversion of Class B to Class A common stock 0.4 ( 0.4 ) Balance at December 31, 2024 906.6 6.8 Purchases of treasury stock ( 21.1 ) — Share-based payments 1.6 — Conversion of Class B to Class A common stock 0.2 ( 0.2 ) Balance at December 31, 2025 887.3 6.6
+[END TABLE 092]
+
+[TABLE 093]
+2025 2024 2023 (In millions, except per share data) Board authorization $ 14,000 $ 12,000 $ 11,000 Dollar-value of shares repurchased $ 11,727 $ 10,954 $ 9,032 Shares repurchased 21.1 23.0 23.8 Average price paid per share $ 555.78 $ 475.35 $ 379.49
+[END TABLE 093]
+
+[TABLE 094]
+December 31, 2024 Increase / (Decrease) Reclassifications December 31, 2025 (in millions) Foreign currency translation adjustments 1 $ ( 1,558 ) $ 524 $ — $ ( 1,034 ) Translation adjustments on net investment hedges 2 295 ( 169 ) — 126 Cash flow hedges Foreign exchange contracts 3 ( 51 ) ( 281 ) 378 46 Interest rate contracts ( 113 ) — 6 ( 107 ) Defined benefit pension and other postretirement plans ( 6 ) ( 6 ) — ( 12 ) Investment securities available-for-sale — — — — Accumulated other comprehensive income (loss) $ ( 1,433 ) $ 68 $ 384 $ ( 981 )
+[END TABLE 094]
+
+[TABLE 095]
+December 31, 2023 Increase / (Decrease) Reclassifications December 31, 2024 (in millions) Foreign currency translation adjustments 1 $ ( 1,119 ) $ ( 439 ) $ — $ ( 1,558 ) Translation adjustments on net investment hedges 2 181 114 — 295 Cash flow hedges Foreign exchange contracts 3 ( 17 ) 149 ( 183 ) ( 51 ) Interest rate contracts ( 118 ) — 5 ( 113 ) Defined benefit pension and other postretirement plans ( 25 ) 19 — ( 6 ) Investment securities available-for-sale ( 1 ) 1 — — Accumulated other comprehensive income (loss) $ ( 1,099 ) $ ( 156 ) $ ( 178 ) $ ( 1,433 )
+[END TABLE 095]
+
+[TABLE 096]
+2025 2024 2023 Risk-free rate of return 4.1 % 4.2 % 4.2 % Expected term (in years) 6.00 6.00 6.00 Expected volatility 27.4 % 28.7 % 29.5 % Expected dividend yield 0.5 % 0.6 % 0.6 % Weighted-average fair value per Option granted $ 192.87 $ 164.66 $ 123.22
+[END TABLE 096]
+
+[TABLE 097]
+Options Weighted-Average Exercise Price Weighted-Average Remaining Contractual Term Aggregate Intrinsic Value (in millions) (in years) (in millions) Outstanding at January 1, 2025 2.1 $ 273 Granted 0.2 $ 574 Exercised ( 0.5 ) $ 196 Forfeited — $ 453 Outstanding at December 31, 2025 1.8 $ 325 5.2 $ 432 Exercisable at December 31, 2025 1.4 $ 274 4.2 $ 403 Options vested and expected to vest at December 31, 2025 1.8 $ 325 5.2 $ 432
+[END TABLE 097]
+
+[TABLE 098]
+Units Weighted-Average Grant-Date Fair Value Aggregate Intrinsic Value (in millions) (in millions) Outstanding at January 1, 2025 2.1 $ 403 Granted 1.0 $ 566 Converted ( 1.1 ) $ 385 Forfeited ( 0.1 ) $ 470 Outstanding at December 31, 2025 1.9 $ 498 $ 1,070 RSUs expected to vest at December 31, 2025 1.8 $ 498 $ 1,032
+[END TABLE 098]
+
+[TABLE 099]
+Units Weighted-Average Grant-Date Fair Value Aggregate Intrinsic Value (in millions) (in millions) Outstanding at January 1, 2025 0.6 $ 396 Granted 0.2 $ 608 Converted ( 0.2 ) $ 335 Other — $ 364 Outstanding at December 31, 2025 0.6 $ 472 $ 335 PSUs expected to vest at December 31, 2025 0.6 $ 472 $ 331
+[END TABLE 099]
+
+[TABLE 100]
+2025 2024 2023 (in millions, except weighted-average fair value) Share-based compensation expense $ 597 $ 526 $ 460 Income tax benefit recognized for equity awards 128 111 99 Income tax benefit realized related to Options exercised 26 77 95 Options Total intrinsic value of Options exercised 180 354 487 RSUs Weighted-average grant-date fair value of awards granted 566 472 350 Total grant-date fair value of awards vested 421 340 235 Total intrinsic value of RSUs converted into shares of Class A common stock 622 477 253 PSUs Weighted-average grant-date fair value of awards granted 608 512 365 Total grant-date fair value of awards vested 79 99 12 Total intrinsic value of PSUs converted into shares of Class A common stock 135 122 14
+[END TABLE 100]
+
+[TABLE 101]
+(in millions) 2026 $ 714 2027 581 2028 291 2029 131 2030 115 Thereafter 201 Total $ 2,033
+[END TABLE 101]
+
+[TABLE 102]
+2025 2024 2023 (in millions) United States $ 6,652 $ 6,168 $ 4,506 Foreign 11,926 9,086 9,133 Income before income taxes $ 18,578 $ 15,254 $ 13,639
+[END TABLE 102]
+
+[TABLE 103]
+2025 2024 2023 (in millions) Current Federal $ 1,265 $ 1,093 $ 991 State and local ( 198 ) 144 127 Foreign 2,486 1,670 1,563 Total current 3,553 2,907 2,681 Deferred Federal ( 173 ) ( 197 ) ( 180 ) State and local 32 ( 14 ) ( 18 ) Foreign 198 ( 316 ) ( 39 ) Total deferred 57 ( 527 ) ( 237 ) Income tax expense $ 3,610 $ 2,380 $ 2,444
+[END TABLE 103]
+
+[TABLE 104]
+2025 2024 2023 Amount Percent Amount Percent Amount Percent ($ in millions) Income before income taxes $ 18,578 $ 15,254 $ 13,639 Federal statutory tax 3,901 21.0 % 3,203 21.0 % 2,864 21.0 % Foreign tax effects Singapore Statutory tax rate difference between Singapore and U.S. ( 161 ) ( 0.9 ) % ( 162 ) ( 1.1 ) % ( 147 ) ( 1.1 ) % Singapore tax incentive ( 330 ) ( 1.8 ) % ( 644 ) ( 4.2 ) % ( 571 ) ( 4.2 ) % Pillar 2 Rules 233 1.3 % — — % — — % Other foreign jurisdictions 408 2.2 % 240 1.6 % 374 2.7 % Effects of cross border tax laws Foreign-derived intangible income deduction ( 204 ) ( 1.1 ) % ( 195 ) ( 1.3 ) % ( 144 ) ( 1.1 ) % U.S. foreign tax credits ( 259 ) ( 1.4 ) % ( 224 ) ( 1.5 ) % 73 0.5 % Other 140 0.8 % 77 0.5 % 110 0.8 % Effects of changes in tax law — — % — — % ( 688 ) ( 5.0 ) % Valuation allowance 76 0.4 % 113 0.7 % 644 4.7 % Other, net $ ( 194 ) ( 1.0 ) % ( 28 ) ( 0.2 ) % ( 71 ) ( 0.5 ) % Income tax expense $ 3,610 19.4 % $ 2,380 15.6 % $ 2,444 17.9 %
+[END TABLE 104]
+
+[TABLE 105]
+2025 2024 2023 (in millions) Federal $ 1,359 $ 1,279 $ 1,194 State 95 155 133 Foreign Belgium 668 562 516 United Kingdom 330 592 429 Brazil 168 333 254 Other 400 331 220 Total $ 3,020 $ 3,252 $ 2,746
+[END TABLE 105]
+
+[TABLE 106]
+2025 2024 (in millions) Deferred tax assets Accrued liabilities $ 1,079 $ 939 Compensation and benefits 408 371 Net operating losses 221 468 U.S. foreign tax credits 802 736 Property and equipment 482 432 Intangible assets 169 160 Lease liabilities 143 134 Other items 246 236 Less: Valuation allowance ( 974 ) ( 871 ) Total deferred tax assets 2,576 2,605 Deferred tax liabilities Prepaid expenses and other accruals 280 195 Gains on equity investments 111 112 Goodwill and intangible assets 718 760 Right-of-use lease assets 124 116 Other items 83 125 Total deferred tax liabilities 1,316 1,308 Net deferred tax assets $ 1,260 $ 1,297
+[END TABLE 106]
+
+[TABLE 107]
+Balance at December 31, 2022 Changes to Related Gross Deferred Tax Assets Change/(Release) Balance at December 31, 2023 Changes to Related Gross Deferred Tax Assets Change/(Release) Balance at December 31, 2024 Changes to Related Gross Deferred Tax Assets Change/(Release) Balance at December 31, 2025 (in millions) U.S. foreign tax credit carryforward 1 $ — $ 308 $ 327 $ 635 $ 101 $ — $ 736 $ 66 $ — $ 802 Net operating and capital losses 2 114 12 ( 3 ) 123 11 1 135 34 3 172 Total $ 114 $ 320 $ 324 $ 758 $ 112 $ 1 $ 871 $ 100 $ 3 $ 974
+[END TABLE 107]
+
+[TABLE 108]
+2025 2024 2023 (in millions) Beginning balance $ 304 $ 431 $ 414 Additions: Current year tax positions 38 37 23 Prior year tax positions 1 68 34 16 Reductions: Prior year tax positions 1 ( 93 ) ( 189 ) ( 7 ) Settlements with tax authorities — — — Expired statute of limitations ( 6 ) ( 9 ) ( 15 ) Ending balance $ 311 $ 304 $ 431
+[END TABLE 108]
+
+[TABLE 109]
+2025 2024 (in millions) Gross settlement exposure $ 89,599 $ 78,385 Risk mitigation arrangements applied to settlement exposure ( 16,722 ) ( 13,466 ) Net settlement exposure $ 72,877 $ 64,919
+[END TABLE 109]
+
+[TABLE 110]
+2025 2024 Notional Derivative assets Derivative liabilities Notional Derivative assets Derivative liabilities (in millions) Derivatives designated as hedging instruments Foreign exchange contracts in a cash flow hedge 1 $ 5,050 $ 16 $ 142 $ 3,951 $ 135 $ 6 Interest rate contracts in a fair value hedge 2 1,000 — 27 1,000 — 63 Foreign exchange contracts in a net investment hedge 1 — — — 2,511 54 — Derivatives not designated as hedging instruments Foreign exchange contracts 1 4,866 19 18 2,741 17 30 Total $ 10,916 $ 35 $ 187 $ 10,203 $ 206 $ 99
+[END TABLE 110]
+
+[TABLE 111]
+Gain (Loss) Recognized in Other Comprehensive Income (Loss) Location of Gain (Loss) Reclassified from Accumulated Other Comprehensive Income (Loss) into Earnings Gain (Loss) Reclassified from Accumulated Other Comprehensive Income (Loss) 2025 2024 2023 2025 2024 2023 (in millions) (in millions) Foreign exchange contracts 1 $ ( 301 ) $ 161 $ ( 41 ) Net revenue $ ( 45 ) $ 8 $ ( 29 ) General and administrative 2 $ ( 343 ) $ 177 $ —
+[END TABLE 111]
+
+[TABLE 112]
+2025 2024 2023 (in millions) Foreign exchange contracts $ 12 $ 43 $ ( 98 )
+[END TABLE 112]
+
+[TABLE 113]
+2025 2024 2023 (in millions) Foreign exchange contracts General and administrative $ 64 $ 32 $ 42
+[END TABLE 113]
+
+[TABLE 114]
+2025 2024 2023 (in millions) Net revenue $ 32,791 $ 28,167 $ 25,098 Less: Personnel 7,251 6,673 6,022 Professional Fees 537 549 495 Data processing and telecommunications 1,272 1,119 1,008 Foreign exchange activity 113 65 83 Advertising and marketing 929 815 825 Depreciation and amortization 1,143 897 799 Provision for litigation 504 680 539 Investment Income ( 325 ) ( 327 ) ( 274 ) (Gains) losses on equity investments, net 88 29 61 Interest expense 722 646 575 Other (income) expense, net ( 166 ) ( 20 ) 7 Income tax expense 3,610 2,380 2,444 Other segment items 1 2,145 1,787 1,319 Consolidated Net Income $ 14,968 $ 12,874 $ 11,195
+[END TABLE 114]
+
+[TABLE 115]
+2025 2024 2023 (in millions) United States $ 1,168 $ 1,095 $ 1,027 Other countries 1,135 1,043 1,034 Total $ 2,303 $ 2,138 $ 2,061
+[END TABLE 115]
+
+[TABLE 116]
+Action Date Plans Number of Securities to be Sold Expiration Rule 10b5-1 1 Non-Rule 10b5-1 2 Michael Miebach , President and Chief Executive Officer Adoption November 3, 2025 X - Up to (i) 26,400 shares of Class A common stock underlying employee stock options, (ii) 16,000 shares of Class A common stock underlying vested but not yet settled performance stock units and (iii) 6,228 shares of Class A common stock 3 The earlier of (i) the date when all securities under the plan are exercised and sold and (ii) November 15, 2026 Ed McLaughlin , President & Chief Technology Officer, Mastercard Technology Adoption November 4, 2025 X - Up to 34,060 shares of Class A common stock underlying employee stock options The earlier of (i) the date when all securities under the plan are exercised and sold and (ii) November 4, 2026 Ling Hai , President, Asia Pacific, Europe, Middle East & Africa Adoption December 10, 2025 X - Up to 12,952 shares of Class A common stock underlying employee stock options The earlier of (i) the date when all securities under the plan are exercised and sold and (ii) February 26, 2027 Craig Vosburg , Chief Services Officer Adoption December 10, 2025 X - Up to 7,443 shares of Class A common stock The earlier of (i) the date when all securities under the plan are sold and (ii) December 31, 2026
+[END TABLE 116]
+
+[TABLE 117]
+PART III Item 10. Directors, executive officers and corporate governance Item 11. Executive compensation Item 12. Security ownership of certain beneficial owners and management and related stockholder matters Item 13. Certain relationships and related transactions, and director independence Item 14. Principal accountant fees and services
+[END TABLE 117]
+
+[TABLE 118]
+PART IV Item 15. Exhibits and financial statement schedules Item 16. Form 10-K summary
+[END TABLE 118]
+
+[TABLE 119]
+Exhibit number Exhibit Description 3.1 Restated Certificate of Incorporation of Mastercard Incorporated (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K filed June 2 6 , 202 5 (File No. 001-32877)). 3.2 Amended and Restated By-Laws of Mastercard Incorporated (incorporated by reference to Exhibit 3. 2 to the Company’s Current Report on Form 8-K filed June 26, 2025 (File No. 001-32877)). 4.1 Indenture, dated as of March 31, 2014, between the Company and Deutsche Bank Trust Company Americas, as trustee (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 31, 2014 (File No. 001-32877)). 4.2 Officer’s Certificate of the Company, dated as of December 1, 2015 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on December 1, 2015 (File No. 001-32877)). 4.3 Form of Global Note representing the Company’s 2.100% Notes due 2027 (included in Officer’s Certificate of the Company, dated as of December 1, 2015) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on December 1, 2015 (File No. 001-32877)). 4.4 Form of Global Note representing the Company’s 2.500% Notes due 2030 (included in Officer’s Certificate of the Company, dated as of December 1, 2015) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on December 1, 2015 (File No. 001-32877)). 4.5 Officer’s Certificate of the Company, dated as of November 21, 2016 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on November 21, 2016 (File No. 001-32877)). 4.6 Form of Global Note representing the Company’s 2.950% Notes due 2026 (included in Officer’s Certificate of the Company, dated as of November 21, 2016) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on November 21, 2016 (File No. 001-32877)). 4.7 Form of Global Note representing the Company’s 3.800% Notes due 2046 (included in Officer’s Certificate of the Company, dated as of November 21, 2016) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on November 21, 2016 (File No. 001-32877)). 4.8 Officer’s Certificate of the Company, dated as of February 26, 2018 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 26, 2018 (File No. 001-32877)). 4.9 Form of Global Note representing the Company’s 3.5% Notes due 2028 (included in Officer’s Certificate of the Company, dated as of February 26, 2018) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 26, 2018 (File No. 001-32877)). 4.10 Form of Global Note representing the Company’s 3.95% Notes due 2048 (included in Officer’s Certificate of the Company, dated as of February 26, 2018) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 26, 2018 (File No. 001-32877)). 4.11 Officer’s Certificate of the Company, dated as of May 31, 2019 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on May 31, 2019 (File No. 001-32877)). 4.12 Form of Global Note representing the Company’s 2.950% Notes due 2029 (included in Officer’s Certificate of the Company, dated as of May 31, 2019) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on May 31, 2019 (File No. 001-32877)). 4.13 Form of Global Note representing the Company’s 3.650% Notes due 2049 (included in Officer’s Certificate of the Company, dated as of May 31, 2019) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on May 31, 2019 (File No. 001-32877)). 4.1 4 Officer’s Certificate of the Company, dated as of March 26, 2020 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 26, 2020 (File No. 001-32877)). 4.1 5 Form of Global Note representing the Company’s 3.300% Notes due 2027 (included in Officer’s Certificate of the Company, dated as of March 26, 2020) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 26, 2020 (File No. 001-32877)). 4.1 6 Form of Global Note representing the Company’s 3.350% Notes due 2030 (included in Officer’s Certificate of the Company, dated as of March 26, 2020) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 26, 2020 (File No. 001-32877)). 4.1 7 Form of Global Note representing the Company’s 3.850% Notes due 2050 (included in Officer’s Certificate of the Company, dated as of March 26, 2020) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 26, 2020 (File No. 001-32877)). 4. 18 Officer’s Certificate of the Company, dated as of March 4, 2021 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 4, 2021 (File No. 001-32877)). 4. 19 Form of Global Note representing the Company’s 1.900% Notes due 2031 (included in Officer’s Certificate of the Company, dated as of March 4, 2021) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 4, 2021 (File No. 001-32877)). 4.2 0 Form of Global Note representing the Company’s 2.950% Notes due 2051 (included in Officer’s Certificate of the Company, dated as of March 4, 2021) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 4, 2021 (File No. 001-32877)). 4.2 1 Officer’s Certificate of the Company, dated as of November 18, 2021 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on November 18, 2021 (File No. 001-32877)). 4.2 2 Form of Global Note representing the Company’s 2.000% Notes due 2031 (included in Officer’s Certificate of the Company, dated as of November 18, 2021) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on November 18, 2021 (File No. 001-32877)). 4.2 3 Officer’s Certificate of the Company, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 22, 2022 (File No. 001-32877)). 4.2 4 Form of Global Note representing the Company’s 1.000% Notes due 2029 (included in Officer’s Certificate of the Company, dated as of February 22, 2022) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 22, 2022 (File No. 001-32877)). 4.2 5 Officer’s Certificate of the Company, dated as of March 9, 2023 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 9, 2023 (File No. 001-32877)). 4.2 6 Form of Global Note representing the Company’s 4.875% Notes due 2028 (included in Officer’s Certificate of the Company, dated as of March 9, 2023) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 9, 2023 (File No. 001-32877)). 4.2 7 Form of Global Note representing the Company’s 4.850% Notes due 2033 (included in Officer’s Certificate of the Company, dated as of March 9, 2023) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on March 9, 2023 (File No. 001-32877)). 4. 28 Officer’s Certificate of the Company, dated as of May 9, 2024 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on May 9, 2024 (File No. 001-32877)). 4. 29 Form of Global Note representing the Company’s 4.875% Notes due 2034 (included in Officer’s Certificate of the Company, dated as of May 9, 2024) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on May 9, 2024 (File No. 001-32877)). 4.3 0 Officer’s Certificate of the Company, dated as of September 5, 2024 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on September 5, 2024 (File No. 001-32877)). 4.3 1 Form of Global Note representing the Company’s 4.100% Notes due 2028 (included in Officer’s Certificate of the Company, dated as of September 5, 2024) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on September 5, 2024 (File No. 001-32877)). 4.3 2 Form of Global Note representing the Company’s 4.350% Notes due 2032 (included in Officer’s Certificate of the Company, dated as of September 5, 2024) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on September 5, 2024 (File No. 001-32877)). 4.3 3 Form of Global Note representing the Company’s 4.550% Notes due 2035 (included in Officer’s Certificate of the Company, dated as of September 5, 2024) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on September 5, 2024 (File No. 001-32877)). 4 .34 Officer’s Certificate of the Company, dated as of February 27, 2025 (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 27, 2025 (File No. 001-32877)). 4 .35 Form of Global Note representing the Company’s Floating Rate Notes due 2028 (included in Officer’s Certificate of the Company, dated as of February 27, 2025) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 27, 2025 (File No. 001-32877)). 4 .36 Form of Global Note representing the Company’s 4.550% Notes due 2028 (included in Officer’s Certificate of the Company, dated as of February 27, 2025) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 27, 2025 (File No. 001-32877)). 4 .37 Form of Global Note representing the Company’s 4.950% Notes due 2032 (included in Officer’s Certificate of the Company, dated as of February 27, 2025) (incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed on February 27, 2025 (File No. 001-32877)). 4.3 8 * Description of Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934 . 10.1 * $8,000,000,000 Amended and Restated Credit Agreement, dated as of November 7 , 202 5 , among Mastercard Incorporated, the several lenders and agents from time to time party thereto, Citibank, N.A., as managing administrative agent and JPMorgan Chase Bank, N.A. as administrative agent . 10.2+ Mastercard International Senior Executive Annual Incentive Compensation Plan, as amended and restated effective June 12, 2023 (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed July 27, 2023 (File No. 001-32877)). 10.3+ Mastercard International Incorporated Restoration Program, as amended and restated January 1, 2007 unless otherwise provided (incorporated by reference to Exhibit 10.22 to the Company’s Annual Report on Form 10-K filed February 19, 2009 (File No. 001-32877)). 10.4+ Mastercard Incorporated Deferral Plan, as amended and restated effective June 15, 2017 for account balances established after December 31, 2004 (incorporated by reference to Exhibit 10. 4 to the Company’s Annual Report on Form 10-K filed on February 1 2 , 202 5 (File No. 001-32877)) . 10.5+ Mastercard Incorporated 2006 Long Term Incentive Plan, amended and restated effective June 22, 2021 (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed July 29, 2021 (File No. 001-32877)). 10.6+ Form of Restricted Stock Unit Agreement for awards under 2006 Long Term Incentive Plan (effective for awards granted on and subsequent to March 1, 202 5 ) (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed May 1, 202 5 (File No. 001-32877)). 10.7+ Form of Stock Option Agreement for awards under 2006 Long Term Incentive Plan (effective for awards granted on and subsequent to March 1, 202 5 ) (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed May 1, 202 5 (File No. 001-32877)). 10.8+ Form of Performance Stock Unit Agreement for awards under 2006 Long Term Incentive Plan (effective for awards granted on and subsequent to March 1, 202 5 ) (incorporated by reference to Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed May 1, 202 5 (File No. 001-32877)). 10.9+ Form of Mastercard Incorporated Long Term Incentive Plan Non-Competition and Non-Solicitation Agreement for named executive officers (incorporated by reference to Exhibit 10.17 to the Company’s Annual Report on Form 10-K filed February 16, 2012 (File No. 001-32877)). 10.10+ Amended and Restated Mastercard International Incorporated Executive Severance Plan, amended and restated as of October 17, 2023 (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed October 26, 2023 (File No. 001-32877)). 10.11+ Amended and Restated Mastercard International Incorporated Change in Control Severance Plan, amended and restated as of October 17, 2023 (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed October 26, 2023 (File No. 001-32877)). 10.12+ Mastercard Incorporated Employee Stock Purchase Plan, effective as of June 27, 2023 (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed July 27, 2023 (File No. 001-32877)). 10.13 2006 Non-Employee Director Equity Compensation Plan, amended and restated effective as of June 22, 2021 (incorporated by reference to Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed July 29, 2021 (File No. 001-32877)). 10.14 Form of Deferred Stock Unit Agreement for awards under 2006 Non-Employee Director Equity Compensation Plan, (effective for awards granted on and subsequent to June 18, 2024) (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed July 31, 2024 (File No. 001-32877)). 10.15 Form of Restricted Stock Agreement for awards under 2006 Non-Employee Director Equity Compensation Plan (effective for awards granted on and subsequent to June 18 , 202 4 ) (incorporated by reference to Exhibit 10. 2 to the Company’s Quarterly Report on Form 10-Q filed July 31 , 202 4 (File No. 001-32877)). 10.16 Form of Indemnification Agreement between Mastercard Incorporated and certain of its directors (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed May 2, 2006 (File No. 000-50250)). 10.17 Form of Indemnification Agreement between Mastercard Incorporated and certain of its director nominees (incorporated by reference to Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed May 2, 2006 (File No. 000-50250)). 10.18 Deed of Gift between Mastercard Incorporated and Mastercard Foundation (incorporated by reference to Exhibit 10.28 to Pre-Effective Amendment No. 5 to the Company’s Registration Statement on Form S-1 filed May 3, 2006 (File No. 333-128337)). 10.19 Settlement Agreement, dated as of June 4, 2003, between Mastercard International Incorporated and Plaintiffs in the class action litigation entitled In Re Visa Check/MasterMoney Antitrust Litigation (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed August 8, 2003 (File No. 000-50250)). 10.20 Stipulation and Agreement of Settlement, dated July 20, 2006, between Mastercard Incorporated, the several defendants and the plaintiffs in the consolidated federal class action lawsuit titled In re Foreign Currency Conversion Fee Antitrust Litigation (MDL 1409), and the California state court action titled Schwartz v. Visa Int’l Corp., et al. (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed November 1, 2006 (File No. 001-32877)). 10.21 Omnibus Agreement Regarding Interchange Litigation Judgment Sharing and Settlement Sharing, dated as of February 7, 2011, by and among Mastercard Incorporated, Mastercard International Incorporated, Visa Inc., Visa U.S.A. Inc., Visa International Service Association and Mastercard’s customer banks that are parties thereto (incorporated by reference to Exhibit 10.33 to Amendment No.1 to the Company’s Annual Report on Form 10-K/A filed on November 23, 2011). 10.21.1 Amendment to Omnibus Agreement Regarding Interchange Litigation Judgment Sharing and Settlement Sharing, dated as of August 25, 2014, by and among Mastercard Incorporated, Mastercard International Incorporated, Visa Inc., Visa U.S.A Inc., Visa International Service Association and Mastercard’s customer banks that are parties thereto (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q filed October 30, 2014 (File No. 001-32877)). 10.21.2 Second Amendment to Omnibus Agreement Regarding Interchange Litigation Judgment Sharing and Settlement Sharing, dated as of October 22, 2015, by and among Mastercard Incorporated, Mastercard International Incorporated, Visa Inc., Visa U.S.A Inc., Visa International Service Association and Mastercard’s customer banks that are parties thereto (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed October 29, 2015 (File No. 001-32877)). 10.22** Mastercard Settlement and Judgment Sharing Agreement, dated as of February 7, 2011, by and among Mastercard Incorporated, Mastercard International Incorporated and Mastercard’s customer banks that are parties thereto (incorporated by reference to Exhibit 10.34 to Amendment No.1 to the Company’s Annual Report on Form 10-K/A filed on November 23, 2011). 10.22.1 Amendment to Mastercard Settlement and Judgment Sharing Agreement, dated as of August 26, 2014, by and among Mastercard Incorporated, Mastercard International Incorporated and Mastercard’s customer banks that are parties thereto (incorporated by reference to Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q filed October 30, 2014 (File No. 001-32877)). 10.22.2 Second Amendment to Mastercard Settlement and Judgment Sharing Agreement, dated as of October 22, 2015, by and among Mastercard Incorporated, Mastercard International Incorporated and Mastercard’s customer banks that are parties thereto (incorporated by reference to Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q filed October 29, 2015 (File No. 001-32877)). 10.23 Superseding and Amended Class Settlement Agreement, dated September 17, 2018, by and among Mastercard Incorporated and Mastercard International Incorporated; Visa, Inc., Visa U.S.A. Inc. and Visa International Service Association; the Class Plaintiffs defined therein; and the Customer Banks defined therein (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed September 18, 2018 (File No. 001-32877)). 19.1* Insider Trading Policy (effective January 23 , 202 6 ) . 21* List of Subsidiaries of Mastercard Incorporated. 23.1* Consent of PricewaterhouseCoopers LLP. 31.1* Certification of Michael Miebach, President and Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2* Certification of Sachin Mehra, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1* Certification of Michael Miebach, President and Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 32.2* Certification of Sachin Mehra, Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 97.1 Mastercard Incorporated Executive Officer Incentive Compensation Recovery Policy, effective October 2, 2023 (incorporated by reference to Exhibit 97.1 of the Company’s Annual Report on Form 10-K filed February 13, 2024 (File No. 001-32877)). 99.1* Disclosure pursuant to Section 219 of the Iran Threat Reduction and Syria Human Rights Act of 2012. 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH* XBRL Taxonomy Extension Schema Document 101.CAL* XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF* XBRL Taxonomy Extension Definition Linkbase Document 101.LAB* XBRL Taxonomy Extension Label Linkbase Document 101.PRE* XBRL Taxonomy Extension Presentation Linkbase Document
+[END TABLE 119]
+
+[TABLE 120]
+MASTERCARD INCORPORATED (Registrant) Date: February 11, 2026 By: /s/ MICHAEL MIEBACH Michael Miebach President and Chief Executive Officer (Principal Executive Officer)
+[END TABLE 120]
+
+[TABLE 121]
+Date: February 11, 2026 By: /s/ MICHAEL MIEBACH Michael Miebach President and Chief Executive Officer; Director (Principal Executive Officer) Date: February 11, 2026 By: /s/ SACHIN MEHRA Sachin Mehra Chief Financial Officer (Principal Financial Officer) Date: February 11, 2026 By: /s/ SANDRA ARKELL Sandra Arkell Corporate Controller (Principal Accounting Officer) Date: February 11, 2026 By: /s/ CANDIDO BRACHER Candido Bracher Director Date: February 11, 2026 By: /s/ RICHARD K. DAVIS Richard K. Davis Director Date: February 11, 2026 By: /s/ JULIUS GENACHOWSKI Julius Genachowski Director Date: February 11, 2026 By: /s/ CHOON PHONG GOH Choon Phong Goh Director Date: February 11, 2026 By: /s/ MERIT E. JANOW Merit E. Janow Chairman of the Board; Director Date: February 11, 2026 By: /s/ OKI MATSUMOTO Oki Matsumoto Director Date: February 11, 2026 By: /s/ YOUNGME MOON Youngme Moon Director Date: February 11, 2026 By: /s/ RIMA QURESHI Rima Qureshi Director Date: February 11, 2026 By: /s/ GABRIELLE SULZBERGER Gabrielle Sulzberger Director Date: February 11, 2026 By: /s/ HARIT TALWAR Harit Talwar Director Date: February 11, 2026 By: /s/ LANCE UGGLA Lance Uggla Director
+[END TABLE 121]

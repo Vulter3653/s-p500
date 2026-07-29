@@ -1,0 +1,1115 @@
+Item 8. Financial Statements and Supplementary Data
+
+Independent Auditor’s Report
+
+Report of Independent Registered Public Accounting Firm To the shareholders and the Board of Directors of CRH public limited company (CRH plc)
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of CRH plc and subsidiaries (the Company) as of December 31, 2025, the related consolidated statements of income, comprehensive income, shareholders’ equity, and cash flows for the year then ended December 31, 2025, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2025, and the results of its operations and its cash flows for the year ended December 31, 2025, in conformity with accounting principles generally accepted in the United States of America.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated February 18, 2026, expressed an unqualified opinion on the Company’s internal control over financial reporting.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the Audit Committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Acquisitions - Valuation of contract-based Intangible assets - Refer to Notes 1 and 3 to the financial statements
+
+Critical Audit Matter Description
+
+As discussed in Notes 1 and 3 to the financial statements, the Company accounts for its business combinations using the acquisition method. On September 15, 2025, the Company acquired Eco Material Technologies, a leading supplier of supplementary cementitious materials for a total consideration, net of cash acquired, of $2,066 million. The Eco Material Technologies acquisition is reported in the Americas Materials Solutions segment. The purchase price was allocated to the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition. Management estimated the fair value of the contract-based intangible assets using the multi-period excess earnings method, which involved management making significant estimates and judgments related to forecasted Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) margin and discount rate.
+
+We identified the valuation of contract-based intangible assets as a critical audit matter for purposes of recording the opening balance as of the date of acquisition. This required a high degree of auditor judgment and an increased extent of effort, including the need to involve our fair value specialists, when performing audit procedures to evaluate the reasonableness of the fair value of acquired contract-based intangible assets. Assumptions that required a high degree of judgment include forecast of future EBITDA margin and the selection of the discount rate.
+
+How the Critical Audit Matter was Addressed in the Audit
+
+Our audit procedures related to the EBITDA margin forecasts and discount rate included the following, among others:
+
+• We tested the effectiveness of controls over the purchase price allocation, including management's controls over the EBITDA margin forecasts and discount rate used in the valuation of contract-based intangibles and the review of the work of management's third-party specialists.
+
+• We evaluated the competency, capabilities and objectivity of the third-party specialists engaged by management to perform the valuations.
+
+• We read the third-party valuation reports and, with the assistance of our fair value specialists, we evaluated the appropriateness of the Company's methodology, inclusive of the use of key valuation assumptions referenced above, used to estimate the valuation of contract-based intangibles.
+
+• We evaluated management’s ability to accurately project the forecasts by performing a retrospective review of actual results to management’s historical EBITDA margin forecasts.
+
+• We assessed the reasonableness of management’s forecasts of EBITDA margin by:
+
+– Comparing the forecasts to historical results.
+
+– Comparing the forecasts to certain external market and industry information.
+
+– Reading the terms of the supply agreements for corroborative or contrary evidence.
+
+• With the assistance of our fair value specialists, we evaluated the appropriateness of the Company's methodology and the discount rate by:
+
+CRH FORM 10-K
+
+– Testing the source information underlying the determination of the discount rate and evaluating the mathematical accuracy of the calculations.
+
+– Developing a range of independent estimates for the discount rate and comparing the discount rate selected by management to that range.
+
+Service revenues - Revenue recognition over time - Refer to Notes 1 and 2 to the financial statements
+
+Critical Audit Matter Description
+
+As discussed in Notes 1 and 2 to the financial statements, the Company recognizes revenue within its construction contract businesses over time as it performs its obligations. The percentage-of-completion method is used to recognize revenue when the outcome of a contract can be estimated reliably. The percentage-of-completion is calculated using an input method and based on the proportion of contract costs incurred at the balance sheet date relative to the total estimated costs of the contract. As of December 31, 2025, the service revenue related to over-time contracts was $8,693 million.
+
+We identified revenue recognized over time on construction contracts in-process as a critical audit matter because of the judgments necessary for management to estimate total contract costs at completion used to recognize revenue.
+
+How the Critical Audit Matter was Addressed in the Audit
+
+Our audit procedures related to management’s recognition of revenue for construction contracts, measured on a percentage of completion basis and in-progress at the balance sheet date included the following, among others:
+
+• We tested the effectiveness of controls over construction contract revenue, including management’s controls over the evaluation of estimated total contract costs at completion.
+
+• We selected a sample of construction contracts and:
+
+– Tested the accuracy and completeness of the costs incurred to date for the performance obligation to supporting documentation.
+
+– Tested the mathematical accuracy of management’s calculation of revenue, measured on a percentage of completion basis, for the performance obligation.
+
+– Evaluated the accuracy of estimated total contract costs at completion by (i) inquiring with the Company’s project managers regarding progress to date on specific contracts and total estimated contract costs at completion for reasonableness and (ii) selecting remaining forecasted costs and comparing the selected amounts to underlying contracts and other supporting documentation.
+
+• We evaluated management’s ability to estimate total contract costs at completion accurately by comparing actual costs to management’s historical estimates for contracts that have been completed.
+
+/s/ Deloitte & Touche LLP
+
+Atlanta, Georgia
+
+February 18, 2026
+
+We have served as the Company’s auditor since 2025.
+
+CRH FORM 10-K
+
+Report Of Independent Registered Public Accounting Firm
+
+To the shareholders and the Board of Directors of CRH public limited company (CRH plc)
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheet of CRH plc and subsidiaries (the Company) as of December 31, 2024, the related consolidated statements of income, comprehensive income, changes in equity and cash flows, for each of the two years in the period ended December 31, 2024, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2024, and the results of its operations and its cash flows for each of the two years in the period ended December 31, 2024, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+/s/ Deloitte Ireland LLP Dublin, Ireland
+
+February 26, 2025
+
+We began serving as the Company’s auditor in 2020. In 2025 we became the predecessor auditor.
+
+CRH FORM 10-K
+
+Consolidated Statements of Income
+
+(in $ millions, except share and per share data)
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Consolidated Statements of Comprehensive Income
+
+(in $ millions)
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Consolidated Balance Sheets
+
+(in $ millions, except share data)
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Consolidated Statements of Cash Flows
+
+(in $ millions)
+
+CRH FORM 10-K
+
+Consolidated Statements of Cash Flows
+
+(in $ millions)
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Consolidated Statements of Changes in Equity
+
+(in $ millions, except share and per share data)
+
+For the year ended December 31, 2023
+
+For the year ended December 31, 2023, dividends declared on common stock were $ 1.33 per common share.
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Consolidated Statements of Changes in Equity
+
+(in $ millions, except share and per share data)
+
+For the year ended December 31, 2024
+
+For the year ended December 31, 2024, dividends declared on common stock were $ 1.40 per common share.
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Consolidated Statements of Changes in Equity
+
+(in $ millions, except share and per share data)
+
+For the year ended December 31, 2025
+
+For the year ended December 31, 2025, dividends declared on common stock were $ 1.48 per common share.
+
+The accompanying notes form an integral part of the Consolidated Financial Statements.
+
+CRH FORM 10-K
+
+Notes To Consolidated Financial Statements
+
+1. Summary of significant accounting policies
+
+1.1. Description of business
+
+CRH is the leading provider of building materials critical to modernizing infrastructure. The Company operates in the building materials industry, providing essential materials and products for construction projects across its Americas and International footprint. The Company is a major producer of aggregates, cementitious materials, readymixed concrete, asphalt, precast concrete and outdoor living products and is a provider of paving and construction services, supplying a wide range of customers, including Federal and local authorities, general contractors, and the commercial and residential markets. A summary of significant accounting policies used in the preparation of the accompanying Consolidated Financial Statements follows.
+
+1.2. Basis of presentation and use of estimates
+
+The accompanying Consolidated Financial Statements and notes thereto, including all prior periods presented, have been presented under U.S. GAAP, which requires management to make certain estimates and assumptions about future events. These estimates and the underlying assumptions affect the amounts of assets and liabilities reported, disclosures about contingent assets and liabilities and reported amounts of revenues and expenses. Such estimates include impairment of long-lived assets, impairment of goodwill, pension and other postretirement benefits, tax matters and litigation, including insurance and environmental compliance costs. These estimates and assumptions are based on management’s judgment.
+
+Estimates and underlying assumptions are reviewed on an ongoing basis. Changes in accounting estimates may be necessary if there are changes in the circumstances or experiences on which the estimate was based or as a result of new information.
+
+Changes in estimates, including those resulting from changes in the economic environment, are reflected in the Consolidated Financial Statements for the period in which the change in estimate occurs.
+
+1.3. Consolidation
+
+The Consolidated Financial Statements include the accounts of CRH plc, and the wholly- and majority-owned subsidiaries of CRH plc, in addition to variable interest entities (VIEs) in which the Company is the primary beneficiary. In evaluating whether the Company has a controlling financial interest, the following are considered: (1) for voting interest entities, the Company consolidates those entities in which they own a majority of the voting interests; and (2) for VIEs, the Company consolidates those entities for which they are the primary beneficiary. All intercompany transactions and accounts have been eliminated.
+
+The Company uses the equity method of accounting for their investments in entities over which the Company has the ability to exercise significant influence over the operating and financial policies or exercise joint control with other investors but does not control and is not the primary beneficiary. Equity method investments are initially recognized at cost and are included within Equity method investments in the Consolidated Balance Sheets. The Company’s proportionate interest in the results of the investment is included within Income (loss) from equity method investments in the Consolidated Statements of Income.
+
+Where the Company is an active party to contractual arrangements that involve a joint operating activity and is exposed to significant risks and rewards that are dependent on the commercial success of the activity, the Company treats such operations as collaborative arrangements. For such operations, the Company accounts for its pro rata share of assets, liabilities, revenues, and costs in the Consolidated Balance Sheets and Consolidated Statements of Income.
+
+1.4. Noncontrolling interests – nonredeemable and redeemable
+
+Noncontrolling interests represent the portion of the equity of a subsidiary not attributable either directly or indirectly to the Company and are presented separately in the Consolidated Statements of Income and within equity in the Consolidated Balance Sheets, distinguished from Company shareholders’ equity. Subsequent acquisitions of noncontrolling interests are accounted for as transactions with equity holders in their capacity as equity holders and therefore no goodwill is recognized as a result of such transactions. Noncontrolling interests are measured initially at fair value.
+
+Noncontrolling interests with redemption features, such as put/call options, that are not solely within the Company’s control (redeemable noncontrolling interests) are reported separately in the Consolidated Balance Sheets at the greater of carrying value or redemption value. The Redeemable noncontrolling interests are primarily comprised of the noncontrolling interests in two of the Company’s North American subsidiaries. The respective shareholders’ agreements for these entities contain put options that provide the noncontrolling shareholders the right to put their shares to the Company at a value based on a calculated formula. The put options are currently exercisable.
+
+See Note 22 for further information.
+
+CRH FORM 10-K
+
+1.5. Business combinations
+
+Acquisitions are accounted for using the acquisition method, which requires allocation of the purchase price to assets acquired and liabilities assumed based on estimated fair values. The purchase price is determined based on the fair value of consideration transferred to and liabilities assumed from the seller as of the date of acquisition. The Company allocates the purchase price to the fair values of the tangible and identifiable intangible assets acquired and liabilities assumed as of the date of acquisition. Any excess of the purchase price over the fair value of the assets acquired and liabilities assumed is recorded as goodwill.
+
+Determining the fair values of assets acquired and liabilities assumed requires judgment and often involves the use of significant estimates and assumptions. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction, and therefore represents an exit price. A fair value measurement assumes the highest and best use of the asset by market participants.
+
+Allocations of the purchase price are based on preliminary estimates and assumptions at the date of acquisition and are subject to revision based on final information received including appraisals and other analyses which support underlying estimates within the measurement period, a period of no more than one year from the acquisition date. Measurement period adjustments are generally recorded as increases or decreases to goodwill, if any, recognized in the transaction.
+
+See Note 3 for further information.
+
+1.6. Foreign currency translation
+
+The Consolidated Financial Statements are presented in U.S. Dollar, which is the reporting currency of the Company.
+
+Transactions in foreign currencies are recorded at the rate of exchange in effect at the date of the transaction. Monetary assets and liabilities denominated in foreign currencies are retranslated at the rate of exchange in effect at the balance sheet date. The Company releases any related cumulative translation adjustment into earnings only if the sale or transfer results in the complete or substantially complete liquidation of the foreign entity. Non-monetary items are measured at historical rates.
+
+Results and cash flows of subsidiaries and equity method investments with non-U.S. Dollar functional currencies have been translated into U.S. Dollar at average exchange rates for the periods, and the related balance sheets have been translated at the rates of exchange in effect at the balance sheet date. Adjustments arising on translation of the results and net assets of non-U.S. Dollar subsidiaries and equity method investments are recognized as a component of Accumulated other comprehensive loss and Noncontrolling interests both of which are presented in the Consolidated Balance Sheets.
+
+1.7. Revenue recognition
+
+The Company recognizes revenues in the amount of the price expected to be received for goods and services supplied at a point in time or over time, as contractual performance obligations are fulfilled, and control of goods and services passes to the customer. Revenue excludes trade discounts and value-added tax or sales tax. Trade receivables and construction contract assets are in general receivable within 90 days of the balance sheet date.
+
+Revenues derived from sale of goods (sources other than construction contracts)
+
+The Company manufactures and supplies a diverse range of building materials and products. Revenues from the sale of goods are recognized at a point in time when control of the promised goods is transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled to receive in exchange for the goods. Control is obtained when a customer has the ability to direct the use of and obtain substantially all of the remaining benefits from the goods. Control passes to the customer either upon leaving the Company’s premises or upon delivery to the customer, depending on the terms of the sale. Contracts do not contain multiple performance obligations.
+
+Goods are often sold with discounts or rebates based on cumulative sales over a period. This variable consideration is only recognized when it is probable that it will not be subsequently reversed and is recognized using the most-likely amount or expected value methods, depending on the individual contract terms. Estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based on the assessment of anticipated performance and all information (historical, current, and forecasted) that is reasonably available to management.
+
+Revenues derived from construction contracts
+
+The Company enters into construction contracts to complete large construction projects. Contracts usually commence and complete within one year and are generally fixed price but may be subject to indexation and/or escalation clauses that can either increase or decrease the final transaction price.
+
+The Company typically recognizes revenue within its construction contract businesses over time as it performs its obligations. The Company believes this best reflects the transfer of control to the customer by providing a faithful depiction of the enhancement of a customer-controlled asset or the construction of an asset with no alternative use.
+
+The percentage-of-completion method is used to recognize revenue when the outcome of a contract can be estimated reliably. The percentage-of-completion is calculated using an input method and based on the proportion of contract costs incurred at the balance sheet date relative to the total estimated costs of the contract. In construction contract arrangements, the Company has an enforceable right to payment for work and performance obligations completed to date.
+
+Some of the Company’s construction contracts may contain forms of variable consideration that can either increase or decrease the transaction price. Variable consideration is estimated based on the most-likely amount or expected value methods (depending on the contract terms) and the transaction price is adjusted to the extent it is probable that a significant reversal of revenue recognized will not occur.
+
+See Note 2 for further information.
+
+CRH FORM 10-K
+
+1.8. Contract assets and liabilities
+
+A contract asset is recognized when the related performance obligation has been satisfied, but the Company has not yet invoiced the customer and so is not unconditionally entitled to the consideration under the payment terms set out in the contract. Contract assets are classified as Accounts receivable, net, in the Consolidated Balance Sheets.
+
+A contract liability is recognized when a non-refundable payment is received from a customer in advance of work being performed. A contract liability would also be recognized if the Company has an unconditional right to receive non-refundable consideration before the Company recognizes the related revenue. Contract liabilities are classified as Other current liabilities in the Consolidated Balance Sheets.
+
+The Company’s contracts generally are for a duration of less than one year and therefore the Company does not capitalize incremental contract costs; instead these are expensed as incurred, as permitted by the practical expedient.
+
+1.9. Cash and cash equivalents and restricted cash
+
+Cash and cash equivalents include cash on hand and all highly liquid investments with original maturities at the time of purchase of three months or less. Restricted cash consists of amounts held in escrow designated for exchange of assets under Section 1031 of the U.S. Internal Revenue Code.
+
+1.10. Accounts receivable, net
+
+Accounts receivable are stated at amortized cost. The Company records an allowance for credit losses, which includes an allowance for probable losses based on historical write-offs, adjusted for current conditions as deemed necessary, and a specific reserve for accounts deemed at risk. The allowance is the Company’s estimate for receivables as of the balance sheet date that ultimately will not be collected. Any changes in the allowance are reflected in earnings in the period in which the change occurs. The Company writes off accounts receivable when it becomes probable, based upon customer facts and circumstances, that such amounts will not be collected.
+
+See Note 4 for further information.
+
+1.11. Inventories
+
+Inventories are stated at the lower of cost or net realizable value. Cost is determined using the first-in, first-out method or weighted average method. Net realizable value is the estimated selling price in the ordinary course of business, less estimates for costs of completion, disposal, and transportation.
+
+Materials and other supplies held for use in the production of inventories are not written down below cost if the finished goods, in which they will be incorporated, are expected to be sold at or above cost.
+
+See Note 5 for further information.
+
+1.12. Property, plant and equipment, net
+
+Property, plant and equipment are stated at cost less any accumulated depreciation, depletion, and any accumulated impairments.
+
+Expenditures for additions and improvements that significantly add to the productive capacity or extend the useful life of an asset are capitalized. Repair and maintenance costs that do not substantially expand productive capacity or extend the life of property, plant and equipment are expensed as incurred.
+
+The Company reviews the carrying value of property, plant and equipment for impairment whenever events or circumstances indicate that the carrying value of an asset group may not be recoverable. Such indicators may include, among others, deterioration in general economic conditions, adverse changes in the markets in which an entity operates, increases in input costs that have a negative effect on earnings and cash flows or a trend of negative or declining cash flows over multiple periods. An impairment loss is recognized if the estimated future (undiscounted) cash flows expected to result from the use and eventual disposition of that asset group are less than its carrying value and is measured by the amount by which the carrying value of the asset group exceeds its fair value.
+
+The Company capitalizes interest as part of the cost of capital projects incurred during construction. Depreciation is computed using the straight-line method over the estimated useful lives of the assets, as follows:
+
+• Buildings 40 years; and
+
+• Plant and machinery five to 30 years
+
+Mineral-bearing land, less an estimate of its residual value, is depleted over the period of the mineral extraction in the proportion to which product for the year bears to the latest estimates of proven and probable mineral reserves. Land, other than mineral-bearing land, is not depreciated.
+
+See Note 6 for further information.
+
+CRH FORM 10-K
+
+1.13. Leases
+
+A contract contains a lease if it is enforceable and conveys the right to control the use of a specified asset for a period of time in exchange for consideration, which is assessed at inception. A right-of-use asset and lease liability are recognized at the commencement date for contracts containing a lease.
+
+Leases are evaluated and classified as either finance leases or operating leases. A lease is classified as a finance lease if any one of the following criteria are met: (1) the lease transfers ownership of the asset by the end of the lease term; (2) the lease contains an option to purchase the asset that is reasonably certain to be exercised; (3) the lease term is for a major part of the remaining useful life of the asset; (4) the underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term; or (5) the present value of the lease payments equals or exceeds substantially all of the fair value of the asset. A lease is classified as an operating lease if it does not meet any one of the above criteria.
+
+The lease liability is initially measured at the present value of the future lease payments, discounted using the incremental borrowing rate or the interest rate implicit in the lease, if this is readily determinable, over the remaining lease term. Lease payments include fixed payments less any lease incentives receivable, variable payments that are dependent on a rate or index known at the commencement date, amounts expected to be paid under residual value guarantees and any payments for an optional renewal period and purchase and termination option payments, if the Company is reasonably certain to exercise those options. The lease term is the non-cancellable period of the lease adjusted for any renewal or termination options which are reasonably certain to be exercised. The Company applies judgment in determining whether it is reasonably certain that a renewal, termination or purchase option will be exercised.
+
+The right-of-use asset for each lease is initially measured at cost, which comprises the lease liability adjusted for any payments made at or before the commencement date, initial direct costs incurred, lease incentives received and an estimate of the cost to dismantle or restore the underlying asset or the site on which it is located at the end of the lease term. The right-of-use asset of finance leases is amortized over the lease term or, where a purchase option is reasonably certain to be exercised, over the useful economic life of the asset in line with depreciation rates for owned property, plant and equipment. The right-of-use asset of operating leases is amortized as a balancing amount that together with the accretion on lease liability produces straight-line total lease expenses.
+
+The amortization of operating lease right-of-use assets and the accretion of operating lease liabilities are reported together as fixed lease expense in the Consolidated Financial Statements. The fixed lease expense is recognized on a straight-line basis over the life of the lease. Interest expense on a finance lease is recognized using the effective interest method over the lease term.
+
+The Company has elected to separate non-lease components in a contract such as maintenance and other service charges from the lease component and expense such components as incurred. Variable lease payments directly linked to sales or usage are also expensed as incurred. Additionally, for short-term leases with an initial lease term of 12 months or less and with purchase options which the Company is reasonably certain not to exercise, the Company has elected not to record the corresponding right-of-use asset or the corresponding lease liability in the Consolidated Balance Sheets and to expense short-term lease payments as incurred.
+
+Incremental borrowing rates are calculated using a portfolio approach, based on the risk profile of the entity holding the lease and the term and currency of the lease.
+
+See Note 11 for further information.
+
+1.14. Asset retirement obligations
+
+The Company records a liability for an asset retirement obligation at fair value in the period in which it is incurred where a legal or contractual obligation exists, and the liability can be reasonably estimated. When the liability is initially recorded, the Company capitalizes the cost by increasing the carrying amount of the related long-lived asset. The liability is accreted over time and the asset is depreciated over the useful life of the related asset.
+
+Upon settlement of the liability, the Company recognizes a gain or loss for any difference between the settlement amount and the liability recorded. Asset retirement obligations consist primarily of quarry closure and post-closure costs.
+
+See Note 12 for further information.
+
+1.15. Derivative financial instruments and hedging practices
+
+The Company enters into various derivative financial instruments to manage its exposure to fluctuating interest rates, currency exchange rates, and commodity pricing. Such instruments primarily include interest rate swap agreements, currency swap agreements, commodity swap agreements, and currency and commodity forward contracts. These instruments are not entered into for trading purposes.
+
+There are three types of derivatives the Company enters into: (1) those relating to fair value exposures; (2) those relating to cash flow exposures; and (3) those relating to foreign currency net investment exposures. Fair value exposures relate to recognized assets or liabilities, and firm commitments; cash flow exposures relate to the variability of future cash flows associated with recognized assets or liabilities, or forecasted transactions; and net investment exposures relate to the impact of foreign currency exchange rate changes on the carrying value of net assets denominated in foreign currencies.
+
+When a derivative is executed and hedge accounting is appropriate, it is designated as either a fair value hedge, cash flow hedge, or a net investment hedge. Whether designated as hedges for accounting purposes or not, all derivatives are linked to an appropriate underlying exposure. On an ongoing basis, the Company assesses the hedge effectiveness of all derivatives designated as hedges for accounting purposes to determine if they continue to be highly effective in offsetting changes in fair values or cash flows of the underlying hedged items. If it is determined that the hedge is not highly effective, then hedge accounting will be discontinued prospectively.
+
+Changes in the fair value of derivatives designated as fair value hedges are recognized in earnings as an offset to the change in the fair values of the underlying exposures being hedged. The changes in fair value of derivatives that are designated as cash flow hedges are deferred in Accumulated other comprehensive loss and are reclassified to earnings as the underlying hedged transaction affects earnings. Provided the hedge remains highly effective, any ineffectiveness is deferred in Accumulated other comprehensive loss and is reclassified to earnings as the underlying hedged transaction affects earnings. Hedges of net investments in foreign subsidiaries are recognized in the currency translation adjustment component of Accumulated other comprehensive loss in the Consolidated Balance Sheets to offset translation gains and losses associated with the hedged net investment.
+
+CRH FORM 10-K
+
+Derivatives that are entered into for risk management purposes and are not designated as hedges are recorded at their fair market values and recognized in Net income.
+
+The fair values of the Company's derivatives are not material. The notional amount of the Company’s outstanding fair value hedges, cash flow hedges, and net investment hedges was $ 500 million, $ 449 million, and $ 2,683 million as of December 31, 2025, respectively, and $ 1,375 million, $ 342 million, and $ 1,371 million as of December 31, 2024, respectively. The notional amount of derivatives not designated as hedging instruments was $ 1,478 million and $ 3,323 million as of December 31, 2025 and 2024, respectively.
+
+1.16. Debt
+
+Debt is recorded at initial fair value, which normally reflects the proceeds received by the Company, net of debt issuance costs. Debt is subsequently stated at amortized cost. Debt issuance costs are amortized to Interest expense over the term of the debt. Debt issuance discounts and premiums are also amortized to Interest expense using the effective interest rate method over the term of the debt.
+
+Debt issuance costs associated with the Company’s revolving facility are amortized to Interest expense on a straight-line basis over the facility’s term.
+
+1.17. Goodwill
+
+Goodwill represents the excess of the purchase price over the fair value of the assets acquired and liabilities assumed in a business combination. Goodwill is tested for impairment annually at October 1 or more frequently if events or circumstances indicate that an impairment loss may have been incurred, at the reporting unit level, one level below the Company’s operating segments. The Company has the option of either assessing qualitative factors to determine whether it is more likely than not that the carrying value of the reporting units exceeds their respective fair value or proceeding directly to a quantitative test. The Company elected to perform the quantitative impairment test for all years presented. If the fair value exceeds its carrying value, the goodwill of the reporting unit is not considered impaired. However, if the carrying value of a reporting unit exceeds its fair value, an impairment loss is recognized by writing down the assets to their fair value.
+
+See Note 8 for further information.
+
+1.18. Intangible assets, net
+
+Intangible assets acquired in business combinations are stated at their fair value as determined at the date of acquisition. Intangible assets are amortized on a straight-line basis. In general, based on the current composition of definite-lived intangible assets, the useful lives for customer-related intangible assets range from five to 20 years, the useful lives for marketing-related intangible assets range from 10 to 30 years and the useful lives for contract-based intangible assets range from two to 20 years. The Company evaluates the recoverability of its intangible assets subject to amortization when facts and circumstances indicate that the carrying value of the asset may not be recoverable. If the carrying value is not recoverable, impairment is measured as the amount by which the carrying value exceeds its estimated fair value.
+
+See Note 7 for further information.
+
+1.19. Pension and other postretirement benefits
+
+The Company sponsors defined benefit retirement plans and also provides other postretirement benefits. The Company recognizes the funded status, defined as the difference between the fair value of plan assets and the benefit obligation, of its pension plans and other postretirement benefits as an asset or liability in the Consolidated Balance Sheets. Actuarial gains or losses that arise during the year are recognized as a component of Accumulated other comprehensive loss. Amounts in excess of a corridor are subsequently amortized over the participants’ average remaining service period and recognized as a component of net periodic benefit cost. The corridor represents the excess over 10% of the greater of the projected benefit obligation or pension plan assets and is determined on a plan-by-plan basis.
+
+See Note 20 for further information.
+
+1.20. Insurance
+
+The Company has insurance arrangements which include employer’s liability (workers’ compensation in the United States), public and products liability (general liability in the United States), automobile liability, property damage, business interruption and various other insurances. Due to the extended timeframe associated with many of the insurances, a significant proportion of the total liability is subject to periodic actuarial valuation. The projected cash flows underlying the discounting process are established through the application of actuarial triangulations, which are extrapolated from historical claims experience. While the Company believes the assumptions used to calculate these liabilities are appropriate, significant differences in actual experience and/or significant changes in those assumptions may materially affect insurance liabilities.
+
+1.21. Share-based compensation
+
+The Company grants share-based compensation awards under its equity compensation plans, which consist of performance share units (PSUs) and restricted share units (RSUs). All of the share-based compensation awards are classified as equity awards. The Company measures share-based compensation awards using fair value based measurement methods. This results in the recognition of compensation expense for all share-based compensation awards based on their fair value as of the grant date. For performance-based awards, compensation expense is recognized only if it is probable that the performance condition will be achieved. Compensation expense is recognized on a straight-line basis over the requisite service period for time and performance-based awards, net of estimated forfeitures.
+
+See Note 16 for further information.
+
+1.22. Treasury stock
+
+The Company accounts for Treasury stock under the cost method. When Treasury stock is re-issued at a price higher than its cost, the difference is recorded as a component of Additional paid-in capital in the Consolidated Balance Sheets. When Treasury stock is re-issued at a price lower than its cost, the difference is recorded as a component of Additional paid-in capital to the extent that there are previously recorded gains to offset the losses. If there are no Treasury stock gains in Additional paid-in capital, the losses upon re-issuance of Treasury stock are recorded as a reduction of Retained earnings in the Consolidated Balance Sheets.
+
+1.23. Environmental remediation costs
+
+The Company records an accrual for environmental remediation liabilities in the period in which it is probable that a liability has been incurred and the appropriate amounts can be estimated reasonably. Such accruals are adjusted as further information develops or circumstances change. Generally, these costs are not discounted to their present value or offset for potential insurance or other claims or potential gains from future alternative uses for a site.
+
+CRH FORM 10-K
+
+1.24. Income taxes
+
+Current tax represents the expected tax payable (or recoverable) on the taxable profit for the year using tax rates enacted for the period. Where items are accounted for outside of profit or loss, the related income tax is recognized either in Other comprehensive income (loss) or directly in equity, as appropriate. Interest and penalties associated with the liability for income tax are classified as Income tax expense. The Company’s policy is to release tax effects from Accumulated other comprehensive loss when the underlying items affect earnings.
+
+Deferred tax is recognized using the liability method on temporary differences arising at the balance sheet date between the tax bases of assets and liabilities and their carrying amounts in the Consolidated Financial Statements. However, deferred tax liabilities are not recognized if they arise from the initial recognition of goodwill. For the most part, no provision has been made for undistributed earnings as the majority of earnings are considered indefinitely reinvested or can be distributed on a tax-free basis. However, a temporary difference has been recognized to the extent that earnings are not permanently reinvested.
+
+Deferred tax is determined using tax rates (and laws) that have been enacted as of the balance sheet date and are expected to apply when the related deferred income tax asset is realized, or the deferred income tax liability is settled. Deferred tax assets are recognized in full and then reduced by a valuation allowance if it is more likely than not that some or all of the deferred tax assets will not be recognized.
+
+The Company’s income tax charge is based on reported profit and enacted statutory tax rates, which reflect various allowances and reliefs available to the Company in the multiple tax jurisdictions in which it operates. The determination of the Company’s provision for income tax requires certain judgments and estimates in relation to matters where the ultimate tax outcome may not be certain. In addition, the Company is subject to tax audits which can involve complex issues that could require extended periods to conclude, the resolution of which is often not within the control of the Company. Although the Company believes that the estimates included in the Consolidated Financial Statements and its tax return positions are reasonable, there is no certainty that the final outcome of these matters will not be different to that which is reflected in the Company’s historical income tax provisions and accruals. The Company evaluates these positions regularly and records a tax benefit only to the extent it is more likely than not that a position will be sustained upon examination by taxing authorities.
+
+See Note 14 for further information.
+
+1.25. New accounting standards
+
+Accounting pronouncements recently adopted
+
+For the year ended December 31, 2025, the Company adopted Accounting Standards Update (ASU) No. 2023-09, Improvements to Income Tax Disclosures (Topic 740). The ASU requires disaggregated information about a reporting entity’s effective tax rate reconciliation as well as additional information on income taxes paid. Adoption of the ASU has been applied retrospectively to all prior periods presented in the Consolidated Financial Statements.
+
+Recently issued accounting pronouncements not yet adopted
+
+In November 2024, the FASB issued ASU No. 2024-03, Disaggregation of Income Statement Expenses (Subtopic 220-40). The ASU requires the disclosure of specified information about certain costs and expenses in the notes to the financial statements. The ASU is effective for annual periods beginning after December 15, 2026, and interim reporting periods within annual reporting periods beginning after December 15, 2027. These amendments should be applied either prospectively to financial statements issued after the effective date or retrospectively to any or all prior periods presented in the financial statements. Early adoption is also permitted. The Company is currently evaluating the provisions of this ASU and will adopt them for the year ending December 31, 2027.
+
+In September 2025, the FASB issued ASU No. 2025-06, Intangibles—Goodwill and Other— Internal-Use Software (Subtopic 350-40). The ASU removes all references to software development stages and requires entities to start capitalizing costs when both of the following occur: (1) management has authorized and committed to funding the software project; and (2) it is probable that the project will be completed and the software will be used to perform the function intended. The ASU is effective for annual periods beginning after December 15, 2027, and interim reporting periods within those annual reporting periods. These amendments should be applied either prospectively to financial statements issued after the effective date, retrospectively to any or all prior periods presented in the financial statements or by following a modified transition approach. Early adoption is also permitted. The Company is currently evaluating the provisions of this ASU.
+
+CRH FORM 10-K
+
+2. Revenue The Company disaggregates revenue based on its operating and reportable segments. The Company’s operating and reportable segments are: (1) Americas Materials Solutions, (2) Americas Building Solutions, and (3) International Solutions.
+
+Revenue is disaggregated by principal activities and products and by primary geographic market. Business lines are reviewed and evaluated as follows: (1) Essential Materials, (2) Road Solutions, (3) Building & Infrastructure Solutions, and (4) Outdoor Living Solutions.
+
+The Essential Materials businesses manufacture and supply aggregates and cementitious materials for use in a range of construction and industrial applications.
+
+Road Solutions support the manufacturing, installation and maintenance of public highway infrastructure projects and commercial infrastructure.
+
+Building & Infrastructure Solutions provide products that connect and protect critical water, energy and telecommunications infrastructure and deliver complex commercial building projects.
+
+Outdoor Living Solutions integrate specialized materials, products and design features to enhance the quality of private and public spaces.
+
+(i) Revenue from contracts with customers in the Road Solutions principal activities and products category that is recognized over time for the years ended December 31 were:
+
+CRH FORM 10-K
+
+(ii) Revenue from contracts with customers in the Building & Infrastructure Solutions principal activities and products category that is recognized over time for the years ended December 31 were:
+
+(i) The Rest of World principally includes Australia, Canada and the Philippines.
+
+(ii) The Rest of Europe principally includes Austria, Belgium, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Luxembourg, the Netherlands, Poland, Romania, Serbia, Slovakia, Spain, Sweden, Switzerland and Ukraine. Revenues generated in the Republic of Ireland represented approximately 2 %, 2 %, and 3 % of our consolidated revenues for the years ended December 31, 2025, 2024, and 2023, respectively.
+
+Contract assets were $ 525 million and $ 690 million and contract liabilities were $ 405 million and $ 500 million, as of December 31, 2025 and 2024, respectively. The decrease in contract assets was primarily attributed to the timing of billings partially offset by revenue recognized on certain contracts. The decrease in contract liabilities was due to revenue recognized during the period and the timing of advance payments. The Company recognized revenue of $ 354 million and $ 387 million for the years ended December 31, 2025 and 2024, respectively, which was previously included in the contract liability balance as of December 31, 2024 and 2023, respectively.
+
+Contract assets include unbilled revenue and retentions held by customers in respect of construction contracts as of December 31, 2025 and 2024 amounting to $ 299 million and $ 226 million, and $ 450 million and $ 240 million respectively. Unbilled revenue represents the estimated value of unbilled work for projects with performance obligations recognized over time. Retentions represent amounts that have been billed to customers but payment is withheld until final acceptance of the performance obligation by the customer. Retentions that have been billed, but are not due until completion of performance and acceptance by customers, are generally expected to be collected within one year. The Company applies the practical expedient and does not adjust any of its transaction prices for the time value of money.
+
+On December 31, 2025, the Company had $ 3,114 million of transaction price allocated to remaining performance obligations. The majority of open contracts as of December 31, 2025, are expected to close and revenue to be recognized within 12 months of the balance sheet date.
+
+Revenue from sales to equity method investments for the years ended December 31, 2025, 2024, and 2023 were $ 302 million, $ 296 million, and $ 221 million, respectively.
+
+CRH FORM 10-K
+
+3. Acquisitions
+
+The Company strategically acquires companies in order to increase its footprint and offer products and services that diversify its existing offerings. These acquisitions are accounted for as business combinations using the acquisition method, whereby the purchase price is allocated to the assets acquired and liabilities assumed, based on their estimated fair values at the date of the acquisition, with the remaining amount recorded in Goodwill.
+
+On September 15, 2025 the Company acquired Eco Material, a leading supplier of supplementary cementitious materials headquartered in South Jordan, Utah for a total consideration, net of cash acquired, of $ 2,066 million. The Eco Material acquisition is reported in the Americas Materials Solutions segment. Due to the size and scale of Eco Material, the determination of the fair values of identifiable assets acquired and liabilities assumed as disclosed are provisional.
+
+During 2025, the Company completed the acquisition of 37 other companies in addition to Eco Material. The total cash consideration for these acquisitions, net of cash acquired, was $ 1,790 million.
+
+The provisional amounts for assets acquired, liabilities assumed, and consideration related to the acquisitions during the year ended December 31, 2025, including measurement period adjustments to provisional fair values in respect of acquisitions completed in the previous period, were:
+
+(i) The estimated fair values of assets acquired and liabilities assumed associated with these acquisitions are provisional (principally in respect of Property, plant and equipment, net, Intangible assets, net, provisions for liabilities and the associated goodwill and deferred tax aspects) and are based on the information that was available as of the reporting date. The Company expects to finalize the valuation and complete the purchase price allocations as soon as practical but no later than one year from the acquisition dates.
+
+(ii) Acquisitions are aggregated on the basis of individual immateriality. The acquisition balance sheet presented in this note reflects the identifiable net assets acquired in respect of acquisitions completed in the year ended December 31, 2025, together with measurement period adjustments to provisional fair values in respect of acquisitions completed during previous periods; none of which were material.
+
+CRH FORM 10-K
+
+As a result of the acquisitions completed through December 31, 2025, including adjustments to provisional values, the Company recognized $ 912 million of amortizable intangible assets and $ 1,820 million of goodwill. Goodwill represents the excess of the consideration paid over the fair value of net assets acquired and includes the expected benefit of cost savings and synergies within the Company’s segments and intangible assets that do not qualify for separate recognition. Of the goodwill recognized in respect of the acquisitions completed in 2025, $ 1,332 million is expected to be deductible for tax purposes. The amortizable intangible assets will be amortized against earnings over a weighted average of 18 years.
+
+On February 9, 2024, the Company wholly acquired a portfolio of cement and readymixed concrete operations and assets in Texas, United States (the 'Hunter' acquisition) for a total cash consideration, net of cash acquired, of $ 2,106 million. The Hunter acquisition is reported in the Americas Materials Solutions segment.
+
+On July 1, 2024, the Company acquired 57 % of the issued share capital of Adbri (the 'Adbri' acquisition), a construction materials business in Australia, for a total cash consideration, net of cash acquired, of $ 787 million. The Adbri acquisition is reported in the International Solutions segment.
+
+During 2024, the Company completed the acquisition of 38 other companies in addition to Hunter and Adbri. The total cash consideration for these acquisitions, net of cash acquired, was $ 2,007 million.
+
+The amounts for assets acquired, liabilities assumed, and consideration related to the acquisitions during the year ended December 31, 2024, were:
+
+(i) Other acquisitions are aggregated on the basis of individual immateriality.
+
+As a result of the 2024 acquisitions, the Company recognized $ 190 million of amortizable intangible assets and $ 2,144 million of goodwill. Goodwill represents the excess of the consideration paid over the fair value of net assets acquired and includes the expected benefit of cost savings and synergies within the Company’s segments and intangible assets that do not qualify for separate recognition. Of the goodwill recognized in respect of the acquisitions completed in 2024, $ 1,712 million is expected to be deductible for tax purposes. The amortizable intangible assets will be amortized against earnings over a weighted average of nine years .
+
+CRH FORM 10-K
+
+Acquisition-related costs
+
+Acquisition-related costs have been included in Selling, general and administrative expenses in the Consolidated Statements of Income. These costs include legal and consulting expenses incurred in connection with completed acquisitions. The Company incurred the following acquisition-related costs for the years ended December 31:
+
+(i) Represents expenses associated with the non-routine substantial acquisition of Eco Material as well as other acquisition costs of an extraordinary nature. The comparative periods presented include expenses related to the acquisition of Adbri and Hunter in 2024.
+
+For the period from acquisition date through December 31, 2025, 2024, and 2023, acquisitions contributed $ 755 million, $ 1,387 million and $ 228 million to Total revenues and a loss of $ 10 million, $ 23 million and $ 15 million to Net income attributable to CRH, excluding substantial acquisition-related costs that arose in that period and including the effect of interest expense to finance the acquisitions, respectively.
+
+Pro forma results of operations for the current year acquisitions, as if they were combined as of January 1, 2024, have not been presented because they are not material to the Consolidated Financial Statements.
+
+4. Accounts receivable, net
+
+Accounts receivable, net as of December 31 were:
+
+Of the total Accounts receivable, net balances, $ 32 million and $ 46 million as of December 31, 2025, and 2024, respectively, were due from equity method investments.
+
+The changes in the allowance for credit losses as of December 31 were as follows:
+
+5. Inventories
+
+Inventories as of December 31 were:
+
+CRH FORM 10-K
+
+6. Property, plant and equipment, net Property, plant and equipment, net as of December 31 were:
+
+Depreciation, depletion and amortization expense related to property, plant and equipment was $ 1,964 million, $ 1,646 million and $ 1,494 million for the years ended December 31, 2025, 2024 and 2023, respectively. Depreciation, depletion and amortization expense includes amortization of right-of-use assets from finance leases.
+
+Property, plant and equipment is assessed for indicators of impairment by reviewing a series of external and internal sources of information specific to the assets under consideration.
+
+Impairment charges of $ 2 million and $ 89 million were recognized during the years ended December 31, 2025 and 2024, respectively, principally relating to the write-down of property, plant and equipment in our Americas Materials Solutions and International Solutions segments.
+
+7. Intangible assets, net Intangible assets, net as of December 31 were:
+
+(i) The customer-related intangible assets relate predominantly to non-contractual customer relationships.
+
+(ii) Contract-based intangible assets of $ 789 million related to supply agreements arose on the acquisition of Eco Material in September 2025.
+
+Amortization of intangibles included predominantly in Selling, general and administrative expenses in the Consolidated Statements of Income for the years ended December 31, 2025, 2024 and 2023 amounted to $ 192 million, $ 152 million and $ 139 million, respectively.
+
+The estimated amortization for intangible assets for the five years subsequent to December 31, 2025, and thereafter is as follows:
+
+CRH FORM 10-K
+
+8. Goodwill
+
+The Company uses the present value of estimated future cash flows to establish the estimated fair value of the reporting units at the testing date. This approach includes many assumptions related to future growth rates, discount factors, and tax rates, among other considerations. Changes in economic and operating conditions impacting these assumptions could result in goodwill impairment in future periods. Additionally, the Company uses the market approach to corroborate the estimated fair value.
+
+The changes in the carrying amount of goodwill as of December 31 were:
+
+For the year ended December 31, 2024, the fair value of the Architectural Products reporting unit within International Solutions did not exceed its carrying value. As a result, a goodwill impairment loss of $ 72 million was recorded in Loss on impairments .
+
+Accumulated goodwill impairment losses amount to $ 1,109 million and $ 1,050 million as of December 31, 2025 and 2024, respectively and relate predominantly to International Solutions.
+
+CRH FORM 10-K
+
+9. Additional financial information
+
+Other current assets as of December 31 were:
+
+Accrued expenses as of December 31 were:
+
+Other current liabilities as of December 31 were:
+
+Other noncurrent liabilities as of December 31 were:
+
+CRH FORM 10-K
+
+10. Debt Long-term debt as of December 31 was:
+
+(i) The $ 300 million 6.400 % Senior Notes were issued in September 2003, and at the time of issuance the Senior Notes were partially swapped to floating interest rates. In August 2009 and December 2010, $ 87 million of the issued Senior Notes were acquired by the Company as part of liability management exercises undertaken and the interest rate hedge was closed out. The remaining fair value hedge adjustment on the hedged item in the Consolidated Balance Sheets was $ 23 million and $ 27 million as of December 31, 2025 and 2024, respectively.
+
+(ii) Of the Company’s nominal fixed rate debt as of December 31, 2025 and December 31, 2024, $ 500 million and $ 1,375 million, respectively, was hedged to daily compounded SOFR using interest rate swaps. Of the Company’s nominal floating rate debt as of December 31, 2025 and December 31, 2024, $ nil million and $ 140 million, respectively, was hedged to fixed rates using interest rate swaps.
+
+(iii) Excludes borrowings from bank overdrafts of $ 120 million and $ 117 million, which are recorded within Current portion of long-term debt in the Consolidated Balance Sheets as of December 31, 2025 and 2024, respectively.
+
+Senior Notes:
+
+The Senior Notes are issued by wholly-owned subsidiaries of the Company and carry full and unconditional guarantees from the Company, as defined in the indentures that govern them. These Senior Notes represent senior unsecured obligations of the Company and hold an equal standing in payment priority with the Company's existing and future senior unsubordinated indebtedness.
+
+With the exception of the 6.400 % Senior Notes due 2033, all other Senior Notes can be redeemed before their respective par call dates, at a make-whole redemption price. Post par call dates and before the respective maturity dates, the Senior Notes can be redeemed at a price equal to 100 % of the principal amount, along with any accrued and unpaid interest.
+
+CRH FORM 10-K
+
+In the event of a change-of-control repurchase event, the Company is obligated to offer repurchase options for the 3.400 % Senior Notes due 2027, 3.950 % Senior Notes due 2028, 5.200 % Senior Notes due 2029, 5.125 % Senior Notes due 2030, 4.400 % Senior Notes due 2031, 5.400 % Senior Notes due 2034, 5.500 % Senior Notes due 2035, 5.000 % Senior Notes due 2036, 5.125 % Senior Notes due in 2045, 4.400 % Senior Notes due 2047, 4.500 % Senior Notes due 2048, 5.875 % Senior Notes due 2055 and 5.600 % Senior Notes due 2056. This repurchase involves a cash payment equal to 101 % of the principal amount, along with any accrued and unpaid interest.
+
+If the Company's credit rating falls below investment-grade, the Company would be required to make an additional coupon step-up payment on the 5.125 % Senior Notes due 2045. The increase is 25 basis points per rating notch per agency, capped at 100 basis points per agency. However, this coupon step-up would reverse if the Company returns to an investment-grade rating.
+
+In January 2025, wholly-owned subsidiaries of the Company completed the issuance of $ 1,250 million 5.125 % Senior Notes due 2030, $ 1,250 million 5.500 % Senior Notes due 2035, and $ 500 million 5.875 % Senior Notes due 2055. In May 2025, $ 1.25 billion 3.875 % Senior Notes due 2025 were repaid on maturity. In October 2025, a wholly-owned subsidiary of the Company completed the issuance of $ 1,000 million 4.400 % Senior Notes due 2031, $ 1,000 million 5.000 % Senior Notes due 2036, and $ 500 million 5.600 % Senior Notes due 2056. The Notes are fully and unconditionally guaranteed by the Company as to the principal, interest, premium, if any, and any other amounts payable in respect of them.
+
+Bank Debt:
+
+The Company maintains a multi-currency RCF with a syndicate of lenders. The RCF offers a senior unsecured revolving credit facility of € 3,500 million over five years , maturing May 11, 2030. Borrowings under the RCF bear interest at rates based upon an underlying base rate, plus a margin determined in accordance with a ratings-based pricing grid. Base rates include SOFR for U.S. Dollar, EURIBOR for euros, SONIA for Sterling, and SARON for Swiss Francs, respectively. A commitment fee is payable on a quarterly basis based on a percentage of the applicable margin and calculated on the daily undrawn amount of the facility.
+
+The deferred financing costs associated with the RCF were $ 5 million as of December 31, 2025. The total potential credit available through this arrangement is € 3,500 million, inclusive of the ability to issue letters of credit.
+
+As of December 31, 2025, and 2024, there were no outstanding borrowings or letters of credit issued under this facility and the undrawn committed facility available to be drawn by the Company as of December 31, 2025, was $ 4,115 million (€ 3,500 million equivalent).
+
+The RCF includes customary terms and conditions for investment-grade borrowers. There are no financial covenants.
+
+In December 2024, the Company entered into a new $ 750 million two-year fixed rate term loan facility which was fully drawn. In December 2025, this facility was extended by one year to 2027.
+
+Philippines (PHP) Debt:
+
+The Company's subsidiary, Republic Cement & Building Materials, Inc., has entered into a number of committed credit arrangements with local banks totaling $ 0.4 billion (PHP 22.5 billion). The Company does not guarantee these facilities. The funds drawn from these facilities carry a combination of fixed and floating interest rates.
+
+Australian (AUD) Debt:
+
+In July 2024, the Company acquired Adbri which had committed credit agreements with a range of banks and credit institutions totaling $ 0.6 billion (AUD 0.9 billion). The funds drawn from these facilities carried a combination of fixed and floating interest rates. In November 2025, Adbri entered into a new credit facility with a range of banks and credit institutions totaling $ 0.8 billion (AUD 1.2 billion). Funds were initially drawn to retire a portion of Adbri's existing credit facilities. The Company does not provide a guarantee for this facility. The funds drawn from this facility carry floating interest rates.
+
+Commercial Paper:
+
+As of December 31, 2025, the Company had a $ 4,000 million U.S. Dollar Commercial Paper Program and a € 1,500 million Euro Commercial Paper Program. The purpose of these programs is to provide short-term liquidity as required. The Company’s RCF supports the commercial paper programs with a separate € 750 million swingline sublimit which allows for same-day drawing in either euro or U.S Dollar. Commercial paper borrowings may vary during the period, largely as a result of fluctuations in funding requirements.
+
+The long-term debt maturities, net of the unamortized discounts and debt issuance costs, for the periods subsequent to December 31, 2025, are as follows:
+
+CRH FORM 10-K
+
+11. Leases
+
+In the normal course of its business, the Company enters into various leases as the lessee, primarily related to property. The Company also leases plant and machinery, vehicles and equipment.
+
+Lease liabilities as of December 31 were:
+
+The current portion of finance lease liabilities is included within Other current liabilities and the noncurrent portion of finance lease liabilities is included within Other noncurrent liabilities in the Consolidated Balance Sheets.
+
+The maturity analysis for the discounted and undiscounted lease liability arising from the Company’s leasing activities as of December 31, 2025, was:
+
+The projections are based on the foreign exchange rates applied at the end of the relevant fiscal year and on interest rates (discounted projections only) applicable to the lease portfolio.
+
+The components of lease expense for the years ended December 31 were :
+
+(i) Income from subleasing transactions is not material for the Company.
+
+CRH FORM 10-K
+
+The weighted average remaining lease term and discount rates as of December 31 were:
+
+The supplemental cash flow information for the years ended December 31 was:
+
+12. Asset retirement obligations
+
+Asset retirement obligations (AROs) are legal obligations associated with the retirement of long-lived assets, including legal obligations for land reclamation. Recognition of a liability for an ARO is required in the period in which it is incurred at its estimated fair value. The associated asset retirement costs are capitalized as part of the carrying amount of the underlying asset and depreciated over the estimated useful life of the asset. The liability is accreted through charges to Cost of revenues. If the ARO is settled for other than the carrying amount of the liability, a gain or loss on settlement is recognized.
+
+ARO costs related to accretion of the Company’s liabilities and the depreciation of the related assets for the years ended December 31 were:
+
+AROs are reported within Other current liabilities and Other noncurrent liabilities in the Consolidated Balance Sheets. As of December 31, 2025 and 2024, the carrying amount of the Company’s AROs were $ 436 million and $ 385 million, of which, $ 79 million and $ 66 million are current, respectively.
+
+13. Fair value measurement
+
+Fair value is defined as the amount that would be received for selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date and is measured using inputs in one of the following three categories:
+
+Level 1 measurements are based on unadjusted quoted prices in active markets for identical assets or liabilities that the Company has the ability to access. Valuation of these items does not entail a significant amount of judgment.
+
+Level 2 measurements are based on quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active or market data other than quoted prices that are observable for the assets or liabilities.
+
+Level 3 measurements are based on unobservable data that are supported by little or no market activity and are significant to the fair value of the assets or liabilities.
+
+Considerable judgment may be required in interpreting market data used to develop the estimates of fair value.
+
+The carrying values and fair values of the Company’s Long-term debt were $ 17,533 million and $ 17,502 million, respectively, as of December 31, 2025, and $ 13,851 million and $ 13,604 million, respectively, as of December 31, 2024. The Company’s Long-term debt obligations are Level 2 instruments whose fair value is derived from quoted market prices.
+
+The Redeemable noncontrolling interests included in the Consolidated Balance Sheets are marked to fair value on a recurring basis using Level 3 inputs. The redemption value of Redeemable noncontrolling interests approximates the fair value and is based on a range of estimated potential outcomes of the expected payment amounts primarily dependent on underlying performance metrics. The unobservable inputs in the valuation include a discount rate determined using a Capital Asset Pricing Model methodology with ranges of between 5.97 % and 7.01 %.
+
+See Note 22 for the changes in the fair value of Redeemable noncontrolling interests.
+
+The carrying values of the Company’s Cash and cash equivalents, Restricted cash, Accounts receivable, net, Current portion of long-term debt, Accounts payable, Accrued expenses, and Other current liabilities approximate their fair values because of the short-term nature of these instruments.
+
+CRH FORM 10-K
+
+14. Income taxes
+
+The summary of the Income before income tax expense for the years ended December 31 was:
+
+The summary of the Income tax expense for the years ended December 31 was:
+
+Due to the percentage of global operations subject to tax in the United States, the Company uses the U.S. Federal statutory tax rate in the reconciliation of the effective income tax rate. The reconciliation of the applicable U.S. Federal income tax rate to the effective income tax rate was:
+
+(i) State taxes in Florida, Michigan, Texas, New Jersey, California, Connecticut, Utah and Oregon made up the majority (greater than 50%) of the tax effect in this category.
+
+CRH FORM 10-K
+
+The significant components of the deferred tax assets and liabilities as of December 31 were:
+
+The net deferred tax assets and liabilities that are included in the Consolidated Balance Sheets as of December 31 were:
+
+As of December 31, 2025, the Company had gross loss carryforwards of $ 1,485 million related to foreign operations and $ 57 million of federal gross loss carryforwards and $ 42 million of state net operating loss carryforwards. $ 893 million of certain foreign, federal and state loss carryforwards have various expiration dates ranging from 2026 to 2050; $ 690 million do not expire based on current tax legislation. The Company had gross interest deduction carryforwards of $ 3,188 million related to foreign operations and $ 188 million of federal gross interest deduction carryforwards. $ 88 million of certain interest carryforwards have various expiration dates ranging from 2026 to 2045, $ 3,287 million do not expire based on current tax legislation.
+
+The summary of the change in valuation allowance as of December 31 was:
+
+The Company maintains a valuation allowance on net operating losses and other deferred tax assets if, based on the weight of available evidence, it is more likely than not that some portion, or all, of a deferred tax asset will not be realized. As of December 31, 2025, and December 31, 2024, the Company has a valuation allowance on net deferred tax assets of $ 1,336 million and $ 1,059 million, respectively. For the year ended December 31, 2025, the valuation allowance increased due to an increase in interest deduction carryforwards.
+
+A deferred tax liability has been recognized in respect of any undistributed earnings in which the Company is not permanently reinvested. The Company has $ 17.8 billion of undistributed earnings that are considered permanently reinvested as of December 31, 2025, for which no deferred tax liabilities have been recognized. It is not practicable to estimate the amount of tax that would be paid if there was a distribution of these earnings. Participation exemptions and tax credits are available in the majority of jurisdictions in which the Company operates.
+
+CRH FORM 10-K
+
+The reconciliation of the changes in the unrecognized tax benefits as of December 31 was:
+
+The Company files income tax returns in Ireland, the United States, the United Kingdom, Germany, Canada, and other various foreign jurisdictions and is subject to ongoing examination by tax authorities throughout the world. In general, the Company is no longer subject to significant income tax examinations by tax authorities in the jurisdictions noted for years before 2017. The Company believes that its income tax reserves are adequately maintained taking into consideration both the technical merits of its tax return positions and ongoing developments in its income tax audits. However, the final determination of the Company's tax return positions, if audited, is uncertain and therefore there is a possibility that the outcomes of such events could cause the Company’s estimate to change in the future. No single position is expected to generate a significant increase or decrease to the liability for unrecognized tax benefits within 12 months of the reporting date. As of December 31, 2025, and December 31, 2024, the unrecognized tax benefits that, if recognized, would impact the effective tax rate were $ 727 million and $ 589 million, respectively.
+
+The Company’s policy is to accrue interest and penalties related to potential underpayment of income taxes within the provision for income taxes. As of December 31, 2025, and December 31, 2024, the Company had accrued interest of $ 101 million and $ 101 million, respectively. As of December 31, 2025, December 31, 2024, and December 31, 2023, the interest and penalties included in Income tax expense was $ 8 million, $ 20 million, and $ 14 million, respectively.
+
+Income tax paid net of (refunds) received, consisted of the following:
+
+15. Earnings per share (EPS)
+
+The calculation of basic and diluted earnings per share for the years ended December 31 were:
+
+(i) The weighted average number of common shares included in the computation of basic and diluted earnings per share has been adjusted to exclude shares repurchased and held by the Company as Treasury stock given that these shares do not rank for dividend.
+
+(ii) Common Shares that would only be issued contingent on certain conditions totaling 2,627,138 , 2,140,879 and 4,677,404 as of December 31, 2025, 2024 and 2023, respectively, are excluded from the computation of diluted earnings per share where the conditions governing exercisability have not been satisfied as of the end of the reporting period or they are antidilutive for the periods presented.
+
+CRH FORM 10-K
+
+16. Share-based compensation
+
+Share-based compensation relates primarily to awards granted under the 2025 Equity Incentive Plan (EIP), the 2014 Performance Share Plan (PSP) and the Company’s Savings-related Share Option Scheme. The expense, net of estimated forfeitures, is reflected in Operating income in the Consolidated Statements of Income.
+
+The share-based compensation for these plans for the years ended December 31 was:
+
+Equity Incentive Plan
+
+In May 2025, shareholders approved the adoption of the new EIP, which replaced the PSP. The EIP is intended to align employee and executive interests with long-term shareholder value creation. Under the EIP, the Company granted both PSUs and RSUs to eligible employees. No further awards will be granted under the PSP; however, outstanding awards under that plan will continue to vest under their original terms.
+
+Performance Share Units
+
+PSUs provide an employee with the right to receive shares of the Company’s stock, subject to fulfillment of certain market, performance and service conditions over a vesting period. The number of shares authorized under the EIP during the year ended December 31, 2025 did not exceed 10 % of the issued share capital at that time. The performance conditions are as follows for the 2025 PSUs: 25 % is subject to a Total Shareholder Return (TSR) performance measured against a tailored peer group; 25 % is subject to a RONA target; with the remaining 50 % subject to a cumulative cash flow target. Performance for the awards is assessed over a three-year period. Vesting outcomes for PSUs range from 0 % to 200 % of the target award based on performance.
+
+The details of the awards granted under the EIP for the year ended December 31, 2025 were:
+
+The fair value of (i) the portion of awards subject to a cash flow performance target; and (ii) the portion of awards subject to a RONA target; was calculated as the Company’s closing share price at the date the award was granted.
+
+The fair value assigned to the portion of awards subject to a TSR performance metric was calculated using the Monte Carlo simulation model, at the grant date, taking account of peer group TSR, volatilities and correlations together with the following assumptions:
+
+The expected volatility was determined using a historical sample of the Company’s daily share prices over a period equal to the expected term .
+
+The risk-free interest rate is based on the U.S. Treasury bond yield at the grant date with a maturity period equal to the expected term.
+
+During the year ended December 31, 2025, no shares vested. As of December 31, 2025, unrecognized compensation expense related to the awards was $ 74 million, which will be recognized over the remaining weighted average vesting period of 2.25 years.
+
+Restricted Share Units
+
+RSUs are time-based awards that entitle participants to receive shares of the Company’s stock, subject to continued employment. The number of shares authorized under the EIP during the year ended December 31, 2025 did not exceed 10 % of the issued share capital at that time.
+
+The details of the awards granted under the EIP for the year ended December 31, 2025 were:
+
+The fair value was calculated as the Company’s closing share price at the date the award was granted.
+
+During the year ended December 31, 2025, no shares vested. As of December 31, 2025, unrecognized compensation expense related to the awards was $ 54 million, which will be recognized over the remaining weighted average vesting period of 2.3 years.
+
+CRH FORM 10-K
+
+2014 Performance Share Plan
+
+The PSP authorizes the granting of conditional awards or nil-cost options (right to acquire shares during an exercise period without cost to the participant). The number of shares authorized under the PSP during the years ended December 31, 2025, 2024 and 2023 did not exceed 10 % of the issued share capital at that time.
+
+Under the PSP, the Company has granted PSUs to its employees. PSUs provide an employee with the right to receive shares of the Company’s stock, subject to fulfillment of certain market, performance and service conditions over a vesting period. The performance conditions are as follows for the 2024 and 2023 PSUs: 20 % of each award made is subject to a TSR performance measured against a tailored peer group; 20 % is subject to a RONA metric; 15 % is subject to ESG metrics; with the remaining 45 % subject to a cumulative cash flow metric. Performance for the awards is assessed over a three-year period.
+
+The details of the awards granted under the PSP for the year ended December 31, 2025 were:
+
+During fiscal years 2024 and 2023, the weighted average grant date fair values were $ 79.52 (€ 73.85 ) and $ 48.55 (€ 45.57 ), respectively.
+
+The fair value of (i) the portion of awards subject to a cash flow performance metric; (ii) the portion of awards subject to a RONA metric; (iii) the portion of awards subject to ESG metrics; and (iv) the portion of awards with no performance conditions (which are subject to a two-year service period) was calculated as the Company’s closing share price at the date the award was granted.
+
+The fair value assigned to the portion of awards subject to a TSR performance metric was calculated using the Monte Carlo simulation model, at the grant date, taking account of peer group TSR, volatilities and correlations together with the following assumptions:
+
+The expected volatility was determined using a historical sample of the Company’s daily share prices over a period equal to the expected term.
+
+The risk-free interest rate is based on the U.S. Treasury bond yield at the grant date with a maturity period equal to the expected term.
+
+During the years ended December 31, 2025, 2024 and 2023, 3,102,394 shares vested having a fair value of $ 316 million; 3,080,029 shares vested having a fair value of $ 256 million, and 2,985,299 shares vested having a fair value of $ 147 million, respectively. As of December 31, 2025, unrecognized compensation expense related to the awards was $ 78 million, which will be recognized over the remaining weighted average vesting period of 0.74 years.
+
+2021 Savings-related Share Option Scheme
+
+The Company operates a Savings-related Share Option Scheme approved by shareholders in 2021. No options were granted during the years ended December 31, 2025, 2024 and 2023 and the impact of the scheme on the Company’s Consolidated Financial Statements is not material.
+
+17. Shareholders' equity
+
+The Company’s capital stock consists of common stock, 5 % preferred stock and 7 % ‘A’ preferred stock. Holders of the Company’s common stock are entitled to one vote per share.
+
+The holders of the 5 % preferred stock are entitled to a fixed preferred dividend at an annual rate of 5 % and priority in a winding-up to repayment of capital but have no further right to participate in profits or assets and are not entitled to be present or vote at general meetings unless their dividend is in arrears. Dividends on the 5 % preferred stock are payable semi-annually on April 15 and October 15 in each year. The 5 % preferred stock represents 0.03 % and 0.03 % of the total issued share capital as of December 31, 2025, and 2024, respectively.
+
+The holders of the 7 % ‘A’ preferred stock are entitled to a fixed preferred dividend at an annual rate of 7 % and subject to the rights of the holders of the 5 % preferred stock, priority in a winding-up to repayment of capital, but have no further right to participate in profits or assets and are not entitled to be present or vote at general meetings unless their dividend is in arrears or unless the business of the meeting includes certain matters. Dividends on the 7 % ‘A’ preferred stock are payable semi-annually on April 5 and October 5 in each year. The 7 % ‘A’ preferred stock represent 0.49 % and 0.48 % of the total issued share capital as of December 31, 2025 and 2024, respectively.
+
+For the years ended December 31, 2025, 2024, and 2023, dividends declared on 5 % preferred stock and 7 % ‘A’ preferred stock were all less than $ 1 million, respectively.
+
+During 2025 and 2024, a total of 11,701,135 and 15,872,321 shares of Common stock (equivalent to 1.66 % and 2.21 % of the Company’s issued share capital) were repurchased at an average price of $ 100.91 and $ 82.01 per share under the share buyback program, respectively. During 2025 and 2024, all repurchased shares of Common stock were retired on repurchase.
+
+As of December 31, 2025 and 2024, 38,315,792 and 41,355,384 shares were held as Treasury stock, equivalent to 5.42 % and 5.75 % of the Common stock issued, respectively.
+
+CRH FORM 10-K
+
+18. Accumulated other comprehensive loss
+
+The changes in the balances for each component of Accumulated other comprehensive loss, net of tax, for the years ended December 31 were:
+
+(i) For the years ended December 31, 2025, 2024, and 2023, $( 45 ) million, $( 39 ) million, and $ nil million respectively were transferred from currency translation related to (losses) gains on divestitures that were reclassified from Accumulated other comprehensive loss to Other nonoperating income (expense), net.
+
+The amounts reclassified from Accumulated other comprehensive loss to income for the years ended December 31 were:
+
+CRH FORM 10-K
+
+19. Segment information
+
+The Company has the following three operating and reportable segments:
+
+Americas Materials Solutions;
+
+Americas Building Solutions; and
+
+International Solutions
+
+The Americas Materials Solutions segment provides building materials, products and services for the construction and maintenance of public infrastructure and commercial and residential buildings in North America. The primary materials produced by this segment include aggregates, cementitious materials, readymixed concrete and asphalt. This segment also provides paving and construction services for customers.
+
+The Americas Building Solutions segment manufactures, supplies and delivers building products for the built environment in communities across North America. Our subsidiaries within this segment offer building and infrastructure solutions serving complex critical infrastructure (such as water, energy, transportation and telecommunications projects) and outdoor living solutions for enhancing private and public spaces.
+
+The International Solutions segment provides building materials, products and services across Europe and Australia, for the use in the construction of critical infrastructure, commercial and residential buildings and outdoor living spaces.
+
+The segment structure reflects the nature of the financial information reported to and assessed by the Chief Executive Officer, Chief Financial Officer and Chief Operating Officer, who are together determined to fulfill the role of Chief Operating Decision Maker (CODM).
+
+The principal factors employed in the identification of the three segments reflected in this note include:
+
+(i) the Company’s organizational structure in 2025 (during 2025 the Divisional President fulfilled the role of “segment manager”);
+
+(ii) the nature of the reporting lines to the CODM; and
+
+(iii) the structure of internal reporting documentation such as management accounts and budgets.
+
+The Company’s reportable segments are the same as the Company’s operating segments and correspond with how the CODM regularly reviews financial information to allocate resources and assess performance under the Company’s organizational structure.
+
+The CODM uses Adjusted EBITDA as part of their review of the monthly operating results on a segment basis. The CODM considers actual monthly results against the budget and the prior year as part of their assessment of the performance of the business and when making decisions regarding resource allocation. Given that Interest expense and Income tax expense are managed on a centralized basis, these items are not allocated between operating segments for the purposes of the information presented to the CODM and are accordingly omitted from the detailed segmental analysis below. There are no asymmetrical allocations to reporting segments which would require disclosure.
+
+Adjusted EBITDA is defined as earnings from continuing operations before interest, taxes, depreciation, depletion, amortization, Loss on impairments, gain/loss on divestitures and investments, Income/loss from equity method investments, substantial acquisition-related costs, and pension expense/income excluding current service cost component.
+
+The key performance measures and segment expenses for the Company’s reportable segments for the years ended December 31 were:
+
+CRH FORM 10-K
+
+(i) The nature of other segment items is similar for each segment and primarily includes raw materials, haulage costs, subcontractor costs and other Selling, general and administrative expenses. The composition of other segment items is such that at a segment level none of these items is individually significant in determining segment performance.
+
+(i) The total Loss on impairments is comprised of $ 40 million, $ 161 million and $ 295 million within International Solutions for the years ended December 31, 2025, 2024, and 2023, respectively and $ 62 million within Americas Materials Solutions for the year ended December 31, 2023.
+
+(ii) Gain on divestitures and investments, pension income excluding current service cost component and other interest, net have been included in Other nonoperating income (expense) , net in the Consolidated Statements of Income.
+
+Depreciation, depletion and amortization for each of the segments for the years ended December 31 were:
+
+The gain on divestitures and investments for each of the segments for the years ended December 31 were:
+
+CRH FORM 10-K
+
+The segment assets as of December 31 were:
+
+The segment liabilities as of December 31 were:
+
+CRH FORM 10-K
+
+Additions to property, plant and equipment and intangible assets for each of the segments for the years ended December 31 were:
+
+(i) Property, plant and equipment and intangible asset additions exclude asset retirement cost additions.
+
+Long-lived assets by geographic area as of December 31 were:
+
+(i) Long-lived assets are comprised of property, plant and equipment and operating lease right-of-use assets.
+
+Information about major customers
+
+There are no material dependencies or concentrations of individual customers that require disclosure. The individual entities within the Company have a large number of customers spread across various activities, end-users and geographies.
+
+20. Pension and other postretirement benefits
+
+The Company operates either defined benefit or defined contribution pension plans in all of its principal operating areas. The disclosures included below relate to all pension plans in the Company. The Company operates defined benefit pension plans in Australia, Belgium, Canada, France, Germany, Italy, the Netherlands, the Philippines, the Republic of Ireland, Romania, Serbia, Slovakia, Switzerland, the United Kingdom, the United States and Ukraine. The Company has a mixture of funded and unfunded defined benefit pension plans. The net surplus of the funded plans was $ 474 million and $ 290 million as of December 31, 2025 and 2024, respectively. Underfunded and unfunded obligations (including jubilee, postretirement healthcare obligations and long‐term service commitments) are comprised of a number of plans in Canada, France, Germany, Italy, the Netherlands, the Philippines, Romania, Serbia, Slovakia, Switzerland, Ukraine and the United States totaling a net liability of $ 261 million and $ 235 million as of December 31, 2025 and 2024, respectively.
+
+Funded defined benefit plans in Australia, the Netherlands, the Republic of Ireland, Switzerland and the United Kingdom are administered by separate funds that are legally distinct from the Company under the jurisdiction of Trustees/Pension Boards. The Trustees/Pension Boards are required by law to act in the best interests of the scheme participants and are responsible for the definition of investment strategy and for scheme administration. Other plans are also administered in line with the local regulatory environment. The level of benefits available to most members depends on length of service and either their average salary over their period of employment or their salary in the final years leading up to retirement. For Switzerland, the level of benefits depends on salary, level of savings contributions, the interest rate on old age accounts (which cannot be negative) and the annuity conversion factor on retirement. The Company’s pension plans in Switzerland are contribution-based plans with guarantees. This means the Company pays an age-dependent fixed contribution percentage but should the invested assets be insufficient to meet the guaranteed benefit obligations, additional contributions might be required.
+
+CRH FORM 10-K
+
+The change in benefit obligation, change in plan assets, funded status of pension and other postretirement benefit (OPEB) plans, and amounts recognized in the Consolidated Balance Sheets were:
+
+(i) Includes a benefit obligation of $ 9 million and $ 8 million related to non-U.S. OPEB plans as of December 31, 2025 and 2024, respectively.
+
+CRH FORM 10-K
+
+The pension and other postretirement plans for which their accumulated benefit obligation, projected benefit obligation or accumulated postretirement benefit obligation exceeds the fair value of their respective plan assets as of December 31 were:
+
+Impact on Consolidated Statements of Income The total retirement benefit expense recognized in the Consolidated Statements of Income for the years ended December 31 were:
+
+Components of Net Periodic Benefit Cost The components of net periodic benefit cost recognized in the Consolidated Statements of Income for the years ended December 31 were:
+
+(i) Settlement gain of $ 3 million, for the year ended December 31, 2024, relates to pension plans divested as part of the divestiture of the European Lime operations and is included in gain on divestitures, within Other nonoperating income (expense), net.
+
+(ii) Includes the net periodic benefit cost of $ nil million, related to non-U.S. OPEB plans for each of the years ended December 31, 2025, 2024, and 2023, respectively.
+
+(iii) Service cost is included within Cost of revenues and Selling, general and administrative expenses while all other cost components are recorded within Other nonoperating income (expense), net.
+
+CRH FORM 10-K
+
+The changes in plan assets and benefit obligations that were recognized in Other comprehensive loss (income) for the years ended December 31 were:
+
+(i) Includes an amount recognized in Other comprehensive loss (income) of $ nil million, $ nil million and $ 1 million related to non-U.S. OPEB plans for the years ended December 31, 2025, 2024, and 2023, respectively.
+
+The weighted average assumptions used to determine net periodic benefit cost for the years ended December 31 were:
+
+The weighted average assumptions used to determine the benefit obligation as of December 31 were:
+
+The long-term return expectation is developed based on a diversified investment strategy that takes into account historical experience, as well as the impact of portfolio diversification, active portfolio management, and the Company’s view of current and future economic and financial market conditions. In determining the expected rate of return for the plan assets, the Company performs an analysis of investment community forecasts and current market conditions to develop expected returns for each of the asset classes used by the plans, which are weighted to reflect the asset allocation of each plan. As market conditions and other factors change, the Company may adjust targets accordingly, and asset allocations may vary from the target allocations.
+
+The assets of the Company’s pension and other postretirement plans are managed externally for the benefit of the plan members. Consideration is given to the long-term nature of the benefit obligations and the investment strategy is set at plan level, typically to maintain a diversified portfolio of assets with the objective of meeting future obligations and long-term cash requirements as they fall due. Assets are primarily invested in diversified funds that hold equity and debt securities to maintain security while maximizing returns within each plan’s investment policy. The investment policy for each plan specifies the type of investment vehicle, asset allocation guidelines as well as investment monitoring and performance requirements. For the main funded plans, the target allocations to equity/debt are as follows:
+
+(i) Ireland: Equities 10 - 20 % / Debt 55 - 60 %.
+
+(ii) U.S.: Equities 10 - 30 % / Debt 65 - 85 %.
+
+(iii) Switzerland: Equities 20 - 35 % / Debt 25 - 55 %.
+
+(iv) Other asset classes have a range of smaller % targets.
+
+CRH FORM 10-K
+
+The target allocation ranges and fair values by asset class as of December 31 were:
+
+(i) For U.S. pension plans, equity instruments with a total allocation range of 10 - 30 % are made up of 10 - 30 % in developed markets’ diversified equity instruments and 10 - 30 % in emerging markets’ diversified equity instruments. For non-U.S. pension plans, equity instruments with a total allocation range of 15 - 25 % are made up of 17 - 24 % in developed markets’ diversified equity instruments and 1 - 2 % in emerging markets’ diversified equity instruments.
+
+(ii) For U.S. pension plans, debt instruments with a total allocation range of 65 - 85 % are made up of 65 - 85 % in non-government debt instruments and 65 - 85 % in government fixed interest instruments. For non-U.S. pension plans, debt instruments with a total allocation range of 20 - 35 % are made up of 32 - 43 % in government inflation-protected bonds, 18 - 30 % in government fixed interest instruments, 12 - 18 % in non-government debt instruments, 6 - 12 % in asset-backed instruments, 6 - 12 % in inflation-protected bonds and 6 - 12 % in structured debt.
+
+(i) For U.S. pension plans, equity instruments of $ 90 million are made up of $ 82 million in developed markets’ diversified equity instruments and $ 8 million in emerging markets’ diversified equity instruments. For non-U.S. pension plans, equity instruments of $ 589 million are made up of $ 559 million in developed markets’ diversified equity instruments and $ 30 million in emerging markets’ diversified equity instruments.
+
+(ii) For U.S. pension plans, debt instruments of $ 318 million are made up of $ 210 million in non-government debt instruments and $ 108 million in government fixed interest instruments. For non-U.S. pension plans, debt instruments of $ 1,581 million are made up of $ 810 million in government inflation-protected bonds, $ 451 million in government fixed interest instruments, $ 275 million in non-government debt instruments, and $ 45 million in asset-backed instruments.
+
+There were no other postretirement plan assets as of December 31, 2025.
+
+CRH FORM 10-K
+
+(i) For U.S. pension plans, equity instruments of $ 87 million are made up of $ 78 million in developed markets’ diversified equity instruments and $ 9 million in emerging markets’ diversified equity instruments. For non-U.S. pension plans, equity instruments of $ 558 million are made up of $ 521 million in developed markets’ diversified equity instruments and $ 37 million in emerging markets’ diversified equity instruments.
+
+(ii) For U.S. pension plans, debt instruments of $ 326 million are made up of $ 226 million in non-government debt instruments and $ 100 million in government fixed interest instruments. For non-U.S. pension plans, debt instruments of $ 1,437 million are made up of $ 245 million in non-government debt instruments, $ 721 million in government fixed interest instruments, $ 434 million in government inflation-protected bonds and $ 37 million in asset-backed instruments.
+
+There were no other postretirement plan assets as of December 31, 2024.
+
+The Level 3 reconciliation for pension plans by asset class for the years ended December 31, 2025 and 2024 were:
+
+The following is a description of the methods and assumptions used to estimate the fair value of the pension and other postretirement plans’ assets:
+
+Cash and cash equivalents: Cash and all highly liquid securities with original maturities of three months or less are classified as Cash and cash equivalents, primarily consisting of cash deposits in interest-bearing accounts, time deposits and money market funds. These assets are classified as Level 1.
+
+Equity instruments: Individual securities that are valued at the closing price or last trade reported on the major market on which they are traded are classed as Level 1. Commingled funds that are publicly traded are based upon market quotes and are classed as Level 1. The fair value of non-publicly traded funds are determined using the Net Asset Value (NAV) provided by the administrator and are classified as Level 2.
+
+Debt instruments: The fair value is determined using market prices (Level 1) or prices derived from observable inputs (Level 2). Level 2 investments may also include commingled funds that have a readily determinable fair value based on observable prices of the underlying securities.
+
+Real estate: Investments in real estate funds that are publicly traded are based upon market quotes and are classed as Level 1. Direct investments in real estate are classed as Level 2 and determined using the NAV provided by the administrator.
+
+CRH FORM 10-K
+
+Assets held by insurance company: The fair value is based on negotiated value and the underlying investments held in separate account portfolios, as well as the consideration of the creditworthiness of the issuer. The underlying investments are primarily government, asset-backed and fixed income securities. Assets held by insurance company are generally classified as Level 2 or Level 3 depending on the structure of the contract/market pricing information.
+
+The assumed healthcare cost trend rates as of December 31 were:
+
+The following table presents the expected future benefit payments to be made over the next 10 years:
+
+The Company expects that it will contribute $ 12 million to the U.S. pension plans, $ 34 million to the non-U.S. pension plans and $ 6 million to the OPEB plans, including minimum funding payments, in 2026.
+
+CRH FORM 10-K
+
+21. Variable interest entities
+
+The Company’s operations in the Philippines are conducted through a Variable Interest Entity (VIE), wherein the Company holds 40 % of the equity share capital and a 55 % share of earnings and distributions. The remaining noncontrolling interest of 60 % equity share capital and 45 % share of earnings and distributions is held by an unrelated party. The Company’s voting rights are not proportional to its share of earnings and distributions, and substantially all of the activities of the Philippines business are conducted on behalf of the Company and controlled by the Company through contractual relationships. The Philippines business meets the definition of a VIE for which the Company is the primary beneficiary and, therefore, is consolidated.
+
+Further, the Company has provided subordinated debt to the intermediate parent of the Philippines business which exposes the Company to the profits and losses of the Philippines business. The debt is repayable only where the shareholder agreement of the intermediate parent of the Philippines business is terminated or where the Company transfers its shares in the intermediate parent to an unrelated entity (i.e. the debt exposure of the Company becomes in substance a residual interest in the intermediate parent).
+
+The carrying amounts of assets and liabilities of the consolidated VIE, reported within the Consolidated Balance Sheets before intragroup eliminations with other CRH companies as of December 31 were:
+
+The operating results of the consolidated VIE, reported within the Consolidated Statements of Income and Consolidated Statements of Cash Flows before intragroup eliminations with other CRH companies for the years ended December 31 were:
+
+CRH FORM 10-K
+
+22. Redeemable noncontrolling interests
+
+The Redeemable noncontrolling interests primarily consist of the noncontrolling interests in two of the Company’s North American subsidiaries, which are currently redeemable. The Company has the ability to exercise the call option for the noncontrolling interests on or after December 31, 2035, and December 31, 2040, respectively. In addition to the call options, the noncontrolling interest holder has the right to sell the noncontrolling interests to the Company, which are currently exercisable. These noncontrolling interests have put and call options and both are redeemable based on multiples of EBITDA. The noncontrolling interests are considered redeemable noncontrolling equity interests, classified as temporary or mezzanine equity, as their redemption is not solely within the Company’s control. The noncontrolling interests were recorded at their respective fair values as of the acquisition dates and are adjusted to their expected redemption values, with an offsetting entry to retained earnings, as of the reporting date as if that date was the redemption date, if those amounts exceed their respective carrying values.
+
+During the year ended December 31, 2025, the Company adjusted the carrying amount of the redeemable noncontrolling interests to reflect the estimated redemption values as of the balance sheet date. The adjustment was based on the formulaic redemption values, with an offsetting entry to retained earnings.
+
+The rollforward of Redeemable noncontrolling interests as of December 31 was:
+
+23. Commitments and contingencies
+
+Guarantees
+
+The Company has given letters of guarantee to secure obligations of subsidiary undertakings as follows: $ 16.6 billion and $ 13.1 billion in respect of loans and borrowings, bank advances and derivative obligations as of December 31, 2025, and 2024, respectively, and $ 0.5 billion and $ 0.4 billion as of December 31, 2025, and 2024, respectively, in respect of letters of credit due within one year .
+
+Contractual commitments Contractual commitments as of December 31, 2025, were:
+
+Legal Proceedings The Company is not involved in any proceedings that it believes could reasonably be expected to have a material adverse effect on the Company’s financial condition, results of operations or liquidity.
+
+24. Subsequent events
+
+The Company has evaluated subsequent events occurring through to the date the Consolidated Financial Statements were issued. Based upon this review, the Company did not identify any subsequent events that would have required adjustment or disclosure in the Consolidated Financial Statements except as noted below.
+
+On January 27, 2026, the Company entered into an agreement to divest of its Construction Accessories operations, part of the International Solutions segment, for a total consideration of $ 0.7 billion. The transaction remains subject to customary closing conditions and regulatory approvals.
+
+CRH FORM 10-K
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+
+None .
+
+Item 9A. Controls and Procedures
+
+Management’s Report on Internal Control over Financial Reporting
+
+In accordance with the requirements of Rule 13a-15 of the Exchange Act, the following report is provided by management in respect of the Company’s internal control over financial reporting. As defined by the SEC, internal control over financial reporting is a process designed by, or under the supervision of, the Company’s principal executive and principal financial officers, or persons performing similar functions, and effected by the Board, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Consolidated Financial Statements for external purposes in accordance with United States generally accepted accounting principles and includes those policies and procedures that:
+
+• pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the Company;
+
+• provide reasonable assurance that transactions are recorded as necessary to permit preparation of the Consolidated Financial Statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and
+
+• provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the Consolidated Financial Statements.
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Our internal control system was designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of our Company’s published Consolidated Financial Statements for external purposes under generally accepted accounting principles. In connection with the preparation of the Company’s annual Consolidated Financial Statements, management has undertaken an assessment of the effectiveness of the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in the Internal Control Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+As permitted by the SEC, the Company has elected following a qualitative and quantitative review to exclude an assessment of the internal controls of Eco Material, the substantial acquisition completed during the year. The acquisition of Eco Material represented 5.1% and 2.9% of net and Total assets, respectively, and 0.6% of Total revenues. Its loss reduced Company profit by 0.7% for the fiscal year ended December 31, 2025.
+
+Management’s assessment, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, included an evaluation of the design of the Company’s internal control over financial reporting and testing of the operational effectiveness of those controls. Based on this assessment, management has concluded and hereby reports that as of December 31, 2025, the Company’s internal control over financial reporting is effective. Our auditor, Deloitte & Touche LLP (PCAOB ID No. 34 ), a registered public accounting firm, who have audited the Consolidated Financial Statements for the year ended December 31, 2025, have audited the effectiveness of the Company’s internal controls over financial reporting. Their report, on which an unqualified opinion is expressed thereon, is included below.
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting during the fiscal quarter ended December 31, 2025, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Evaluation of Disclosure Controls and Procedures
+
+Management has evaluated the effectiveness of the design and operation of the disclosure controls and procedures as defined in Exchange Act Rule 13a-15(e) as of December 31, 2025. Based on that evaluation, the Chief Executive Officer and the Chief Financial Officer have concluded that these disclosure controls and procedures were effective as of such date at the level of providing reasonable assurance.
+
+In designing and evaluating our disclosure controls and procedures, management, including the Chief Executive Officer and the Chief Financial Officer, recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+
+Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected.
+
+Report of Independent Registered Public Accounting Firm
+
+To the shareholders and the Board of Directors of CRH public limited company (CRH plc)
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited the internal control over financial reporting of CRH plc and subsidiaries (the Company) as of December 31, 2025, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control – Integrated Framework (2013) issued by COSO.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Consolidated Financial Statements as of and for the year ended December 31, 2025 of the Company and our report dated February 18, 2026, expressed an unqualified opinion on those financial statements.
+
+As described in Management’s Report on Internal Control over Financial Reporting, management excluded from its assessment the internal control over financial reporting at Eco Material, which was acquired on September 15, 2025, and whose financial statements constitute 5.1% and 2.9% of net and Total assets, respectively, 0.6% of Total revenues, and its loss reduced Company profit by 0.7% in the Consolidated Financial Statements as of and for the year ended December 31, 2025. Accordingly, our audit did not include the internal control over financial reporting at Eco Material.
+
+CRH FORM 10-K
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Deloitte & Touche LLP
+
+Atlanta, Georgia
+
+February 18, 2026
+
+Item 9B. Other Information
+
+During the three months ended December 31, 2025, no director or officer (as defined in Section 16 of the Exchange Act) of the Company adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) or (c) of Regulation S-K.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+CRH FORM 10-K
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+The information required by this Item 10 will be included in the Proxy Statement and is incorporated herein by reference.
+
+Item 11. Executive Compensation
+
+The information required by this Item 11 will be included in the Proxy Statement and is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by this Item 12 will be included in the Proxy Statement and is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this Item 13 will be included in the Proxy Statement and is incorporated herein by reference.
+
+Item 14. Principal Accounting Fees and Services
+
+The information required by this Item 14 will be included in the Proxy Statement and is incorporated herein by reference.
+
+CRH FORM 10-K
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+1. Consolidated Financial Statements The consolidated financial statements required to be filed in this Form 10-K are included in Part II, Item 8 hereof.
+
+2. Exhibits
+
+CRH FORM 10-K
+
+CRH FORM 10-K
+
+The total amount of long-term debt of the registrant and its subsidiaries authorized under any one instrument does not exceed 10% of the total assets of CRH plc and its subsidiaries on a consolidated basis. The Company agrees to furnish copies of any such instrument to the SEC upon request.
+
+Item 16. Form 10–K Summary
+
+We have chosen not to include an optional summary of the information required by this Form 10‐K.
+
+CRH FORM 10-K
+
+Signatures Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+CRH public limited company
+
+By /s/ Nancy Buese Nancy Buese Chief Financial Officer
+
+February 18, 2026
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated. KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Jim Mintern and Nancy Buese, and each of them singly, as their true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution, for them and in their name, place and stead, in any and all capacities, to sign any and all amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorney-in-fact and agent, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as they might or could do in person, hereby ratifying and confirming all that said attorney-in-fact and agent, or his substitute or substitutes, may lawfully do or cause to be done by virtue hereof.

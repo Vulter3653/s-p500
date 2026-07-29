@@ -1,0 +1,629 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Forward-looking Statements
+
+This report, and other statements that BlackRock may make, may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act, with respect to BlackRock’s future financial or business performance, strategies or expectations. Forward-looking statements are typically identified by words or phrases such as “trend,” “potential,” “opportunity,” “pipeline,” “believe,” “comfortable,” “expect,” “anticipate,” “current,” “intention,” “estimate,” “position,” “assume,” “outlook,” “continue,” “remain,” “maintain,” “sustain,” “seek,” “achieve,” and similar expressions, or future or conditional verbs such as “will,” “would,” “should,” “could,” “may” and similar expressions.
+
+BlackRock cautions that forward-looking statements are subject to numerous assumptions, risks and uncertainties, which change over time and may contain information that is not purely historical in nature. Such information may include, among other things, projections and forecasts. There is no guarantee that any forecasts made will come to pass. Forward-looking statements speak only as of the date they are made, and BlackRock assumes no duty to and does not undertake to update forward-looking statements. Actual results could differ materially from those anticipated in forward-looking statements and future results could differ materially from historical performance.
+
+BlackRock has previously disclosed risk factors in its Securities and Exchange Commission (“SEC”) reports. These risk factors and those identified elsewhere in this report, among others, could cause actual results to differ materially from forward-looking statements or historical performance and include: (1) the introduction, withdrawal, success and timing of business initiatives and strategies; (2) changes and volatility in political, economic or industry conditions, the interest rate environment, foreign exchange rates or financial and capital markets, which could result in changes in demand for products or services or in the value of assets under management (“AUM”); (3) the relative and absolute investment performance of BlackRock’s investment products; (4) BlackRock’s ability to develop new products and services that address client preferences; (5) the impact of increased competition; (6) the impact of recent or future acquisitions or divestitures, including the acquisitions of Global Infrastructure Management, LLC (“GIP” or the “GIP Transaction”), Preqin Holding Limited (“Preqin” or the “Preqin Transaction”) and HPS Investment Partners (“HPS” or the “HPS Transaction” and together with the GIP Transaction and the Preqin Transaction, the “Transactions”); (7) BlackRock’s ability to integrate acquired businesses successfully, including the Transactions; (8) the unfavorable resolution of legal proceedings; (9) the extent and timing of any share repurchases; (10) the impact, extent and timing of technological changes and the adequacy of intellectual property, data, information and cybersecurity protection; (11) the failure to effectively manage the development and use of artificial intelligence; (12) attempts to circumvent BlackRock’s operational control environment or the potential for human error in connection with BlackRock’s operational systems; (13) the impact of legislative and regulatory actions and reforms, supervisory or enforcement actions of government agencies and governmental scrutiny relating to BlackRock; (14) changes in law and policy and uncertainty pending any such changes; (15) any failure to effectively manage conflicts of interest; (16) damage to BlackRock’s reputation; (17) increasing focus from stakeholders regarding environmental and social-related matters; (18) geopolitical unrest, terrorist activities, civil or international hostilities, and other events outside BlackRock’s control, including wars, global trade tensions, tariffs, natural disasters and health crises, which may adversely affect the general economy, domestic and local financial and capital markets, specific industries or BlackRock; (19) climate-related risks to BlackRock’s business, products, operations and clients; (20) the ability to attract, train and retain highly qualified professionals; (21) fluctuations in the carrying value of BlackRock’s economic investments; (22) the impact of changes to tax legislation, including income, payroll and transaction taxes, and taxation on products, which could affect the value proposition to clients and, generally, the tax position of BlackRock; (23) BlackRock’s success in negotiating distribution arrangements and maintaining distribution channels for its products; (24) the failure by key third-party providers to fulfill their obligations to BlackRock; (25) operational, technological and regulatory risks associated with BlackRock’s major technology partnerships; (26) any disruption to the operations of third parties whose functions are integral to BlackRock’s exchange-traded products (“ETPs”) platform; (27) the impact of BlackRock electing to provide support to its products from time to time and any potential liabilities related to securities lending or other indemnification obligations; and (28) the impact of problems, instability or failure of other financial institutions or the failure or negative performance of products offered by other financial institutions.
+
+Overview
+
+BlackRock, Inc. (together, with its subsidiaries, unless the context otherwise indicates, “BlackRock” or the “Company”) is a leading publicly traded investment management firm with $14.0 trillion of AUM at December 31, 2025. With approximately 24,900 employees in more than 30 countries, BlackRock provides a broad range of investment management and technology services to institutional and retail clients in more than 100 countries across the globe. For further information see Note 1, Business Overview , and Note 27, Segment Information , in the notes to the consolidated financial statements contained in Part II, Item 8.
+
+The following discussion includes a comparison of BlackRock’s results for 2025 and 2024. For a discussion of BlackRock’s results for 2023 and a comparison of results for 2024 and 2023, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, which was filed with the SEC on February 25, 2025.
+
+Certain prior period presentations were reclassified to ensure comparability with current period classifications.
+
+Acquisitions
+
+On March 3, 2025, BlackRock completed the acquisition of 100% of the shares of Preqin, a leading provider of private markets data, for £2.5 billion (or approximately $3.2 billion) in cash. The Company believes bringing together Preqin's data and research tools with the complementary workflows of Aladdin and eFront in a unified platform will create a preeminent private markets technology and data provider.
+
+On July 1, 2025, BlackRock completed the acquisition of 100% of the business and assets of HPS, a leading global credit investment manager, with substantially all consideration paid in Class B-2 common units ("Subco Units") of BlackRock Saturn Subco, LLC ("Subco"), a consolidated subsidiary of the Company. The HPS Transaction, which added $165 billion of client AUM and $118 billion of fee-paying AUM, positions the Company to provide an integrated private credit platform with both public and private income solutions for clients across their whole portfolios. At close, approximately 8.5 million Subco Units were delivered to former equityholders of HPS and valued at $8.5 billion, based on the price of BlackRock's common stock on June 30, 2025 of approximately $1,049 and discounted for a one-year lack of marketability before exchange rights begin. Such Subco Units are exchangeable on a one-for-one basis into BlackRock common stock (accordingly, the value of each unit delivered was based on the price of a share of BlackRock’s common stock and the specific terms of the Subco Units). In addition, at the time of close, the Company granted incentive retention awards to certain employees of approximately 680,000 RSUs that vest in increasing yearly increments over five years valued at $675 million and approximately 270,000 RSUs valued at $260 million that cliff vest 100% after six months. Furthermore, deferred consideration, which is to be delivered all in Subco Units of approximately 2.8 million to 4.4 million, and initially valued at $3.4 billion at close, may be paid in approximately five years, subject to achievement of certain post-closing conditions and financial performance milestones. In general, if (i) the maximum amount of contingent consideration is achieved, (ii) all Subco Units are exchanged for shares of the Company’s common stock (including those issued on the closing date), and (iii) all RSUs vest and are settled in the form of shares of the Company’s common stock, the Company does not expect to issue more than approximately 13.8 million shares of common stock in the aggregate.
+
+On September 2, 2025, BlackRock completed the acquisition of 100% of the equity interests in ElmTree Funds (the "ElmTree Transaction" or “ElmTree”), a net-lease real estate investment firm, with consideration paid primarily in BlackRock common stock. The acquisition of ElmTree positions the Company to scale its real estate-related offerings, while expanding into new markets as an owner-operator.
+
+For additional information see Note 1, Business Overview , Note 2, Significant Accounting Policies and Note 3, Acquisitions in the notes to the consolidated financial statements contained in Part II, Item 8.
+
+Other Developments
+
+On December 10, 2025, BlackRock contributed a portion of its stake in Circle Internet Group, Inc. ("Circle") to the BlackRock Charitable Fund, which BlackRock established in 2013 (the “Charitable Contribution”). The Charitable Contribution resulted in an operating expense of $109 million, which was offset by a tax benefit of $29 million. The Charitable Contribution will add to the long-term funding for BlackRock’s philanthropic grants and programs. The general and administration expense and associated tax benefit related to the Charitable Contribution have been excluded from as adjusted results.
+
+Business Outlook
+
+BlackRock’s strategy continues to be guided by the Company's clients' needs and focus on the long-term, which the Company believes better enables it to deliver durable returns for shareholders and create value for all of its stakeholders. BlackRock’s highly diversified multi-product platform was created to meet client needs in all market environments and provide clients with choice in how they seek to achieve their unique financial goals. BlackRock is positioned to provide alpha-seeking active, private markets, index, and cash management investment strategies across asset classes and geographies. In addition, BlackRock leverages its world-class risk management, analytics, and technology capabilities, including the Aladdin platform, on behalf of clients. BlackRock serves a diverse mix of institutional and retail clients across the globe, as well as investors in ETFs, maintaining differentiated client relationships and a fiduciary focus. The diversity of BlackRock’s platform facilitates the generation of organic growth in various market environments, and as client preferences evolve. BlackRock’s long-term strategy remains to keep alpha at the heart of BlackRock; drive growth in ETFs, private markets, and technology; be the global leader in sustainable investing; and lead as a whole portfolio advisor.
+
+BlackRock's framework for long-term shareholder value creation is predicated on generating differentiated organic growth, leveraging scale to increase operating margins over time, and returning capital to shareholders on a consistent basis. BlackRock's diversified platform, in terms of style, product, client, and geography, enables it to generate more stable cash flows through market cycles, positioning BlackRock to invest for the long-term by striking an appropriate balance between investing for future growth and prudent discretionary expense management.
+
+BlackRock has invested to serve the full breadth of client needs. Clients increasingly want to build portfolios that are seamlessly integrated across public and private markets, and that are underpinned by data, risk management, and technology. The Company is differentiated in being able to deliver across public and private markets, equity and debt, and in the way that best serves each client – from broad-based ETFs to customized whole portfolio solutions. The Company also offers its Aladdin technology to support integrated public-private portfolios.
+
+2025 was a milestone year of organic client activity and integration of acquisitions grounded in client needs, investment capability expansion, technology and scale. Clients awarded BlackRock with a record $698 billion of net inflows in 2025, driving 9% organic base fee growth. Technology services and subscription annual contract value ("ACV") grew 16% organically, reflecting both new and expanded client relationships. The Company’s closing of the HPS and Preqin Transactions are expected to expand and enhance private markets investment and data capabilities.
+
+BlackRock expects 2026 to be a dynamic investing environment. Mega forces like artificial intelligence ("AI"), financial technology innovation, and an ongoing evolution in debt financing are transforming economies and their long-term growth trajectories. Capital markets will play a key role in these transformations. Private markets assets are an increasingly vital part of capital markets, and blending both public and private markets will be critical in fully capturing growth opportunities.
+
+BlackRock is well-positioned to capitalize on structural growth opportunities against a backdrop of economic and capital markets evolution. The Company has made coordinated investments to build the premier long-term capital partner and technology provider across public and private markets. The 2024 acquisition of GIP and the 2025 acquisitions of Preqin and HPS each better positioned BlackRock’s platform ahead of evolving client needs and structural industry trends.
+
+As the asset management landscape shifts globally from individual product selection to a whole-portfolio approach, BlackRock's strategy is focused on creating outcome-oriented client solutions for both retail investors and institutions. This includes having a diverse platform of alpha-seeking active, index and private markets products, as well as enhanced distribution and portfolio construction technology offerings. Digital wealth tools are an important component of BlackRock's retail strategy, as BlackRock scales and customizes model portfolios, extends Aladdin Wealth and digital wealth partnerships globally, and helps advisors build better portfolios through portfolio construction and risk management, powered by Aladdin. BlackRock has also seen strong momentum in outsourcing solutions among wealth and institutional clients, including the funding of several significant mandates in 2026, and anticipates continued outsourcing opportunities in the future.
+
+BlackRock has built a broad private markets platform with $323 billion of AUM across infrastructure, private credit, real estate, private equity and multi-alternatives. As of December 31, 2025, BlackRock had approximately $91 billion of committed capital to deploy for clients in a variety of private markets strategies, and remains confident in its ability to accelerate growth as a leader in private markets. BlackRock also manages $101 billion in liquid alternatives, as well as $105 billion in liquid credit strategies, included within fixed income AUM. BlackRock’s alternatives platform totals approximately $676 billion in client assets, making it a top five alternatives provider.
+
+BlackRock's investments in infrastructure, private credit, and alternatives-to-wealth underpin its ambition to raise $400 billion in private markets by 2030. The Company has a significant opportunity to deliver better outcomes and experiences for clients in their private markets allocations. For example, BlackRock is the largest general account manager for insurers with $720 billion in long-term AUM. With HPS, it's now also one of the largest asset-based finance and high-grade managers. The Company is focused on helping insurers build more dynamic and diversified portfolios across public and private markets, which could contribute to organic AUM and base fee growth.
+
+Similarly in wealth, BlackRock is working to expand access to private markets. The Company is bringing together investment performance track records with its scaled global distribution model. BlackRock plans to continue to expand and diversify distribution of HPS' nontraded business development companies to US wirehouses and registered investment advisors. It also plans to widen its product range through an H-Series family of funds in 2026. The Company aims to bring together the building blocks to serve wealth investors through a coordinated, multi-alternatives portfolio.
+
+For retirement savers, the Company also sees opportunity to bring additional returns and diversification to investors through private markets. BlackRock is well positioned to build on its position as an innovator and leader in retirement, notably through its LifePath target date franchise, which includes LifePath Paycheck. BlackRock has a leading defined contribution investment only ("DCIO") platform, a $600 billion LifePath franchise, a top five alternatives platform and Preqin. The Company expects to launch its first LifePath target date fund with private markets in 2026.
+
+The private markets – and clients’ allocations to them – are expected to continue to grow. Standardized, transparent private markets data and analytics will be increasingly important. As with Aladdin, BlackRock believes it can add even more value to Preqin as both a user and provider of private markets data and risk analytics. Aladdin expanded into new asset classes and markets as BlackRock and its clients evolved, and it expects the same for Preqin.
+
+In addition to private markets, BlackRock is executing on a strong opportunity set across multiple growth channels. These include ETFs, whole portfolio solutions like outsourced mandates and models, systematic active strategies, fixed income, and technology.
+
+The ETF industry has been growing rapidly, driven by structural tailwinds including the use of ETFs as active tools, the migration from commission-based to fee-based wealth management, growth in model portfolios, expansion of digital wealth platforms, and the modernization of the bond market. BlackRock’s ETF growth strategy is centered on increasing scale and pursuing global growth themes in client and product channels, including Core Equity, Fixed Income, Digital Assets, Active, and Precision ETFs. BlackRock views ETFs as a technology that facilitates investing, and ETFs have become core to asset management. The Company believes that ETFs will continue to be a structural growth area as clients turn to ETFs as the preferred vehicle for investing strategies of all types. BlackRock has been a leader in expanding the market for ETFs by making them more accessible and by delivering new asset classes like bonds or digital assets and investment strategies like active. Approximately a quarter of 2025 ETF net inflows of $527 billion were into products launched in the last five years. Active ETFs delivered $54 billion in net inflows in 2025, and BlackRock’s US equity factor rotation active ETF was the highest grossing active ETF in the industry. BlackRock fixed income ETFs generated a record $159 billion of net inflows, and the Company had both the highest net inflowing active and index fixed income ETFs in the industry. BlackRock will continue to innovate at the product and portfolio level and accelerate distribution capabilities to deliver differentiated investment solutions.
+
+BlackRock continues to invest in technology services offerings, which enhance the ability to manage portfolios and risk, effectively serve clients and operate efficiently. Market volatility, growing cost pressures, and complexity in optimizing whole portfolios underscore the need for enterprise operating and risk management technology, and should continue to drive demand for holistic and flexible technology solutions. BlackRock continues to evolve and enable clients to further simplify their operating infrastructure with Aladdin. Clients increasingly want to tailor how they use Aladdin to meet their specific needs, and BlackRock is providing them with choice and flexibility. Through the integration of Aladdin and eFront, clients are able to better manage and analyze risk across their whole portfolio spanning public and private markets. BlackRock is empowering clients with data and opening Aladdin by creating connectivity with ecosystem providers and third-party technology solutions, which include asset servicers, cloud providers, digital asset platforms, trading systems, and others. This connectivity helps clients work in their Aladdin environments with a more customized and seamless end-to-end experience. Investments in Aladdin AI copilots, enhancements in openness supporting ecosystem partnerships, and advancing whole portfolio solutions including private markets and digital assets are expected to further augment the value of using Aladdin. BlackRock’s acquisition of Preqin further expanded capabilities beyond private markets investment management and technology to data.
+
+Across BlackRock, many clients are focusing on the impact of sustainability factors on their portfolios. This shift has been driven by an increased understanding of how sustainability-related factors can affect economic growth, asset values, and financial markets as a whole. As a fiduciary, BlackRock is committed to providing clients with choice and then executing in accordance with their chosen objectives – for some clients, this includes investing in sustainable strategies. The Company aims to deliver the best risk-adjusted returns within the mandates clients choose, underpinned by research, data, and analytics.
+
+BlackRock’s investment management revenue is primarily comprised of fees earned as a percentage of AUM and, in some cases, performance fees, which are normally expressed as a percentage of fund returns to the client. Numerous factors, including price movements in the equity, debt or currency markets, or in the price of real assets, commodities or alternative investments in which BlackRock invests on behalf of clients, and BlackRock’s ability to maintain strong investment performance, could impact BlackRock’s AUM, revenue and earnings.
+
+Changes in global interest rates may similarly cause BlackRock’s AUM to fluctuate and introduce volatility to the Company’s investment advisory and administration fees (collectively "base fees"), net income, and operating cash flows. BlackRock’s business may also be impacted by governmental changes, as well as potential regulations, foreign and trade policies, and fiscal spending that may arise as a result of such changes. See Part I, Item 1A, Risk Factors herein for information on the possible future effects of changes in global interest rates and governmental changes on the Company's results.
+
+BlackRock manages $3.3 trillion in fixed income assets, approximately half of which are owned by institutions for strategic or liability-matching purposes. BlackRock believes it is well positioned due to the breadth, diversification and investment performance of its fixed income platform which encompasses active, ETFs, and non-ETF index fixed income products. The Company expects fixed income returns in 2026 may again be driven primarily by income, rather than price appreciation. BlackRock believes it is well positioned to capture flows with strong performance and differentiated strategies across municipals, high yield, total return, and unconstrained strategies.
+
+BlackRock manages $7.8 trillion of equity assets across markets globally. Equity net inflows of $220 billion were led by iShares ETFs and retail offerings in systematic equities. The Company is optimistic about the potential of its systematic platform to deliver continued double-digit organic base fee growth and positive inflows, despite outflows in the broader active equity fund industry. In addition, the relative performance of different markets that impact the Company’s AUM and net inflows may lead to an increase in the proportion of AUM weighted towards lower (or higher) relative management fee rates. As a result, the Company’s average effective fee rate may be lower (or higher) from period to period. These potential changes to the Company’s average effective fee rate may also cause average growth rates of AUM and base fees to differ, which impact the Company’s revenue and earnings.
+
+BlackRock believes its strategy aligns with expected future client demand and structural growth opportunities in areas including private markets, such as infrastructure and private credit; ETFs; whole portfolio solutions including outsourcing and models; and integrated public-private markets enterprise technology through Aladdin, eFront, and Preqin.
+
+BlackRock enters 2026 with strong momentum across its franchise. The Company is positioned ahead of market opportunities that it believes will drive outsized growth for BlackRock in the years to come.
+
+Executive Summary
+
+Accounting principles generally accepted in the United States (“GAAP”).
+
+As adjusted items are described in more detail in Non-GAAP Financial Measures .
+
+Beginning in the third quarter of 2025, net income attributable to BlackRock, Inc., as adjusted, and diluted earnings per common share, as adjusted, assume all Subco Units have been exchanged in accordance with their terms on a one-for-one basis into common stock of BlackRock. Accordingly, the noncontrolling interest allocated to these Subco Units has been included as part of net income attributable to BlackRock, Inc., as adjusted. See Non-GAAP Financial Measures for further information.
+
+As of December 31, 2025, there were 155.1 million shares of common stock and 7.7 million Subco Units outstanding.
+
+Total BlackRock stockholders’ equity divided by total shares of common stock outstanding at December 31 of the respective year-end.
+
+2025 Compared w ith 2024
+
+GAAP. Operating income of $7.0 billion decreased $529 million and operating margin of 29.1% decreased 800 bps from 2024. Operating income and operating margin reflected higher revenue, driven by organic base fee growth, positive impact of markets and fees related to the HPS and GIP Transactions, as well as higher technology services and subscription revenue. Decreases in GAAP operating income and operating margin were driven by noncash acquisition-related expenses and the noncash Charitable Contribution. Operating income and operating margin for 2025 also included the impact of a $39 million restructuring charge, comprised of severance and compensation expense for accelerated vesting of previously granted deferred compensation awards, in connection with an initiative to modify the Company's organization to fit more closely with strategic priorities. In addition, expense for 2024 included a $50 million noncash impairment charge related to certain indefinite-lived open-end management contracts.
+
+Nonoperating income (expense) net of NCI - CIPs decreased $266 million from 2024, primarily driven by lower net interest income (expense).
+
+Income tax expense for 2025 and 2024 included $251 million and $63 million of net discrete tax benefits, respectively, realized from changes in the Company’s organizational entity structure and $67 million and $37 million of discrete tax benefits, respectively, related to stock-based compensation awards. Income tax expense for 2025 also included a discrete tax benefit of $29 million related to the Charitable Contribution, which was excluded from as adjusted results due to its nonrecurring nature. In addition, income tax expense for 2024, included a discrete tax benefit of $137 million recognized in connection with the reorganization and establishment of a more efficient global intellectual property and technology platform and corporate structure, which was excluded from as adjusted results due to the nonrecurring nature of the intellectual property reorganization.
+
+Earnings per diluted common share decreased $6.70, or 16%, from 2024, reflecting lower operating income, driven by higher noncash acquisition-related costs, lower nonoperating results, a higher effective tax rate, and a higher diluted share count in the current year.
+
+As Adjusted . Operating income of $9.6 billion increased $1.5 billion, while operating margin of 44.1% decreased 40 bps from 2024. The acquisition-related expenses, restructuring charge, Charitable Contribution and related discrete tax benefit, and noncash impairment charge previously described have been excluded from as adjusted results. Earnings per diluted common share increased $4.48, or 10%, from 2024, reflecting higher operating income and a lower effective tax rate, partially offset by lower nonoperating results and a higher diluted share count in the current year. Income tax expense, as adjusted, for 2024 excluded the $137 million discrete tax benefit described above.
+
+See Non-GAAP Financial Measures for further information on as adjusted items and the reconciliation to GAAP.
+
+For further discussion of BlackRock’s revenue, expense, nonoperating results and income tax expense, see Discussion of Financial Results herein.
+
+Non-GAAP Financial Measures
+
+BlackRock reports its financial results in accordance with GAAP; however, management believes evaluating the Company’s ongoing operating results may be enhanced if investors have additional non-GAAP financial measures. Adjustments to GAAP financial measures (“non-GAAP adjustments”) include certain items management deems nonrecurring or that occur infrequently, transactions that ultimately will not impact BlackRock’s book value or certain tax items that do not impact cash flow. Management reviews non-GAAP financial measures, in addition to GAAP financial measures, to assess ongoing operations and considers them to be helpful, for both management and investors, in evaluating BlackRock’s financial performance over time. Management also uses non-GAAP financial measures as a benchmark to compare its performance with other companies and to enhance comparability for the reporting periods presented. Non-GAAP financial measures may pose limitations because they do not include all of BlackRock’s revenue and expense. BlackRock’s management does not advocate that investors consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. Non-GAAP financial measures may not be comparable to other similarly titled measures of other companies.
+
+Computations and reconciliations for all periods are derived from the consolidated statements of income as follows:
+
+(1) Operating income, as adjusted, and operating margin, as adjusted:
+
+Amounts included within general and administration expense.
+
+(2) Nonoperating income (expense), less net income (loss) attributable to NCI - CIPs, as adjusted:
+
+(3) Net income attributable to BlackRock, Inc., as adjusted:
+
+Non-GAAP adjustments, excluding income tax matters, are net of tax.
+
+(1) Operating income, as adjusted, and operating margin, as adjusted: Management believes operating income, as adjusted, and operating margin, as adjusted, are effective indicators of BlackRock’s financial performance over time, and, therefore, provide useful disclosure to investors. Management believes that operating margin, as adjusted, reflects the Company’s long-term ability to manage ongoing costs in relation to its revenues. The Company uses operating margin, as adjusted, to assess the Company’s financial performance, to determine the long-term and annual compensation of the Company’s senior-level employees and to evaluate the Company’s relative performance against industry peers. Furthermore, this metric eliminates margin variability arising from the accounting of revenues and expenses related to distributing different product structures in multiple distribution channels utilized by asset managers.
+
+Operating income, as adjusted, includes the following non-GAAP expense adjustments:
+
+Compensation expense related to appreciation (depreciation) on deferred cash compensation plans . The Company excludes compensation expense related to the market valuation changes on certain deferred cash compensation plans, which the Company hedges economically. For these deferred cash compensation plans, the final value of the deferred amount to be distributed to employees in cash upon vesting is determined based on the returns on specified investment funds. The Company recognizes compensation expense for the appreciation (depreciation) of the deferred cash compensation liability in proportion to the vested amount of the award during a respective period, while the net gain (loss) to economically hedge these plans is immediately recognized in nonoperating income (expense), which creates a timing difference impacting net income. This timing difference will reverse and offset to zero over the life of the award at the end of the multi-year vesting period. Management believes excluding market valuation changes related to the deferred cash compensation plans in the calculation of operating income, as adjusted, provides useful disclosure to both management and investors of the Company’s financial performance over time as these amounts are economically hedged, while also increasing comparability with other companies.
+
+Acquisition-related costs . Acquisition-related costs include adjustments related to amortization and noncash impairment of intangible assets, change in fair value of contingent consideration (primarily associated with noncash contingent consideration) incurred in connection with certain acquisitions and other acquisition-related costs, including compensation costs for nonrecurring retention-related deferred compensation and general and administration expense primarily related to professional services. Management believes excluding the impact of these expenses when calculating operating income, as adjusted, provides a helpful indication of the Company’s financial performance over time, thereby providing helpful information for both management and investors while also increasing comparability with other companies.
+
+Charitable Contribution. The Charitable Contribution expense of $109 million has been excluded from operating income, as adjusted, due to its nonrecurring nature.
+
+Restructuring charge . In the second quarter of 2025, the Company recorded a restructuring charge, comprised of severance and compensation expense for accelerated vesting of previously granted deferred compensation awards, in connection with an initiative to modify the Company's organization to fit more closely with strategic priorities. Management believes excluding the impact of this restructuring charge when calculating operating income, as adjusted, is useful to assess the Company’s financial performance and ongoing operations, and enhances comparability among periods presented.
+
+Revenue used for calculating operating margin, as adjusted, is reduced to exclude all of the Company’s distribution fees, which are recorded as a separate line item on the consolidated statements of income, as well as a portion of investment advisory fees received that is used to pay distribution and servicing costs. For certain products, based on distinct arrangements, distribution fees are collected by the Company and then passed-through to third-party client intermediaries. For other products, investment advisory fees are collected by the Company and a portion is passed-through to third-party client intermediaries. However, in both structures, the third-party client intermediary similarly owns the relationship with the retail client and is responsible for distributing the product and servicing the client. The amount of distribution and investment advisory fees fluctuates each period primarily based on a predetermined percentage of the value of AUM during the period. These fees also vary based on the type of investment product sold and the geographic location where it is sold. In addition, the Company may waive fees on certain products that could result in the reduction of payments to the third-party intermediaries.
+
+(2) Nonoperating income (expense), less net income (loss) attributable to NCI - CIPs, as adjusted: Management believes nonoperating income (expense), less net income (loss) attributable to NCI - CIPs, as adjusted, is an effective measure for reviewing BlackRock’s nonoperating contribution to its results and provides comparability of this information among reporting periods. Nonoperating income (expense), less net income (loss) attributable to NCI - CIPs, as adjusted, excludes the gain (loss) on the economic hedge of certain deferred cash compensation plans. As the gain (loss) on investments and derivatives used to hedge these compensation plans over time substantially offsets the compensation expense related to the market valuation changes on these deferred cash compensation plans, which is included in operating income, GAAP basis, management believes excluding the gain (loss) on the economic hedge of the deferred cash compensation plans when calculating nonoperating income (expense), less net income (loss) attributable to NCI - CIPs, as adjusted, provides a useful measure for both management and investors of BlackRock’s nonoperating results that impact book value.
+
+(3) Net income attributable to BlackRock, Inc., as adjusted:
+
+Management believes net income attributable to BlackRock, Inc., as adjusted, and diluted earnings per common share, as adjusted, are useful measures of BlackRock’s profitability and financial performance. Net income attributable to BlackRock, Inc., as adjusted, equals net income attributable to BlackRock, Inc., GAAP basis, adjusted for certain items management deems nonrecurring or that occur infrequently, transactions that ultimately will not impact BlackRock’s book value or certain tax items that do not impact cash flow.
+
+For each period presented, the non-GAAP adjustments were tax effected at the respective blended rates applicable to the adjustments. The fourth quarter of 2025 included a discrete tax benefit of $29 million recognized in connection with the Charitable Contribution. The discrete tax benefit has been excluded from as adjusted results due to the nonrecurring nature of the Charitable Contribution. Additionally, the amount for income tax matters in 2024 included a discrete tax benefit of $137 million recognized in connection with the reorganization and establishment of a more efficient global intellectual property and technology platform and corporate structure. This discrete tax benefit has been excluded from as adjusted results due to the nonrecurring nature of the intellectual property reorganization. Furthermore, the non-GAAP adjustment related to the change in fair value of contingent consideration is primarily not deductible for income tax purposes.
+
+In addition, beginning in the third quarter of 2025, in connection with the HPS Transaction, the Company updated its definition of net income attributable to BlackRock, Inc., as adjusted, and diluted earnings per common share, as adjusted, to assume all outstanding Subco Units issued as part of the consideration for the HPS Transaction have been exchanged in accordance with the terms on a one-for-one basis into common stock of BlackRock, as Subco Units will be exchangeable at the option of the holder when exchange rights begin. Accordingly, the noncontrolling interest allocated to these Subco Units has been included as part of net income attributable to BlackRock, Inc., as adjusted. Management believes that these updated non-GAAP measures are useful indicators of BlackRock’s profitability and enhance comparability among periods presented, and therefore are useful to investors.
+
+Per share amounts reflect net income attributable to BlackRock, Inc., as adjusted, divided by diluted weighted-average common shares and Subco Units outstanding.
+
+(4) Annual Contract Value: Management believes ACV is an effective metric for reviewing BlackRock’s technology services and subscription's ongoing contribution to its operating results and provides comparability of this information among reporting periods while also providing a useful supplemental metric for both management and investors of BlackRock’s growth in technology services and subscription revenue over time, as it is linked to the net new business in technology and subscription services. ACV represents forward-looking, annualized estimated value of the recurring subscription fees under client contracts, assuming all client contracts that come up for renewal are renewed, unless we have received a notice of termination, even though such notice may not be effective until a later date. ACV also includes the annualized estimated value of new sales, for existing and new clients, when we execute client contracts, even though the recurring fees may not be effective until a later date and excludes nonrecurring fees such as implementation and consulting fees.
+
+Assets Under Management
+
+AUM for reporting purposes generally is based upon how investment advisory and administration fees are calculated for each portfolio. Net asset values, total assets, committed assets or other measures may be used to determine portfolio AUM.
+
+Beginning in the first quarter of 2025, BlackRock updated the presentation of the Company's AUM line items. Such line items have been reclassified for 2024 to conform to this new presentation.
+
+Amounts include commodity ETFs and ETPs.
+
+The following table presents the component changes in BlackRock’s AUM for 2025 and 2024.
+
+Beginning in the first quarter of 2025, BlackRock updated the presentation of net flows to separately disclose realizations, which represent return of capital/return on investments. Realizations in 2024 have not been recast.
+
+Amount for 2025 included AUM attributable to the HPS and ElmTree Transactions. Amount for 2024 includes AUM attributable to the GIP Transaction and the SpiderRock Advisors transaction in May 2024 (the "SpiderRock Transaction").
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+BlackRock has historically grown AUM through organic growth and acquisitions. Management believes that the Company will be able to continue to grow AUM organically by focusing on strong investment performance, efficient delivery of beta for index products, client service, developing new products and optimizing distribution capabilities.
+
+Component Changes in AUM for 2025
+
+The following table presents the component changes in AUM by product type for 2025 (1) .
+
+Beginning in the first quarter of 2025, BlackRock updated the presentation of the Company's AUM line items. Such line items have been reclassified for 2024 to conform to this new presentation.
+
+Realizations represent return of capital/return on investments.
+
+Amounts include AUM attributable to the HPS and ElmTree Transactions.
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+Amounts include commodity ETFs and ETPs.
+
+The following table presents the component changes in AUM by client type and product type for 2025 (1) .
+
+The following table presents the component changes in AUM by investment style and product type for 2025 (1) .
+
+Beginning in the first quarter of 2025, BlackRock updated the presentation of the Company's AUM line items. Such line items have been reclassified for 2024 to conform to this new presentation.
+
+Realizations represent return of capital/return on investments.
+
+Amounts include AUM attributable to the HPS and ElmTree Transactions.
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+The following table presents the component changes in AUM by private markets product type for 2025.
+
+Realizations represent return of capital/return on investments.
+
+Amounts include AUM attributable to the HPS and ElmTree Transactions.
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+AUM increased $2.5 trillion to $14.0 trillion at December 31, 2025 from $11.6 trillion at December 31, 2024, driven by market appreciation, net inflows, led by flows into ETFs, systematic active equities, private markets, outsourcing and cash, the positive impact of foreign exchange movements and AUM added from the HPS and ElmTree Transactions.
+
+Net market appreciation of $1.5 trillion was primarily driven by US and global equity market appreciation.
+
+AUM increased $221 billion due to the impact of foreign exchange movements, primarily driven by the weakening of the US dollar, largely against the euro, the British pound and the Canadian dollar.
+
+For further discussion on AUM, see Part I, Item 1 – Business – Assets Under Management .
+
+Component Changes in AUM for 2024
+
+The following table presents the component changes in AUM by product type for 2024 (1) .
+
+Beginning in the first quarter of 2025, BlackRock updated the presentation of the Company's AUM line items. Such line items have been reclassified for 2023 and 2024 to conform to this new presentation.
+
+Amounts include AUM attributable to the GIP Transaction and the SpiderRock Transaction.
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+Amounts include commodity ETFs and ETPs.
+
+The following table presents the component changes in AUM by client type and product type for 2024 (1) .
+
+The following table presents the component changes in AUM by investment style and product type for 2024 (1) .
+
+Beginning in the first quarter of 2025, BlackRock updated the presentation of the Company's AUM line items. Such line items have been reclassified for 2023 and 2024 to conform to this new presentation.
+
+Amounts include AUM attributable to the GIP Transaction and the SpiderRock Transaction.
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+The following table presents the component changes in AUM by product type for 2024.
+
+Amounts include AUM attributable to the GIP Transaction.
+
+Foreign exchange reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+AUM increased $1.5 trillion to $11.6 trillion at December 31, 2024 from $10.0 trillion at December 31, 2023, driven primarily by net market appreciation, net inflows, led by flows into equity, bond and cryptocurrency products, cash management, and significant outsourcing mandates, and AUM added from the GIP Transaction, partially offset by the negative impact of foreign exchange movements.
+
+Net market appreciation of $993 billion was primarily driven by global equity market appreciation.
+
+AUM decreased $166 billion due to the impact of foreign exchange movements, primarily due to the strengthening of the US dollar, largely against the euro, the Japanese yen, the Canadian dollar and the British pound.
+
+Discussion of Financial Results
+
+Introduction
+
+The Company derives a substantial portion of its revenue from investment advisory and administration fees, which are recognized as the services are performed over time because the customer is receiving and consuming the benefits as they are provided by the Company. Fees are primarily based on agreed-upon percentages of AUM and recognized for services provided during the period, which are distinct from services provided in other periods. Such fees are affected by changes in AUM, including market appreciation or depreciation, foreign exchange translation and net inflows or outflows. Net inflows or outflows represent the sum of new client assets, additional fundings from existing clients (including dividend reinvestment), withdrawals of assets from, and termination of, client accounts and distributions to investors representing return of capital and return on investments. Market appreciation or depreciation includes current income earned on, and changes in the fair value of, securities held in client accounts. Foreign exchange translation reflects the impact of translating non-US dollar denominated AUM into US dollars for reporting purposes.
+
+The Company also earns revenue by lending securities on behalf of clients, primarily to highly rated banks and broker-dealers. The securities loaned are secured by collateral in the form of cash or securities, with minimum collateral generally ranging from approximately 102% to 112% of the value of the loaned securities. Generally, the revenue earned is shared between the Company and the funds or accounts managed by the Company from which the securities are borrowed.
+
+Investment advisory agreements for certain separate accounts and investment funds provide for performance fees based upon relative and/or absolute investment performance, in addition to base fees based on AUM. Investment advisory performance fees generally are earned after a given period of time when investment performance exceeds a contractual threshold, and when it is determined that the fees are no longer probable of significant reversal. As such, the timing of recognition of performance fees may increase the volatility of the Company’s revenue and earnings. The magnitude of performance fees can fluctuate quarterly due to the timing of carried interest recognition on private market products and a greater number and size of liquid products with performance measurement periods that end in the third and fourth quarters.
+
+The Company offers investment management technology systems, risk management services, wealth management and digital distribution tools, all on a fee basis. Clients include banks, insurance companies, official institutions, pension funds, asset managers, retail distributors and other investors. Fees earned for technology services and subscriptions are primarily recorded as services are performed over time and are generally determined using the value of positions on the Aladdin platform, or on a fixed-rate basis. Revenue derived from the sale of software licenses is recognized upon the granting of access rights.
+
+The Company earns distribution and service fees for distributing investment products and providing support services to investment portfolios. The fees are primarily based on AUM and are recognized when the amount of fees is known.
+
+The Company advises global financial institutions, regulators, and government entities across a range of risk, regulatory, capital markets and strategic services. Fees earned for advisory services, which are included in advisory and other revenue, are determined using fixed-rate fees and are recognized over time as the related services are completed.
+
+The Company earns fees for transition management services primarily comprised of commissions recognized in connection with buying and selling securities on behalf of its customers. Commissions related to transition management services, which are included in advisory and other revenue, are recorded on a trade-date basis as transactions occur.
+
+Operating expense reflects employee compensation and benefits, sales, asset and account expense, general and administration expense, change in fair value of contingent consideration, and amortization and impairment of intangible assets.
+
+Employee compensation and benefits expense includes salaries, commissions, temporary help, incentive compensation, employer payroll taxes, severance and related benefit costs.
+
+Sales, asset and account expense includes distribution and servicing costs, direct fund expense, and sub-advisory and other expense. These expenses primarily vary over time with fluctuations in AUM, number of shareholder accounts, or other attributes directly related to volume of business.
+
+- Distribution and servicing costs, which are primarily AUM driven, include payments to third parties, primarily associated with distribution and servicing of client investments in certain Company products.
+
+- Direct fund expense primarily consists of third-party non-advisory expenses incurred by the Company related to certain funds for the use of reference data for indices, custodial services, fund administration, fund accounting, transfer agent services, shareholder reporting services, legal expense, audit and tax services as well as other fund-related expenses directly attributable to the non-advisory operations of the fund.
+
+- Sub-advisory and other expense is primarily related to the contracts where third-party advisors provide investment advisory services on the Company's behalf as well as other variable volume related expenses.
+
+General and administration expense includes marketing and promotional (including travel and entertainment expense), occupancy and office-related, portfolio services (including market data costs), technology, professional services, communications, the net impact of foreign currency remeasurement, and other general and administration expense.
+
+Change in fair value of contingent consideration represents change in estimated fair value of the contingent consideration liabilities in connection with certain acquisitions.
+
+Approximately 80% of the Company’s revenue is generated in US dollars. The Company’s revenue and expense generated in foreign currencies (primarily the euro and British pound) are impacted by foreign exchange rates. Any effect of foreign exchange rate change on revenue is partially offset by a change in expense driven by the Company’s considerable non-dollar expense base related to its operations outside the US.
+
+Nonoperating income (expense) includes the effect of changes in the valuations on investments and earnings on equity method investments as well as interest and dividend income and interest expense. The Company primarily holds seed and co-investments in sponsored investment products that invest in a variety of asset classes, including private equity, private credit, hedge funds and real assets. Investments generally are made for co-investment purposes, to establish a performance track record or for regulatory purposes, including Federal Reserve Bank stock. The Company does not engage in proprietary trading activities that could conflict with the interests of its clients.
+
+In addition, nonoperating income (expense) includes the impact of changes in the valuations of CIPs. The portion of nonoperating income (expense) not attributable to the Company is allocated to NCI on the consolidated statements of income.
+
+Revenue
+
+The table below presents detail of revenue for 2025 and 2024 and includes the product type mix of base fees and securities lending revenue and performance fees.
+
+Beginning in the first quarter of 2025, BlackRock reclassified the presentation of the Company's investment advisory, administration fees and securities lending revenue line items to align with the updated presentation of the Company's AUM line items. Such line items have been reclassified for 2024 to conform to this new presentation. See page 11 of Exhibit 99.2 to the Current Report on Form 8-K furnished on April 11, 2025 for the reclassified presentation of the 2024 investment advisory, administration fees and securities lending revenue line items.
+
+Amounts include commodity ETFs and ETPs.
+
+Amounts include $705 million and $615 million of securities lending revenue for 2025 and 2024, respectively.
+
+The table below lists a percentage breakdown of base fees and securities lending revenue and average AUM by product type:
+
+Beginning in the first quarter of 2025, BlackRock reclassified the presentation of the Company's investment advisory, administration fees and securities lending revenue line items to align with the updated presentation of the Company's AUM line items. Such line items have been reclassified for 2024 to conform to this new presentation. See page 11 of Exhibit 99.2 to the Current Report on Form 8-K furnished on April 11, 2025 for the reclassified presentation of the 2024 investment advisory, administration fees and securities lending revenue line items.
+
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+
+Amounts include commodity ETFs and ETPs.
+
+Revenue increased $3.8 billion, or 19%, from 2024, primarily reflecting the positive impact of markets, organic base fee growth, fees related to the GIP and HPS Transactions and higher technology services and subscription revenue.
+
+Investment advisory, administration fees and securities lending revenue of $19.2 billion in 2025 increased $3.1 billion from $16.1 billion in 2024, primarily driven by organic base fee growth, the impact of market beta and foreign exchange movements on average AUM and the impact of the GIP and HPS Transactions. Securities lending revenue of $705 million increased $90 million from $615 million in 2024, primarily reflecting higher average balances of securities on loan and higher spreads.
+
+Investment advisory performance fees of $1.4 billion in 2025 increased $217 million from $1.2 billion in 2024, primarily reflecting higher revenue from private markets, including the impact of the HPS Transaction, partially offset by lower revenue from liquid alternative products.
+
+Technology services and subscription revenue of $2.0 billion in 2025 increased $378 million from $1.6 billion in 2024, reflecting the sustained demand for Aladdin technology offerings and approximately $210 million of revenue related to the Preqin Transaction.
+
+Expense
+
+The following table presents expense for 2025 and 2024.
+
+Beginning in the fourth quarter of 2025, BlackRock updated the presentation of the Company's expense line items within the consolidated statements of income to separately present the change in fair value of contingent consideration line item, which was previously disclosed within general and administration expense. Prior periods have been updated to conform to this new presentation.
+
+Expense increased $4.3 billion, or 34%, from 2024, reflecting higher employee compensation and benefits expense, sales, asset and account expense, and general and administration expense. The increase in 2025 expense was driven by the impact of acquisitions including the previously described acquisition-related expenses incurred in connection with the GIP, Preqin and HPS Transactions (1) . The 2025 expense also included a noncash Charitable Contribution (1) of $109 million and a restructuring charge (1) of $39 million. Expense for 2024 included the previously mentioned noncash impairment charge of $50 million.
+
+Employee compensation and benefits expense of $8.4 billion in 2025 increased $1.9 billion from $6.5 billion in 2024, primarily reflecting the impact of the GIP, HPS and Preqin Transactions, including nonrecurring retention-related deferred compensation expense (1) and higher incentive compensation as a result of higher operating income and performance fees.
+
+Sales, asset and account expense of $4.5 billion in 2025 increased $685 million from $3.8 billion in 2024, driven by higher direct fund expense and distribution and servicing costs, primarily reflecting higher average AUM.
+
+General and administration expense of $2.7 billion in 2025 increased $474 million from $2.3 billion in 2024, primarily associated with the impact of the GIP, HPS and Preqin Transactions, including higher acquisition-related transaction costs (1) recorded in professional services, as well as the Charitable Contribution (1) and higher technology expense, and marketing and promotional expense, including the impact from higher travel and entertainment expense.
+
+Change in fair value of contingent consideration (1) of $720 million in 2025 increased $756 million from $(36) million in 2024, primarily due to the impact of the GIP and HPS Transactions.
+
+Restructuring charge (1) of $39 million, comprised of severance and compensation expense for accelerated vesting of previously granted deferred compensation awards, was recorded in 2025.
+
+Amortization and impairment of intangible assets (1) of $775 million in 2025 increased $484 million from $291 million in 2024, primarily reflecting amortization of intangible assets acquired in the GIP, HPS and Preqin Transactions, partially offset by a $50 million previously described noncash impairment charge recorded for 2024.
+
+These expenses have been excluded from the Company's "as adjusted" financial results under the expense adjustments for acquisition-related costs, the Charitable Contribution, and a restructuring charge, as applicable. See Non-GAAP Financial Measures for further information on as adjusted items.
+
+Nonoperating Results
+
+The summary of nonoperating income (expense), less net income (loss) attributable to NCI - CIPs for 2025 and 2024 was as follows:
+
+Amount relates to the gain (loss) from economically hedging certain BlackRock deferred cash compensation plans.
+
+Management believes nonoperating income (expense), net of NCI - CIPs, as adjusted, is an effective measure for reviewing BlackRock’s nonoperating results, which ultimately impacts BlackRock’s book value. See Non-GAAP Financial Measures for further information on other non-GAAP financial measures.
+
+Amounts primarily include net gains (losses) related to credit funds, direct hedge fund strategies and hedge fund solutions.
+
+Amounts primarily include net gains (losses) related to BlackRock's seed investment portfolio, net of impact of certain hedges.
+
+Amount for 2025 includes nonoperating noncash pre-tax gains in connection with the Company’s minority investments in Circle of approximately $100 million and iCapital Network, Inc. (“iCapital”) of approximately $89 million. Additional amounts include earnings (losses) from certain equity method minority investments and noncash pre-tax gains (losses) related to the revaluation of certain other minority investments. Amount for 2024 included a pre-tax gain of approximately $66 million in connection with a transaction related to a minority investment in the EquiLend Transaction.
+
+Income Tax Expense
+
+As adjusted items are described in more detail in Non-GAAP Financial Measures.
+
+Net of net income (loss) attributable to NCI - CIPs.
+
+The Company’s tax rate is affected by tax rates in foreign jurisdictions and the relative amount of income earned in those jurisdictions, which the Company expects to be fairly consistent in the near term. The significant foreign jurisdictions that have different statutory tax rates than the US federal statutory rate of 21% include the UK, Channel Islands, British Virgin Islands and Germany.
+
+2025 Income tax expense (GAAP) reflected:
+
+a net discrete tax benefit of $251 million realized from changes in the Company's organizational entity structure;
+
+a discrete tax benefit of $67 million related to stock-based compensation awards that vested in 2025; and
+
+a discrete tax benefit of $29 million recognized in connection with the Charitable Contribution.
+
+The as adjusted effective tax rate of 21.5% for 2025 excluded the tax impact associated with the Charitable Contribution due to its nonrecurring nature.
+
+On July 4, 2025, the One Big Beautiful Bill Act was enacted into law, which includes permanently extending key tax provisions from the Tax Cuts and Jobs Act and modifications to the international tax framework. The Company is evaluating the impact of these provisions on the Company's consolidated financial statements.
+
+2024 Income tax expense (GAAP) reflected:
+
+a discrete tax benefit of $137 million recognized in connection with the reorganization and establishment of a more efficient global intellectual property and technology platform and corporate structure;
+
+a discrete tax benefit of $63 million related to the realization of changes in the Company's organizational entity structure;
+
+a net discrete tax benefit of $37 million related to stock-based compensation awards that vested in 2024; and
+
+a $14 million net noncash tax expense related to the revaluation of certain deferred income tax liabilities.
+
+The as adjusted effective tax rate of 23.5% for 2024 excluded the $137 million discrete tax benefit due to the nonrecurring nature of the intellectual property reorganization and the $14 million net noncash tax expense, as it does not have a cash flow impact as well as to ensure comparability among periods presented.
+
+Statement of financial condition Overview
+
+As Adjusted Statement of Financial Condition
+
+The following table presents a reconciliation of the consolidated statement of financial condition presented on a GAAP basis to the consolidated statement of financial condition, excluding the impact of separate account assets and separate account collateral held under securities lending agreements (directly related to lending separate account securities) and separate account liabilities and separate account collateral liabilities under securities lending agreements and CIPs.
+
+The Company presents the as adjusted statement of financial condition as additional information to enable investors to exclude certain assets that have equal and offsetting liabilities or NCI - CIPs that ultimately do not have an impact on stockholders’ equity or cash flows. Management views the as adjusted statement of financial condition, which contains non-GAAP financial measures, as an economic presentation of the Company’s total assets and liabilities; however, it does not advocate that investors consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+
+Separate Account Assets and Liabilities and Separate Account Collateral Held under Securities Lending Agreements
+
+Separate account assets are maintained by BlackRock Life Limited, a wholly owned subsidiary of the Company that is a registered life insurance company in the UK, and represent segregated assets held for purposes of funding individual and group pension contracts. The Company records equal and offsetting separate account liabilities. The separate account assets are not available to creditors of the Company and the holders of the pension contracts have no recourse to the Company’s assets. The net investment income attributable to separate account assets accrues directly to the contract owners and is not reported on the consolidated statements of income. While BlackRock has no economic interest in these assets or liabilities, BlackRock earns an investment advisory fee for the service of managing these assets on behalf of its clients.
+
+In addition, the Company records on its consolidated statements of financial condition the separate account collateral obtained under BlackRock Life Limited securities lending arrangements for which it has legal title as its own asset in addition to an equal and offsetting separate account collateral liability for the obligation to return the collateral. The collateral is not available to creditors of the Company, and the borrowers under the securities lending arrangements have no recourse to the Company’s assets.
+
+Consolidated Sponsored Investment Products
+
+The Company consolidates certain sponsored investment products accounted for as variable interest entities (“VIEs”) and voting rights entities (“VREs”). See Note 2, Significant Accounting Policies , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information on the Company’s consolidation policy.
+
+The Company cannot readily access cash and cash equivalents or other assets held by CIPs to use in its operating activities. In addition, the Company cannot readily sell investments held by CIPs in order to obtain cash for use in the Company’s operations.
+
+Amounts represent segregated client assets and related liabilities, in which BlackRock has no economic interest. BlackRock earns an investment advisory fee for the service of managing these assets on behalf of its clients.
+
+Amounts represent the impact of consolidating CIPs.
+
+Amount includes property and equipment and other assets.
+
+Amount includes approximately $6.1 billion of deferred income tax liabilities related to goodwill and intangibles. See Note 25, Income Taxes , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information.
+
+The following discussion summarizes the significant changes in assets and liabilities on a GAAP basis. Please see the consolidated statements of financial condition as of December 31, 2025 and 2024 contained in Part II, Item 8 of this filing. The discussion does not include changes related to assets and liabilities that are equal and offsetting and have no impact on BlackRock’s stockholders’ equity.
+
+Assets. Cash and cash equivalents at December 31, 2025 included $461 million of cash held by CIPs (see Liquidity and Capital Resources for details on the change in cash and cash equivalents during 2025). Accounts receivable at December 31, 2025 increased $854 million from December 31, 2024, primarily due to higher base and performance fee and technology services and subscription revenue which includes the impact of the HPS and Preqin Transactions. Investments at December 31, 2025 increased $3.5 billion from December 31, 2024 (for more information see Investments herein). Goodwill and intangible assets, net at December 31, 2025 increased $16.6 billion from December 31, 2024, primarily due to the Preqin, HPS and ElmTree Transactions, partially offset by amortization of intangible assets. Operating lease right-of-use ("ROU") assets at December 31, 2025 increased $355 million from December 31, 2024 (substantially offset by an increase in operating lease liabilities), primarily related to the HPS Transaction. Other assets at December 31, 2025 increased $2.3 billion from December 31, 2024, primarily related to additional minority investments, unit trust receivables (substantially offset by an increase in unit trust payables recorded within other liabilities), and due from related parties.
+
+Liabilities. Accrued compensation and benefits at December 31, 2025 increased $866 million from December 31, 2024, primarily due to higher 2025 incentive compensation accruals. Accounts payable and accrued liabilities at December 31, 2025 increased $204 million from December 31, 2024, primarily due to higher interest on borrowings and increased accruals, including accruals related to direct fund expense. Contingent consideration liabilities at December 31, 2025 increased $4.1 billion from December 31, 2024, primarily due to the contingent consideration liabilities in connection with the HPS Transaction and a change in fair value of contingent consideration in connection with the GIP Transaction, largely related to changes in discount rate, stock price, and passage of time. Operating lease liabilities at December 31, 2025 increased $320 million from December 31, 2024 (substantially offset by an increase in ROU assets), primarily related to the HPS Transaction. Other liabilities at December 31, 2025 increased $2.8 billion from December 31, 2024, primarily due to an increase in the Company's deferred carried interest liability, including the deferred carried interest acquired in connection with the HPS Transaction, and higher unit trust payables (substantially offset by an increase in unit trust receivables recorded within other assets). Net deferred income tax liabilities at December 31, 2025 increased $1.3 billion from December 31, 2024, primarily due to the effects of temporary differences associated with the Preqin, HPS, and ElmTree Transactions, partially offset by the stock-based compensation and outside basis differences on foreign subsidiaries.
+
+Investments
+
+The Company’s investments were $13.3 billion and $9.8 billion at December 31, 2025 and 2024, respectively. Investments include CIPs accounted for as VIEs and VREs. Management reviews BlackRock’s investments on an “economic” basis, which eliminates the NCI - CIPs portion of investments that does not impact BlackRock’s book value or net income attributable to BlackRock. BlackRock’s management does not advocate that investors consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+
+The Company presents investments, as adjusted, to enable investors to understand the economic portion of investments that is owned by the Company as a gauge to measure the impact of changes in net nonoperating income (expense) on investments to net income (loss) attributable to BlackRock.
+
+The Company further presents net “economic” investment exposure, net of deferred cash compensation investments and hedged exposures, to reflect another helpful measure for investors. The economic impact of investments held pursuant to deferred cash compensation plans is substantially offset by a change in associated compensation expense, and the impact of the portfolio of seed investments is mitigated by futures entered into as part of the Company's macro hedging strategy. Carried interest capital allocations are excluded as there is no impact to BlackRock’s stockholders’ equity until such amounts are realized as performance fees. Finally, the Company’s regulatory investment in Federal Reserve Bank stock, which is not subject to market or interest rate risk, is excluded from the Company’s net economic investment exposure.
+
+Amounts include $3.7 billion and $1.9 billion of carried interest (VIEs) at December 31, 2025 and 2024, respectively, which has no impact on the Company’s “economic” investment exposure.
+
+Amounts do not include corporate minority investments included in other assets on the consolidated statements of financial condition.
+
+The following table represents the carrying value of the Company’s economic investment exposure, by asset type, at December 31, 2025 and 2024:
+
+Amounts include seed investments in equity, fixed income, and multi-asset ETFs/mutual funds/strategies.
+
+Other alternatives primarily include co-investments in credit funds, direct hedge fund strategies, and hedge fund solutions.
+
+As adjusted investment activity for 2025 and 2024 was as follows:
+
+Amount represents investments acquired, including $1.4 billion of carried interest which is offset by an increase in assumed deferred carry interest liability, associated with the HPS Transaction. See Note 3, Acquisitions , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for further information.
+
+Amount includes distributions representing return of capital and return on investments.
+
+Amount includes the impact of foreign exchange movements.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+BlackRock Cash Flows Excluding the Impact of CIPs
+
+The consolidated statements of cash flows include the cash flows of the CIPs. The Company uses an adjusted cash flow statement, which excludes the impact of CIPs, as a supplemental non-GAAP measure to assess liquidity and capital requirements. The Company believes that its cash flows, excluding the impact of the CIPs, provide investors with useful information on the cash flows of BlackRock relating to its ability to fund additional operating, investing and financing activities. BlackRock’s management does not advocate that investors consider such non-GAAP measures in isolation from, or as a substitute for, its cash flows presented in accordance with GAAP.
+
+The following table presents a reconciliation of the consolidated statements of cash flows presented on a GAAP basis to the consolidated statements of cash flows, excluding the impact of the cash flows of CIPs:
+
+Sources of BlackRock’s operating cash primarily include base fees and securities lending revenue, performance fees, technology services and subscription revenue, advisory and other revenue and distribution fees. BlackRock uses its cash to pay all operating expenses, interest and principal on borrowings, income taxes, dividends/Subco distributions and repurchases of shares and share equivalents, acquisitions, capital expenditures and purchases of co-investments and seed investments.
+
+For details of the Company’s GAAP cash flows from operating, investing and financing activities, see the consolidated statements of cash flows contained in Part II, Item 8 of this filing.
+
+Cash flows provided by/(used in) operating activities, excluding the impact of CIPs, primarily include the receipt of base fees, securities lending revenue, performance fees and technology services and subscription revenue, offset by the payment of operating expenses incurred in the normal course of business, including year-end incentive and deferred cash compensation accrued during prior years, and income tax payments.
+
+Cash flows used in investing activities, excluding the impact of CIPs, for 2025 were $4.5 billion, primarily reflecting $3.1 billion related to the Preqin Transaction, $369 million related to the HPS Transaction, $1.1 billion of net purchases of investments and $375 million of purchases of property and equipment, partially offset by $390 million of distributions of capital from equity method investees.
+
+Cash flows used in financing activities, excluding the impact of CIPs, for 2025 were $4.8 billion, primarily resulting from $3.3 billion of dividends/Subco distributions, $2.0 billion worth of share and share equivalents repurchases, including $326 million of employee tax withholdings related to employee stock transactions, and repayment of $796 million of long-term borrowings, partially offset by $1.1 billion of proceeds from long-term borrowings and $167 million from stock options exercised.
+
+The Company manages its financial condition and funding to maintain appropriate liquidity for the business. Management believes that the Company’s liquid assets, continuing cash flows from operations, borrowing capacity under the Company’s existing revolving credit facility and uncommitted commercial paper private placement program, provide sufficient resources to meet the Company’s short-term and long-term cash needs, including operating, debt and other obligations as they come due and anticipated future capital requirements. Liquidity resources at December 31, 2025 and 2024 were as follows:
+
+Amounts exclude restricted cash.
+
+The Company cannot readily access such cash and cash equivalents to use in its operating activities.
+
+The percentage of cash and cash equivalents held by the Company’s US subsidiaries was approximately 50% and 65% at December 31, 2025 and 2024, respectively. See Net Capital Requirements herein for more information on net capital requirements in certain regulated subsidiaries.
+
+Total liquidity resources decreased $1.1 billion during 2025, primarily reflecting $3.1 billion related to the Preqin Transaction, dividends/distributions of $3.3 billion, share and share equivalent repurchases of $2.0 billion, $1.1 billion of net purchases of investments, and $369 million related to the HPS Transaction, partially offset by a $500 million increase in the aggregate commitment amount under the credit facility, approximately $285 million of net proceeds from long-term borrowings, and cash flows from operating activities.
+
+A significant portion of the Company’s $10.7 billion of investments, as adjusted, is illiquid in nature and, as such, cannot be readily convertible to cash.
+
+Share Repurchases. During 2025, under the Company’s existing share repurchase program, the Company repurchased an aggregate of 1.6 million shares and share equivalents for approximately $1.6 billion. At December 31, 2025, there were approximately 2.2 million shares still authorized to be repurchased under the program. The timing and actual number of shares repurchased will depend on a variety of factors, including legal limitations, price and market conditions.
+
+In January 2026, the Company announced that the Board of Directors authorized the repurchase of an additional seven million shares under the Company's existing share repurchase program for a total of up to approximately 9.2 million shares of BlackRock common stock.
+
+Net Capital Requirements. The Company is required to maintain net capital in certain regulated subsidiaries within a number of jurisdictions, which is partially maintained by retaining cash and cash equivalent investments in those subsidiaries or jurisdictions. As a result, such subsidiaries of the Company may be restricted in their ability to transfer cash between different jurisdictions and to their parents. Additionally, transfers of cash between international jurisdictions may have adverse tax consequences that could discourage such transfers.
+
+BlackRock Institutional Trust Company, N.A. (“BTC”) is chartered as a national bank that does not accept deposits or make commercial loans and whose operations are limited to trust and other fiduciary activities. BTC provides investment management and other fiduciary services, including investment advisory and securities lending agency services, to institutional clients. BTC is subject to regulatory capital and liquid asset requirements administered by the US Office of the Comptroller of the Currency.
+
+At December 31, 2025 and 2024, the Company was required to maintain approximately $2.2 billion and $1.8 billion, respectively, in net capital in certain regulated subsidiaries, including BTC, entities regulated by the Financial Conduct Authority and Prudential Regulation Authority in the UK, and the Company’s broker-dealers. The Company was in compliance with all applicable regulatory net capital requirements.
+
+Undistributed Earnings of Foreign Subsidiaries. As a result of the 2017 Tax Cuts and Jobs Act and the one-time mandatory deemed repatriation tax on untaxed accumulated foreign earnings, US income taxes were provided on the Company’s undistributed foreign earnings. The financial statement basis in excess of tax basis of its foreign subsidiaries remains indefinitely reinvested in foreign operations. The Company will continue to evaluate its capital management plans.
+
+Short-Term Borrowings
+
+2025 Revolving Credit Facility. The Company maintains an unsecured revolving credit facility, which is available for working capital and general corporate purposes (the “2025 Credit Facility”). In April 2025, the 2025 Credit Facility was amended to, among other things, (1) increase the aggregate commitment amount by $500 million to $5.9 billion, (2) extend the maturity date to March 2030 for lenders (other than one non-extending lender) pursuant to the Company's option to request extensions of the maturity date available under the 2025 Credit Facility (with the commitment of the non-extending lender maturing in March 2028) and (3) change the threshold for the maximum consolidated leverage ratio covenant to 3.5 to 1. The amended 2025 Credit Facility permits the Company to request up to an additional $1.4 billion of borrowing capacity, subject to lender credit approval, which could increase the overall size of the 2025 Credit Facility to an aggregate principal amount of up to $7.3 billion. Interest on outstanding borrowings accrues at an applicable benchmark rate for the denominated currency of the loan, plus a spread. The 2025 Credit Facility requires the Company not to exceed a maximum consolidated leverage ratio (ratio of net debt to earnings before interest, taxes, depreciation and amortization, where net debt equals total debt less unrestricted cash) of 3.5 to 1, which was satisfied with a ratio of less than 1 to 1 at December 31, 2025. At December 31, 2025, the Company had no amount outstanding under the 2025 Credit Facility.
+
+Commercial Paper Program. The Company may issue short-term unsecured commercial paper notes (the “CP Notes”) on a private-placement basis up to a maximum aggregate amount outstanding at any time of $5 billion. The payments of the CP Notes have been unconditionally guaranteed by BlackRock Finance, Inc. (formerly known as BlackRock, Inc.) ("Old BlackRock") (the "CP Notes Guarantee"). The CP Notes will rank equal in right of payment with all of BlackRock's other unsubordinated indebtedness, and the obligations of Old BlackRock under the CP Notes Guarantee will rank equal in right of payment with all of Old BlackRock's other unsubordinated indebtedness. Net proceeds of issuances of the CP Notes are expected to be used for general corporate purposes. The commercial paper program is currently supported by the 2025 Credit Facility. At December 31, 2025, BlackRock had no CP Notes outstanding.
+
+Subsidiary Credit Facility. BlackRock Investment Management (UK) Limited ("BIM UK"), a wholly owned subsidiary of the Company, maintains a revolving credit facility (the “Subsidiary Credit Facility”) in the amount of £25 million (or approximately $34 million based on the GBP/USD foreign exchange rate at December 31, 2025) with a rolling 364-day term structure. The Subsidiary Credit Facility is available for BIM UK's general corporate and working capital purposes. At December 31, 2025, there was no amount outstanding.
+
+Long-Term Borrowings
+
+The carrying value of long-term borrowings at December 31, 2025 included the following:
+
+Issued by Old BlackRock and guaranteed by BlackRock, Inc.
+
+The carrying value of the 3.75% Notes is calculated using the EUR/USD foreign exchange rate as of December 31, 2025.
+
+2035 Notes. In April 2025, the Company issued €1.0 billion (or approximately $1.2 billion based on the EUR/USD foreign exchange rate at December 31, 2025) in aggregate principal amount of 3.75% senior unsecured and unsubordinated notes maturing July 18, 2035 (the "2035 Notes"). The 2035 Notes are listed on the New York Stock Exchange. Net proceeds are being used for general corporate purposes, which included the repayment of the €700 million (or approximately $822 million based on the EUR/USD foreign exchange rate at December 31, 2025) 1.25% Notes in May 2025 at maturity. Interest of approximately €38 million (or approximately $44 million based on the EUR/USD foreign exchange rate at December 31, 2025) per year is payable annually on July 18 of each year which commenced on July 18, 2025. The 2035 Notes are fully and unconditionally guaranteed (the "Guarantee") on a senior unsecured basis by Old BlackRock. The 2035 Notes and the Guarantee rank equally in right of payment with all of the Company and Old BlackRock's other unsubordinated indebtedness, respectively. The 2035 Notes may be redeemed at the option of the Company, in whole or in part, at any time prior to April 18, 2035 at a "make-whole" redemption price, or thereafter at 100% of the principal amount of the 2035 Notes, in each case plus accrued but unpaid interest. The unamortized discount and debt issuance costs are being amortized over the remaining term of the 2035 Notes.
+
+For more information on the Company’s borrowings, see Note 15, Borrowings , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing.
+
+Supplemental Guarantor Information
+
+BlackRock, Inc. (“New BlackRock”) is the issuer of 4.6% Notes due 2027, 4.7% Notes due 2029, 5.0% Notes due 2034, 4.9% Notes due 2035, 3.75% Notes due 2035, 5.25% Notes due 2054 and 5.35% Notes due 2055 (collectively the "New BlackRock Notes"), which are fully and unconditionally guaranteed on a senior unsecured basis by Old BlackRock ("Notes Guarantees"). The New BlackRock Notes and the Notes Guarantees rank equally in right of payment with all of BlackRock's and Old BlackRock's other unsubordinated indebtedness, respectively. No other subsidiary of New BlackRock or Old BlackRock guarantees the New BlackRock Notes. The Notes Guarantees will be automatically and unconditionally released and discharged, and Old BlackRock will be released from all obligations under the indenture in its capacity as guarantor, in certain circumstances as described in the separate indentures governing the New BlackRock Notes. See Note 15, Borrowings , in the notes to the consolidated financial statements for further information on New BlackRock Notes.
+
+In October 2024, in connection with the closing of the GIP Transaction, New BlackRock also entered into a guarantee (the “New BlackRock Guarantee”) pursuant to which New BlackRock fully and unconditionally guaranteed, on a senior unsecured basis, the remaining obligations of Old BlackRock with respect to its previously issued senior unsecured notes. The New BlackRock Guarantee ranks equally in right of payment with all of New BlackRock's other unsubordinated indebtedness. In certain circumstances as described in the New BlackRock Guarantee, the New BlackRock Guarantee will be automatically and unconditionally released and discharged, and New BlackRock will be released from all obligations under the New BlackRock Guarantee.
+
+The following presents unaudited summarized financial information of New BlackRock and Old BlackRock (together with New BlackRock, the "Obligor Group") on a combined basis as of December 31, 2025 and December 31, 2024 and for the years ended December 31, 2025 and December 31, 2024. Intercompany balances and transactions between New BlackRock and Old BlackRock have been eliminated, and balances and transactions with subsidiaries, which are not part of the Obligor Group, have been separately presented, and investments in and equity in earnings related to subsidiaries of New BlackRock and Old BlackRock, which are not members of the Obligor Group, have been excluded.
+
+Summarized Balance Sheet (unaudited)
+
+Summarized Income Statement (unaudited)
+
+For 2025, net loss of the Obligor Group was $1.2 billion, primarily comprised of $288 million amortization expense, a loss of $631 million primarily related to a change in fair value of contingent consideration, and $514 million of interest expense, partially offset by a tax benefit. Revenue during this period was not material.
+
+For 2024, net loss of the Obligor Group was $767 million and primarily comprised of $87 million amortization expense, a gain of $31 million related to a change in fair value of contingent consideration, a $35 million impairment charge, $391 million of interest expense, and related taxes. Revenue during this period was not material.
+
+Contractual Obligations, Commitments and Contingencies
+
+The Company’s material contractual obligations, commitments and contingencies at December 31, 2025 include borrowings, operating leases, investment commitments, compensation and benefits obligations, purchase obligations, and contingent consideration liabilities.
+
+Borrowings . At December 31, 2025, the Company had outstanding borrowings with varying maturities for an aggregate principal amount of $12.9 billion, none of which is payable within 12 months. Future interest payments associated with these borrowings total $6.4 billion, of which $505 million is payable within 12 months. See Note 15, Borrowings , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing.
+
+Operating Leases. The Company leases its primary office locations under agreements that expire on varying dates through 2043. At December 31, 2025, the Company had operating lease payment obligations of approximately $2.8 billion, of which $237 million is payable within 12 months. See Note 13, Leases , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing.
+
+Investment Commitments. At December 31, 2025, the Company had $2.4 billion of various capital commitments to fund sponsored investment products, including CIPs. These products include various private market products, including private equity funds, real asset funds and opportunistic funds. This amount excludes additional commitments made by consolidated funds of funds to underlying third-party funds as third-party noncontrolling interest holders have the legal obligation to fund the respective commitments of such funds of funds. Generally, the timing of the funding of these commitments is unknown and the commitments are callable on demand at any time prior to the expiration of the commitment. These unfunded commitments are not recorded on the consolidated statements of financial condition. These commitments do not include potential future commitments approved by the Company that are not yet legally binding. The Company intends to make additional capital commitments from time to time to fund additional investment products for, and with, its clients.
+
+Compensation and Benefit Obligations. The Company has various compensation and benefit obligations, including bonuses, commissions and incentive payments payable, defined contribution plan matching contribution obligations, and deferred compensation arrangements. Accrued compensation and benefits at December 31, 2025 totaled $3.8 billion and included annual incentive compensation of $2.7 billion, deferred compensation of $0.5 billion and other compensation and benefits related obligations of $0.5 billion. Substantially all of the incentive compensation liability was paid in the first quarter of 2026, while the deferred compensation obligations are payable over various periods, with the majority payable over periods of up to three years.
+
+Purchase Obligations. In the ordinary course of business, BlackRock enters into contracts or purchase obligations with third parties whereby the third parties provide services to or on behalf of BlackRock. Purchase obligations represent executory contracts, which are either noncancelable or cancelable with a penalty. At December 31, 2025, the Company’s obligations primarily reflected standard service contracts for market data, technology, office-related services, marketing and promotional services, and obligations for equipment. Purchase obligations are recorded on the consolidated financial statements when services are provided and, as such, obligations for services and equipment not received are not included in the consolidated statement of financial condition at December 31, 2025. At December 31, 2025, the Company had purchase obligations of approximately $1.0 billion, of which $460 million is payable within 12 months.
+
+Contingent Consideration Liabilities . In connection with certain acquisitions, BlackRock is required to make contingent payments, subject to the achievement of specified performance targets or satisfaction of certain post-closing events. The fair value of this contingent consideration is estimated at the time of acquisition closing and is included in contingent consideration liabilities on the consolidated statements of financial condition. The fair value of the remaining aggregate contingent payments at December 31, 2025 totaled $8.4 billion, including $4.8 billion and $3.5 billion related to the GIP and HPS Transactions, respectively. The contingent payments related to the GIP Transaction, if any, will be settled all in stock, for a number of shares ranging from 4.0 million to 5.2 million shares, subject to achieving certain performance targets. The contingent payments related to the HPS Transaction, if any, will be delivered all in Subco Units of approximately 2.8 million to 4.4 million, subject to achieving certain post-closing conditions and financial performance milestones. See Note 3, Acquisitions , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expense during the reporting periods. Actual results could differ significantly from those estimates. These estimates, judgments and assumptions are affected by the Company’s application of accounting policies. Management considers the following accounting policies and estimates critical to understanding the consolidated financial statements. These policies and estimates are considered critical because they had a material impact, or are reasonably likely to have a material impact on the Company’s consolidated financial statements and because they require management to make significant judgments, assumptions or estimates. For a summary of these and additional accounting policies as well as recent accounting developments, see Note 2, Significant Accounting Policies , in the notes to the consolidated financial statements included in Part II, Item 8 of this filing.
+
+Consolidation
+
+The Company consolidates entities in which the Company has a controlling financial interest. The Company has a controlling financial interest when it owns a majority of the VRE or is a primary beneficiary (“PB”) of a VIE. Assessing whether an entity is a VIE or a VRE involves judgment and analysis on a structure-by-structure basis. Factors considered in this assessment include the entity’s legal organization, the entity’s capital structure, the rights of equity investment holders, the Company’s contractual involvement with and economic interest in the entity and any related party or de facto agent implications of the Company’s involvement with the entity. Entities that are determined to be VREs are consolidated if the Company can exert absolute control over the financial and operating policies of the investee, which generally exists if there is greater than 50% voting interest. Entities that are determined to be VIEs are consolidated if the Company is the PB of the entity. BlackRock is deemed to be the PB of a VIE if it (1) has the power to direct the activities that most significantly impact the entities’ economic performance and (2) has the obligation to absorb losses or the right to receive benefits that potentially could be significant to the VIE. There is judgment involved in assessing whether the Company is the PB of a VIE. In addition, the Company’s ownership interest in VIEs is subject to variability and is impacted by actions of other investors such as ongoing redemptions and contributions. The Company generally consolidates VIEs in which it holds an economic interest of 10% or greater and deconsolidates such VIEs once its economic interest falls below 10%. As of December 31, 2025, the Company was deemed to be the PB of approximately 125 VIEs, which are BlackRock sponsored investment products. See Note 6, Consolidated Sponsored Investment Products , in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information.
+
+Fair Value Measurements
+
+The Company’s assessment of the significance of a particular input to the fair value measurement according to the fair value hierarchy (i.e., Level 1, 2 and 3 inputs, as defined) in its entirety requires judgment and considers factors specific to the financial instrument. See Note 2, Significant Accounting Policies , and Note 8, Fair Value Disclosures , in the consolidated financial statements contained in Part II, Item 8 of this filing for more information on fair value measurements.
+
+Changes in Valuation. Changes in value on $9.0 billion of investments will impact the Company’s nonoperating income (expense), $594 million are held at cost or amortized cost and the remaining $3.7 billion relates to carried interest, which will not impact nonoperating income (expense). At December 31, 2025, changes in fair value of $5.5 billion of CIPs will impact BlackRock’s net income (loss) attributable to NCI on the consolidated statements of income. BlackRock’s net exposure to changes in fair value of CIPs was $2.9 billion.
+
+Goodwill and Intangible Assets
+
+The Company accounts for business combinations using the acquisition method of accounting, where the purchase price is allocated to the assets acquired and liabilities assumed based on their fair values at the date of the transaction. Any excess purchase consideration over the fair value of net assets acquired is recorded as goodwill. The Company determines fair value of identifiable intangible assets acquired using the best available information which incorporates various estimates and assumptions, including, but not limited to, future expected cash flows, fundraising assumptions, useful lives, and discount rates. These estimates are based on historical data, internal estimates, or external sources. Unanticipated events may affect these assumptions.
+
+During 2025, BlackRock recorded approximately $3.0 billion of indefinite-lived management contracts, $2.7 billion of finite-lived management contracts and $1.0 billion of finite-lived investor relationships in connection with the HPS Transaction and $1.1 billion of finite-lived customer relationships and $125 million of finite-lived technology-related intangible assets in connection with the Preqin Transaction.
+
+The acquisition date fair value of the indefinite and finite-lived management contracts as well as finite-lived investor relationships recorded in connection with the HPS Transaction were determined using an income approach. The assumptions used in the income approach primarily included discount rates ranging from 8.0%-12.0%, as well as estimated revenue projections, synergies, investor attrition, operating profits and tax rates.
+
+The acquisition date fair value of customer relationships and technology-related intangible assets recorded in connection with the Preqin Transaction were determined using an income approach and a replacement cost approach, respectively. The assumptions used in the income approach primarily included discount rates ranging from 11.0%-11.5%, as well as estimated revenue projections, operating profits and tax rates. The assumptions used in the replacement cost approach primarily included a discount rate of 10.5% as well as estimated reproduction costs and third-party developer's profit and opportunity cost of capital invested.
+
+Both the income and the replacement cost approaches include certain significant assumptions, which are inherently uncertain and unpredictable. While the Company believes these assumptions to be reasonable and appropriate, changes in these estimates could produce different fair value amounts.
+
+Goodwill. The Company assesses its goodwill for impairment at least annually, considering qualitative factors such as entity-specific and macroeconomic factors as potential impairment indicators as well as quantitative factors such as the book value and the market capitalization of the Company. The impairment assessment performed as of July 31, 2025 indicated no impairment charge was required. The Company continues to monitor various impairment indicators as well as its book value per share compared with closing prices of its common stock for potential indicators of impairment. At December 31, 2025, the Company had $35.3 billion of goodwill, including $6.8 billion and $2.4 billion in connection with the HPS and Preqin Transactions, respectively, and the Company’s common stock closed at $1,070, which exceeded its book value of $360 per share.
+
+Indefinite-lived and finite-lived intangibles. Indefinite-lived intangible assets represent the value of advisory contracts acquired in business acquisitions to manage AUM in proprietary open-end investment funds, collective trust funds and certain other commingled products without a specified termination date. The assignment of indefinite lives to such contracts primarily is based upon the following: (1) the assumption that there is no foreseeable limit on the contract period to manage these products; (2) the Company expects to, and has the ability to, continue to operate these products indefinitely; (3) the products have multiple investors and are not reliant on a single investor or small group of investors for their continued operation; (4) current competitive factors and economic conditions do not indicate a finite life; and (5) there is a high likelihood of continued renewal based on historical experience. In addition, trade names/trademarks are considered indefinite-lived intangibles if they are expected to generate cash flows indefinitely. Indefinite-lived intangible assets are not amortized.
+
+Finite-lived intangible assets represent finite-lived investor/customer relationships, technology related assets, and management contracts, which relate to acquired separate accounts and funds, that are expected to contribute to the future cash flows of the Company for a specified period of time. Finite-lived intangible assets are amortized over their remaining expected useful lives, which, at December 31, 2025 ranged from approximately 1 to 14 years with a weighted-average remaining estimated useful life of approximately 8 years.
+
+The Company performs assessments to determine if any intangible assets are impaired at least annually, as of July 31, or more frequently if events or changes in circumstances indicate that it is more likely than not that the intangible assets might be impaired.
+
+In evaluating whether it is more likely than not that the fair value of indefinite-lived intangibles is less than its carrying value, BlackRock performs certain quantitative assessments and assesses various significant quantitative factors including AUM, revenue basis points, projected AUM growth rates, operating margins, tax rates and discount rates. In addition, the Company considered other qualitative factors including: (1) macroeconomic conditions such as a deterioration in general economic conditions, limitations on accessing capital, fluctuations in foreign exchange rates, or other developments in equity and credit markets; (2) industry and market considerations such as a deterioration in the environment in which the Company operates, an increased competitive environment, a decline in market-dependent multiples or metrics, a change in the market for an entity’s services, or regulatory, legal or political developments; and (3) Company-specific events, such as a change in management or key personnel, overall financial performance and litigation that could affect significant inputs used to determine the fair value of the indefinite-lived intangible asset. If an indefinite-lived intangible is determined to be more likely than not impaired, then the fair value of the asset, which is generally determined using an income approach, is compared with its carrying value and any excess of the carrying value over the fair value would be recognized as an expense in the period in which the impairment occurs.
+
+For finite-lived intangible assets, if potential impairment circumstances are considered to exist, the Company will perform a recoverability test, using an undiscounted cash flow analysis. Factors included in evaluating finite-lived customer relationships, technology related assets and trade names include technology services and subscription revenue trends, customer attrition rates, obsolescence rates, and royalty rates. For finite-lived management contracts and investor-relationships, evaluation is based on changes in assumptions including AUM, revenue basis points, projected AUM growth rates, operating margins, tax rates and discount rates. Actual results could differ from these cash flow estimates, which could materially impact the impairment conclusion. If the carrying value of the asset is determined not to be recoverable based on the undiscounted cash flow test, the difference between the book value of the asset and its current estimated fair value would be recognized as an expense in the period in which the impairment occurs.
+
+In addition, management judgment is required to estimate the period over which finite-lived intangible assets will contribute to the Company’s cash flows and the pattern in which these assets will be consumed and whether the indefinite-life and finite-life classifications are still appropriate. A change in the remaining useful life of any of these assets, or the reclassification of an indefinite-lived intangible asset to a finite-lived intangible asset, could have a significant impact on the Company’s amortization expense, which was $775 million, $241 million and $151 million for 2025, 2024 and 2023, respectively.
+
+In 2025, 2024 and 2023, the Company performed its annual impairment assessment, including evaluating various qualitative factors and performing certain quantitative assessments. In 2025, the Company determined that no impairment charges were required and that the classification of indefinite-lived versus finite-lived intangibles was still appropriate and no changes were required to the expected lives of the finite-lived intangibles. In 2024, based on this assessment, the Company determined that the indefinite-lived intangible assets related to certain acquired open-end management contracts were impaired, and as a result, recorded a noncash impairment charge of $50 million, included within amortization and impairment of intangible assets expense on the consolidated statements of income. The impairment was primarily the result of a decrease in certain quantitative factors, including reduced growth expectation, lower revenue basis points and net client outflows, which caused the fair value to decline below its carrying value. While the Company believes all assumptions utilized in the analysis are reasonable and appropriate, changes in these estimates could produce different fair value amounts, which could drive additional impairment in future periods. In addition, the Company determined that no impairment charges were required for any other intangible assets, and that the classification of indefinite-lived versus finite-lived intangibles was still appropriate and no changes were required to the expected lives of the finite-lived intangibles. In 2023, the Company determined that no impairment charges were required and that the classification of indefinite-lived versus finite-lived intangibles was still appropriate and no changes were required to the expected lives of the finite-lived intangibles. The Company continuously monitors various factors, including AUM, for potential indicators of impairment.
+
+Contingent Consideration Liabilities
+
+In connection with certain acquisitions, BlackRock is required to make contingent payments, subject to the achievement of specified performance targets or satisfaction of certain post-closing events. The fair value of this contingent consideration is estimated at the time of acquisition closing and is included in contingent consideration liabilities on the consolidated statements of financial condition. The fair value of the remaining aggregate contingent payments at December 31, 2025 totaled $8.4 billion, including $4.8 billion and $3.5 billion related to the GIP and HPS Transactions, respectively.
+
+The contingent payments related to the GIP Transaction, if any, will be settled all in stock, ranging from 4.0 million to 5.2 million shares, subject to achieving certain performance targets. The fair value of the GIP Transaction contingent consideration is estimated using the income approach, which included certain significant inputs such as a risk-free discount rate of approximately 3.5% as well as current estimates of the timing and amounts of fundraising forecasts, stock and AUM volatility, and correlation between stock price and AUM (Level 3 inputs).
+
+The payments related to the HPS Transaction, if any, will be delivered all in Subco Units of approximately 2.8 million to 4.4 million, subject to achieving certain post-closing conditions and financial performance milestones. The fair value of the HPS Transaction contingent consideration is estimated using the income approach, which included certain significant inputs such as a risk-free discount rate of approximately 3.7%, as well as estimates of the timing and amounts of fundraising and fee related earnings forecasts, cost of equity, and future stock price performance (Level 3 inputs).
+
+Subsequent changes of estimated fair value of contingent consideration are recorded within the change in fair value of contingent consideration line item of the consolidated statements of income until the contingency is resolved. Accordingly, changes in the key inputs and assumptions described will impact the amount of contingent consideration expense recorded in a reporting period.
+
+Revenue Recognition
+
+The Company recognizes revenues when its obligations related to the services are satisfied and it is probable that a significant reversal of the revenue amount would not occur in future periods. The Company enters into contracts that can include multiple services, which are accounted for separately if they are determined to be distinct. Management judgment is required in assessing the probability of significant revenue reversal and in identification of distinct services.
+
+The Company derives a substantial portion of its revenue from investment advisory and administration fees which are recognized as the services are performed over time because the customer is receiving and consuming the benefits as they are provided by the Company. Fees are primarily based on agreed-upon percentages of AUM and recognized for services provided during the period, which are distinct from services provided in other periods. Such fees are affected by changes in AUM, including market appreciation or depreciation, foreign exchange translation and net inflows or outflows. AUM represents the broad range of financial assets the Company manages for clients on a discretionary basis pursuant to investment management and trust agreements that are expected to continue for at least 12 months. In general, reported AUM reflects the valuation methodology that corresponds to the basis used for determining revenue (for example, net asset values).
+
+The Company receives investment advisory performance fees, including incentive allocations (carried interest) from certain actively managed investment funds and certain separately managed accounts ("SMAs"). These performance fees are dependent upon exceeding specified relative or absolute investment return thresholds, which vary by product or account, and include monthly, quarterly, annual or longer measurement periods.
+
+Performance fees, including carried interest, are generated on certain management contracts when performance hurdles are achieved. Such performance fees are recognized when the contractual performance criteria have been met and when it is determined that they are no longer probable of significant reversal. Given the unique nature of each fee arrangement, contracts with customers are evaluated on an individual basis to determine the timing of revenue recognition. Significant judgment is involved in making such determination. Performance fees typically arise from investment management services that began in prior reporting periods. Consequently, a portion of the fees the Company recognizes may be partially related to the services performed in prior periods that meet the recognition criteria in the current period. At each reporting date, the Company considers various factors in estimating performance fees to be recognized, including carried interest. These factors include but are not limited to whether: (1) the amounts are dependent on the financial markets and, thus, are highly susceptible to factors outside the Company’s influence; (2) the ultimate payments have a large number and a broad range of possible amounts; and (3) the funds or SMAs have the ability to (a) invest or reinvest their sales proceeds or (b) distribute their sales proceeds, and determine the timing of such distributions.
+
+The Company is allocated/distributed carried interest from certain alternative investment products upon exceeding performance thresholds. The Company may be required to reverse/return all, or part, of such carried interest allocations/distributions depending upon future performance of these products. Carried interest subject to such clawback provisions is recorded in investments or cash and cash equivalents to the extent that it is distributed, on the Company's consolidated statements of financial condition.
+
+The Company records a liability for deferred carried interest to the extent it receives cash or capital allocations related to carried interest prior to meeting the revenue recognition criteria. At December 31, 2025 and 2024, the Company had $3.5 billion and $1.9 billion, respectively, of deferred carried interest recorded in other liabilities on the consolidated statements of financial condition. A portion of the deferred carried interest may also be paid to certain employees and other third parties, which may be subject to clawback. The ultimate timing of the recognition of performance fee revenue and related compensation expense, if any, is unknown. See Note 17, Revenue , in the notes to the consolidated financial statements for detailed changes in the deferred carried interest liability balance for 2025 and 2024.
+
+The Company earns revenue for providing technology services. Determining the amount of revenue to recognize requires judgment and estimates. Complex arrangements with nonstandard terms and conditions may require contract interpretation to determine the appropriate accounting, including whether promised goods and services specified in an arrangement, are distinct performance obligations, and should be accounted for separately. Other judgments include determining whether performance obligations are satisfied over time or at a point in time. Fees earned for technology services are primarily recorded as services are performed over time and are generally determined using the value of positions on the Aladdin platform or on a fixed-rate basis. Revenue derived from the sale of software licenses is recognized upon the granting of access rights.
+
+Adjustments to revenue arising from initial estimates recorded historically have been immaterial since the majority of BlackRock’s investment advisory and administration revenue is calculated based on AUM, recognized when known, and given the Company does not record performance fee revenue until: (1) performance thresholds have been exceeded and (2) management determines the fees are no longer probable of significant reversal. See Note 2, Significant Accounting Policies , in the consolidated financial statements contained in Part II, Item 8 of this filing for more information on revenue recognition, including other revenue streams.
+
+Income Taxes
+
+The Company records income taxes based upon its estimated income tax liability or benefit. The Company’s actual tax liability or benefit may differ from the estimated income tax liability or benefit.
+
+Deferred income tax assets and liabilities are recognized for future tax consequences attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases using currently enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date.
+
+Significant management judgment is required in estimating the ranges of possible outcomes and determining the probability of favorable or unfavorable tax outcomes and potential interest and penalties related to such unfavorable outcomes. Actual future tax consequences relating to uncertain tax positions may be materially different than the Company’s current estimates. At December 31, 2025, BlackRock had $511 million of gross unrecognized tax benefits, of which $435 million, if recognized, would affect the effective tax rate.
+
+Management is required to estimate the timing of the recognition of deferred tax assets and liabilities, make assumptions about the future deductibility of deferred income tax assets and assess deferred income tax liabilities based on enacted tax rates for the appropriate tax jurisdictions to determine the amount of such deferred income tax assets and liabilities. At December 31, 2025, the Company had deferred income tax assets of $189 million and deferred income tax liabilities of $4.6 billion on the consolidated statement of financial condition. Changes in deferred tax assets and liabilities may occur in certain circumstances, including statutory income tax rate changes, statutory tax law changes, changes in the anticipated timing of recognition of deferred tax assets and liabilities or changes in the structure or tax status of the Company.
+
+The Company assesses whether a valuation allowance should be established against its deferred income tax assets based on consideration of all available evidence, both positive and negative, using a more likely than not standard. The assessment considers, among other matters, the nature, frequency and severity of recent losses, forecast of future profitability, the duration of statutory carry back and carry forward periods, the Company’s experience with tax attributes expiring unused, and tax planning alternatives.
+
+Accounting Developments
+
+For accounting pronouncements that the Company adopted during 2025 and for accounting pronouncements not yet adopted by the Company, see Note 2, Significant Accounting Policies , in the consolidated financial statements contained in Part II, Item 8 of this filing.

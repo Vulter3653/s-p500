@@ -1,0 +1,1239 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders
+
+Diamondback Energy, Inc.
+
+Opinion on the financial statements
+
+We have audited the accompanying consolidated balance sheets of Diamondback Energy, Inc. (a Delaware corporation) and subsidiaries (the “Company”) as of December 31, 2025 and 2024, the related consolidated statements of operations and comprehensive income, cash flows, and stockholders’ equity for each of the three years in the period ended December 31, 2025, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with accounting principles generally accepted in the United States of America.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in the 2013 Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”), and our report dated February 25, 2026 expressed an unqualified opinion.
+
+Basis for opinion
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical audit matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Estimation of proved reserves as it relates to the calculation and recognition of depletion and impairment expense, and the valuation of acquired reserves in connection with the Double Eagle Acquisition and the acquired mineral and royalty interests in the Sitio Acquisition
+
+As described further in Note 2 to the consolidated financial statements, the Company accounts for its oil and natural gas properties using the full cost method of accounting, which requires management to make estimates of proved reserve volumes and future revenues to record depletion and impairment expense. Additionally, as described further in Note 4 to the consolidated financial statements, the Company acquired significant oil and natural gas properties and mineral and royalty interests through the Double Eagle Acquisition and Sitio Acquisition, respectively, which requires management to make estimates of reserve volumes and future revenues to value the properties. To estimate the volume of reserves and future revenues, management makes significant estimates and assumptions, including forecasting the timing and volumetric amounts of production and corresponding decline rate of producing properties associated with the Company’s development plan. In addition, the estimation of reserves is impacted by management’s judgments and estimates regarding the financial performance of wells to determine if wells are expected, with reasonable certainty, to be economical under the appropriate pricing assumptions. For acquired reserves, management utilizes an estimated fair value pricing model in determining the corresponding value of reserves. We identified the estimation of reserves attributable to oil and natural gas properties, including acquired reserves in the Double Eagle Acquisition and Sitio Acquisition, due to its impact on depletion and impairment expense and acquisition accounting, as a critical audit matter.
+
+The principal consideration for our determination that the estimation of reserves is a critical audit matter is that changes in certain inputs and assumptions, which include a high degree of subjectivity, necessary to estimate the volume and future revenues of the Company’s reserves, could have a significant impact on the measurement of depletion and impairment expense and the fair value of acquired oil and natural gas properties and mineral and royalty interests. In turn, auditing those inputs and assumptions required subjective and complex auditor judgment.
+
+Our audit procedures related to the estimation of reserves included the following, among others.
+
+• We tested the design and operating effectiveness of key controls relating to management’s estimation of reserves for the purpose of calculating depletion and impairment expense and management’s estimation of the fair value of the acquired oil and natural gas properties in the Double Eagle Acquisition and Sitio Acquisition.
+
+• We evaluated the level of knowledge, skill, and ability of the Company’s reservoir engineering specialists and independent petroleum engineering specialists, made inquiries of those reservoir engineers regarding the process followed and judgments made to estimate the Company’s reserve volumes, and read the report of the Company’s independent petroleum engineering specialists.
+
+• Identified inputs and assumptions that were significant to the period end determination of proved reserve volumes and tested management’s process of determining the significant inputs and assumptions, as follows:
+
+◦ Compared the pricing used in the reserve report to relevant pricing benchmarks and realized prices related to revenue transactions recorded in the current year;
+
+◦ Assessed the reasonableness of forecasted capital expenditures by comparing drilling forecasts applied in the reserve report to recent drilling costs;
+
+◦ Vouched, on a sample basis, the working and net revenue interests used in the reserve report to underlying land and division order records;
+
+◦ Assessed forecasted production estimates by (i) comparing prior year forecasted production amounts to current year actual results and (ii) comparing forecasted production amounts in the current year reserve report to the actual historical production amounts in the current year, in total and for a sample of individual wells;
+
+◦ Obtained evidence supporting the development of proved undeveloped properties reflected in the reserve report and compared future development plans to historical conversion rates to evaluate the likelihood of development related to the proved undeveloped properties; and
+
+◦ Applied analytical procedures on inputs to the reserve report by comparing to historical actual results and to the prior year reserve report.
+
+• Identified inputs and assumptions that were significant to the estimated fair value of the acquired oil and natural gas properties in the Double Eagle Acquisition and Sitio Acquisition, respectively, and tested management’s process of determining the significant inputs and assumptions, as follows:
+
+◦ Evaluated the appropriateness of fair value pricing, including pricing differentials, used in the fair value reserve reports by comparing the pricing forecast to published product pricing as of the acquisition closing dates and pricing differentials to actual historical realized pricing of the acquired properties;
+
+◦ Evaluated the level of knowledge, skill and ability of the specialists utilized by the Company to assist in the preparation of the estimates of fair value of oil and natural gas properties and mineral and royalty interests acquired;
+
+◦ Utilized a valuation specialist to evaluate the reasonableness of the Company’s valuation methodology of the Double Eagle Acquisition and Sitio Acquisition, respectively, including testing key inputs and assumptions by understanding and assessing the process used to develop the estimate or through development of an independent expectation;
+
+◦ Evaluated the appropriateness of the future operating cost and capital expenditure assumptions used in the Double Eagle Acquisition fair value reserve report by comparing forecasted amounts to historical operating costs and to recent drilling costs;
+
+◦ Compared, on a sample basis, the working interest, as applicable, and net revenue interests used in the fair value reserve reports to historical reserve reports;
+
+◦ Assessed forecasted production estimates in the fair value reserve reports for reasonableness by comparing forecasted production amounts to the actual historical production amounts and to the forecasted production in the year-end reserve report for a sample of individual wells;
+
+◦ Applied analytical procedures on the fair value reserve reports’ forecasted production by comparing to the prior year reserve reports’ forecasted production and to the year-end reserve reports’ forecasted production of the acquired proved properties; and
+
+◦ Compared the unproved acreage value allocated to other recent acquisitions in the same or similar locations.
+
+/s/ GRANT THORNTON LLP
+
+We have served as the Company’s auditor since 2009.
+
+Oklahoma City, Oklahoma
+
+February 25, 2026
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Consolidated Statements of Operations and Comprehensive Income
+
+See accompanying notes to consolidated financial statements.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Consolidated Balance Sheets
+
+See accompanying notes to consolidated financial statements.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Consolidated Statements of Cash Flows
+
+See accompanying notes to consolidated financial statements.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Consolidated Statements of Stockholders’ Equity
+
+See accompanying notes to consolidated financial statements.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements
+
+1. DESCRIPTION OF THE BUSINESS AND BASIS OF PRESENTATION
+
+Organization and Description of the Business
+
+Diamondback Energy, Inc., together with its subsidiaries (collectively referred to as “Diamondback,” the “Company,” “we” or “our” unless the context otherwise requires), is an independent oil and natural gas company currently focused on the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves primarily in the Permian Basin in West Texas.
+
+As of December 31, 2025, the wholly owned subsidiaries of Diamondback include Diamondback E&P LLC, a Delaware limited liability company, Rattler Midstream GP LLC, a Delaware limited liability company, Rattler Midstream LP, a Delaware limited partnership, QEP Resources, Inc. (“QEP”), a Delaware corporation, Diamondback RE Holdco LLC, a Delaware limited liability company and Eclipse Merger Sub II, LLC, a Delaware limited liability company.
+
+Basis of Presentation
+
+The consolidated financial statements include the accounts of the Company and its subsidiaries, including its publicly-traded subsidiary, Viper Energy, Inc., after all significant intercompany balances and transactions have been eliminated upon consolidation. As of December 31, 2025, the Company is managed as one operating and reportable segment, the upstream segment, which is engaged in the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves primarily in the Permian Basin in West Texas and includes the activities of Viper as well as the Company’s remaining midstream operations.
+
+On August 19, 2025, upon completion of Viper’s Sitio Acquisition (as defined and discussed in Note 4— Acquisitions and Divestitures ), VNOM Sub, Inc., (formerly Viper Energy, Inc., “Former Viper”) became a wholly owned subsidiary of Viper Energy Inc., (formerly New Cobra Pubco, Inc., “New Viper”).
+
+As of December 31, 2025, the Company owned approximately 42 % of Viper’s combined outstanding Class A common stock and Class B common stock on a fully diluted basis, after giving effect to the outstanding TWR Class B Option (as defined and discussed in Note 4— Acquisitions and Divestitures ). The Company determined that it controls the activities of Viper in accordance with the guidance for variable interest entities in Accounting Standards Codification (“ASC”) Topic 810, “Consolidation,” and therefore continues to consolidate Viper in the Company’s financial statements at December 31, 2025. See further discussion of the Company’s determination that Viper is a variable interest entity (“VIE”) in Note 2— Summary of Significant Accounting Policies . The results of operations attributable to the non-controlling interest in Viper are presented within equity and net income and are shown separately from the equity and net income attributable to the Company.
+
+On November 13, 2023, the Company’s publicly traded subsidiary, Viper Energy Partners LP, completed its conversion from a Delaware limited partnership into a Delaware corporation, Viper Energy, Inc. (the “Viper Conversion”). At the time of the Viper Conversion, Viper was a “controlled company” under the Nasdaq rules because the Company owned more than 50 % of the voting power of Viper’s common stock. On October 31, 2023, pursuant to a common unit purchase and sale agreement entered into on September 4, 2023, Viper issued approximately 7.22 million of its common units, which were converted to shares of Viper Class A common stock at the time of the Viper Conversion, to the Company at a price of $ 27.72 per unit for total consideration to Viper of approximately $ 200 million. On March 5, 2024, the Company exercised certain of its demand rights, pursuant to a registration rights agreement amended and restated on November 10, 2023, and on March 8, 2024, completed a public offering of approximately 13.23 million shares of Viper’s Class A common stock at a price of $ 35.00 per share for proceeds, net of underwriters’ discount, of approximately $ 451 million. After this offering, the Company owned less than 50 % of Viper’s combined outstanding Class A common stock and Class B common stock, resulting in Viper no longer being a controlled company under the Nasdaq rules. References to “Viper” refer to (i) New Viper following the Sitio Acquisition, (ii) Former Viper prior to the Sitio Acquisition but after the Viper Conversion, and (iii) Viper Energy Partners LP prior to the Viper Conversion. For definition and details on Viper’s Sitio Acquisition, see Note 4— Acquisitions and Divestitures .
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Reclassifications
+
+Certain prior period amounts have been reclassified to conform to the current period financial statement presentation. These reclassifications had an immaterial effect on the previously reported total assets, total liabilities, stockholders’ equity, results of operations or cash flows.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Use of Estimates
+
+Certain amounts included in or affecting the Company’s consolidated financial statements and related disclosures must be estimated by management, requiring certain assumptions to be made with respect to values or conditions that cannot be known with certainty at the time the consolidated financial statements are prepared. These estimates and assumptions affect the amounts the Company reports for assets and liabilities and the Company’s disclosure of contingent liabilities as of the date of the consolidated financial statements. Actual results could differ from those estimates.
+
+Making accurate estimates and assumptions is particularly difficult in the oil and natural gas industry given the challenges resulting from volatility in oil and natural gas prices. For instance, geopolitical conflicts, higher interest rates, effects of tariffs, actions taken by OPEC and its non-OPEC allies, global supply chain disruptions, measures to combat persistent inflation and instability in the financial sector have contributed to recent economic and pricing volatility. The financial results of companies in the oil and natural gas industry have been and may continue to be impacted materially as a result of these events and changing market conditions. Such circumstances generally increase uncertainty in the Company’s accounting estimates, particularly those involving financial forecasts.
+
+The Company evaluates these estimates on an ongoing basis, using historical experience, consultation with experts and other methods the Company considers reasonable in the particular circumstances. Nevertheless, actual results may differ significantly from the Company’s estimates. Any effects on the Company’s business, financial position or results of operations resulting from revisions to these estimates are recorded in the period in which the facts that give rise to the revision become known. Significant items subject to such estimates and assumptions include estimates of proved oil and natural gas reserves and related present value estimates of future net cash flows therefrom, the carrying value of oil and natural gas properties, the fair value determination of assets acquired and liabilities assumed and estimates of income taxes, including deferred tax valuation allowances.
+
+Revenue Recognition
+
+Revenue from Contracts with Customers
+
+Sales of oil, natural gas and natural gas liquids are recognized at the point control of the product is transferred to the customer. Virtually all of the pricing provisions in the Company’s contracts are tied to a market index, with certain adjustments to account for various factors depending on the points of sale. As a result, the prices of the Company’s oil, natural gas and natural gas liquids fluctuate to remain competitive with other available supplies.
+
+Oil Sales
+
+The Company’s oil sales contracts are generally structured where it delivers oil to the purchaser at a contractually agreed-upon delivery point at which the purchaser takes custody, title and risk of loss of the product. The Company recognizes revenue when control transfers to the purchaser at the delivery point based on the price received from the purchaser. Oil revenues are recorded net of any third-party transportation fees and other applicable differentials in the Company’s consolidated statements of operations.
+
+Natural Gas and Natural Gas Liquids Sales
+
+Under the Company’s natural gas processing contracts, it delivers natural gas to a midstream processing entity at the wellhead, battery facilities or the inlet of the midstream processing entity’s system. Generally, the midstream processing entity gathers and processes the natural gas and remits proceeds to the Company for the resulting sales of natural gas liquids and residue gas. In these scenarios, the Company evaluates whether it is the principal or the agent in the transaction. For those contracts where the Company has concluded it is the principal and the ultimate third party is its customer, the Company
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+recognizes revenue on a gross basis, with transportation, gathering, processing, treating and compression fees presented as an expense in its consolidated statements of operations. Under contracts where the Company has concluded that it is the agent, the Company recognizes revenue on a net basis, with transportation, gathering, processing, treating and compression fees as a reduction to revenues in the consolidated statements of operations.
+
+In certain natural gas processing agreements, the Company may elect to take its residue gas and/or natural gas liquids in-kind at the tailgate of the midstream entity’s processing plant and subsequently market the product. Through the marketing process, the Company delivers product to the ultimate third-party purchaser at a contractually agreed-upon delivery point and receives a specified index price from the purchaser. In this scenario, the Company recognizes revenue when control transfers to the purchaser at the delivery point based on the index price received from the purchaser. The gathering, processing, treating and compression fees attributable to the gas processing contract, as well as any transportation fees incurred to deliver the product to the purchaser, are presented as gathering, processing and transportation expense in the consolidated statements of operations.
+
+Sales of Purchased Oil and Purchased Oil Expense
+
+The Company enters into capacity commitments in order to secure available transportation capacity from the Company’s areas of production for its commodities. Beginning in the third quarter of 2023, the Company also entered into purchase transactions with third parties and separate sale transactions with third parties to satisfy certain of its unused capacity commitments. Revenues and expenses from these transactions are generally presented on a gross basis in the captions “Sales of purchased oil” and “Purchased oil expense” in the accompanying consolidated statements of operations as the Company acts as a principal in the transaction by assuming both the risks and rewards of ownership, including credit risk, of the oil volumes purchased and the responsibility to deliver the oil volumes sold.
+
+Transaction Price Allocated to Remaining Performance Obligations
+
+The Company’s upstream product sales contracts do not originate until production occurs and, therefore, are not considered to exist beyond each day’s production. Therefore, there are no remaining performance obligations under any of its product sales contracts.
+
+Under the Company’s revenue agreements, each delivery generally represents a separate performance obligation; therefore, future volumes delivered are wholly unsatisfied and disclosure of the transaction price allocated to remaining performance obligations is not required.
+
+Contract Balances
+
+Under the Company’s product sales contracts, it has the right to invoice its customers once the performance obligations have been satisfied, at which point payment is unconditional. Accordingly, the Company’s product sales contracts do not give rise to contract assets or liabilities.
+
+Prior-Period Performance Obligations
+
+The Company records revenue in the month production is delivered to the purchaser. However, purchaser and settlement statements for natural gas and natural gas liquids sales may not be received for 30 to 90 days after the date production is delivered, and as a result, the Company is required to estimate the amount of production delivered to the purchaser and the price that will be received for the sale of the product. The Company records the differences between its estimates and the actual amounts received for product sales in the month that payment is received from the purchaser. The Company has existing internal controls for its revenue estimation process and related accruals, and any identified differences between its revenue estimates and actual revenue received historically have not been significant. For the years ended December 31, 2025, 2024 and 2023 revenue recognized in the reporting period related to performance obligations satisfied in prior reporting periods was not material. The Company believes that the pricing provisions of its oil, natural gas and natural gas liquids contracts are customary in the industry. To the extent actual volumes and prices of oil and natural gas sales are unavailable for a given reporting period because of timing or information not received from third parties, the revenue related to expected sales volumes and prices for those properties are estimated and recorded.
+
+See Note 3— Revenue from Contracts with Customers for additional discussion of the Company’s revenues.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Oil and Natural Gas Properties
+
+The Company uses the full cost method of accounting for its oil and natural gas properties. Under this method, all acquisition, exploration and development costs, including certain internal costs, are capitalized and amortized on a composite unit of production method based on proved oil, natural gas and natural gas liquids reserves. Internal costs capitalized to the full cost pool represent management’s estimate of costs incurred directly related to exploration and development activities such as geological and other internal costs associated with overseeing the exploration and development activities. Costs, including related employee costs, associated with production and operation of the properties are charged to expense as incurred. All other internal costs not directly associated with exploration and development activities are charged to expense as they are incurred. Divestitures of oil and natural gas properties, whether or not being amortized currently, are accounted for as adjustments of capitalized costs, with no gain or loss recognized, unless such adjustments would significantly alter the relationship between capitalized costs and proved reserves of oil, natural gas and natural liquids. Depletion of evaluated oil and natural gas properties is computed on the units of production method, whereby capitalized costs plus estimated future development costs are amortized over total proved reserves. The average depletion rate per barrel equivalent unit of production was $ 14.60 , $ 12.60 and $ 10.21 for the years ended December 31, 2025, 2024 and 2023, respectively. Depletion expense for oil and natural gas properties was $ 4.9 billion, $ 2.8 billion and $ 1.7 billion for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Under the full cost method of accounting, the Company is required to perform a ceiling test each quarter. The test determines a limit, or ceiling, on the book value of the proved oil and natural gas properties. Net capitalized costs are limited to the lower of unamortized oil and natural gas properties net of deferred income taxes, or the cost center ceiling. The cost center ceiling is defined as the sum of (a) estimated future net revenues, discounted at 10 % per annum, from proved reserves, based on the trailing 12-month unweighted average of the first-day-of-the-month price, adjusted for any contract provisions, and excluding the estimated abandonment costs for properties with asset retirement obligations recorded on the balance sheet, (b) the cost of properties not being amortized, if any, and (c) the lower of cost or market value of unproved properties included in the cost being amortized, including related deferred taxes for differences between the book and tax basis of the oil and natural gas properties. If the net book value, including related deferred taxes, exceeds the ceiling, an impairment or non-cash write-down is required. For additional information on proved oil and natural gas properties and related ceiling test impairments, see Note 5— Property and Equipment .
+
+Costs associated with unevaluated properties are excluded from the full cost pool until the Company has made a determination as to the existence of proved reserves. The Company assesses all items classified as unevaluated property on at least an annual basis for possible impairment. The Company assesses properties on a group basis, as a majority of properties are individually insignificant. The assessment includes consideration of the following factors, among others: intent to drill; remaining lease term; geological and geophysical evaluations; drilling results and activity; the assignment of proved reserves; and the economic viability of development if proved reserves are assigned. During any period in which these factors indicate an impairment, the cumulative drilling costs incurred to date for such property and all or a portion of the associated leasehold costs are transferred to the full cost pool and are then subject to amortization.
+
+Accounting for Equity-Based Compensation
+
+The Company has granted various types of stock-based awards primarily including restricted stock units and performance based restricted stock units. Viper has also granted various stock-based awards including restricted stock units and performance based restricted stock units to its directors and to Diamondback employees and officers who perform services for Viper. These plans and related accounting policies for material awards are defined and described more fully in Note 10— Equity-Based Compensation . Equity compensation awards are measured at fair value on the date of grant and are expensed over the required service period. Forfeitures for these awards are recognized as they occur.
+
+Derivative Instruments
+
+The Company is required to recognize its derivative instruments on the consolidated balance sheets as assets or liabilities at fair value with such amounts classified as current or long-term based on their anticipated settlement dates. The accounting for the changes in fair value of a derivative depends on the intended use of the derivative and resulting designation. For commodity derivative instruments and interest rate swaps which have not been designated as hedges for accounting purposes, the Company marks its derivative instruments to fair value and recognizes the cash and non-cash change in fair value on derivative instruments for each period in the consolidated statements of operations. To the extent that contracts with the same counterparty are allowed to be netted upon payment subject to a master netting arrangement, these
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+amounts are reported on a net basis on the consolidated balance sheets. The Company previously had certain interest rate swaps designated as fair value hedges under the “shortcut” method of accounting. In the second quarter of 2022, the Company elected to fully dedesignate these interest rate swaps and hedge accounting was discontinued. The remaining unamortized basis adjustment related to the dedesignated interest rate swaps is reflected as a reduction to long-term debt on the consolidated balance sheet as detailed in Note 8— Debt . For additional information regarding the Company’s derivative instruments, see Note 12— Derivatives .
+
+Income Taxes
+
+The Company uses the asset and liability method of accounting for income taxes, under which deferred tax assets and liabilities are recognized for the future tax consequences of (i) temporary differences between the financial statement carrying amounts and the tax bases of existing assets and liabilities, and (ii) operating loss and tax credit carryforwards. Deferred income tax assets and liabilities are based on enacted tax rates applicable to the future period when those temporary differences are expected to be recovered or settled. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period the rate change is enacted. A valuation allowance is provided for deferred tax assets when it is more likely than not the deferred tax assets will not be realized.
+
+The Company records uncertain tax positions based on a two-step process: (i) determine whether it is more likely than not that the tax positions will be sustained on the basis of the technical merits of the position, and (ii) for those tax positions that meet the more-likely-than-not recognition threshold, recognize the largest amount of tax benefit that is more than 50 percent likely to be realized upon ultimate settlement with the related tax authority. For additional information regarding income taxes, see Note 11— Income Taxes .
+
+Non-Controlling Interests
+
+Non-controlling interests in the accompanying consolidated financial statements represent the public’s ownership interest in Viper and are presented as a component of equity. When the Company’s relative ownership interests change, adjustments to non-controlling interest and additional paid-in-capital, tax effected, occur. Because these changes in the ownership interests do not result in a change of control, the transactions are accounted for as equity transactions under ASC Topic 810, “Consolidation,” which requires that any differences between the carrying value of the Company’s basis in Viper and the fair value of the consideration received are recognized directly in equity and attributed to the controlling interest. See Note 9— Stockholders’ Equity and Earnings (Loss) Per Share for a discussion of changes in the Company’s ownership interest in consolidated subsidiaries during the years ended December 31, 2025, 2024 and 2023.
+
+Cash, Cash Equivalents and Restricted Cash
+
+The Company considers all highly liquid investments purchased with a maturity of three months or less and money market funds to be cash equivalents. The Company maintains cash and cash equivalents in bank deposit accounts which, at times, may exceed the federally insured limits. The Company has not experienced any significant losses from such investments.
+
+Accounts Receivable
+
+Accounts receivable consist of receivables from joint interest owners on properties the Company operates and from sales of oil and natural gas production delivered to purchasers. The purchasers remit payment for production directly to the Company. Most payments for production are received within three months after the production date.
+
+Accounts receivable are stated at amounts due from joint interest owners or purchasers, net of an allowance for expected losses as estimated by the Company when collection is doubtful. For receivables from joint interest owners, the Company typically has the ability to withhold future revenue disbursements to recover any non-payment of joint interest billings. Accounts receivable from joint interest owners or purchasers outstanding longer than the contractual payment terms are considered past due. The Company determines its allowance for each type of receivable utilizing the loss-rate method, which considers a number of factors, including the length of time accounts receivable are past due, the Company’s previous loss history, the debtor’s current ability to pay its obligation to the Company, the condition of the general economy and the industry as a whole. The Company writes off specific accounts receivable when they become uncollectible, and payments subsequently received on such receivables are credited to the allowance for expected losses. At December 31, 2025 and 2024,
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+the Company’s allowances for credit losses related to joint interest receivables and credit losses related to sales of oil and natural gas production were not material.
+
+Inventories
+
+Inventories are stated at the lower of cost or net realizable value and primarily consist of tubular goods and equipment at December 31, 2025 and 2024. The Company’s tubular goods and equipment are primarily comprised of oil and natural gas drilling or repair items such as tubing, casing and pumping units.
+
+Prepaid Expenses and Other Current Assets
+
+The following table shows the components of prepaid expenses and other current assets for the periods indicated:
+
+Other Property, Equipment and Land
+
+Other property, equipment and land is recorded at cost. The Company expenses maintenance and repairs in the period incurred. Upon retirements or disposition of assets, the cost and related accumulated depreciation are removed from the consolidated balance sheet with the resulting gains or losses, if any, reflected in the statement of operations. Depreciation of other property and equipment is computed using the straight-line method over the estimated useful lives of the assets, which range from three years to 30 years.
+
+Impairment of Long-Lived Assets
+
+Other property and equipment used in operations and midstream assets are reviewed whenever events or circumstances indicate that the carrying amount of an asset may not be recoverable. An impairment loss is recognized only if the carrying amount of a long-lived asset is not recoverable from its estimated future undiscounted cash flows. An impairment loss is the difference between the carrying amount and fair value of the asset. The Company had no impairment losses for the years ended December 31, 2025, 2024 and 2023.
+
+Equity Method Investments
+
+The Company accounts for its corporate joint ventures and equity investments under the equity method of accounting in accordance with ASC Topic 323 “Investments — Equity Method and Joint Ventures.” The Company applies the equity method of accounting to investments of less than 50% in an investee over which the Company has the ability to exercise significant influence but does not have control, and investments of greater than 50% in an investee over which the Company does not exercise significant influence or have control. Under the equity method of accounting, the Company’s share of the investee’s earnings or loss is recognized in the statement of operations. As of December 31, 2025, the Company’s proportionate share of the income or loss from equity method investments is recognized on a two-month lag for its significant equity method investments.
+
+Judgment regarding the level of influence over each equity method investment includes considering key factors such as, but not limited to, ownership interest, representation on the board of directors, participation in policy-making decisions, material intercompany transactions and extent of ownership by an investor in relation to the concentration of other shareholdings. Additionally, an investment in a limited liability company that maintains a specific ownership account for each investor shall be viewed as similar to an investment in a limited partnership for purposes of determining whether a non-controlling investment shall be accounted for using the equity method or as an investment over which we do not have the ability to exercise significant influence.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The Company reviews its investments to determine if a loss in value which is other than a temporary decline has occurred. If such a loss has occurred, the Company recognizes an impairment provision. There were no significant impairments of the Company’s equity investments for the years ended December 31, 2025, 2024 and 2023.
+
+Other Accrued Liabilities
+
+The Company’s accrued liabilities are financial instruments for which the carrying value approximates fair value.
+
+Other accrued liabilities consist of the following at December 31, 2025 and 2024:
+
+Revenue and Royalties Payable
+
+For certain oil and natural gas properties, where the Company serves as operator, the Company receives production proceeds from the purchaser and further distributes such amounts to other revenue and royalty owners. Production proceeds that the Company has not yet distributed to other revenue and royalty owners are reflected as revenue and royalties payable in the accompanying consolidated balance sheets. The Company recognizes revenue for only its net revenue interest in oil and natural gas properties.
+
+Capitalized Interest
+
+The Company capitalizes interest on expenditures made in connection with exploration and development projects that are not subject to current amortization. Interest is capitalized only for the period that activities are in progress to bring these unevaluated properties to their intended use. Capitalized interest cannot exceed gross interest expense. See Note 8— Debt for further details.
+
+Debt Issuance Costs
+
+Long-term debt includes capitalized costs related to the senior notes, net of accumulated amortization. The costs associated with the senior notes are netted against the senior notes balances and are amortized over the term of the senior notes using the effective interest method. See Note 8— Debt for further details. The costs associated with the Company’s credit facilities and term loans are included in other assets on the consolidated balance sheet and are amortized over the term of the facility.
+
+Asset Retirement Obligations
+
+The Company measures the future cost to retire its tangible long-lived assets and recognizes such cost as a liability for legal obligations associated with the retirement of long-lived assets that result from the acquisition, construction or normal operation of a long-lived asset.
+
+Asset retirement obligations represent the future abandonment costs of tangible assets, namely wells. The fair value of a liability for an asset’s retirement obligation is recorded in the period in which it is incurred if a reasonable estimate of fair value can be made, and the corresponding cost is capitalized as part of the carrying amount of the related long-lived asset.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The liability is accreted to its then present value each period, and the capitalized cost is depreciated over the useful life of the related asset. If the liability is settled for an amount other than the recorded amount or if there is a change in the estimated liability, the difference is recorded in oil and natural gas properties.
+
+The initial measurement of asset retirement obligations at fair value is calculated using discounted cash flow techniques and based on internal estimates of future retirement costs associated with the future plugging and abandonment of wells and related facilities. For additional information regarding the Company’s asset retirement obligations, see Note 6— Asset Retirement Obligations .
+
+Variable Interest Entity
+
+Viper is a publicly traded corporation formed by the Company in 2014 to provide an attractive return to its stockholders (the largest of which is Diamondback) by focusing on business results, maximizing dividends through organic growth and pursuing accretive growth opportunities through acquisitions of mineral, royalty, overriding royalty, net profits and similar interests from the Company and from third parties. Viper has no employees and the Company provides management, operating and administrative services to Viper under a services and secondment agreement, including the services of the executive officers and other employees.
+
+In connection with the reduction of the Company’s ownership percentage in Viper to below 50 % in March 2024, the Company re-evaluated whether Viper should continue to be consolidated in the Company’s financial statements. Viper meets the definition of a VIE under ASC Topic 810, “Consolidation,” and the Company continues to be the primary beneficiary of the VIE through its ability, via existing contractual agreements, to direct the activities that most significantly affect Viper’s economic performance. The Company also has the obligation to absorb losses and the right to receive benefits that could be significant to Viper. As such, the Company continues to consolidate the activity of Viper. The Viper 2024 Equity Offering, the Viper 2025 Equity Offering (each as defined and discussed in Note 9— Stockholders’ Equity and Earnings (Loss) Per Share ), the 2025 Drop Down and Viper’s Sitio Acquisition (each as defined and discussed in Note 4— Acquisitions and Divestitures ) were evaluated and determined not to be events that would cause the Company to change its conclusion regarding Viper’s status as a VIE, and the Company continues to be the primary beneficiary.
+
+Viper maintains its own capital structure that is separate from the Company, and the Company is not under any obligation to provide additional financial support or investment to Viper. Viper’s assets cannot be used by the Company for general corporate purposes, and the creditors of Viper’s liabilities do not have recourse to the Company’s assets. The assets and liabilities of Viper are included in the Company’s consolidated balance sheets and disclosed parenthetically, if material.
+
+Environmental Compliance and Remediation
+
+Environmental compliance and remediation costs, including ongoing maintenance and monitoring, are expensed as incurred. Liabilities are accrued when environmental assessments and remediation are probable, and the costs can be reasonably estimated.
+
+Recent Accounting Pronouncements
+
+Recently Adopted Pronouncements
+
+In December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740) – Improvements to Income Tax Disclosures,” which requires that certain information in a reporting entity’s tax rate reconciliation be disaggregated and provides additional requirements regarding income taxes paid. The Company adopted the amendments in 2025 and applied the guidance on a retrospective basis. Adoption of the update resulted in additional disclosures in Note 11— Income Taxes but did not impact the Company’s financial position, results of operations or liquidity.
+
+In September 2025, the FASB issued ASU 2025-07, “Derivatives and Hedging (Topic 815) and Revenue from Contracts with Customers (Topic 606) – Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract.” The ASU addresses (i) the application of derivative accounting to contracts that include features based on the operations or activities of one of the parties to the contract, and (ii) diversity in practice related to accounting for share-based noncash consideration from a customer. The Company elected to early-adopt this amendment in 2025 and applied the guidance on a prospective basis. Adoption of the update did not impact the
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Company’s historical financial position, results of operations or liquidity; however, the guidance may affect whether certain new arrangements qualify for derivative accounting.
+
+Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40) – Disaggregation of Income Statement Expenses,” which requires additional disclosure about specified categories of expenses included in relevant expense captions presented on the income statement. The amendments are effective for annual periods beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The amendments may be applied either prospectively or retrospectively. Management is currently evaluating this ASU to determine its impact on the Company’s disclosures. Adoption of the update will not impact the Company’s financial position, results of operations or liquidity.
+
+The Company considers the applicability and impact of all ASUs. ASUs not listed above were assessed and determined to be either not applicable, previously disclosed, or not material upon adoption.
+
+3. REVENUE FROM CONTRACTS WITH CUSTOMERS
+
+Revenue from Contracts with Customers
+
+The following tables present the Company’s revenue from contracts with customers:
+
+The following tables present the Company’s revenue from oil, natural gas and natural gas liquids disaggregated by basin:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Customers
+
+The Company is subject to risk resulting from the concentration of its crude oil and natural gas sales and receivables with several significant purchasers. For the year ended December 31, 2025, four purchasers each accounted for more than 10% of our revenue: Medallion Midstream ( 16 %), Shell Trading (USA) Company (“Shell”) ( 13 %), Enterprise Crude Oil LLC (“Enterprise”) ( 12 %) and Vitol Inc. (“Vitol”) ( 11 %). For the year ended December 31, 2024, four purchasers each accounted for more than 10% of the Company’s revenue: Vitol ( 17 %), Enterprise ( 15 %), Shell ( 13 %) and DK Trading & Supply LLC (“DK”) ( 11 %). For the year ended December 31, 2023, four purchasers each accounted for more than 10% of the Company’s revenue: Vitol ( 22 %), DK ( 18 %), Shell ( 14 %) and Enterprise ( 13 %). The Company does not require collateral and does not believe the loss of any single purchaser would materially impact its operating results, as crude oil and natural gas are fungible products with well-established markets and numerous purchasers.
+
+4. ACQUISITIONS AND DIVESTITURES
+
+2025 Activity
+
+Diamondback Acquisitions and Divestitures
+
+EPIC Divestiture
+
+On October 31, 2025, the Company divested its 27.5 % equity interest in EPIC Crude Holdings, LP (“EPIC”) pursuant to a definitive purchase and sale agreement with Plains All American Pipeline, L.P. and Plains GP Holdings for approximately $ 504 million in cash and an additional $ 96 million in unrecognized contingent consideration (the “EPIC Divestiture”). The EPIC Divestiture resulted in a gain on the sale of equity method investments of approximately $ 299 million, which is included in the caption “Other income (expense), net” on the consolidated statements of operations for the year ended December 31, 2025. The contingent cash payment is due should the capacity expansion of EPIC be formally sanctioned before year-end 2027.
+
+Divestiture of Water Assets to Deep Blue
+
+On October 1, 2025, the Company divested Environmental Disposal Systems, LLC, a subsidiary originally acquired in connection with the Endeavor Acquisition, to Deep Blue Midland Basin LLC (“Deep Blue”), in exchange for upfront net cash proceeds of $ 694 million, subject to customary post-closing adjustments, and approximately $ 34 million of additional equity interests issued by Deep Blue as non-cash consideration. The transaction provides for the potential for the Company to earn up to an additional $ 200 million. If certain completion thresholds are not met, the Company could owe up to $ 150 million in contingent consideration for the years 2026 through 2028. The Company will recognize any contingent gains when
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+realizable at the end of each annual measurement period, or will accrue a contingent loss if at any time a payable to Deep Blue becomes probable and reasonably estimable. The divestiture resulted in a gain of approximately $ 168 million, which is included in the caption “Other operating expenses, net” on the consolidated statements of operations for the year ended December 31, 2025. As part of the divestiture, the Company renewed its 15-year dedication to Deep Blue for its produced water and supply water within a 12 -county area of mutual interest in the Midland Basin. The Company’s equity ownership interest in Deep Blue remained at 30 % following the closing of the transaction. The cash proceeds from the divestiture were used to repay borrowings under the Credit Agreement (as defined and discussed in Note 8— Debt ) and for general corporate purposes.
+
+2025 Drop Down
+
+On May 1, 2025, the Company’s wholly owned subsidiary Endeavor Energy Resources, LP (“EER LP”) divested all of the issued and outstanding equity interests in 1979 Royalties, LP and 1979 Royalties GP, LLC (collectively, the “Endeavor Subsidiaries”), each of which was a subsidiary of the Company, pursuant to a definitive equity purchase agreement with Viper and Viper LLC in exchange for consideration consisting of (i) $ 873 million in cash including customary post-closing adjustments, and (ii) the issuance of 69.63 million Viper LLC units and an equivalent number of shares of Viper’s Class B common stock (the “2025 Drop Down”). The Company incurred $ 21 million in advisory, legal and filing fees related to the 2025 Drop Down, which are reflected in the consolidated statement of operations in the caption “Other operating expenses, net.” Viper funded the cash consideration for the 2025 Drop Down with a portion of the proceeds from the Viper 2025 Equity Offering (as defined and discussed in Note 9— Stockholders’ Equity and Earnings (Loss) Per Share ) and borrowings under the Viper Revolving Credit Facility (as defined and discussed in Note 8— Debt ). The 2025 Drop Down was accounted for as a transaction between entities under common control.
+
+EER LP can exchange some or all of the Viper LLC units received together with an equal number of shares of Viper’s Class B common stock for an equal number of shares of Viper’s Class A common stock. The mineral and royalty interests held and divested by the Endeavor Subsidiaries at the closing of the 2025 Drop Down represented approximately 24,446 net royalty acres in the Permian Basin, 69 % of which were operated by the Company, have an average net royalty interest of approximately 2.2 % and had oil production as of the closing date of approximately 17,097 BO/d (the “Endeavor Mineral and Royalty Interests”). The Endeavor Mineral and Royalty Interests included interests in horizontal wells comprised of 5,574 gross proved developed production wells (of which approximately 32 % were operated by the Company), 116 gross completed wells and 394 gross drilled but uncompleted wells, all of which were principally concentrated in the Midland Basin, with the balance located primarily in the Delaware and Williston Basins.
+
+Double Eagle Acquisition
+
+On April 1, 2025, the Company completed its acquisition of all of the issued and outstanding interests of DE Permian, LLC, DE IV Combo, LLC and DE IV Operating, LLC, each of which were wholly owned subsidiaries of Double Eagle IV Midco, LLC (the “Double Eagle Acquisition”) for consideration of $ 3.1 billion in cash and approximately 6.84 million shares of the Company’s common stock, including transaction costs and subject to certain customary post-closing adjustments. The assets acquired in the Double Eagle Acquisition consisted of approximately 67,700 gross ( 40,000 net) acres, which are primarily located in the Midland Basin and approximately 407 gross ( 342 net) horizontal locations in primary development targets. The Company funded the cash portion of the Double Eagle Acquisition through a combination of proceeds from the 2035 Notes (as defined and discussed in Note 8— Debt ), proceeds from the 2025 Term Loan (as defined and discussed in Note 8— Debt ) and borrowings under the Company’s revolving credit facility. The Double Eagle Acquisition was accounted for as an asset acquisition in accordance with ASC Topic 805, “Business Combinations.”
+
+Other Transactions
+
+During the year ended December 31, 2025, the Company completed individually insignificant acquisitions for an aggregate purchase price of approximately $ 879 million, including customary closing adjustments.
+
+The Company divested non-core assets in individually insignificant transactions for an aggregate of approximately $ 464 million in proceeds, including customary closing adjustments, during the year ended December 31, 2025.
+
+During the year ended December 31, 2025, the Company exchanged assets valued at approximately $ 835 million, including customary closing adjustments, in individually insignificant non-monetary transactions.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Viper Acquisition
+
+Sitio Acquisition
+
+On August 19, 2025, Viper completed a series of transactions in which New Viper acquired Sitio Royalties Corp. (“Sitio”), Sitio Royalties Operating Partnership, LP (“Sitio OpCo”) and their respective subsidiaries, pursuant to the Agreement and Plan of Merger, dated June 2, 2025, by and among Former Viper, Viper LLC, Sitio, Sitio OpCo, New Viper, Cobra Merger Sub, Inc. and Scorpion Merger Sub, Inc. (the “Sitio Acquisition”). The Sitio Acquisition was an all-equity transaction valued at approximately $ 4.0 billion, including customary transaction costs and post-closing adjustments and the partial retirement of Sitio’s net debt of approximately $ 1.2 billion.
+
+The mineral and royalty interests acquired in the Sitio Acquisition represent approximately 25,300 net royalty acres in the Permian Basin and approximately 9,000 net royalty acres in the Denver-Julesburg, Eagle Ford and Williston basins, for total acreage of approximately 34,300 net royalty acres. See Note 16— Subsequent Events for discussion of divestiture of the Viper non-Permian acreage in 2026. The Sitio Acquisition was accounted for as an asset acquisition in accordance with ASC Topic 805, “Business Combinations.”
+
+2024 Activity
+
+Diamondback Acquisitions and Divestiture
+
+TRP Exchange
+
+On December 20, 2024, the Company completed a transaction with TRP Energy, LLC (“TRP”), in which the Company exchanged certain assets including approximately 47,034 gross ( 35,673 net) acres located in the Delaware Basin and $ 312 million in cash, subject to customary post-closing adjustments, for certain of TRP’s assets consisting of approximately 21,582 gross ( 15,421 net) acres located in the Midland Basin with 55 operated locations (the “TRP Exchange”). The TRP Exchange expanded our operating footprint and enhanced our inventory of near-term drilling locations, and was valued at approximately $ 1.3 billion. The Company funded the cash portion of the exchange with cash on hand and borrowings under its revolving credit facility.
+
+The following table presents the acquisition consideration transferred in the TRP Exchange (in millions):
+
+Acquisition Date Fair Value of Consideration Transferred
+
+The acquisition date fair value of oil and natural gas properties transferred was determined using an income approach utilizing the discounted cash flow method, which takes into account production forecasts, projected commodity prices and pricing differentials, and estimates of future capital and operating costs which were then discounted utilizing an estimated weighted-average cost of capital for industry market participants. These inputs are not observable in the market and are considered level 3 inputs within the fair value hierarchy. The oil and natural gas properties transferred did not significantly impact the Company’s capitalized costs or proved reserves as of December 31, 2024.
+
+The acquisition date fair value of midstream assets transferred was determined based on the cost approach, which utilized asset listings and cost records with consideration for the age, condition, utilization and economic support of the assets.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Allocation of Consideration Transferred
+
+The TRP Exchange has been accounted for under the acquisition method of accounting for business combinations in accordance with ASC Topic 805, “Business Combinations.” The following table represents the allocation of the total consideration transferred in the TRP Exchange to the identifiable assets acquired and the liabilities assumed based on the fair values at the acquisition date. The purchase price allocation was completed in December 2025.
+
+The following table sets forth the Company’s purchase price allocation (in millions):
+
+With the completion of the TRP Exchange, the Company acquired proved properties of $ 851 million and unproved properties of $ 502 million.
+
+The results of operations attributable to the TRP Exchange since the acquisition date have been included in the consolidated statements of operations and were insignificant for the year ended December 31, 2024.
+
+Endeavor Acquisition
+
+On September 10, 2024, the Company completed its acquisition of Endeavor Parent, LLC (“Endeavor”) (the “Endeavor Acquisition”) for consideration consisting of (i) $ 7.1 billion in cash paid to the Endeavor equityholders, (ii) $ 238 million for the repayment of Endeavor’s net debt, which included the $ 219 million net debt position and the associated $ 19 million make-whole premium paid upon redemption of the senior notes and costs incurred to terminate Endeavor’s revolving credit facility, and (iii) approximately 117.27 million shares of the Company’s common stock. The Endeavor Acquisition included approximately 500,849 gross ( 361,927 net) acres, which are primarily located in the Permian Basin. Following the Endeavor Acquisition, the Company believes its inventory has industry-leading depth and quality that will be converted into cash flow with the industry’s lowest cost structure, creating a differentiated value proposition for Diamondback stockholders.
+
+The cash consideration for the Endeavor Acquisition was funded through a combination of cash on hand, the net proceeds from the Company’s April 2024 Notes offering and borrowings under the Tranche A Loans. Immediately following the close of the Endeavor Acquisition, Endeavor equityholders held approximately 39.8 % of Diamondback’s common stock. As of December 31, 2025, Endeavor’s equityholders held approximately 35.8 % of the Company’s common stock.
+
+Following the closing of the Endeavor Acquisition, the Company filed with the SEC a shelf registration statement, which became immediately effective upon filing, registering for resale the shares of common stock issued in the Endeavor Acquisition, as required by the terms of the related registration rights agreement.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The following table presents the acquisition consideration paid to Endeavor equityholders in the Endeavor Acquisition (in millions, except per share data, shares in thousands):
+
+Purchase Price Allocation
+
+The Endeavor Acquisition was accounted for under the acquisition method of accounting for business combinations in accordance with ASC Topic 805, “Business Combinations.” The following table represents the allocation of the total purchase price for the acquisition of Endeavor to the identifiable assets acquired and the liabilities assumed based on the fair values at the acquisition date. The purchase price allocation was completed in September 2025.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The following table sets forth the Company’s purchase price allocation (in millions):
+
+The purchase price allocation above is based on the fair values of the assets and liabilities of Endeavor as of the closing date of the Endeavor Acquisition. The majority of the value of assets acquired and liabilities assumed was measured based on inputs that are not observable in the market and are therefore considered Level 3 inputs. The fair value of acquired property and equipment is based on the cost approach, which utilized asset listings and cost records with consideration for the reported age, condition, utilization and economic support of the assets. Oil and natural gas properties were valued using an income approach utilizing the discounted cash flow method, which takes into account production and mineral interest forecasts, projected commodity prices and pricing differentials, and estimates of future capital and operating costs which were then discounted utilizing an estimated weighted-average cost of capital for industry market participants. The value of derivative instruments was based on observable inputs including forward commodity-price curves which are considered Level 2 inputs. Deferred income taxes represent the tax effects of differences in the tax basis and acquisition-date fair values of assets acquired and liabilities assumed. The fair values of asset retirement obligations and inventories were calculated in accordance with the Company’s internal policies as described in Note 2— Summary of Significant Accounting Policies . The fair values of various current assets and liabilities including accounts receivable and accounts payable approximate their carrying values on the closing date of the Endeavor Acquisition because of the short-term nature of the instruments.
+
+With the completion of the Endeavor Acquisition, the Company acquired proved properties of $ 20.6 billion and unproved properties of $ 14.2 billion, primarily in the Midland Basin.
+
+The results of operations attributable to the Endeavor Acquisition since the acquisition date have been included in the consolidated statements of operations and include $ 1.8 billion of total revenue and $ 459 million of net income for the year ended December 31, 2024.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+WTG Midstream Transaction
+
+The Company owns a 25 % non-operating equity investment in Remuda Midstream Holdings LLC, referred to as the “WTG joint venture.” On July 15, 2024, the WTG joint venture sold its subsidiary, WTG Midstream LLC, (the “WTG Midstream Transaction”) for which the Company received as its portion of the consideration 10.1 million common units issued by Energy Transfer LP (NYSE: ET) and $ 190 million in cash, subject to customary post-closing adjustments. The common unit consideration was also subject to preferred distributions to incentive members of the WTG joint venture which reduced the proceeds attributable to the Company. At the closing of the WTG Midstream Transaction, the value attributable to the Company of the 10.1 million common units was approximately $ 135 million, of which approximately $ 81 million was received by the Company and $ 54 million was initially held in escrow pursuant to an escrow agreement entered into by the WTG joint venture in connection with the initial transaction. In the third quarter of 2025, the Company received approximately $ 15 million related to the settlement of working capital and the full $ 54 million of the escrow amount was released. The total value of distributions received by the Company of $ 336 million, including certain post-closing adjustments, exceeded the carrying value of the Company’s investment balance in the WTG joint venture, resulting in an aggregate gain of approximately $ 139 million, of which approximately $ 65 million was recognized during the year ended December 31, 2025, respectively. The gain is included in the caption “Other income (expense), net” in the consolidated statement of operations.
+
+Viper Acquisitions
+
+Viper Tumbleweed Acquisitions
+
+In September and October of 2024, Viper completed a series of related acquisitions including the Viper TWR Acquisition, the Viper Q Acquisition and the Viper M Acquisition, (collectively the “Viper Tumbleweed Acquisitions”) each as defined and discussed below. The Viper Tumbleweed Acquisitions were each accounted for as asset acquisitions in accordance with ASC Topic 805, “Business Combinations.”
+
+On October 1, 2024, Viper acquired all of the issued and outstanding equity interests in TWR IV, LLC and TWR IV SellCo, LLC from Tumbleweed Royalty IV, LLC (“TWR IV”) and TWR IV SellCo Parent, LLC (the “Viper TWR Acquisition”), pursuant to a definitive purchase and sale agreement for consideration consisting of (i) approximately $ 464 million in cash, including transaction costs and certain customary post-closing adjustments, (ii) approximately 10.09 million Viper LLC units to TWR IV, (iii) an option granted to TWR IV to acquire up to 10.09 million shares of Viper’s Class B common stock (the “TWR Class B Option”), and (iv) contingent cash consideration of $ 16 million paid in January 2026 based on the average price of WTI sweet crude oil prompt month futures contracts for the calendar year 2025 (the “WTI 2025 Average”).
+
+TWR IV can exchange some or all of its Viper LLC units for an equal number of shares of Viper’s Class A common stock. The mineral and royalty interests acquired in the Viper TWR Acquisition represent approximately 3,067 net royalty acres located primarily in the Permian Basin. Viper funded the cash consideration for the Viper TWR Acquisition through a combination of cash on hand, borrowings under Viper’s then revolving credit facility and proceeds from the Viper 2024 Equity Offering (as defined and discussed in Note 9— Stockholders’ Equity and Earnings (Loss) Per Share ).
+
+On September 3, 2024, Viper acquired all of the issued and outstanding equity interests in Tumbleweed-Q Royalties, LLC (the “Viper Q Acquisition”), pursuant to a definitive purchase and sale agreement for consideration consisting of (i) approximately $ 114 million in cash, including transaction costs and certain customary post-closing adjustments, and (ii) contingent cash consideration of $ 2 million paid in January 2026 based on the WTI 2025 Average.
+
+Additionally, on September 3, 2024, Viper acquired all of the issued and outstanding equity interests in MC TWR Royalties, LP and MC TWR Intermediate, LLC (the “Viper M Acquisition” and together with the Viper Q Acquisition, the “Viper Q & M Acquisitions”), pursuant to a definitive purchase and sale agreement for consideration consisting of (i) approximately $ 76 million in cash, including transaction costs and certain customary post-closing adjustments, and (ii) contingent cash consideration of $ 2 million paid in January 2026 based on the WTI 2025 Average. The mineral and royalty interests acquired in the Viper Q & M Acquisitions represent approximately 406 and 267 net royalty acres located primarily in the Permian Basin, respectively. Viper funded the cash consideration for the Viper Q & M Acquisitions through a combination of cash on hand and borrowings under Viper’s then revolving credit facility.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The contingent consideration liabilities for each of the Viper Tumbleweed Acquisitions discussed above are collectively referred to as the “2026 WTI Contingent Liability”.
+
+2023 Activity
+
+Diamondback Acquisition and Divestitures
+
+Lario Acquisition
+
+On January 31, 2023, the Company closed on its acquisition of all leasehold interests and related assets of Lario Permian, LLC, a wholly owned subsidiary of Lario Oil and Gas Company, and certain associated sellers. The acquisition included approximately 25,000 gross ( 16,000 net) acres in the Midland Basin and certain related oil and gas assets (the “Lario Acquisition”), in exchange for consideration of 4.33 million shares of the Company’s common stock and $ 814 million in cash, including customary post-closing adjustments. Approximately $ 113 million of the cash consideration was deposited in an indemnity holdback escrow account at closing and was distributed upon satisfactory settlement of any potential title defects on the acquired properties during the first quarter of 2024. The cash consideration for the Lario Acquisition was funded through a combination of cash on hand, a portion of the net proceeds from the Company’s offering of 6.250 % Senior Notes due 2053 and borrowings under the Company’s revolving credit facility.
+
+The following table presents the acquisition consideration paid in the Lario Acquisition (in millions, except per share data, shares in thousands):
+
+Purchase Price Allocation
+
+The Lario Acquisition was accounted for as a business combination using the acquisition method. The following table represents the allocation of the total purchase price paid in the Lario Acquisition to the identifiable assets acquired and the liabilities assumed based on the fair values at the acquisition date. The purchase price allocation was completed in December 2023.
+
+The following table sets forth the Company’s purchase price allocation (in millions):
+
+Oil and natural gas properties were valued using an income approach utilizing the discounted cash flow method, which takes into account production forecasts, projected commodity prices and pricing differentials, and estimates of future capital and operating costs which were then discounted utilizing an estimated weighted-average cost of capital for industry
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+market participants. The fair value of acquired midstream assets, vehicles and a field office were based on the cost approach, which utilized asset listings and cost records with consideration for the reported age, condition, utilization and economic support of the assets and were included in the Company’s consolidated balance sheets under the caption “Other property, equipment and land.” The majority of the measurements of assets acquired and liabilities assumed are based on inputs that are not observable in the market and are therefore considered Level 3 inputs in the fair value hierarchy.
+
+With the completion of the Lario Acquisition, the Company acquired proved properties of $ 924 million and unproved properties of $ 536 million. The results of operations attributable to the Lario Acquisition since the acquisition date have been included in the consolidated statements of operations and include $ 488 million of total revenue and $ 200 million of net income for the year ended December 31, 2023.
+
+Divestiture of Deep Blue Water Assets and Deep Blue Formation
+
+On September 1, 2023, the Company closed on a joint venture agreement with Five Point Energy LLC (“Five Point”) to form Deep Blue. At closing, the Company contributed certain treated water, fresh water and saltwater disposal assets (the “Deep Blue Water Assets”) with a net carrying value of $ 703 million, including certain post-closing adjustments, and Five Point contributed $ 251 million in cash to Deep Blue. In exchange for these contributions, Deep Blue issued the Company a one-time cash distribution of approximately $ 516 million and a 30 % equity ownership and voting interest, and issued to Five Point a 70 % equity ownership and voting interest. Five Point is not considered a related party of the Company.
+
+Additionally, under a separate agreement with Deep Blue, the Company continued to operate the Deep Blue Water Assets on a short-term basis. Five Point agreed to pay the Company approximately $ 47 million upon the successful transfer of operations to Deep Blue and the Company recorded approximately $ 43 million as a contingent consideration receivable on the closing date based on the assessed probability of earning the additional consideration. Upon the successful transfer of operations in June 2024, the Company received the full contingent consideration amount of $ 47 million.
+
+The Company recorded its 30 % equity interest in Deep Blue at fair value based on the cash consideration and contingent consideration contributed by Five Point to Deep Blue in exchange for its 70 % equity ownership. The Company’s equity method investment in Deep Blue had an initial fair value of $ 126 million. The Company’s proportionate share of the income or loss from Deep Blue is recognized on a two-month lag. The Company has recognized an aggregate $ 13 million loss on the sale of its Deep Blue Water Assets, of which approximately $ 1 million was recognized during the year ended December 31, 2024. The loss on the sale of Deep Blue Water Assets is included in the caption “Other operating expenses” in the consolidated statement of operations. The majority of measurements utilized to determine the fair value amounts reported above relating to this transaction are based on inputs that are not observable in the market and are therefore considered Level 3 inputs in the fair value hierarchy.
+
+The Company and Five Point anticipate collectively contributing $ 500 million in follow-on capital to fund future growth projects and acquisitions.
+
+As part of the transaction, the Company also entered into a 15-year dedication with Deep Blue for its produced water and supply water within a 12 -county area of mutual interest in the Midland Basin. See Note 7— Related Party Transactions for further discussion of transactions with Deep Blue.
+
+Equity Method Investment Divestitures
+
+During 2023, the Company divested its 43 % limited liability company interest in OMOG JV LLC and its 10 % non-operating equity investment in Gray Oak Pipeline, LLC for an aggregate $ 397 million. These divestitures resulted in an aggregate gain on the sale of equity method investments of approximately $ 88 million, which is included in the caption “Other income (expense), net” on the consolidated statements of operations for the year ended December 31, 2023. The Company used its net proceeds from this transaction for debt reduction and other general corporate purposes.
+
+Non-Core Asset Divestitures
+
+During 2023, the Company divested non-core assets to unrelated third-party buyers consisting of approximately 19,000 net acres in Glasscock County, TX and 4,900 net acres in Ward County and Winkler County, TX for net cash proceeds of $ 341 million, including customary post-closing adjustments. The Company used its net proceeds from these transactions for debt reduction and other general corporate purposes.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The divestitures of non-core oil and gas assets did not result in a significant alteration of the relationship between the Company’s capitalized costs and proved reserves and, accordingly, the Company recorded the proceeds as a reduction of its full cost pool with no gain or loss recognized on the sales.
+
+Viper Acquisitions
+
+GRP Acquisition
+
+On November 1, 2023, Viper acquired certain mineral and royalty interests from Royalty Asset Holdings, LP, Royalty Asset Holdings II, LP and Saxum Asset Holdings, LP, affiliates of Warwick Capital Partners and GRP Energy Capital, pursuant to a definitive purchase and sale agreement for approximately 9.02 million Viper common units and $ 747 million in cash, including transaction costs and certain customary post-closing adjustments (the “GRP Acquisition”). The mineral and royalty interests acquired in the GRP Acquisition represent approximately 4,600 net royalty acres in the Permian Basin, plus approximately 2,700 additional net royalty acres in other major basins. The cash consideration for the GRP Acquisition was funded through a combination of cash on hand and held in escrow, borrowings under Viper’s then revolving credit facility, proceeds from the Viper 2031 Notes (as defined and discussed in Note 8— Debt ) and proceeds from a $ 200 million common unit issuance to Diamondback discussed further in Note 9— Stockholders’ Equity and Earnings (Loss) Per Share .
+
+Pro Forma Financial Information (Unaudited)
+
+The following unaudited summary pro forma financial information for the years ended December 31, 2024 and 2023 has been prepared to give effect to (i) the Endeavor Acquisition as if it had occurred on January 1, 2023, and (ii) the TRP Exchange as if it had occurred on January 1, 2023. The unaudited pro forma financial information does not purport to be indicative of what the combined company’s results of operations would have been if the transaction had occurred on the dates indicated, nor is it indicative of the future financial position or results of operations of the combined company.
+
+The below information reflects pro forma adjustments for the issuance of the Company’s common stock as consideration for the Endeavor Acquisition, as well as pro forma adjustments based on available information and certain assumptions that the Company believes are reasonable, including adjustments to depreciation, depletion and amortization based on the full cost method of accounting.
+
+Additionally, pro forma earnings for the year ended December 31, 2024 include historical acquisition-related costs incurred by Endeavor of $ 415 million, which consist primarily of incentive compensation, investment banking and legal costs. The Company incurred acquisition related costs of $ 303 million for the year ended December 31, 2024 which consist primarily of $ 197 million in severance and accelerated incentive compensation payments to former Endeavor employees, $ 78 million in investment banking and legal costs incurred upon the closing of the Endeavor Acquisition, $ 14 million related to regulatory reviews under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and other individually insignificant items including SEC filing fees and other professional fees. The Company incurred acquisition costs of $ 42 million in connection with the Endeavor Acquisition for the year ended December 31, 2025, which primarily consist of severance and accelerated incentive compensation payments to former Endeavor employees. The Company incurred acquisition related costs of $ 10 million for the year ended December 31, 2025, which primarily consist of advisory and legal fees related to the TRP Exchange. The pro forma results of operations do not include any cost savings or other synergies that may result from the Endeavor Acquisition or any estimated costs that have been or will be incurred by the Company to integrate the acquired assets. The pro forma financial data does not include the results of operations for any other acquisitions made during the periods presented, as they were primarily acreage acquisitions, and their results were not deemed material.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+5. PROPERTY AND EQUIPMENT
+
+Property and equipment includes the following as of the dates indicated:
+
+The following table presents the balance of costs not subject to depletion as of December 31, 2025 by the period in which the costs were incurred:
+
+Costs associated with unevaluated properties are not subject to depletion and excluded from the full cost pool until the Company has made a determination as to the existence of proved reserves. Although the evaluation process has not been completed on our unevaluated properties, the Company currently estimates these costs will be added to the amortization base within fifteen years .
+
+The Company capitalized internal costs of approximately $ 102 million, $ 90 million and $ 66 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Under the full cost method of accounting, the Company is required to perform a ceiling test each quarter which determines a limit, or ceiling, on the book value of proved oil and natural gas properties. As a result of the decline in commodity prices during 2025, the Company recorded a non-cash ceiling test impairment for the year ended December 31, 2025 of $ 3.7 billion, which is included in accumulated depletion, depreciation, amortization and impairment on the
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+consolidated balance sheet. The impairment charge affected the Company’s reported net income but did not reduce its cash flow. No impairment expense was recorded for the years ended December 31, 2024 and 2023.
+
+In addition to commodity prices, the Company’s production rates, levels of proved reserves, future development costs, transfers of unevaluated properties and other factors will determine its actual ceiling test calculation and impairment analysis in future periods. If the future trailing 12 -month commodity prices decline as compared to the commodity prices used in prior quarters, the Company may have material write downs in subsequent quarters. It is possible that circumstances requiring additional impairment testing will occur in future interim periods, which could result in potentially material impairment charges being recorded.
+
+6. ASSET RETIREMENT OBLIGATIONS
+
+The following table describes the changes to the Company’s asset retirement obligations liability for the following periods:
+
+(1) The current portion of the asset retirement obligation is included in the caption “Other accrued liabilities” in the Company’s consolidated balance sheets.
+
+(2) The long-term portion of the asset retirement obligation is included in the caption “Other long-term liabilities” in the Company’s consolidated balance sheets.
+
+The Company’s asset retirement obligations primarily relate to the future plugging and abandonment of wells and related facilities. The Company estimates the future plugging and abandonment costs of wells, the ultimate productive life of the properties, a risk-adjusted discount rate and an inflation factor in order to determine the current present value of this obligation. To the extent future revisions to these assumptions impact the present value of the existing asset retirement obligation liability, a corresponding adjustment is made to the oil and natural gas property balance.
+
+7. RELATED PARTY TRANSACTIONS
+
+Related Party Transactions
+
+Deep Blue
+
+The Company considers its equity method investments to be related parties. At December 31, 2025, the Company’s only significant equity method investment was its 30 % equity ownership interest in Deep Blue, which is included in the caption “Other assets” on the Company’s consolidated balance sheets. Additionally, the Company has other related party transactions with Deep Blue in the ordinary course of business, which result in (i) certain accounts receivable due from Deep Blue, (ii) accrued capital expenditures and other accrued payables related to a commitment to fund certain capital expenditures on projects that were in process at the time of the Deep Blue transaction, and (iii) lease operating expenses and capitalized expenses related to fees paid to Deep Blue under a 15-year dedication for its produced water and supply water within a 12 -county area of mutual interest in the Midland Basin.
+
+For further discussion on additional transactions with Deep Blue, see Note 4— Acquisitions and Divestitures .
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The following table presents related party balances that pertain to Deep Blue which are included in the consolidated balance sheets at December 31, 2025 and 2024:
+
+During the years ended December 31, 2025 and 2024, the Company recorded approximately $ 199 million and $ 135 million, respectively, for water services provided by Deep Blue during the completion phase of wells. These costs were capitalized and any remaining unamortized costs are included in the caption “Oil and natural gas properties” on the consolidated balance sheets.
+
+The following table presents the significant related party transactions included in the consolidated statements of operations for the years ended December 31, 2025 and 2024:
+
+Viper
+
+For discussion on related party transactions with Viper, see Note 4— Acquisitions and Divestitures —2025 Drop Down.
+
+SGF Common Stock Repurchases
+
+On November 28, 2025, the Company entered into a letter agreement with SGF FANG Holdings, LP (“SGF”). SGF includes certain Endeavor equityholders that received shares of the Company’s common stock as partial consideration for the Endeavor Acquisition, and as a result, is considered a related party of the Company under ASC Topic 850 “Related Party Disclosures.” The letter agreement provides SGF with the right, but not the obligation, to sell up to 3.0 million shares of the Company’s common stock to the Company per quarter through December 31, 2026 at the most recent Nasdaq closing price of such transaction, pursuant to the letter agreement. Pursuant to the letter agreement, on the same date, the Company agreed to repurchase 2.0 million shares of its common stock held by SGF at $ 152.59 per share. Repurchases under the letter agreement are pursuant to the Company’s existing share repurchase program, and have been approved by the audit committee of the Company’s board of directors. For details on the Company’s existing share repurchase program, see Note 9— Stockholders’ Equity and Earnings (Loss) Per Share . See Note 16— Subsequent Events for repurchases from SGF during the first quarter of 2026.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+8. DEBT
+
+The Company’s debt consisted of the following as of the dates indicated:
+
+(1) QEP remained the issuer of these senior notes subsequent to becoming a wholly owned subsidiary of the Company.
+
+(2) Represents the unamortized basis adjustment related to two receive-fixed, pay variable interest rate swap agreements which were previously designated as fair value hedges of the Company’s 3.500 % fixed rate senior notes due 2029 (the “2029 Notes”). This basis adjustment is being amortized to interest expense over the remaining term of the 2029 Notes utilizing the effective interest method. See Note 12— Derivatives for further discussion on the interest rate swaps.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Debt maturities as of December 31, 2025, excluding debt issuance costs, premiums and discounts and the unamortized basis adjustment of dedesignated interest rate swap agreements are as follows:
+
+References in this section to the Company shall mean Diamondback Energy, Inc. and Diamondback E&P, collectively, unless otherwise specified.
+
+Credit Agreement
+
+On June 12, 2025, Diamondback E&P, as borrower, and Diamondback Energy, Inc., as parent guarantor, entered into a sixteenth amendment to the existing credit agreement (the “Credit Agreement”), which among other things (i) extended the maturity date to June 12, 2030, and (ii) decreased the interest rate as discussed below. The Credit Agreement provides for a maximum credit amount of $ 2.5 billion, which may be further increased to a total maximum commitment of $ 2.6 billion. As of December 31, 2025, the Company had no outstanding borrowings and approximately $ 2.5 billion available for future borrowings under the Credit Agreement. During the years ended December 31, 2025, 2024 and 2023, the weighted average interest rate on borrowings under the Credit Agreement was 5.60 %, 6.33 % and 6.31 %, respectively.
+
+After giving effect to the amendment, outstanding borrowings under the Credit Agreement bear interest at a per annum rate elected by Diamondback E&P that is equal to (i) term SOFR or (ii) an alternate base rate (which is equal to the greatest of the prime rate, the Federal Funds effective rate plus 0.50 %, and 1-month term SOFR plus 1.0 %, subject to a 1.0 % floor), in each case plus the applicable margin. The applicable margin ranges from 0.000 % to 0.750 % per annum in the case of the alternate base rate and from 1.000 % to 1.750 % per annum in the case of term SOFR, in each case based on the pricing level, and the commitment fee ranges from 0.100 % to 0.250 % per annum on the average daily unused portion of the commitments, based on the pricing level. The pricing level depends on the Company’s long-term senior unsecured debt ratings.
+
+The Credit Agreement contains a financial covenant that requires the Company to maintain a Total Net Debt to Capitalization Ratio (as defined in the Credit Agreement) of no more than 65 %. As of December 31, 2025, the Company was in compliance with all financial maintenance covenants under the revolving credit facility, as then in effect.
+
+Viper’s Revolving Credit Facility
+
+On June 12, 2025, Former Viper, as guarantor, entered into a credit agreement with Viper LLC, as borrower, and Wells Fargo, as the administrative agent (the “Viper Revolving Credit Facility”), which among other things, provides the borrower with a senior unsecured revolving credit facility with a commitment of $ 1.5 billion. The Viper Revolving Credit Facility has a maturity date of June 12, 2030, with the ability to request three extensions of the maturity date by one year . The Viper Revolving Credit Facility was previously guaranteed by certain subsidiaries of the borrower, and upon completion of the Sitio Acquisition, those subsidiary guarantees were released and New Viper and Former Viper became co-guarantors. The Viper Revolving Credit Facility replaced the borrower’s previous revolving credit facility, dated July 20, 2018, among Viper, the borrower and Wells Fargo as amended, restated, amended and restated, supplemented or otherwise modified prior to June 12, 2025. As of December 31, 2025, there were $ 105 million in outstanding borrowings and $ 1.4 billion available for future borrowings under the Viper Revolving Credit Facility. During the years ended December 31, 2025, 2024 and 2023, respectively, the weighted average interest rates on borrowings under Viper’s respective revolving credit facilities were 6.02 %, 7.34 % and 7.41 %.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Borrowings under the Viper Revolving Credit Facility bear interest at a per annum rate elected by the borrower that is equal to term SOFR or an alternate base rate (which is equal to the greatest of the prime rate, the federal funds effective rate plus 0.50 % and 1-month term SOFR plus 1.0 %, subject to a 1.0 % floor), in each case plus the applicable margin. The applicable margin ranges from 0.125 % to 1.000 % per annum in the case of the alternative base rate loans and from 1.125 % to 2.000 % per annum in the case of term SOFR loans, in each case based on the pricing level. Further, the commitment fee ranges from 0.125 % to 0.325 % per annum on the average daily unused portion of the commitment, again based on the pricing level. The pricing level depends on the rating of Viper’s long-term senior unsecured debt by certain ratings agencies.
+
+The Viper Revolving Credit Facility contains a financial covenant that requires Viper to maintain a Total Net Debt to Capitalization Ratio (as defined in the Viper Revolving Credit Facility) of no more than 65 %. As of December 31, 2025, the borrower was in compliance with all financial maintenance covenants under the Viper Revolving Credit Facility.
+
+On December 23, 2025, Viper Energy Partners LLC converted its legal form (the “Viper LLC Conversion”), in accordance with the applicable laws of the State of Delaware, to a Delaware limited partnership named Viper Energy Partners LP (“Viper LP”), which is now the borrower under the Viper Revolving Credit Facility.
+
+Term Loan Agreements
+
+Diamondback Term Loan Agreements
+
+2025 Term Loan
+
+In connection with the Double Eagle Acquisition, Diamondback Energy, Inc., as guarantor, entered into a term loan credit agreement with Diamondback E&P, as borrower, and Bank of America, N.A., as administrative agent (the “2025 Term Loan”) on March 21, 2025.
+
+The 2025 Term Loan provided the Company with the ability to borrow up to $ 1.5 billion on an unsecured basis to fund a portion of the cash consideration and expenses for the Double Eagle Acquisition. On April 1, 2025, the date of closing of the Double Eagle Acquisition, the 2025 Term Loan was fully drawn in a single borrowing. Any then-outstanding amounts will mature and be payable in full on the second anniversary of the initial funding date.
+
+During the year ended December 31, 2025, the weighted average interest rate on borrowings under the 2025 Term Loan was 5.64 %.
+
+Outstanding borrowings under the 2025 Term Loan bear interest at a per annum rate elected by the Company that is equal to (i) term SOFR plus 0.10 % (“Adjusted Term SOFR”) or (ii) an alternate base rate (which is equal to the greatest of (a) the Federal Funds effective rate plus 0.50 %, (b) the prime rate, (c) Adjusted Term SOFR plus 1.0 %, and (d) 1.0 %), in each case plus the applicable margin. The applicable margin ranges from 0.125 % to 1.000 % per annum in the case of the alternate base rate and from 1.125 % to 2.000 % per annum in the case of Adjusted Term SOFR, in each case based on the pricing level, and the commitment fee is equal to 0.125 % per annum on the aggregate principal amount of the commitments. The pricing level depends on the Company’s long-term senior unsecured debt ratings.
+
+Tranche A Loans
+
+On February 29, 2024, Diamondback Energy, Inc., as guarantor, entered into a term loan credit agreement with Diamondback E&P, as borrower, and Citibank, N.A., as administrative agent, which at the time of borrowing was comprised of $ 1.0 billion of Tranche A Loans. The Tranche A Loans were fully drawn to fund a portion of the cash consideration for the Endeavor Acquisition.
+
+On May 5, 2025, the Company used the cash proceeds received from the 2025 Drop Down to repay in full and terminate the $ 900 million remaining outstanding Tranche A Loans. During the years ended December 31, 2025 and 2024, the weighted average interest rate on borrowings under the Tranche A Loans was 5.87 % and 6.13 %, respectively.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Viper Term Loan Agreement
+
+Viper 2025 Term Loan
+
+On July 23, 2025, in connection with the Sitio Acquisition, Former Viper, as guarantor, entered into a term loan credit agreement with Viper LLC, as borrower, and Goldman Sachs Bank USA, as administrative agent, (the “Viper 2025 Term Loan”).
+
+The Viper 2025 Term Loan provided Viper with the ability to borrow up to $ 500 million on a senior unsecured basis to fund a portion of the retirement of Sitio’s net debt, in connection with the Sitio Acquisition. On August 19, 2025, the date of closing of the Sitio Acquisition, the Viper 2025 Term Loan was fully drawn in a single borrowing. Any then-outstanding amounts will mature and be payable in full on the second anniversary of the initial funding date. In connection with the closing of the Sitio Acquisition, New Viper became a co-guarantor of the Viper 2025 Term Loan. During the year ended December 31, 2025, the weighted average interest rate on borrowings under the Viper 2025 Term Loan was 5.72 %.
+
+Borrowings under the Viper 2025 Term Loan bear interest at a per annum rate elected by the borrower that is equal to SOFR or an alternate base rate (which is equal to the greatest of the prime rate, the federal funds effective rate plus 0.50 % and 1-month term SOFR plus 1.0 %, subject to a 1.0 % floor), in each case plus the applicable margin. The applicable margin ranges from 0.250 % to 1.125 % per annum in the case of the alternate base rate loans and from 1.250 % to 2.125 % per annum in the case of term SOFR loans, in each case based on the pricing level. The pricing level depends on the rating of Viper’s long-term senior unsecured debt by certain ratings agencies. In addition, the fee on undrawn commitments is equal to 0.20 % per annum on the aggregate principal amount of such commitments.
+
+Following the Viper LLC Conversion, Viper LP, as successor to Viper Energy Partners LLC, became the borrower under the Viper 2025 Term Loan.
+
+Issuance of Notes
+
+2025 Issuance of Notes
+
+Diamondback Senior Notes
+
+On March 20, 2025, the Company issued $ 1.2 billion aggregate principal amount of 5.550 % Senior Notes due April 1, 2035 (the “2035 Notes”), which are included in the Company’s Guaranteed Senior Notes. The Company received net proceeds of $ 1.19 billion, after underwriters’ discounts and transaction costs. Interest on the 2035 Notes is payable semi-annually on April 1 and October 1 of each year, which commenced on October 1, 2025. The Company used the net proceeds to fund a portion of the cash consideration for the Double Eagle Acquisition.
+
+Viper Senior Notes
+
+On July 23, 2025, Viper LLC, as issuer, and Former Viper, as guarantor, issued $ 1.6 billion in aggregate principal amount of senior notes consisting of (i) $ 500 million aggregate principal amount of 4.900 % Senior Notes due August 1, 2030 (the “Viper 2030 Notes”), and (ii) $ 1.1 billion aggregate principal amount of 5.700 % Senior Notes due August 1, 2035 (the “Viper 2035 Notes” and together with the Viper 2030 Notes, the “Viper 2025 Notes”). Viper received net proceeds of approximately $ 1.58 billion, after underwriters’ discounts and transaction costs. Interest on the Viper 2025 Notes is payable semi-annually in February and August of each year, beginning on February 1, 2026. Concurrently, Viper used approximately $ 824 million of the proceeds to redeem approximately $ 780 million in aggregate principal amounts of the Viper Notes, including accrued interest due and applicable redemption premiums. Following the closing of the Sitio Acquisition, Viper used the remaining proceeds from the issuance of the Viper 2025 Notes to (i) retire Sitio’s 7.875 % senior notes due 2028, (ii) partially repay borrowings under Sitio’s revolving credit facility, (iii) pay fees, costs and expenses related to the redemption or repayment of such debt, and (iv) for general corporate purposes. The Viper 2025 Notes have been registered under the Securities Act. Following the Viper LLC Conversion, Viper LP, as successor to Viper Energy Partners LLC, became the issuer with respect to the Viper 2025 Notes.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+2024 Issuance of Notes
+
+On April 18, 2024, Diamondback Energy, Inc., as borrower, and Diamondback E&P, as guarantor, issued an aggregate of $ 5.5 billion in senior notes, consisting of (i) $ 850 million aggregate principal amount of 5.200 % Senior Notes due April 18, 2027 (the “2027 Notes”), (ii) $ 850 million aggregate principal amount of 5.150 % Senior Notes due January 30, 2030 (the “2030 Notes”), (iii) $ 1.3 billion aggregate principal amount of 5.400 % Senior Notes due April 18, 2034 (the “2034 Notes”), (iv) $ 1.5 billion aggregate principal amount of 5.750 % Senior Notes due April 18, 2054 (the “2054 Notes”), and (v) $ 1.0 billion aggregate principal amount of 5.900 % Senior Notes due April 18, 2064 (the “2064 Notes” and together with the 2027 Notes, the 2030 Notes, the 2034 Notes and the 2054 Notes, the “April 2024 Notes”). The April 2024 Notes are included in the Company’s Guaranteed Senior Notes. The Company received net proceeds of $ 5.5 billion, after underwriters’ discounts and transaction costs. Interest on the 2030 Notes is payable semi-annually on January 30 and July 30 of each year, beginning on July 30, 2024. Interest on each other series of notes will be payable semi-annually on April 18 and October 18 of each year. The Company used the net proceeds from the April 2024 Notes to fund a portion of the cash consideration for the Endeavor Acquisition.
+
+Retirement of Notes
+
+Diamondback Retirement of Notes
+
+During the year ended December 31, 2025, the Company opportunistically repurchased an aggregate principal amount of approximately $ 455 million of its senior notes, which consisted of $ 27 million of the 3.125 % Senior Notes due 2031, $ 263 million of the 4.400 % Senior Notes due 2051, $ 145 million of the 4.250 % Senior Notes due 2052 and $ 20 million of the 5.750 % Senior Notes due 2054, in open market transactions for total cash consideration, including accrued interest paid, of approximately $ 363 million, at an average of 79.3 % of par value. These repurchases resulted in a gain on extinguishment of debt of approximately $ 88 million during the year ended December 31, 2025.
+
+During the year ended December 31, 2024, the Company opportunistically repurchased an aggregate principal amount of approximately $ 28 million of its senior notes, which consisted of $ 22 million of its 3.125 % Senior Notes due 2031 and $ 6 million of its 3.500 % Senior Notes due 2029 for total cash consideration, including accrued interest paid of $ 25 million. These repurchases resulted in an immaterial gain on extinguishment of debt during the year ended December 31, 2024.
+
+Viper Retirement of Notes
+
+During the second quarter of 2025, Viper opportunistically repurchased principal amounts of $ 50 million of its 5.375 % Senior Notes due 2027 (the “Viper 2027 Notes”) in open market transactions for total cash consideration of $ 50 million, at an average of 99.7 % of par value, resulting in an immaterial gain on extinguishment of debt for the year ended December 31, 2025.
+
+On July 23, 2025, using proceeds from the issuance of the Viper 2025 Notes, Viper (i) redeemed all of its outstanding 7.375 % Senior Notes maturing on November 1, 2031, (the “Viper 2031 Notes”), which were issued in October 2023 to partially fund the cash portion of the GRP Acquisition, for total cash consideration of approximately $ 434 million including the applicable redemption premium of 106.8 % of par and accrued and unpaid interest up to, but not including, the redemption date, and (ii) deposited approximately $ 390 million to redeem all of its outstanding Viper 2027 Notes on November 1, 2025, for total cash consideration, including payment of interest due to, but not including, the redemption date at a redemption price equal to 100 % of the principal amount of the Viper 2027 Notes. The redemption of the Viper 2031 Notes resulted in a loss on extinguishment of debt of $ 32 million.
+
+Guaranteed Senior Notes
+
+The Guaranteed Senior Notes are the Company’s senior unsecured obligations and are fully and unconditionally guaranteed by Diamondback E&P, are senior in right of payment to any of the Company’s future subordinated indebtedness and rank equal in right of payment with all of the Company’s existing and future senior indebtedness.
+
+The Viper 2025 Notes (i) are senior unsecured obligations and are fully and unconditionally guaranteed by Former Viper, and, following the closing of the Sitio Acquisition, also by New Viper, (ii) are senior in right of payment to any of Viper’s future subordinated indebtedness, and (iii) rank equal in right of payment with all of Viper’s existing and future
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+senior indebtedness. The Company does not guarantee the Viper 2025 Notes. In the future, each of Viper’s restricted subsidiaries that either (i) guarantees any of its or a guarantor’s indebtedness, or (ii) is a domestic restricted subsidiary and is an obligor with respect to any indebtedness under any credit facility will be required to guarantee the Viper 2025 Notes.
+
+Interest Expense
+
+The following amounts have been incurred and charged to interest expense for the years ended December 31, 2025, 2024 and 2023:
+
+9. STOCKHOLDERS’ EQUITY AND EARNINGS (LOSS) PER SHARE
+
+Common Stock Repurchase Program
+
+The Company’s board of directors has approved a common stock repurchase program to acquire up to $ 8.0 billion of the Company’s outstanding common stock, excluding excise tax. Purchases under the repurchase program may be made from time to time in open market or privately negotiated transactions, and are subject to market conditions, applicable regulatory and legal requirements, contractual obligations and other factors. The repurchase program does not require the Company to acquire any specific number of shares. This repurchase program may be suspended from time to time, modified, extended or discontinued by the board of directors at any time. During the years ended December 31, 2025, 2024 and 2023, the Company repurchased approximately $ 2.0 billion, which includes $ 305 million for the repurchase of 2.0 million shares from SGF, $ 959 million and $ 838 million of common stock under the repurchase program, respectively, in each case excluding excise tax. For further discussion on the repurchase from SGF, see Note 7— Related Party Transactions . As of December 31, 2025, approximately $ 2.7 billion remained available for future repurchases under the Company’s repurchase program, excluding excise tax.
+
+Viper’s Repurchase Program
+
+Previously, Viper’s board of directors approved a repurchase program to acquire up to $ 750 million of Viper’s outstanding Class A common stock, excluding excise tax, over an indefinite period of time . On December 10, 2025, Viper’s board of directors expanded the repurchase program to also include repurchases of Viper’s outstanding Class B common stock and Viper LLC units, in each case excluding excise tax. During the year ended December 31, 2025, Viper repurchased approximately $ 194 million under its repurchase program, excluding excise tax. During the year ended December 31, 2024, Viper had no repurchases under its repurchase program and during the year ended December 31, 2023, Viper repurchased approximately $ 95 million under its repurchase program, excluding excise tax. As of December 31, 2025, $ 241 million remains available under Viper’s repurchase program, excluding excise tax.
+
+Viper 2025 Equity Offering
+
+On February 3, 2025, Viper completed an underwritten public offering of approximately 28.34 million shares of Viper’s Class A common stock, which included approximately 3.70 million shares issued pursuant to an option to purchase additional shares of Viper’s Class A common stock granted to the underwriters, at a price to the public of $ 44.50 per share for total net proceeds to Viper of approximately $ 1.2 billion, after the underwriters’ discount and transaction costs (the “Viper 2025 Equity Offering”). The net proceeds were used to fund (i) a portion of Viper’s cash consideration for the 2025 Drop Down , (ii) cash consideration for other acquisitions, and (iii) for general corporate purposes.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Viper 2024 Equity Offering
+
+On September 13, 2024, Viper completed an underwritten public offering of approximately 11.5 million shares of Viper’s Class A common stock, which included 1.5 million shares issued pursuant to an option to purchase additional shares of Viper’s Class A common stock granted to the under writers, at a price to the public of $ 42.50 per share fo r total net proceeds to Viper of approximately $ 476 million , after the underwriters’ discount and transaction costs (the “Viper 2024 Equity Offering”). The net proceeds were used to fund a portion of the cash consideration for the Viper TWR Acquisition.
+
+Change in Ownership of Consolidated Subsidiaries
+
+Non-controlling interests in the accompanying consolidated financial statements represent interests in Viper held by parties other than the Company and are presented as a component of equity. When t he Company’s relative ownership interests in Viper change, a djustments to non-controlling interest and additional paid-in-capital, tax effected, will occur.
+
+The following table summarizes changes in the ownership interest in consolidated subsidiaries during the respective periods presented:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Dividends
+
+The following table presents dividends and distribution equivalent rights paid on the Company’s common stock during the respective periods :
+
+Dividends to Non-Controlling Interest
+
+During the years ended December 31, 2025, 2024 and 2023, Viper paid $ 382 million, $ 227 million and $ 129 million of dividends/distributions to its public shareholders, excluding Diamondback, in accordance with the dividend policy approved by its board of directors. These dividends are reflected under the caption “Dividends/distributions to non-controlling interest” on the Company’s consolidated statements of stockholders’ equity and consolidated statements of cash flows.
+
+Earnings (Loss) Per Share
+
+The Company’s earnings (loss) per share amounts have been computed using the two-class method. The two-class method is an earnings allocation proportional to the respective ownership among holders of common stock and participating securities. Basic earnings (loss) per share amounts have been computed based on the weighted-average number of shares of common stock outstanding for the period. Diluted earnings per share include the effect of potentially dilutive shares outstanding for the period. Additionally, the per share earnings of Viper are included in the consolidated earnings per share computation based on the consolidated group’s holdings of the subsidiaries.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+A reconciliation of the components of basic and diluted earnings (loss) per common share is presented below:
+
+(1) Unvested restricted stock units and performance-based restricted stock unit awards that contain non-forfeitable distribution equivalent rights are considered participating securities and therefore are included in the earnings per share calculation pursuant to the two-class method.
+
+10. EQUITY-BASED COMPENSATION
+
+Under the Equity Plan approved by the board of directors, the Company is authorized to issue up to 11.8 million shares of incentive and non-statutory stock options, restricted stock awards and restricted stock units, performance awards and stock appreciation rights to eligible employees. The Company currently has outstanding restricted stock units and performance-based restricted stock units under the Equity Plan. At December 31, 2025, approximately 3.80 million shares of common stock remain available for future grants under the Equity Plan. The Company classifies its restricted stock units and performance-based restricted stock units as equity-based awards and estimates the fair values of restricted stock awards and units as the closing price of the Company’s common stock on the grant date of the award, which is expensed over the applicable vesting period.
+
+In addition to the Equity Plan, Viper maintains its own long-term incentive plan, which is not significant to the Company.
+
+The following table presents the financial statement impacts of equity compensation plans and related costs on the Company’s financial statements:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Restricted Stock Units
+
+The following table presents the Company’s restricted stock unit activity during the year ended December 31, 2025 under the Equity Plan:
+
+The aggregate grant date fair value of restricted stock units that vested during the years ended December 31, 2025, 2024 and 2023 was $ 62 million, $ 57 million and $ 48 million, respectively. As of December 31, 2025, the Company’s unrecognized compensation cost related to unvested restricted stock units was $ 105 million, which is expected to be recognized over a weighted-average period of 2.1 years.
+
+Performance-Based Restricted Stock Units
+
+To provide long-term incentives for executive officers to deliver competitive returns to the Company’s stockholders, the Company has granted performance-based restricted stock units to eligible employees. The ultimate number of shares awarded from these conditional restricted stock units is based upon measurement of TSR of the Company’s common stock as compared to a designated peer group during a three-year performance period.
+
+In March 2025, eligible employees received performance restricted stock unit awards totaling 171,638 units from which a minimum of 0 % and a maximum of 200 % of the units could be awarded based upon the measurement of TSR of the Company’s common stock as compared to a designated peer group during the three-year performance period of January 1, 2025 to December 31, 2027, and cliff vest at December 31, 2027, subject to continued employment. The initial payout of the March 2025 awards will be further adjusted by a TSR modifier that may reduce the payout or increase the payout up to a maximum of 250 %. Additionally, in May 2025 the Company granted 14,881 performance restricted stock units under substantially the same terms as the March 2025 performance restricted stock unit awards.
+
+In March 2024, eligible employees received performance restricted stock unit awards totaling 110,989 units from which a minimum of 0 % and a maximum of 200 % of the units could be awarded based upon the measurement of TSR of the Company’s common stock as compared to a designated peer group during the three-year performance period of January 1, 2024 to December 31, 2026 and cliff vest at December 31, 2026 subject to continued employment. The initial payout of the March 2024 awards will be further adjusted by a TSR modifier that may reduce the payout or increase the payout up to a maximum of 250 %. Additionally, in September 2024 the Company granted 6,750 units under substantially the same terms as the March 2024 performance restricted stock unit awards.
+
+In March 2023, eligible employees received performance restricted stock unit awards totaling 126,347 units from which a minimum of 0 % and a maximum of 200 % units could be awarded based upon the TSR during the three-year performance period of January 1, 2023 to December 31, 2025. These awards cliff vested at 200 % on December 31, 2025 based upon the outcome of the TSR during the performance period, which did not result in a further TSR modifier being applied. Additionally, in July 2023 the Company granted 1,858 units under substantially the same terms as the March 2023 performance restricted stock unit awards.
+
+The fair value of each performance restricted stock unit issuance is estimated at the date of grant using a Monte Carlo simulation, which results in an expected percentage of units to be earned during the performance period.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The following table presents a summary of the grant-date fair values of performance restricted stock units and the related assumptions for the awards granted during the periods presented:
+
+The following table presents the Company’s performance restricted stock unit activity under the Equity Plan for the year ended December 31, 2025:
+
+(1) A maximum of 780,276 units could be awarded based upon the Company’s final TSR ranking.
+
+As of December 31, 2025, the Company’s unrecognized compensation cost related to unvested performance based restricted stock awards and units was $ 43 million, which is expected to be recognized over a weighted-average period of 1.7 years.
+
+11. INCOME TAXES
+
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. The Company is subject to corporate income taxes and the Texas margin tax. The Company and its subsidiaries, other than Viper, Viper LLC and certain other subsidiaries classified as partnerships for U.S. federal income tax purposes, file a U.S. federal corporate income tax return on a consolidated basis. Viper’s provision for income taxes is included in the Company’s consolidated income tax provision and, to the extent applicable, in net income attributable to the non-controlling interest.
+
+The Company’s effective income tax rates were 17.4 %, 17.8 % and 21.5 % for the years ended December 31, 2025, 2024 and 2023, respectively. Total income tax expense for the year ended December 31, 2025 differed from amounts computed by applying the U.S. federal statutory tax rate to pre-tax income primarily due to (i) state income taxes, net of federal benefit, (ii) the effect of research and development tax credits, and (iii) other permanent differences between book and taxable income. Total income tax expense for the year ended December 31, 2024 differed from amounts computed by applying the U.S. federal statutory tax rate to pre-tax income primarily due to (i) the impact of removing the valuation allowance against Viper’s deferred tax assets, (ii) state income taxes, net of federal benefit, and (iii) other permanent differences between book and taxable income. Total income tax expense for the year ended December 31, 2023 differed from amounts computed by applying the U.S. federal statutory tax rate to pre-tax income for the period primarily due to state income taxes, net of federal benefit, partially offset by the impact of permanent differences between book and taxable income and tax benefit resulting from a reduction in the valuation allowance on Viper’s deferred tax assets.
+
+Based on application of the Inflation Reduction Act of 2022 and related administrative guidance, the Company’s income tax expense for the years ended December 31, 2025, 2024 and 2023, was not impacted by the corporate alternative minimum tax.
+
+On July 4, 2025, the One Big Beautiful Bill Act (the “OBBB”), was enacted. The OBBB included multiple provisions applicable to U.S. income taxes for businesses, including immediate expensing of research or experimental expenses, bonus depreciation for qualified tangible property, deductible intangible drilling costs for purposes of the corporate alternative minimum tax, and enhancements to limits on business interest expense deductions. The Company accounted for
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+the OBBB in the period of enactment and materially reduced its estimate of current tax expense for 2025, primarily offset by an increase in estimated deferred tax expense for 2025, with no material net impact on the effective tax rate for the year ended December 31, 2025.
+
+In connection with Viper’s Sitio Acquisition, Viper acquired prepaid income tax balances of approximately $ 14 million and deferred tax assets of $ 5 million related to loss carryforwards. Viper also recognized a deferred tax liability of approximately $ 122 million.
+
+In connection with the 2025 Drop Down, the Company recorded a $ 170 million increase in tax payable and a $ 164 million decrease in deferred tax liability through paid in capital. Due to the resulting increase in the Company’s ownership of Viper LLC, the Company recorded a $ 202 million decrease to deferred tax liability, and a $ 212 million decrease in the deferred tax asset through non-controlling interest on the Company’s consolidated balance sheet.
+
+In connection with the closing of the Endeavor Acquisition, the Company recognized a $ 7.2 billion deferred tax liability.
+
+The components of the Company’s consolidated provision for income taxes from continuing operations for the years ended December 31, 2025, 2024 and 2023 are as follows:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+A reconciliation of the statutory federal income tax amount from continuing operations to the recorded expense is as follows:
+
+(1) State taxes in Texas made up the majority of the tax effect in this category.
+
+The components of the Company’s deferred tax assets and liabilities as of December 31, 2025 and 2024 are as follows:
+
+At December 31, 2025, the Company had approximately $ 245 million of federal net operating losses (“NOL”) and $ 4 million of federal tax credits expiring in 2037, $ 26 million federal capital loss carryforwards expiring principally in 2027 and an additional $ 191 million of federal NOLs with an indefinite carryforward life, which amounts include NOLs and credit carryforwards acquired from QEP. The Company principally operates in the state of Texas and is subject to Texas margin tax, which currently does not include an NOL carryover provision. The Company’s federal tax attributes, including those acquired from QEP, Rattler and Sitio, are subject to an annual limitation under Sections 382 and 383 of the Internal Revenue
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Code of 1986, as amended (the “Code”), which relates to tax attribute limitations upon the 50% or greater change of ownership of an entity during any three-year look back period. Other than as described below regarding realization of tax attributes acquired from QEP, the Company believes that the application of Sections 382 and 383 of the Code will not have an adverse effect on future usage of the Company’s loss carryforwards and credits.
+
+As of December 31, 2025, the Company had a valuation allowance of $ 11 million related to federal NOL and credit carryforwards acquired from QEP which the Company estimated have a remote likelihood of being realized prior to expiration. In addition, the Company had a valuation allowance of $ 108 million primarily related to certain state NOL carryforwards which the Company does not believe are realizable as it does not anticipate significant future operations in those states. Management’s assessment at each balance sheet date included consideration of all available positive and negative evidence including the anticipated timing of reversal of deferred tax liabilities and the limitations imposed by Sections 382 and 383 of the Code on certain of the Company’s NOLs and other carryforwards. Management believes that the balance of the Company’s NOLs is realizable, to the extent of future taxable income, due to an increase in our Section 382 limitations as a result of our fair market value and our net unrealized built-in gain position. As of December 31, 2025, management determined that it is more likely than not that the Company will realize its remaining deferred tax assets.
+
+At December 31, 2025, the Company’s net deferred tax liabilities include deferred tax assets of approximately $ 28 million related to Viper’s investment in Viper LLC. Deferred taxes are provided on the difference between Viper’s basis for financial accounting purposes and basis for federal income tax purposes in its investment in Viper LLC.
+
+During the year ended December 31, 2024, Viper released its remaining valuation allowance of approximately $ 156 million as a result of management’s assessment of the realizability of future taxable income. During the year ended December 31, 2023, Viper recognized deferred income tax benefit of $ 7 million related to a partial release in its beginning-of-the year valuation allowance, based on a change in judgment about the realizability of its deferred tax assets.
+
+The following table sets forth changes in the Company’s unrecognized tax benefits:
+
+The Company recognizes the tax benefit from a tax position only if it is more likely than not that it will be sustained upon examination by the taxing authorities, based upon the technical merits of the position. The Company’s federal and state income tax returns for the years ended December 31, 2022 through December 31, 2024 remain open for all purposes of examination by the Internal Revenue Service and major state taxing jurisdictions. However, certain earlier tax years remain open for adjustment to the extent of their NOL carryforwards available for future utilization. It is reasonably possible that significant changes to the reserve for uncertain tax positions may occur as a result of various audits and the expiration of the statute of limitations.
+
+The Company recognizes interest and penalties related to income tax matters as interest expense and general and administrative expenses, respectively. During the years ended December 31, 2025 and 2024, there was no interest associated with uncertain tax positions recognized in the Company’s consolidated financial statements. During the year ended December 31, 2023, there was an insignificant amount of interest associated with uncertain tax positions recognized in the Company’s consolidated financial statements. During the years ended December 31, 2025, 2024 and 2023, there were no penalties related to each period associated with uncertain tax positions recognized in the Company’s consolidated financial statements.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+12. DERIVATIVES
+
+At December 31, 2025, the Company has commodity derivative contracts and interest rate swaps outstanding. All derivative financial instruments are recorded at fair value.
+
+Commodity Contracts
+
+The Company has entered into multiple crude oil and natural gas derivatives, indexed to the respective indices as noted in the table below, to reduce price volatility associated with certain of its oil and natural gas sales. The Company has not designated its commodity derivative instruments as hedges for accounting purposes and, as a result, marks its commodity derivative instruments to fair value and recognizes the cash and non-cash changes in fair value in the consolidated statements of operations under the caption “Gain (loss) on derivative instruments, net.”
+
+By using derivative instruments to economically hedge exposure to changes in commodity prices, the Company exposes itself to credit risk and market risk. Credit risk is the failure of the counterparty to perform under the terms of the derivative contract. When the fair value of a derivative contract is positive, the counterparty owes the Company, which creates credit risk. The Company has entered into commodity derivative instruments only with counterparties that are also lenders under its credit facility and have been deemed an acceptable credit risk. As such, collateral is not required from either the counterparties or the Company on its outstanding commodity derivative contracts.
+
+As of December 31, 2025, the Company had the following outstanding commodity derivative contracts. When aggregating multiple contracts, the weighted average contract price is disclosed:
+
+(1) The Company has fixed price basis swaps for the spread between the Cushing crude oil price and the Midland WTI crude oil price as well as the spread between the Henry Hub natural gas price, the Waha Hub and the HSC Hub natural gas price. The weighted average differential represents the amount of reduction to the Cushing, Oklahoma, oil price and the Waha Hub and HSC Hub natural gas price for the notional volumes covered by the basis swap contracts.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Interest Rate Swaps and Treasury Locks
+
+Interest Rate Swaps
+
+As of December 31, 2025, the Company has two receive-fixed, pay-variable interest rate swap agreements for notional amounts of $ 150 million each, which are considered economic hedges of the Company’s 2029 Notes. During the year ended December 31, 2025, the Company terminated and settled an aggregate $ 600 million of the previous $ 900 million of the notional amount of interest rate swaps for a loss of $ 67 million. During the year ended December 31, 2024, the Company terminated and settled an aggregate $ 300 million of the previous $ 1.2 billion of the notional amount of interest rate swaps for a loss of $ 37 million. The losses on the partial termination of interest rate swaps are recognized in the caption “Gain (loss) on derivative instruments, net” on the consolidated statement of operations for the years ended December 31, 2025 and 2024. The Company receives a fixed 3.50 % rate of interest on these swaps and pays the variable rate of SOFR plus 2.1865 %. The interest rate swaps are not treated as hedges for accounting purposes and, as a result, changes in fair value are recorded in earnings under the caption “Gain (loss) on derivative instruments, net” in the consolidated statements of operations.
+
+The interest rate swaps were designated as fair value hedges at inception, but the Company subsequently elected to discontinue hedge accounting. The cumulative fair value basis adjustment recorded at the time of dedesignation is being amortized to interest expense over the remaining term of the 2029 Notes utilizing the effective interest method. See Note 8— Debt for further details.
+
+Treasury Locks
+
+From time to time the Company enters into certain treasury lock contracts to reduce the forecasted interest rate risk associated with the issuance of senior unsecured notes. Changes in the value and settlement of treasury locks are recognized under the caption “Gain (loss) on derivative instruments, net” on the consolidated statement of operations.
+
+Balance Sheet Offsetting of Derivative Assets and Liabilities
+
+The fair value of derivative instruments is generally determined using established index prices and other sources which are based upon, among other things, futures prices and time to maturity. These fair values are recorded by netting asset and liability positions, including any deferred premiums, that are with the same counterparty and are subject to contractual terms which provide for net settlement. See Note 13— Fair Value Measurements for further details.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Gains and Losses on Derivative Instruments
+
+The following table summarizes the gains and losses on derivative instruments included in the consolidated statements of operations:
+
+(1) The years ended December 31, 2025 and 2024 include cash paid on interest rate swaps terminated prior to their contractual maturity of $ 67 million and $ 37 million, respectively.
+
+13. FAIR VALUE MEASUREMENTS
+
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs.
+
+The fair value hierarchy is based on three levels of inputs, of which the first two are considered observable and the last unobservable, that may be used to measure fair value. The Company’s assessment of the significance of a particular input to the fair value measurements requires judgment and may affect the valuation of the assets and liabilities being measured and their placement within the fair value hierarchy. The Company uses appropriate valuation techniques based on available inputs to measure the fair values of its assets and liabilities.
+
+Level 1 - Observable inputs that reflect unadjusted quoted prices for identical assets or liabilities in active markets as of the reporting date.
+
+Level 2 - Observable market-based inputs or unobservable inputs that are corroborated by market data. These are inputs other than quoted prices in active markets included in Level 1, which are either directly or indirectly observable as of the reporting date.
+
+Level 3 - Unobservable inputs that are not corroborated by market data and may be used with internally developed methodologies that result in management’s best estimate of fair value.
+
+Financial assets and liabilities are classified based on the lowest level of input that is significant to the fair value measurement.
+
+See Note 4— Acquisitions and Divestitures for discussion of the fair values of proved oil and natural gas properties assumed in business combinations.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+Certain assets and liabilities are reported at fair value on a recurring basis, including the Company’s commodity derivative instruments, interest rate swaps and investments in the common stock of other entities. The fair values of the Company’s commodity derivative contracts are measured internally using established commodity futures price strips for the underlying commodity provided by a reputable third party, the contracted notional volumes and time to maturity. The fair values of the Company’s interest rate swaps are determined based on inputs that are readily available in public markets, are determined based on inputs readily available in public markets, can be derived from information available in publicly quoted markets, or are provided by financial institutions that trade these contracts. These valuations are Level 2 inputs. The fair values of the Company’s commodity derivative instruments and interest rate swaps are recorded as assets or liabilities on the consolidated balance sheets. The net amounts of derivative instruments are classified as current or noncurrent based on their anticipated settlement dates.
+
+The Company has an immaterial investment in the Class A common stock of Verde Clean Fuels, Inc. The Company elected the fair value option for measuring the fair value of this equity investment. The investment is reported at fair value using observable, quoted stock prices and is included in “Other assets” on the Company’s consolidated balance sheets at December 31, 2025 and 2024.
+
+Viper LLC’s 2026 WTI Contingent Liability is reported at fair value using observable market data inputs and a Monte Carlo pricing model, which are considered Level 2 inputs within the fair value hierarchy. The 2026 WTI Contingent Liability was recorded in “Other accrued liabilities” on the Company’s consolidated balance sheet at December 31, 2025, and in “Other long-term liabilities” on the Company’s consolidated balance sheet at December 31, 2024. The change in fair value of the 2026 WTI Contingent Liability is recognized in “Gain (loss) on derivative instruments, net” on the Company’s consolidated statements of operations for the year ended December 31, 2025.
+
+The following tables provide (i) fair value measurement information for financial assets and liabilities measured at fair value on a recurring basis, (ii) the gross amounts of recognized derivative assets and liabilities, (iii) the amounts offset under master netting arrangements with counterparties, and (iv) the resulting net amounts. The net amounts are presented under the captions (i) “Prepaid expenses and other current assets,” (ii) “Other assets,” (iii) “Derivative instruments,” and (iv) “Other long-term liabilities” in the Company’s consolidated balance sheets as of December 31, 2025 and December 31, 2024:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Assets and Liabilities Not Recorded at Fair Value
+
+The following table provides the fair value of financial instruments that are not recorded at fair value in the consolidated balance sheets:
+
+The fair values of the Company’s borrowings under the Credit Agreement, the Viper Revolving Credit Facility, the 2025 Term Loan, Viper 2025 Term Loan and Tranche A Loans (prior to repayment and termination) approximate their carrying values based on borrowing rates available to the Company for bank loans with similar terms and maturities and are classified as Level 2 in the fair value hierarchy. The fair values of the outstanding notes were determined using the quoted market price at each period end, a Level 1 classification in the fair value hierarchy.
+
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+
+Certain assets and liabilities are measured at fair value on a nonrecurring basis in certain circumstances. These assets and liabilities can include those acquired in a business combination, inventory, proved and unproved oil and natural gas properties, equity method investments, asset retirement obligations and other long-lived assets that are written down to fair value when impaired or held for sale. Refer to Note 4— Acquisitions and Divestitur es and Note 5— Property and Equipment for additional discussion of nonrecurring fair value adjustments.
+
+Fair Value of Financial Assets
+
+The carrying amount of cash and cash equivalents, accounts receivable, prepaid expenses and other current assets, funds held in escrow, accounts payable and other accrued liabilities approximate their fair value because of the short-term nature of the instruments.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+14. SUPPLEMENTAL INFORMATION TO STATEMENTS OF CASH FLOWS
+
+Non-cash investing activities for the year ended December 31, 2024 include additions of $ 1.0 billion as a result of the TRP Exchange. See Note 4— Acquisitions and Divestitures for further discussion of the TRP Exchange.
+
+15. COMMITMENTS AND CONTINGENCIES
+
+The Company is a party to various routine legal proceedings, disputes and claims arising in the ordinary course of its business, including those that arise from interpretation of federal and state laws and regulations affecting the crude oil and natural gas industry, personal injury claims, title disputes, royalty disputes, contract claims, employment claims, claims alleging violations of antitrust laws, contamination claims relating to oil and natural gas exploration and development and environmental claims, including claims involving assets previously sold to third parties and no longer part of the Company’s current operations. While the ultimate outcome of the pending proceedings, disputes or claims and any resulting impact on the Company, cannot be predicted with certainty, the Company’s management believes that none of these matters, if ultimately decided adversely, will have a material adverse effect on the Company’s financial condition, results of operations or cash flows. The Company’s assessment is based on information known about the pending matters and its experience in contesting, litigating and settling similar matters. Actual outcomes could differ materially from the Company’s assessment. The Company records accrued liabilities for contingencies related to outstanding legal proceedings, disputes or claims when information available indicates that a loss is probable and the amount of the loss can be reasonably estimated.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Commitments
+
+The following is a schedule of minimum future payments with commitments that have initial or remaining noncancellable terms in excess of one year as of December 31, 2025:
+
+(1) Total costs incurred under take-or-pay and throughput obligations were approximately $ 449 million, $ 337 million and $ 266 million in 2025, 2024 and 2023, respectively.
+
+(2) The Company has committed to transport gross quantities of crude oil and natural gas on various pipelines under a variety of contracts including throughput and take-or-pay agreements. The Company’s failure to purchase the minimum level of quantities would require it to pay shortfall fees up to the amount of the original monthly commitment amounts included in the table above.
+
+(3) The Company has fixed price contracts with various suppliers for the purchase of electrical power through 2032.
+
+(4) The Company is party to various operational agreements containing fixed or minimum payments, which include the rental of compressors, sand purchases, produced water disposal and miscellaneous other operating leases. The amounts in the table above represent our fixed or minimum payments under the aforementioned types of agreements.
+
+(5) The Company has commitments for the Company’s electric fracturing fleet and related power generating services.
+
+At December 31, 2025, the Company’s delivery commitments covered the following gross volumes of oil:
+
+The Company and Five Point currently anticipate collectively contributing $ 500 million in follow-on capital to fund future growth projects and acquisitions for Deep Blue.
+
+Environmental Matters
+
+The United States Department of the Interior, Bureau of Safety and Environmental Enforcement ordered several oil and gas operators, including a corporate predecessor of Energen Corporation, to perform decommissioning and reclamation activities related to a Louisiana offshore oil and gas production platform and related facilities. In response to the insolvency of the operator of record, the government ordered the former operators and/or alleged former lease record title owners to decommission the platform and related facilities. The Company has agreed to an arrangement with other operators to contribute to a trust to fund the decommissioning costs, however, the Company’s portion of such costs are not expected to be material.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Several coastal Louisiana parishes and the State of Louisiana have filed numerous lawsuits under Louisiana’s State and Local Coastal Resources Management Act (“SLCRMA”) against numerous oil and gas producers seeking damages for coastal erosion in or near oil fields located within Louisiana’s coastal zone. The Company is a defendant in five of these cases. The Company has exercised contractual indemnification rights where applicable. Plaintiffs’ SLCRMA theories are unprecedented and there remains significant uncertainty about the claims (both as to scope and damages). Although the Company cannot predict the ultimate outcome of these matters, the Company believes the claims lack merit and intends to continue vigorously defending these lawsuits.
+
+16. SUBSEQUENT EVENTS
+
+Fourth Quarter 2025 Dividend Declaration
+
+On February 19, 2026, the board of directors of the Company approved an increase in the Company’s annual base dividend to $ 4.20 per share of common stock and declared a base cash dividend for the fourth quarter of 2025 of $ 1.05 per share of common stock, payable on March 12, 2026 to its stockholders of record at the close of business on March 5, 2026. Future base and variable dividends are at the discretion of the Company’s board of directors.
+
+Viper Divestiture of Non-Permian Assets
+
+On February 9, 2026, Viper divested all of its non-Permian assets, including those acquired from Sitio, to an affiliate of GRP Energy Capital LLC and Warwick Capital Partners LLP for net cash proceeds of approximately $ 617 million, subject to customary post-closing adjustments. The divested properties consisted of approximately 9,400 net royalty acres in the Denver-Julesburg, Eagle Ford and Williston basins with current production of approximately 4,750 BO/d. Proceeds from the divestiture were used to repay (i) the Viper 2025 Term Loan of $ 500 million in full, (ii) repay the outstanding borrowings under the Viper Revolving Credit Facility, and (iii) for general corporate purposes.
+
+Interest Rate Swaps
+
+During the first quarter of 2026, the Company fully terminated and settled the remaining aggregate $ 300 million of notional interest rate swaps for approximately $ 27 million in cash.
+
+SGF Common Stock Repurchases
+
+Pursuant to a letter agreement executed with SGF in the fourth quarter of 2025, the Company repurchased 2.0 million shares from SGF for approximately $ 332 million, excluding excise tax, during the first quarter of 2026. For further details on the nature of transactions with SGF, see Note 7— Related Party Transactions .
+
+17. SEGMENT INFORMATION
+
+The Company is managed on a consolidated basis as one operating segment and one reportable segment: the upstream segment, which is engaged in the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves primarily in the Permian Basin in West Texas. This singular operating and reportable segment is comprised of (i) the Company and its wholly-owned subsidiaries, and (ii) Viper and its consolidated subsidiaries, which have been aggregated due to the similarity in their economic characteristics, products and services, processes, type of customers, method of distribution for their products and the regulatory environment in which they operate. The upstream segment derives its revenue from customers through the sale of oil and natural gas products as well as other immaterial service contracts. See Note 3— Revenue from Contracts with Customers for further discussion of the Company’s sources of revenue.
+
+The Company’s Chief Operating Decision Maker (“CODM”) is a senior executive committee that is comprised of the Chief Operating Officer, Chief Financial Officer, and Chief Executive Officer. The CODM uses the Company’s consolidated financial results to make key operating decisions, assess performance and to allocate resources. The measures of segment profit or loss and total assets utilized by the CODM are net income and total assets as reported on the consolidated statements of operations and the consolidated balance sheets, respectively. The significant expense categories, their amounts and other segment items that are regularly provided to the CODM are those that are reported in the Company’s consolidated statements of operations as well as interest income and interest expense in Note 8— Debt .
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The CODM uses consolidated net income as a measure of profitability to evaluate segment performance and to make capital allocation decisions such as reinvestment in the business or return of capital through the payment of base and variable dividends or repurchases under the share repurchase program.
+
+18. SUPPLEMENTAL INFORMATION ON OIL AND NATURAL GAS OPERATIONS (UNAUDITED)
+
+The Company’s oil and natural gas reserves are attributable solely to properties within the United States.
+
+Capitalized Oil and Natural Gas Costs
+
+Aggregate capitalized costs related to oil and natural gas production activities with applicable accumulated depreciation, depletion, amortization and impairment are as follows:
+
+Costs Incurred in Oil and Natural Gas Activities
+
+Costs incurred in oil and natural gas property acquisition, exploration and development activities are as follows:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Results of Operations from Oil and Natural Gas Producing Activities
+
+The following schedule sets forth the revenues and expenses related to the production and sale of oil, natural gas and natural gas liquids. It does not include any interest costs or general and administrative costs. Income tax expense has been calculated by applying statutory income tax rates to oil, gas and natural gas liquids sales after deducting production costs, depreciation, depletion and amortization and accretion and impairment. Therefore, the following schedule is not necessarily indicative of the contribution to the net operating results of the Company’s oil, natural gas and natural gas liquids operations.
+
+Oil and Natural Gas Reserves
+
+Proved oil and natural gas reserve estimates and their associated future net cash flows were prepared by the Company’s internal reservoir engineers and audited by Ryder Scott, independent petroleum engineers, as of December 31, 2025, 2024 and 2023. Proved reserves were estimated in accordance with guidelines established by the SEC, which require that reserve estimates be prepared under existing economic and operating conditions based upon SEC Prices for the periods ending December 31, 2025, 2024 and 2023, respectively. Reserve estimates do not include any value for probable or possible reserves that may exist, nor do they include any value for undeveloped acreage. The reserve estimates represent the net revenue interest in the Company’s properties, all of which are located within the continental United States. Although the Company believes these estimates are reasonable, actual future production, cash flows, taxes, development expenditures, operating expenses and quantities of recoverable oil and natural gas reserves may vary substantially from these estimates.
+
+There are numerous uncertainties inherent in estimating quantities of proved oil and natural gas reserves. Oil and natural gas reserve engineering is a subjective process of estimating underground accumulations of oil and natural gas that cannot be precisely measured and the accuracy of any reserve estimate is a function of the quality of available data and of engineering and geological interpretation and judgment. Results of drilling, testing and production subsequent to the date of the estimate may justify revision of such estimate. Accordingly, reserve estimates are often different from the quantities of oil and natural gas that are ultimately recovered.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+The following table presents changes in the Company’s estimated proved reserves (including those attributable to Viper). As of December 31, 2025, none of the Company’s total proved reserves were classified as proved developed non-producing.
+
+(1) Includes total proved reserves of 231,440 MBOE, 107,730 MBOE, 78,870 MBOE and 65,516 MBOE as of December 31, 2025, 2024, 2023 and 2022, respectively, attributable to the non-controlling interest in Viper.
+
+Revisions represent changes in previous reserves estimates, either upward or downward, resulting from new information normally obtained from development drilling and production history or resulting from a change in economic factors, such as commodity prices, operating costs or development costs.
+
+During the year ended December 31, 2025, the Company’s extensions and discoveries of 578,919 MBOE resulted primarily from the drilling of 1,571 new wells in which the Company has an interest, including 1,311 wells in which the Company owns only a mineral interest through Viper, and from 582 new proved undeveloped locations added. Viper royalty
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+interests accounted for 11 % of the extension volumes. The Company’s downward revisions of previous estimates of 304,085 MBOE were primarily attributable to negative revisions of (i) 130,101 MBOE associated with lower commodity prices, (ii) 128,883 MBOE primarily due to downgrades related to changes in the corporate development plan, and (iii) 45,101 MBOE primarily attributable to performance revisions. Purchases of 188,609 MBOE consisted of 90,340 MBOE attributable largely to the Double Eagle Acquisition and 98,269 MBOE of Viper royalty purchases attributable largely to Viper’s Sitio Acquisition. Divestitures of 66,825 MBOE related primarily to non-core Delaware Basin assets.
+
+During the year ended December 31, 2024, the Company’s extensions and discoveries of 278,808 MBOE resulted primarily from the drilling of 1,172 new wells in which the Company has an interest, including 862 wells in which the Company owns only a mineral interest through Viper, and from 445 new proved undeveloped locations added. Viper royalty interests accounted for 9 % of the extension volumes. The Company’s downward revisions of previous estimates of 129,071 MBOE were primarily attributable to negative revisions of (i) 88,915 MBOE associated with lower commodity prices, (ii) 49,311 MBOE due to downgrades related to changes in the corporate development plan, and (iii) 16,586 MBOE due to a decline in performance. These were partially offset by positive revisions of 25,743 MBOE due to positive ownership and acquisition variance revisions. Purchases of 1,569,482 MBOE consisted of 1,554,541 MBOE attributable largely to the Endeavor Acquisition and 14,941 MBOE of Viper royalty purchases. Divestitures of 120,592 MBOE related primarily to non-core Midland Basin assets.
+
+During the year ended December 31, 2023, the Company’s extensions and discoveries of 355,874 MBOE resulted primarily from the drilling of 954 new wells in which the Company has an interest, including 826 wells in which the Company owns only a mineral interest through Viper, and from 344 new proved undeveloped locations added. Viper royalty interests accounted for 7 % of the extension volumes. The Company’s downward revisions of previous estimates of 54,470 MBOE were primarily attributable to negative revisions of (i) 62,370 MBOE associated with lower commodity prices, and (ii) 32,249 MBOE due to PUD downgrades related to changes in the corporate development plan. These were partially offset by positive revisions of 40,149 MBOE due to improved performance. Purchases of 70,481 MBOE consisted of 54,470 MBOE attributable largely to the Lario Acquisition and 16,011 MBOE of Viper royalty purchases. Divestitures of 63,682 MBOE related primarily to non-core Midland Basin assets.
+
+Proved Undeveloped Reserves (PUDs)
+
+At December 31, 2025, the Company’s estimated PUD reserves were approximately 1,096,828 MBOE, a 75,790 MBOE decrease over the reserve estimate at December 31, 2024 of 1,172,618 MBOE. The following table includes the changes in PUD reserves for 2025 (MBOE):
+
+The decrease in proved undeveloped reserves was primarily attributable to (i) transfers of 360,141 MBOE from undeveloped to developed reserves as a result of drilling or participating in 408 gross ( 377 net) horizontal wells in which the Company has a working interest and 247 gross wells in which the Company also has a royalty interest or mineral interest through Viper, and (ii) downward revisions of 170,400 MBOE, which were primarily the result of negative revisions of 122,117 MBOE due to downgrades related to changes in the corporate development plan, and negative revisions of 48,283 MBOE primarily attributable to performance revisions. Divestitures of 44,437 MBOE related primarily to non-core Delaware Basin assets and trades in the Midland Basin. The decrease in proved undeveloped reserves was partially offset by extensions of 427,437 MBOE from 582 gross ( 537 net) wells in which the Company has a working interest and 46,420 MBOE from 1,071 gross wells in which Viper owns royalty interests. All gross working interest wells were in the Midland Basin. Purchases of 25,331 MBOE were primarily attributable to individually insignificant trades and asset acquisitions.
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+During 2025, approximately $ 3.6 billion in capital expenditures went toward the development of proved undeveloped reserves, which includes drilling, completion and other facility costs associated with developing proved undeveloped wells. Estimated future development costs relating to the development of PUDs are projected to be approximately $ 2.3 billion in 2026, $ 2.6 billion in 2027, $ 1.8 billion in 2028, $ 839 million in 2029 and $ 175 million in 2030. Since our formation in 2011, our average drilling costs and drilling times have been reduced, and we believe we will continue to realize cost savings and experience lower relative drilling and completion costs as we convert PUDs into proved developed reserves in upcoming years.
+
+With our current development plan, we expect to continue our strong PUD conversion ratio in 2026 by converting an estimated 38 % of our PUDs to a proved developed category and developing approximately 89 % of the consolidated 2025 year-end PUD reserves by the end of 2028. As of December 31, 2025, all of our proved undeveloped reserves are scheduled to be developed within five years from the date they were initially recorded.
+
+Standardized Measure of Discounted Future Net Cash Flows
+
+The standardized measure of discounted future net cash flows is based on the unweighted arithmetic average, first-day-of-the-month price for the rolling 12-month period. The projections should not be viewed as realistic estimates of future cash flows, nor should the “standardized measure” be interpreted as representing current value to the Company. Material revisions to estimates of proved reserves may occur in the future; development and production of the reserves may not occur in the periods assumed; actual prices realized are expected to vary significantly from those used; and actual costs may vary.
+
+The following table sets forth the standardized measure of discounted future net cash flows attributable to the Company’s proved oil and natural gas reserves as of December 31, 2025, 2024 and 2023:
+
+(1) Includes approximately $ 1.1 billion, $ 1.3 billion and $ 685 million of undiscounted future asset retirement costs for the years ended December 31, 2025, 2024 and 2023, respectively, based on estimates made at the end of each of the respective years.
+
+(2) Includes $ 6.6 billion, $ 3.3 billion and $ 3.2 billion, for the years ended December 31, 2025, 2024 and 2023, respectively, attributable to the Company’s consolidated subsidiary, Viper, in which there is a 57 %, 55 % and 44 % non-controlling interest at December 31, 2025, 2024 and 2023, respectively.
+
+The table below presents the SEC Prices as adjusted for differentials and contractual arrangements utilized in the computation of future cash inflows:
+
+Diamondback Energy, Inc. and Subsidiaries
+
+Notes to Consolidated Financial Statements-(Continued)
+
+Principal changes in the standardized measure of discounted future net cash flows attributable to the Company’s proved reserves are as follows:
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures. Under the direction of our Chief Executive Officer and Chief Financial Officer, we have established disclosure controls and procedures, as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. The disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+As of December 31, 2025, an evaluation was performed under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15(b) under the Exchange Act. Based upon our evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that as of December 31, 2025, our disclosure controls and procedures are effective at the reasonable assurance level.
+
+Changes in Internal Control over Financial Reporting . Viper is in the process of integrating the entities acquired in the Sitio Acquisition. As a result of these integration activities, certain controls will be evaluated and may be changed. Except as noted above, there have not been any changes in our internal control over financial reporting that occurred during the quarter ended December 31, 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Company’s internal control over financial reporting is a process designed under the supervision of the Company’s Chief Executive Officer and Chief Financial Officer to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company’s financial statements for external purposes in accordance with generally accepted accounting principles.
+
+Management conducted an evaluation of the effectiveness of the Company’s internal control over financial reporting based on the framework in the 2013 Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on its evaluation under the framework in the 2013 Internal Control-Integrated Framework, management did not identify any material weaknesses in the Company’s internal control over financial reporting and determined that the Company maintained effective internal control over financial reporting as of December 31, 2025. Under guidelines established by the SEC, companies are permitted to exclude acquisitions from their assessment of internal control over financial reporting during the first year of an acquisition while integrating the acquired company. Management’s assessment of, and conclusion on, the effectiveness of internal control over financial reporting did not include the internal controls of the entities acquired in Viper’s Sitio Acquisition on August 19, 2025. The total assets of Sitio represent approximately 6% of our consolidated total assets as of December 31, 2025, and the revenues of Sitio represent 1% of our consolidated revenues for the year ended December 31, 2025.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Grant Thornton LLP, the independent registered public accounting firm that audited the consolidated financial statements of the Company included in this Annual Report on Form 10-K, has issued their report on the effectiveness of the Company’s internal control over financial reporting at December 31, 2025. The report, which expresses an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting at December 31, 2025, is included in this Item under the heading “Report of Independent Registered Public Accounting Firm.”
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders
+
+Diamondback Energy, Inc.
+
+Opinion on internal control over financial reporting
+
+We have audited the internal control over financial reporting of Diamondback Energy, Inc. (a Delaware corporation) and subsidiaries (the “Company”) as of December 31, 2025, based on criteria established in the 2013 Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in the 2013 Internal Control—Integrated Framework issued by COSO.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the consolidated financial statements of the Company as of and for the year ended December 31, 2025, and our report dated February 25, 2026 expressed an unqualified opinion on those financial statements.
+
+Basis for opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control Over Financial Reporting (“Management’s Report”). Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Our audit of, and opinion on, the Company’s internal control over financial reporting does not include the internal control over financial reporting of the entities acquired in the Sitio Acquisition, whose financial statements reflect total assets and revenues constituting 6 and 1 percent, respectively, of the related consolidated financial statement amounts as of and for the year ended December 31, 2025. As indicated in Management’s Report, the entities acquired in the Sitio Acquisition were acquired during 2025. Management’s assertion on the effectiveness of the Company’s internal control over financial reporting excluded internal control over financial reporting of the entities acquired in the Sitio Acquisition.
+
+Definition and limitations of internal control over financial reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ GRANT THORNTON LLP
+
+Oklahoma City, Oklahoma
+
+February 25, 2026
+
+ITEM 9B. OTHER INFORMATION
+
+None of our directors or officers adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement during the Company’s fiscal quarter ended December 31, 2025.
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+None.
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+Information as to Item 10 will be set forth in our definitive proxy statement, which is to be filed pursuant to Regulation 14A with the SEC within 120 days after the close of the year ended December 31, 2025.
+
+We have adopted a Code of Business Conduct and Ethics that applies to our Chief Executive Officer, Chief Financial Officer, principal accounting officer and controller and persons performing similar functions. Any amendments to or waivers from the code of business conduct and ethics will be disclosed on our website. We have also made the Code of Business Conduct and Ethics available on our website under the “Investors—Corporate Governance” section at https://www.diamondbackenergy.com. We intend to satisfy the disclosure requirements under Item 5.05 of Form 8-K regarding an amendment to, or waiver from, a provision of the Code of Business Conduct and Ethics by posting such information on our website at the address specified above.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+Information as to Item 11 will be set forth in our definitive proxy statement, which is to be filed pursuant to Regulation 14A with the SEC within 120 days after the close of the year ended December 31, 2025.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+Information as to Item 12 will be set forth in our definitive proxy statement, which is to be filed pursuant to Regulation 14A with the SEC within 120 days after the close of the year ended December 31, 2025.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+Information as to Item 13 will be set forth in our definitive proxy statement, which is to be filed pursuant to Regulation 14A with the SEC within 120 days after the close of the year ended December 31, 2025.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+Information as to Item 14 will be set forth in our definitive proxy statement, which is to be filed pursuant to Regulation 14A with the SEC within 120 days after the close of the year ended December 31, 2025.
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+The financial statements filed as part of this Annual Report on Form 10-K are listed in the accompanying index to financial statements and schedules under Part II, Item 8. Financial Statements and Supplementary Data.
+
+Financial statement schedules have been omitted because they are either not required, not applicable or the information required to be presented is included in the Company’s consolidated financial statements and related notes.
+
+_______________
+
+ITEM 16. FORM 10-K SUMMARY
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.

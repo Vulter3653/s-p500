@@ -1,0 +1,31 @@
+ITEM 1C. CYBERSECURITY
+
+The Company maintains a cybersecurity program that is designed to identify, detect, assess and manage cybersecurity risks. The Company’s senior management and its Board are actively involved in the oversight of the Company’s risk management program, of which cybersecurity is an important part. The Company’s cybersecurity program, which aligns to the National Institute of Standards and Technology Cybersecurity Framework (the “NIST Framework”) includes, among other things:
+
+• regular internal and external penetration testing of our technology environments at the application, infrastructure and network level, covering the systems, products and practices collecting or storing confidential business and personal information— including user data—in accordance with the Company’s secu rity policies. This testing is conducted multiple times a year by third-party firms;
+
+• third-party provider security assessments to evaluate associated risks and appropriate internal and third-party provider security controls;
+
+• processes to manage security risks and vulnerabilities;
+
+• mandatory company-wide cybersecurity compliance and information handling training;
+
+• a documented cybersecurity incident response plan that establishes procedures, roles, responsibilities and communication protocols for internal staff and external resources in the event of a cybersecurity incident;
+
+• cybersecurity tools that assist with the automation and orchestration of security alert response based on the relative risk; and
+
+• threat intelligence sharing relationships with industry partners, peers, and government agencies, as needed and appropriate.
+
+FOX’s cybersecurity program is based on recognized best practices and standards applicable to our industry. The Company engages a third-party firm to assess the overall maturity of its program against the NIST Framework on a bi-annual basis. This evaluation includes an assessment of how the program evaluates and
+
+mitigates risk, as well as how it compares against industry benchmarks. The results of this evaluation are provided to the Audit Committee of the Board.
+
+The Company’s Chief Information Security Officer (“CISO”) leads the Company’s dedicated information security department, which monitors FOX’s prevention, detection, mitigation and remediation efforts related to cyber threats. The CISO regularly consults with the Company’s Co-Chief Privacy Officers, and the Company’s Chief Technology Officer (“CTO”) provides additional oversight of the cybersecurity program, and previously served as the Company’s CISO. The CISO has over 15 years of experience in cybersecurity, information security and technology, including a background in broadcast media and networking and systems engineering, and has held numerous industry certifications.
+
+The CISO is in regular communication with senior management regarding cybersecurity matters and provides frequent routine (generally weekly) updates to the Company’s Executive Chair and Chief Executive Officer, Chief Operating Officer (“COO”), Chief Financial Officer (“CFO”), CTO and Chief Legal and Policy Officer. As part of the Company’s incident response plan process, cybersecurity risk events of a certain criteria are communicated in a timely manner to the Company’s incident response governing body, which is comprised of members of senior management, including the COO, CTO, and CFO. The Company tests the effectiveness of the incidence response plan and assesses its response capabilities by conducting executive tabletop exercises involving detailed topical cybersecurity scenarios with these executives, as well as technical tabletop exercises including technical and operational personnel. The Company also has processes in place that are designed to ensure that decisions regarding public disclosure and reporting of cybersecurity incidents can be made in a timely manner.
+
+The Company’s Board has an active role, as a whole and at the committee level, in overseeing the management of the Company’s risks. The Audit Committee of the Board is responsible for (i) overseeing the Company’s policies and practices with respect to risk assessment and risk management, including with respect to cybersecurity and the use of AI, (ii) overseeing the Company’s financial and other major risk exposures and the steps taken to monitor and control them, and (iii) providing guidance to the Board on such matters.
+
+The Audit Committee regularly reviews and discusses FOX’s cybersecurity risks and receives updates from the CISO on how the Company identifies, assesses and mitigates these risks. The CISO provides the Audit Committee with quarterly reports regarding cybersecurity issues and risks, including information regarding progress on efforts to strengthen and enhance the Company’s cybersecurity program. The Audit Committee also periodically devotes additional meeting time, as needed, to in-depth discussions on a particularly relevant cybersecurity topic, including industry trends and relative risks. In addition to the quarterly reports, cybersecurity incidents meeting certain criteria are reported to the Audit Committee outside of regularly scheduled quarterly updates as necessary.
+
+From time to time, the Company experiences cybersecurity threats and attacks. Although no cybersecurity incident has materially affected the Company’s businesses to date, FOX expects to continue to be subject to cybersecurity threats and attacks and there can be no assurance that the Company will not experience a material incident. For more information, see Item 1A., “Risk Factors—Risks Relating to Cybersecurity, Piracy, Privacy and Data Protection.”

@@ -1,0 +1,33 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+DERIVATIVE FINANCIAL INSTRUMENTS AND MARKET RISK
+
+The following discussions about our market risk disclosures involve forward-looking statements. Actual results could differ from those projected in the forward-looking statements. We are exposed to market risk related to changes in interest rates, commodity prices, and foreign currency exchange rates.
+
+Interest Rate Risk: The fair value of our cash and cash equivalents at April 30, 2025, approximates carrying value. We are exposed to interest rate risk with regard to existing debt consisting of fixed- and variable-rate maturities. Our interest rate exposure primarily includes U.S. Treasury rates, SOFR, and commercial paper rates in the U.S.
+
+From time to time, we utilize derivative instruments to manage interest rate risk associated with anticipated debt transactions, as well as to manage changes in the fair value of our long-term debt. At the inception of an interest rate contract, the instrument is evaluated and documented for qualifying hedge accounting treatment. If the contract is designated as a cash flow hedge, the mark-to-market gains or losses on the contract are deferred and included as a component of accumulated other comprehensive income (loss) and generally reclassified to interest expense in the period during which the hedged transaction affects earnings. If the contract is designated as a fair value hedge, the contract is recognized at fair value on the balance sheet and changes in the fair value are recognized in interest expense. Generally, changes in the fair value of the contract are equal to changes in the fair value of the underlying debt and have no net impact on earnings.
+
+In November 2024, we entered into reverse treasury locks to manage our exposure to interest rate fluctuations related to the tender offers. In December 2024, concurrent with the pricing of the tender offers, we settled the reverse treasury locks and realized a net loss of $4.5 during the year ended April 30, 2025, recognized in earnings within other debt gains (charges) – net on the Statement of Consolidated Income (Loss), netting with the gain on extinguishment associated with the tender offers.
+
+In November 2023, we terminated interest rate contracts for $42.5 concurrent with the payment of the debt assumed with the acquisition of Hostess Brands. The interest rate contracts were designated as cash flow hedges and were used to manage exposure to changes in cash flows associated with variable rate debt.
+
+In 2020, we terminated all outstanding interest rate contracts concurrent with the pricing of the Senior Notes due March 15, 2030, and March 15, 2050. The contracts were designated as cash flow hedges and were used to manage our exposure to interest rate volatility associated with the anticipated debt financing. The termination resulted in a pre-tax loss of $239.8, which was deferred and included as a component of accumulated other comprehensive income (loss) and is being amortized as interest expense over the life of the debt.
+
+In measuring interest rate risk by the amount of net change in the fair value of our financial liabilities, a hypothetical
+
+100 basis-point decrease in interest rates at April 30, 2025, would increase the fair value of our long-term debt by $563.6.
+
+Commodity Price Risk: We use certain raw materials and other commodities that are subject to price volatility caused by supply and demand conditions, political and economic variables, weather, investor speculation, and other unpredictable factors. To manage the volatility related to anticipated commodity purchases, we use derivatives with maturities of generally less than one year. We do not qualify commodity derivatives for hedge accounting treatment. As a result, the gains and losses on all commodity derivatives are immediately recognized in cost of products sold.
+
+The estimated fair value was determined using quoted market prices and was based on our net derivative position by commodity for the previous four quarters. The calculations are not intended to represent actual losses or gains in fair value
+
+that we expect to incur. In practice, as markets move, we actively manage our risk and adjust hedging strategies as appropriate. The commodities hedged have a high inverse correlation to price changes of the derivative instrument. Thus, we would expect that over time any gain or loss in the estimated fair value of its derivatives would generally be offset by an increase or decrease in the estimated fair value of the underlying exposures.
+
+Foreign Currency Exchange Risk: We have operations outside the U.S. with foreign currency denominated assets and liabilities, primarily denominated in Canadian currency. Because we have foreign currency denominated assets and liabilities, financial exposure may result, primarily from the timing of transactions and the movement of exchange rates. The foreign currency balance sheet exposures as of April 30, 2025, are not expected to result in a significant impact on future earnings or
+
+cash flows.
+
+We utilize foreign currency derivatives to manage the effect of foreign currency exchange fluctuations on future cash payments primarily related to purchases of certain raw materials and finished goods. The contracts generally have maturities of less than one year. We do not qualify instruments used to manage foreign currency exchange exposures for hedge accounting treatment. Therefore, the change in value of these instruments is immediately recognized in cost of products sold. Based on our hedged foreign currency positions as of April 30, 2025, a hypothetical 10 percent change in exchange rates would not materially impact the fair value.
+
+Revenues from customers outside the U.S., subject to foreign currency exchange, represented 4 percent of consolidated net sales during 2025. Thus, certain revenues and expenses have been, and are expected to be, subject to the effect of foreign currency fluctuations, and these fluctuations may have an impact on operating results.

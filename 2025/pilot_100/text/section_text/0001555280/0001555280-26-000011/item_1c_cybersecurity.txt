@@ -1,0 +1,41 @@
+Item 1C. Cybersecurity.
+
+As a global leader in animal health, we are reliant on complex information systems and digital solutions that make us inherently vulnerable to malicious cyber intrusion and attack. In addition, we have expanded our data and digital capabilities including in our diagnostics portfolio, and as a result, there could be an increased likelihood of a cyberattack or breach of security that could negatively impact us or our customers. Despite the presence of these risks, to date, the identified risks of cybersecurity threats (including as a result of any previous cybersecurity incidents) have not materially affected us or our business strategy, results of operations, or financial condition. For a description of the risks from cybersecurity threats that may materially affect us and how they may do so, see our risk factors under P art 1. Item 1A. Risk Factors in this Annual Report on Form 10-K.
+
+Cybersecurity Program
+
+As part of our risk management processes, we have an enterprise-wide cybersecurity program aligned to the NIST Cybersecurity Framework (CSF). Our program is a risk-based program designed to protect our information systems through multiple defenses and layers of security, commonly referred to as a “Defense in Depth” approach. Key elements of our program include:
+
+Independent Third-Party Assessments
+
+We engage an independent third party to conduct comprehensive assessments of our cybersecurity program approximately every 18 months. This independent third-party assessment includes an evaluation of our cybersecurity controls based on the CSF.
+
+Training
+
+We have an information security training program that includes: monthly awareness articles, a phishing training program (with reports reviewed by the Executive Team), and both required and optional training modules for our employees and contractors in our Learning Management System.
+
+Incident Response Procedure
+
+We have a 24/7 managed Security Operations Center (SOC) for escalation of any critical events, including cybersecurity incidents. In the event of an incident, we use an Incident Response procedure leveraging NIST Standard 800-61 standards that we have customized for Zoetis. Additionally, we have in place disaster recovery and business continuity practices designed to provide for continuous business operations for our customers in the event of a cybersecurity incident. While we maintain cybersecurity insurance coverage, the costs related to cybersecurity threats or disruptions may not be fully insured.
+
+Third Party Onboarding
+
+We depend on third parties and applications on virtualized (cloud) infrastructure to operate and support our information systems and have a third-party risk management program and assessment process for onboarding third parties.
+
+Management’s Role in Risk Oversight
+
+Our information security team includes our Executive Vice President, Chief Digital & Technology Officer and our Chief Information Security Officer . Our Executive Vice President, Chief Digital & Technology Officer has over 20 years of information technology experience. Prior to Zoetis, he was the VP, Information Technology at Biogen, overseeing all aspects of Infrastructure, IT Operations, and Enterprise Architecture globally and held various corporate leadership roles at Eli Lilly and Company, including Head of IT Infrastructure and Enabling Functions. He holds a bachelor's degree in information systems and a master of business administration degree. Our Chief Information Security Officer, has over 20 years of experience in Information Security, with a specialized focus on Life Sciences and expertise in aligning cybersecurity strategies with enterprise objectives. He holds a bachelor's degree in electronic commerce and a master's degree in information systems.
+
+We have established a cybersecurity governance program with clear roles for the executive management team as well as oversight by the Board of Directors and the Audit Committee. The Zoetis information security team provides regular cyber threat intelligence briefings to management and provides updates to our senior executives on the status of the Company’s security measures and our efforts to identify and mitigate risks from cybersecurity threats. The Zoetis information security team also works closely with the Zoetis Legal team, including the Chief Compliance Officer, to further enhance incident response procedures. For example, we have a corporate crisis management plan in place to govern our response to corporate crises, which could include cyber incidents, and we conduct periodic simulated programs to ensure readiness. This plan also includes a standard
+
+29 |
+
+framework for categorization of incidents based on risk level and severity, and requires escalation to Zoetis senior management and/or the Audit Committee of the Board of Directors if certain severity levels are met.
+
+Role of the Board of Directors and Committees
+
+The Board of Directors maintains an active role in the oversight of material risks. The Board of Directors utilizes its various Committees to oversee certain key risks, and has delegated responsibility to the Audit Committee for oversight of the Company’s enterprise risk management process and information security risk management program. Management, with oversight from the Zoetis Board of Directors, is responsible for the Company’s assessment and management of exposure to risk. The Audit Committee of the Board of Directors is also responsible for oversight of compliance with disclosure requirements under applicable laws and regulations, and would be consulted prior to the disclosure of any material cybersecurity incident.
+
+The Zoetis information security team regularly provides an information security dashboard to the Audit Committee, covering the most active and relevant threats to Zoetis, relevant trends, and any notable events. The Zoetis information security team regularly presents updates to the Audit Committee with respect to the information security program, including the status of our security measures and our efforts to identify and mitigate information security risks. The Audit Committee also regularly reviews certain data privacy and cybersecurity metrics as part of the compliance update presented to the Audit Committee.
+
+In addition, the Chief Information Security Officer presents updates at least annually to the Board of Directors with respect to the information security program, including the results of our independent, third-party assessment. The Board of Directors also participates in periodic table-top exercises involving simulated data security incidents and the Company’s responses to those incidents.

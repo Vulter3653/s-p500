@@ -1,0 +1,371 @@
+[TABLE 001]
+FORM 10-K
+[END TABLE 001]
+
+[TABLE 002]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended June 30 , 2025
+[END TABLE 002]
+
+[TABLE 003]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to
+[END TABLE 003]
+
+[TABLE 004]
+Delaware 04-2564110 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) One Technology Drive, Milpitas, California 95035 (Address of principal executive offices) (Zip Code)
+[END TABLE 004]
+
+[TABLE 005]
+Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.001 par value per share KLAC The Nasdaq Stock Market, LLC The NASDAQ Global Select Market
+[END TABLE 005]
+
+[TABLE 006]
+Securities registered pursuant to Section 12(g) of the Act: None (Title of class)
+[END TABLE 006]
+
+[TABLE 007]
+Large Accelerated Filer x Accelerated filer o Non-accelerated filer o Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 007]
+
+[TABLE 008]
+Special Note Regarding Forward-Looking Statements ii PART I Item 1. Business 1 Item 1A. Risk Factors 10 Item 1B. Unresolved Staff Comments 32 Item 1C. Cybersecurity 32 Item 2. Properties 33 Item 3. Legal Proceedings 33 Item 4. Mine Safety Disclosures 33 PART II Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 33 Item 6. [Reserved] 35 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 35 Item 7A. Quantitative and Qualitative Disclosures About Market Risk 48 Item 8. Financial Statements and Supplementary Data 49 Consolidated Balance Sheets as of June 30, 2025 and 2024 50 Consolidated Statements of Operations for each of the three years in the period ended June 30, 2025 51 Consolidated Statements of Comprehensive Income for each of the three years in the period ended June 30, 2025 52 Consolidated Statements of Stockholders’ Equity for each of the three years in the period ended June 30, 2025 53 Consolidated Statements of Cash Flows for each of the three years in the period ended June 30, 2025 54 Notes to Consolidated Financial Statements 55 Report of Independent Registered Public Accounting Firm 95 Schedule II Valuation and Qualifying Accounts for the three years in the period ended June 30, 2025 97 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 97 Item 9A. Controls and Procedures 97 Item 9B. Other Information 98 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 99 PART III Item 10. Directors, Executive Officers and Corporate Governance 99 Item 11. Executive Compensation 99 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 99 Item 13. Certain Relationships and Related Transactions, and Director Independence 99 Item 14. Principal Accountant Fees and Services 99 PART IV Item 15. Exhibits and Financial Statement Schedules 99 Item 16. Form 10-K Summary 102 Signatures 103
+[END TABLE 008]
+
+[TABLE 009]
+Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd.
+[END TABLE 009]
+
+[TABLE 010]
+Segment Technologies Products Semiconductor Process Control Chip Manufacturing: Defect Inspection and Review Inspection and review tools are used to identify, locate, characterize, review, and analyze defects on various surfaces of patterned and unpatterned wafers. 39xx Series, 29xx Series, C30x Series, eSi50TM, Voyager ® Series, 8 Series, PumaTM Series, Micro-SRTM, CIRCLTM Series, CastorTM, Surfscan ® Series, eDR7380TM Series, eDRXTM Series. Chip Manufacturing: Metrology Metrology systems are used to measure pattern dimensions, film thickness(es), film stress, layer-to-layer alignment, pattern placement, surface topography and electro-optical properties for wafers. ArcherTM Series, ATLTM Series, Axion ® Series, SpectraShapeTM Series, SpectraFilmTM Series, Aleris ® Series, PWGTM Series, Therma-Probe ® Series, OmniMap ® RS-xxx Series, MicroSense ® product family, CAPRES product family. Chip Manufacturing: Chemistry Process Control Chemical process control equipment qualifies incoming supplies, manages tool inputs, adjusts chamber/bath conditions and monitors process waste. QualiSurf ® Series, Quali-Line Quanta ® Series, Quali-Line ® Prima ® Series, QualiLab Elite ® Series. Chip Manufacturing: In Situ Process Management Wired and wireless sensor wafers and reticles provide comprehensive data used to visualize, diagnose and control process conditions in the equipment used to manufacture chips and reticles. Additional wafer diagnostic solutions help troubleshoot and monitor materials handling to help detect and predict mechanical behaviors that may cause wafer damage. SensArray ® product family.
+[END TABLE 010]
+
+[TABLE 011]
+Wafer Manufacturing: Defect Inspection and Review, Metrology, and In Situ Process Management Wafer defect inspection, review and metrology systems are used to help wafer/substrate manufacturers manage quality throughout the wafer fabrication process by detecting defects, characterizing surface quality and assessing wafer geometry. Surfscan ® Series, eDR7380TM Series, eDRXTM Series, WaferSightTM Series, MicroSense ® wafer geometry product family, SensArray ® product family, Candela ® Series. Reticle Manufacturing: Defect Inspection, Metrology and In Situ Process Management Reticle inspection and metrology systems help reticle blank, patterned optical reticle, patterned EUV reticle, and chip manufacturers identify defects, pattern placement errors, and process issues during reticle manufacturing. In addition to reducing yield risk during production, these systems also support outgoing and incoming reticle quality control. TeronTM SL6xx Series, TeronTM 6xx Series, TeraScanTM 5xx Series, X5.xTM Series, FlashScan ® Series, LMS IPRO Series, SensArray ® product family. Packaging Manufacturing: Wafer Inspection and Metrology, Chemistry Process Control, In Situ Process Management Wafer inspection and metrology systems for advanced wafer-level packaging help packaging manufacturers detect, resolve and monitor excursions to provide greater control of quality for improved device performance. Chemistry process monitoring systems analyze and monitor wet chemicals used in wafer-level packaging (WLP), panel-level packaging (PLP), and IC substrates. KronosTM Series, Micro-SRTM, CIRCLTM-AP, irArcher ® Series, PWG5TM with XT Option, eDR7380TM, QualiSurf ® Series, Quali-Line ® Prima ® , Quali-Fill ® Libra ® Series, QualiLab Elite ® Series, SensArray ® product family. Semiconductor Software Solutions Software solutions centralize and analyze the data produced by inspection, metrology and process systems for chip, wafer, reticle and packaging manufacturing. These solutions provide run-time process control, defect excursion identification, process corrections and defect classification to accelerate yield learning rates and reduce production risk. Patterning simulation software allows researchers to evaluate advanced patterning technologies, such as EUV lithography and multiple patterning techniques. Klarity ® product family, 5D Analyzer ® , OVALiS, aiSIGHTTM, Anchor product family, RDC, FabVision ® Series, ProDATATM, PROLITHTM, I-PAT ®, SPOT ® . KLA Pro Systems: Certified and Remanufactured Products Inspection and metrology systems support the manufacture of larger design node chips and ≤200mm wafer manufacturing. Surfscan ® Series, 2835, 2367 Pro, ASET-F5x Pro, ArcherTM Series. General Purpose/Lab Application Specialty Semiconductor Manufacturing, Benchtop Metrology, Surface Characterization, Material Strength Characterization and Electrical Property Measurement. HRP ® -260, ZetaTM Series, Tencor ® P Series, Nano Indenter ® G200X, Alpha-Step ® Series, Filmetrics ® F Series, Filmetrics ® R Series, iMicro, iNano ® , Filmetrics ® Profilm3D ® Series, NanoFlip.
+[END TABLE 011]
+
+[TABLE 012]
+Segment Technologies Products Specialty Semiconductor Process Specialty Semiconductor Manufacturing Etch, plasma dicing, deposition and other wafer processing technologies and solutions for the semiconductor and microelectronics industry. SPTS Omega ® Series, SPTS Sigma ® Series, SPTS DeltaTM Series, SPTS Osprey ® Series, Primaxx ® Series, Xactix ® Series, SPTS MosaicTM Series, MVD Series.
+[END TABLE 012]
+
+[TABLE 013]
+Segment Technologies Products PCB and Component Inspection PCB Direct imaging, inspection, optical shaping, inkjet and additive printing as well as computer-aided manufacturing and engineering solutions for the PCB and IC substrate market. SerenaTM, Orbotech CorusTM Series, Orbotech InfinitumTM Series, Orbotech NuvogoTM Fine/ NuvogoTM Series, Orbotech DiamondTM Series, LuminaTM, Orbotech Ultra DimensionTM Series, Orbotech Ultra FusionTM/ FusionTM Series, Orbotech DiscoveryTM II Series, Orbotech PreciseTM Series, Orbotech Ultra PerFixTM/ PerFixTM Series, Orbotech NeosTM Series, Orbotech SprintTM Series, Orbotech MagnaTM Series, Frontline product family. Component Inspection and metrology systems for quality control and yield improvement in advanced and traditional semiconductor packaging markets. ICOSTM F26x, ICOSTM Tx Series, ZetaTM-5xx/6xx.
+[END TABLE 013]
+
+[TABLE 014]
+(Square Feet) U.S. Other Countries Total Owned (1) 1,134,127 3,147,113 4,281,240 Leased 555,043 2,292,335 2,847,378 Total 1,689,170 5,439,448 7,128,618
+[END TABLE 014]
+
+[TABLE 015]
+Period Total Number of Shares Purchased (1) Average Price Paid (3) per Share Total Number of Shares Purchased As Part of Publicly Announced Plans or Programs (1) Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (1)(2) April 1, 2025 to April 30, 2025 169,783 $ 643.29 169,783 $ 5,347,461,929 May 1, 2025 to May 31, 2025 272,564 $ 732.50 272,564 $ 5,147,809,123 June 1, 2025 to June 30, 2025 134,467 $ 867.44 134,467 $ 5,031,167,586 Total 576,814 576,814
+[END TABLE 015]
+
+[TABLE 016]
+June 2020 June 2021 June 2022 June 2023 June 2024 June 2025 KLA Corporation $100.00 $169.01 $168.30 $259.29 $444.99 $487.89 S&P 500 $100.00 $140.79 $125.85 $150.51 $187.47 $215.89 PHLX Semiconductor $100.00 $169.82 $131.43 $191.59 $288.53 $295.18
+[END TABLE 016]
+
+[TABLE 017]
+Year Ended June 30, (Dollar amounts in thousands, except diluted net income per share) 2025 2024 2023 Total revenues $ 12,156,162 $ 9,812,247 $ 10,496,056 Costs of revenues $ 4,751,867 $ 3,928,073 $ 4,218,307 Gross margin 60.9 % 60.0 % 59.8 % Net income attributable to KLA $ 4,061,643 $ 2,761,896 $ 3,387,277 Diluted net income per share attributable to KLA $ 30.37 $ 20.28 $ 24.15
+[END TABLE 017]
+
+[TABLE 018]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 FY25 vs. FY24 FY24 vs. FY23 Revenues: Product $ 9,472,854 $ 7,482,679 $ 8,379,025 $ 1,990,175 27 % $ (896,346) (11) % Service 2,683,308 2,329,568 2,117,031 353,740 15 % 212,537 10 % Total revenues $ 12,156,162 $ 9,812,247 $ 10,496,056 $ 2,343,915 24 % $ (683,809) (7) % Costs of revenues $ 4,751,867 $ 3,928,073 $ 4,218,307 $ 823,794 21 % $ (290,234) (7) % Gross margin 60.9% 60.0% 59.8% 0.9% 0.2%
+[END TABLE 018]
+
+[TABLE 019]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 FY25 vs. FY24 FY24 vs. FY23 Revenues: Semiconductor Process Control $ 10,947,359 $ 8,733,556 $ 9,324,190 $ 2,213,803 25 % $ (590,634) (6) % Specialty Semiconductor Process 587,107 528,701 543,398 58,406 11 % (14,697) (3) % PCB and Component Inspection 621,721 552,491 631,604 69,230 13 % (79,113) (13) % Total segment revenues $ 12,156,187 $ 9,814,748 $ 10,499,192 $ 2,341,439 24 % $ (684,444) (7) %
+[END TABLE 019]
+
+[TABLE 020]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 FY25 vs. FY24 FY24 vs. FY23 Revenues: Wafer Inspection $ 6,198,815 51 % $ 4,333,296 44 % $ 4,336,663 41 % $ 1,865,519 43 % $ (3,367) — % Patterning 2,196,347 18 % 2,054,442 21 % 2,791,130 26 % 141,905 7 % (736,688) (26) % Specialty Semiconductor Process 517,201 4 % 470,565 5 % 492,109 5 % 46,636 10 % (21,544) (4) % PCB and Component Inspection 355,891 3 % 291,161 3 % 378,030 4 % 64,730 22 % (86,869) (23) % Services 2,683,308 22 % 2,329,568 24 % 2,117,031 20 % 353,740 15 % 212,537 10 % Other 204,600 2 % 333,215 3 % 381,093 4 % (128,615) (39) % (47,878) (13) % Total $ 12,156,162 100 % $ 9,812,247 100 % $ 10,496,056 100 % $ 2,343,915 24 % $ (683,809) (7) %
+[END TABLE 020]
+
+[TABLE 021]
+Fiscal Year Ended June 30, 2025 2024 2023 Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Taiwan Semiconductor Manufacturing Company Limited Samsung Electronics Co., Ltd.
+[END TABLE 021]
+
+[TABLE 022]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 China $ 4,042,567 33 % $ 4,196,727 43 % $ 2,867,443 27 % Taiwan 3,205,392 27 % 1,738,065 18 % 2,493,379 24 % Korea 1,452,826 12 % 906,924 9 % 1,895,710 18 % North America 1,362,311 11 % 1,070,791 11 % 1,254,956 12 % Japan 1,133,002 9 % 963,203 10 % 888,016 9 % Europe and Israel 574,197 5 % 540,263 6 % 682,103 6 % Rest of Asia 385,867 3 % 396,274 3 % 414,449 4 % Total $ 12,156,162 100 % $ 9,812,247 100 % $ 10,496,056 100 %
+[END TABLE 022]
+
+[TABLE 023]
+Gross Margin Fiscal Year Ended June 30, 2024 60.0 % Revenue volume of products and services 1.8 % Mix of products and services sold (1.3) % Manufacturing labor, overhead and efficiencies 0.4 % Other service and manufacturing costs — % Fiscal Year Ended June 30, 2025 60.9 %
+[END TABLE 023]
+
+[TABLE 024]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 FY25 vs. FY24 FY24 vs. FY23 R&D expenses $ 1,360,334 $ 1,278,981 $ 1,296,727 $ 81,353 6 % $ (17,746) (1) % R&D expenses as a percentage of total revenues 11 % 13 % 12 % (2) % 1 %
+[END TABLE 024]
+
+[TABLE 025]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 FY25 vs. FY24 FY24 vs. FY23 SG&A expenses $ 1,029,734 $ 969,509 $ 986,326 $ 60,225 6 % $ (16,817) (2) % SG&A expenses as a percentage of total revenues 8 % 10 % 9 % (2) % 1 %
+[END TABLE 025]
+
+[TABLE 026]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 FY25 vs. FY24 FY24 vs. FY23 Interest expense $ 302,166 $ 311,253 $ 296,940 $ (9,087) (3) % $ 14,313 5 % Other expense (income), net $ (171,487) $ (155,075) $ (104,720) $ (16,412) (11) % $ (50,355) (48) % Interest expense as a percentage of total revenues 2 % 3 % 3 % Other expense (income), net as a percentage of total revenues (1) % (2) % (1) %
+[END TABLE 026]
+
+[TABLE 027]
+Year Ended June 30, (Dollar amounts in thousands) 2025 2024 2023 Income before income taxes $ 4,644,448 $ 3,190,032 $ 3,789,190 Provision for income taxes $ 582,805 $ 428,136 $ 401,839 Effective tax rate 12.5 % 13.4 % 10.6 %
+[END TABLE 027]
+
+[TABLE 028]
+As of June 30, (Dollar amounts in thousands) 2025 2024 2023 Cash and cash equivalents $ 2,078,908 $ 1,977,129 $ 1,927,865 Marketable securities 2,415,715 2,526,866 1,315,294 Total cash, cash equivalents and marketable securities $ 4,494,623 $ 4,503,995 $ 3,243,159 Percentage of total assets 28 % 29 % 23 % Year Ended June 30, (In thousands) 2025 2024 2023 Cash flows: Net cash provided by operating activities $ 4,081,903 $ 3,308,575 $ 3,669,805 Net cash used in investing activities (202,481) (1,476,985) (482,571) Net cash used in financing activities (3,785,687) (1,776,017) (2,830,289) Effect of exchange rate changes on cash and cash equivalents 8,044 (6,309) (13,988) Net increase in cash and cash equivalents $ 101,779 $ 49,264 $ 342,957
+[END TABLE 028]
+
+[TABLE 029]
+Year Ended June 30, (In thousands) 2025 2024 2023 Receivables sold under factoring agreements $ 230,552 $ 254,889 $ 328,933 Proceeds from sales of LC $ 55,525 $ 22,242 $ 69,247
+[END TABLE 029]
+
+[TABLE 030]
+Rating Agency Rating Fitch A Moody’s A2 S&P A-
+[END TABLE 030]
+
+[TABLE 031]
+Consolidated Balance Sheets as of June 30, 2025 and 2024 50 Consolidated Statements of Operations for each of the three years in the period ended June 30, 2025 51 Consolidated Statements of Comprehensive Income for each of the three years in the period ended June 30, 2025 52 Consolidated Statements of Stockholders’ Equity for each of the three years in the period ended June 30, 2025 53 Consolidated Statements of Cash Flows for each of the three years in the period ended June 30, 2025 54 Notes to Consolidated Financial Statements 55 Report of Independent Registered Public Accounting Firm (PCAOB ID 238 ) 95 Schedule II Valuation and Qualifying Accounts for the three years in the period ended June 30, 2025 97
+[END TABLE 031]
+
+[TABLE 032]
+As of June 30, (In thousands, except par value) 2025 2024 ASSETS Current assets: Cash and cash equivalents $ 2,078,908 $ 1,977,129 Marketable securities 2,415,715 2,526,866 Accounts receivable, net 2,263,915 1,833,041 Inventories 3,212,149 3,034,781 Other current assets 728,102 659,327 Total current assets 10,698,789 10,031,144 Land, property and equipment, net 1,252,775 1,109,968 Goodwill, net 1,792,193 2,015,726 Deferred income taxes 1,105,770 915,241 Purchased intangible assets, net 444,785 668,764 Other non-current assets 773,614 692,723 Total assets $ 16,067,926 $ 15,433,566 LIABILITIES AND STOCKHOLDERS’ EQUITY Current liabilities: Accounts payable $ 458,509 $ 359,487 Deferred system revenue 816,834 985,856 Deferred service revenue 548,011 501,926 Current portion of long-term debt — 749,936 Other current liabilities 2,262,441 2,063,569 Total current liabilities 4,085,795 4,660,774 Long-term debt 5,884,257 5,880,199 Deferred tax liabilities 446,945 486,690 Deferred service revenue 348,844 294,460 Other non-current liabilities 609,632 743,115 Total liabilities 11,375,473 12,065,238 Commitments and contingencies (Notes 9, 15 and 16) Stockholders’ equity: Preferred stock, $ 0.001 par value, 1,000 shares authorized, none outstanding — — Common stock, $ 0.001 par value, 500,000 shares authorized, 281,176 and 280,649 shares issued, 132,023 and 134,425 shares outstanding, as of June 30, 2025 and June 30, 2024, respectively 132 134 Capital in excess of par value 2,511,790 2,279,999 Retained earnings 2,179,330 1,137,270 Accumulated other comprehensive income (loss) 1,201 ( 49,075 ) Total stockholders’ equity 4,692,453 3,368,328 Total liabilities and stockholders’ equity $ 16,067,926 $ 15,433,566
+[END TABLE 032]
+
+[TABLE 033]
+Year Ended June 30, (In thousands, except per share amounts) 2025 2024 2023 Revenues: Product $ 9,472,854 $ 7,482,679 $ 8,379,025 Service 2,683,308 2,329,568 2,117,031 Total revenues 12,156,162 9,812,247 10,496,056 Costs and expenses: Costs of revenues 4,751,867 3,928,073 4,218,307 Research and development 1,360,334 1,278,981 1,296,727 Selling, general and administrative 1,029,734 969,509 986,326 Impairment of goodwill and purchased intangible assets 239,100 289,474 — Interest expense 302,166 311,253 296,940 Loss on extinguishment of debt — — 13,286 Other expense (income), net ( 171,487 ) ( 155,075 ) ( 104,720 ) Income before income taxes 4,644,448 3,190,032 3,789,190 Provision for income taxes 582,805 428,136 401,839 Net income 4,061,643 2,761,896 3,387,351 Less: Net income attributable to non-controlling interest — — 74 Net income attributable to KLA $ 4,061,643 $ 2,761,896 $ 3,387,277 Net income per share attributable to KLA Basic $ 30.53 $ 20.41 $ 24.28 Diluted $ 30.37 $ 20.28 $ 24.15 Weighted-average number of shares: Basic 133,030 135,345 139,483 Diluted 133,750 136,187 140,235
+[END TABLE 033]
+
+[TABLE 034]
+Year Ended June 30, (In thousands) 2025 2024 2023 Net income $ 4,061,643 $ 2,761,896 $ 3,387,351 Other comprehensive income (loss): Currency translation adjustments: Cumulative currency translation adjustments 17,820 ( 11,763 ) ( 22,288 ) Income tax benefit 749 544 1,547 Net change related to currency translation adjustments 18,569 ( 11,219 ) ( 20,741 ) Cash flow hedges: Net unrealized gains arising during the period 36,726 9,737 30,025 Reclassification adjustments for net gains included in net income ( 15,429 ) ( 25,904 ) ( 29,058 ) Income tax (provision) benefit ( 2,742 ) 2,466 2,141 Net change related to cash flow hedges 18,555 ( 13,701 ) 3,108 Net change related to unrecognized losses and transition obligations in connection with defined benefit plans 3,706 3,043 6,074 Available-for-sale securities: Net unrealized gains arising during the period 12,090 11,527 2,459 Reclassification adjustments for net (gains) losses included in net income ( 59 ) 103 986 Income tax provision ( 2,585 ) ( 2,487 ) ( 756 ) Net change related to available-for-sale securities 9,446 9,143 2,689 Other comprehensive income (loss) 50,276 ( 12,734 ) ( 8,870 ) Less: Comprehensive income attributable to non-controlling interest — — 74 Total comprehensive income attributable to KLA $ 4,111,919 $ 2,749,162 $ 3,378,407
+[END TABLE 034]
+
+[TABLE 035]
+Common Stock and Capital in Excess of Par Value Retained Earnings Accumulated Other Comprehensive Income (Loss) Total KLA Stockholders’ Equity Non-Controlling Interest Total Stockholders’ Equity (In thousands, except per share amounts) Shares Amount Balances as of June 30, 2022 141,804 $ 1,061,940 $ 366,882 $ ( 27,471 ) $ 1,401,351 $ ( 2,261 ) $ 1,399,090 Net income attributable to KLA — — 3,387,277 — 3,387,277 — 3,387,277 Net income attributable to non-controlling interest — — — — — 74 74 Other comprehensive loss — — — ( 8,870 ) ( 8,870 ) — ( 8,870 ) Net issuance under employee stock plans 790 29,930 — — 29,930 — 29,930 Repurchase of common stock ( 5,844 ) 842,467 ( 2,172,181 ) — ( 1,329,714 ) — ( 1,329,714 ) Cash dividends ($ 5.20 per share) and dividend equivalents declared — — ( 733,547 ) — ( 733,547 ) — ( 733,547 ) Stock-based compensation expense — 171,424 — — 171,424 171,424 Purchase of non-controlling interest — 1,902 — — 1,902 ( 6,196 ) ( 4,294 ) Disposal of non-controlling interest — — — — — 8,383 8,383 Balances as of June 30, 2023 136,750 2,107,663 848,431 ( 36,341 ) 2,919,753 — 2,919,753 Net income attributable to KLA — — 2,761,896 — 2,761,896 — 2,761,896 Other comprehensive loss — — — ( 12,734 ) ( 12,734 ) — ( 12,734 ) Net issuance under employee stock plans 707 1,908 — — 1,908 — 1,908 Repurchase of common stock ( 3,032 ) ( 42,133 ) ( 1,700,368 ) — ( 1,742,501 ) — ( 1,742,501 ) Cash dividends ($ 5.65 per share) and dividend equivalents declared — — ( 772,689 ) — ( 772,689 ) — ( 772,689 ) Stock-based compensation expense — 212,695 — — 212,695 — 212,695 Balances as of June 30, 2024 134,425 2,280,133 1,137,270 ( 49,075 ) 3,368,328 — 3,368,328 Net income attributable to KLA — — 4,061,643 — 4,061,643 — 4,061,643 Other comprehensive income — — — 50,276 50,276 — 50,276 Net issuance under employee stock plans 605 18,853 — — 18,853 — 18,853 Repurchase of common stock ( 3,007 ) ( 52,075 ) ( 2,113,560 ) — ( 2,165,635 ) — ( 2,165,635 ) Cash dividends ($ 6.75 per share) and dividend equivalents declared — — ( 906,023 ) — ( 906,023 ) — ( 906,023 ) Stock-based compensation expense — 265,011 — — 265,011 265,011 Balances as of June 30, 2025 132,023 $ 2,511,922 $ 2,179,330 $ 1,201 $ 4,692,453 $ — $ 4,692,453
+[END TABLE 035]
+
+[TABLE 036]
+Year Ended June 30, (In thousands) 2025 2024 2023 Cash flows from operating activities: Net income $ 4,061,643 $ 2,761,896 $ 3,387,351 Adjustments to reconcile net income to net cash provided by operating activities: Impairment of goodwill and purchased intangible assets 239,100 289,474 9,905 Depreciation and amortization 394,088 401,730 415,113 Loss on extinguishment of debt — — 13,286 Unrealized foreign exchange (gain) loss and other 14,974 ( 12,533 ) ( 17,825 ) Asset impairment charges — 11,307 — Disposal of non-controlling interest — — 8,270 Stock-based compensation expense 265,011 212,695 171,424 Net gain on sale of assets ( 161 ) — — Gain on sale of business — — ( 29,687 ) Deferred income taxes ( 246,577 ) ( 155,228 ) ( 298,145 ) Settlement of treasury lock agreement — 415 — Changes in assets and liabilities, net of assets acquired and liabilities assumed in business acquisitions: Accounts receivable ( 367,897 ) ( 80,894 ) ( 48,534 ) Inventories ( 155,170 ) ( 164,092 ) ( 749,047 ) Other assets ( 10,459 ) ( 289,509 ) ( 121,018 ) Accounts payable 33,789 24,976 ( 144,661 ) Deferred system revenue ( 169,027 ) 334,136 150,750 Deferred service revenue 100,460 203,106 88,223 Other liabilities ( 77,871 ) ( 228,904 ) 834,400 Net cash provided by operating activities 4,081,903 3,308,575 3,669,805 Cash flows from investing activities: Proceeds from sale of assets 161 5,079 — Net proceeds from sale of business — — 75,358 Business acquisitions, net of cash acquired — ( 3,682 ) ( 27,144 ) Acquisition of intellectual property ( 4,950 ) — — Capital expenditures ( 335,259 ) ( 277,384 ) ( 341,591 ) Proceeds from capital-related government assistance 6,263 — — Purchases of available-for-sale and equity securities ( 2,772,578 ) ( 2,756,987 ) ( 1,441,933 ) Proceeds from sale of available-for-sale securities 459,620 107,773 124,620 Proceeds from maturity of available-for-sale securities 2,455,815 1,459,864 1,134,182 Purchases of trading securities ( 118,288 ) ( 134,098 ) ( 96,611 ) Proceeds from sale of trading securities 105,751 121,020 89,528 Proceeds from other investments 984 1,430 1,020 Net cash used in investing activities ( 202,481 ) ( 1,476,985 ) ( 482,571 ) Cash flows from financing activities: Payment of debt issuance costs — — ( 6,515 ) Proceeds from issuance of debt, net of issuance costs — 735,043 — Proceeds from revolving credit facility, net of costs — — 300,000 Repayment of debt ( 750,000 ) — ( 1,087,250 ) Common stock repurchases ( 2,149,946 ) ( 1,735,746 ) ( 1,311,864 ) Payment of dividends to stockholders ( 904,594 ) ( 773,041 ) ( 732,556 ) Issuance of common stock 151,514 144,934 124,847 Tax withholding payments related to vested and released restricted stock units ( 132,661 ) ( 143,024 ) ( 94,806 ) Contingent consideration payable and other, net — ( 4,183 ) ( 17,850 ) Purchase of non-controlling interest — — ( 4,295 ) Net cash used in financing activities ( 3,785,687 ) ( 1,776,017 ) ( 2,830,289 ) Effect of exchange rate changes on cash and cash equivalents 8,044 ( 6,309 ) ( 13,988 ) Net increase in cash and cash equivalents 101,779 49,264 342,957 Cash and cash equivalents at beginning of period 1,977,129 1,927,865 1,584,908 Cash and cash equivalents at end of period $ 2,078,908 $ 1,977,129 $ 1,927,865 Supplemental cash flow disclosures: Income taxes paid, net $ 886,937 $ 830,835 $ 495,101 Interest paid, net of capitalized interest $ 292,771 $ 276,597 $ 223,955 Non-cash activities: Contingent consideration payable - financing activities $ — $ ( 765 ) $ ( 1,878 ) Dividends payable - financing activities $ 8,660 $ 8,043 $ 7,903 Unsettled common stock repurchase - financing activities $ 5,500 $ 5,500 $ 11,000 Accrued purchases of land, property and equipment - investing activities $ 25,740 $ 13,849 $ 18,445
+[END TABLE 036]
+
+[TABLE 037]
+Asset Category Range of Useful Lives Buildings 30 to 50 years Leasehold improvements Shorter of 15 years or lease term Machinery and equipment 2 to 10 years Office furniture and fixtures 7 years
+[END TABLE 037]
+
+[TABLE 038]
+As of As of As of (In thousands, except for percentages) June 30, 2025 June 30, 2024 June 30, 2023 Change in Fiscal 2025 Change in Fiscal 2024 Accounts receivable, net $ 2,263,915 $ 1,833,041 $ 1,753,361 $ 430,874 24 % $ 79,680 5 % Contract assets $ 105,081 $ 69,259 $ 117,137 $ 35,822 52 % $ ( 47,878 ) ( 41 ) % Contract liabilities $ 1,713,689 $ 1,782,242 $ 1,245,007 $ ( 68,553 ) ( 4 ) % $ 537,235 43 %
+[END TABLE 038]
+
+[TABLE 039]
+Level 1 Valuations based on quoted prices in active markets for identical assets or liabilities that the entity has the ability to access. Level 2 Valuations based on quoted prices for similar assets or liabilities, quoted prices in markets that are not active, or other inputs that are observable or can be corroborated by observable data for substantially the full term of the assets or liabilities. Level 3 Valuations based on inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+[END TABLE 039]
+
+[TABLE 040]
+As of June 30, 2025 (In thousands) Total Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Other Observable Inputs (Level 2) Assets Cash equivalents: Municipal securities $ 6,120 $ — $ 6,120 Corporate debt securities 1,498 — 1,498 Money market funds and other 1,531,022 1,531,022 — U.S. Government agency securities 9,955 — 9,955 U.S. Treasury securities 9,981 — 9,981 Marketable securities: Corporate debt securities 960,148 — 960,148 Municipal securities 51,453 — 51,453 U.S. Government agency securities 106,881 106,881 — U.S. Treasury securities 877,578 802,682 74,896 Equity securities 23,962 23,962 — Total cash equivalents and marketable securities (1) 3,578,598 2,464,547 1,114,051 Other current assets: Derivative assets 59,503 — 59,503 Other non-current assets: EDSP 349,530 336,090 13,440 Total financial assets (1) $ 3,987,631 $ 2,800,637 $ 1,186,994 Liabilities Derivative liabilities $ ( 28,615 ) $ — $ ( 28,615 ) Total financial liabilities $ ( 28,615 ) $ — $ ( 28,615 )
+[END TABLE 040]
+
+[TABLE 041]
+As of June 30, 2024 (In thousands) Total Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Other Observable Inputs (Level 2) Assets Cash equivalents: Corporate debt securities $ 2,312 $ — $ 2,312 Money market funds and other 1,585,832 1,585,832 — U.S. Treasury securities 35,158 — 35,158 Marketable securities: Corporate debt securities 771,920 — 771,920 Municipal securities 41,159 — 41,159 U.S. Government agency securities 105,874 105,874 — U.S. Treasury securities 716,148 476,230 239,918 Equity securities 25,566 25,566 — Total cash equivalents and marketable securities (1) 3,283,969 2,193,502 1,090,467 Other current assets: Derivative assets 36,503 — 36,503 Other non-current assets: EDSP 303,365 272,816 30,549 Total financial assets (1) $ 3,623,837 $ 2,466,318 $ 1,157,519 Liabilities Derivative liabilities $ ( 15,683 ) $ — $ ( 15,683 ) Total financial liabilities $ ( 15,683 ) $ — $ ( 15,683 )
+[END TABLE 041]
+
+[TABLE 042]
+As of June 30, (In thousands) 2025 2024 Accounts receivable, net: Accounts receivable, gross $ 2,297,930 $ 1,865,823 Allowance for credit losses ( 34,015 ) ( 32,782 ) $ 2,263,915 $ 1,833,041 Inventories: Customer service parts $ 600,769 $ 589,751 Raw materials 1,491,786 1,485,400 Work-in-process 833,933 700,895 Finished goods 285,661 258,735 $ 3,212,149 $ 3,034,781 Other current assets: Deferred costs of revenues $ 223,829 $ 279,879 Prepaid expenses 201,053 124,969 Contract assets 105,081 69,259 Prepaid income and other taxes 64,704 102,398 Other current assets 133,435 82,822 $ 728,102 $ 659,327 Land, property and equipment, net: Land $ 86,677 $ 78,260 Buildings and leasehold improvements 1,132,176 919,919 Machinery and equipment 1,238,599 1,116,793 Office furniture and fixtures 73,993 64,480 Construction-in-process 207,807 215,006 2,739,252 2,394,458 Less: accumulated depreciation ( 1,486,477 ) ( 1,284,490 ) $ 1,252,775 $ 1,109,968 Other non-current assets: EDSP $ 349,530 $ 303,365 Operating lease ROU assets 269,714 231,812 Other non-current assets 154,370 157,546 $ 773,614 $ 692,723 Other current liabilities: Customer deposits $ 636,369 $ 645,893 Compensation and benefits 418,515 371,713 EDSP 350,426 303,088 Income taxes payable 167,262 146,740 Interest payable 110,056 128,727 Operating lease liabilities 45,192 36,391 Other liabilities and accrued expenses 534,621 431,017 $ 2,262,441 $ 2,063,569 Other non-current liabilities: Income taxes payable $ 221,808 $ 291,106 Operating lease liabilities 158,833 153,117 Pension liabilities 51,750 51,778 Customer deposits 6,823 99,794 Other non-current liabilities 170,418 147,320 $ 609,632 $ 743,115
+[END TABLE 042]
+
+[TABLE 043]
+(In thousands) Currency Translation Adjustments Unrealized Gains (Losses) on Available-for-Sale Securities Unrealized Gains (Losses) on Derivatives Unrealized Gains (Losses) on Defined Benefit Plans Total Balance as of June 30, 2025 $ ( 57,277 ) $ 5,792 $ 64,798 $ ( 12,112 ) $ 1,201 Balance as of June 30, 2024 $ ( 75,846 ) $ ( 3,654 ) $ 46,243 $ ( 15,818 ) $ ( 49,075 )
+[END TABLE 043]
+
+[TABLE 044]
+Location in the Consolidated Statements of Operations Year Ended June 30, AOCI Components 2025 2024 2023 Unrealized gains (losses) on cash flow hedges from foreign exchange and interest rate contracts Revenues $ 7,466 $ 18,374 $ 31,837 Costs of revenues and operating expenses 4,678 3,766 ( 6,526 ) Interest expense 3,285 3,764 3,747 Net gains reclassified from AOCI $ 15,429 $ 25,904 $ 29,058 Unrealized gains (losses) on available-for-sale securities Other expense (income), net $ 59 $ ( 103 ) $ ( 986 )
+[END TABLE 044]
+
+[TABLE 045]
+Year Ended June 30, (In thousands) 2025 2024 2023 Other expense (income), net: Interest income $ ( 180,276 ) $ ( 160,688 ) $ ( 74,095 ) Foreign exchange (gains) losses, net 2,964 ( 7,268 ) 233 Net realized (gains) losses on sale of investments ( 59 ) 103 986 Other 5,884 12,778 ( 31,844 ) $ ( 171,487 ) $ ( 155,075 ) $ ( 104,720 )
+[END TABLE 045]
+
+[TABLE 046]
+As of June 30, 2025 (In thousands) Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value Corporate debt securities $ 957,256 $ 4,456 $ ( 66 ) $ 961,646 Money market funds and other 1,531,022 — — 1,531,022 Municipal securities 57,445 129 ( 1 ) 57,573 U.S. Government agency securities 116,436 458 ( 58 ) 116,836 U.S. Treasury securities 885,101 2,787 ( 329 ) 887,559 Subtotal 3,547,260 7,830 ( 454 ) 3,554,636 Add: Time deposits (1) 478,191 — — 478,191 Less: Cash equivalents 1,641,074 1 ( 1 ) 1,641,074 Marketable securities (2) $ 2,384,377 $ 7,829 $ ( 453 ) $ 2,391,753 As of June 30, 2024 (In thousands) Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value Corporate debt securities $ 775,277 $ 973 $ ( 2,018 ) $ 774,232 Money market funds and other 1,585,832 — — 1,585,832 Municipal securities 41,343 13 ( 197 ) 41,159 U.S. Government agency securities 106,101 26 ( 253 ) 105,874 U.S. Treasury securities 754,505 209 ( 3,408 ) 751,306 Subtotal 3,263,058 1,221 ( 5,876 ) 3,258,403 Add: Time deposits (1) 932,436 — — 932,436 Less: Cash equivalents 1,689,540 — ( 1 ) 1,689,539 Marketable securities (2) $ 2,505,954 $ 1,221 $ ( 5,875 ) $ 2,501,300
+[END TABLE 046]
+
+[TABLE 047]
+As of June 30, 2025 Less than 12 Months 12 Months or Greater Total (In thousands) Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Corporate debt securities $ 98,149 $ ( 63 ) $ 2,528 $ ( 3 ) $ 100,677 $ ( 66 ) Municipal securities 5,774 ( 1 ) — — 5,774 ( 1 ) U.S. Government agency securities 32,780 ( 58 ) — — 32,780 ( 58 ) U.S. Treasury securities 238,627 ( 297 ) 20,330 ( 32 ) 258,957 ( 329 ) Total $ 375,330 $ ( 419 ) $ 22,858 $ ( 35 ) $ 398,188 $ ( 454 )
+[END TABLE 047]
+
+[TABLE 048]
+As of June 30, 2024 Less than 12 Months 12 Months or Greater Total (In thousands) Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Corporate debt securities $ 355,882 $ ( 942 ) $ 100,957 $ ( 1,076 ) $ 456,839 $ ( 2,018 ) Municipal securities 17,364 ( 81 ) 10,788 ( 116 ) 28,152 ( 197 ) U.S. Government agency securities 58,598 ( 137 ) 17,197 ( 116 ) 75,795 ( 253 ) U.S. Treasury securities 466,144 ( 1,040 ) 166,867 ( 2,368 ) 633,011 ( 3,408 ) Total $ 897,988 $ ( 2,200 ) $ 295,809 $ ( 3,676 ) $ 1,193,797 $ ( 5,876 )
+[END TABLE 048]
+
+[TABLE 049]
+As of June 30, 2025 (In thousands) Amortized Cost Fair Value Due within one year $ 1,244,804 $ 1,246,095 Due after one year through three years 1,139,573 1,145,658 Total $ 2,384,377 $ 2,391,753
+[END TABLE 049]
+
+[TABLE 050]
+(In thousands) Semiconductor Process Control Specialty Semiconductor Process PCB & Component Inspection Total Balances as of June 30, 2023 $ 753,038 $ 681,858 $ 843,924 $ 2,278,820 Goodwill impairment — — ( 263,074 ) ( 263,074 ) Foreign currency adjustment ( 20 ) — — ( 20 ) Balances as of June 30, 2024 753,018 681,858 580,850 2,015,726 Goodwill impairment — — ( 230,400 ) ( 230,400 ) Foreign currency adjustments 6,867 — — 6,867 Balances as of June 30, 2025 $ 759,885 $ 681,858 $ 350,450 $ 1,792,193
+[END TABLE 050]
+
+[TABLE 051]
+(In thousands) As of June 30, 2025 As of June 30, 2024 Category Gross Carrying Amount Accumulated Amortization and Impairment Net Amount Gross Carrying Amount Accumulated Amortization and Impairment Net Amount Existing technology $ 1,555,688 $ 1,222,520 $ 333,168 $ 1,552,074 $ 1,045,585 $ 506,489 Customer relationships 359,555 285,274 74,281 358,567 248,106 110,461 Trade name/trademark 119,409 113,210 6,199 119,083 97,106 21,977 Order backlog and other 89,309 84,419 4,890 83,336 82,740 596 Intangible assets subject to amortization 2,123,961 1,705,423 418,538 2,113,060 1,473,537 639,523 IPR&D 46,074 19,827 26,247 46,074 16,833 29,241 Total $ 2,170,035 $ 1,725,250 $ 444,785 $ 2,159,134 $ 1,490,370 $ 668,764
+[END TABLE 051]
+
+[TABLE 052]
+Fiscal Year Ending June 30: Amortization (In thousands) 2026 $ 195,869 2027 123,357 2028 48,123 2029 35,237 2030 14,349 Thereafter 1,603 Total $ 418,538
+[END TABLE 052]
+
+[TABLE 053]
+As of June 30, 2025 As of June 30, 2024 Amount (In thousands) Effective Interest Rate Amount (In thousands) Effective Interest Rate Fixed-rate 4.650 % Senior Notes due on November 1, 2024 $ — — % $ 750,000 4.682 % Fixed-rate 4.100 % Senior Notes due on March 15, 2029 800,000 4.159 % 800,000 4.159 % Fixed-rate 4.650 % Senior Notes due on July 15, 2032 1,000,000 4.657 % 1,000,000 4.657 % Fixed-rate 4.700 % Senior Notes due on February 1, 2034 500,000 4.777 % 500,000 4.777 % Fixed-rate 5.650 % Senior Notes due on November 1, 2034 250,000 5.670 % 250,000 5.670 % Fixed-rate 5.000 % Senior Notes due on March 15, 2049 400,000 5.047 % 400,000 5.047 % Fixed-rate 3.300 % Senior Notes due on March 1, 2050 750,000 3.302 % 750,000 3.302 % Fixed-rate 4.950 % Senior Notes due on July 15, 2052 1,450,000 5.023 % 1,450,000 5.023 % Fixed-rate 5.250 % Senior Notes due on July 15, 2062 800,000 5.259 % 800,000 5.259 % Total 5,950,000 6,700,000 Unamortized discount ( 23,338 ) ( 24,866 ) Unamortized debt issuance costs ( 42,405 ) ( 44,999 ) Total $ 5,884,257 $ 6,630,135 Reported as: Current portion of long-term debt $ — $ 749,936 Long-term debt 5,884,257 5,880,199 Total $ 5,884,257 $ 6,630,135
+[END TABLE 053]
+
+[TABLE 054]
+Year Ended June 30, (In thousands) 2025 2024 Operating cash outflows from operating leases $ 47,183 $ 41,405 ROU assets obtained in exchange for new operating lease liabilities $ 46,018 $ 62,505
+[END TABLE 054]
+
+[TABLE 055]
+Fiscal Year Ending June 30: Amount (In thousands) 2026 $ 53,182 2027 47,113 2028 28,659 2029 24,033 2030 21,503 2031 and thereafter 59,562 Total lease payments 234,052 Less imputed interest ( 30,027 ) Total $ 204,025
+[END TABLE 055]
+
+[TABLE 056]
+(In thousands) Available For Grant (1)(3) Balances as of June 30, 2022 9,242 RSUs granted (2) ( 1,601 ) RSUs canceled 120 Balances as of June 30, 2023 7,761 Plan shares increased 3,250 RSUs granted (2) ( 849 ) RSUs canceled 78 Balances as of June 30, 2024 10,240 RSUs granted (2) ( 805 ) RSUs granted adjustment (4) 62 RSUs canceled 77 Balances as of June 30, 2025 9,574
+[END TABLE 056]
+
+[TABLE 057]
+Year Ended June 30, (In thousands) 2025 2024 2023 SBC expense by: Costs of revenues $ 46,502 $ 35,942 $ 29,101 R&D 77,271 60,124 44,702 SG&A 141,238 116,629 97,621 Total SBC expense $ 265,011 $ 212,695 $ 171,424
+[END TABLE 057]
+
+[TABLE 058]
+Shares (In thousands) (1) Weighted-Average Grant Date Fair Value Outstanding RSUs as of June 30, 2024 (2) 1,467 $ 424.66 Granted (3) 402 $ 726.75 Granted adjustments (4) ( 31 ) $ 397.40 Vested and released ( 507 ) $ 377.12 Forfeited ( 39 ) $ 482.79 Outstanding RSUs as of June 30, 2025 (2) 1,292 $ 536.30
+[END TABLE 058]
+
+[TABLE 059]
+(In thousands, except for weighted-average grant date fair value) Year Ended June 30, 2025 2024 2023 Weighted-average grant date fair value per unit $ 726.75 $ 584.49 $ 385.98 Grant date fair value of vested RSUs $ 191,352 $ 144,888 $ 107,217 Tax benefits realized by us in connection with vested and released RSUs $ 48,858 $ 47,315 $ 25,989
+[END TABLE 059]
+
+[TABLE 060]
+Year Ended June 30, 2025 2024 2023 Stock purchase plan: Expected stock price volatility 33.8 % 32.2 % 42.7 % Risk-free interest rate 5.0 % 5.3 % 2.5 % Dividend yield 0.9 % 1.1 % 1.6 % Expected life (in years) 0.50 0.50 0.50
+[END TABLE 060]
+
+[TABLE 061]
+(In thousands, except for weighted-average fair value per share) Year Ended June 30, 2025 2024 2023 Total cash received from employees for the issuance of shares under the ESPP $ 151,514 $ 144,934 $ 124,731 Number of shares purchased by employees through the ESPP 281 320 418 Tax benefits realized by us in connection with the disqualifying dispositions of shares purchased under the ESPP $ 2,834 $ 2,623 $ 1,916 Weighted-average fair value per share based on Black-Scholes model $ 164.88 $ 125.04 $ 89.52
+[END TABLE 061]
+
+[TABLE 062]
+(In thousands) Year Ended June 30, 2025 2024 2023 Number of shares of common stock repurchased 3,007 3,032 5,844 Total cost of repurchases $ 2,165,635 $ 1,742,501 $ 1,329,714
+[END TABLE 062]
+
+[TABLE 063]
+(In thousands, except per share amounts) Year Ended June 30, 2025 2024 2023 Numerator: Net income attributable to KLA $ 4,061,643 $ 2,761,896 $ 3,387,277 Denominator: Weighted-average shares - basic, excluding unvested RSUs 133,030 135,345 139,483 Effect of dilutive RSUs and options 720 842 752 Weighted-average shares - diluted 133,750 136,187 140,235 Basic net income per share attributable to KLA $ 30.53 $ 20.41 $ 24.28 Diluted net income per share attributable to KLA $ 30.37 $ 20.28 $ 24.15 Anti-dilutive securities excluded from the computation of diluted net income per share — 35 8
+[END TABLE 063]
+
+[TABLE 064]
+Year Ended June 30, (In thousands) 2025 2024 2023 Domestic income before income taxes $ 3,070,097 $ 1,997,090 $ 2,017,338 Foreign income before income taxes 1,574,351 1,192,942 1,771,852 Total income before income taxes $ 4,644,448 $ 3,190,032 $ 3,789,190
+[END TABLE 064]
+
+[TABLE 065]
+(In thousands) Year Ended June 30, 2025 2024 2023 Current: Federal $ 624,002 $ 395,876 $ 553,197 State 21,161 10,737 14,804 Foreign 182,448 160,401 188,991 827,611 567,014 756,992 Deferred: Federal ( 222,907 ) ( 110,686 ) ( 228,414 ) State ( 5,433 ) ( 2,770 ) ( 4,295 ) Foreign ( 16,466 ) ( 25,422 ) ( 122,444 ) ( 244,806 ) ( 138,878 ) ( 355,153 ) Provision for income taxes $ 582,805 $ 428,136 $ 401,839
+[END TABLE 065]
+
+[TABLE 066]
+(In thousands) As of June 30, 2025 2024 Deferred tax assets: Capitalized R&D expenses $ 447,043 $ 328,061 Tax credits and net operating losses 327,618 311,026 Depreciation and amortization 190,256 151,371 Inventory reserves 135,121 121,238 Employee benefits accrual 106,746 95,461 Non-deductible reserves 69,790 53,668 Unearned revenue 48,372 25,532 SBC 18,835 15,375 Other 43,843 12,785 Gross deferred tax assets 1,387,624 1,114,517 Valuation allowance ( 310,599 ) ( 289,534 ) Net deferred tax assets $ 1,077,025 $ 824,983 Deferred tax liabilities: Unremitted earnings of foreign subsidiaries not indefinitely reinvested $ ( 360,544 ) $ ( 315,231 ) Deferred profit ( 41,378 ) ( 70,204 ) Unrealized gain on investments ( 16,278 ) ( 10,949 ) Total deferred tax liabilities ( 418,200 ) ( 396,384 ) Total net deferred tax assets $ 658,825 $ 428,599
+[END TABLE 066]
+
+[TABLE 067]
+Year Ended June 30, 2025 2024 2023 Federal statutory rate 21.0 % 21.0 % 21.0 % GILTI 2.9 % 3.7 % 3.4 % Goodwill impairment 1.1 % 1.7 % — % Net change in tax reserves 0.3 % 1.1 % — % State income taxes, net of federal benefit 0.3 % 0.3 % 0.2 % Effect of SBC — % — % 0.1 % Foreign derived intangible income ( 6.6 ) % ( 5.9 ) % ( 5.7 ) % Effect of foreign operations taxed at various rates ( 5.1 ) % ( 6.6 ) % ( 7.1 ) % R&D tax credit ( 1.1 ) % ( 1.6 ) % ( 1.5 ) % Other ( 0.3 ) % ( 0.3 ) % 0.2 % Effective income tax rate 12.5 % 13.4 % 10.6 %
+[END TABLE 067]
+
+[TABLE 068]
+Year Ended June 30, (In thousands) 2025 2024 2023 Unrecognized tax benefits at the beginning of the year $ 245,707 $ 213,092 $ 217,927 Increases for tax positions taken in current year 35,429 40,209 44,590 Increases for tax positions taken in prior years 10,862 23,291 434 Decreases for lapsing of statutes of limitations ( 17,100 ) ( 4,119 ) ( 888 ) Decreases for tax positions taken in prior years ( 11,607 ) ( 26,766 ) ( 3,929 ) Decreases for settlements with taxing authorities ( 4,687 ) — ( 45,042 ) Unrecognized tax benefits at the end of the year $ 258,604 $ 245,707 $ 213,092
+[END TABLE 068]
+
+[TABLE 069]
+Year Ended June 30, (In thousands) 2025 2024 2023 Receivables sold under factoring agreements $ 230,552 $ 254,889 $ 328,933 Proceeds from sales of LC $ 55,525 $ 22,242 $ 69,247
+[END TABLE 069]
+
+[TABLE 070]
+Year Ended June 30, (In thousands) 2025 2024 2023 Derivatives Designated as Cash Flow Hedging Instruments: Rate lock agreements: Amounts included in the assessment of effectiveness $ — $ 415 $ — Foreign exchange contracts: Amounts included in the assessment of effectiveness $ 36,747 $ 9,176 $ 30,153 Amounts excluded from the assessment of effectiveness $ ( 21 ) $ 146 $ ( 128 ) Derivatives Designated as Net Investment Hedging Instruments: Foreign exchange contracts (1) $ ( 23,630 ) $ 3,459 $ 3,626
+[END TABLE 070]
+
+[TABLE 071]
+(In thousands) Revenues Costs of Revenues and Operating Expense Interest Expense Other Expense (Income), Net For the year ended June 30, 2023 Total amounts presented in the Consolidated Statements of Operations in which the effects of cash flow hedges are recorded $ 10,496,056 $ 6,501,360 $ 296,940 $ ( 104,720 ) Gains (Losses) on Derivatives Designated as Hedging Instruments: Rate lock agreements: Amount of gains reclassified from AOCI to earnings $ — $ — $ 3,747 $ — Foreign exchange contracts: Amount of gains (losses) reclassified from AOCI to earnings $ 33,243 $ ( 6,526 ) $ — $ — Amount excluded from the assessment of effectiveness recognized in earnings $ ( 1,406 ) $ — $ — $ 2,598 Gains (Losses) on Derivatives Not Designated as Hedging Instruments: Amount of losses recognized in earnings $ — $ — $ — $ ( 2,062 ) For the year ended June 30, 2024 Total amounts presented in the Consolidated Statements of Operations in which the effects of cash flow hedges are recorded $ 9,812,247 $ 6,466,037 $ 311,253 $ ( 155,075 ) Gains (Losses) on Derivatives Designated as Hedging Instruments: Rate lock agreements: Amount of gains reclassified from AOCI to earnings $ — $ — $ 3,764 $ — Foreign exchange contracts: Amount of gains reclassified from AOCI to earnings $ 19,246 $ 3,766 $ — $ — Amount excluded from the assessment of effectiveness recognized in earnings $ ( 872 ) $ — $ — $ 2,328 Gains (Losses) on Derivatives Not Designated as Hedging Instruments: Amount of gains recognized in earnings $ — $ — $ — $ 10,597 For the year ended June 30, 2025 Total amounts presented in the Consolidated Statements of Operations in which the effects of cash flow hedges are recorded $ 12,156,162 $ 7,381,035 $ 302,166 $ ( 171,487 ) Gains (Losses) on Derivatives Designated as Hedging Instruments: Rate lock agreements: Amount of gains reclassified from AOCI to earnings $ — $ — $ 3,285 $ — Foreign exchange contracts: Amount of gains reclassified from AOCI to earnings $ 8,950 $ 4,678 $ — $ — Amount excluded from the assessment of effectiveness recognized in earnings $ ( 1,484 ) $ — $ — $ 2,984 Gains (Losses) on Derivatives Not Designated as Hedging Instruments: Amount of gains recognized in earnings $ — $ — $ — $ 37,588
+[END TABLE 071]
+
+[TABLE 072]
+(In thousands) As of June 30, 2025 As of June 30, 2024 Cash flow hedge contracts - foreign currency Purchase $ 405,349 $ 426,839 Sell $ 159,475 $ 76,342 Net Investment hedge contracts - foreign currency Sell $ 384,130 $ 273,952 Other foreign currency hedge contracts Purchase $ 618,844 $ 589,171 Sell $ 429,643 $ 411,635
+[END TABLE 072]
+
+[TABLE 073]
+Asset Derivatives Liability Derivatives Balance Sheet Location As of June 30, 2025 As of June 30, 2024 Balance Sheet Location As of June 30, 2025 As of June 30, 2024 (In thousands) Fair Value Fair Value Derivatives designated as hedging instruments Foreign exchange contracts Other current assets $ 29,492 $ 13,783 Other current liabilities $ ( 24,331 ) $ ( 8,066 ) Total derivatives designated as hedging instruments 29,492 13,783 ( 24,331 ) ( 8,066 ) Derivatives not designated as hedging instruments Foreign exchange contracts Other current assets 30,011 22,720 Other current liabilities ( 4,284 ) ( 7,617 ) Total derivatives not designated as hedging instruments 30,011 22,720 ( 4,284 ) ( 7,617 ) Total derivatives $ 59,503 $ 36,503 $ ( 28,615 ) $ ( 15,683 )
+[END TABLE 073]
+
+[TABLE 074]
+Year Ended June 30, (In thousands) 2025 2024 2023 Beginning balance $ 68,903 $ 81,611 $ 77,018 Amount reclassified to earnings as net gains ( 15,429 ) ( 25,904 ) ( 29,058 ) Net change in unrealized gains 13,096 13,196 33,651 Ending balance $ 66,570 $ 68,903 $ 81,611
+[END TABLE 074]
+
+[TABLE 075]
+As of June 30, 2025 Gross Amounts of Derivatives Not Offset in the Consolidated Balance Sheets (In thousands) Gross Amounts of Derivatives Gross Amounts of Derivatives Offset in the Consolidated Balance Sheets Net Amount of Derivatives Presented in the Consolidated Balance Sheets Financial Instruments Cash Collateral Received Net Amount Derivatives - assets $ 59,503 $ — $ 59,503 $ ( 28,615 ) $ — $ 30,888 Derivatives - liabilities $ ( 28,615 ) $ — $ ( 28,615 ) $ 28,615 $ — $ —
+[END TABLE 075]
+
+[TABLE 076]
+As of June 30, 2024 Gross Amounts of Derivatives Not Offset in the Consolidated Balance Sheets (In thousands) Gross Amounts of Derivatives Gross Amounts of Derivatives Offset in the Consolidated Balance Sheets Net Amount of Derivatives Presented in the Consolidated Balance Sheets Financial Instruments Cash Collateral Received Net Amount Derivatives - assets $ 36,503 $ — $ 36,503 $ ( 15,173 ) $ — $ 21,330 Derivatives - liabilities $ ( 15,683 ) $ — $ ( 15,683 ) $ 15,173 $ — $ ( 510 )
+[END TABLE 076]
+
+[TABLE 077]
+(In thousands) Semiconductor Process Control Specialty Semiconductor Process PCB and Component Inspection Total For the year ended June 30, 2023 Revenue $ 9,324,190 $ 543,398 $ 631,604 $ 10,499,192 Less: Cost of revenue 3,366,617 261,456 410,353 R&D 1,064,752 40,436 168,283 SG&A 713,924 45,982 116,613 Other segment items (1) 78,747 114,049 78,768 Segment profit (loss) $ 4,100,150 $ 81,475 $ ( 142,413 ) $ 4,039,212 For the year ended June 30, 2024 Revenue $ 8,733,556 $ 528,701 $ 552,491 $ 9,814,748 Less: Cost of revenue 3,104,254 245,791 393,531 R&D 1,077,366 40,043 147,867 SG&A 728,349 43,959 116,074 Other segment items (1) 56,014 108,069 365,292 Segment profit (loss) $ 3,767,573 $ 90,839 $ ( 470,273 ) $ 3,388,139 For the year ended June 30, 2025 Revenue $ 10,947,359 $ 587,107 $ 621,721 $ 12,156,187 Less: Cost of revenue 3,922,735 283,160 358,847 R&D 1,165,858 47,054 133,487 SG&A 814,074 48,980 102,662 Other segment items (1) 41,946 108,961 307,882 Segment profit (loss) $ 5,002,746 $ 98,952 $ ( 281,157 ) $ 4,820,541
+[END TABLE 077]
+
+[TABLE 078]
+Year Ended June 30, (In thousands) 2025 2024 2023 Total revenues for reportable segments $ 12,156,187 $ 9,814,748 $ 10,499,192 Corporate allocations and effects of changes in foreign currency exchange rates ( 25 ) ( 2,501 ) ( 3,136 ) Total revenues $ 12,156,162 $ 9,812,247 $ 10,496,056
+[END TABLE 078]
+
+[TABLE 079]
+Year Ended June 30, (In thousands) 2025 2024 2023 Total segment profit $ 4,820,541 $ 3,388,139 $ 4,039,212 Unallocated expenses (1) 45,414 41,929 44,516 Interest expense 302,166 311,253 296,940 Loss on extinguishment of debt — — 13,286 Other expense (income), net ( 171,487 ) ( 155,075 ) ( 104,720 ) Income before income taxes $ 4,644,448 $ 3,190,032 $ 3,789,190
+[END TABLE 079]
+
+[TABLE 080]
+(Dollar amounts in thousands) Year Ended June 30, 2025 2024 2023 Revenues: China $ 4,042,567 33 % $ 4,196,727 43 % $ 2,867,443 27 % Taiwan 3,205,392 27 % 1,738,065 18 % 2,493,379 24 % Korea 1,452,826 12 % 906,924 9 % 1,895,710 18 % North America 1,362,311 11 % 1,070,791 11 % 1,254,956 12 % Japan 1,133,002 9 % 963,203 10 % 888,016 9 % Europe and Israel 574,197 5 % 540,263 6 % 682,103 6 % Rest of Asia 385,867 3 % 396,274 3 % 414,449 4 % Total $ 12,156,162 100 % $ 9,812,247 100 % $ 10,496,056 100 %
+[END TABLE 080]
+
+[TABLE 081]
+(Dollar amounts in thousands) Year Ended June 30, 2025 2024 2023 Revenues: Wafer Inspection $ 6,198,815 51 % $ 4,333,296 44 % $ 4,336,663 41 % Patterning 2,196,347 18 % 2,054,442 21 % 2,791,130 26 % Specialty Semiconductor Process 517,201 4 % 470,565 5 % 492,109 5 % PCB and Component Inspection 355,891 3 % 291,161 3 % 378,030 4 % Services 2,683,308 22 % 2,329,568 24 % 2,117,031 20 % Other 204,600 2 % 333,215 3 % 381,093 4 % Total $ 12,156,162 100 % $ 9,812,247 100 % $ 10,496,056 100 %
+[END TABLE 081]
+
+[TABLE 082]
+As of June 30, (In thousands) 2025 2024 Land, property and equipment, net: U.S. $ 728,162 $ 689,937 Europe 253,848 155,812 Singapore 153,052 148,557 Israel 68,604 84,279 Rest of Asia 49,109 31,383 Total $ 1,252,775 $ 1,109,968
+[END TABLE 082]
+
+[TABLE 083]
+(In thousands) Balance at Beginning of Period Charged to Expense Deductions/Adjustments Balance at End of Period Fiscal Year Ended June 30, 2023: Allowance for Credit Losses $ 20,631 $ 19,894 $ ( 6,893 ) $ 33,632 Allowance for Deferred Tax Assets $ 244,429 $ — $ 14,743 $ 259,172 Fiscal Year Ended June 30, 2024: Allowance for Credit Losses $ 33,632 $ 5,912 $ ( 6,762 ) $ 32,782 Allowance for Deferred Tax Assets $ 259,172 $ — $ 30,362 $ 289,534 Fiscal Year Ended June 30, 2025: Allowance for Credit Losses $ 32,782 $ 11,494 $ ( 10,261 ) $ 34,015 Allowance for Deferred Tax Assets $ 289,534 $ ( 1,315 ) $ 22,380 $ 310,599
+[END TABLE 083]
+
+[TABLE 084]
+Name of Officer Title of Officer Date of Adoption Duration Maximum Number of Shares to be Sold (1) (2) Bren Higgins Executive Vice President and Chief Financial Officer May 5, 2025 432 days (3) 18,070 Ahmad Khan President, Semiconductor Products and Customers May 30, 2025 211 days (4) 23,163 Brian Lorig Executive Vice President, KLA Global Services May 2, 2025 299 days (5) 12,482
+[END TABLE 084]
+
+[TABLE 085]
+Consolidated Balance Sheets as of June 30, 2025 and 2024 50 Consolidated Statements of Operations for each of the three years in the period ended June 30, 2025 51 Consolidated Statements of Comprehensive Income for each of the three years in the period ended June 30, 2025 52 Consolidated Statements of Stockholders’ Equity for each of the three years in the period ended June 30, 2025 53 Consolidated Statements of Cash Flows for each of the three years in the period ended June 30, 2025 54 Notes to Consolidated Financial Statements 55 Report of Independent Registered Public Accounting Firm (PCAOB ID 238) 95
+[END TABLE 085]
+
+[TABLE 086]
+Schedule II—Valuation and Qualifying Accounts for the three years in the period ended June 30, 2025 97
+[END TABLE 086]
+
+[TABLE 087]
+Exhibit Number Exhibit Description Incorporated by Reference Form File No. Exhibit Number Filing Date 3.1 Restated Certificate of Incorporation 10-K No. 000-09992 3.1 August 16, 2019 3.2 Amended and Restated Bylaws 8-K No. 000-09992 3.1 November 4, 2022 4.1 Indenture dated November 6, 2014 between KLA-Tencor Corporation and Wells Fargo Bank, National Association, as trustee 8-K No. 000-09992 4.1 November 7, 2014 4.2 Form of Officer’s Certificate setting forth the terms of the Notes (with form of Notes attached) 8-K No. 000-09992 4.2 November 7, 2014 4.3 Indenture, dated as of June 23, 2022 between KLA Corporation and U.S. Bank Trust Company, National Association, as trustee 8-K No. 000-09992 4.1 June 24, 2022 4.4 Form of Officer’s Certificate setting forth the terms of the 4.650% Senior Notes due 2032, 4.950% Senior Notes due 2052, and 5.250% Senior Notes due 2062 (with form of Notes attached) 8-K No. 000-09992 4.2 June 24, 2022 4.5 Form of Officer’s Certificate setting forth the terms of the 4.100% Senior Notes due 2029 and 5.000% Senior Notes due 2049 (with form of Notes attached) 8-K No. 000-09992 4.2 March 20, 2019 4.6 Form of Officer’s Certificate setting forth the terms of the 3.300% Senior Notes due 2050 (with form of Notes attached) 8-K No. 000-09992 4.2 March 3, 2020 4.7 Officer’s Certificate, dated February 1, 2024, including the form of the Company’s 4.700% Senior Notes due 2034 8-K No. 000-09992 4.2 February 1, 2024 4.8 Description of the Registrant’s securities registered under Section 12 of the Securities Act of 1934 10-Q No. 000-09992 4.1 October 30, 2020 10.1 2004 Equity Incentive Plan (as amended and restated (as of November 7, 2018))* S-8 No. 228283 10.1 November 8, 2018 10.2 Form of Restricted Stock Unit Award Notification (Performance-Vesting)* 10-K No. 000-09992 10.2 August 6, 2021
+[END TABLE 087]
+
+[TABLE 088]
+Exhibit Number Exhibit Description Incorporated by Reference Form File No. Exhibit Number Filing Date 10.3 Form of Restricted Stock Unit Award Notification (Service-Vesting)* 10-K No. 000-09992 10.3 August 6, 2021 10.4 Form of Accelerated Stock Repurchases Agreement 8-K No. 000-09992 10.1 June 24, 2022 10.5 Executive Deferred Savings Plan (as amended and restated effective July 31, 2019)* 10-K No. 000-09992 10.9 August 16, 2019 10.6 Credit Agreement, dated as of June 8, 2022, by and among KLA Corporation, the several banks and other financial institutions party thereto as lenders, and JPMorgan Chase Bank, N.A., as administrative agent 8-K No. 000-09992 10.1 June 8, 2022 10.7 Amended and Restated Executive Severance Plan* 8-K No. 000-09992 10.1 October 20, 2016 10.8 Amended and Restated 2010 Executive Severance Plan* 10-Q No. 000-09992 10.45 October 22, 2015 10.9 Calendar Year 202 5 Executive Incentive Plan*+ 10-Q No. 000-09992 10.1 May 1, 2025 10.10 Amendment No. 1 dated as of July 25, 2022, by and among the registrant, the subsidiary guarantors party thereto, the lenders party thereto and JPMorgan Chase Bank, N.A., as administrative agent ^ 10-K No. 000-09992 10.10 August 5, 2022 10.11 Form of Restricted Stock Unit Award Notification and Agreement (Special Awards)*+ 10-Q No. 000-09992 10.1 October 28, 2022 10.12 KLA Corporation 2023 Incentive Award Plan * 8-K No. 000-09992 10.1 November 3, 2023 10.13 KLA Corporation 2023 Incentive Award Plan Global Restricted Stock Unit Agreement * 10-Q No. 000-09992 10.2 January 26, 2024 10.14 Senior Advisor Agreement, dated November 15, 2024, by and between KLA Corporation and Oreste Donzella * 10-Q No. 000-09992 10.1 January 31, 2025 10.15 Credit Agreement, dated as of July 3, 2025, among KLA Corporation, the lenders party thereto, and JPMorgan Chase Bank, N.A., as administrative agent 8-K No. 000-09992 10.1 July 8, 2025 19.1 Policy on Insider Trading and Unauthorized Disclosures 21.1 List of Subsidiaries 23.1 Consent of Independent Registered Public Accounting Firm 31.1 Certification of Chief Executive Officer under Rule 13a-14(a)/15d - 14(a) of the Securities Exchange Act of 1934 31.2 Certification of Chief Financial Officer under Rule 13a-14(a)/15d - 14(a) of the Securities Exchange Act of 1934 32 Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350^ 97.1 Policy for Recovery of Erroneously Awarded Compensation 10-K No. 000-09992 97.1 August 5, 2024
+[END TABLE 088]
+
+[TABLE 089]
+Exhibit Number Exhibit Description Incorporated by Reference Form File No. Exhibit Number Filing Date 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).
+[END TABLE 089]
+
+[TABLE 090]
+* Denotes a management contract, plan or arrangement. + Certain portions of this document that constitute confidential information have been redacted in accordance with Regulation S-K, Item 601(b)(10). ^ Furnished herewith
+[END TABLE 090]
+
+[TABLE 091]
+KLA Corporation August 6, 2025 By: / S / R ICHARD P. W ALLACE Date Richard P. Wallace President and Chief Executive Officer
+[END TABLE 091]
+
+[TABLE 092]
+Signature Title Date /s/ RICHARD P. WALLACE President, Chief Executive Officer and Director (principal executive officer) August 6, 2025 Richard P. Wallace /s/ BREN D. HIGGINS Executive Vice President and Chief Financial Officer (principal financial officer) August 6, 2025 Bren D. Higgins /s/ VIRENDRA A. KIRLOSKAR Senior Vice President and Chief Accounting Officer (principal accounting officer) August 6, 2025 Virendra A. Kirloskar /s/ ROBERT M. CALDERONI Chairman of the Board and Director August 7, 2025 Robert M. Calderoni /s/ JENEANNE HANLEY Director August 7, 2025 Jeneanne Hanley /s/ EMIKO HIGASHI Director August 6, 2025 Emiko Higashi /s/ KEVIN J. KENNEDY Director August 6, 2025 Kevin J. Kennedy /s/ MICHAEL R. MCMULLEN Director August 7, 2025 Michael R. McMullen /s/ GARY B. MOORE Director August 6, 2025 Gary B. Moore /s/ VICTOR PENG Director August 6, 2025 Victor Peng
+[END TABLE 092]
+
+[TABLE 093]
+/s/ JAMIE E. SAMATH Director August 6, 2025 Jamie E. Samath /s/ SUSAN J.S. TAYLOR Director August 7, 2025 Susan J.S. Taylor
+[END TABLE 093]

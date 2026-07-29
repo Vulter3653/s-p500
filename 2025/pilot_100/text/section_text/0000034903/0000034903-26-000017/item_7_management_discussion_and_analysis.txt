@@ -1,0 +1,415 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This section generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and 2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 filed with the Securities and Exchange Commission on February 13, 2025.
+
+Forward-Looking Statements
+
+Certain statements in this section or elsewhere in this report may be deemed “forward-looking statements”. See “Item 1A. Risk Factors” in this report for important information regarding these forward-looking statements and certain risk and uncertainties that may affect us. The following discussion should be read in conjunction with the consolidated financial statements and notes thereto appearing in “Item 8. Financial Statements and Supplementary Data” of this report.
+
+Overview
+
+Federal Realty Investment Trust (the "Parent Company" or the "Trust") is an equity real estate investment trust ("REIT"). Federal Realty OP LP (the "Operating Partnership") is the entity through which the Trust conducts substantially all of its operations and owns substantially all of its assets. The Trust owns 100% of the limited liability company interest of, is sole member of, and exercises exclusive control over Federal Realty GP LLC (the "General Partner"), which in turn, is the sole general partner of the Operating Partnership. Unless stated otherwise or the context otherwise requires, "we," "our," and "us" means the Trust and its business and operations conducted through its directly and indirectly owned subsidiaries, including the Operating Partnership. We specialize in the ownership, management, and redevelopment of high quality retail and mixed-use properties. These properties are located primarily in major coastal markets and select underserved markets that we believe have strong economic and demographic fundamentals.As of December 31, 2025, we owned or had a majority interest in community and neighborhood shopping centers and mixed-use properties which are operated as 104 predominantly retail real estate projects comprising approximately 28.8 million commercial square feet. In total, the real estate projects were 96.1% leased and 94.1% occupied at December 31, 2025. We have paid quarterly dividends to our shareholders continuously since our founding in 1962 and have increased our dividends per common share for 58 consecutive years.
+
+General Economic Conditions
+
+Significant uncertainty continues within the macro-economic environment including concerns over inflation, changing interest rates, new or higher tariffs and their impact on trade and prices, increases or decreases in federal government spending, and potentially worsening economic conditions, which presents risks for our business and tenants. We continue to monitor and address risks related to the general state of the economy. We believe the actions we have taken to maintain a strong financial position and reinforce our liquidity will continue to mitigate the negative short term impacts of the current economic environment. The extent of the future effects on our business, results of operations, cash flows, and growth strategies is highly uncertain and will ultimately depend on future developments, none of which can be predicted.
+
+Additional discussion of the impact of current economic conditions on our results and long-term operations can be found throughout Item 7 and Item 1A . Risk Factors.
+
+Corporate Responsibility
+
+We actively endeavor to operate and develop our properties in a sustainable, responsible, and effective manner with the objective being to drive long-term growth and aid in value creation for our shareholders, tenants, employees, and local communities. We have aligned our program and efforts with the United Nations Sustainable Development Goals, as described
+
+in our Sustainability Policy and our 2024 sustainability report, which are provided only for informational purposes on our website and not incorporated by reference herein.
+
+We are committed to implementing sustainable business practices at our operating properties that focus on energy efficiency, water conservation and waste minimization and have established greenhouse gas (GHG) emissions reduction targets in accordance with the Science-Based Targets initiative. To achieve this target, we are actively addressing energy efficiency projects on site such as upgrading to LED lighting, procuring zero carbon energy, reducing electric consumption, and increasing our onsite solar generation capacity. We have installed on-site solar systems at 28 of our properties with a capacity of 15.3 MW. We also installed electric vehicle car charging stations in numerous properties throughout our portfolio. We currently have nearly 500 charging stations in operation with more planned.
+
+We also understand that we face risks presented by climate change and are working to evaluate our risk exposure. In our 2024 sustainability report, we provided a disclosure pursuant to the Task Force on Climate Related Financial Disclosure and we intend to provide that disclosure annually.
+
+We are also highly committed to our employees and fostering a work environment that promotes growth, development and personal well-being. Our four core values are accountability, excellence, innovation and integrity and we seek to attract and retain talented professionals who embrace those values. All of our efforts with respect to corporate responsibility are overseen by our Board of Trustees.
+
+Our development activities have been heavily focused on owning, developing and operating properties that are certified under the U.S. Green Building Council’s® (“USGBC”) Leadership in Energy and Environmental DesignTM (LEED®) rating system which serves as a third-party verification that a building or community was designed and built to mitigate its environmental footprint. We currently have 25 LEED certified buildings and our Pike & Rose project has achieved LEED for Neighborhood Development Stage 3 Gold certification.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America, referred to as “GAAP”, requires management to make estimates and assumptions that in certain circumstances affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities, and revenues and expenses. These estimates are prepared using management’s best judgment, after considering past and current events and economic conditions. In addition, information relied upon by management in preparing such estimates includes internally generated financial and operating information, external market information, when available, and when necessary, information obtained from consultations with third party experts. Actual results could differ from these estimates. A discussion of possible risks which may affect these estimates is included in “Item 1A. Risk Factors” of this report. Management considers an accounting estimate to be critical if changes in the estimate could have a material impact on our consolidated results of operations or financial condition.
+
+Our significant accounting policies are more fully described in Note 2 to the consolidated financial statements; however, the most critical accounting policies, which are most important to the portrayal of our financial condition and results of operations, and involve the use of complex estimates and significant assumptions as to future uncertainties and, therefore, may result in actual amounts that differ from estimates, are as follows:
+
+Collectibility of Lease Income
+
+Our leases with our tenants are classified as operating leases. When collection of substantially all lease payments during the lease term is considered probable, the lease qualifies for accrual accounting. When collection of substantially all lease payments during the lease term is not considered probable, total lease revenue is limited to the lesser of revenue recognized under accrual accounting or cash received. Determining the probability of collection of substantially all lease payments during a lease term requires significant judgment. This determination is impacted by numerous factors including our assessment of the tenant’s credit worthiness, economic conditions, tenant sales productivity in that location, historical experience with the tenant and tenants operating in the same industry, future prospects for the tenant and the industry in which it operates, and the length of the lease term. If leases currently classified as probable are subsequently reclassified as not probable, any outstanding lease receivables (including straight-line rent receivables) would be written-off with a corresponding decrease in rental income. For example, in the event that our collectibility determinations were not accurate and we were required to write off additional receivables equaling 1% of rental income, our rental income and net income would decrease by $12.5 million. If leases currently classified as not probable are subsequently changed to probable, any lease receivables (including straight-line rent receivables) are re-instated with a corresponding increase to rental income.
+
+Real Estate Acquisitions
+
+Upon acquisition of operating real estate properties, we estimate the fair value of assets and liabilities acquired including land, building, improvements, leasing costs, intangibles such as acquired leases, assumed debt, and current assets and liabilities, if any. Based on these estimates, we allocate the purchase price to the applicable assets and liabilities. We utilize methods similar to those used by independent appraisers in estimating the fair value of acquired assets and liabilities. The value allocated to acquired leases is amortized over the related lease term and reflected as rental income in the statement of operations. We consider qualitative and quantitative factors in evaluating the likelihood of a tenant exercising a below market renewal option and include such renewal options in the calculation of in-place lease value when we consider these to be bargain renewal options. If the value of below market lease intangibles includes renewal option periods, we include such renewal periods in the amortization period utilized. If a tenant vacates its space prior to contractual termination of its lease, the unamortized balance of any acquired lease value is written off to rental income.
+
+During 2025 and 2024, we acquired properties included in our consolidated financial statements with a total purchase price of $1.0 billion. $11.7 million, or 1% of the total purchase price was allocated to above market lease assets and $71.6 million, or 7% was allocated to below market lease liabilities. If the amounts allocated in 2025 and 2024 to below market lease liabilities and building assets were each reduced by 5% of the total purchase price, annual below market lease liability amortization increasing rental income would decrease by approximately $3.8 million (using the weighted average life of below market liabilities at each respective acquired property) and annual depreciation expense would decrease by approximately $1.5 million (using a depreciable life of 35 years).
+
+Long-Lived Assets and Impairment
+
+There are estimates and assumptions made by management in preparing the consolidated financial statements for which the actual results will be determined over long periods of time. This includes the recoverability of long-lived assets, including our properties that have been acquired or redeveloped and our investment in certain joint ventures. Management’s evaluation of impairment includes review for possible indicators of impairment as well as, in certain circumstances, undiscounted and discounted cash flow analysis. Since most of our investments in real estate are wholly-owned or controlled assets which are held for use, a property with impairment indicators is first tested for impairment by comparing the undiscounted cash flows, taking into account the anticipated hold period, including residual value, to the current net book value of the property. If the undiscounted cash flows are less than the net book value, the property is written down to expected fair value.
+
+The calculation of both discounted and undiscounted cash flows requires management to make estimates of future cash flows including revenues, operating expenses, required maintenance and development expenditures, market conditions, demand for space by tenants and rental rates over long periods. Because our properties typically have a long life, the assumptions used to estimate the future recoverability of book value requires significant management judgment. We are also required to estimate the anticipated hold period. A change in the expected holding period from a long term hold to a short term would cause a significant change in the undiscounted cash flows and could result in an impairment charge. Actual results could be significantly different from the estimates. These estimates have a direct impact on net income, because recording an impairment charge results in a negative adjustment to net income. During the fourth quarter of 2025, we recognized a $7.4 million impairment charge related to our North Dartmouth property, as a result of an impairment analysis.
+
+Recently Adopted and Recently Issued Accounting Pronouncements
+
+See Note 2 to the consolidated financial statements.
+
+2025 and 2026 Acquisitions and Dispositions
+
+(1) Approximately $17.7 million and $0.8 million of net assets were allocated to other assets for "acquired lease costs" and "above market leases," respectively, and $23.5 million of net assets acquired were allocated to other liabilities for "below market leases."
+
+(2) Approximately $31.0 million and $6.5 million of net assets were allocated to other assets for "acquired lease costs" and "above market leases," respectively, and $11.4 million of net assets acquired were allocated to other liabilities for "below market leases."
+
+(3) Approximately $18.0 million and $2.9 million of net assets acquired were allocated to other assets for "acquired lease costs" and "above market leases," respectively, and $9.0 million of net assets acquired were allocated to other liabilities for "below market leases."
+
+(4) Approximately $18.1 million and $1.0 million of net assets acquired were allocated to other assets for "acquired lease costs" and "above market leases," respectively, and $10.5 million of net assets acquired were allocated to other liabilities for "below market leases."
+
+During the year ended December 31, 2025, we sold the following properties:
+
+On February 5, 2026, we sold a residential building at our Santana Row property and our Courthouse Center property for sales prices totaling $158.5 million.
+
+2025 Significant Debt and Equity Transactions
+
+On January 9, 2025 and October 1, 2025 we repaid two mortgage loans at our Hoboken property totaling $4.3 million,at par.
+
+On March 20, 2025, we amended and restated our $600.0 million unsecured term loan, extending the maturity date to March 20, 2028, plus two one-year extensions, at our option. We also had the right to borrow up to an additional $150.0 million, which we exercised on September 22, 2025, bringing our total amount outstanding under this agreement to $750.0 million as of December 31, 2025. Debt issuance costs related to our term loan were $4.9 million. Under an accordion feature, we have the right to request additional loans, subject to an aggregate maximum of $1.0 billion borrowed under the restated agreement. Additionally, on May 1, 2025, the interest rate was reduced by removing the 0.10% adjustment to SOFR.
+
+On October 30, 2025, we refinanced the $40.0 million mortgage loan at Azalea, with a new $55.0 million mortgage loan that bears interest at SOFR + 85 basis points, based on our credit rating, and matures on October 30, 2028, plus two one-year extensions, at our option. Debt issuance costs related to this mortgage loan were $0.6 million.
+
+On November 17, 2025, we entered into an additional unsecured term loan agreement, which gives us the capacity to borrow up to $250.0 million at an interest rate of SOFR + 85 basis points, based on our current credit rating. The loan matures on January 31, 2031, and as of December 31, 2025, we do not have any outstanding borrowings under this agreement. Debt issuance costs related to this term loan were $1.5 million. Under an accordion feature, we have the right to request additional loans, subject to an aggregate maximum of $500.0 million.
+
+On December 17, 2025, we exercised our first option to extend our $200.0 million mortgage loan at Bethesda Row by one year to December 28, 2026. We have one one-year extension, at our option remaining to extend the loan to December 28, 2027.
+
+During 2025, the maximum amount of borrowings outstanding under our revolving credit facility was $461.6 million. The weighted average amount of borrowings outstanding was $153.2 million, and the weighted average interest rate, before amortization of debt fees, was 5.0%. The revolving credit facility requires an annual facility fee which is $1.9 million under the amended credit agreement. At December 31, 2025, our revolving credit facility had $310.0 million outstanding. On October 30, 2025, the interest rate on our revolving credit facility was reduced by removing the 0.10% adjustment to SOFR.
+
+Our revolving credit facility, term loans, and certain notes require us to comply with various financial covenants, including the maintenance of minimum shareholders’ equity and debt coverage ratios and a maximum ratio of debt to net worth. As of December 31, 2025, we were in compliance with all default related debt covenants.
+
+On February 14, 2025, we amended our existing at-the-market (“ATM”) equity program under which we may from time to time offer and sell common shares. This amendment reset the aggregate offering price of the program to $750.0 million. Our ATM equity program also allows shares to be sold through forward sales contracts. We intend to use the net proceeds to fund potential acquisition opportunities, fund our development and redevelopment pipeline, repay indebtedness and/or for general corporate purposes. As of December 31, 2025, we have the capacity to issue up to $750.0 million in common shares under this program.
+
+During 2025, we settled our open forward sales agreements by issuing 476,497 common shares for net proceeds of $54.2 million.
+
+In April 2025, our Board of Trustees approved a new common share repurchase program, under which we may purchase up to $300.0 million of our outstanding common shares of beneficial interest, $0.01 par value per share from time to time using a variety of methods, including open market, privately negotiated transactions or otherwise. The specific timing and amount of common share repurchases, if any, will depend on a number of factors, including prevailing share prices, trading volume and general market conditions, along with our working capital requirements, cash flow, and other factors. The program does not require us to repurchase any dollar amount or number of common shares and may be suspended or discontinued at any time. As of December 31, 2025, no common shares have been repurchased through the program.
+
+Other Transaction
+
+In June 2018, we formed a joint venture to develop Freedom Plaza (formerly Jordan Downs Plaza), for which we own 92%. The investment in this development qualified for tax credits under the New Market Tax Credit ("NMTC") Program, established by the Community Renewal Tax Relief Act of 2000. In 2018, we transferred the earned tax credits to a third-party bank in exchange for cash proceeds. The proceeds received and related transaction costs were deferred until the end of the seven-year NMTC compliance period, which concluded in June 2025. As a result, for the year ended December 31, 2025, we recognized $14.2 million ($13.0 million, net of income attributable to noncontrolling interest) in income related to the sale of the new market tax credits.
+
+Capitalized Costs
+
+Certain external and internal costs directly related to the development, redevelopment and leasing of real estate, including pre-construction costs, real estate taxes, insurance, and construction costs and salaries and related costs of personnel directly involved, are capitalized. We capitalized external and internal costs related to both development and redevelopment activities of $185 million and $9 million, respectively, for 2025 and $136 million and $8 million, respectively, for 2024. We capitalized external and internal costs related to other property improvements of $105 million and $5 million, respectively, for 2025 and $103 million and $5 million, respectively, for 2024. We capitalized external and internal costs related to leasing activities of $19 million and $4 million, respectively, for 2025 and $27 million and $4 million, respectively, for 2024. The amount of capitalized internal costs for salaries and related benefits for development and redevelopment activities, other property improvements, and leasing activities were $8 million, $4 million, and $4 million, respectively, for both 2025 and 2024. Total capitalized costs were $326 million for 2025 and $283 million for 2024, respectively.
+
+Outlook
+
+Our long-term growth strategy is focused on growth in earnings, funds from operations, and cash flows primarily through a combination of the following:
+
+• growth in our comparable property portfolio,
+
+• expansion of our portfolio through property acquisitions, and
+
+• growth in our portfolio from property redevelopments and expansions.
+
+Although general economic impacts of elevated levels of inflation and higher interest rates are impacting us in the short-term, our long-term focus has not changed.
+
+Our comparable property growth is primarily driven by increases in rental rates on new leases and lease renewals, changes in portfolio occupancy, and the redevelopment of those assets. Over the long-term, the infill nature and strong demographics of our properties provide a strategic advantage allowing us to maintain relatively high occupancy and generally increase rental rates. We continue to experience strong demand for our commercial space as evidenced by the 2.3 million square feet of comparable space leasing we've completed in 2025, and the 2.0% spread between our leased rate of 96.1% and our occupied rate of 94.1%. However, the effects of inflationary pressures and elevated interest rates continue to negatively impact our business with the largest impacts being higher interest costs, increased material costs, and higher operating costs. Additionally, significant impacts from supply chain disruptions or tariffs could also result in extended time frames and/or increased costs for completion of our projects and tenant build-outs, which could delay the commencement of rent payments under new leases.
+
+Similarly, if our tenants experience significant disruptions in supply chains and unexpected impacts of tariffs supporting their own products, staffing issues due to labor shortages, or are otherwise impacted by worsening economic conditions, their ability to pay rent may be adversely affected. We continue to monitor these macroeconomic developments and are working with our tenants and our vendors to limit the overall impact to our business.
+
+We believe the locations and nature of our centers and diverse tenant base partially mitigates any potential negative changes in the economic environment. However, any significant reduction in our tenants' abilities to pay base rent, percentage rent or other charges, will adversely affect our financial condition and results of operations. We seek to maintain a mix of strong national, regional, and local retailers. At December 31, 2025, no single tenant accounted for more than 2.4% of annualized base rent.
+
+We continue to have several development projects in process being delivered as follows:
+
+• Phase IV at Pike & Rose is a 272,000 square foot office building (which includes 10,000 square feet of ground floor retail space). All of the space is leased, of which, 249,000 square feet is occupied. The building is expected to cost between $180 million and $190 million, and began delivering in late September 2023.
+
+• Construction on Santana West includes an eight story 369,000 square foot office building, which is expected to cost between $325 million and $335 million. Approximately 345,000 square feet of space is leased, of which 317,000 square feet is occupied.
+
+• Construction of a 258-unit residential project at Santana Row, which is expected to cost between $140 million and $148 million.
+
+• Throughout the portfolio, we currently have redevelopment projects underway with a projected total cost of approximately $304 million that we expect to stabilize over the next several years.
+
+The above includes our best estimates based on information currently known, however, the completion of construction, final costs, and the timing of leasing and openings may be further impacted by the current environment including the duration and severity of the economic impacts of broader, as well as local, economic conditions, inflation, tariffs, higher interest rates, and higher operating costs.
+
+The development of future phases of Assembly Row, Pike & Rose, Santana Row, and other properties will be pursued opportunistically based on, among other things, market conditions, tenant demand, and our evaluation of whether those phases will generate an appropriate financial return.
+
+We continue to review acquisition opportunities that complement our portfolio and provide long-term growth opportunities. Initially, some of our acquisitions do not contribute significantly to earnings growth; however, we believe they provide long-term re-leasing growth, redevelopment opportunities, and other strategic opportunities. Any growth from acquisitions is contingent on our ability to find properties that meet our qualitative standards at prices that meet our financial hurdles. Changes in interest rates may affect our success in achieving earnings growth through acquisitions by affecting both the price that must be paid to acquire a property, as well as our ability to economically finance the property acquisition. Generally, our acquisitions are initially financed by available cash and/or borrowings under our revolving credit facility which may be repaid later with funds raised through the issuance of new equity or new long-term debt. We may also finance our acquisitions through the issuance of common shares, preferred shares, or units in the Operating Partnership, as well as through assumed mortgages and property sales.
+
+At December 31, 2025, the leasable commercial square feet in our properties was 96.1% leased and 94.1% occupied. The leased rate is higher than the occupied rate due to leased spaces that are being redeveloped or improved or that are awaiting permits and, therefore, are not yet ready to be occupied. Our occupancy and leased rates are subject to variability over time due to factors including acquisitions, the timing of the start and stabilization of our redevelopment projects, lease expirations and tenant closings and bankruptcies.
+
+Comparable Properties
+
+Throughout this section, we have provided certain information on a “comparable property” basis. Information provided on a comparable property basis includes the results of properties that we owned and operated for the entirety of both periods being compared except for properties that are currently under development or are being repositioned for significant redevelopment and investment. For the year ended December 31, 2025 and the comparison of 2024, all or a portion of 94 properties were considered comparable properties and seven were considered non-comparable properties. For the year ended December 31, 2025, one property was moved from comparable properties to non-comparable properties, and two properties and one portion of three properties were removed from comparable properties, as they were sold, compared to the designations as of December 31, 2024. While there is judgment surrounding changes in designations, we typically move non-comparable properties to comparable properties once they have stabilized, which is typically considered 90% physical occupancy or when the growth expected from the redevelopment has been included in the comparable periods. We typically remove properties from
+
+comparable properties when the repositioning of the asset has commenced and has or is expected to have a significant impact to property operating income within the calendar year. Acquisitions are moved to comparable properties once we have owned the property for the entirety of comparable periods and the property is not under development or being repositioned for significant redevelopment and investment.
+
+YEAR ENDED DECEMBER 31, 2025 COMPARED TO YEAR ENDED DECEMBER 31, 2024
+
+(1) Property operating income is a non-GAAP measure that consists of rental income and mortgage interest income, less rental expenses and real estate taxes. This measure is used internally to evaluate the performance of property operations to the previous period and we consider it be a significant measure. We believe that property operating income is useful to investors in measuring the operating performance of our property portfolio because the definition excludes various items included in operating income that do not relate to, or are not indicative of, the operating performance of our properties, such as general and administrative expenses and depreciation and amortization, and allows us to isolate disparities in operating income caused by acquisitions, dispositions, and stabilization of properties. Property operating income may, therefore, provide a more consistent metric for comparing the operating performance of our real estate between periods. Property operating income should not be considered an alternative measure of operating results or cash flow from operations as determined in accordance with GAAP. The reconciliation of operating income to property operating income for 2025 and 2024 is as follows:
+
+Property Revenues
+
+Total property revenue increased $76.5 million, or 6.4%, to $1.28 billion in 2025 compared to $1.20 billion in 2024. The percentage occupied at our shopping centers was 94.1% at both December 31, 2025 and 2024. Rental income consists primarily
+
+of minimum rent, cost reimbursements from tenants and percentage rent, and is net of collectibility related adjustments. Other property income includes revenue for our Pike & Rose hotel, parking income, and other incidental income from our properties. The increase in property revenues is due primarily to the following:
+
+• an increase of $49.2 million from 2025 and 2024 acquisitions,
+
+• an increase of $36.4 million from comparable properties primarily related to higher rental rates of approximately $14.5 million, an $11.9 million increase in recoveries from tenants primarily on higher expenses and occupancy, higher average occupancy of approximately $8.6 million, and a $2.0 million increase in parking income, partially offset by a $1.9 million increase in collectibility related adjustments, and
+
+• an increase of $8.3 million from non-comparable properties primarily driven by occupancy increases,
+
+partially offset by
+
+• a decrease of $15.8 million from property dispositions.
+
+Property Expenses
+
+Total property expenses increased $27.1 million, or 6.9%, to $418.9 million in 2025 compared to $391.8 million in 2024. Changes in the components of property expenses are discussed below.
+
+Rental Expenses
+
+Rental expenses increased $17.9 million, or 7.2%, to $267.4 million in 2025 compared to $249.6 million in 2024. This increase is primarily due to the following:
+
+• and increase of $10.6 million from 2025 and 2024 acquisitions,
+
+• an increase of $7.3 million from comparable properties due primarily to higher snow removal, higher utilities, and an increase in management fees on higher revenues, partially offset by lower repairs and maintenance costs and insurance costs, and
+
+• an increase of $4.2 million from non-comparable properties due primarily to openings at Santana West and Pike & Rose Phase IV,
+
+partially offset by
+
+• a decrease of $3.7 million from property dispositions.
+
+As a result of the changes in rental income and rental expenses as discussed above, rental expenses as a percentage of rental income increased to 21.5% for the year ended December 31, 2025 from 21.3% for the year ended December 31, 2024.
+
+Real Estate Taxes
+
+Real estate tax expense increased $9.2 million, or 6.5% to $151.4 million in 2025 compared to $142.2 million in 2024 due primarily to the following:
+
+• an increase of $5.6 million from 2025 and 2024 acquisitions,
+
+• an increase of $2.8 million from comparable properties due to higher assessments and prior year refunds received during 2024, and
+
+• an increase of $2.6 million from non-comparable properties primarily due to openings at Santana West and Pike & Rose Phase IV,
+
+partially offset by
+
+• a decrease of $1.8 million from property dispositions.
+
+Property Operating Income
+
+Property operating income increased $49.4 million, or 6.1%, to $860.1 million in 2025 compared to $810.7 million in 2024. This increase is primarily driven by 2025 and 2024 acquisitions and higher rental rates and average occupancy, partially offset by property dispositions and higher collectibility related adjustments.
+
+General and administrative expenses
+
+General and administrative expense decreased $2.8 million, or 5.7%, to $46.9 million in 2025 compared to $49.7 million in 2024. This decrease is primarily driven by the $3.7 million one-time charge in 2024 related to the departure of an executive officer, partially offset by higher employee compensation expense.
+
+Depreciation and amortization
+
+Depreciation and amortization expense increased $25.2 million, or 7.4%, to $367.8 million in 2025 from $342.6 million in 2024. This increase is due primarily to 2025 and 2024 acquisitions and openings at Santana West and Pike & Rose Phase IV, partially offset by fully depreciated lease assets related to our Grossmont property and property dispositions.
+
+New Market Tax Credit Transaction Income
+
+The $14.2 million new market tax credit transaction income for the year ended December 31, 2025 is due to the sale of new market tax credits related to Freedom Plaza (see Note 7 to the consolidated financial statements for additional information).
+
+Gain on Sale of Real Estate
+
+The $150.1 million gain on sale of real estate for the year ended December 31, 2025 is due primarily to the sale of one residential building at both Santana Row and Pike & Rose, our Bristol Plaza and Hollywood Boulevard properties, and a portion of our White Marsh Other property (see Note 3 to the consolidated financial statements for additional information).
+
+The $54.0 million gain on sale of real estate for the year ended December 31, 2024 is due primarily to the sale of Third Street Promenade and a portion of our White Marsh Other property (see Note 3 to the consolidated financial statements for additional information).
+
+Impairment Charge
+
+The $7.4 million impairment charge for the year ended December 31, 2025 relates to our North Dartmouth property.
+
+Operating Income
+
+Operating income increased $129.8 million, or 27.5%, to $602.2 million in 2025 compared to $472.4 million in 2024. This increase is primarily driven by higher gains on sale of real estate, higher rental rates and average occupancy, income related to the sale of the new market tax credits, and 2025 and 2024 acquisitions, partially offset by property dispositions, impairment charge, and higher collectibility related adjustments.
+
+Other
+
+Interest Expense
+
+Interest expense increased $8.1 million, or 4.6%, to $183.6 million in 2025 compared to $175.5 million in 2024. This increase is due primarily to the following:
+
+• a decrease of $7.3 million in capitalized interest, and
+
+• an increase of $6.2 million due to higher weighted average borrowings,
+
+partially offset by,
+
+• a decrease of $5.4 million due to a lower overall weighted average borrowing rate.
+
+Gross interest costs were $196.8 million and $196.0 million in 2025 and 2024, respectively. Capitalized interest was $13.2 million and $20.5 million in 2025 and 2024, respectively.
+
+Net income attributable to noncontrolling interests
+
+Net income attributable to noncontrolling interests increased $3.4 million, or 37.7%, to $12.6 million in 2025 compared to $9.1 million in 2024. The increase is primarily attributable to the new market tax credit transaction income in 2025, as well as higher income at our properties where there is a noncontrolling interest.
+
+Discussions of year-to-year comparisons between 2024 and 2023 can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 filed with the Securities and Exchange Commission on February 13, 2025.
+
+Liquidity and Capital Resources
+
+Due to the nature of our business and strategy, we typically generate significant amounts of cash from operations which is largely paid to our common and preferred shareholders in the form of dividends because as a REIT, the Trust is generally required to make annual distributions to shareholders of at least 90% of our taxable income (cash dividends paid in 2025 were approximately $389.7 million). Remaining cash flow from operations after regular debt service requirements (including debt service relating to additional or replacement debt, as well as scheduled debt maturities) and dividend payments is used to fund recurring and non-recurring capital projects (such as tenant improvements and redevelopments). We maintain an unsecured $1.25 billion revolving credit facility to fund short term cash flow needs and also look to the public and private debt and equity markets, joint venture relationships, and property dispositions to fund capital expenditures on a long-term basis.
+
+On March 20, 2025, we amended and restated our $600.0 million unsecured term loan, extending the maturity date to March 20, 2028, plus two one-year extensions, at our option. We also increased the size of our term loan by $150.0 million, which we exercised in September 2025, bringing our total amount outstanding under this agreement to $750.0 million as of December 31, 2025. In October 2025, we refinanced the $40.0 million loan at Azalea, with a new $55.0 million mortgage loan. In the next twelve months, we have $652.4 million of debt maturing, of which $200.0 million is the mortgage loan secured by Bethesda Row, for which we have one additional one-year extension remaining, under which we could extend the maturity date to December 28, 2027.
+
+As of December 31, 2025, we had cash and cash equivalents of $107.4 million, $310.0 million outstanding on our $1.25 billion unsecured revolving credit facility, and the capacity to issue up to $750.0 million in common shares under the ATM program. We also have the ability to borrow $250.0 million through a new term loan agreement that we entered into on November 17, 2025 (see Note 5 to our consolidated financial statements for additional information); we expect to borrow the $250.0 million in February 2026 to fund debt maturities.
+
+For the year ended 2025, the weighted average amount of borrowings outstanding on our revolving credit facility was $153.2 million, and the weighted average interest rate, before amortization of debt fees, was 5.0%.
+
+Our capital requirements in 2026 will depend on acquisition opportunities, the level and general timing of our redevelopment and development activities, and the overall economic environment. We currently have development and redevelopment projects in various stages of construction with remaining costs of $322 million. We expect to incur the majority of those costs in the next two years. We expect other capital costs (excluding acquisitions) to be at levels consistent with 2025. During 2025, we acquired properties for $752.8 million, and will continue to evaluate additional opportunities in 2026.
+
+We believe cash flow from operations, the cash on our balance sheet, and our $1.25 billion revolving credit facility will allow us to continue to operate our business in the short-term. Given our ability to access the capital markets, we also expect debt or equity financing to be available to us, although newly issued debt would likely be at higher interest rates than the debt we are refinancing. We also have the ability to delay the timing of certain development and redevelopment projects as well as limit future acquisitions, reduce our operating expenditures, or re-evaluate our dividend policy. We expect these sources of liquidity and opportunities for operating flexibility to allow us to meet our financial obligations over the long term. We intend to operate with and to maintain our long term commitment to a conservative capital structure that will allow us to maintain strong debt service coverage and fixed-charge coverage ratios as part of our commitment to investment-grade debt ratings.
+
+Summary of Cash Flows
+
+Net cash provided by operating activities increased $47.8 million to $622.4 million during 2025 from $574.6 million during 2024. The increase was primarily attributable to higher net income after adjusting for non-cash items and gains on sale of real estate and the timing of payments.
+
+Net cash used in investing activities increased $296.2 million to $743.1 million during 2025 from $446.8 million during 2024. The increase was primarily attributable to:
+
+• a $461.3 million increase in acquisition of real estate primarily due to the acquisitions of the fee interest in Village Pointe in November 2025, Annapolis Town Center in October 2025, Town Center Crossing and Town Center Plaza in July 2025 and Del Monte Shopping Center in February 2025 (see Note 3 to the consolidated financial statements for additional information), as compared to the acquisitions of the fee interest in Virginia Gateway in May 2024 and Pinole Vista Crossing in July 2024, and
+
+• $44.6 million increase in capital expenditures,
+
+partially offset by,
+
+• a $205.7 million increase in net proceeds from the sale of real estate primarily due to $305.6 million of net proceeds from the sale of a residential building at both Santana Row and Pike & Rose, our Hollywood Boulevard and Bristol properties, and a portion of our White Marsh Other property in 2025, as compared to $99.9 million of net proceeds from the sale of Third Street Promenade and a portion of our White Marsh Other property in 2024.
+
+Net cash used in financing activities decreased $355.3 million to $103.0 million provided by financing activities during 2025 from $252.3 million used in financing activities during 2024. The decrease was primarily attributable to:
+
+• $600.0 million from the January 2024 repayment of our $600.0 million 3.95% senior unsecured notes at maturity,
+
+• $310.0 million in borrowings on our revolving credit facility at December 31, 2025,
+
+• $145.0 million in net proceeds from our unsecured term loan in 2025,
+
+• a $19.4 million premium paid for the capped call transactions entered into in connection with the issuance of $485.0 million 3.25% exchangeable senior notes in January 2024, and
+
+• $14.4 million in net proceeds from the refinance of the $40.0 million loan at Azalea, with a new $55.0 million mortgage loan (see Note 5 to the consolidated financial statements for additional information),
+
+partially offset by
+
+• $471.5 million in net proceeds from the issuance of $485.0 million 3.25% exchangeable senior notes in January 2024,
+
+• a $249.6 million decrease in net proceeds from the issuance of common shares under our ATM program, and
+
+• a $16.5 million increase in dividends paid to common and preferred shareholders due to an increase in the number of outstanding shares, as well as an increase to the common share dividend rate.
+
+Cash Requirements
+
+The following table provides a summary of material cash requirements comprising our fixed, noncancelable obligations as of December 31, 2025:
+
+_____________________
+
+(1) The weighted average interest rate on our fixed and variable rate debt is 3.8% as of December 31, 2025. Of the $655.6 million of debt maturing in the next twelve months as of December 31, 2025, $200.0 million is our mortgage loan secured by Bethesda Row which has a one-year extension, at our option, to extend the loan to December 2027.
+
+(2) The weighted average interest rate on the fixed and variable rate debt related to our unconsolidated real estate partnerships is 4.79% as of December 31, 2025.
+
+(3) This includes minimum rental payments related to both finance and operating leases.
+
+(4) On January 6, 2026, we purchased the fee interest under one of our ground leases at Bethesda Row for $2.5 million.The total also includes the liability related to the sale under threat of condemnation at San Antonio Center as further discussed in Note 7 to the consolidated financial statements.
+
+In addition to the amounts set forth in the table above and other liquidity requirements previously discussed, the following potential commitments exist:
+
+(a) Under the terms of the Congressional Plaza partnership agreement, a minority partner has the right to require us and the other minority partner to purchase its 26.63% interest in Congressional Plaza at the interest’s then-current fair market value. If the other minority partner defaults in their obligation, we must purchase the full interest. Based on management’s current estimate of fair market value as of December 31, 2025, our estimated liability upon exercise of the put option would range from approximately $62 million to $63 million.
+
+(b) Under the terms of various other partnership agreements, the partners have the right to exchange their operating partnership units for cash or the same number of our common shares, at our option. As of December 31, 2025, a total of 526,915 downREIT operating partnership units are outstanding.
+
+(c) The other member in The Grove at Shrewsbury and Brook 35 has the right to require us to purchase all of its approximately 4.1% interest in The Grove at Shrewsbury and approximately 6.5% interest in Brook 35 at the interests' then-current fair market value. Based on management's current estimate of fair market value as of December 31, 2025, our estimated maximum liability upon exercise of the put option would range from $9 million to $10 million.
+
+(d) The other member in Hoboken has the right to require us to purchase all of its 10% ownership interest at the interest's then-current fair market value. Based on management's current estimate of fair market value as of December 31, 2025, our estimated maximum liability upon exercise of the put option would range from $12 million to $13 million.
+
+(e) Effective June 14, 2026, the other member in Camelback Colonnade and Hilton Village has the right to require us to purchase all of its 2.0% ownership interest at the interest's then-current fair market value. Based on management's current estimate of fair value as of December 31, 2025, our estimated maximum liability upon exercise of the put option would range from $4 million to $5 million.
+
+(f) Effective October 6, 2027, the other member in the partnership that owns equity method investments in Chandler Festival and Chandler Gateway has the right to require us to purchase its 2.5% net ownership interest. Based on management's current estimate of fair value as of December 31, 2025, our estimated maximum liability upon exercise of the put option would range from $1 million and $2 million.
+
+(g) Effective June 1, 2029, the other member in Grossmont Center has the right to require us to purchase all of its 40.0% ownership interest at the interest's then-current fair market value. Based on management's current estimate of fair value as of December 31, 2025, our estimated maximum liability upon exercise of the put option would range from $68 million to $73 million.
+
+(h) At December 31, 2025, we had letters of credit outstanding of approximately $5.5 million.
+
+Off-Balance Sheet Arrangements
+
+At December 31, 2025, we have four real estate related equity method investments with total debt outstanding of $151.1 million, of which our share is $62.4 million. Our investment in these ventures at December 31, 2025 was $27.9 million.
+
+Other than the items disclosed in the Cash Requirements table, we have no off-balance sheet arrangements as of December 31, 2025 that are reasonably likely to have a current or future material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, cash requirements, or capital resources.
+
+Debt Financing Arrangements
+
+The following is a summary of our total debt outstanding as of December 31, 2025:
+
+_____________________
+
+(1) We have one one-year extension, at our option to extend the maturity date of this mortgage loan to December 28, 2027.
+
+(2) Our Azalea mortgage loan, revolving credit facility SOFR loans, and our term loans bear interest at Daily Simple SOFR, as defined in the respective credit agreements, plus a spread, based on our current credit rating.
+
+(3) The Operating Partnership is a co-borrower on this mortgage loan. Additionally, we have two one-year extensions, at our option to extend the maturity date of this mortgage loan to October 30, 2030.
+
+(4) The interest rate on this mortgage loan is fixed at 3.67% through two interest rate swap agreements.
+
+(5) The interest rates on these mortgages range from 3.91% to 5.00%.
+
+(6) The maximum amount drawn under our $1.25 billion revolving credit facility during 2025 was $461.6 million and the weighted average effective interest rate on borrowings under our revolving credit facility, before amortization of debt fees, was 5.0%.
+
+(7) The Operating Partnership is the obligor under our revolving credit facility, term loans, senior notes and debentures. A wholly owned subsidiary of the Operating Partnership is also an obligor of the $750.0 million term loan.
+
+(8) The interest rate on $450.0 million of our term loan is fixed at a weighted average interest rate of 4.17% through March 1, 2028 through interest rate swap agreements.
+
+Our revolving credit facility, unsecured term loans, and other debt agreements include financial and other covenants that may limit our operating activities in the future. As of December 31, 2025, we were in compliance with all financial and other covenants related to our revolving credit facility, term loans, and senior notes. Additionally, we were in compliance with all of the financial and other covenants that could trigger a loan default on our mortgage loans. If we were to breach any of these financial and other covenants and did not cure the breach within an applicable cure period, our lenders could require us to repay the debt immediately and, if the debt is secured, could immediately begin proceedings to take possession of the property securing the loan. Many of our debt arrangements, including our public notes and our revolving credit facility, are cross-defaulted, which means that the lenders under those debt arrangements can put us in default and require immediate repayment of their debt if we breach and fail to cure a default under certain of our other debt obligations. As a result, any default under our debt covenants could have an adverse effect on our financial condition, our results of operations, our ability to meet our obligations and the market value of our shares. Our organizational documents do not limit the level or amount of debt that we may incur.
+
+The following is a summary of our scheduled principal repayments as of December 31, 2025:
+
+_____________________
+
+(1) Our $200.0 million mortgage loan secured by Bethesda Row matures on December 28, 2026 plus one one-year extension, at our option to December 28, 2027.
+
+(2) Our $1.25 billion revolving credit facility matures on April 5, 2027 plus two six-month extensions, at our option to April 5, 2028. As of December 31, 2025, there was $310.0 million outstanding under this credit facility.
+
+(3) Our $750.0 million term loan matures on March 20, 2028, plus two one-year extensions at our option to March 20, 2030.
+
+(4) Our $55.0 million mortgage loan secured by Azalea matures on October 30, 2028, plus two one-year extensions at our option to October 30, 2030.
+
+(5) The total debt maturities differ from the total reported on the consolidated balance sheet due to the unamortized net debt issuance costs and premium/discount on mortgage loans, notes payable, and senior notes as of December 31, 2025.
+
+Interest Rate Hedging
+
+We may use derivative instruments to manage exposure to variable interest rate risk. We generally enter into interest rate swaps to manage our exposure to variable interest rate risk and treasury locks to manage the risk of interest rates rising prior to the issuance of debt. We enter into derivative instruments that qualify as cash flow hedges and do not enter into derivative instruments for speculative purposes.
+
+Interest rate swaps associated with cash flow hedges are recorded at fair value on a recurring basis. Effectiveness of cash flow hedges is assessed both at inception and on an ongoing basis. The effective portion of changes in fair value of the interest rate swaps associated with cash flow hedges is recorded in other comprehensive income which is included in "accumulated other comprehensive income" on the balance sheets, statement of shareholders' equity, and statement of capital. Cash flow hedges become ineffective if critical terms of the hedging instrument and the debt instrument do not perfectly match such as notional amounts, settlement dates, reset dates, calculation period and SOFR rate. In addition, the default risk of the counterparty is evaluated by monitoring the credit worthiness of the counterparty which includes reviewing debt ratings and financial performance. If a cash flow hedge is deemed ineffective, the ineffective portion of changes in fair value of the interest rate swaps associated with cash flow hedges is recognized in earnings in the period affected.
+
+At December 31, 2025, we have interest rate swap agreements that effectively fix the rate on the following debt instruments:
+
+All swaps were designated and qualify as cash flow hedges. Hedge ineffectiveness has not impacted earnings in 2025, 2024 and 2023.
+
+REIT Qualification
+
+We intend to maintain our qualification as a REIT under Section 856(c) of the Code. As a REIT, we generally will not be subject to corporate federal income taxes on income we distribute to our shareholders as long as we satisfy certain technical requirements of the Code, including the requirement to distribute at least 90% of our taxable income to our shareholders.
+
+Funds From Operations
+
+Nareit Funds From Operations (“Nareit FFO”) is a supplemental non-GAAP financial measure of real estate companies’ operating performance. The National Association of Real Estate Investment Trusts (“Nareit”) defines FFO as follows: net income, computed in accordance with U.S. GAAP, plus real estate related depreciation and amortization, and excluding gains and losses on the sale of real estate or changes in control, net of tax, and impairment write-downs of certain real estate assets and investments in entities when the impairment is directly attributable to decreases in the value of depreciable real estate held by the entity. We compute Nareit FFO in accordance with the Nareit definition, and we have historically reported our Nareit FFO available for common shareholders in addition to our net income and net cash provided by operating activities. It should be noted that Nareit FFO:
+
+• does not represent cash flows from operating activities in accordance with GAAP (which, unlike FFO, generally reflects all cash effects of transactions and other events in the determination of net income);
+
+• should not be considered an alternative to net income as an indication of our performance; and
+
+• is not necessarily indicative of cash flow as a measure of liquidity or ability to fund cash needs, including the payment of dividends.
+
+We consider Nareit FFO available for common shareholders a meaningful, additional measure of operating performance primarily because it excludes the assumption that the value of the real estate assets diminishes predictably over time, as implied by the historical cost convention of GAAP and the recording of depreciation. We use Nareit FFO primarily as one of several means of assessing our operating performance in comparison with other REITs. Comparison of our presentation of Nareit FFO to similarly titled measures for other REITs may not necessarily be meaningful due to possible differences in the application of the Nareit definition used by such REITs.
+
+An increase or decrease in Nareit FFO available for common shareholders does not necessarily result in an increase or decrease in aggregate distributions because our Board of Trustees is not required to increase distributions on a quarterly basis. However, we must distribute at least 90% of our annual taxable income to remain qualified as a REIT. Therefore, a significant increase in Nareit FFO will generally require an increase in distributions to shareholders although not necessarily on a proportionate basis.
+
+Core Funds From Operations ("Core FFO") is a supplemental non-GAAP financial measure of performance that adjusts Nareit FFO to exclude the impact of certain items that management considers are not indicative of the Company’s ongoing operating and financial performance. These adjustments include, when applicable, (1) gains or losses on early extinguishment of debt, (2) new market tax credit transaction income, (3) executive transition costs, (4) collection of prior period rents which were contractually deferred or payments renegotiated related to the COVID-19 pandemic, and (5) other items as determined by management. Management believes Core FFO provides enhanced comparability across periods and additional insight into the Company’s underlying operating results, by excluding items that may reflect short-term fluctuations in net income and Nareit
+
+FFO. Core FFO is not intended to be a substitute for net income or Nareit FFO. Comparison of our presentation of Core FFO to similarly titled measures for other REITs may not be meaningful due to possible differences in the way Core FFO is defined or applied by other REITs.
+
+The reconciliation of net income attributable to common shareholders to Nareit FFO and Core FFO is as follows:
+
+_____________________
+
+(1) For the years ended December 31, 2025, 2024 and 2023, dividends on our Series 1 preferred stock were not deducted in the calculation of FFO available to common shareholders, as the related shares were dilutive and included in "weighted average number of common shares, diluted."
+
+(2) The weighted average common shares used to compute FFO per diluted common share includes shares issuable upon the assumed redemption of outstanding downREIT operating partnership units that were excluded from the computation of diluted EPS. The assumed issuance of shares upon redemption of these operating partnership units is dilutive in the computation of FFO per diluted common share but is anti-dilutive for the computation of diluted EPS for 2024 and 2023.
+
+(3) The $13.0 million net new market tax credit transaction income for the year ended December 31, 2025 is due to the sale of new market tax credits related to Freedom Plaza (see Note 7 to the consolidated financial statements for additional information).

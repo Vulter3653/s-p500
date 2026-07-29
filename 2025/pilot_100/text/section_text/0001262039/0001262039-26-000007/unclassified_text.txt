@@ -1,0 +1,137 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+(Mark One)
+
+For the year ended December 31 , 2025
+
+or
+
+For the transition period from to
+
+Commission file number: 001-34511
+
+______________________________________
+
+FORTINET, INC.
+
+(Exact name of registrant as specified in its charter)
+
+______________________________________
+
+909 Kifer Road
+
+Sunnyvale , California 94086
+
+(Address of principal executive offices, including zip code)
+
+( 408 ) 235-7700
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (“Exchange Act”) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Exchange Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The aggregate market value of voting stock held by non-affiliates of the registrant, as of June 30, 2025, the last business day of the registrant’s most recently completed second quarter, was $ 56,846,175,983 (based on the closing price for shares of the registrant’s common stock as reported by The Nasdaq Global Select Market on that date). Shares of common stock held by each executive officer, director, and holder of 5% or more of the registrant’s outstanding common stock have been excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes.
+
+As of February 20, 2026, there were 739,923,583 shares of the registrant’s common stock outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant’s definitive Proxy Statement relating to its 2026 Annual Meeting of Stockholders (“Proxy Statement”) are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. Such Proxy Statement will be filed with the United States Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates .
+
+FORTINET, INC.
+
+ANNUAL REPORT ON FORM 10-K
+
+For the Year Ended December 31, 2025
+
+Summary of Risk Factors
+
+Our business is subject to numerous risks and uncertainties, including those described in Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K. You should carefully consider these risks and uncertainties when investing in our common stock. Some of the principal risks and uncertainties include:
+
+• Our operating results are likely to vary significantly and be unpredictable.
+
+• Adverse economic conditions, such as a possible economic downturn or recession, and possible impacts of inflation or stagflation, tariffs, trade policies or other trade disruptions, changing interest rates, changes in government spending or regulation or reduced information technology (“IT”) spending, including firewall spending, may adversely impact our business.
+
+• We have been, are currently and may in the future be susceptible to supply chain constraints, supply shortages and disruptions, long or less predictable lead times for components and finished goods and supply changes because some of the key components in our products come from limited sources of supply.
+
+• During prior periods of supply chain disruption, including during the COVID-19 pandemic, we increased our purchase order commitments. Similar conditions could arise in the future, which may require us to accept or pay for components and finished goods regardless of our level of sales in a particular period, which may negatively or unpredictably impact our operating results and financial condition.
+
+• Our billings, revenue and free cash flow growth, including our product and service billings and revenue, may slow, and our operating margins may decline, particularly if our billings and revenue do not improve or grow as anticipated, or if customer demand, renewal rates, pricing, competitive dynamics, implementation timing, cost structure, or macroeconomic conditions adversely affect our business, which could negatively impact our financial condition and results of operations.
+
+• Our real estate assets, including construction, acquisitions, improvements, leasing activity, and ongoing maintenance and management of office buildings, warehouses, data centers and points of presence (“PoPs”), as well as data center operations, expansions or enhancements, could involve significant risks to our business.
+
+• Any weakness in sales strategy, productivity, personnel, hiring and retention, and execution could negatively impact our results of operations.
+
+• We are dependent on the continued services and performance of our senior management, as well as our ability to hire, retain and motivate qualified personnel.
+
+• We rely on third-party channel partners for substantially all of our billings, revenue, and a small number of distributors represents a large percentage of our revenue and accounts receivable.
+
+• Reliance on a concentration of shipments at the end of the quarter or changes in shipping terms could cause our billings and revenue to fall below expected levels.
+
+• We rely significantly on revenue from FortiGuard and other security subscriptions and FortiCare technical support services, and revenue from these services may decline or fluctuate in manners that could adversely impact our results of operations.
+
+• We face intense competition in our market and we may not maintain or improve our competitive position.
+
+• We are susceptible to defects or vulnerabilities, including critical vulnerabilities, in our products or services, as well as reputational harm from the failure or misuse of our products or services, and any actual or perceived defects or vulnerabilities, including critical vulnerabilities, in our products or services, failure of our products or services to detect or prevent a security incident or to cause a disruption to operations, failure of our customers to implement preventative actions such as updates to one of our deployed solutions or failure to help secure our customers, could cause our products or services to allow unauthorized access to our customers’ networks and harm our operational results and reputation more significantly as compared to other companies. Our Product Security Incident Response Team publicly posts on our FortiGuard Labs website known product vulnerabilities, including critical vulnerabilities, and methods for customers to mitigate the risk of vulnerabilities. However, there can be no assurance that such posts will be sufficiently timely, accurate or complete or that those customers will see such posts or take steps to mitigate the risk of vulnerabilities, and certain customers may be negatively impacted.
+
+• If our internal enterprise IT networks, our operational networks, our research and development networks, our back-end labs and cloud stacks hosted in our data centers or PoPs, colocation vendors or public cloud providers are compromised, public perception of our products and services may be harmed, our customers may be breached and harmed, we may become subject to liability, and our business, operating results and stock price may be adversely impacted.
+
+• We have incurred indebtedness and may incur other debt in the future, which may adversely affect our financial condition and future financial results.
+
+• We generate a majority of billings, revenue and cash flow from sales outside of the United States, which may expose us to risks associated with international operations and may adversely affect our business, financial condition and results of operations.
+
+• Our backlog may fluctuate over quarters. If we experience supply chain shortages and cannot fulfill orders or if customers cancel or delay delivery of orders, our backlog may be affected, which will negatively impact our aggregate backlog to billings conversion and revenue in such quarter. Generally, a reduction to backlog increases our aggregate billings and revenue during the quarter when delivered.
+
+• We may not be successful in executing our strategy to increase our sales to large- and medium-sized end-customers.
+
+• A portion of our revenue is generated by sales to government organizations and other adjacent customers, which are subject to a number of regulatory requirements, their own supply chain constraints and contractual requirements, challenges and risks, including impacts from geopolitical dynamics.
+
+• We order components and finished goods from third-party manufacturers based on our forecasts of future demand and targeted inventory levels, which exposes us to the risk of product shortages, tariffs, may result in lost sales, higher expenses and inventory excesses which may lead to inventory charges and costs related to future purchase commitments, possibly requiring us to sell our products at discounts or offer various other incentives.
+
+• We depend on third parties to provide various components for our products and build our products and are susceptible to manufacturing delays, capacity constraints, cost increases, and changes in the geopolitical environment.
+
+• Our inability to successfully acquire and integrate other businesses, products or technologies, or to successfully invest in and form successful strategic alliances with other businesses, could seriously harm our competitive position and could negatively affect our financial condition and results of operations.
+
+• Investors’, activists’ and regulators’ expectations of our investments and performance relating to operational sustainability factors may impose additional costs and expose us to new risks.
+
+• We are exposed to fluctuations in currency exchange rates, which could negatively affect our financial condition and results of operations.
+
+• Our proprietary rights may be difficult to enforce and we may be subject to claims by others that we infringe their proprietary technology.
+
+• The trading price of our common stock may be volatile, which volatility may be exacerbated by share repurchases under our Share Repurchase Program (the “Repurchase Program”).
+
+• Anti-takeover provisions contained in our certificate of incorporation and bylaws, as well as provisions of Delaware law, could impair a takeover attempt.
+
+• Global economic uncertainty can weaken and harm our financial position.
+
+• Weakening product demand caused by geopolitical instability, changes in trade agreements, wars and foreign conflicts, such as the war in Ukraine, tensions between China and Taiwan or conflicts in the Middle East, could adversely affect our business and financial performance.
+
+Part I

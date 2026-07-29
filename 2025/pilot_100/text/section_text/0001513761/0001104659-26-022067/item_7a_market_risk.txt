@@ -1,0 +1,23 @@
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+General
+
+We are exposed to market risk attributable to changes in interest rates, foreign currency exchange rates and fuel prices. We attempt to minimize these risks through a combination of our normal operating and financing activities and through the use of derivatives. The financial impacts of these derivative instruments are primarily offset by corresponding changes in the underlying exposures being hedged. We achieve this by closely matching the notional, term and conditions of the derivatives with the underlying risk being hedged. We do not hold or issue derivatives for trading or other speculative purposes. Derivative positions are monitored using techniques including market valuations and sensitivity analyses.
+
+Interest Rate Risk
+
+As of December 31, 2025, 90% of our debt was fixed and 10% was variable. As of December 31, 2024, 94% of our debt was fixed and 6% was variable. The change in our fixed rate percentage from December 31, 2024 to December 31, 2025 was primarily due to the addition of variable rate debt proportionally higher than the addition of fixed rate debt. Based on our December 31, 2025 outstanding variable rate debt balance, a one percentage point increase in annual Term SOFR interest rates would increase our annual interest expense by approximately $15.0 million excluding the effects of capitalization of interest.
+
+Foreign Currency Exchange Rate Risk
+
+As of December 31, 2025, we had foreign currency derivatives to hedge the exposure to volatility in foreign currency exchange rates related to our ship construction contracts denominated in euros. These derivatives hedge the foreign currency exchange rate risk on a portion of the payments on our ship construction contracts. As of December 31, 2025, the payments not hedged aggregated €16.4 billion, or $19.3 billion based on the euro/U.S. dollar exchange rate as of December 31, 2025. As of December 31, 2024, the payments not hedged aggregated €16.0 billion, or $16.6 billion, based on the euro/U.S. dollar exchange rate as of December 31, 2024. The change from December 31, 2024 to December 31, 2025 was primarily due to the addition of confirmed ship construction contracts and an increase in the contract prices of our Norwegian ships to be delivered from 2030 through 2036 offset by the delivery of Norwegian
+
+Aqua and Oceania Allura. We estimate that a 10% change in the euro as of December 31, 2025 would result in a $1.9 billion change in the U.S. dollar value of the foreign currency denominated remaining payments.
+
+Additionally, in 2025, we borrowed debt denominated in euros in connection with our newbuild program. Net gains and losses recognized in other income (expense), net from exchange rate remeasurements on euro-denominated debt were losses of $135.4 million and gains of $25.8 million for the years ended December 31, 2025 and December 31, 2024, respectively. As of December 31, 2025, the total aggregate euro-denominated debt balance not hedged was approximately €1.7 billion, or $2.0 billion based on the euro/U.S. dollar exchange rate as of December 31, 2025. We estimate that a 10% change in the euro as of December 31, 2025 would result in a $199.9 million change in the U.S. dollar value of the foreign currency denominated debt principal not hedged.
+
+Fuel Price Risk
+
+Our exposure to market risk for changes in fuel prices relates to the forecasted purchases of fuel on our ships. Fuel expense, as a percentage of our total cruise operating expense, was 12.0% for the year ended December 31, 2025 and 12.3% for the year ended December 31, 2024. We use fuel derivative agreements to mitigate the financial impact of fluctuations in fuel prices and as of December 31, 2025, we had hedged approximately 51% and 22% of our 2026 and 2027 projected metric tons of fuel purchases, respectively. As of December 31, 2024, we had hedged approximately 21% of our 2026 projected metric tons of fuel purchases. Additional fuel swaps were executed between December 31, 2024 to December 31, 2025 to lower our fuel price risk.
+
+We estimate that a 10% increase in our weighted-average fuel price would increase our anticipated 2026 fuel expense by $66.2 million. This increase would be partially offset by an increase in the fair value of our fuel swap agreements of $27.6 million. Fair value of our derivative contracts is derived using valuation models that utilize the income valuation approach. These valuation models take into account the contract terms such as maturity, as well as other inputs such as fuel types, fuel curves, creditworthiness of the counterparty and the Company, as well as other data points.

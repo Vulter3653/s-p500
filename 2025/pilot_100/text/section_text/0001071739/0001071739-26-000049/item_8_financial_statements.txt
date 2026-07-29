@@ -1,0 +1,735 @@
+Item 8. Financial Statements and Supplementary Data
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and Board of Directors
+
+Centene Corporation:
+
+Opinion on the Consolidated Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Centene Corporation and subsidiaries (the Company) as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive earnings (loss), stockholders' equity, and cash flows for each of the years in the three‐year period ended December 31, 2025, and the related notes (collectively, the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the years in the three‐year period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission, and our report dated February 17, 2026 expressed an unqualified opinion on the effectiveness of the Company's internal control over financial reporting.
+
+Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the Audit and Compliance Committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Evaluation of the estimated medical claims liability
+
+As discussed in Note 2 to the consolidated financial statements, the Company's medical claims liability includes claims reported but not yet paid, estimates for claims incurred but not reported, and estimates for the costs necessary to process unpaid claims. As discussed in Note 8 to the consolidated financial statements, the balance at December 31, 2025 was $20,544 million.
+
+We identified the evaluation of the estimated medical claims liability as a critical audit matter. The Company estimates its medical claims liability using actuarial methods. Specialized skills were required to evaluate these actuarial methods, which include analyzing historical claims data in order to estimate the medical claims liability. The medical claims liability included an estimate for medical claims developing under moderately adverse conditions, which represents the risk of adverse deviation in the Company's actuarial methods of reserving, which required auditor judgment to evaluate.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the critical audit matter. This included controls over the Company's process to evaluate the estimate of the medical claims liability. We involved actuarial professionals with specialized skills and knowledge who evaluated the actuarial methods used by the Company to estimate the medical claims liability. With the assistance of the actuarial professionals, we challenged the Company's estimate of the medical claims liability, including the effects of moderately adverse conditions, by developing an independent estimate for certain health plans using the Company's medical claims data, and relative range. We assessed the potential for management bias by evaluating the Company's position and movement within the actuarial professionals' relative range.
+
+Evaluation of the estimated Affordable Care Act risk adjustment accruals
+
+As discussed in Note 2 to the consolidated financial statements, the Affordable Care Act (ACA) established a permanent risk adjustment program. This program transfers funds from qualified individual and small group insurance plans with below average risk scores to those insurance plans with above average risk scores within each state. The final settlement of the December 31, 2025 ACA risk adjustment accruals is scheduled to be determined by the Centers for Medicare and Medicaid Services (CMS) in June 2026, based on data submitted by insurance companies through April 2026. As discussed in Note 9, the Company recorded an estimated asset and liability (the ACA risk adjustment accruals) of $1,449 million, and $2,087 million, respectively at December 31, 2025.
+
+We identified the evaluation of the estimated ACA risk adjustment accruals as a critical audit matter. Specialized skills and a higher degree of auditor judgment were required to evaluate the Company's estimates. The Company's estimates are based on its analysis of member data, claims data, and projections of claims data expected to be submitted by the Company, and other insurance plans, to CMS for settlement.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls over the Company's process to develop the estimated ACA risk adjustment accruals. We involved actuarial professionals with specialized skills and knowledge who assisted in evaluating the Company's methodology used in estimating the ACA risk adjustment accruals for consistency with the federally developed risk adjustment methodology. Additionally, the actuarial professionals assisted in evaluating the projections of claims data utilized to estimate the ACA risk adjustment accruals, and assessed the methodologies utilized by the Company for consistency with industry practice. We assessed the Company's process to estimate the ACA risk adjustment accruals, in order to consider the potential for management bias, by performing a retrospective review of the prior period ACA risk adjustment accruals and assessing the consistency of those estimated balances with the subsequent settlement.
+
+Assessment of goodwill impairment for the Medicaid, Medicare, and Commercial reporting units
+
+As discussed in Notes 2 and 7 to the consolidated financial statements, the Company performs goodwill impairment testing for its reporting units on an annual basis during the fourth quarter or more frequently if impairment indicators exist. The Company estimates the fair value of the Medicaid, Medicare, and Commercial reporting units using a weighted discounted cash flow model and guideline public company market approach. During the year ended December 31, 2025, the Company recognized a goodwill impairment charge of $6,723 million, of which $6,398 million relates to the Medicaid and Commercial reporting units.
+
+We identified the evaluation of the goodwill impairment assessment for the Medicaid, Medicare, and Commercial reporting units as a critical audit matter. Subjective auditor judgment was required to evaluate the Company's assumptions, particularly forecasted revenue growth rates and discount rates, due to their sensitivity to changes in market and economic environment. Changes in these assumptions could have a significant effect on the Company's assessment of the fair value of each reporting unit.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls over the Company's goodwill impairment process, including controls over the forecasted revenue growth rates and development of discount rates. We assessed management's forecasted revenue growth rates by comparing them to historical trends, budget, and market and economic environment. We involved valuation professionals with specialized skills and knowledge, who assisted in evaluating the discount rates by comparing them to a discount rate range that was independently developed using publicly available market data for comparable entities.
+
+/s/ KPMG LLP
+
+We have served as the Company's auditor since 2005.
+
+St. Louis, Missouri
+
+February 17, 2026
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions, except shares in thousands and per share data in dollars)
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS (LOSS)
+
+(In millions)
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+(In millions, except shares in thousands and per share data in dollars)
+
+The accompanying notes to the consolidated financial statements are an integral part of this statement.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In millions)
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements.
+
+CENTENE CORPORATION AND SUBSIDIARIES
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Organization and Operations
+
+Centene Corporation, or the Company, is a leading provider of government-sponsored healthcare. Centene's focus is on improving health and health care for low-income populations with complex needs. The Company provides access to high-quality healthcare, innovative programs and a wide range of health solutions that help families and individuals get well, stay well and be well.
+
+The Company operates in four segments: (1) a Medicaid segment, (2) a Medicare segment, (3) a Commercial segment and (4) an Other segment. The Medicaid, Medicare and Commercial segments primarily represent the government-sponsored or subsidized programs under which the Company offers managed healthcare services. Specifically, the Medicaid segment includes the Temporary Assistance for Needy Families (TANF) program, Medicaid Expansion programs, the Aged, Blind or Disabled (ABD) program, the Children's Health Insurance Program (CHIP), Long-Term Services and Supports (LTSS), Foster Care, Medicare-Medicaid Plans (MMP), which cover beneficiaries who are dually eligible for Medicaid and Medicare and other state-based programs. The Company operated MMPs, which ended on December 31, 2025 as the Centers for Medicare and Medicaid Services (CMS) transitions to Dual Eligible Special Needs Plans (D-SNPs) based integration. The Medicare segment includes Medicare Advantage, D-SNPs, Medicare Prescription Drug Plans (PDPs), also known as Medicare Part D, and Medicare Supplement. The Commercial segment includes the Health Insurance Marketplace product along with individual and commercial group, Individual Coverage Health Reimbursement Arrangement (ICHRA) and other off-exchange individual products. The Other segment includes the Company's pharmacy operations, vision and dental services, clinical healthcare, behavioral health, and centralized services, among others. The Company signed a definitive agreement to divest the remaining Magellan Health, Inc. (Magellan Health) businesses in December 2025.
+
+2. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying consolidated financial statements include the accounts of Centene Corporation and all majority owned subsidiaries and subsidiaries over which the Company exercises the power and control to direct activities significantly impacting financial performance. All material intercompany balances and transactions have been eliminated.
+
+Certain 2023 and 2024 amounts in the consolidated financial statements and notes to the consolidated financial statements have been reclassified to conform to the 2025 presentation. These reclassifications have no effect on net earnings or stockholders' equity as previously reported.
+
+During the fourth quarter of 2025, the Company signed a definitive agreement to sell Magellan Health, which was accounted for as held for sale as of December 31, 2025. During 2024, the Company completed the divestitures of Circle Health Group (Circle Health) and Collaborative Health Systems (CHS). See Note 3. Acquisitions and Divestitures for further details.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with generally accepted accounting principles in the United States (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Future events and their effects cannot be predicted with certainty; accordingly, the accounting estimates require the exercise of judgment. The accounting estimates used in the preparation of the consolidated financial statements will change as new events occur, as more experience is acquired, as additional information is obtained, and as the operating environment changes. The Company evaluates and updates its assumptions and estimates on an ongoing basis and may employ outside experts to assist in its evaluation, as considered necessary. Actual results could differ from those estimates.
+
+Business Combinations
+
+Business combinations are accounted for using the acquisition method of accounting. The Company allocates the fair value of purchase consideration to the assets acquired and liabilities assumed based on their fair values at the acquisition date. The excess of the fair value of consideration transferred over the fair value of the net assets acquired is recorded as goodwill. Goodwill is generally attributable to the value of the synergies between the combined companies and the value of the acquired assembled workforce, neither of which qualifies for recognition as an intangible asset.
+
+The Company uses its best estimates and assumptions to value assets acquired and liabilities assumed at the acquisition date; however, these estimates are sometimes preliminary and, in some instances, all information required to value the assets acquired and liabilities assumed may not be available or final as of the end of a reporting period subsequent to the business combination. If the accounting for the business combination is incomplete, provisional amounts are recorded. The provisional amounts are updated during the period determined, up to one year from the acquisition date. The Company includes the results of operations of acquired businesses in the Company's consolidated results prospectively from the date of acquisition.
+
+Acquisition related expenses and post-acquisition restructuring costs are recognized separately from the business combination and are expensed as incurred.
+
+Cash and Cash Equivalents
+
+Investments with original maturities of three months or less are considered to be cash equivalents. Cash equivalents consist of money market funds, bank certificates of deposit and savings accounts.
+
+The Company maintains amounts on deposit with various financial institutions, which may exceed federally insured limits. However, management periodically evaluates the credit-worthiness of those institutions, and the Company has not experienced any losses on such deposits.
+
+Investments
+
+Short-term investments include securities with maturities greater than three months to one year. Long-term investments include securities with maturities greater than one year.
+
+Short-term and long-term investments are generally classified as available-for-sale and are carried at fair value. Certain equity investments are recorded using the fair value or equity method. The Company monitors the difference between the carrying value and fair value of its available-for-sale debt investments and whether declines in fair value are credit related. Unrealized gains and losses on debt investments available-for-sale are excluded from earnings and reported in accumulated other comprehensive earnings (loss), a separate component of stockholders' equity, net of income tax effects. If a loss is deemed to be credit related, the Company recognizes an allowance through earnings. For each security in an unrealized loss position, the Company assesses whether it intends to sell the security or if it is more likely than not the Company will be required to sell the security before recovery of the amortized cost basis for reasons such as liquidity, contractual or regulatory purposes. If the security meets this criterion, the decline in fair value is recorded in earnings through investment and other income. Premiums and discounts are amortized or accreted over the life of the related security using the effective interest method. To calculate realized gains and losses on the sale of investments, the Company uses the specific amortized cost of each investment sold. Realized gains and losses are recorded in investment and other income.
+
+The Company uses the equity method to account for investments in entities that it does not control but has the ability to exercise significant influence over operating and financial policies. Generally, under the equity method, original investments in these entities are recorded at cost and subsequently adjusted by the Company's share of equity in income or losses after the date of acquisition as well as capital contributions to and distributions from these companies.
+
+Restricted Deposits
+
+Restricted deposits consist of investments required by various state statutes to be deposited or pledged to state agencies. These investments are classified as long-term, regardless of the contractual maturity date, due to the nature of the states' requirements. The Company is required to annually adjust the amount of the deposit pledged to certain states.
+
+Fair Value Measurements
+
+In the normal course of business, the Company invests in various financial assets and incurs various financial liabilities. Fair values are disclosed for all financial instruments, whether or not such values are recognized in the Consolidated Balance Sheets. Management obtains quoted market prices and other observable inputs for these disclosures. The carrying amounts reported in the Consolidated Balance Sheets for cash and cash equivalents, premium and trade receivables, medical claims liability, accounts payable and accrued expenses, unearned revenue and certain other current assets and liabilities are carried at cost, which approximates fair value because of their short-term nature.
+
+The following methods and assumptions were used to estimate the fair value of each financial instrument:
+
+• Available-for-sale investments and restricted deposits: The carrying amount is stated at fair value, based on quoted market prices, where available. For securities not actively traded, fair values were estimated using values obtained from independent pricing services or quoted market prices of comparable instruments.
+
+• Senior unsecured notes: Estimated based on third-party quoted market prices for the same or similar issues.
+
+• Variable rate debt: The carrying amount of the Company's floating rate debt approximates fair value since the interest rates adjust based on market rate adjustments.
+
+• Contingent consideration: Estimated based on expected achievement of metrics included in the acquisition agreement considering circumstances that exist as of the acquisition date.
+
+Property, Software and Equipment
+
+Property, software and equipment are stated at cost less accumulated depreciation. Computer hardware and software includes certain costs incurred in the development of internal-use software, including external direct costs of materials and services and payroll costs of team members devoted to specific software development. Depreciation is calculated principally by the straight-line method over estimated useful lives. Leasehold improvements are depreciated using the straight-line method over the shorter of the expected useful life or the remaining term of the lease. Property, software and equipment are depreciated over the following periods:
+
+The carrying amounts of all long-lived assets are evaluated to determine if adjustment to the depreciation and amortization period or to the unamortized balance is warranted. Such evaluation is based principally on the expected utilization of the long-lived assets.
+
+The Company retains fully depreciated assets in property and accumulated depreciation accounts until it removes them from service. In the case of sale, retirement or disposal, the asset cost and related accumulated depreciation balance is removed from the respective account, and the resulting net amount, less any proceeds, is included in investment and other income in the Consolidated Statements of Operations.
+
+Goodwill and Intangible Assets
+
+Intangible assets represent assets acquired in purchase transactions and consist primarily of purchased contract rights and customer relationships, provider contracts, trade names, developed technologies and goodwill. Intangible assets are amortized using the straight-line method over the following periods:
+
+Goodwill is reviewed at least annually during the fourth quarter for impairment or more frequently if the Company identifies impairment indicators. In addition, an impairment analysis of intangible assets would be performed when events or changes in circumstances suggest the carrying amount of the intangible assets may not be recoverable. These factors include significant changes in membership, financial performance, state funding, government contracts and provider networks and contracts.
+
+For the annual goodwill impairment analysis, the Company may first perform a qualitative assessment for each reporting unit to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount, which is an indication that goodwill may be impaired. These qualitative impairment tests include assessing events and factors that could affect the fair value of the indefinite-lived intangible assets. The Company's procedures include assessing its financial performance, macroeconomic conditions, industry and market considerations, various asset-specific factors and entity-specific events. If the Company determines that a reporting unit's goodwill may be impaired after utilizing these qualitative impairment analysis procedures, it is required to perform a quantitative impairment test.
+
+The Company's quantitative impairment test for goodwill utilizes the discounted cash flow model and guideline public company market approach. Use of the discounted cash flow model and guideline public company market approach for the goodwill impairment test reflects the Company's view that both valuation methodologies provide a reasonable estimate of fair value. The discounted cash flow model is developed using assumptions from its internal planning process to determine the present value of future cash flows generated by the reporting unit. The Company's assumed discount rate is based on the industry's weighted-average cost of capital. Market valuations are estimated from observed multiples of certain measures including earnings before interest, taxes, depreciation and amortization and include market comparisons to publicly traded companies in the industry.
+
+In addition to the annual goodwill impairment analysis, on an as-needed basis the Company evaluates whether events or circumstances have occurred that may affect the estimated useful life or the recoverability of the remaining balance of goodwill and other identifiable intangible assets. If the events or circumstances indicate that the remaining balance of the intangible asset or goodwill may be impaired, the potential impairment will be measured based upon the difference between the carrying amount of the intangible asset or goodwill and the fair value of such asset. The Company must make assumptions in determining the estimated fair values, such as estimates of forecasted future cash flows, the discount rate applied to each reporting unit, long-term growth rates, statutory capital reinvestment requirements, capital expenditures, and other internal and external factors.
+
+The Company operates in four segments: (1) a Medicaid segment, (2) a Medicare segment, (3) a Commercial segment and (4) an Other segment. The Company defines its reporting units as its operating segments or one level below the operating segment. If a reporting unit's carrying amount exceeds its fair value, the Company will record an impairment charge based on that difference. The impairment charge will be limited to the amount of goodwill allocated to that reporting unit. The Company first assesses qualitative factors to determine if a quantitative impairment test is necessary. The Company generally does not calculate the fair value of a reporting unit unless it determines, based on a qualitative assessment, that it is more likely than not that its fair value is less than its carrying amount. However, in certain circumstances the Company may elect to perform a quantitative assessment without first assessing qualitative factors.
+
+The passage of the One Big Beautiful Bill Act (OBBBA) in July 2025 had various implications for the Company, including potential membership impacts to the Company's Medicaid reporting unit as well as the non-renewal of Marketplace Enhanced Advance Premium Tax Credits (APTCs). As a result of these market conditions along with the decline in the Company's stock price, the Company performed a quantitative impairment analysis during the third quarter to determine whether goodwill, intangibles or other assets were impaired.
+
+The goodwill impairment analysis utilized a weighted discounted cash flow model and guideline public company market approach to measure the fair value of the Company's reporting units. As a result of the analysis, the Company recorded a $ 6,723 million impairment to goodwill in the third quarter of 2025.
+
+Medical Claims Liability
+
+Medical claims liability includes claims reported but not yet paid, or claims inventory, estimates for claims incurred but not reported, or IBNR, and estimates for the costs necessary to process unpaid claims at the end of each period. The Company estimates its medical claims liability using actuarial methods that are commonly used by health insurance actuaries and meet Actuarial Standards of Practice. These actuarial methods consider factors such as historical data for payment patterns, cost trends, product mix, seasonality, utilization of healthcare services and other relevant factors.
+
+Actuarial Standards of Practice generally require that the medical claims liability estimates be adequate to cover obligations under moderately adverse conditions. Moderately adverse conditions are situations in which the actual claims are expected to be higher than the otherwise estimated value of such claims at the time of estimate. The claims amounts ultimately settled will most likely be different than the estimate that satisfies the Actuarial Standards of Practice. The Company includes in its IBNR an estimate for medical claims liability under moderately adverse conditions which represents the risk of adverse deviation of the estimates in its actuarial method of reserving.
+
+The Company uses its judgment to determine the assumptions to be used in the calculation of the required estimates. The assumptions it considers when estimating IBNR include, without limitation, claims receipt and payment experience (and variations in that experience), changes in membership, provider billing practices, healthcare service utilization trends, cost trends, product mix, seasonality, prior authorization of medical services, benefit changes, known outbreaks of disease or increased incidence of illness such as influenza, provider contract changes, changes to fee schedules and the incidence of high-dollar or catastrophic claims.
+
+The Company's development of the medical claims liability estimate is a continuous process which it monitors and refines on a monthly basis as additional claims receipts and payment information becomes available. As more complete claims information becomes available, the Company adjusts the amount of the estimates, and includes the changes in estimates in medical costs in the period in which the changes are identified. In every reporting period, the operating results include the effects of more completely developed medical claims liability estimates associated with previously reported periods. The Company consistently applies its reserving methodology from period to period. As additional information becomes known, it adjusts the actuarial models accordingly to establish medical claims liability estimates.
+
+The Company reviews actual and anticipated experience compared to the assumptions used to establish medical costs. The Company establishes premium deficiency reserves if actual and anticipated experience indicates that existing policy liabilities together with the present value of future gross premiums will not be sufficient to cover the present value of future benefits, settlement and maintenance costs. For purposes of determining premium deficiencies, contracts are grouped in a manner consistent with the method of acquiring, servicing and measuring the profitability of such contracts and expected investment income is excluded. In December 2023, the Company recorded a premium deficiency reserve of $ 250 million related to the 2024 Medicare Advantage contract year. In December 2024, the Company recorded a premium deficiency reserve of $ 92 million related to the 2025 Medicare Advantage contract year. As of December 2025, the Company did not record a premium deficiency reserve related to the 2026 Medicare Advantage contract year.
+
+Revenue Recognition
+
+The Company's health plans generate revenues primarily from premiums received from the states in which it operates health plans, premiums received from its members and CMS for its Medicare products and premiums from members of its commercial health plans. In addition to member premium payments, its Marketplace contracts also generate revenues from subsidies received from CMS. The Company generally receives a fixed premium per member per month pursuant to its contracts and recognizes premium revenues during the period in which it is obligated to provide services to its members at the amount reasonably estimable. In some instances, the Company's base premiums are subject to an adjustment, in the form of a risk score or risk adjustment, based on the acuity of its membership. Generally, the risk score or risk adjustment is determined by the state or CMS analyzing submissions of processed claims and medical record data to determine the acuity of the Company's membership, often relative to the respective program's membership. The Company estimates the amount of risk score and risk adjustment based upon the processed claims and medical record data submitted and expected to be submitted to the state or CMS and records revenues on a risk adjusted basis. Some contracts allow for additional premiums related to certain supplemental services provided such as maternity deliveries.
+
+The Company's contracts with states and CMS may require it to maintain a minimum medical loss ratio (MLR) or may require it to share cost-savings in excess of certain levels. In certain circumstances, including commercial plans, its plans may be required to return premium to the state or policyholders in the event costs are below established levels. The Company estimates the effect of these programs and recognizes reductions in revenue in the current period. Other states may require us to meet certain performance and quality metrics in order to receive additional or full contractual revenue. For performance-based contracts, the Company does not recognize revenue subject to refund until data is sufficient to measure performance.
+
+Revenues are recorded based on membership and eligibility data provided by the states or CMS, which is adjusted on a monthly basis by the states or CMS for retroactive additions or deletions to membership data. These eligibility adjustments are estimated monthly and subsequent adjustments are made in the period known. The Company reviews and updates those estimates as new information becomes available. It is possible that new information could require us to make additional adjustments, which could be significant, to these estimates.
+
+The Company's Medicare Advantage contracts are with CMS. CMS deploys a risk adjustment model which apportions premiums paid to all health plans according to health severity and certain demographic factors. The CMS risk adjustment model pays more for members whose medical history would indicate that they are expected to have higher medical costs. Under this risk adjustment methodology, CMS calculates the risk adjusted premium payment using diagnosis data from hospital inpatient, hospital outpatient, physician treatment settings as well as prescription drug events. The Company and the healthcare providers collect, compile and submit the necessary and available diagnosis data to CMS within prescribed deadlines. The Company estimates risk adjustment revenues based upon the diagnosis data submitted and expected to be submitted to CMS and records revenues on a risk adjusted basis.
+
+In addition to premium revenue and risk sharing described above, the Company's Part D business receives prospective payments for reinsurance, manufacturer drug subsidies, and low-income subsidies. Reinsurance and manufacturer drug subsidies payments are received from CMS as a fixed monthly per member amount, based on the estimated costs of providing prescription drug benefits over the plan year, as reflected in the bids. For qualifying low-income prescription drug benefit members, CMS pays for some, or all, of the member's monthly premium. The Company receives certain Part D prospective subsidy payments from CMS for these members as a fixed monthly per-member amount, based on the estimated costs of providing prescription drug benefits over the plan year, as reflected in the bids. No prospective payments are received for risk sharing. Approximately one year subsequent to the end of the plan year, or later in the case of the drug manufacturer discount subsidy, a settlement payment is made between CMS and the Company's plans based on the difference between the earned premium, risk corridor, reinsurance and subsidies compared to monthly prospective payments.
+
+The Company's specialty companies generate revenues under contracts with state and federal programs, healthcare organizations and other commercial organizations, as well as from its own subsidiaries. Revenues are recognized when the related services are provided, when inventory is shipped, or as ratably earned over the covered period of services. For performance-based measures in the Company's contracts, revenue is recognized as data sufficient to measure performance is available.
+
+Some states enact premium taxes, similar assessments and provider pass-through payments, collectively premium taxes, and these taxes are recorded as a separate component of both revenues and operating expenses. For certain products, premium taxes and state assessments are not pass-through payments and are recorded as premium revenue and premium tax expense in the Consolidated Statements of Operations.
+
+Some states require state directed payments that have minimal risk, but are administered as a premium adjustment. These payments are recorded as premium revenue and medical costs at close to a 100% health benefits ratio (HBR). In many instances, the Company has little visibility to the timing of these payments until they are paid by the state.
+
+Affordable Care Act
+
+The Affordable Care Act (ACA) established risk spreading premium stabilization programs as well as minimum MLR and cost sharing reductions (CSRs). The Company's accounting policies for the programs are as follows:
+
+Risk Adjustment
+
+The permanent risk adjustment program established by the ACA transfers funds from qualified individual and small group insurance plans with below average risk scores to those plans with above average risk scores within each state. The Company estimates the receivable or payable under the risk adjustment program based on its estimated risk score compared to the state average risk score. The Company may record a receivable or payable as an adjustment to premium revenues to reflect the year-to-date impact of the risk adjustment based on its best estimate. The Company refines its estimate as new information becomes available.
+
+Minimum Medical Loss Ratio
+
+The ACA established a minimum MLR for commercial insurance plans, including the Health Insurance Marketplace. The risk adjustment program described above is taken into consideration to determine if the Company's estimated annual medical costs are less than the minimum MLR and require an adjustment to premium revenues to meet the minimum MLR.
+
+Cost Sharing Reductions
+
+The ACA directs issuers to reduce the Company's members' cost sharing for essential health benefits for individuals with Federal Poverty Levels (FPLs) between 100% and 250% who are enrolled in a silver tier product; eliminate cost sharing for Indians/Alaska Natives with a FPL less than 300% and eliminate cost sharing for Indians/Alaska Natives regardless of FPL when services are provided by an Indian Health Service. In October 2017, the Trump Administration issued an executive order that immediately ceased payments of CSRs to issuers, and beginning in 2018, premium rates for Health Insurance Marketplace were set without factoring in the cost sharing subsidy payments from the federal government. In 2024, the Company reached an agreement with the federal government to retroactively compensate the Company for the difference between its actual CSR experience and its pricing assumptions for 2018 through 2020.
+
+Premium and Trade Receivables and Unearned Revenue
+
+Premium and service revenues collected in advance of being earned are recorded as unearned revenue. For performance-based contracts, the Company does not recognize revenue subject to refund until data is sufficient to measure performance. Premiums and service revenues due to the Company are recorded as premium and trade receivables and are recorded net of an allowance based on historical trends and management's judgment on the collectability of these accounts. As the Company generally receives payments during the month in which services are provided, the allowance is typically not significant in comparison to total revenues and does not have a material impact on the presentation of the financial condition or results of operations. Amounts receivable under federal contracts are comprised primarily of contractually defined billings, accrued contract incentives under the terms of the contract and amounts related to change orders for services not originally specified in the contract.
+
+The Company has receivables due from CMS for Part D risk-sharing programs attributable to the 2025 plan year that are expected to be paid by CMS within a year after the plan year closes. As of December 31, 2025, the stand-alone Part D risk-sharing programs receivable balance for the 2025 plan year was $ 3,992 million.
+
+Activity in the allowance for uncollectible accounts is summarized below ($ in millions):
+
+Significant Customers
+
+The Company receives the majority of its revenues under contracts or subcontracts with state Medicaid managed care programs. None of the Company's customers exceeded 10% of total annual revenues for the years ended December 31, 2025, 2024 and 2023.
+
+Other Income (Expense)
+
+Other income (expense) consists routinely of investment income, interest expense and equity method earnings from investments. Investment income is derived from the Company's cash, cash equivalents, restricted deposits and investments. Interest expense relates to borrowings under the senior notes, credit facilities, mortgage and construction loans and capital leases. Further, other income (expense) includes gains or losses on sales of investments, divestitures and acquisitions as well as debt extinguishment costs.
+
+Income Taxes
+
+Deferred tax assets and liabilities are recorded for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax law or tax rates is recognized in income in the period that includes the enactment date.
+
+Valuation allowances are provided when it is considered more likely than not that deferred tax assets will not be realized. In determining if a deductible temporary difference or net operating loss can be realized, the Company considers future reversals of existing taxable temporary differences, future taxable income, taxable income in prior carryback periods and tax planning strategies.
+
+Contingencies
+
+The Company accrues for loss contingencies associated with outstanding litigation, claims and assessments for which it has determined it is probable that a loss contingency exists and the amount of loss can be reasonably estimated. The Company expenses professional fees associated with litigation claims and assessments as incurred.
+
+Stock Based Compensation
+
+Stock based compensation expense is recognized at grant date fair value over the period during which an employee is required to provide service in exchange for the award. Excess tax benefits/detriments related to stock compensation are presented as a cash inflow/outflow from operating activities. The Company accounts for forfeitures when they occur.
+
+Recent Accounting Guidance Not Yet Adopted
+
+In November 2024, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2024-03 – Income Statement – Reporting Comprehensive Income: Disaggregation of Income Statement Expenses which expands disclosures about specific expense categories presented on the face of the Statement of Operations. The new standard is effective for annual periods beginning after December 15, 2026, and interim periods beginning after December 15, 2027. The Company is currently evaluating the effect of the new disclosure requirements.
+
+In September 2025, the FASB issued ASU 2025-06 – Intangibles – Goodwill and Other – Internal-Use Software. The standard update modernizes and clarifies the threshold for when an entity is required to start capitalizing software costs by removing stage-based and linear capitalization rules and is based on when (i) management has authorized and committed to funding the software project and (ii) it is probable that the project will be completed and the software will be used to perform the function intended. The new standard is effective for fiscal years and interim periods beginning after December 15, 2027, with early adoption permitted. The Company is currently evaluating the impact of this standard update.
+
+In December 2025, the FASB issued ASU 2025-11 – Interim Reporting – Narrow-Scope Improvements which clarifies interim disclosure requirements and the applicability of Topic 270. The objective of the standard update is to provide clarity about current interim requirements. The amendments in this standard update also include a disclosure principle that requires entities to disclose events since the end of the last annual reporting period that have a material impact on the entity. The new standard is effective for interim periods within annual reporting periods beginning after December 15, 2027, with early adoption permitted. The Company is currently evaluating the impact of this standard update.
+
+3. Acquisitions and Divestitures
+
+Magellan Rx Divestiture
+
+On December 2, 2022, the Company completed the divestiture of Magellan Rx for $ 1,337 million. The Company recognized a gain of $ 269 million, or $ 99 million after-tax, which is included in investment and other income in the Consolidated Statements of Operations.
+
+During 2023, the Company recorded a reduction to the previously reported gain on the sale of $ 22 million, or $ 10 million after-tax, due to the finalization of working capital adjustments, which is included in investment and other income in the Consolidated Statements of Operations.
+
+During 2025, the company recorded a favorable adjustment to the gain on sale of Magellan Rx of $ 2 million, or $ 1 million after-tax, which is included in investment and other income in the Consolidated Statements of Operations.
+
+Magellan Specialty Health Divestiture
+
+On January 20, 2023, the Company completed the divestiture of Magellan Specialty Health for $ 646 million in cash and stock, including an estimated working capital adjustment, and recognized a gain of $ 79 million, or $ 68 million after-tax. The stock consideration was subsequently sold in April 2023 for cash proceeds of $ 245 million.
+
+During 2024, the Company recorded an additional gain on the previously reported divestiture of Magellan Specialty Health of $ 83 million for achievement of contingent consideration related to the sale and finalization of working capital adjustments, which is included in investment and other income in the Consolidated Statements of Operations.
+
+Circle Health Group Divestiture
+
+On August 28, 2023, the Company signed a definitive agreement to sell Circle Health, one of the U.K.'s largest independent hospital operators, which was included in the Other segment. In accordance with the signed definitive agreement in the third quarter of 2023, and subsequently updated in the fourth quarter of 2023, the Company recorded impairment charges related to goodwill associated with the pending divestiture totaling $ 292 million, or $ 258 million after-tax.
+
+In order to manage the foreign exchange risk on the sale price associated with the pending divestiture of Circle Health, in August 2023 the Company entered into a foreign currency swap agreement for a notional amount of $ 931 million, to sell £ 740 million. The swap agreement was formally designated and qualified as a cash flow hedge. The swap expired on the earlier of the divestiture closing date or March 28, 2024. The gain or loss due to changes in the fair value of the foreign currency swap was recorded in other comprehensive income until the Circle Health divestiture closed, at which time the gain or loss was recorded in earnings to the same line in the Consolidated Statements of Operations as the gain or loss on sale.
+
+On January 12, 2024, the Company completed the divestiture for $ 931 million and settled the foreign currency swap. Upon closing the divestiture, the Company settled the foreign currency swap and recorded a corresponding gain of $ 20 million, which includes the cumulative translation adjustment previously recorded in accumulated other comprehensive income in the Consolidated Balance Sheet. The gain is included in investment and other income in the Consolidated Statements of Operations. During the year ended December 31, 2024, the Company realized a net tax benefit of approximately $ 40 million on the loss recognized on the divestiture.
+
+Collaborative Health Systems Divestiture
+
+In July 2024, the Company entered into a definitive agreement to sell CHS, a management services organization, which was included in the Other segment.
+
+On October 4, 2024, the Company completed the previously announced sale of CHS. During 2024, the Company recognized a pre-tax gain of $ 17 million, or $ 13 million after-tax, which is included in investment and other income in the Consolidated Statements of Operations.
+
+Magellan Health
+
+In December 2025, the Company signed a definitive agreement to sell the remaining Magellan Health businesses, which is included in the Other segment. As of December 31, 2025, the assets and liabilities of Magellan Health were considered held for sale resulting in $ 303 million of assets held for sale in other current assets and $ 303 million of liabilities held for sale in accounts payable and accrued expenses in the Consolidated Balance Sheet. The majority of the held for sale assets were previously reported as cash and cash equivalents, premium and trade receivables, property, software and equipment and intangible assets. The majority of the liabilities were previously reported as medical claims liabilities and accounts payable and accrued expenses.
+
+As a result, the Company recorded impairment charges associated with the pending divestiture totaling $ 513 million, or $ 389 million after-tax .
+
+4. Short-term and Long-term Investments, Restricted Deposits
+
+Short-term and long-term investments and restricted deposits by investment type consist of the following ($ in millions):
+
+The Company's investments are debt securities classified as available-for-sale with the exception of equity securities, certain private equity investments and life insurance contracts. Private equity investments include direct investments in private equity securities as well as private equity funds. In December 2024, the Company impaired a private equity investment for $ 50 million. The Company's investment policies are designed to provide liquidity, preserve capital and maximize total return on invested assets with a focus on high credit quality securities. The Company limits the size of investment in any single issuer other than U.S. treasury securities and obligations of U.S. government corporations and agencies. As of December 31, 2025, 99 % of the Company's investments in rated securities carry an investment grade rating by nationally recognized statistical rating organizations. At December 31, 2025, the Company held certificates of deposit, equity securities, private equity investments and life insurance contracts, which did not carry a credit rating. Accrued interest income on available-for-sale debt securities was $ 180 million and $ 178 million at December 31, 2025 and 2024, respectively, and is included in other current assets in the Consolidated Balance Sheets.
+
+The Company's residential mortgage-backed securities are primarily issued by the Federal National Mortgage Association, Government National Mortgage Association or Federal Home Loan Mortgage Corporation, which carry implicit or explicit guarantees of the U.S. government. The Company's commercial mortgage-backed securities are primarily senior tranches with a weighted average rating of AA+ and a weighted average duration of 3 years at December 31, 2025.
+
+The fair value of available-for-sale debt securities with gross unrealized losses by investment type and length of time that individual securities have been in a continuous unrealized loss position were as follows ($ in millions):
+
+As of December 31, 2025, the gross unrealized losses were generated from 3,236 positions out of a total of 6,176 positions. The change in fair value of available-for-sale debt securities is primarily a result of movement in interest rates subsequent to the purchase of the security.
+
+For each security in an unrealized loss position, the Company assesses whether it intends to sell the security or if it is more likely than not the Company will be required to sell the security before recovery of the amortized cost basis for reasons such as liquidity, contractual or regulatory purposes. If the security meets this criterion, the decline in fair value is recorded in earnings. The Company does not intend to sell these securities prior to maturity and it is not likely that the Company will be required to sell these securities prior to maturity; therefore, the Company did not record an impairment for these securities.
+
+In addition, the Company monitors available-for-sale debt securities for credit losses. Certain investments have experienced a decline in fair value due to changes in credit quality, market interest rates and/or general economic conditions. The Company recognizes an allowance when evidence demonstrates that the decline in fair value is credit related. Evidence of a credit-related loss may include rating agency actions, adverse conditions specifically related to the security or failure of the issuer of the security to make scheduled payments.
+
+The contractual maturities of short-term and long-term debt securities and restricted deposits are as follows ($ in millions):
+
+Actual maturities may differ from contractual maturities due to call or prepayment options. Equity securities, private equity investments and life insurance contracts are excluded from the table above because they do not have a contractual maturity. The Company has an option to redeem substantially all of the securities included in the greater than ten years category listed above at amortized cost.
+
+5. Fair Value Measurements
+
+Assets and liabilities recorded at fair value in the Consolidated Balance Sheets are categorized based upon observable or unobservable inputs used to estimate fair value. Level inputs are as follows:
+
+The following table summarizes fair value measurements by level at December 31, 2025, for assets and liabilities measured at fair value on a recurring basis ($ in millions):
+
+The following table summarizes fair value measurements by level at December 31, 2024, for assets and liabilities measured at fair value on a recurring basis ($ in millions):
+
+The Company utilizes matrix pricing services to estimate fair value for securities which are not actively traded on the measurement date. The Company designates these securities as Level II fair value measurements. In addition, the aggregate carrying amount of the Company's private equity investments and life insurance contracts, which approximates fair value, was $ 1,132 million and $ 1,047 million as of December 31, 2025 and December 31, 2024, respectively.
+
+6. Property, Software and Equipment
+
+Property, software and equipment consist of the following ($ in millions):
+
+Depreciation expense for the years ended December 31, 2025, 2024 and 2023 was $ 590 million, $ 549 million and $ 575 million, respectively.
+
+The decrease in property, software and equipment in 2025 was primarily driven by divestiture related activity as discussed in Note 3. Acquisitions and Divestitures . Specifically, as of December 31, 2025, Magellan Health was considered held for sale, and accordingly, the associated property, software and equipment of $ 91 million was reclassified to other current assets.
+
+7. Goodwill and Intangible Assets
+
+The passage of the OBBBA in July 2025 had various implications for the Company, including potential membership impacts to the Company's Medicaid reporting unit as well as the non-renewal of Marketplace Enhanced APTCs. As a result of these market conditions along with the decline in the Company's stock price, the Company performed a quantitative impairment analysis during the third quarter of 2025 to determine whether goodwill, intangibles or other assets were impaired.
+
+The goodwill impairment analysis utilized a weighted discounted cash flow model and guideline public company market approach to measure the fair value of the Company's reporting units. As a result of the analysis, the Company recorded a $ 6,723 million impairment to goodwill.
+
+The following table summarizes the changes in goodwill by operating segment ($ in millions):
+
+Intangible assets at December 31, consist of the following ($ in millions):
+
+As discussed in Note 3. Acquisitions and Divestitures , Magellan Health was considered held for sale as of December 31, 2025, and the related intangible assets of $ 140 million were reclassified to other current assets. Additionally, during 2025 the Company recorded intangible asset impairment related to the wind-down of certain contracts in the Other segment of $ 55 million.
+
+Amortization expense was $ 685 million, $ 692 million and $ 718 million for the years ended December 31, 2025, 2024 and 2023, respectively. Estimated total amortization expense related to the December 31, 2025 intangible assets for each of the five succeeding fiscal years is as follows ($ in millions):
+
+8. Medical Claims Liability
+
+The following table summarizes the change in medical claims liability for the year ended December 31, 2025 ($ in millions):
+
+The following table summarizes the change in medical claims liability for the year ended December 31, 2024 ($ in millions):
+
+The following table summarizes the change in medical claims liability for the year ended December 31, 2023 ($ in millions):
+
+Reinsurance recoverables related to medical claims are included in premium and trade receivables. Changes in estimates of incurred claims for prior years were primarily attributable to reserving under moderately adverse conditions, including residual pandemic impacts. Additionally, as a result of minimum MLR and other return of premium programs, the Company recorded approximately $ 93 million, $ 243 million and $ 382 million of the "Incurred related to: Prior years" as a reduction to premium revenues in 2025, 2024 and 2023, respectively. Further, claims processing and coordination of benefits initiatives yielded claim payment recoveries related to dates of service from prior years.
+
+Changes in medical utilization, claims submission patterns, and cost trends and the effect of population health management initiatives may also contribute to changes in medical claim liability estimates. While the Company has evidence that population health management initiatives are effective on a case by case basis, population health management initiatives primarily focus on events and behaviors prior to the incurrence of the medical event and generation of a claim. Accordingly, any change in behavior, leveling of care or coordination of treatment occurs prior to claim generation and as a result, the costs prior to the population health management initiative are not known by the Company. Additionally, certain population health management initiatives are focused on member and provider education with the intent of influencing behavior to appropriately align the medical services provided with the member's acuity. In these cases, determining whether the population health management initiative changed the behavior cannot be determined. Because of the complexity of its business, the number of states in which it operates and the volume of claims that it processes, the Company is unable to practically quantify the impact of these initiatives on its changes in estimates of IBNR.
+
+The Company reviews actual and anticipated experience compared to the assumptions used to establish medical costs. The Company establishes premium deficiency reserves if actual and anticipated experience indicates that existing policy liabilities together with the present value of future gross premiums will not be sufficient to cover the present value of future benefits, settlement and maintenance costs. For purposes of determining premium deficiencies, contracts are grouped in a manner consistent with the method of acquiring, servicing and measuring the profitability of such contracts and expected investment income is excluded. In December 2023, the Company recorded a premium deficiency reserve of $ 250 million related to the 2024 Medicare Advantage contract year. In December 2024, the Company recorded a premium deficiency reserve of $ 92 million related to the 2025 Medicare Advantage contract year. As of December 2025, the Company did not record a premium deficiency reserve related to the 2026 Medicare Advantage contract year.
+
+Information about incurred and paid claims development as of December 31, 2025 is included in the table below. The claims development information for all periods preceding the most recent reporting period is considered required supplementary information.
+
+Consolidated incurred and paid claims development as of December 31, 2025 is as follows ($ in millions):
+
+Incurred and paid claims development for the Medicaid segment as of December 31, 2025 is as follows ($ in millions):
+
+Incurred and paid claims development for the Medicare segment as of December 31, 2025 is as follows ($ in millions):
+
+Incurred and paid claims development for the Commercial segment as of December 31, 2025 is as follows ($ in millions):
+
+Incurred and paid claims development for the Other segment as of December 31, 2025 is as follows ($ in millions):
+
+Incurred claims and allocated claim adjustment expenses, net of reinsurance, total IBNR plus expected development on reported claims and cumulative claims data as of December 31, 2025 are included in the following table. For claims frequency information summarized below, a claim is defined as the financial settlement of a single medical event in which remuneration was paid to the servicing provider. Total IBNR plus expected development on reported claims represents estimates for claims incurred but not reported, development on reported claims and estimates for the costs necessary to process unpaid claims at the end of each period. The Company estimates its liability using actuarial methods that are commonly used by health insurance actuaries and meet Actuarial Standards of Practice. These actuarial methods consider factors such as historical data for payment patterns, cost trends, product mix, seasonality, utilization of healthcare services and other relevant factors.
+
+Consolidated information is summarized as follows (in millions):
+
+Information for the Medicaid segment is summarized as follows (in millions):
+
+Information for the Medicare segment is summarized as follows (in millions):
+
+Information for the Commercial segment is summarized as follows (in millions):
+
+Information for the Other segment is summarized as follows (in millions):
+
+9. Affordable Care Act
+
+The ACA established risk spreading premium stabilization programs as well as a minimum annual MLR and CSRs.
+
+The Company's net receivables (payables) for each of the programs are as follows ($ in millions):
+
+In June 2025, CMS announced the final risk adjustment transfers for the 2024 benefit year. CMS announced an update to the final risk adjustment transfer in July 2025, and the risk adjustment net receivable was decreased by $ 504 million in the twelve months ended December 31, 2025. After consideration of minimum MLR and other related impacts, which includes the effect to the 2025 benefit year, the net pre-tax benefit recognized was $ 163 million for the year ended December 31, 2025.
+
+As of December 31, 2025, the Company's 2025 benefit year net risk adjustment payable was $ 545 million.
+
+10. Debt
+
+Debt consists of the following ($ in millions):
+
+Senior Notes
+
+During 2025, the Company repurchased $ 189 million of its par value Senior Notes due 2027 through the Company's senior note debt repurchase program. The Company recognized a $ 1 million gain on the repurchase of the notes, including the write-off of unamortized debt discount and issuance costs. In January 2026, the Company repurchased an additional $ 29 million of its par value Senior Notes due 2027 through the debt repurchase program.
+
+The indentures governing the senior notes listed in the table above contain restrictive covenants of Centene Corporation. At December 31, 2025, the Company was in compliance with all covenants.
+
+Revolving Credit Facility and Term Loan Credit Facility
+
+On March 5, 2025, the Company entered into a new Credit Agreement (New Credit Agreement) and terminated all outstanding commitments and repaid all outstanding obligations under the Fourth Amended and Restated Credit Agreement, dated as of August 16, 2021 (as amended).
+
+The New Credit Agreement provides for (i) a revolving credit facility in the principal amount of $ 4,000 million (the Revolving Credit Facility) and (ii) a term loan facility in the principal amount of $ 2,000 million (the Term Loan Facility). The maturity date for the New Credit Agreement is March 5, 2030. Loans under the Revolving Credit Facility may be denominated in U.S. dollars, Euros, Sterling, Swiss Francs, Yen, Australian dollars and Canadian dollars and each other currency which has been approved under the terms of the New Credit Agreement.
+
+Borrowings under the New Credit Agreement will bear interest at a fluctuating rate per annum equal to a benchmark rate applicable to the currency composing such borrowing plus an applicable margin. The applicable margin is in each case based on the rating of Centene's corporate debt obligations by S&P and Moody's and is primarily a linear progression corresponding to the Company's credit rating as defined in the New Credit Agreement. The applicable margin for base rate loans changes in increments of 0.25 % increasing or decreasing between pricing levels at the corresponding rating level.
+
+The Company is subject to a financial covenant under the New Credit Agreement, tested quarterly, whereby the debt-to-capital ratio may not exceed 0.60 to 1.00, with a step-up, upon the Company's election, following the consummation of a material acquisition, to 0.65 to 1.00 during certain specified periods. As of December 31, 2025, the Company was in compliance with all financial and non-financial covenants under the New Credit Agreement.
+
+As of December 31, 2025, the Company had no borrowings outstanding under the Revolving Credit Facility, with an interest rate of the base rate plus 0.25 % margin, and $ 2,000 million of borrowings outstanding under the Company's Term Loan Facility.
+
+Senior Note Debt Repurchase Program
+
+In June 2022, the Company's Board of Directors authorized a $ 1,000 million senior note debt repurchase program in preparation for future debt reductions as part of the Company's strategic initiatives. During the year ended December 31, 2025, the Company repurchased $ 189 million of its par value senior notes, as described above, for $ 187 million. No repurchases were made during the year ended December 31, 2024. As of December 31, 2025, there was $ 513 million available under the senior note debt repurchase program. In January 2026, the Company repurchased an additional $ 29 million of its par value Senior Notes due 2027 for $ 29 million.
+
+In February 2026, the Company's Board of Directors authorized an increase under the program of $ 1,000 million. With this increase, as of February 2026, there was $ 1,484 million available under the senior note debt repurchase program.
+
+Letters of Credit & Surety Bonds
+
+The Company had outstanding letters of credit of $ 120 million as of December 31, 2025, which were not part of the Revolving Credit Facility. The letters of credit bore interest at 0.8 % as of December 31, 2025. The Company had outstanding surety bonds of $ 784 million as of December 31, 2025.
+
+Aggregate maturities for the Company's debt for the years ending December 31, are as follows ($ in millions):
+
+The fair value of outstanding debt was approximately $ 16,273 million and $ 16,929 million at December 31, 2025 and 2024, respectively.
+
+11. Leases
+
+The Company records right-of-use (ROU) assets and lease liabilities for non-cancelable operating leases primarily for real estate and equipment. Leases with an initial term of 12 months or less are not recorded on the balance sheet. Expense related to leases is recorded on a straight-line basis over the lease term, including rent holidays. The Company recognized operating lease expense of $ 99 million and $ 108 million during the years ended December 31, 2025 and 2024, respectively.
+
+The Company considers the existence of options to extend or terminate leases in its analysis of the lease term for the purposes of measuring its ROU assets and lease liabilities. The renewal options are not included in the measurement of the ROU assets and lease liabilities unless the Company is reasonably certain to exercise the optional renewal periods.
+
+The following table sets forth the ROU assets and lease liabilities ($ in millions):
+
+Cash paid for amounts included in the measurement of lease liabilities, recorded as operating cash flows in the Consolidated Statements of Cash Flows, was $ 195 million and $ 227 million during the years ended December 31, 2025 and 2024, respectively. New operating leases commenced resulting in the recognition of ROU assets and lease liabilities of $ 65 million and $ 69 million during the years ended December 31, 2025 and 2024, respectively. As of December 31, 2025, the Company had additional operating leases that have not yet commenced of $ 2 million. These operating leases will commence in 2026 with lease terms of approximately six years .
+
+As of December 31, 2025, the weighted average remaining lease term for the Company was 6.9 years. The lease liabilities as of December 31, 2025, reflect a weighted average discount rate of 3.5 %.
+
+Lease payments over the next five years and thereafter are as follows ($ in millions):
+
+12. Stockholders' Equity
+
+The Company's Board of Directors has authorized a stock repurchase program of the Company's common stock from time to time on the open market or through privately negotiated transactions. The Company is authorized to repurchase up to $ 10,000 million, inclusive of past authorizations. As of December 31, 2025, the Company had a remaining amount of $ 1,830 million available under the Company's stock repurchase program. No duration has been placed on the repurchase program. The Company reserves the right to discontinue the repurchase program at any time.
+
+Share repurchases in 2025, 2024 and 2023 were primarily funded through divestiture proceeds and free cash flow generated from operations. The following represents the Company's share repurchase activity ($ in millions, shares in thousands):
+
+Prior to the adoption of the 2025 Stock Incentive Plan in May 2025, shares repurchased for income tax withholding were shares withheld in connection with employee stock plans to meet applicable tax withholding requirements. These shares were typically included in the Company's treasury stock. Following the adoption of the 2025 Stock Incentive Plan, shares repurchased for income tax withholding are typically recorded as a reduction to additional paid-in capital.
+
+13. Statutory Capital Requirements and Dividend Restrictions
+
+Various state laws require Centene's regulated subsidiaries to maintain minimum capital levels specified by each state and restrict the amount of dividends that may be paid without prior regulatory approval. At December 31, 2025 and 2024, Centene's subsidiaries had aggregate statutory capital and surplus of $ 19,730 million and $ 20,258 million, respectively, compared with the required minimum aggregate statutory capital and surplus of $ 11,288 million and $ 9,083 million, respectively. As of December 31, 2025, the amount of capital and surplus or net worth that was unavailable for the payment of dividends or return of capital to the Company was $ 11,288 million in the aggregate.
+
+14. Income Taxes
+
+The consolidated income tax expense consists of the following ($ in millions):
+
+The reconciliation of the tax provision at the U.S. federal statutory rate to income tax expense (benefit) is as follows ($ in millions):
+
+Income taxes paid are as follows ($ in millions):
+
+The tax effects of temporary differences which give rise to deferred tax assets and liabilities are presented below ($ in millions):
+
+Valuation allowances are provided when it is considered more likely than not that deferred tax assets will not be realized. The valuation allowances primarily relate to future tax benefits on certain state net operating loss and capital loss carryforwards and federal and state tax credit carryforwards.
+
+State net operating loss and tax credit carryforwards of $ 45 million expire beginning in 2026 through 2044, while the remaining $ 16 million have indefinite carryforward periods.
+
+The Company maintains a reserve for uncertain tax positions that may be challenged by a tax authority. A rollforward of the beginning and ending amount of uncertain tax positions, exclusive of related interest and penalties, is as follows ($ in millions):
+
+As of December 31, 2025, $ 120 million of unrecognized tax benefits would impact the Company's effective tax rate in future periods, if recognized.
+
+The table above excludes interest and penalties, net of related tax benefits, which are treated as income tax expense (benefit) under the Company's accounting policy. The Company recognized a net reduction of interest expense and penalties related to uncertain positions of $ 37 million for the year ended December 31, 2025. For the year ended December 31, 2024, the Company recognized net interest expense and penalties related to uncertain positions of $ 13 million. The Company had $ 61 million and $ 98 million of accrued interest and penalties for uncertain tax positions as of December 31, 2025 and 2024, respectively.
+
+The Company files federal tax returns as well as returns for numerous state tax jurisdictions and is engaged in multiple audit proceedings for its state filings. Generally, no further state audit activity is expected for years prior to 2016. Additionally, the Company's tax returns are under federal examination for tax years 2021 through 2022.
+
+15. Stock Incentive Plans
+
+The Company's stock incentive plans allow for the granting of restricted stock or restricted stock unit awards and options to purchase common stock. Both incentive stock options and nonqualified stock options can be awarded under the plans. However, an immaterial amount of options were granted, exercised or outstanding in 2025. The plans have 12 million shares available for future awards.
+
+Compensation expense for stock options and restricted stock unit awards is recognized on a straight-line basis over the vesting period, generally three to five years for stock options and one to three years for restricted stock or restricted stock unit awards. Vesting is accelerated by one year for individuals who qualify under the Company's retirement eligible provisions. Certain restricted stock unit awards contain performance-based or market-based provisions as well as service-based provisions. The fair value of restricted stock and restricted stock units with only service-based or performance-based provisions is determined using the previous day's market close price at the time of grant. The fair value of restricted stock units with market-based provisions is determined using a Monte Carlo simulation model. The fair value of stock options is determined based on the Black-Scholes option-pricing model. Forfeitures for all stock awards are recognized as they occur. The total compensation cost that has been charged against income for the stock incentive plans was $ 204 million, $ 212 million and $ 216 million for the years ended December 31, 2025, 2024 and 2023, respectively. The total income tax benefit recognized in the Statements of Operations for stock-based compensation arrangements was $ 20 million, $ 26 million and $ 101 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+A summary of the Company's non-vested restricted stock and restricted stock unit shares as of December 31, 2025, and changes during the year ended December 31, 2025, is presented below (shares in thousands):
+
+The total fair value of restricted stock and restricted stock units vested during the years ended December 31, 2025, 2024 and 2023, was $ 147 million, $ 317 million and $ 185 million, respectively.
+
+As of December 31, 2025, there was $ 356 million of total unrecognized compensation cost related to non-vested share-based compensation arrangements granted under the plans; that cost is expected to be recognized over a weighted-average period of 2.1 years.
+
+The Company maintains an employee stock purchase plan and issued 796 thousand shares, 572 thousand shares and 607 thousand shares in 2025, 2024 and 2023, respectively.
+
+16. Retirement Plan
+
+Centene has a defined contribution plan which covers substantially all team members who are at least 21 years of age. Under the plan, eligible team members may contribute a percentage of their base salary, subject to certain limitations. Centene may elect to match a portion of the employee's contribution. Company expense related to matching contributions to the plan was $ 138 million, $ 136 million and $ 131 million during the years ended December 31, 2025, 2024 and 2023, respectively.
+
+17. Contingencies
+
+The Company is routinely subjected to legal and regulatory proceedings in the normal course of business. These matters can include, without limitation:
+
+• periodic compliance and other reviews and investigations by various federal and state regulatory agencies with respect to requirements applicable to the Company's business, including, without limitation, those related to payment of claims, compliance with the CMS Medicare and Marketplace regulations, including risk adjustment, prior authorizations and broker compensation, compliance with the False Claims Act, the calculation of minimum MLR and rebates related thereto, submissions to state agencies related to payments or state false claims acts, pre-authorization penalties, timely review of grievances and appeals, timely and accurate payment of claims, provider directory accuracy, network adequacy, cybersecurity issues, including those related to the Company's or the Company's third-party vendors' information systems, and the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and other federal and state fraud, waste and abuse laws;
+
+• litigation arising out of general business activities, such as tax matters, disputes related to healthcare benefits coverage or reimbursement, putative securities class actions, and medical malpractice, privacy, real estate, intellectual property, vendor disputes and employment-related claims; and
+
+• disputes regarding reinsurance arrangements, claims arising out of the acquisition or divestiture of various assets, class actions, and claims relating to the performance of contractual and non-contractual obligations to providers, members, employer groups, vendors and others, including, but not limited to, the alleged failure to properly pay claims and challenges to the manner in which the Company processes claims, claims related to network adequacy, and claims alleging that the Company has engaged in unfair business practices.
+
+Among other things, these matters may result in corrective action plans, awards of damages, fines, or penalties, which could be substantial, and/or could require changes to the Company's business and cause reputational harm. The Company intends to vigorously defend itself against legal and regulatory proceedings to which it is currently a party; however, these proceedings are subject to many uncertainties. In some cases pending against the Company, substantial non-economic or punitive damages are being sought.
+
+The Company records reserves and accrues costs for certain legal proceedings and regulatory matters to the extent that it determines an unfavorable outcome is probable and the amount of the loss can be reasonably estimated. While such reserves and accrued costs reflect the Company's best estimate of the probable loss for such matters, the recorded amounts may differ materially from the actual amount of any such losses. In some cases, no estimate of the possible loss or range of loss in excess of amounts accrued, if any, can be made because of the inherently unpredictable nature of legal and regulatory proceedings, which may be exacerbated by various factors, including but not limited to, they may involve indeterminate claims for monetary damages or may involve fines, penalties or punitive damages; present novel legal theories or legal uncertainties; involve disputed facts; represent a shift in regulatory policy; involve a large number of parties, claimants or regulatory bodies; are in the early stages of the proceedings; involve a number of separate proceedings and/or a wide range of potential outcomes; or result in a change of business practices.
+
+As of the date of this report, amounts accrued for legal proceedings and regulatory matters were not material. Except for the matters discussed below, the Company believes that the ultimate outcome of any of the regulatory and legal proceedings that are currently pending against it should not have a material adverse effect on financial condition, results of operations, cash flow or liquidity. However, it is possible that in a particular quarter or annual period the Company's financial condition, results of operations, cash flow, and/or liquidity could be materially adversely affected by an ultimate unfavorable resolution of or development in legal and/or regulatory proceedings.
+
+Federal Securities Class Action and Derivative Lawsuits
+
+On July 9, 2025, a putative federal securities class action, Brock Lunstrum v. Centene Corp., et al. (the Securities Action), was filed against the Company and certain of its executives in the U.S. District Court for the Southern District of New York. The plaintiffs in the lawsuits allege that the Company made false and misleading statements with respect to the Company's 2025 earnings guidance in violation of federal securities laws. Five related derivative lawsuits were subsequently filed — Franchi v. London, et al. (filed July 31, 2025), Keippel v. London, et al. (filed August 14, 2025), and Shipon v. London, et al. (filed August 26, 2025) in the Southern District of New York, and Nante v. London, et al. (filed September 30, 2025) in the Eastern District of Missouri and Rosenbaum v. London, et. al, (filed January 30, 2026) in the District of Delaware (together, the Derivative Actions) — against the Company, as nominal defendant, members of the board of directors, and certain officers. The plaintiffs in the Derivative Actions allege that the individual defendants breached their fiduciary duties and committed other alleged misconduct in connection with the statements at issue in the Securities Action. The Company denies any wrongdoing and is vigorously defending itself against the claims in the Securities Action and Derivative Actions. Nevertheless, these matters are subject to many uncertainties and the Company cannot predict how long these lawsuits will last, whether additional litigation will be filed with similar claims, or what the ultimate outcome will be, and an adverse outcome in any of these matters could potentially have a materially adverse impact on the Company's financial position and results of operations, cash flow or liquidity.
+
+18. Earnings Per Share
+
+The following table sets forth the calculation of basic and diluted net earnings per common share ($ in millions, except per share data in dollars and shares in thousands):
+
+The calculation of diluted loss per common share for 2025 excludes the impact of 5,658 thousand shares related to stock options, restricted stock and restricted stock units as their effect would have been anti-dilutive due to the net loss for the year. The calculation of diluted earnings per common share for 2024 and 2023 exclude 278 thousand shares and 376 thousand shares, respectively, related to anti-dilutive stock options and restricted stock units.
+
+19. Segment Information
+
+The Company operates in four segments: (1) a Medicaid segment, (2) a Medicare segment, (3) a Commercial segment and (4) an Other segment. The Medicaid, Medicare and Commercial segments primarily represent the government-sponsored or subsidized programs under which the Company offers managed healthcare services. The Other segment includes the Company's pharmacy operations, vision and dental services, clinical healthcare, behavioral health, and centralized services, among others. The Company signed a definitive agreement to divest the remaining Magellan Health businesses in December 2025.
+
+Factors used in determining the reportable business segments include the nature of operating activities, the existence of separate senior management teams and the type of information presented to the Company's chief operating decision-maker (CODM) to evaluate all results of operations. The Company's CODM is its Chief Executive Officer. The Company's CODM focuses primarily on each segment's ability to generate sufficient revenues and manage expenses associated with health benefits and cost of services (including estimated costs incurred). As such, the CODM measures operating performance at the segment level based on gross margin, including evaluation of budget to actual variances, to determine the allocation of financial and capital resources for each segment. The Company does not report total assets by segment since this is not a metric used by the Company's CODM to allocate resources or evaluate segment performance.
+
+Segment information for the year ended December 31, 2025, is as follows ($ in millions):
+
+Segment information for the year ended December 31, 2024, is as follows ($ in millions):
+
+Segment information for the year ended December 31, 2023, is as follows ($ in millions):
+
+20. Condensed Financial Information of Registrant
+
+Centene Corporation (Parent Company Only)
+
+Condensed Balance Sheets
+
+(In millions, except shares in thousands and per share data in dollars)
+
+See notes to condensed financial information of registrant.
+
+Centene Corporation (Parent Company Only)
+
+Condensed Statements of Operations
+
+(In millions, except per share data in dollars)
+
+See notes to condensed financial information of registrant.
+
+Centene Corporation (Parent Company Only)
+
+Condensed Statements of Cash Flows
+
+(In millions)
+
+See notes to condensed financial information of registrant.
+
+Notes to Condensed Financial Information of Registrant
+
+Note A - Basis of Presentation and Significant Accounting Policies
+
+The parent company only financial statements should be read in conjunction with Centene Corporation's audited consolidated financial statements and the notes to consolidated financial statements included in this Form 10-K.
+
+The parent company's investment in subsidiaries is stated at cost plus equity in undistributed earnings of the subsidiaries. The parent company's share of net income of its unconsolidated subsidiaries is included in income using the equity method of accounting. Certain unrestricted subsidiaries receive monthly management fees from the Company's restricted subsidiaries. The management and service fees received by its unrestricted subsidiaries are associated with all of the functions required to manage the restricted subsidiaries which often include salaries and wages for personnel, rent, utilities, population health management, provider contracting, compliance, member services, claims processing, pharmacy oversight services, information technology, cash management, finance and accounting and other services. The management fees are based on a cost basis reimbursement.
+
+Due to the Company's centralized cash management function, cash flows generated by its unrestricted subsidiaries are utilized by the parent company to the extent required, primarily to repay borrowings on the parent company's credit facilities, repurchase the parent company's common stock, make acquisitions, fund capital contributions to subsidiaries and fund its operations.
+
+Certain amounts presented in the parent company only financial statements are eliminated in the consolidated financial statements of Centene Corporation.
+
+21. Subsequent Events
+
+CMS Part D risk-sharing receivables
+
+The Company has receivables due from CMS for Part D risk-sharing programs attributable to the 2025 plan year that are expected to be paid by CMS within a year after the plan year closes. As of December 31, 2025, the stand-alone Part D risk-sharing programs receivable balance for the 2025 plan year was $ 3,992 million.
+
+On February 13, 2026, the Company entered into a master receivable purchase agreement (the February 2026 Receivable Purchase Agreement). The February 2026 Receivable Purchase Agreement allows the Company to from time to time offer up to the full amount of its 2025 plan year stand-alone Part D risk-sharing programs receivable to the purchaser, which the purchaser may elect to purchase. The purchase price for each purchased receivable portion equals the net estimated invoice amount of such portion minus the discount, which is determined by reference to Secured Overnight Financing Rate (SOFR) plus a spread. The Company will account for the transfer of all or any portion of this receivable as a sale of accounts receivable. The difference between the balance of the receivable (or portion thereof) sold and cash proceeds received will be recorded as a loss on sale of receivables and included in selling, general and administrative expenses in the Consolidated Statements of Operations. The Company will act as a servicer for the transferred receivable. As of the date of this report, no receivable (or any portions thereof) was transferred pursuant to the February 2026 Receivable Purchase Agreement.
+
+Senior Note Debt Repurchase Program
+
+In January 2026, the Company repurchased an additional $ 29 million of its par value Senior Notes due 2027 for $ 29 million.
+
+In February 2026, the Company's Board of Directors authorized an increase under the program of $ 1,000 million. With this increase, as of February 2026, there was $ 1,484 million available under the senior note debt repurchase program.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures - Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of December 31, 2025. The term "disclosure controls and procedures," as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company's management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation of our disclosure controls and procedures as of December 31, 2025, our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective.
+
+Management's Report on Internal Control Over Financial Reporting - Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation under the framework in Internal Control - Integrated Framework (2013) , our management concluded that our internal control over financial reporting was effective at the reasonable assurance level as of December 31, 2025. Our management's assessment of the effectiveness of our internal control over financial reporting as of December 31, 2025, has been audited by KPMG LLP, an independent registered public accounting firm, as stated in their report which is included herein.
+
+Changes in Internal Control Over Financial Reporting - No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the year ended December 31, 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and Board of Directors
+
+Centene Corporation:
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Centene Corporation and subsidiaries' (the Company) internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive earnings (loss), stockholders' equity, and cash flows for each of the years in the three-year period ended December 31, 2025, and the related notes (collectively, the consolidated financial statements), and our report dated February 17, 2026 expressed an unqualified opinion on those consolidated financial statements.
+
+Basis for Opinion
+
+The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ KPMG LLP
+
+St. Louis, Missouri
+
+February 17, 2026
+
+Item 9B. Other Information
+
+(a) On February 13, 2026, we entered into a master receivable purchase agreement (the February 2026 Receivable Purchase Agreement) with MUFG Bank, Ltd. (the purchaser). The February 2026 Receivable Purchase Agreement allows us to from time to time offer up to the full amount of our 2025 plan year stand-alone Part D risk-sharing programs receivable to the purchaser, which the purchaser may elect to purchase. The purchase price for each purchased receivable portion equals the net estimated invoice amount of such portion minus the discount, which is determined by reference to the Secured Overnight Financing Rate (SOFR) plus a spread. We will account for the transfer of all or any portion of this receivable as a sale of accounts receivable. The difference between the balance of the receivable (or portion thereof) sold and cash proceeds received will be recorded as a loss on sale of receivables and included in selling, general and administrative expenses in the Consolidated Statements of Operations. We will act as a servicer for the transferred receivable. As of the date of this report, no receivable (or any portions thereof) were transferred pursuant to the February 2026 Receivable Purchase Agreement.
+
+The parties to the February 2026 Receivable Purchase Agreement have each made customary representations and warranties. We agreed to various covenants and agreements, including, among others, our agreement to perform in all material respects all terms, covenants and other provisions required to be performed by us thereunder and to service any receivable (or portion thereof) sold thereunder. The February 2026 Receivable Purchase Agreement contains specified repurchase obligations that would require us to repurchase the purchased receivable portions upon the purchaser's request if certain events occur in respect of the purchased receivable portions prior to the termination of the February 2026 Receivable Purchase Agreement.
+
+The above description of the February 2026 Receivable Purchase Agreement does not purport to be complete and is subject to, and qualified in its entirety by, reference to the February 2026 Receivable Purchase Agreement and the related performance guaranty provided by us, copies of which are filed as Exhibits 2.1 and 2.2 to this Annual Report on Form 10-K and are incorporated herein by reference.
+
+(b) During the three months ended December 31, 2025, no director or officer of the Company adopted or terminated a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each term is defined in Item 408(a) of Regulation S-K.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+(a) Directors of the Registrant
+
+Information concerning our directors will appear in our Proxy Statement for our 2026 annual meeting of stockholders under "Proposal One: Election of Directors." This portion of the Proxy Statement is incorporated herein by reference.
+
+(b) Information about our Executive Officers
+
+Pursuant to General Instruction G(3) to Form 10-K and the Instruction to Item 401 of Regulation S-K, information regarding our executive officers is provided in Item 1 of Part I of this Annual Report on Form 10-K under the caption "Information about our Executive Officers."
+
+Information concerning our executive officers' compliance with Section 16(a) of the Exchange Act will appear in our Proxy Statement for our 2026 annual meeting of stockholders under "Delinquent Section 16(a) Reports," if applicable.
+
+(c) Corporate Governance
+
+Information concerning certain corporate governance matters, including information concerning our audit committee financial expert, identification of our Audit and Compliance Committee and our code of ethics will appear in our Proxy Statement for our 2026 annual meeting of stockholders under "Corporate Governance." These portions of our Proxy Statement are incorporated herein by reference.
+
+(d) Insider Trading Policies and Procedures
+
+The Company has adopted the Policy on Inside Information and Insider Trading attached as Exhibit 19.1 hereto, which governs the purchase, sale and/or other dispositions of the Company's securities by directors, officers and employees, and by the Company itself, and is reasonably designed to promote compliance with insider trading laws, rules and regulations, and the NYSE listing standards.
+
+Item 11. Executive Compensation
+
+Information concerning executive compensation will appear in our Proxy Statement for our 2026 Annual Meeting of Stockholders under "Executive Compensation." Information concerning Compensation and Talent Committee interlocks and insider participation will appear in the Proxy Statement for our 2026 Annual Meeting of Stockholders under "Compensation & Talent Committee Interlocks and Insider Participation." These portions of the Proxy Statement are incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Information concerning the security ownership of certain beneficial owners and management and our equity compensation plans will appear in our Proxy Statement for our 2026 annual meeting of stockholders under "Security Ownership of Certain Beneficial Owners and Management" and "Equity Compensation Plan Information." These portions of the Proxy Statement are incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions , and Director Independence
+
+Information concerning director independence, certain relationships and related transactions will appear in our Proxy Statement for our 2026 annual meeting of stockholders under "Corporate Governance," "Independence of Directors" and "Related Party Transactions." These portions of our Proxy Statement are incorporated herein by reference.
+
+Item 14. Principal Accountant Fees and Services
+
+Our independent registered public accounting firm is KPMG LLP , St. Louis, MO . The Auditor Firm ID is 185 .
+
+Information concerning principal accountant fees and services will appear in our Proxy Statement for our 2026 annual meeting of stockholders under "Proposal Three: Ratification of Appointment of Independent Registered Public Accounting Firm." This portion of our Proxy Statement is incorporated herein by reference.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a) Financial Statements and Schedules
+
+The following documents are filed under Item 8 of this report:
+
+1. Financial Statements:
+
+Report of Independent Registered Public Accounting Firm
+
+Consolidated Balance Sheets as of December 31, 2025 and 2024
+
+Consolidated Statements of Operations for the years ended December 31, 2025, 2024 and 2023
+
+Consolidated Statements of Comprehensive Earnings (Loss) for the years ended December 31, 2025, 2024 and 2023
+
+Consolidated Statements of Stockholders' Equity for the years ended December 31, 2025, 2024 and 2023
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2025, 2024 and 2023
+
+Notes to Consolidated Financial Statements
+
+2. Financial Statement Schedules:
+
+None.
+
+3. The exhibits listed in the accompanying Exhibit Index are filed or incorporated by reference as part of this filing.
+
+EXHIBIT INDEX
+
+Item 16. Form 10-K Summary
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, as of February 17, 2026.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities as indicated, as of February 17, 2026.

@@ -2,6 +2,21 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 10-K section 후보 및 표 표식 오탐
+
+- 문제 요약: 최초 parser가 Item 7을 6개 기업에서만 탐지하고 분석 본문 61개에 내부 표 제거 표식을 남겼다. (codex)
+- 원인: `Item 1` 정규식이 `Item 15/16`까지 허용해 문서 끝 후보를 선택했고, 중첩 block이 하위 표 표식을 다시 포함했다. (codex)
+- 조치: Item 번호 경계를 엄격히 하고, 실제 본문 heading 점수 임계값과 순서를 적용했으며 상위 block의 표 표식을 제거했다. optional section 경고와 핵심 회사 경고도 분리했다. (codex)
+- 검증: Item 7 탐지는 84개로 개선됐고 표 표식·HTML·script/style·XBRL 오염은 모두 0이다. 탐지되지 않은 16개와 경계가 짧은 핵심 section은 warning으로 보존했다. (codex)
+- 상태: 추출 pipeline은 완료됐으나 WFC 등 table-layout 및 multi-registrant section 경계는 다음 parser 개선 대상으로 남는다. (codex)
+
+## 2026-07-29 - 대용량 문장 CSV
+
+- 문제 요약: 비압축 `sentences.csv`가 103,370,905바이트로 GitHub 단일 파일 제한 위험이 있었다. (codex)
+- 조치: 문단·문장 상세표를 gzip CSV로 직접 생성·검증하도록 변경하고 소규모 요약 CSV와 `sections.csv`는 유지했다. (codex)
+- 검증: 압축 후 문단 파일 약 15MB, 문장 파일 약 18MB이며 품질검사에서 원래 141,796행과 298,250행을 모두 읽었다. (codex)
+- 상태: 해결됨. (codex)
+
 ## 2026-07-29 - HTML 다운로드 요약 HTTP 상태 타입 오류
 
 - 문제 요약: 100개 요청과 파일 저장은 모두 성공했지만 최초 실행 summary가 `http_failures=100`을 출력하고 종료 코드 1을 반환했다. (codex)

@@ -1,0 +1,765 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+WORKDAY, INC.
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Workday, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Workday, Inc. (the Company) as of January 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income (loss), stockholders’ equity and cash flows for each of the three years in the period ended January 31, 2025, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at January 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended January 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of January 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated March 11, 2025 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 2008.
+
+San Francisco, California
+
+March 11, 2025
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Workday, Inc.
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Workday, Inc.’s internal control over financial reporting as of January 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Workday, Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of January 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of January 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income (loss), stockholders’ equity and cash flows for each of the three years in the period ended January 31, 2025, and the related notes and our report dated March 11, 2025 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+San Francisco, California
+
+March 11, 2025
+
+WORKDAY, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(in millions, except number of shares which are reflected in thousands and per share data)
+
+See Notes to Consolidated Financial Statements
+
+WORKDAY, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in millions, except number of shares which are reflected in thousands and per share data)
+
+(1) Costs and expenses include share-based compensation expense as follows:
+
+See Notes to Consolidated Financial Statements
+
+WORKDAY, INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+(in millions)
+
+See Notes to Consolidated Financial Statements
+
+WORKDAY, INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(in millions, except number of shares which are reflected in thousands)
+
+See Notes to Consolidated Financial Statements
+
+WORKDAY, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in millions)
+
+See Notes to Consolidated Financial Statements
+
+See Notes to Consolidated Financial Statements
+
+Workday, Inc.
+
+Notes to Consolidated Financial Statements
+
+As used in this report, the terms “ Workday, ” “ registrant, ” “ we, ” “ us, ” and “ our ” mean Workday, Inc. and its subsidiaries unless the context indicates otherwise.
+
+Note 1. Overview and Basis of Presentation
+
+Description of the Business
+
+Workday is a leading enterprise platform that provides organizations with solutions for financial management, human capital management (“HCM”), planning, spend management, and analytics. With Workday, our customers have an artificial intelligence (“AI”)-powered cloud platform that helps them manage their most important assets – their people and money.
+
+Fiscal Year
+
+Our fiscal year ends on January 31. References to fiscal 2025, for example, refer to the fiscal year ended January 31, 2025.
+
+Basis of Presentation
+
+The consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (“GAAP”) and include the results of Workday, Inc. and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated.
+
+Certain prior period amounts reported in our consolidated financial statements and notes thereto have been reclassified to conform to current period presentation.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with GAAP requires us to make certain estimates, judgments, and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities as of the date of the consolidated financial statements, as well as the reported amounts of revenues and expenses during the reporting period. Significant estimates, judgments, and assumptions include, but are not limited to, the identification of distinct performance obligations for revenue recognition, the determination of the period of benefit for deferred commissions, the realizability of deferred tax assets, the measurement of uncertain tax positions, the fair value and useful lives of assets acquired and liabilities assumed through business combinations, and the valuation of non-marketable equity investments. Actual results could differ from those estimates, judgments, and assumptions, and such differences could be material to our consolidated financial statements.
+
+Segment Information
+
+We operate as a single operating and reportable segment: cloud applications. Although we offer a variety of enterprise cloud solutions to a diverse global customer base, we operate in one operating segment because our business activities are managed on a consolidated basis, our service offerings all operate on the Workday platform and are deployed in a similar manner, and our Chief Operating Decision Maker (“CODM”), who is our Chief Executive Officer, allocates resources and assesses performance based upon discrete financial information at the consolidated level.
+
+Our CODM assesses performance and decides how to allocate resources based on Net income, as reported on the Consolidated Statements of Operations. Net income is used to evaluate the overall profitability of the business and to guide decisions on how to invest in and grow the business. Our CODM also reviews Total assets, as reported on the Consolidated Balance Sheets, and Capital expenditures, as reported on the Consolidated Statements of Cash Flows. Significant segment expenses include the costs and expenses presented on the Consolidated Statements of Operations. Other segment items include Other income (expense), net and Provision for (benefit from) income taxes.
+
+Note 2. Accounting Standards and Significant Accounting Policies
+
+Summary of Significant Accounting Policies
+
+Revenue Recognition
+
+We derive our revenues from subscription services and professional services. Revenues are recognized when control of these services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to receive in exchange for services rendered. Revenues are recognized net of any taxes collected from customers which are subsequently remitted to governmental authorities.
+
+We determine revenue recognition through the following steps:
+
+• Identification of the contract, or contracts, with a customer;
+
+• Identification of the performance obligations in the contract;
+
+• Determination of the transaction price;
+
+• Allocation of the transaction price to the performance obligations in the contract; and
+
+• Recognition of revenues when, or as, we satisfy a performance obligation.
+
+Subscription Services Revenues
+
+Subscription services revenues primarily consist of fees that provide customers access to one or more of our cloud applications for financial management, spend management, human capital management, planning, and analytics, with routine customer support. Revenues are generally recognized on a ratable basis over the contract term beginning on the date that our service is made available to the customer. To date, we have not allocated any significant variable consideration to the transaction price. Our subscription contracts are generally three years or longer in length and are generally noncancelable.
+
+Professional Services Revenues
+
+Professional services revenues primarily consist of consulting fees for deployment and optimization services, as well as training. Our consulting contracts are billed on a time and materials basis or a fixed price basis. For contracts billed on a time and materials basis, revenues are recognized over time as the professional services are performed. For contracts billed on a fixed price basis, revenues are recognized over time based on the proportion of the professional services performed.
+
+Contracts with Multiple Performance Obligations
+
+Some of our contracts with customers contain multiple performance obligations. For these contracts, we account for individual performance obligations separately if they are distinct. The transaction price is allocated to the separate performance obligations on a relative standalone selling price basis. We determine the standalone selling prices based on our overall pricing objectives, taking into consideration market conditions and other factors, including the value of our contracts, the cloud applications sold, customer demographics, geographic locations, and the number and types of users within our contracts.
+
+We use a range of amounts to estimate SSP for both subscription and professional services sold together in a contract to determine whether there is a discount to be allocated based on the relative SSP of the performance obligations. We use historical sales transaction data, among other factors, to determine the SSP for each distinct performance obligation. Our SSP ranges are reassessed on a periodic basis or when facts and circumstances change. Changes in SSP for our services can evolve over time due to changes in our pricing practices that are influenced by market competition, changes in demand for our services, and other economic factors. As our go-to-market strategies evolve, we may modify our pricing practices in the future, which could result in changes to SSP and may therefore impact revenue recognized in our consolidated financial statements.
+
+Contract Balances
+
+We generally invoice our customers annually in advance for our subscription services and in arrears for our professional services. Payment terms and conditions vary by contract type and by customer, and payment is generally required within 30 days from date of invoicing. The timing of revenue recognition may differ from the timing of invoicing customers, and these timing differences result in trade receivables, contract assets, or contract liabilities (unearned revenue) on the Consolidated Balance Sheets.
+
+Trade Receivables and Contract Assets
+
+We record a trade receivable when an unconditional right to consideration exists, such that only the passage of time is required before payment of consideration is due. A contract asset is recognized when a conditional right to consideration exists and transfer of control has occurred. The current and noncurrent portions of contract assets are included in Trade and other receivables and Other assets, respectively, on the Consolidated Balance Sheets.
+
+We maintain an allowance for credit losses for expected uncollectible trade receivables and contract assets, which is recorded as an offset to trade receivables or contract assets. We assess our allowance for credit losses by taking into consideration forecasts of future economic conditions, information about past events, such as our historical trend of write-offs, and customer-specific circumstances, such as bankruptcies and disputes. The allowance for credit losses is recorded in General and administrative expenses on the Consolidated Statements of Operations.
+
+Unearned Revenue
+
+Contract liabilities consist of unearned revenue, which is recorded when we invoice in advance of revenues being recognized from our contracts. Unearned revenue that is anticipated to be recognized during the succeeding twelve-month period is recorded as current unearned revenue and the remaining portion is recorded as noncurrent.
+
+Fair Value Measurement
+
+We measure our cash equivalents, marketable securities, and foreign currency derivative contracts at fair value at each reporting period using a fair value hierarchy that requires that we maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. In addition, we measure our non-marketable equity investments for which there has been an impairment or an observable price change from an orderly transaction for identical or similar investments of the same issuer at fair value. A financial instrument’s classification within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. Three levels of inputs may be used to measure fair value:
+
+Level 1 — Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active markets.
+
+Level 2 — Other inputs that are directly or indirectly observable in the marketplace.
+
+Level 3 — Unobservable inputs that are supported by little or no market activity.
+
+Cash and Cash Equivalents
+
+Cash and cash equivalents consist of highly liquid investments with maturities of three months or less at the time of purchase. Our cash equivalents generally consist of investments in corporate bonds, commercial paper, and money market funds.
+
+Debt Securities
+
+Debt securities generally consist of investments in U.S. treasury securities, U.S. agency obligations, corporate bonds, commercial paper, and asset-backed securities. We classify our debt securities as available-for-sale at the time of purchase and reevaluate such classification as of each balance sheet date. We consider all debt securities as funds available for use in current operations, including those with maturity dates beyond one year, and therefore classify these securities as current assets on the Consolidated Balance Sheets. Debt securities included in Marketable securities on the Consolidated Balance Sheets consist of securities with original maturities at the time of purchase greater than three months, and the remaining securities are included in Cash and cash equivalents. Realized gains or losses from the sales of debt securities are based on the specific identification method.
+
+When the fair value of a debt security is below its amortized cost, the amortized cost should be written down to its fair value if (i) it is more likely than not that management will be required to sell the impaired security before recovery of its amortized basis or (ii) management has the intention to sell the security. If neither of these conditions are met, we must determine whether the impairment is due to credit losses. To determine the amount of credit losses, we compare the present value of the expected cash flows of the security, derived by taking into account the issuer’s credit ratings and remaining payment terms, with its amortized cost basis. The amount of impairment recognized is limited to the excess of the amortized cost over the fair value of the security. An allowance for credit losses for the excess of amortized cost over the expected cash flows is recorded in Other income (expense), net on the Consolidated Statements of Operations. Non-credit related losses are recorded in Accumulated other comprehensive income (loss) (“AOCI”).
+
+If quoted prices for identical instruments are available in an active market, debt securities are classified within Level 1 of the fair value hierarchy. If quoted prices for identical instruments in active markets are not available, fair values are estimated using quoted prices of similar instruments and are classified within Level 2 of the fair value hierarchy. To date, all of our debt securities can be valued using one of these two methodologies.
+
+Equity Investments
+
+Non-Marketable Equity Investments Measured Using the Measurement Alternative
+
+Non-marketable equity investments measured using the measurement alternative include investments in privately held companies without readily determinable fair values in which we do not own a controlling interest or exercise significant influence. These investments are recorded at cost and are adjusted for observable transactions for same or similar securities of the same issuer or impairment events. These investments are included in Other assets on the Consolidated Balance Sheets. Additionally, we assess our non-marketable equity investments quarterly for impairment. Adjustments and impairments are recorded in Other income (expense), net on the Consolidated Statements of Operations.
+
+Marketable Equity Investments
+
+We may hold marketable equity investments with readily determinable fair values over which we do not own a controlling interest or exercise significant influence. Marketable equity investments are included in Marketable securities on the Consolidated Balance Sheets. They are measured using quoted prices in active markets with changes recorded in Other income (expense), net on the Consolidated Statements of Operations.
+
+Deferred Commissions
+
+Sales commissions earned by our sales force are considered incremental and recoverable costs of obtaining a contract with a customer. Sales commissions for new revenue contracts are capitalized and then amortized on a straight-line basis over a period of benefit that we have determined to be five years . We determined the period of benefit by taking into consideration our customer contracts, our technology, and other factors. Amortization expense is included in Sales and marketing expenses on the Consolidated Statements of Operations.
+
+Derivative Financial Instruments and Hedging Activities
+
+We use derivative financial instruments to manage foreign currency exchange risk. Derivative instruments are measured at fair value and recorded as either an asset or liability on the Consolidated Balance Sheets. Gains and losses resulting from changes in fair value are accounted for depending on the use of the derivative and whether it is designated and qualifies for hedge accounting. For derivative instruments designated as cash flow hedges (“cash flow hedges”), which we use to hedge a portion of our forecasted foreign currency revenue and expense transactions, the gains or losses are recorded in AOCI on the Consolidated Balance Sheets and subsequently reclassified to the same line item as the hedged transaction on the Consolidated Statements of Operations in the same period that the hedged transaction affects earnings. The effectiveness of the cash flow hedges is assessed quantitatively using regression at inception of the hedge and on an ongoing basis. For derivative instruments not designated as hedging instruments (“non-designated hedges”), which we use to hedge a portion of our net outstanding monetary assets and liabilities, the gains or losses are recorded in Other income (expense), net on the Consolidated Statements of Operations in the period incurred. Cash flows from the settlement of forward contracts designated as cash flow hedges and non-designated hedges are classified as operating activities on the Consolidated Statements of Cash Flows.
+
+Our foreign currency contracts are classified within Level 2 of the fair value hierarchy because the valuation inputs are based on quoted prices and market observable data of similar instruments in active markets, such as currency spot and forward rates.
+
+Property and Equipment
+
+Property and equipment are stated at cost less accumulated depreciation, except for land which is stated at cost. Depreciation is recorded using the straight-line method over the estimated useful lives of the assets as shown in the table below. Property and equipment are reviewed for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable.
+
+Business Combinations
+
+We allocate the purchase consideration of acquired companies to tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition date, with the excess recorded to goodwill. Our estimates are inherently uncertain and subject to refinement. During the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the fair value of these tangible and intangible assets acquired and liabilities assumed, including uncertain tax positions and tax-related valuation allowances, with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the Consolidated Statements of Operations.
+
+In the event that we acquire a company in which we previously held an equity interest, the difference between the fair value of the shares as of the date of the acquisition and the carrying value of the equity investment is recorded as a non-cash gain or loss within Other income (expense), net on the Consolidated Statements of Operations.
+
+Goodwill and Acquisition-Related Intangible Assets
+
+Acquisition-related intangible assets with finite lives are amortized over their estimated useful lives. Goodwill amounts are not amortized. Acquisition-related intangible assets and goodwill are tested for impairment at least annually, and more frequently upon the occurrence of certain events.
+
+Leases
+
+We have entered into operating lease agreements for our office space, data centers, and other property and equipment. Operating lease right-of-use assets and operating lease liabilities are recognized at the lease commencement date based on the present value of the lease payments over the lease term. Right-of-use assets also include adjustments related to prepaid or deferred lease payments and lease incentives. As most of our leases do not provide an implicit interest rate, we use our incremental borrowing rate to determine the present value of lease payments.
+
+We have elected to combine lease and non-lease components for each of our existing underlying asset classes and to exclude leases with a term of 12 months or less from our Consolidated Balance Sheets. We recognize variable lease costs, including common area maintenance, utilities, real estate taxes, insurance, and other operating costs that are passed on from the lessor, in the Consolidated Statements of Operations in the period incurred. Options to extend or terminate a lease are included in the lease term when it is reasonably certain that we will exercise such options.
+
+Treasury Stock
+
+Treasury stock is accounted for using the cost method and recorded as a reduction to Stockholders’ equity on the Consolidated Balance Sheets. Incremental direct costs to purchase treasury stock are included in the cost of the shares acquired.
+
+To determine the cost of treasury stock that is either sold or re-issued, we use the first in, first out method. When treasury stock is re-issued at a price higher than its cost, the increase is recorded in Additional paid-in capital on the Consolidated Balance Sheets. When treasury stock is re-issued at a price lower than its cost, the decrease is recorded in Additional paid-in capital to the extent that there are previously recorded increases to offset the decrease. Any decreases in excess of that amount are recorded in Accumulated deficit on the Consolidated Balance Sheets.
+
+Advertising Expenses
+
+Advertising is expensed as incurred. Advertising expense was $ 204 million, $ 194 million, and $ 172 million for fiscal 2025, 2024, and 2023, respectively.
+
+Share-Based Compensation
+
+We measure and recognize compensation expense for share-based awards issued to employees and non-employees, primarily including restricted stock units (“RSUs”) and purchases under our employee stock purchase plan (“ESPP”), on the Consolidated Statements of Operations.
+
+For RSUs, fair value is based on the closing price of our common stock on the grant date. Compensation expense, net of estimated forfeitures, is recognized on a straight-line basis over the requisite service period. The requisite service period of the awards is generally the same as the vesting period.
+
+For shares issued under the ESPP, fair value is estimated using the Black-Scholes option-pricing model. Compensation expense is recognized on a straight-line basis over the offering period. We determine the assumptions for the option-pricing model as follows:
+
+• Risk-Free Interest Rate. The risk-free interest rate is based on the U.S. Treasury yield curve in effect at the date closest to the grant date for zero-coupon U.S. Treasury notes with maturities approximately equal to the expected term of the ESPP purchase rights.
+
+• Expected Term. The expected term represents the period that our ESPP is expected to be outstanding. The expected term for the ESPP approximates the offering period.
+
+• Volatility. The volatility is based on a blend of historical volatility and implied volatility of our common stock. Implied volatility is based on market traded options of our common stock.
+
+• Dividend Yield. The dividend yield is assumed to be zero as we have not paid and do not expect to pay dividends.
+
+Restructuring
+
+Restructuring costs are associated with a formal restructuring plan and are primarily related to employee severance, the closure of facilities, and cancellation of certain contracts. For involuntary employee termination benefits not provided under an ongoing benefit arrangement, costs are recognized when the plan is communicated to the employees. For ongoing employee benefit arrangements, inclusive of statutory requirements, costs are recognized when it becomes probable that an obligation has been incurred and the amount can be reasonably estimated. Costs related to contracts without future benefit or contract termination are recognized at the earlier of the contract termination or the cease-use dates, and losses on owned real estate are recognized when all of the held for sale criteria are met. The liabilities for restructuring charges are generally included in Accrued expenses and other liabilities or Accrued compensation on the Consolidated Balance Sheets.
+
+Income Taxes
+
+We record a provision for (benefit from) income taxes for the anticipated tax consequences of the reported results of operations using the asset and liability method. Under this method, we recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial reporting and tax basis of assets and liabilities, as well as for operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using the tax rates that are expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled. A valuation allowance is established when necessary to reduce deferred tax assets to the net amount that is more likely than not to be realized. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for (benefit from) income taxes in the period in which such determination is made.
+
+We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, based on the technical merits. The tax benefit recognized is measured as the largest amount of benefit which is greater than 50% likely to be realized upon settlement with the taxing authority. To the extent the assessment of such tax position changes, such difference will affect the provision for (benefit from) income taxes in the period in which we make the determination. We recognize interest accrued and penalties related to unrecognized tax benefits in the provision for (benefit from) income taxes.
+
+Warranties and Indemnification
+
+Our cloud applications are generally warranted to perform materially in accordance with our online documentation under normal use and circumstances. Additionally, our contracts generally include provisions for indemnifying customers against liabilities if use of our cloud applications infringe a third party’s intellectual property rights. We may also incur liabilities if we breach the security, privacy, and/or confidentiality obligations in our contracts. To date, we have not incurred any material costs, and we have not accrued any liabilities in the accompanying consolidated financial statements, as a result of these obligations.
+
+In our standard agreements with customers, we commit to defined levels of service availability and performance and, under certain circumstances, permit customers to receive credits in the event that we fail to meet those levels. In the event our failure to meet those levels triggers a termination right for a customer, we permit a terminating customer to receive a refund of prepaid amounts related to unused subscription services. To date, we have not experienced any significant failures to meet defined levels of availability and performance and, as a result, we have not accrued any liabilities related to these agreements on the consolidated financial statements.
+
+Foreign Currency Exchange
+
+The functional currency for certain of our foreign subsidiaries is the U.S. dollar, while others use local currencies. We translate the foreign functional currency financial statements to U.S. dollars for those entities that do not have the U.S. dollar as their functional currency using the exchange rates at the balance sheet date for assets and liabilities, the period average exchange rates for revenues and expenses, and the historical exchange rates for equity transactions. The effects of foreign currency translation adjustments are recorded in AOCI on the Consolidated Balance Sheets. Foreign currency transaction gains and losses are included in Other income (expense), net on the Consolidated Statements of Operations.
+
+Concentrations of Risk and Significant Customers
+
+Our financial instruments that are exposed to concentrations of credit risk consist primarily of cash and cash equivalents, debt securities, derivative instruments, and trade and other receivables. Our deposits exceed federally insured limits.
+
+No customer individually accounted for more than 10% of trade and other receivables, net as of January 31, 2025, or 2024. No customer individually accounted for more than 10% of total revenues during fiscal 2025, 2024, or 2023.
+
+Other than the United States, no country individually accounted for more than 10% of total revenues during fiscal 2025, 2024, or 2023.
+
+In order to reduce the risk of disruption of our cloud applications, we have established data centers in various geographic regions. We serve our customers and users from data center facilities operated by third parties, located in the United States and Europe. We have internal procedures to restore services in the event of disruption at one of our data center facilities. Even with these procedures for disaster recovery in place, our cloud applications could be significantly interrupted during the implementation of the procedures to restore services.
+
+In addition, we rely upon third-party hosted infrastructure partners, including Amazon Web Services (“AWS”) and Google Cloud, to serve customers globally and operate certain aspects of our services. Given this, any disruption of or interference at our hosted infrastructure partners may impact our operations and our business could be adversely impacted.
+
+Recently Adopted Accounting Pronouncements
+
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standard Update (“ASU”) No. 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures , which requires enhanced segment disclosures primarily focusing on significant segment expenses. This ASU also requires public entities with a single reportable segment to provide all the disclosures required by the updated standard and all existing segment disclosures in Topic 280 on an interim and annual basis. These amendments do not change how a public entity identifies its operating and reportable segments. We adopted this ASU effective February 1, 2024. For further information, see Note 1, Overview and Basis of Presentation .
+
+Recently Issued Accounting Pronouncements
+
+In December 2023, the FASB issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Disclosures , which requires disclosure of disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate reconciliation, and modifies other income tax-related disclosures. This ASU is effective for fiscal years beginning after December 15, 2024, with early adoption permitted. The updated standard allows for adoption on a prospective basis, with a retrospective option. We do not intend to early adopt, and are currently evaluating the impacts of the updated standard.
+
+In November 2024, the FASB issued ASU No. 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses, which requires the disclosure of additional information about specific expense categories in the notes to the financial statements. This ASU is effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted. The updated standard allows for adoption on a prospective or retrospective basis. We are currently evaluating the impacts of the updated standard.
+
+Note 3. Investments
+
+Debt Securities
+
+As of January 31, 2025, debt securities consisted of the following (in millions):
+
+As of January 31, 2024, debt securities consisted of the following (in millions):
+
+The fair values of debt securities, by remaining contractual maturity, were as follows (in millions):
+
+Actual maturities may differ from contractual maturities because borrowers may have certain prepayment conditions.
+
+Interest receivable of $ 53 million and $ 35 million is included in Prepaid expenses and other current assets on the Consolidated Balance Sheets as of January 31, 2025, and 2024, respectively.
+
+The unrealized losses on our debt securities primarily resulted from changes in market interest rates. We do not intend to sell these debt securities and it is not more likely than not that we will be required to sell the debt securities before recovery of their amortized cost bases, which may be at maturity. We did not recognize any credit-related losses on our debt securities during the periods presented. The following tables summarize the aggregate fair value and gross unrealized losses for all debt securities in an unrealized loss position, aggregated by investment category and the length of time that individual securities have been in a continuous loss position (in millions):
+
+We sold $ 273 million, $ 59 million, and $ 98 million of debt securities during fiscal 2025, 2024, or 2023, respectively. The realized gains and losses from the sales were immaterial.
+
+Equity Investments
+
+Equity investments consisted of the following (in millions):
+
+Total realized and unrealized gains and losses associated with our equity investments consisted of the following (in millions):
+
+(1) Reflects the difference between the sale proceeds and the carrying value of the equity investments at the beginning of the fiscal year.
+
+Non-Marketable Equity Investments Measured Using the Measurement Alternative
+
+The carrying values for our non-marketable equity investments are summarized below (in millions):
+
+In fiscal 2025, we recorded losses related to impairments and exits of $ 18 million, upward adjustments of $ 5 million, and downward adjustments of $ 5 million on our non-marketable equity investments. In fiscal 2024, we recorded impairment losses of $ 30 million. In fiscal 2023, we recorded upward adjustments of $ 8 million and impairment losses of $ 16 million.
+
+Marketable Equity Investments
+
+We held no marketable equity investments in fiscal 2025. During fiscal 2024, we sold marketable equity investments for proceeds of $ 87 million, with corresponding realized gains of $ 6 million.
+
+During fiscal 2023, we sold marketable equity investments for proceeds of $ 6 million, and the realized gains from the sales were not material. Additionally, we recorded unrealized net losses of $ 18 million on marketable equity investments held as of January 31, 2023.
+
+Note 4. Fair Value Measurements
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+The following table presents information about our assets and liabilities that are measured at fair value on a recurring basis and their assigned levels within the valuation hierarchy as of January 31, 2025 (in millions):
+
+The following table presents information about our assets and liabilities that are measured at fair value on a recurring basis and their assigned levels within the valuation hierarchy as of January 31, 2024 (in millions):
+
+Non-Marketable Equity Investments Measured at Fair Value on a Non-Recurring Basis
+
+Non-marketable equity investments that have been remeasured due to an observable event or impairment are classified within Level 3 in the fair value hierarchy because we estimate the value based on valuation methods which may include a combination of the observable transaction price at the transaction date and other unobservable inputs including volatility, rights, and obligations of the investments we hold. For further information, see Note 3, Investments .
+
+Fair Value Measurements of Other Financial Instruments
+
+We carry our debt at face value less unamortized debt discount and issuance costs on the Consolidated Balance Sheets and present the fair value for disclosure purposes only. The fair values of all of our debt obligations are categorized as Level 2 financial instruments. For further information on the fair values of our debt and the inputs used in the calculations, see Note 11, Debt .
+
+Note 5. Deferred Costs
+
+Deferred costs, which consist of deferred sales commissions, were $ 828 million and $ 741 million as of January 31, 2025, and 2024, respectively. Amortization expense for the deferred costs was $ 251 million, $ 213 million, and $ 175 million for fiscal 2025, 2024, and 2023, respectively. There was no impairment loss in relation to the costs capitalized for the periods presented.
+
+Note 6. Property and Equipment, Net
+
+Property and equipment, net consisted of the following (in millions):
+
+Depreciation expense totaled $ 243 million, $ 203 million, and $ 275 million for fiscal 2025, 2024, and 2023, respectively.
+
+Note 7. Business Combinations
+
+Evisort Acquisition
+
+On October 8, 2024, we acquired all outstanding stock of Evisort Inc. (“Evisort”), a provider of an AI-native document intelligence platform. With Evisort, we intend to add AI-powered document intelligence solutions across our suite of finance and HCM applications. We have included the financial results of Evisort in our consolidated financial statements from the date of acquisition.
+
+The total acquisition-date fair value of the purchase consideration was $ 311 million, which was paid in cash. We recorded developed technology intangible assets of $ 44 million (to be amortized over an estimated useful life of 6 years), customer relationships intangible assets of $ 28 million (to be amortized over an estimated useful life of 14 years), and goodwill of $ 223 million. The goodwill recognized was primarily attributable to the expected synergies from integrating Evisort’s technology into our product portfolio. The goodwill is not deductible for income tax purposes. The fair values of assets acquired and liabilities assumed may be subject to change over the measurement period as additional information is received and certain tax matters are finalized. The measurement period will end no later than one year from the acquisition date.
+
+Separate operating results and pro forma results of operations for Evisort have not been presented as the effect of this acquisition was not material to our financial results.
+
+HiredScore Acquisition
+
+On March 29, 2024, we acquired all outstanding stock of HiredScore, Inc. (“HiredScore”), a provider of AI-powered talent orchestration solutions. With HiredScore, Workday provides customers with a comprehensive, transparent, and intelligent talent acquisition and internal mobility offering, helping them better address their ever-evolving people needs. We have included the financial results of HiredScore in our consolidated financial statements from the date of acquisition.
+
+The total acquisition-date fair value of the purchase consideration was $ 530 million, which was paid in cash. The purchase consideration was preliminarily allocated to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values as of the acquisition date, with the excess recorded to goodwill. The fair values of assets acquired and liabilities assumed may be subject to change over the measurement period as additional information is received and certain tax matters are finalized. The primary areas that are subject to change include income taxes payable and deferred taxes. The measurement period will end no later than one year from the acquisition date. The preliminary fair values of the assets acquired and liabilities assumed as of the date of acquisition were as follows (in millions):
+
+The fair values and weighted-average useful lives of the acquired intangible assets by category were as follows (in millions, except years):
+
+The goodwill recognized was primarily attributable to the assembled workforce and the expected synergies from integrating HiredScore’s technology into our product portfolio. The goodwill is not deductible for income tax purposes.
+
+Separate operating results and pro forma results of operations for HiredScore have not been presented as the effect of this acquisition was not material to our financial results.
+
+Note 8. Acquisition-Related Intangible Assets, Net
+
+Acquisition-related intangible assets, net consisted of the following as of January 31, 2025 (in millions):
+
+Acquisition-related intangible assets, net consisted of the following as of January 31, 2024 (in millions):
+
+Amortization expense related to acquisition-related intangible assets was $ 79 million, $ 74 million, and $ 86 million for fiscal 2025, 2024, and 2023, respectively.
+
+As of January 31, 2025, our future estimated amortization expense related to acquisition-related intangible assets was as follows (in millions):
+
+Note 9. Other Assets
+
+Other assets consisted of the following (in millions):
+
+Technology patents and other intangible assets with estimable useful lives are amortized on a straight-line basis. As of January 31, 2025, the future estimated amortization expense was as follows (in millions):
+
+Note 10. Derivative Instruments
+
+We conduct business on a global basis in multiple foreign currencies, subjecting Workday to foreign currency exchange risk. To mitigate this risk, we utilize derivative hedging contracts as described below. We do not enter into any derivatives for trading or speculative purposes.
+
+Cash Flow Hedges
+
+We enter into foreign currency forward contracts to hedge a portion of our forecasted revenue and expense transactions. We designate these forward contracts as cash flow hedging instruments since the accounting criteria for such designation has been met.
+
+As of January 31, 2025, we estimate that $ 23 million of net gains recorded in AOCI related to our cash flow hedges will be reclassified into income within the next 12 months.
+
+As of January 31, 2025, and 2024, the notional values of the cash flow hedges that we held to buy U.S. dollars in exchange for other currencies were $ 2.8 billion and $ 2.5 billion, respectively. The notional values of the cash flow hedges that we held to sell U.S. dollars in exchange for other currencies were $ 420 million and $ 399 million as of January 31, 2025, and 2024, respectively. All contracts had maturities of less than 60 months.
+
+Non-Designated Hedges
+
+We also enter into foreign currency forward contracts to hedge a portion of our net outstanding monetary assets and liabilities. These forward contracts are intended to offset foreign currency gains or losses associated with the underlying monetary assets and liabilities and are recorded on the Consolidated Balance Sheets at fair value.
+
+As of January 31, 2025, and 2024, the notional values of the non-designated hedges that we held to buy U.S. dollars in exchange for other currencies were $ 242 million and $ 237 million, respectively, and the notional values of the non-designated hedges that we held to sell U.S. dollars in exchange for other currencies were $ 91 million and $ 11 million, respectively.
+
+The fair values of outstanding derivative instruments were as follows (in millions):
+
+The effect of cash flow hedges on the Consolidated Statements of Operations was as follows (in millions):
+
+Pre-tax gains (losses) associated with cash flow hedges were as follows (in millions):
+
+Gains (losses) associated with non-designated hedges were as follows (in millions):
+
+We are subject to netting agreements with all of the counterparties of the foreign exchange contracts, under which we are permitted to net settle transactions of the same currency with a single net amount payable by one party to the other. It is our policy to present the derivatives gross on the Consolidated Balance Sheets. Our foreign currency forward contracts are not subject to any credit contingent features or collateral requirements. We manage our exposure to counterparty risk by entering into contracts with a diversified group of major financial institutions and by actively monitoring outstanding positions.
+
+As of January 31, 2025, information related to these offsetting arrangements was as follows (in millions):
+
+Note 11. Debt
+
+Outstanding debt consisted of the following (in millions):
+
+As of January 31, 2025, the future principal payments for the outstanding debt were as follows (in millions):
+
+Senior Notes
+
+In fiscal 2023, we issued $ 3.0 billion aggregate principal amount of senior notes, consisting of $ 1.0 billion aggregate principal amount of 3.500 % notes due April 1, 2027 (“2027 Notes”), $ 750 million aggregate principal amount of 3.700 % notes due April 1, 2029 (“2029 Notes”), and $ 1.25 billion aggregate principal amount of 3.800 % notes due April 1, 2032 (“2032 Notes,” and together with the 2027 Notes and the 2029 Notes, “Senior Notes”). Interest is payable semi-annually in arrears on April 1 and October 1 of each year, which commenced in October 2022.
+
+The Senior Notes are unsecured obligations and rank equally with all existing and future unsecured and unsubordinated indebtedness of Workday. We may redeem the Senior Notes in whole or in part at any time or from time to time, at specified redemption dates and prices. In addition, upon the occurrence of certain change of control triggering events, we may be required to repurchase the Senior Notes under specified terms. The indenture governing the Senior Notes also includes covenants (including certain limited covenants restricting our ability to incur certain liens and enter into certain sale and leaseback transactions), events of default, and other customary provisions. As of January 31, 2025, we were in compliance with all covenants associated with the Senior Notes.
+
+We incurred debt discount and issuance costs of approximately $ 27 million in connection with the Senior Notes offering, which were allocated on a pro rata basis to the 2027 Notes, 2029 Notes, and 2032 Notes. The debt discount and issuance costs are amortized on a straight-line basis, which approximates the effective interest rate method, to interest expense over the contractual term of each arrangement. The effective interest rates on the 2027 Notes, 2029 Notes, and 2032 Notes, which are calculated as the contractual interest rates adjusted for the debt discount and issuance costs, are 3.67 %, 3.82 %, and 3.90 %, respectively.
+
+As of both January 31, 2025, and 2024, the total estimated fair value of the Senior Notes was $ 2.8 billion. The estimated fair values of the Senior Notes, which we have classified as Level 2 financial instruments, were determined based on quoted bid prices in an over-the-counter market on the last trading day of the reporting period.
+
+Credit Agreement
+
+In fiscal 2023, we entered into a credit agreement (“2022 Credit Agreement”) which provides for a revolving credit facility in an aggregate principal amount of $ 1.0 billion. The 2022 Credit Agreement replaced the credit agreement entered into in fiscal 2021 (“2020 Credit Agreement”), which provided for a term loan facility in an aggregate original principal amount of $ 750 million and a revolving credit facility in an aggregate principal amount of $ 750 million. Concurrently with entering into the 2022 Credit Agreement, we paid off the remaining principal balance of $ 694 million on the term loan under the 2020 Credit Agreement and terminated the revolving credit facility under the 2020 Credit Agreement which had no outstanding balance. The modification to our revolving credit facility and extinguishment of the term loan under the 2020 Credit Agreement did not have a material impact to our Consolidated Statements of Operations for fiscal 2023.
+
+As of January 31, 2025, and 2024, we had no outstanding revolving loans under the 2022 Credit Agreement. The revolving loans under the 2022 Credit Agreement may be borrowed, repaid, and reborrowed until April 6, 2027, at which time all amounts borrowed must be repaid. The revolving loans under the 2022 Credit Agreement will bear interest, at our option, at a base rate plus a margin of 0.000 % to 0.500 % or a secured overnight financing rate (“SOFR”) plus 10 basis points, plus a margin of 0.750 % to 1.500 %, with such margin being determined based on our consolidated leverage ratio or debt rating. We are also obligated to pay an ongoing commitment fee on undrawn amounts.
+
+The 2022 Credit Agreement contains customary representations, warranties, and affirmative and negative covenants, including a financial covenant, events of default, and indemnification provisions in favor of the lenders. The negative covenants include restrictions on the incurrence of liens and indebtedness, certain merger transactions, and other matters, all subject to certain exceptions. The financial covenant, based on a quarterly financial test, requires that we do not exceed a maximum leverage ratio of 3.50 :1.00, subject to a step-up to 4.50 :1.00 at our election for a certain period following an acquisition. As of January 31, 2025, and 2024, we were in compliance with all covenants included in the 2022 Credit Agreement.
+
+Convertible Senior Notes
+
+2022 Notes
+
+In fiscal 2018, we issued 0.25 % convertible senior notes due October 1, 2022, with a principal amount of $ 1.15 billion. The 2022 Notes were unsecured, unsubordinated obligations, and interest was payable in cash in arrears at a fixed rate of 0.25 % on April 1 and October 1 of each year. During fiscal 2023, the 2022 Notes were converted by note holders, and we repaid the $ 1.15 billion principal balance in cash. We also distributed approximately 0.6 million shares of our Class A common stock to note holders during fiscal 2023, which represented the conversion value in excess of the principal amount.
+
+Notes Hedges
+
+In connection with the issuance of the 2022 Notes, we entered into convertible note hedge transactions (“Purchased Options”) which gave us the option to purchase, subject to anti-dilution adjustments substantially identical to those in the 2022 Notes, approximately 7.8 million shares of our Class A common stock, respectively, for $ 147.10 per share. During fiscal 2023, we received approximately 0.6 million shares of our Class A common stock from the exercise of the Purchased Options, which offset the economic dilution to our Class A common stock upon conversion of the 2022 Notes. These shares were recorded as Treasury stock on the Consolidated Balance Sheets. The Purchased Options were separate transactions and were not part of the terms of the 2022 Notes, and the unexercised Purchased Options expired on October 1, 2022.
+
+Warrants
+
+In connection with the issuance of the 2022 Notes, we also entered into transactions to sell warrants (“Warrants”) to acquire, subject to anti-dilution adjustments, up to approximately 7.8 million shares of our Class A common stock over 60 scheduled trading days beginning in January 2023 at an exercise price of $ 213.96 per share. During fiscal 2024, the Warrants fully expired without exercise.
+
+Interest Expense on Debt
+
+The following table sets forth total interest expense recognized related to our debt (in millions):
+
+Note 12. Leases
+
+We have entered into operating lease agreements for our office space, data centers, and other property and equipment. Operating lease right-of-use assets were $ 336 million and $ 289 million as of January 31, 2025, and 2024, respectively, and operating lease liabilities were $ 378 million and $ 316 million as of January 31, 2025, and 2024, respectively.
+
+The components of operating lease expense were as follows (in millions):
+
+Supplemental cash flow information related to our operating leases was as follows (in millions):
+
+Other information related to our operating leases was as follows:
+
+As of January 31, 2025, maturities of operating lease liabilities were as follows (in millions):
+
+As of January 31, 2025, we have additional operating leases for data centers and office space that had not yet commenced with total undiscounted lease payments of $ 52 million. These operating leases will commence in fiscal 2026, with lease terms ranging from approximately five to ten years .
+
+Note 13. Commitments and Contingencies
+
+Purchase Obligations
+
+Our purchase obligations are primarily related to agreements for third-party hosted infrastructure platforms, data center equipment and software, business technology software and support, and sales and marketing activities. These obligations consist of agreements to purchase goods and services that are enforceable and legally binding, and specify all significant terms and the approximate timing of the payments. For purchase obligations with cancellation provisions, the amounts included in the following table were limited to the non-cancelable portion of the agreement terms or the minimum cancellation fees.
+
+Future payments under purchase obligations with a remaining term in excess of one year as of January 31, 2025, were as follows (in millions):
+
+Legal Matters
+
+We are a party to various legal proceedings and claims that arise in the ordinary course of business. We make a provision for a liability relating to legal matters when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated. These provisions are reviewed at least quarterly and adjusted to reflect the impacts of negotiations, settlements, rulings, advice of legal counsel, and other information and events pertaining to a particular matter. In our opinion, as of January 31, 2025, there was not at least a reasonable possibility that we had incurred a material loss, or a material loss in excess of a recorded accrual, with respect to such loss contingencies.
+
+Note 14. Stockholders’ Equity
+
+Common Stock
+
+As of January 31, 2025, there were 215 million shares of Class A common stock, net of treasury stock, and 51 million shares of Class B common stock outstanding. The rights of the holders of Class A common stock and Class B common stock are identical, except with respect to voting and conversion. Each share of Class A common stock is entitled to one vote per share and each share of Class B common stock is entitled to 10 votes per share. Each share of Class B common stock can be converted into a share of Class A common stock at any time at the option of the holder. All of our Class A and Class B shares will convert to a single class of common stock upon the date that is the first to occur of (i) October 17, 2032, (ii) such time as the shares of Class B common stock represent less than 9 % of the outstanding Class A common stock and Class B common stock, (iii) nine months following the death of both Mr. Duffield and Mr. Bhusri, and (iv) the date on which the holders of a majority of the shares of Class B common stock elect to convert all shares of Class A common stock and Class B common stock into a single class of common stock.
+
+Share Repurchase Programs
+
+In August 2024, our Board of Directors authorized the repurchase of up to $ 1.0 billion of our outstanding shares of Class A common stock (“August 2024 Share Repurchase Program”). Under this program, in accordance with applicable securities laws and other restrictions, we may repurchase shares of our Class A common stock through open market purchases, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act, in privately negotiated transactions, or by other means. The timing and total amount of share repurchases will depend upon business, economic, and market conditions, corporate and regulatory requirements, prevailing stock prices, and other considerations. The August 2024 Share Repurchase Program has no expiration date, may be suspended or discontinued at any time, and does not obligate us to acquire any amount of Class A common stock.
+
+Prior to the August 2024 Share Repurchase Program, our Board of Directors authorized a $ 500 million share repurchase program in February 2024, which we completed in the third quarter of fiscal 2025, and a $ 500 million share repurchase program in November 2022, which we completed in the first quarter of fiscal 2025.
+
+The table below sets forth information regarding our share repurchase programs (in millions, except number of shares which are reflected in thousands, and per share data):
+
+All repurchases were made in open market transactions. As of January 31, 2025, we were authorized to repurchase a remaining $ 802 million of our outstanding shares of Class A common stock under the August 2024 Share Repurchase Program.
+
+Employee Equity Plans
+
+In June 2022, our stockholders approved the 2022 Equity Incentive Plan (“2022 Plan”), with a reserve of 30 million shares for issuance. The 2022 Plan serves as the successor to our 2012 Equity Incentive Plan (“2012 Plan” and, together with the 2022 Plan, “Stock Plans”). Awards that are granted on or after the effective date of the 2022 Plan will be granted pursuant to and subject to the terms and provisions of the 2022 Plan. Prior awards granted under the 2012 Plan continue to be subject to the terms and provisions of the 2012 Plan. Shares that are withheld in connection with the net share settlement of RSUs or forfeited are added to the reserves of the 2022 Plan. As of January 31, 2025, we had 17 million shares of Class A common stock available for future grants.
+
+In June 2022, our stockholders approved the Amended and Restated 2012 Employee Stock Purchase Plan (“2012 ESPP”). Under the 2012 ESPP, eligible employees are granted options to purchase shares at the lower of 85 % of the fair market value of the stock at the time of grant or 85 % of the fair market value at the time of exercise. Options to purchase shares are granted twice yearly on or about June 1 and December 1, and are exercisable on or about the succeeding November 30 and May 31, respectively. As of January 31, 2025, 2 million shares of Class A common stock were available for issuance under the 2012 ESPP.
+
+Restricted Stock Units
+
+The Stock Plans provide for the issuance of RSUs to employees and non-employees. RSUs generally vest over four years . RSU activity during fiscal 2025 was as follows (in thousands, except per share data):
+
+(1) Includes shares withheld in connection with the net share settlement of RSUs.
+
+The weighted-average grant date fair value of RSUs granted during fiscal 2025, 2024, and 2023 was $ 252.18 , $ 197.22 , and $ 200.98 , respectively. The total fair value of RSUs vested as of the vesting dates during fiscal 2025, 2024, and 2023 was $ 1.1 billion, $ 1.4 billion, and $ 977 million, respectively.
+
+In the fourth quarter of fiscal 2023, we modified the vesting date of all unvested RSU awards from the 15th to the 5th of each month. This change impacted awards vesting after December 31, 2022, and resulted in an acceleration of share-based compensation expense in fiscal 2023 of $ 28 million.
+
+As of January 31, 2025, there was a total of $ 2.4 billion in unrecognized compensation cost, adjusted for estimated forfeitures, related to unvested RSUs, which is expected to be recognized over a weighted-average period of approximately three years .
+
+Market-Based Restricted Stock Units
+
+In December 2022, 0.3 million shares of market-based RSUs were granted to Mr. Eschenbach in connection with his appointment as Co-CEO that vest based on appreciation of the price of our Class A common stock over a multi-year period and upon continued service (“PVU Award”). We estimated the fair value of the PVU Award on the grant date using the Monte Carlo simulation model with the following assumptions: (i) expected volatility of 40 %, (ii) risk-free interest rate of 4 %, and (iii) total performance period of six years . The weighted-average grant date fair value of the PVU Award was $ 124.80 per share. We recognize expense for the PVU Award over the requisite service period of five years using the accelerated attribution method. Provided that the requisite service is rendered, the total fair value of the PVU Award at the date of grant is recognized as compensation expense even if the market condition is not achieved. However, the number of shares that ultimately vest can vary significantly with the achievement of the specified market criteria.
+
+As of January 31, 2025, there was a total of $ 9 million in unrecognized compensation cost related to the PVU Award, which is expected to be recognized over approximately three years .
+
+Stock Options
+
+The Stock Plans provide for the issuance of incentive and nonstatutory stock options to employees and non-employees. Stock options issued under the Stock Plans generally are exercisable for periods not to exceed ten years and generally vest over five years .
+
+As of January 31, 2025, there were 0.1 million options outstanding and exercisable with a weighted-average exercise price of $ 28.97 , and an aggregate intrinsic value of $ 17 million. All stock options were fully vested, with no remaining unrecognized compensation cost.
+
+The total intrinsic value of stock options exercised during fiscal 2025, 2024, and 2023 was $ 4 million, $ 5 million, and $ 41 million, respectively. The intrinsic value is the difference between the current fair value of the stock and the exercise price of the stock option.
+
+Employee Stock Purchase Plan
+
+For fiscal 2025, approximately 1 million shares of Class A common shares were purchased under the 2012 ESPP at a weighted-average price of $ 179.61 per share, resulting in cash proceeds of $ 186 million.
+
+The fair value of stock purchase rights granted under the 2012 ESPP was estimated using the following assumptions:
+
+Tax Benefits on Share-Based Compensation
+
+In fiscal 2025, 2024, and 2023, we recognized tax benefits on share-based compensation expense of $ 277 million, $ 257 million, and $ 17 million, respectively, which are reflected in the Provision for (benefit from) income taxes on the Consolidated Statements of Operations.
+
+Note 15. Contract Balances and Performance Obligations
+
+Contract Balances
+
+Contract assets and unearned revenue balances were as follows (in millions):
+
+(1) Included in this balance are amounts related to professional services that are subject to cancellation and pro-rated refund rights of $ 83 million and $ 76 million as of January 31, 2025, and 2024, respectively.
+
+Revenues of $ 4.0 billion, $ 3.5 billion, and $ 3.0 billion were recognized during fiscal 2025, 2024, and 2023, respectively, that were included in the unearned revenue balances at the beginning of the respective periods.
+
+Transaction Price Allocated to the Remaining Performance Obligations
+
+As of January 31, 2025, approximately $ 25.1 billion of revenues are expected to be recognized from remaining performance obligations for subscription contracts. We expect to recognize revenues on approximately $ 7.6 billion and $ 13.6 billion of these remaining performance obligations over the next 12 and 24 months, respectively, with the balance recognized thereafter. Revenues from remaining performance obligations for professional services contracts as of January 31, 2025, were not material.
+
+Note 16. Other Income (Expense), Net
+
+Other income (expense), net consisted of the following (in millions):
+
+(1) Interest expense primarily includes the contractual interest expense of our debt obligations, and the related non-cash interest expense attributable to amortization of the debt discount and issuance costs. For further information, see Note 11, Debt .
+
+(2) Other primarily includes the net gains (losses) from our equity investments. For further information, see Note 3, Investments .
+
+Note 17. Income Taxes
+
+The components of income (loss) before provision for (benefit from) income taxes were as follows (in millions):
+
+The provision for (benefit from) income taxes consisted of the following (in millions):
+
+The items accounting for the difference between income taxes computed at the federal statutory income tax rate and the provision for (benefit from) income taxes consisted of the following:
+
+The income tax provision for fiscal 2025 was primarily attributable to an increase in our U.S. pretax income and income tax expenses in profitable foreign jurisdictions.
+
+Significant components of our deferred tax assets and liabilities were as follows (in millions):
+
+We periodically evaluate the realizability of our deferred tax assets based on all available evidence, both positive and negative, such as historic results, future reversals of existing deferred tax liabilities, projected future taxable income, as well as prudent and feasible tax-planning strategies. The assessment requires significant judgement and is performed in each of the applicable jurisdictions. The remaining valuation allowance of $ 1.3 billion and $ 1.2 billion as of January 31, 2025, and 2024, respectively, was primarily related to tax credits in certain state jurisdictions and net operating loss in certain foreign jurisdictions.
+
+The valuation allowance increased by $ 77 million during fiscal 2025 primarily due to an increase in deferred tax assets on certain state tax credits and net operating losses in certain foreign jurisdictions.
+
+The valuation allowance decreased by $ 1.2 billion during fiscal 2024 primarily due to the release of the valuation allowance against all U.S. federal and state deferred tax assets, excluding certain state tax credits.
+
+As of January 31, 2025, we had approximately $ 378 million of federal, $ 1.4 billion of state, and $ 3.9 billion of foreign net operating loss and other tax attributes carryforwards available to offset future taxable income. If not utilized, the pre-fiscal 2018 federal and the state net operating loss carryforwards expire in varying amounts between fiscal 2029 and 2043. The federal net operating losses generated in and after fiscal 2018 and the foreign net operating losses and other tax attributes do not expire and may be carried forward indefinitely.
+
+We also had approximately $ 480 million of federal and $ 415 million of California research and development tax credit carryforwards as of January 31, 2025. The federal credits expire in varying amounts between fiscal 2036 and 2045. The California research and development tax credits do not expire and may be carried forward indefinitely.
+
+Our ability to utilize the net operating loss and tax credit carryforwards in the future may be subject to substantial restrictions in the event of past or future ownership changes as defined in Section 382 of the Internal Revenue Code of 1986, as amended, and similar state tax law.
+
+We intend to permanently reinvest any future earnings in our foreign operations unless such earnings are subject to U.S. federal income taxes. As of January 31, 2025, we estimate any such hypothetical foreign withholding tax expense to be immaterial to our financial statements.
+
+A reconciliation of the gross unrecognized tax benefits is as follows (in millions):
+
+Our policy is to include interest and penalties related to unrecognized tax benefits within our provision for income taxes. We did no t accrue any material interest expense or penalties during fiscal 2025, 2024, and 2023.
+
+Of the total amount of unrecognized tax benefits of $ 309 million, $ 184 million, if recognized, would impact the effective tax rate as of January 31, 2025.
+
+We file federal, state, and foreign income tax returns in jurisdictions with varying statutes of limitations. Due to our net operating loss carryforwards, our income tax returns generally remain subject to examination by federal and most state and foreign tax authorities.
+
+Note 18. Net Income (Loss) Per Share
+
+Basic net income (loss) per share is computed by dividing net income (loss) by the weighted-average number of shares of common stock outstanding during the period, net of treasury stock. Diluted net income (loss) per share is computed by giving effect to all potentially dilutive shares of common stock, including outstanding share-based awards consisting primarily of unvested RSUs and ESPP obligations, our convertible senior notes, and outstanding warrants related to the issuance of convertible senior notes. We determine the dilutive effect of outstanding share-based awards and warrants using the treasury stock method, and the dilutive effect of shares underlying our convertible senior notes using the if-converted method.
+
+The net income (loss) per share is allocated based on the contractual participation rights of the Class A common shares and Class B common shares as if the income (loss) for the period had been distributed. As the liquidation and dividend rights are identical, the net income (loss) is allocated on a proportionate basis. The computation of the diluted net income per share of Class A common stock assumes the conversion of our Class B common stock to Class A common stock, while the diluted net income (loss) per share of Class B common stock does not assume the conversion of those shares.
+
+Basic and diluted net loss per share was the same for fiscal 2023, as the inclusion of potentially outstanding weighted-average shares of common stock would have been anti-dilutive due to the incurrence of net loss during the period.
+
+The following table presents the calculation of basic and diluted net income (loss) per share (in millions, except number of shares, which are reflected in thousands, and per share data):
+
+The computation of diluted net income (loss) per share does not include the effect of the following potentially outstanding weighted-average shares of common stock. The effects of these potentially outstanding shares were not included in the calculation of diluted net income (loss) per share because the effect would have been anti-dilutive (in thousands):
+
+Note 19. Geographic Information
+
+Revenues
+
+We sell our subscription contracts and related services in two primary geographical markets: to customers located in the United States and to customers located outside of the United States. Revenues by geography are generally based on the address of the customer as specified in our customer subscription agreement. The following table sets forth revenues by geographic area (in millions):
+
+Long-Lived Assets
+
+Our long-lived assets are attributed to a country based on the physical location of the assets. We define long-lived assets as property and equipment and operating lease right-of-use assets because many of these assets cannot be readily moved and are relatively illiquid, subjecting them to geographic risk. None of our other assets are subject to significant geographic risk. Aggregate Property and equipment, net and Operating lease right-of-use assets by geographic area was as follows (in millions):
+
+Note 20. Defined Contribution Plans
+
+We provide defined contribution plans for eligible employees, including a 401(k) plan in the United States and similar plans in certain other countries. Our contributions to these plans were $ 116 million, $ 101 million, and $ 86 million during fiscal 2025, 2024, and 2023, respectively.
+
+Note 21. Restructuring
+
+In February 2025, we announced a restructuring plan (“Fiscal 2026 Restructuring Plan”) intended to prioritize our investments and continue advancing our ongoing focus on durable growth. This plan is currently expected to result in the elimination of approximately 8 % of our workforce. In connection with this plan, we expect to exit certain owned office space. The activities associated with this plan are expected to be substantially complete by the second quarter of fiscal 2026, subject to local law and consultation requirements.
+
+We estimate that we will incur approximately $ 230 million to $ 250 million in charges in connection with this plan, of which $ 65 million was recognized in the fourth quarter of fiscal 2025, and the remainder is expected to be recognized in the first quarter of fiscal 2026. The total charges consist of approximately $ 200 million to $ 210 million related to employee transition, severance payments, employee benefits, and share-based compensation, and the balance is related to an impairment of office space.
+
+The following table summarizes the activity under the Fiscal 2026 Restructuring Plan during fiscal 2025 (in millions):
+
+Additionally, during fiscal 2025, we recorded exit charges of $ 19 million associated with office space reductions under a separate restructuring plan.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+(a) Evaluation of Disclosure Controls and Procedures
+
+Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of the end of the period covered by this report.
+
+In designing and evaluating our disclosure controls and procedures, management recognizes that any disclosure controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+Based on management’s evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures are designed to, and are effective to, provide assurance at a reasonable level that the information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosures.
+
+(b) Management’s Report on Internal Control Over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Management conducted an assessment of the effectiveness of our internal control over financial reporting based on the criteria set forth in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on the assessment, management has concluded that its internal control over financial reporting was effective as of January 31, 2025, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP. Our independent registered public accounting firm, Ernst & Young LLP, has issued an audit report with respect to our internal control over financial reporting, which appears in Part II, Item 8, and is incorporated herein by reference.
+
+(c) Changes in Internal Control Over Financial Reporting
+
+Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during our most recently completed fiscal quarter. Based on that evaluation, our principal executive officer and principal financial officer concluded that there has not been any material change in our internal control over financial reporting during the fourth quarter of fiscal 2025 that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+(d) Limitations on Effectiveness of Controls and Procedures and Internal Control over Financial Reporting
+
+In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+See Management’s Report on Internal Control over Financial Reporting above and the Report of Independent Registered Public Accounting Firm on our internal control over financial reporting in Part II, Item 8, which are incorporated herein by reference.
+
+ITEM 9B. OTHER INFORMATION
+
+Insider Trading Arrangements
+
+During the three months ended January 31, 2025, no directors and/or officers of Workday adopted or terminated a “Rule 10b5-1 trading arrangement,” as defined in item 408(a) of Regulation S-K intending to satisfy the affirmative defense conditions of Rule 10b5-1(c).
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+None.
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+
+The information concerning our directors, our Audit Committee, and any changes to the process by which stockholders may recommend nominees to the Board of Directors required by this Item are incorporated herein by reference to information contained in the Proxy Statement, which is expected to be filed with the SEC within 120 days after the end of the fiscal year ended January 31, 2025, including under the captions “Proposal No. 1: Election of Directors” and “Directors and Corporate Governance.”
+
+The information concerning our executive officers required by this Item is incorporated herein by reference to information contained in the Proxy Statement, including under the caption “Executive Officers and Other Executive Management.”
+
+With regard to the information required by this Item regarding compliance with Section 16(a) of the Exchange Act, we will provide disclosure of delinquent Section 16(a) reports, if any, in our Proxy Statement, and such disclosure, if any, is incorporated herein by reference.
+
+We have adopted a code of ethics, our Code of Conduct, which applies to all employees, including our principal executive officer, our principal financial officer, our principal accounting officer, and all other executive officers. The Code of Conduct is available on our website at www.workday.com/codeofconduct . A copy may also be obtained without charge by contacting Investor Relations, Workday, Inc., 6110 Stoneridge Mall Road, Pleasanton, California 94588 or by emailing ir@workday.com.
+
+We plan to post on our website at the address described above any amendments from or waivers to any provision of our Code of Conduct that applies to our principal executive officer, our principal financial officer, our principal accounting officer, and all other executive officers.
+
+We have adopted an Insider Trading Policy governing the purchase, sale, and other transactions of Workday securities by our directors, officers, and employees, as well as Workday itself. Workday believes that its Insider Trading Policy is reasonably designed to promote compliance with insider trading laws, rules and regulations, and any applicable listing standards. A copy of the Workday Insider Trading Policy is filed as Exhibit 19.1 to this report.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information required by this Item is incorporated herein by reference to information contained in the Proxy Statement, including under the captions “Directors and Corporate Governance," “Executive Compensation,” and “Summary Compensation Table.”
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+The information required by this Item is incorporated herein by reference to information contained in the Proxy Statement, including under the captions “Equity Compensation Plan Information” and “Security Ownership of Certain Beneficial Owners and Management.”
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+The information required by this Item is incorporated herein by reference to information contained in the Proxy Statement, including under the captions “Directors and Corporate Governance,” “Related Party Transactions,” and “Employment Arrangements and Indemnification Agreements.”
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information required by this Item is incorporated herein by reference to information contained in the Proxy Statement, including under the caption “Proposal No. 2: Ratification of Appointment of Independent Registered Public Accounting Firm.”
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+1. Consolidated Financial Statements
+
+See Index to Consolidated Financial Statements at Item 8 herein.
+
+2. Financial Statement Schedules
+
+All schedules have been omitted because they are not required, not applicable, or not present in amounts sufficient to require submission of the schedule.
+
+3. Exhibits
+
+ITEM 16. FORM 10-K SUMMARY
+
+Not applicable.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Pleasanton, State of California, on this 11th day of March, 2025.
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Zane Rowe or Richard H. Sauer, or any of them, his or her attorneys-in-fact, for such person in any and all capacities, to sign any amendments to this report and to file the same, with exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that either of said attorneys-in-fact, or substitute or substitutes, may do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.

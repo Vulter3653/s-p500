@@ -1,0 +1,865 @@
+Item 8. Financial Statements and Supplementary Data
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Stockholders and the Board of Directors
+
+DoorDash, Inc.:
+
+Opinions on the Consolidated Financial Statements and Internal Control Over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of DoorDash, Inc. and subsidiaries (the Company) as of December 31, 2024 and 2025, the related consolidated statements of operations, comprehensive income (loss), redeemable non-controlling interests and stockholders’ equity, and cash flows for each of the years in the three-year period ended December 31, 2025, and the related notes (collectively, the consolidated financial statements). We also have audited the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2024 and 2025, and the results of its operations and its cash flows for each of the years in the three-year period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025 based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+Basis for Opinions
+
+The Company’s management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management's Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s consolidated financial statements and an opinion on the Company’s internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely
+
+detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing a separate opinion on the critical audit matters or on the accounts or disclosures to which it relates.
+
+Evaluation of Insurance Reserves
+
+As discussed in Note 2 to the consolidated financial statements, the Company utilizes third-party insurance which include retained insurance deductibles to insure costs including auto liability related to both bodily injury and physical damage, and uninsured and underinsured motorists up to a certain dollar retention limit. The retained insurance deductibles reserves reflect the estimated cost for claims incurred but not yet paid and claims that have been incurred but not yet reported and any loss adjustment expense. The estimate of the Company’s retained insurance deductibles reserves as of December 31, 2025 was $1.1 billion.
+
+We identified the evaluation of the Company's retained insurance deductibles reserves as a critical audit matter. The evaluation of the key assumptions used to estimate the liability, specifically the loss development factors and expected loss rates involved significant measurement uncertainty requiring complex auditor judgment. Specialized skill and knowledge were necessary to evaluate the methods and key assumptions used to determine the liability.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls over the Company’s retained insurance deductibles reserves process. This included controls over the development of the key assumptions related to loss development factors and expected loss rates. We involved actuarial professionals with specialized skills and knowledge who assisted in developing an independent range of the retained insurance deductibles reserves by selecting loss development factors and expected loss rates, and comparing it to the amount recorded by the Company.
+
+Acquisition-date fair value of acquired developed technology
+
+As discussed in Note 4 to the consolidated financial statements, on October 2, 2025, the Company acquired Deliveroo plc (Deliveroo) in a business combination for $3,724 million. The transaction was accounted for under the acquisition method of accounting, which requires the allocation of the fair value of the purchase consideration to the tangible and intangible assets acquired and liabilities assumed at their estimated fair values as of the acquisition date. As a result of the acquisition, the Company recognized a developed technology intangible asset associated with Deliveroo’s proprietary software and applications that support the platform’s ordering, delivery, and logistics capabilities using the relief-from-royalty method. The acquisition-date fair value of the developed technology intangible asset was $216 million.
+
+We identified the evaluation of the acquisition-date fair value measurement of the developed technology intangible asset as a critical audit matter. Subjective auditor judgment was required to evaluate the obsolescence factor related to platform back-end technology used in the fair value estimate. The estimated acquisition-date fair value of the developed technology intangible asset was sensitive to changes in this assumption.
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company’s acquisition-date valuation process, including controls related to the development of the obsolescence factor for platform back-end technology. We evaluated the relevance and reliability of the obsolescence factor applied to the back end platform by making inquiries of management and assessing the underlying information, such as market participant and Company information supporting
+
+the post-acquisition technology integration timeline, to understand how the assumption was developed. We involved valuation professionals with specialized skills and knowledge, who assisted in evaluating:
+
+• the obsolescence factor by comparing the implied economic life of the developed technology intangible asset to market data on the economic lives of developed technology intangible assets for comparable companies
+
+• the application of the obsolescence factor within the relief-from-royalty method used to estimate fair value.
+
+/s/ KPMG LLP
+
+We have served as the Company’s auditor since 2018.
+
+San Francisco, California
+
+February 18, 2026
+
+DOORDASH, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(in millions, except share amounts which are reflected in thousands, and per share data)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+DOORDASH, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(in millions, except share amounts which are reflected in thousands, and per share data)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+DOORDASH, INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+(in millions)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+DOORDASH, INC.
+
+CONSOLIDATED STATEMENTS OF REDEEMABLE NON-CONTROLLING INTERESTS AND STOCKHOLDERS' EQUITY
+
+(in millions, except share amounts which are reflected in thousands)
+
+DOORDASH, INC.
+
+CONSOLIDATED STATEMENTS OF REDEEMABLE NON-CONTROLLING INTERESTS AND STOCKHOLDERS' EQUITY
+
+(in millions, except share amounts which are reflected in thousands)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+DOORDASH, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+DOORDASH, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Organization and Description of Business
+
+Description of Business
+
+DoorDash, Inc. (the “Company”) is incorporated in Delaware with headquarters in San Francisco, California. The Company's mission is to grow and empower local economies. The Company aims to do this by providing services that reduce friction in local commerce and help merchants better connect with consumers in their communities.
+
+The Company's primary offerings include the DoorDash Marketplace, the Wolt Marketplace, and the Deliveroo Marketplace (together, the "Marketplaces"), and its Commerce Platform. The Company's Marketplaces operate in over 40 countries and provide an integrated suite of services that help merchants establish an online presence, connect with consumers in their communities, and solve mission-critical challenges, such as customer acquisition, demand generation, order fulfillment, merchandising, payment processing, and customer support. The Company also offers advertising as a value-added service through its Marketplaces to help merchants and consumer packaged goods companies increase consumer engagement and drive incremental revenue.
+
+The Company's Marketplaces seek to attract and retain consumers based primarily on the selection, convenience, quality, affordability, and service provided. The Company's Marketplaces also include consumer membership programs, DashPass, Wolt+, and Deliveroo Plus, which aim to lower transactional friction by reducing the delivery and service fees charged, while providing additional membership benefits.
+
+In addition to its Marketplaces, the Company offers its Commerce Platform, which is a suite of services that help empower merchants to build, operate, and grow their businesses on their own channels. Within its Commerce Platform, the Company offers white-label delivery fulfillment services ("Drive") as well as services that help merchants establish online ordering, build branded mobile apps, manage reservations and in-store dining, manage consumer relationships, enable tableside order and pay, and improve customer support.
+
+2. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries and entities consolidated under the variable interest entity model, and have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”). All intercompany balances and transactions have been eliminated in consolidation.
+
+Segments
+
+Operating segments are defined as components of an entity for which separate financial information is available and that is regularly reviewed by the Chief Operating Decision Maker (“CODM”) in deciding how to allocate resources to an individual segment and in assessing performance. The Company’s Chief Executive Officer is the Company’s CODM. The CODM reviews financial information presented on a consolidated basis for purposes of making operating decisions, allocating resources, and evaluating financial performance. As such, the Company has determined that it operates in one reportable segment. See Note 3 – "Revenue" of these notes to the Company's consolidated financial statements for revenue by geography and Note 17 – "Segment Reporting" for significant expenses regularly provided to the Company's CODM. Long-lived assets, consisting of property and equipment, net and operating lease right-of-use assets located outside the United States, were $ 200 million and $ 375 million as of December 31, 2024 and 2025, respectively, of which $ 118 million and $ 173 million in the respective periods were located in Finland.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in accordance with GAAP requires management to make certain estimates, judgments, and assumptions that affect the reported amounts of assets and liabilities and the related disclosures at the date of the financial statements, as well as the reported amounts of revenue and expenses during the periods presented. Estimates include, but are not limited to, revenue recognition, allowances for credit losses, gift card breakage, estimated useful lives of property and equipment, capitalized software and website development costs,
+
+intangible assets, valuation of stock-based compensation, valuation of investments and other financial instruments including valuation of investments without readily determinable fair values, valuation of acquired intangible assets and goodwill, the incremental borrowing rate applied in lease accounting, impairment of long-lived assets, insurance reserves, loss contingencies, and income and indirect taxes. Actual results could differ from these estimates.
+
+Business Combinations
+
+The Company accounts for business combinations using the acquisition method of accounting, which requires, among other things, allocation of the fair value of purchase consideration to the tangible and intangible assets acquired and liabilities assumed at their estimated fair values on the acquisition date. The excess of the fair value of purchase consideration over the values of these identifiable assets and liabilities is recorded as goodwill. When determining the fair value of assets acquired and liabilities assumed, management makes significant estimates and assumptions, especially with respect to the valuation of intangible assets. Management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, not to exceed one year from the date of acquisition, the Company may record adjustments to the assets acquired and liabilities assumed, with a corresponding offset to goodwill if new information is obtained related to facts and circumstances that existed as of the acquisition date. Upon the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are reflected in the consolidated statements of operations. Acquisition costs, such as legal and consulting fees, are expensed as incurred.
+
+Cash, Cash Equivalents, and Restricted Cash and Cash Equivalents
+
+Cash includes demand deposits with banks or financial institutions as well as cash in transit from payment processors. Cash equivalents include short-term and highly liquid investments with original maturities of three months or less and their carrying values approximate fair value due to their short-term maturities.
+
+Restricted cash and cash equivalents consist of bank accounts and cash equivalents which are legally restricted for use, including certain amounts collected on the behalf of, but not yet remitted to, merchants, which are restricted in compliance with certain regulatory requirements, and collateral provided for letters of credit established primarily for real estate leases and insurance policies. Restricted cash and cash equivalents are classified as either current or non-current assets based on the estimated term of the remaining restriction.
+
+Investments
+
+Investments include marketable securities, which primarily consist of available-for-sale debt securities, including certificates of deposit, commercial paper, U.S. government agency securities, U.S. Treasury securities and corporate bonds, as well as mutual funds, which are reported at fair value. The Company invests in a diversified portfolio of marketable securities and limits the concentration of its investment in any particular security. Investments also include time deposits, which are accounted for at amortized cost. Investments with maturities greater than three months, but less than one year, are included in current assets and investments with maturities greater than one year are included in non-current assets on the consolidated balance sheets.
+
+If the estimated fair value of an available-for-sale debt security is below its amortized cost basis, then the Company evaluates the security for impairment. The Company considers its intent to sell the security or whether it is more likely than not that it will be required to sell the security before recovery of its amortized basis. If either of these criteria are met, the debt security’s amortized cost basis is written down to fair value through other income (expense), net in the consolidated statements of operations. If neither of these criteria are met, the Company evaluates whether unrealized losses have resulted from a credit loss or other factors. The factors considered in determining whether a credit loss exists can include the extent to which fair value is less than the amortized cost basis, changes to the rating of the security by a rating agency, any adverse conditions specifically related to the security, as well as other factors. An impairment relating to credit losses is recorded through an allowance for credit losses reported in other expense, net in the consolidated statements of operations. The allowance is limited by the amount that the fair value of the debt security is below its amortized cost basis. When a credit loss exists, the Company compares the present value of cash flows expected to be collected from the debt security with the amortized cost basis of the security to determine what allowance amount, if any, should be recorded. As of December 31, 2024 and 2025, no allowance of credit losses related to marketable securities was recorded. Unrealized losses not resulting from credit losses are recorded through accumulated other comprehensive income (loss).
+
+Funds Held at Payment Processors
+
+The Company relies on a limited number of third parties to provide payment processing services (“payment processors”) including collecting amounts due from end-users and processing Dasher and merchant payouts. Funds held at payment processors represent cash due from the Company’s payment processors for transactions with consumers, as well as funds transferred to payment processors for Dasher and merchant payouts.
+
+Accounts Receivable, Net and Allowance for Credit Losses
+
+Accounts receivable, net primarily represents receivables from merchants that were generated through the Company’s Drive and Marketplaces related offerings. The Company maintains an allowance for credit losses, which is based on the Company’s assessment of the collectability of accounts. The Company regularly reviews the adequacy of the allowance for credit losses on a collective basis by considering the age of each outstanding invoice, each customer’s expected ability to pay and collection history, current market conditions, and reasonable and supportable forecasts of future economic conditions to determine whether the allowance is appropriate. Accounts receivable deemed uncollectible are charged against the allowance for credit losses when identified.
+
+Property and Equipment, Net
+
+Property and equipment are recorded at cost and depreciated using the straight-line method over the estimated useful lives of the related assets. The useful lives are as follows:
+
+Maintenance and repair costs are charged to expense as incurred. Upon disposal of a fixed asset, the Company records a gain or loss based on the difference between the proceeds received and the net book value of the disposed asset.
+
+Intangible Assets, Net
+
+Intangible assets are recorded at fair value as of the date of acquisition and amortized on a straight-line basis over their estimated useful lives. The Company reviews identifiable amortizable intangible assets for impairment under the long-lived asset model described under “ Impairment of Long-Lived A ssets” below.
+
+Goodwill
+
+Goodwill represents the excess of the purchase price over the fair value of the net tangible and intangible assets acquired in a business combination. Goodwill is not amortized, but is tested for impairment at least annually or more frequently if events or changes in circumstances indicate that the asset may be impaired. The Company’s impairment tests are based on a single operating segment and reporting unit structure. If the carrying value of the reporting unit exceeds its fair value, an impairment charge is recognized for the excess of the carrying value of the reporting unit over its fair value.
+
+The Company conducted its annual goodwill impairment test during the fourth quarter of 2025 and determined that the fair value of the reporting unit significantly exceeded its carrying value. No goodwill impairment charge was recorded in any of the periods presented in the accompanying consolidated financial statements.
+
+Non-Marketable Investments
+
+Non-marketable investments consist of equity and debt investments in privately-held companies, which are included in other assets on the consolidated balance sheets. Non-marketable equity securities that the Company does not have a controlling financial interest in and does not exercise significant influence over the investee are recorded at cost and adjusted for observable transactions for same or similar investments of the same issuer or impairment (referred to as the measurement alternative).
+
+The carrying value is not adjusted for the Company’s non-marketable equity securities if there are no observable price changes in a same or similar investment of the same issuer or if there are no identified events or changes in circumstances that may indicate impairment.
+
+In December 2025, the Company purchased € 31 million (approximately $ 37 million) principal amount of convertible notes issued by a private company in which the Company has a pre-existing equity investment. The convertible notes investment is accounted for at fair value with changes in fair value recorded in earnings through other income (expense), net in the consolidated statements of operations, under the fair value option available for financial instruments. The Company elected the fair value option to account for the convertible notes because the Company believes it accurately reflects the value of the convertible notes and embedded features in the financial statements.
+
+Derivative Financial Instruments
+
+The Company accounts for derivative financial instruments in accordance with Accounting Standards Codification (“ASC”) 815, Derivatives and Hedging , which establishes accounting and reporting for derivative instruments, including economic hedges. Accordingly, any gains or losses related to the derivative instruments used as economic hedges are recognized in earnings. Cash flows are recorded in the same section as the cash flows of the related hedged item. Refer to Note 16 - "Derivative" for further information.
+
+Capitalized Software and Website Development Costs
+
+The Company incurs costs relating to the development of the Company’s technology platform, which includes Dasher and merchant tools, mobile apps, and website and content development. Software development costs related to software acquired, developed, or modified solely to meet the Company’s internal requirements, with no substantive plans to market such software at the time of development, are capitalized during the application development stage of the project. Costs incurred during the preliminary planning and evaluation stage of the project and during the post implementation operational stage are expensed as incurred. Costs to develop the Company’s technology platform are capitalized when preliminary development efforts are successfully completed, management has authorized and committed project funding, and it is probable that the project will be completed and the software will be used as intended. Costs incurred for enhancements that are expected to result in additional functionality are capitalized and expensed over the estimated useful life of the upgrades on a per project basis.
+
+Impairment of Long-Lived Assets
+
+The Company evaluates its long-lived assets or asset groups for indicators of possible impairment by comparison of the carrying amount to future net undiscounted cash flows expected to be generated by such asset or asset group when events or changes in circumstances indicate the carrying amount of an asset or asset group may not be recoverable. Should an impairment exist, the impairment loss would be measured based on the excess carrying value of the asset or asset group over the asset’s or asset group’s fair value generally determined by estimates of future discounted cash flows. Assets to be disposed of are reported at the lower of their carrying amount or fair value less costs to sell .
+
+Insurance Reserves
+
+The Company utilizes third-party insurance that includes retained insurance deductibles and retained quota shares to insure costs including auto liability related to both bodily injury and physical damage, and uninsured and underinsured motorists up to a certain dollar retention limit. The recorded insurance reserves reflect the estimated cost for claims incurred but not yet paid and claims that have been incurred but not yet reported and any loss adjustment expense. The estimate of the Company’s ultimate deductible obligation utilizes actuarial techniques applied to historical claim and loss experience. The Company utilizes assumptions based on actuarial judgments with consideration toward claim and loss development factors, which includes the development time frame and settlement patterns, and expected loss rates. Reserves are periodically reviewed and adjusted as necessary as experience develops or new information becomes known. However, ultimate results may differ from the Company’s estimates, which could result in losses over the Company’s reserved amounts.
+
+During the years ended December 31, 2023, 2024 and 2025, the Company recorded additions to the insurance reserves of $ 518 million, $ 526 million and $ 303 million, respectively. The Company’s retained insurance deductibles reserves as of December 31, 2024 and 2025 were $ 1.0 billion and $ 1.1 billion, respectively.
+
+Loss Contingencies
+
+The Company is involved in various lawsuits, claims, investigations, and proceedings that arise in connection with its business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. The Company records a liability in accrued expenses and other current liabilities on the consolidated balance sheets when the Company believes that it is both probable that a loss has been incurred and the amount or range can be reasonably estimated. The Company discloses material contingencies when it believes that a loss is not probable but reasonably possible. Significant judgment is required to determine both probability and the estimated amount. The Company reviews these provisions on a quarterly basis and adjusts these provisions accordingly to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and updated information.
+
+Sales and Indirect Taxes
+
+The Company records sales and indirect tax liabilities when they become probable and the amount can be reasonably estimated. Sales and indirect tax liabilities are included in accrued expenses and other current liabilities on the consolidated balance sheets.
+
+Accumulated Other Comprehensive Income (Loss)
+
+Accumulated other comprehensive income (loss) primarily consists of foreign currency translation adjustments and unrealized gains and losses on available-for-sale marketable securities. The financial statements of the Company’s non-U.S. subsidiaries are translated from their functional currency, which is typically the local currency, into U.S. dollars. Assets and liabilities are translated at period end rates of exchange, and revenue and expenses are translated using average monthly exchange rates. The resulting gain or loss is included in accumulated other comprehensive income (loss) on the consolidated balance sheets.
+
+Available-for-sale securities are reported at fair value, with unrealized gains and losses included as a separate component of stockholders’ equity within accumulated other comprehensive income (loss).
+
+Stock-Based Compensation
+
+The fair value of restricted stock and RSUs is estimated based on the fair value of the Company’s common stock on the date of grant. With the exception of the CEO Performance Award (as discussed further in Note 11 - "Common Stock"), the Company only granted RSUs that vest upon the satisfaction of a service-based vesting condition and the compensation expense for these RSUs is recognized on a straight-line basis over the requisite service period.
+
+For the CEO Performance Award, which includes a market-based condition, the fair value of the award was determined using a Monte Carlo simulation model. The associated stock-based compensation is recorded over the derived service period, using the accelerated attribution method. If the stock price goals are met sooner than the derived service period, the Company will adjust the stock-based compensation expense to reflect the cumulative expense associated with the vested award. Provided that Tony Xu continues to be the Chief Executive Officer of the Company, stock-based compensation expense is recognized over the requisite service period, regardless of whether the stock price goals are achieved.
+
+The Company records forfeitures when they occur for all share-based payment awards.
+
+Income Taxes
+
+The Company accounts for income taxes using the asset and liability method. Under this method, deferred income tax assets and liabilities are recorded based on the estimated future tax effects of differences between the financial statement and income tax basis of existing assets and liabilities. These differences are measured using the enacted statutory tax rates that are expected to apply for the years in which differences are expected to reverse. The Company recognizes the effect on deferred income taxes of a change in tax rates in the period that includes the enactment date.
+
+The Company records a valuation allowance to reduce its deferred tax assets to the net amount that it believes is more-likely-than-not to be realized. Management considers all available evidence, both positive and negative, including the Company's history of losses measured at pre-tax income (loss) adjusted for permanent book-tax differences on a jurisdictional basis, volatility in actual earnings, excess tax benefits related to stock-based compensation in recent prior years, and impacts of the timing of reversal of existing temporary differences. Management also relies on its assessment of the Company’s projected future results of business operations, including uncertainty in future operating results relative
+
+to historical results, volatility in the market price of the Company's common stock and its performance over time, variable macroeconomic conditions impacting its ability to forecast future taxable income, and changes in business that may affect the existence and magnitude of future taxable income. Management's judgments regarding levels of future profitability are consistent with plans and estimates used to manage the business; however, actual operating results in future years could differ from the current assumptions, judgments and estimates. Should there be a change in the ability to recover deferred tax assets, the Company's income tax provision would increase or decrease, as applicable, in the period in which the assessment is changed.
+
+The Company operates in various tax jurisdictions and is subject to audit by tax authorities. The Company recognizes the tax benefit of an uncertain tax position only if it is more-likely-than-not that the position is sustainable upon examination by the taxing authority, based on the technical merits. The tax benefit recognized is measured as the largest amount of benefit that is greater than 50% likely to be realized upon settlement with the taxing authority. Management considers many factors when evaluating the Company's tax positions and estimating its tax benefits, which may require periodic adjustments. Due to uncertainties in any tax audit outcome, management estimates of the ultimate settlement of the Company's unrecognized tax positions may change and the actual tax benefit may differ significantly from the estimates, as may be adjusted. The Company recognizes interest accrued and penalties related to unrecognized tax benefits in the provision for income taxes.
+
+Fair Value
+
+The Company measures certain assets and liabilities at fair value on a recurring basis based on an expected exit price, which represents the amount that would be received on the sale of an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value may be based on assumptions that market participants would use in pricing an asset or liability.
+
+The authoritative guidance on fair value measurements establishes a consistent framework for measuring fair value on either a recurring or nonrecurring basis, whereby inputs used in valuation techniques, are assigned a hierarchical level. The following are the hierarchical levels of inputs to measure fair value:
+
+The carrying amounts of certain of the Company’s financial instruments, which include cash equivalents, accounts receivable, accounts payable, and accrued expenses and other current liabilities approximate their fair values due to their short maturities.
+
+Concentration of Credit Risk
+
+The Company’s cash, cash equivalents, investments, funds held at payment processors, and accounts receivable are potentially subject to concentration of credit risk. Although the Company deposits its cash with multiple financial institutions, the deposits, at times, exceed federally insured limits. Management believes that the institutions are financially stable and, accordingly, minimal credit risk exists. The Company limits purchases of debt securities to investment-grade securities. The Company has not experienced any significant credit losses historically.
+
+Payment processors are financial institutions or credit card companies that the Company believes are of high credit quality. The Company retains the risk of collecting such amounts from the payment processors, which are included in funds held at payment processors for the unsettled portion at each period end. The portion of the payments to be remitted to Dashers and merchants is included in accrued expenses and other current liabilities. Although the Company pre-authorizes forms of payment to mitigate its exposure, the Company absorbs all credit card losses.
+
+Accounts receivable, net primarily represents receivables from merchants that were generated through the Company’s Drive and Marketplaces related offerings. As of December 31, 2024, one entity individually accounted for 13 % of accounts receivable, net. As of December 31, 2025, one entity individually accounted for 12 % of accounts receivable, net. No customer accounted for 10% or more of revenue for the years ended December 31, 2023, 2024, and 2025.
+
+Revenue Recognition
+
+The Company recognizes revenue in accordance with the Financial Accounting Standards Board (“FASB”) ASC 606, Revenue from Contracts with its Customers. The Company generates a substantial majority of its revenue from orders completed through its Marketplaces and the related commissions charged to partner merchants and fees charged to consumers. A partner merchant represents a merchant that has entered into a contractual agreement with the Company. Revenue from the Marketplaces is recognized at the point in time when the consumer obtains control of the merchant’s products. The Company also generates revenue from membership fees paid by consumers for DashPass, Wolt+, and Deliveroo Plus, which is recognized as part of the Marketplaces . Revenue generated from the Company’s DashPass, Wolt+, and Deliveroo Plus memberships is recognized on a ratable basis over the contractual period, which is generally one month to one year depending on the type of membership purchased by the consumer. In addition, the Company also generates revenue from its Drive offering by collecting per-order fees from merchants that use its local commerce platform to arrange for delivery services that fulfill demand generated through their own channels. Revenue from Drive is recognized at the point in time when the consumer obtains control of the merchant’s products.
+
+When determining the appropriate accounting for the fees collected in exchange for the use of the Company’s local commerce platform, the Company considered its contractual arrangements with the parties involved as well as its customary business practices. Under the Company’s agreements with partner merchants, the Company agrees to a commission to be earned as a percentage of the total dollar value of goods ordered. When a consumer signs up to use the Company’s local commerce platform, the consumer agrees to be charged certain fees, at the time an order is placed, in exchange for use of the platform. The Company has concluded that a contract exists between the Company and a partner merchant when the partner merchant accepts each consumer’s order, and a contract exists between the Company and a consumer when the consumer places the order and requests delivery services. The duration of a contract is typically equal to the time between when the order is placed and a Dasher picks up the food from the merchant. Contracts including variable consideration with partner merchants were not material for the periods presented.
+
+The Company’s local commerce platform facilitates orders between consumers and partner merchants. Separately, the Company’s platform arranges for consumers to obtain delivery service from Dashers. The Company has determined that the order facilitation service and delivery facilitation service are distinct performance obligations and has therefore considered whether it is a principal or agent separately for each of these items. The order facilitation service and the delivery facilitation service are distinct given that the consumer can benefit from each item separately. Further, the order facilitation service and delivery facilitation service are separately identifiable as the nature of the promises are to transfer the order facilitation service and delivery facilitation service individually, rather than as a combined item.
+
+Principal vs. Agent Considerations
+
+Judgment is required in determining whether the Company is the principal or the agent in transactions with partner merchants, consumers, and Dashers. As it relates to the accounting for order facilitation services and delivery facilitation services, the Company evaluated whether to present revenue on a gross versus net basis based on whether it controls each specified good or service before it is provided to the consumer in Marketplace transactions.
+
+With respect to order facilitation services, the Company has determined it is an agent for partner merchants in facilitating the sale of products to the consumer through its Marketplaces. The consumer accesses the Company’s local commerce platform to identify merchants and places an order for merchants’ products. These orders are picked up from partner merchants and delivered to consumers by Dashers. The Company does not control the products prior to them being transferred to the consumer as it neither has the ability to redirect the products to another consumer nor does it obtain any economic benefit from the products.
+
+With respect to the vast majority of its delivery facilitation services, the Company has determined it is acting as an agent for the consumer in facilitating the delivery of products by connecting consumers with Dashers. As the Company’s role with the delivery facilitation service is only to arrange for a delivery opportunity to be offered to prospective Dashers, it does not control how the delivery service is ultimately provided to the consumer.
+
+In the vast majority of its transactions with end-users, the Company is an agent in facilitating the sale of products and delivery services, thus the Company reports revenue on a net basis, reflecting amounts collected from consumers, less amounts remitted to merchants and Dashers.
+
+Dasher payout represents the amounts paid to Dashers for deliveries, including incentives and tips, except for certain referral bonuses. From time to time, Dashers may request an earlier payment settlement in exchange for a reduction in Dasher payout. The amounts payable to merchants and Dashers are included in accrued expenses and other current liabilities on the consolidated balance sheets as payments are typically settled within a week.
+
+The Company recognizes revenue from both partner merchants and consumers for each successfully completed transaction. The Company satisfies its performance obligations to a partner merchant when there is a successful sale of the merchant’s products and meets its performance obligation to a consumer once the Dasher has picked up the products from the merchant for delivery to the consumer.
+
+The Company also provides value-added services to merchants. These services are generally considered separate performance obligations and revenue is recognized over the period in which services are provided.
+
+Gift Cards
+
+The Company sells gift cards to consumers that can be redeemed through the Marketplaces. The majority of gift cards sold have no expiration date and administrative fees are not charged on unused gift cards. When gift cards are redeemed, revenue is recognized on a net basis as the difference between the amounts collected from consumers less amounts remitted to merchants and Dashers. The Company also estimates the portion of outstanding gift cards that will never be redeemed (“breakage”) and for which there is no legal obligation to remit the value of the unredeemed gift cards to the relevant jurisdiction as unclaimed or abandoned property. The Company recognizes the breakage amounts as revenue, proportionate to the pattern of revenue recognition for the gift card redemptions. The Company recorded $ 41 million, $ 46 million and $ 58 million of gift card breakage revenue during the years ended December 31, 2023, 2024, and 2025, respectively. Estimating future breakage rates requires judgment based on current and historical patterns of redemption, and the actual breakage rates may vary from the estimate. For jurisdictions where gift cards have expiration dates, the Company recognizes breakage when they expire.
+
+Refunds and Credits
+
+From time to time the Company issues credits or refunds to merchants and consumers to ameliorate issues that may arise with orders. The Company accounts for such refunds as variable consideration and therefore records the amount of each refund or credit issued as a reduction of revenue.
+
+Incentive Programs
+
+The Company offers incentives to attract consumers and Dashers to use its local commerce platform. Consumers typically receive credits or discounted delivery fees while Dashers typically receive cash incentives. Each of the incentives are described below.
+
+Consumer Promotions
+
+The Company uses promotions in tandem with sales and marketing spend to attract new consumers to its platform. Promotions offered to consumers are primarily recorded as a reduction of revenue and include the following:
+
+New consumer incentives: The Company records discounts and incentives provided to new consumers as a promotion and reduces revenue on the date that the corresponding revenue transaction is recorded.
+
+Consumer referrals: The Company offers referral credits to its existing consumers for referrals of new consumers. These referral credits are paid in exchange for a distinct marketing service and therefore the portion of these credits that is equal to or less than the fair value of acquiring a new consumer are accounted for as a consumer acquisition cost. The majority of new consumer acquisition costs is expensed as incurred and reflected as sales and marketing expenses in the Company’s consolidated statements of operations. The portion of these credits in excess of the fair value of acquiring a new consumer is accounted for as a reduction of revenue.
+
+Existing consumer incentives: On occasion, the Company offers promotional discounts to existing consumers. The Company records incentives provided to existing consumers as a promotion and reduces revenue on the date that the corresponding revenue transaction is recorded.
+
+Dasher Incentives and Referrals
+
+The Company offers various incentives to Dashers, which are primarily recorded within Dasher payout and reduce revenue. These are offered in various forms and include:
+
+Peak pay : The Company makes additional payments to Dashers to incentivize them to accept delivery opportunities during peak demand time.
+
+Dasher referrals : The Company offers referral bonuses to referring Dashers, as well as to referred Dashers, once the new Dasher has met certain qualifying conditions. The Company expenses the fair value of payments made to the referring Dashers as incurred in sales and marketing expenses in the consolidated statements of operations, since the marketing of the Company’s platform to acquire new Dashers represents a distinct benefit to the Company. The portion of these referral bonuses in excess of the fair value of payments made to the referring Dashers is accounted for as a reduction of revenue. Payments made to the referred Dashers are recorded within Dasher payout and reduce revenue at the time the corresponding revenue transaction is recorded.
+
+Advertising Costs
+
+Advertising costs are expensed when incurred and are included in sales and marketing expenses in the consolidated statements of operations. Advertising expenses were $ 1.3 billion, $ 1.3 billion, and $ 1.6 billion for the years ended December 31, 2023, 2024, and 2025, respectively.
+
+Net Income (Loss) Per Share Attributable to Common Stockholders
+
+The Company computes net income (loss) per common share following the two-class method required for multiple classes of common stock and participating securities. The two-class method requires income (loss) available to DoorDash, Inc. common stockholders for the period to be allocated between multiple classes of common stock and participating securities based upon their respective rights to receive dividends as if all income (loss) for the period had been distributed. The rights, including the liquidation and dividend rights, of the Class A common stock, Class B common stock, and Class C common stock are substantially identical, other than voting rights. Accordingly, the Class A common stock and Class B common stock shared proportionately in the Company’s net income and losses. No shares of Class C common stock were issued and outstanding as of December 31, 2024 and 2025.
+
+Basic net income (loss) per share is computed by dividing the net income (loss) attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period, less shares subject to repurchase. The diluted net income (loss) per share is computed by giving effect to all potentially dilutive securities outstanding for the period. For periods in which the Company reports net losses, diluted net loss per common share is the same as basic net loss per common share, because all potentially dilutive securities are anti-dilutive.
+
+Leases
+
+The Company determines if an arrangement is or contains a lease at inception. A contract is or contains a lease if it conveys the right to control the use of an identified asset for a period of time in exchange for consideration. ROU assets represents the Company's right to use the underlying assets for the lease term and lease liabilities represents the Company's obligation to make lease payments arising from the lease. The Company has elected the practical expedient of not recognizing ROU assets and lease liabilities for short-term leases with terms of twelve months or less. Expense related to short-term leases is recognized either straight-line over the lease term or as incurred depending on whether the lease payments are fixed or variable. ROU assets are recognized as the lease liability, adjusted for lease incentives received. Lease liabilities are recognized at the present value of the future lease payments at the lease commencement date. The Company’s classes of assets that are leased include real estate leases and equipment leases. Operating leases consist of real estate leases and are included in operating lease ROU assets and operating lease liabilities on the Company’s consolidated balance sheets. Finance leases consist of equipment leases and are included in property and equipment, net on the Company’s consolidated balance sheets. Most of the Company’s leases are operating leases, and activities related to finance leases were not material for the periods presented.
+
+The Company’s real estate leases are for an initial period between one and 15 years, and typically include renewal options, the election of which is at the option of the Company. The Company includes renewal options in the measurement of lease liabilities only to the extent the option is reasonably certain to be exercised. For leases that provide the option to terminate, the lease term includes periods covered by such options to the extent the Company is reasonably certain not to exercise the option.
+
+The Company subleases certain portions of buildings subject to operating leases. The terms and conditions of the subleases are commensurate with the terms and conditions within the original operating leases. The term of the subleases generally range from two to eight years , payments are fixed within the contracts, and there are no residual value guarantees or other restrictions or covenants in the leases.
+
+When the discount rate implicit in the lease cannot be readily determined, the Company uses the applicable incremental borrowing rate at lease commencement in order to discount lease payments to present value for purposes of performing lease classification tests and measuring the lease liability. The incremental borrowing rate represents the rate of interest the Company would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment. Because the Company does not typically borrow on a collateralized basis, it uses a derived unsecured synthetic credit rating adjusted for collateralization, current available yield curves, and the lease term as inputs to derive an appropriate incremental borrowing rate.
+
+Variable Interest Entities
+
+The Company evaluates its ownership, contractual and other interests in entities to determine if it has a variable interest in an entity and if it is the primary beneficiary. These evaluations are complex and involve judgment and the use of estimates and assumptions based on available historical and prospective information, among other factors. If the Company determines that entities for which the Company holds a contractual or ownership interest in are variable interest entities ("VIE") and that the Company is the primary beneficiary, the Company consolidates such entities in the consolidated financial statements. The primary beneficiary of a VIE is the party that meets both of the following criteria: (1) has the power to make decisions that most significantly affect the economic performance of the VIE and (2) has the obligation to absorb losses or the right to receive benefits that in either case could potentially be significant to the VIE. Periodically, the Company determines whether any changes in the interest or relationship with the entity impacts the determination of whether the Company is still the primary beneficiary. If the Company is not deemed to be the primary beneficiary in a VIE, the Company accounts for the investment or other variable interests in a VIE in accordance with applicable GAAP. Refer to Note 15 - "Variable Interest Entities" of these notes to the Company's consolidated financial statements for further information.
+
+Restructuring
+
+Costs and liabilities associated with management-approved restructuring activities are recognized when they are incurred. One-time employee termination costs are recognized at the time of communication to employees, unless future service is required, in which case the costs are recognized over the future service period. Ongoing employee termination benefits are recognized as a liability when it is probable that a liability exists and the amount is reasonably estimable. Restructuring charges are recognized as an operating expense within the consolidated statements of operations and related liabilities are recorded within accrued expenses and other current liabilities on the consolidated balance sheets. The Company periodically evaluates and, if necessary, adjusts its estimates based on currently available information.
+
+Recent Accounting Pronouncements Adopted
+
+In December 2023, the FASB issued Accounting Standards Update 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” (“ASU 2023-09”). The amendment requires additional income tax disclosure. Specifically, it requires public entities, on an annual basis, to provide disclosure of defined categories in the income tax rate reconciliation, as well as disclosure of income taxes paid, disaggregated by jurisdiction. ASU 2023-09 is effective for annual periods beginning after December 15, 2024. The Company adopted ASU 2023-09 on a prospective basis for the year ended December 31, 2025. Refer to Note 12 – "Income Taxes” of these notes to the Company's consolidated financial statements for further information.
+
+Recent Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued Accounting Standards Update 2024-03, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses" ("ASU 2024-03"), which requires disclosure, on an annual and interim basis, of specified information about certain costs and expenses in the notes to financial statements. ASU 2024-03 will be effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the impact of the adoption of this guidance on its consolidated financial statements and disclosures.
+
+In September 2025, the FASB issued Accounting Standards Update 2025-06, "Intangibles - Goodwill and Other - Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software" (“ASU 2025-06”), which removes all references to prescriptive and sequential software development stages and establishes new criteria for the capitalization of internal-use software costs. ASU 2025-06 is effective for fiscal years beginning after December 15, 2027, and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the impact of the adoption of this guidance on its consolidated financial statements and disclosures.
+
+3. Revenue
+
+Disaggregated Revenue Information
+
+All revenue recognized during the periods presented was related to the Company's core business, which is primarily composed of the Company's Marketplaces and Commerce Platform.
+
+Revenue by geographic area is determined based on the address of the merchant, or in the case of the Company's membership products, the address of the consumer. Revenue by geographic area was as follows (in millions):
+
+(1) No individual country outside the United States represented 10% or more of total consolidated revenue for the periods presented.
+
+Contract Liabilities
+
+The timing of revenue recognition may differ from the timing of invoicing to or collections from customers. The Company’s contract liabilities balance, which is included in accrued expenses and other current liabilities on the consolidated balance sheets, is primarily composed of unredeemed gift cards, prepayments received from consumers and merchants, certain consumer credits as well as other transactions for which the revenue is recognized over time. A summary of activities related to contract liabilities for the year ended December 31, 2025 was as follows (in millions):
+
+(1) Gift cards and certain consumer credits can be redeemed through the Marketplaces. When they are redeemed, revenue is recognized on a net basis as the difference between the amounts collected from consumers less amounts remitted to merchants and Dashers for those transactions. Therefore, the amount recognized as revenue related to the reduction of gift cards and certain consumer credits is less than the amount presented in the table above. Net revenue associated with gift cards and certain consumer credits is not tracked by the Company as it is impracticable to do so.
+
+(2) Included in the beginning balance of contract liabilities was $ 228 million associated with unearned prepayments received by the Company, all of which was recognized as revenue during the year ended December 31, 2025. The ending balance of unearned prepayments is expected to be recognized as revenue in 12 months or less.
+
+Deferred Contract Costs
+
+Deferred contract costs represent direct and incremental costs incurred to acquire or fulfill the Company’s contracts, consisting of sales commissions and costs related to merchant onboarding, which the Company expects to recover. Deferred contract costs are amortized on a straight-line basis over the expected period of benefit, which the Company determined by considering historical attrition rates and other factors. Deferred contract costs are recorded in prepaid expenses and other current assets and other assets on the consolidated balance sheets. Amortization of deferred contract costs related to sales commissions is recognized in sales and marketing expense and amortization of deferred contract costs related to merchant onboarding is recognized in cost of revenue, exclusive of depreciation and amortization in the consolidated statements of operations. A summary of activities related to deferred contract costs was as follows (in millions):
+
+Allowance for Credit Losses
+
+The allowance for credit losses related to accounts receivable and changes were as follows (in millions):
+
+4. Acquisitions
+
+Deliveroo Acquisition
+
+On October 2, 2025, the Company completed the acquisition of substantially all of the outstanding equity interests of Deliveroo plc (“Deliveroo”), which was accounted for under the acquisition method of accounting. The acquisition will strengthen the Company’s position as a leading global platform in local commerce by enhancing its capabilities to better serve consumers, merchants, and Dashers. The Company’s acquisition-related costs for the year ended December 31, 2025 were $ 58 million. All costs were recorded as general and administrative expenses on the Company’s consolidated statements of operations during the period in which they were incurred. The acquisition date fair value of the consideration transferred for Deliveroo was $ 3,724 million, which consisted of the following (in millions):
+
+As of December 31, 2025, the Company had settled the consideration payable. In connection with the acquisition, substantially all of the outstanding and unvested equity awards of Deliveroo were replaced with DoorDash RSUs. The acquisition date fair value of the replacement equity awards was $ 80 million, of which $ 2 million is included in the purchase consideration.
+
+The total purchase consideration of the Deliveroo acquisition was allocated to the tangible and intangible assets acquired, and liabilities assumed, based upon their respective fair values as of the date of the acquisition. The Company recorded $ 1,950 million of goodwill which represents the excess of the purchase price over the net assets acquired. Goodwill is primarily attributed to the assembled workforce and anticipated synergies from the potential future growth of the Company’s and Deliveroo’s platforms and the expected strategic advantages from combining the Company’s and Deliveroo’s geographical footprint and operations. The goodwill recorded in connection with the acquisition of Deliveroo is not deductible for tax purposes. The fair value of assets acquired and liabilities assumed are based on management’s best estimates, judgments and assumptions, and are considered preliminary and subject to change within the measurement period, as additional information is received. The Company expects to finalize the allocation of the purchase price as soon as practicable, but no later than one year from the acquisition date when the measurement period ends.
+
+The following table summarizes the preliminary fair value of the assets acquired and liabilities assumed as of the acquisition date (in millions):
+
+Acquired contingent liabilities relate to outstanding legal provisions and are measured in accordance with ASC 450, Contingencies.
+
+The following table sets forth the components of intangible assets acquired (in millions) and their estimated useful life as of the date of acquisition (in years):
+
+The restaurant merchant, new verticals merchant, customer, and rider relationship intangible assets represent the estimated fair value of Deliveroo’s established relationships with restaurant partners, grocery and retail merchants, consumers utilizing the platform, and courier partners that provide delivery services. The developed technology intangible asset represents Deliveroo’s proprietary software and applications that support the platform’s ordering, delivery, and logistics capabilities. The trade name intangible asset represents the estimated fair value of the Deliveroo brand and its market recognition. Restaurant merchant relationships were valued using the multi-period excess earnings method of the income approach. Merchant relationships related to new verticals were valued using a with-and-without method, measuring the incremental cash flows generated by these relationships compared to a scenario in which they did not exist. User and rider relationships were valued using a replacement cost method. The developed technology and trade name were valued using the relief-from-royalty method of the income approach. The Company expects to amortize these intangible assets on a straight-line basis over their respective estimated useful lives.
+
+From the date of acquisition through December 31, 2025, the amount of revenue and net loss from Deliveroo included in the consolidated statements of operations were $ 347 million and $ 49 million, respectively.
+
+The following unaudited pro forma results present the combined revenue and net income (loss) as if the Deliveroo acquisition had been completed on January 1, 2024, the beginning of the comparable annual reporting period. The unaudited pro forma information is based on estimates and assumptions which the Company believes are reasonable and primarily reflects adjustments for the pro forma impact of additional amortization related to the fair value of acquired intangible assets, accounting policy alignments, and transaction costs. The unaudited pro forma results are presented for informational purposes only and are not necessarily indicative of what the actual results of operations of the combined company would have been if the acquisition had occurred at the beginning of the periods presented, nor are they indicative of future results of operations. The unaudited pro forma results are as follows (in millions):
+
+SevenRooms Acquisition
+
+On June 13, 2025, the Company completed the acquisition of 100 percent of the outstanding equity interests of SevenRooms Inc. (“SevenRooms”), which was accounted for under the acquisition method of accounting. The acquisition will enhance the Company's platform by equipping merchants with tools to manage reservations and tables, better connect with consumers through customer relationship management, and improve their marketing. The Company’s acquisition-related costs for the year ended December 31, 2025 were $ 13 million. All costs were recorded as general and administrative expenses on the Company’s consolidated statements of operations during the period in which they were incurred. The acquisition date fair value of the consideration transferred for SevenRooms was $ 1,152 million, which consisted of the following (in millions):
+
+As of December 31, 2025, the Company had settled $ 201 million in deferred cash consideration, with $ 49 million remaining to be settled in future periods. For certain SevenRooms employees, a portion of their total consideration was held back subject to revesting. A total of $ 38 million of these employees’ holdback was included as part of the deferred cash consideration and the remaining $ 56 million represents compensation for post-combination services to be recognized over the service period.
+
+The total purchase consideration of the SevenRooms acquisition was allocated to the tangible and intangible assets acquired, and liabilities assumed, based upon their respective fair values as of the date of the acquisition. The Company recorded $ 886 million of goodwill which represents the excess of the purchase price over the net assets acquired. Goodwill is primarily attributed to the assembled workforce of SevenRooms and anticipated synergies arising from potential future growth and an enhanced platform to help merchants serve their customers across all channels. The goodwill recorded in connection with the acquisition of SevenRooms is not deductible for tax purposes. The fair value of assets acquired and liabilities assumed are based on management’s best estimates, judgments and assumptions, and are considered preliminary pending finalization of the valuation analyses pertaining to assets acquired and liabilities assumed, which primarily relate to working capital accounts. The Company expects to finalize the allocation of the purchase price as soon as practicable, but no later than one year from the acquisition date when the measurement period ends.
+
+The following table summarizes the preliminary fair value of the assets acquired and liabilities assumed as of the acquisition date (in millions):
+
+The following table sets forth the components of intangible assets acquired (in millions) and their estimated useful lives as of the date of acquisition (in years):
+
+Existing technology represents the online and mobile SevenRooms platform for reservations, table management, and guest engagement. The customer relationships represent the fair value of the underlying relationships with its customers, including strategic customers such as global hotel chains and casino resorts, and small and mid-size businesses. The estimated fair values of the developed technology and trade name were determined using the relief-from-royalty method of the income approach. The estimated fair values of the customer relationships were determined using the multi-period excess earnings method of the income approach. The Company expects to amortize the fair value of these intangible assets on a straight-line basis over their respective estimated useful lives.
+
+From the date of acquisition through December 31, 2025, revenue and net loss attributable to SevenRooms, included in the Company’s consolidated statements of operations was not material. The pro forma information has not been presented as such information is also not material to the Company for the periods presented.
+
+Symbiosys Acquisition
+
+On May 28, 2025, the Company acquired Symbiosys Corp. (“Symbiosys”), a retail media platform company, to expand offsite advertising capabilities. The acquisition was accounted for under the acquisition method of accounting.
+
+The acquisition date fair value of the purchase consideration was $ 121 million, which consisted of the following (in millions):
+
+As of December 31, 2025, the Company had settled $ 11 million in deferred cash consideration, with $ 18 million remaining to be settled in future periods. For certain Symbiosys employees, a portion of their total consideration was restricted subject to vesting over various service periods. A total of $ 14 million of these employees’ consideration was included as part of the deferred cash consideration and the remaining $ 53 million represents compensation for post-combination services to be recognized over their respective service periods.
+
+The total purchase consideration was allocated to the tangible and intangible assets acquired and liabilities assumed, based upon their respective fair values as of the date of acquisition. The excess of the purchase consideration over the net assets acquired was recorded as goodwill. Goodwill is primarily attributable to the anticipated synergies from the planned expansion into additional digital channels to extend the breadth of the Company’s marketing channels. The goodwill recorded in connection with the acquisition of Symbiosys is not deductible for tax purposes. The fair value of assets acquired and liabilities assumed are based on management’s best estimates, judgments and assumptions, and are considered preliminary pending finalization of the valuation analyses pertaining to assets acquired and liabilities assumed. which primarily relate to working capital accounts. The measurement period will end no later than one-year from the acquisition date.
+
+The following table summarizes the fair values of the assets acquired and liabilities assumed as of the acquisition date (in millions):
+
+The intangible assets acquired consisted of existing technology of $ 17 million and customer relationships of $ 2 million, which had estimated useful lives of 4 and 3 years as of the date of the acquisition, respectively.
+
+The acquisition was not material to the Company for the periods presented and therefore, pro forma information has not been presented.
+
+Other Acquisition
+
+During the three months ended March 31, 2025, the Company acquired a company, which was accounted for under the acquisition method of accounting. The total purchase consideration was approximately $ 28 million, which was allocated to the tangible and intangible assets acquired and liabilities assumed based upon their respective fair values as of the acquisition date. Intangible assets acquired were primarily composed of customer relationships and vendor relationships. Additionally, the Company recorded $ 21 million of goodwill, which represented the excess of the purchase price over the net assets acquired.
+
+5. Goodwill and Intangible Assets, Net
+
+The changes in the carrying amount of goodwill for the periods presented were as follows (in millions):
+
+There was no goodwill impairment during any of the periods presented. See Note 4 – "Acquisitions" of these notes to the Company's consolidated financial statements for further details of goodwill recorded.
+
+Intangible assets, net consisted of the following as of December 31, 2024 (in millions):
+
+Intangible assets, net consisted of the following as of December 31, 2025 (in millions):
+
+Amortization expense associated with intangible assets was $ 127 million, $ 125 million, and $ 212 million for the years ended December 31, 2023, 2024, and 2025, respectively.
+
+The estimated future amortization expense of intangible assets as of December 31, 2025 was as follows (in millions):
+
+6. Fair Value Measurements
+
+Assets Measured at Fair Value on a Recurring Basis
+
+The following tables set forth the Company’s cash equivalents and investments that were measured at fair value on a recurring basis by level within the fair value hierarchy (in millions):
+
+(1) Cash equivalents and short-term investments included $ 26 million and $ 151 million of time deposits, respectively, which are not subject to recurring fair value measurements.
+
+(2) Other assets included $ 15 million of money market funds held in a trust account pursuant to certain insurance policies, which were recorded as long-term restricted cash equivalents.
+
+The fair value of the Company’s Level 1 financial instruments is based on quoted market prices for identical instruments in active markets. The fair value of the Company’s Level 2 fixed income securities is obtained from independent pricing services, which may use quoted market prices for identical or comparable instruments in less active markets or model driven valuations using observable market data or inputs corroborated by observable market data.
+
+As of December 31, 2025, the fair value of the non-marketable investment in convertible notes of a private company was approximately $ 37 million and was included in other assets on the consolidated balance sheet. The fair value determination is based on unobservable inputs (Level 3 on the fair value hierarchy) which reflect the best information available under the circumstances, including transaction pricing and market participant assumptions.
+
+The fair value of the 2030 Notes (as defined in Note 9 - "Convertible Notes, Net") was determined based on the quote price in markets that are not active, which is considered a Level 2 valuation input. Refer to Note 9 - "Convertible Notes, Net" for the carrying amount and fair value of the 2030 Notes.
+
+Assets Measured at Fair Value on a Non-Recurring Basis
+
+The Company’s non-marketable equity securities accounted for using the measurement alternative are recorded at fair value on a non-recurring basis. When indicators of impairment exist or observable price changes in a same or similar security from the same issuer occur, the respective non-marketable equity security would be classified within Level 3 of the fair value hierarchy because the valuation methods include a combination of the observable transaction price at the transaction date and other unobservable inputs. Non-marketable equity securities are recorded in other assets on the consolidated balance sheets.
+
+During the years ended December 31, 2023 and 2025, the Company made investments in non-marketable equity securities of $ 23 million, and $ 13 million, respectively. There were no investments in non-marketable equity securities during the year ended December 31, 2024. The following is a summary of unrealized gains and losses from upward or downward adjustments recorded in other income (expense), net in the consolidated statements of operations, and included as adjustments to the carrying value of non-marketable equity securities held during the years ended December 31, 2023, 2024, and 2025 (in millions):
+
+Estimating the fair value of the Company’s investments in non-marketable equity securities requires the use of estimates and judgments. Changes in estimates and judgments could result in different estimates of fair value and future adjustments.
+
+The following table summarizes the carrying value of the Company's non-marketable equity securities as of December 31, 2024 and 2025 including impairments and cumulative upward and downward adjustments made to the initial cost basis of the securities, which were recorded in other expense, net in the consolidated statements of operations (in millions):
+
+7. Balance Sheet Components
+
+Cash Equivalents and Investments
+
+The following tables summarize the cost or amortized cost, gross unrealized gain, gross unrealized loss, and fair value of the Company’s cash equivalents and investments (in millions):
+
+For investments with unrealized loss positions, the Company does not intend to sell these securities and it is more likely than not that the Company will hold these securities until maturity or a recovery of the cost basis. No allowance for credit losses was recorded for these securities as of December 31, 2024 and 2025.
+
+Prepaid Expenses and Other Current Assets
+
+Prepaid expenses and other current assets consisted of the following (in millions):
+
+Property and Equipment, net
+
+Property and equipment, net consisted of the following (in millions):
+
+Depreciation expenses were $ 126 million, $ 118 million, and $ 165 million for the years ended December 31, 2023, 2024, and 2025, respectively.
+
+The Company capitalized $ 362 million, $ 386 million, and $ 556 million in capitalized software and website development costs during the years ended December 31, 2023, 2024, and 2025, respectively. Capitalized software and website development costs are included in property and equipment, net on the consolidated balance sheets. Amortization of capitalized software and website development costs was $ 256 million, $ 318 million, and $ 370 million for the years ended December 31, 2023, 2024, and 2025, respectively. Construction in progress primarily included leasehold improvements on premises that are not ready for use and equipment for merchants that are not placed in service.
+
+Accrued Expenses and Other Current Liabilities
+
+Accrued expenses and other current liabilities consisted of the following (in millions):
+
+8. Leases
+
+The Company leases its facilities under non-cancelable lease agreements which expire between 2026 and 2037. Certain of these arrangements have free rent, escalating rent payment provisions, lease renewal options, and tenant allowances. Under such arrangements, the Company recognizes a ROU asset and lease liability on the consolidated balance sheets. Lease costs are recognized on a straight-line basis over the non-cancelable lease term.
+
+During the years ended December 31, 2024 and 2025, the Company ceased use of and made available for sublease certain corporate office spaces. As a result, the Company determined that the asset groups, which primarily consist of the related operating lease right-of-use assets and leasehold improvements, were impaired, and recognized an impairment charge of $ 83 million and $ 11 million recorded as general and administrative expenses during the years ended December 31, 2024 and 2025, respectively. The fair value of the asset groups was estimated using an income-approach based on estimated future cash flows expected to be derived from the office spaces based on current sublease market rent. As of December 31, 2025, the Company was continuing its efforts to sublease some of the spaces.
+
+The components of lease costs related to the Company’s operating leases included in the consolidated statements of operations for the periods presented were as follows (in millions):
+
+Lease terms and discount rates for operating leases were as follows:
+
+Supplemental cash flow and non-cash information was as follows (in millions):
+
+As of December 31, 2025, the future minimum lease payments required under operating leases were as follows (in millions):
+
+Future minimum sublease income as of December 31, 2025 was $ 42 million.
+
+9. Convertible Notes, Net
+
+2030 Notes
+
+In May 2025, the Company issued $ 2.75 billion aggregate principal amount of 0 % Convertible Senior Notes due 2030 (the “2030 Notes”). The total proceeds from the issuance of the 2030 Notes, net of debt issuance costs, were approximately $ 2.72 billion.
+
+The 2030 Notes are senior, unsecured obligations of the Company and will mature on May 15, 2030, unless earlier repurchased, redeemed, or converted, and are governed by the terms of an indenture (the "Indenture"), dated as of May 30, 2025, between the Company and U.S. Bank Trust Company, National Association, as trustee. The 2030 Notes do not bear regular cash interest. Special interest and additional interest, if any, may accrue on the 2030 Notes at a combined rate per annum not exceeding 0.50 % upon the occurrence of certain events relating to the failure to file certain reports with the SEC or to remove certain restrictive legends from the 2030 Notes.
+
+Holders of the 2030 Notes may convert all or any portion of their 2030 Notes at their option prior to November 15, 2029, under the following circumstances:
+
+a. during any calendar quarter (and only during such calendar quarter) commencing after the calendar quarter ending on September 30, 2025, if the last reported sale price per share of the Company’s Class A common stock exceeds 130 % of the conversion price for each of at least 20 trading days (whether or not consecutive) during the 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter;
+
+b. during the 5 consecutive business days after any 10 consecutive trading day period in which the trading price per $1,000 principal amount of the 2030 Notes for each trading day of such 10 -day period was less than 98 % of the product of the last reported sale price per share of the Company’s Class A common stock and the conversion rate on each such trading day; or
+
+c. upon the occurrence of specified corporate events or distributions on the Company’s Class A common stock, in each case, as set forth in the Indenture.
+
+Holders of the 2030 Notes may also convert their 2030 Notes (i) if the Company calls such 2030 Notes for redemption; and (ii) at any time on or after November 15, 2029 until the close of business on the second scheduled trading day immediately before the maturity date.
+
+Upon conversion of any 2030 Notes, the conversion value will be paid in cash up to at least the principal amount of the 2030 Notes being converted. Any amount of the conversion value in excess of the principal portion of such 2030 Notes may be settled in cash or shares of the Company’s Class A common stock, or a combination thereof, at the Company’s option. The 2030 Notes are convertible at an initial conversion rate of 3.425 shares of the Company's Class A common stock per $1,000 principal amount of the 2030 Notes, which is equivalent to an initial conversion price of approximately $ 291.97 per share of the Company's Class A common stock. The conversion rate may be subject to certain anti-dilution adjustments and/or a make-whole adjustment upon the occurrence of specified events set forth in the Indenture. As of December 31, 2025, there have been no changes to the initial conversion price of the 2030 Notes since the issuance date. Based on the closing price of the Company’s Class A common stock of $ 226.48 on the last trading day of the quarter, the if-converted value of the 2030 Notes did not exceed the principal value of the 2030 Notes as of December 31, 2025.
+
+The Company may not redeem the notes prior to May 20, 2028. The 2030 Notes will be redeemable, in whole or in part (subject to certain limitations set forth in the Indenture), for cash, at the Company’s option, on or after May 20, 2028 and on or before the 20th scheduled trading day immediately before the maturity date, but only if (i) the 2030 Notes are “Freely Tradable” (as defined in the Indenture), and all accrued and unpaid additional interest, if any, has been paid as of the date the Company sends the related redemption notice and (ii) the last reported sale price per share of the Company’s Class A common stock exceeds 130 % of the conversion price on each of at least 20 trading days (whether or not consecutive) including the last trading day, during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends such redemption notice. The redemption price will be equal to 100 % of the principal amount of the 2030 Notes to be redeemed, plus accrued and unpaid special interest and additional interest, if any, to, but excluding, the redemption date. In addition, calling any 2030 Notes for redemption will constitute a "Make-Whole Fundamental Change" (as defined in the Indenture) with respect to such 2030 Notes, in which case the conversion rate applicable to the conversion of such 2030 Notes will be increased in certain circumstances if it is converted after it is called for redemption.
+
+If the Company undergoes a “Fundamental Change” (as defined in the Indenture), then holders of the 2030 Notes may require the Company to repurchase for cash all or any portion of their 2030 Notes at a repurchase price equal to 100 % of the principal amount of the 2030 Notes to be repurchased, plus accrued and unpaid special interest and additional interest, if any, to, but excluding, the fundamental change repurchase date.
+
+The Indenture contains customary events of default and limited covenants. No sinking fund is required to be provided for the 2030 Notes.
+
+As of December 31, 2025, none of the conditions described in the paragraphs above relating to convertibility or mandatory redemption were met. Therefore, the 2030 Notes are classified as long-term debt.
+
+The net carrying value, net of the 2030 Notes consisted of the following as of December 31, 2025 (in millions):
+
+The effective interest rate of the 2030 Notes is 0.22 % per annum. The fair value of the 2030 Notes was $ 2.9 billion as of December 31, 2025 and was determined based on the quote price in markets that are not active, which is considered a Level 2 valuation input.
+
+2030 Note Hedges and Warrant Transactions
+
+In May 2025, in connection with the offering of the 2030 Notes, the Company entered into privately negotiated convertible note hedge transactions whereby the Company has the option to purchase an initial total of approximately 9.4 million shares of its Class A common stock at an initial strike price of approximately $ 291.97 per share (the “Note Hedges”). The total cost of the Note Hedges was approximately $ 680 million.
+
+In addition, the Company sold warrants whereby the holders of the warrants have the option to purchase an initial total of approximately 9.4 million shares of the Company’s Class A common stock at an initial strike price of $ 512.225 per share (the “Warrants”). The Company received approximately $ 341 million in cash proceeds from the sale of the Warrants.
+
+Both the number of shares underlying the Note Hedges and the Warrants and the strike prices of the instruments are subject to customary anti-dilution adjustments. The Note Hedges are expected generally to reduce potential dilution to the Company's Class A common stock upon the conversion of any 2030 Notes and/or offset any cash payments the Company is required to make in excess of the principal amount of any converted 2030 Notes, as the case may be, to the extent the market price per share of the Company’s Class A common stock exceeds the then-applicable strike price of the Note Hedges. The Warrants may separately have a dilutive effect with respect to the Company’s Class A common stock to the extent the market price per share of the Company’s Class A common stock exceeds the then-applicable strike price of the Warrants, unless the Company elects, subject to certain conditions, to settle the Warrants in cash.
+
+The Note Hedges and the Warrants are equity-classified instruments as a result of being indexed to the Company’s Class A common stock and meeting equity classification criteria, and the instruments will not be remeasured in subsequent periods as long as they continue to meet these accounting criteria. The net cost of approximately $ 339 million for the purchase of the Note Hedges and sale of the Warrants was recorded as a reduction to additional paid-in capital in the Company’s consolidated balance sheets.
+
+10. Commitments and Contingencies
+
+Legal Proceedings
+
+From time to time, the Company is a party to litigation and subject to claims incidental to its business. Although the results of litigation and claims cannot be predicted with certainty, the Company currently believes that the final outcome of ongoing matters will not have a material adverse effect on its business. Regardless of the outcome, litigation can have an adverse impact on the Company because of judgment, defense and settlement costs, diversion of management resources, and other factors. At each reporting period, the Company evaluates whether or not a potential loss amount or a potential range of loss is probable and reasonably estimable, requiring recognition of a loss accrual, or whether the potential loss is reasonably possible, requiring potential disclosure. Legal fees are expensed as incurred.
+
+The Company is currently the subject of regulatory and administrative investigations, audits, demands, and inquiries conducted by federal, state, or local governmental agencies concerning the Company’s business practices, the classification and compensation of Dashers, the DoorDash Dasher pay models, compliance with consumer protection laws, privacy, cybersecurity, tax issues, unemployment insurance, workers' compensation insurance, and other matters. For example, the Company is currently under audit by the Employment Development Department, State of California (the “CA EDD”) for payroll tax liabilities. In January 2023, the CA EDD issued an assessment for certain amounts that it found to be owed by the Company on behalf of Dashers due to their being classified as independent contractors. The Company believes that Dashers are, and have been, properly classified as independent contractors. Accordingly, the Company believes that it has meritorious defenses and intends to vigorously appeal such adverse assessment. However, the ultimate resolution of the audit is uncertain and, accordingly, the Company has recorded an accrual for this matter within accrued expenses and other current liabilities on the consolidated balance sheets as of December 31, 2025. The results of investigations, audits, demands, and inquiries and related governmental action are inherently unpredictable and, as such, there is always the risk of an investigation, audit, demand, or inquiry having a material impact on the Company's business, financial condition, and results of operations.
+
+In June 2020, the San Francisco District Attorney filed an action in the Superior Court of California, County of San Francisco, alleging that the Company misclassified California Dashers as independent contractors as opposed to employees in violation of the California Labor Code and the California Unfair Competition Law, among other allegations. This action was resolved in September 2025 for $ 2 million and no injunctive relief.
+
+Indemnification
+
+The Company enters into standard indemnification arrangements in the ordinary course of business. Pursuant to these arrangements, the Company agrees to indemnify, hold harmless, and reimburse the indemnified parties for losses suffered or incurred by the indemnified party, in connection with any trade secret, copyright, patent, or other intellectual property infringement claim by any third party with respect to the Company's technology. The terms of these indemnification agreements are generally perpetual any time after the execution of the agreement.
+
+In addition, the Company has entered into indemnification agreements with its directors and officers that may require the Company to indemnify its directors and officers against liabilities that may arise by reason of their status or service as directors or officers of the Company, other than liabilities arising from willful misconduct of the individual.
+
+The maximum potential amount of future payments the Company could be required to make under these agreements is not determinable because it involves claims that may be made against the Company in the future, but have not yet been made. The Company has not incurred costs to defend lawsuits or settle claims related to these indemnification agreements. No liability associated with such indemnifications was recorded as of December 31, 2024 and 2025.
+
+Non-cancelable Purchase Commitments
+
+The Company has non-cancelable purchase commitments, which primarily relate to the purchase of technology platform infrastructure. These purchase commitments are not recorded as liabilities on the consolidated balance sheet as of December 31, 2025 as the Company has not yet received the related services. As of December 31, 2025, the future minimum payments under the Company’s non-cancelable purchase commitments were as follows (in millions):
+
+Insurance Collateral
+
+The Company is required to maintain $ 607 million in collateral in connection with certain insurance policies, which can be held in a combination of cash, surety bonds, and letters of credit. As of December 31, 2025, the Company had $ 607 million of collateral outstanding in the form of surety bonds and letters of credit in connection with the insurance collateral requirement.
+
+Revolving Credit Facility and Letters of Credit
+
+In November 2019, the Company entered into a revolving credit and guaranty agreement, which, as most recently amended and restated on April 26, 2024, provides for an unsecured revolving credit facility of up to $ 800 million, with a letter of credit sublimit of $ 600 million, maturing on April 26, 2029. Loans under the revolving credit facility bear interest at the Company’s option, at (i) a base rate equal to the highest of (A) the prime rate, (B) the higher of the federal funds rate or a composite overnight bank borrowing rate plus 0.50 %, or (C) an adjusted term Secured Overnight Financing Rate ("SOFR") rate for a one-month interest period plus 1.00 %, or (ii) an adjusted SOFR rate (based on an interest period of one, three, or six months) plus a margin equal to 1.00 %. The Company is also obligated to pay other customary fees for a credit facility of this size and type, including letter of credit fees, an upfront fee, and an unused commitment fee of 0.10 %. The Company's obligations under the revolving credit facility are guaranteed by certain of its domestic subsidiaries meeting materiality thresholds set forth in the credit agreement. The credit agreement contains customary affirmative covenants and customary negative covenants that restrict the Company's ability and its subsidiaries’ ability to, among other things, incur subsidiary indebtedness, grant liens, declare cash dividends or make certain other distributions, repurchase stock, merge or consolidate with other companies or sell substantially all of the assets of the Company and its subsidiaries, taken as a whole, make investments and loans, and engage in certain transactions with affiliates. The Company must also maintain compliance with a maximum senior net leverage ratio, measured quarterly, determined in accordance with the terms of the credit agreement.
+
+As of December 31, 2024 and 2025, the Company was in compliance with the covenants under the credit agreement. As of December 31, 2024 and 2025, no revolving loans were outstanding under the credit facility.
+
+In addition to the letters of credit maintained in connection with the insurance collateral requirement, the Company also maintains letters of credit established primarily for real estate leases and insurance policies. As of December 31, 2024 and 2025, the Company had $ 141 million and $ 106 million of issued letters of credit outstanding, respectively, of which $ 112 million and $ 61 million, respectively, were issued from the revolving credit and guaranty agreement.
+
+Deliveroo Transaction
+
+On May 6, 2025, the Company issued an announcement (the “Rule 2.7 Announcement”) pursuant to Rule 2.7 of the UK City Code on Takeovers and Mergers (the "Code"), disclosing that the board of directors of the Company and the board of directors of Deliveroo, a company incorporated in England and Wales, had reached agreement on the terms of a recommended final cash offer by the Company for the entire issued and to be issued share capital of Deliveroo (the "Deliveroo Transaction"). Deliveroo has built one of the leading local commerce platforms across its key geographies, primarily in Europe and the Middle East, all complementary to the Company’s then-current footprint. The purchase price was 180 pence per Deliveroo share in cash, which equated to an equity value of approximately £ 2.8 billion. On October 2, 2025, the Company completed the Deliveroo Transaction. See Note 4 - “Acquisitions” for further information on the closing of the Deliveroo Transaction.
+
+Escrow Agreement
+
+In connection with the Deliveroo Transaction and prior to the Rule 2.7 Announcement, the Company, JPMorgan Chase Bank, N.A., as escrow agent (the “Escrow Agent”), and J.P. Morgan Securities plc entered into an Escrow Agreement (the “Escrow Agreement”). Pursuant to the Escrow Agreement, the Company periodically deposited cash denominated in U.S. dollars into escrow in order to fund the cash consideration payable in connection with the Deliveroo Transaction and to satisfy certain requirements pursuant to the Code to evidence certainty of funding for the Deliveroo Transaction (such requirements, the "Cash Confirmation Requirements"). In connection with the closing of the Deliveroo Transaction on October 2, 2025, the Company converted $ 3.8 billion of the cash held in escrow from U.S. dollars into Pounds Sterling (“GBP”) pursuant to the Deal-Contingent Forward (as defined in Note 16 - "Derivative").
+
+Bridge Term Loan Credit and Guaranty Agreement
+
+In connection with the Deliveroo Transaction, the Company entered into a Bridge Term Loan Credit and Guaranty Agreement (the “Bridge Credit Agreement”) with J.P. Morgan Chase Bank, N.A. on May 6, 2025 to provide the Company certain borrowings in an aggregate amount of up to $ 2.85 billion, consisting of (i) $ 1.50 billion of tranche A commitments (the "Tranche A Commitments") and (ii) $ 1.35 billion of tranche B commitments (the "Tranche B Commitments").
+
+Pursuant to the terms of the Bridge Credit Agreement and effective as of June 10, 2025, the Tranche A Commitments were automatically reduced in full and terminated. On July 15, 2025, the Company voluntarily reduced in full and terminated the Tranche B Commitments under the Bridge Credit Agreement. After giving effect to such reductions, no
+
+commitments remained outstanding under the Bridge Credit Agreement and the Bridge Credit Agreement was terminated in accordance with its terms.
+
+Sales and Indirect Tax Matters
+
+The Company records sales and indirect tax liabilities as they become probable and the amount can be reasonably estimated. These reserves are included in accrued expenses and other current liabilities on the consolidated balance sheets. The Company is under audit by various state, local, and foreign tax authorities with regard to sales and indirect tax matters. The timing of the resolution of indirect tax examinations is highly uncertain, and the amounts ultimately paid, if any, upon resolution of the issues raised by the tax authorities may differ from the amounts accrued.
+
+11. Common Stock
+
+Stock Repurchase Program
+
+In February 2025, the Company announced the authorization of a share repurchase program for the repurchase of shares of its Class A common stock in an aggregate amount of up to $ 5.0 billion, which is inclusive of the remaining share repurchase authority of $ 876 million under the share repurchase program that was previously announced by the Company in February 2024. During the year ended December 31, 2025, the Company did no t repurchase any shares of its Class A common stock under the share repurchase program.
+
+Restricted Stock
+
+The Company granted restricted stock to certain continuing employees in connection with the acquisition of Wolt Enterprises Oy on May 31, 2022. Vesting of this stock is dependent on the respective employee’s continued employment at the Company during the requisite service period, which is generally up to four years from the issuance date. The fair value of the restricted stock issued to employees that is subject to post-acquisition employment is recorded as compensation expense on a straight-line basis over the requisite service period.
+
+The activities for the restricted stock issued to employees was as follows (in thousands, except per share data):
+
+Common Stock Reserved for Future Issuance
+
+The following table summarizes the Company’s shares of common stock reserved for future issuance on an as-converted basis (in thousands):
+
+2014 Equity Incentive Plan
+
+In March 2014, the Company adopted the 2014 Stock Option Plan, as amended (the "2014 Plan"), which provided for the granting of stock options to employees, consultants, and advisors of the Company. Options granted under the 2014 Plan
+
+are either incentive stock options or nonqualified stock options. Options under the 2014 Plan were granted for a term of up to ten years (or five years if the option was an incentive stock option granted to a greater than 10% stockholder) and at prices no less than 100 % of the estimated fair value of the shares on the date of grant as determined by the Company’s board of directors; provided, however, that the exercise price of an incentive stock option granted to a greater than 10% stockholder could not be less than 110 % of the estimated fair value of the shares on the date of grant. Options granted generally vested over four years .
+
+The 2014 Plan allowed for the early exercise of options. Under the terms of the 2014 Plan, option holders, upon early exercise, were required to sign a restricted stock purchase agreement that gave the Company the right to repurchase any unvested shares, at the original exercise price, in the event the grantees’ employment terminated for any reason. The repurchase right lapsed over time as the shares vested at the same rate as the original option vesting schedule. Stock-based awards forfeited, cancelled, or repurchased generally were returned to the pool of shares of common stock available for issuance.
+
+In connection with the IPO, the 2014 Plan was terminated effective immediately prior to the effectiveness of the 2020 Equity Incentive Plan (the "2020 Plan") and the Company ceased granting any additional awards under the 2014 Plan. All outstanding awards under the 2014 Plan at the time of the termination of the 2014 Plan remain subject to the terms of the 2014 Plan, and any shares underlying stock options that expire or terminate or are forfeited or repurchased by the Company under the 2014 Plan were automatically transferred to the 2020 Plan.
+
+2020 Equity Incentive Plan
+
+In November 2020, the Company's board of directors adopted, and the Company's stockholders approved, the 2020 Plan, which became effective one business day prior to the effective date of the IPO registration statement. The 2020 Plan provides for the granting of incentive stock options, nonstatutory stock options, restricted stock, RSUs, stock appreciation rights, performance units, and performance shares for the Company's Class A common stock to the Company's employees, directors, and consultants. Stock-based awards under the 2020 Plan that expire or are forfeited, cancelled, or repurchased generally are returned to the pool of shares of Class A common stock available for issuance under the 2020 Plan. In addition, the number of shares of the Company's Class A common stock reserved for issuance under the 2020 Plan will automatically increase on January 1 of each calendar year, starting on January 1, 2021 in an amount equal to the least of (i) 32,493,000 shares, (ii) five percent ( 5 %) of the total number of all classes of common stock outstanding on December 31 of the fiscal year before the date of each automatic increase, or (iii) such other number of shares determined by the Company's board of directors prior to the applicable January 1.
+
+The exercise price of the options granted under the 2020 Plan will at least be equal to the fair market value of the Company's Class A common stock on the date of grant. The options may be granted for a term of up to ten years (or five years if the option is an incentive stock option granted to a greater than 10% stockholder) and at prices no less than 100 % of the fair market value of the shares on the date of grant, provided, however, that the exercise price of an incentive stock option granted to a greater than 10% stockholder shall not be less than 110 % of the estimated fair value of the shares on the date of grant. Options granted under the 2020 Plan generally vest over four years .
+
+2022 Inducement Equity Incentive Plan
+
+In May 2022, the Company's board of directors adopted the 2022 Inducement Equity Incentive Plan (the “Inducement Plan”), pursuant to which the Company reserved 9,760,000 shares of Class A common stock to be used exclusively for grants of equity-based awards to individuals who were not previously employees or directors of the Company, as a material inducement to the individual’s entry into employment with the Company. The Inducement Plan permits the grant of nonstatutory stock options, restricted stock, RSUs, stock appreciation rights, performance units and performance shares. Shares that actually have been issued under the Inducement Plan under any award will not be returned to the Inducement Plan and will not become available for future distribution under the Inducement Plan; however, if shares issued pursuant to awards of restricted stock, RSUs, performance shares or performance units are repurchased by the Company or are forfeited to the Company due to failure to vest, such shares will become available for future grant under the Inducement Plan. Shares used to pay the exercise price of an award or to satisfy the tax withholding obligations related to an award will become available for future grant or sale under the Inducement Plan. The exercise price, term, and any other terms and conditions of the options granted under the Inducement Plan will be determined by the administrator of the plan.
+
+RSUs
+
+The Company generally grants RSUs that vest only upon the satisfaction of a service-based vesting condition, which is generally four years . Stock-based compensation expense is recognized on a straight-line basis over the requisite service period.
+
+CEO Performance Award
+
+In November 2020, the Company’s board of directors approved the grant of 10,379,000 RSUs to the CEO (the “CEO Performance Award”). The CEO Performance Award vests upon the satisfaction of a service condition and achievement of certain stock price goals. The CEO Performance Award is excluded from Class A common stock issued and outstanding until the satisfaction of these vesting conditions. The CEO Performance Award also provides the holder with certain stockholder rights, such as the right to vote the shares with the other holders of Class A common stock and a right to cumulative declared dividends. However, the CEO Performance Award is not considered a participating security for purposes of calculating net loss per share attributable to common stockholders as the right to the cumulative declared dividends is forfeitable if the service condition is not met.
+
+The CEO Performance Award is eligible to vest beginning on the first trading day 18 months following the Company’s IPO date, and expiring seven years after the IPO date. The CEO Performance Award comprises nine tranches that are eligible to vest based on the achievement of stock price goals, ranging from $ 187.60 to $ 501.00 per share, each of which are referred to as a Company Stock Price Target, measured over a consecutive 180 -day period during the performance period as set forth below. This measurement period was designed to reward the CEO only if the Company achieved sustained growth in the stock price.
+
+The Company calculated the grant date fair value of the CEO Performance Award based on multiple stock price paths developed through the use of a Monte Carlo simulation model. A Monte Carlo simulation model also calculates a derived service period for each of the nine vesting tranches, which is the measure of the expected time to achieve each Company Stock Price Target. A Monte Carlo simulation model requires the use of various assumptions, including the underlying stock price, volatility, and the risk-free interest rate as of the valuation date, corresponding to the length of time remaining in the performance period, and expected dividend yield. The weighted-average grant date fair value of the CEO Performance Award was $ 39.8275 per share. The Company recognized total stock-based compensation expense of $ 413 million over the derived service period of each tranche, which ranged from 2.53 to 4.42 years, using the accelerated attribution method, as the CEO satisfied the service-based vesting condition. If the Company Stock Price Targets are met sooner than the derived service period, the Company will adjust its stock-based compensation to reflect the cumulative expense associated with the vested awards. Provided that Tony Xu continues to be the Company's CEO, the Company will recognize stock-based compensation expense over the requisite service period, regardless of whether the Company Stock Price Targets are achieved. During the year ended December 31, 2025, the first and second tranches of the CEO Performance Award, representing 518,950 shares each, vested upon achievement of the first and second stock price targets of $ 187.60 and $ 226.80 , respectively, measured over a consecutive 180 -day period prior to achievement.
+
+The Company recorded $ 104 million, $ 67 million, and $ 7 million of stock-based compensation expense related to the CEO Performance Award during the years ended December 31, 2023, 2024, and 2025, respectively. As of December 31, 2025, there was no remaining unrecognized stock-based compensation expense related to the CEO Performance Award.
+
+Stock Award Activities
+
+A summary of activity under the 2014 Plan, 2020 Plan, and Inducement Plan was as follows (in millions, except share amounts which are reflected in thousands, and per share data):
+
+The aggregate intrinsic value disclosed in the above table is based on the difference between the exercise price of the stock option and the closing stock price of the Company's Class A common stock on the Nasdaq Stock Market as of the respective year-end dates. The aggregate intrinsic value of stock options exercised during the years ended December 31, 2023, 2024, and 2025 was $ 510 million, $ 580 million, and $ 441 million, respectively. There were no stock options granted during the years ended December 31, 2023, 2024, and 2025.
+
+A summary of RSU activity was as follows (in millions, except share amounts which are reflected in thousands, and per share data):
+
+The aggregate intrinsic value disclosed in the above table is based on the closing stock price of the Company's Class A common stock on the Nasdaq Stock Market as of the respective year-end dates. The weighted-average fair value per share of RSUs granted, including replacement awards for acquisition, during the years ended December 31, 2023, 2024, and 2025 was $ 65.06 , $ 128.17 , and $ 195.33 , respectively.
+
+Stock-Based Compensation Expense
+
+The Company recorded stock-based compensation expense in the consolidated statements of operations as follows (in millions):
+
+As of December 31, 2025, there was $ 99 thousand of unrecognized stock-based compensation expense related to unvested stock options, which is expected to be recognized over the remaining weighted-average period of 0.33 years.
+
+As of December 31, 2025, there was $ 1.9 billion of unrecognized stock-based compensation expense related to unvested restricted stock and RSUs. The Company expects to recognize this expense over the remaining weighted-average period of 2.31 years.
+
+2020 Employee Stock Purchase Plan
+
+The Company's board of directors adopted, and the Company's stockholders approved, the 2020 Employee Stock Purchase Plan (the "ESPP"), which became effective on the business day immediately prior to the effectiveness of the IPO. A total of 6,498,600 shares of Class A common stock were initially reserved for sale under the ESPP. The number of shares of Class A common stock available for issuance under the ESPP will be increased on the first day of each fiscal year beginning with the fiscal year following the fiscal year in which the first enrollment date (if any) occurs equal to the least of (i) 6,498,600 shares of Class A common stock, (ii) one and one-half percent ( 1.5 %) of the outstanding shares of all classes of common stock on the last day of the immediately preceding fiscal year, or (iii) an amount determined by the administrator of the ESPP.
+
+The ESPP includes two components: a component that allows the Company to make offerings intended to qualify under Section 423 of the Code and a component that allows the Company to make offerings not intended to qualify under Section 423 of the Code to designated companies. Subject to any limitations contained therein, the ESPP allows eligible employees to contribute (in the form of payroll deductions or otherwise to the extent permitted by the administrator) an amount established by the administrator from time to time in its discretion to purchase Class A common stock at a discounted price per share.
+
+As of December 31, 2024 and 2025, there had been no offering period or purchase period under the ESPP, and no such period will begin unless and until determined by the administrator.
+
+12. Income Taxes
+
+The components of income (loss) before income taxes were as follows (in millions):
+
+The components of provision for income taxes were as follows (in millions):
+
+Below is a tabular rate reconciliation pursuant to the disclosure requirements of ASU 2023-09 for the year ended December 31, 2025.
+
+The items accounting for differences between income taxes computed at the federal statutory rate and the provision recorded for income taxes were as follows (in millions, except percentages):
+
+(1) State tax benefits in California made up the majority (greater than 50%) of the tax effect in this category.
+
+As previously disclosed for the years ended December 31, 2023 and 2024, prior to the adoption of ASU 2023-09, the effective income tax rate differs from the statutory federal income tax rate as follows (in millions):
+
+The components of deferred tax assets and liabilities were as follows (in millions):
+
+Due to the weight of objectively verifiable negative evidence, including its history of losses, the Company’s deferred tax assets have been fully offset by a valuation allowance, with the exception of certain foreign jurisdictions. Overall, the valuation allowance increased by $ 203 million, $ 494 million, and $ 845 million in the years ended December 31, 2023, 2024, and 2025, respectively. As of December 31, 2025, the portion of the valuation allowance for deferred tax assets for which subsequently recognized tax benefits will be credited directly to contributed capital was $ 170 million.
+
+As of December 31, 2025, the Company had accumulated U.S. federal and state net operating loss carryforwards of $ 3.1 billion and $ 1.6 billion, respectively. Federal net operating losses carry forward indefinitely. Of the $ 1.6 billion of state net operating losses, $ 225 million carry forward indefinitely. The remaining state net operating loss carryforwards will begin to expire in 2026. As of December 31, 2025, the Company had foreign net operating loss carryforwards of $ 4.5 billion that begin to expire in 2026.
+
+The Company also had $ 558 million and $ 279 million of federal and state research and development tax credit carryforwards, respectively, as of December 31, 2025. The federal research and development tax credits expire in varying amounts starting in 2041. The California research credits do not expire and carry forward indefinitely.
+
+The Company’s ability to utilize the U.S. net operating loss and tax credit carryforwards in the future may be limited in the event of past or future ownership changes as defined in Section 382 and 383 of the Internal Revenue Code of 1986, as amended, and similar state tax law. Based on the most recent analysis, the Company does not anticipate a current limitation on the tax attributes under Section 382 and 383.
+
+The Company intends to invest substantially all of its foreign subsidiary earnings, as well as its capital in its foreign subsidiaries, indefinitely in those jurisdictions in which the Company could incur significant, additional costs upon repatriation of such amounts.
+
+Unrecognized Tax Benefits
+
+A reconciliation of the beginning and ending balance of gross unrecognized tax benefits is included in the table below (in millions):
+
+The Company had $ 350 million of gross unrecognized tax benefits as of December 31, 2025, the majority of which would not impact its effective tax rate if recognized due to the Company's valuation allowance.
+
+The Company is subject to taxation in the U.S. and various state and foreign jurisdictions. The material jurisdictions in which the Company operates include the United States and Finland. The Company’s 2013 and subsequent tax years remain open to examination by the U.S. Internal Revenue Service. The Company’s 2019 and subsequent tax years remain open to examination in Finland.
+
+13. Net Income (Loss) per Share Attributable to DoorDash, Inc. Common Stockholders
+
+The Company computes net income (loss) per share attributable to DoorDash, Inc. common stockholders using the two-class method required for multiple classes of common stock and participating securities. The rights, including the liquidation and dividend rights, of the Class A common stock and Class B common stock are identical, other than voting rights. Accordingly, the Class A common stock and Class B common stock share equally in the Company’s net income and losses. The computation of diluted net income per share of Class A common stock for the years ended December 31, 2024 and 2025 does not assume the conversion of Class B common stock to Class A common stock because including such shares would have an anti-dilutive effect.
+
+The following table sets forth the calculation of basic and diluted net income (loss) per share attributable to DoorDash, Inc. common stockholders during the periods presented (in millions, except share amounts which are reflected in thousands, and per share data):
+
+The following outstanding shares of potentially dilutive securities were excluded from the computation of diluted net income (loss) per share because including such shares would have an anti-dilutive effect, or issuance of such shares is contingent upon the satisfaction of certain conditions which were not satisfied at the end of the respective periods (in thousands):
+
+14. Employee Benefit Plans
+
+401(k) Plan
+
+The Company has a 401(k) Plan that qualifies as a deferred salary arrangement under Section 401 of the Internal Revenue Code of 1986, as amended. Under the 401(k) Plan, eligible and participating employees may defer a portion of their pretax earnings not to exceed the maximum amount allowable. In 2023, the Company began to make discretionary matching contributions to those participating employees who met certain employment criteria. The Company's matching contributions to the plan were not material for the years ended December 31, 2023, 2024, and 2025.
+
+Defined Benefit Plan
+
+Employees based in Finland are covered under the Finnish Employees’ Pension Act (“TyEL”). TyEL is a statutory private sector pension act that is partly funded and paid through a pay-as-you-go pool. The Old-age Pension and Disability Pension benefits of TyEL are classified as postretirement benefits under defined benefit plan accounting standards and based on an actuarial valuation. The Old-age Pension liability for active employees includes the effect of future salary increases. The Disability Pension liability for active employees is based on employees' total salary two years before the fiscal year.
+
+Net periodic benefit cost is reflected in the accompanying consolidated statements of operations. Service cost is reflected in total costs and expenses. Other components of net periodic benefit cost, including interest cost and amortization of actuarial gains and losses, is included in other expense, net. Actuarial gains and losses resulting from remeasurement are initially recognized in accumulated other comprehensive income and subsequently recognized in the consolidated statements of operations.
+
+15. Variable Interest Entities
+
+On July 1, 2022, the Company formed a joint venture with a retail partner in Canada with the objective of providing on-demand delivery of grocery and convenience items to customers in Canada (the "JV"). The Company owns a majority interest in the JV.
+
+In connection with the formation of the JV, the Company contributed cash and certain assets of $ 41 million Canadian dollars (approximately $ 32 million US dollars) upon the closing of the transaction in July 2022. During the year ended December 31, 2024, the Company contributed cash of $ 18 million Canadian dollars (approximately $ 13 million US dollars.)
+
+On August 1, 2025, the Company renegotiated the terms of the JV with the minority shareholders and contributed $ 25 million Canadian dollars (approximately $ 18 million US dollars) to the JV. In conjunction with this contribution, the Company increased its ownership interest in the JV.
+
+The common units held by the Company in the JV were determined to be a variable interest. The Company continues to be the primary beneficiary because the Company has the power to direct the activities that most significantly impact the performance of the JV. As a result, the Company continues to consolidate the assets and liabilities of the JV.
+
+Total assets of the JV included on the consolidated balance sheet as of December 31, 2024 and 2025 were $ 32 million and $ 57 million, respectively. Total liabilities of the JV included on the consolidated balance sheets as of December 31, 2024 and 2025 were $ 8 million and $ 7 million, respectively.
+
+The JV’s assets may only be used to settle the JV’s obligations and may not be used for other consolidated entities. The JV’s liabilities are non-recourse to the general credit of the Company’s other consolidated entities.
+
+As of December 31, 2024 and 2025, the minority shareholder’s ownership in the JV is classified as redeemable non-controlling interest, because it is redeemable on an event that is not solely in the Company’s control. The redeemable non-controlling interest is not accreted to redemption value because it is currently not probable that the non-controlling interest will become redeemable. Total redeemable non-controlling interest was $ 7 million and $ 13 million as of December 31, 2024 and 2025, respectively. Net loss attributable to redeemable non-controlling interest was $ 7 million, $ 6 million and $ 3 million for the years ended December 31, 2023, 2024 and 2025, respectively.
+
+16. Derivative
+
+In connection with the acquisition of Deliveroo, the Company entered into a deal-contingent foreign exchange forward transaction with Bank of America, N.A. (the "Deal-Contingent Forward") on May 6, 2025 to manage the risk of variability in foreign exchange rates related to the GBP-denominated purchase price. The Deal-Contingent Forward had a notional amount of approximately £ 2.8 billion and was deliverable based on a variable forward rate, with settlement contingent upon the closing of the Deliveroo Transaction. Although the Deal-Contingent Forward was an effective economic hedge, it did not qualify for hedge accounting.
+
+On October 8, 2025, the Deal-Contingent Forward was settled in connection with the closing of the Deliveroo, resulting in a realized loss of $ 24 million reported in other income (expense) , net in the consolidated statements of operations.
+
+17. Segment Reporting
+
+The Company’s Chief Executive Officer is the Company’s CODM. The CODM reviews financial information presented on a consolidated basis for purposes of making operating decisions, allocating resources, and evaluating financial performance by comparing forecasted to actual monthly financial performance. As such, the Company has determined that it operates in one reportable segment. The significant segment expenses regularly provided to the CODM was as follows (in millions):
+
+*Exclusive of stock-based compensation and depreciation and amortization shown separately.
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A . Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our principal executive officer and principal financial officer (“certifying officers”), has evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of the end of the period covered by this Annual Report on Form 10-K. Based on such evaluation, our certifying officers have concluded that our disclosure controls and procedures were effective at a reasonable assurance level as of December 31, 2025.
+
+Management's Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act). Our management, under the oversight of our board of directors, evaluated the effectiveness of our internal control over financial reporting as of December 31, 2025 based on the framework in Internal Control-Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, our management concluded that our internal control over financial reporting was effective as of December 31, 2025.
+
+In accordance with guidance issued by the SEC, companies are permitted to exclude acquisitions from their final assessment of internal control over financial reporting for the first fiscal year in which the acquisition occurred. Our management's evaluation of internal control over financial reporting excluded SevenRooms and Deliveroo, which we acquired on June 13, 2025 and October 2, 2025, respectively. Total assets (excluding acquired goodwill and intangible assets) and total revenues related to SevenRooms and Deliveroo collectively represented 7% and 3% of our consolidated total assets and total revenues as of and for the year ended December 31, 2025, respectively.
+
+Our independent registered public accounting firm, KPMG LLP, who audited the Consolidated Financial Statements included in this Annual Report on Form 10-K, issued an audit report on the Company's internal control over financial reporting. That Report of Independent Registered Public Accounting Firm is included in Item 8 of this Annual Report on Form 10-K.
+
+Changes in Internal Control Over Financial Reporting
+
+We are in the process of integrating SevenRooms and Deliveroo into our overall internal control over financial reporting process. As a result of these integration activities, certain controls will be evaluated and may be changed. There were otherwise no changes in our internal control over financial reporting identified in management's evaluation pursuant to Rules 13a-15(f) and 15d-15(f) under the Exchange Act during the quarter ended December 31, 2025 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Inherent Limitations on Effectiveness of Internal Controls
+
+Our management, including our certifying officers, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud due to the inherent limitations of internal controls. Because of such limitations, there is a risk that material misstatements will not be prevented or detected on a timely basis by internal control over financial reporting.
+
+A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential
+
+future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Due to inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+
+Item 9B. Other Information
+
+Securities Trading Plans of Directors and Executive Officers
+
+On December 3, 2025 , Stanley Tang , our co-founder and a member of our board of directors , and the ST Trust under agreement dated October 2, 2019 (the "ST Trust"), a stockholder whose shares may be deemed to be beneficially owned by Stanley Tang, adopted a joint Rule 10b5-1 trading arrangement providing for the sale from time to time of (i) with respect to the ST Trust, an aggregate of up to 632,461 shares of our Class A common stock, and (ii) with respect to Stanley Tang, an aggregate of up to 15,038 shares of our Class A common stock. The trading arrangement is intended to satisfy the affirmative defense in Rule 10b5-1(c). The duration of the trading arrangement is until February 26, 2027 , or earlier if all transactions under the trading arrangement are completed.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+Part III
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+
+The information required by this item, including information about our Directors, Executive Officers and Audit Committee, Code of Conduct and insider trading arrangements and policies, is incorporated by reference to the definitive Proxy Statement for our 2026 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2025.
+
+Item 11. Executive Compensation.
+
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2026 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2025.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2026 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2025.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2026 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2025.
+
+Item 14. Principal Accountant Fees and Services.
+
+The information required by this item is incorporated by reference to the definitive Proxy Statement for our 2026 Annual Meeting of Stockholders, which will be filed with the SEC no later than 120 days after December 31, 2025.
+
+Part IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+The following documents are filed as a part of this Annual Report on Form 10-K:
+
+(a) Financial Statements
+
+Our Consolidated Financial Statements are listed in the “Index to Consolidated Financial Statements” under Part II, Item 8 of this Annual Report on Form 10-K.
+
+(b) Financial Statement Schedules
+
+All financial statement schedules are omitted because the information called for is not required or is shown either in the consolidated financial statements or in the notes thereto.
+
+(c) Exhibits
+
+The exhibits listed below are filed as part of this Annual Report on Form 10-K, or are incorporated herein by reference, in each case as indicated below.
+
+_______________
+
++ Indicates management contract or compensatory plan.
+
+* The certifications attached as Exhibit 32.1 that accompany this Annual Report on Form 10-K are deemed furnished and not filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of DoorDash, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Annual Report on Form 10-K, irrespective of any general incorporation language contained in such filing.
+
+Item 16. Form 10-K Summary
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized, in San Francisco, California, on the 18th day of February, 2026.
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Tony Xu, Ravi Inukonda, and Tia Sherringham, and each of them, as his or her true and lawful attorney-in-fact and agent with full power of substitution and resubstitution, for such individual in any and all capacities, to sign any and all amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully for all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or the individual’s substitute, may lawfully do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated.

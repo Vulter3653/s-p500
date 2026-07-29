@@ -14,7 +14,7 @@ s-p500/
 │   ├── README.md                      # 연도별 기준일과 파일 안내
 │   ├── sp500_companies.csv            # 기업 단위 분석·10-K 수집의 기준 목록
 │   ├── sp500_securities.csv           # 주식 종류를 보존한 추적·감사용 목록
-│   └── pilot_100/                      # 파일럿 표본·metadata·원문 HTML·검증
+│   └── pilot_100/                      # 표본·metadata·원문 HTML·분석용 텍스트
 ├── data/
 │   ├── raw/                           # 수집 당시 상태를 보존하는 읽기 전용 원천자료
 │   │   ├── wikipedia_sp500_2026-07-24.html
@@ -38,7 +38,10 @@ s-p500/
 │   ├── validate_annual_constituents.py    # 산출물 구조와 무결성을 읽기 전용 검증
 │   ├── build_pilot_sample.py              # 산업 비례 파일럿과 예비 순서 생성
 │   ├── apply_pilot_replacement.py         # TXT→ITW 교체 및 최종 표본 생성
-│   └── download_10k_html.py               # 지정 accession의 SEC HTML 수집
+│   ├── download_10k_html.py               # 지정 accession의 SEC HTML 수집
+│   ├── parse_sec_10k_html.py              # inline XBRL 구조와 표 분리
+│   ├── extract_10k_analysis_text.py       # 기업·문단·문장·Item 텍스트 생성
+│   └── check_extracted_text_quality.py    # 연결·오염·section 품질검사
 ├── AGENTS.md                              # 작업 시작·버전·기록·검증 의무
 ├── CHANGELOG.md                           # 최신 버전부터 역순으로 쌓는 변경 이력
 ├── VERSION                                # 현재 버전 한 줄
@@ -102,4 +105,5 @@ data/raw/*
 - `validate_annual_constituents.py`는 산출물을 변경하지 않는다.
 - `2025/pilot_100/`에는 소규모 filing metadata와 원문 HTML 100개가 있다.
   원문 수집은 `sample/final_analysis_sample_100.csv`만 입력으로 사용했다.
-  본문 추출물과 언어 분석 결과는 아직 없다.
+  `text/`에는 분석용 본문과 구조 보존·표·문단·문장·section 산출물이 있다.
+  언어 변수와 분석 결과는 아직 없다.

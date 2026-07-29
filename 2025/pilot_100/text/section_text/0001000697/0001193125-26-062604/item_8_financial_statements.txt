@@ -1,0 +1,1169 @@
+Item 8:
+
+Financial Statements and Supplementary Data
+
+Management’s Report on Internal Control Over Financial Reporting
+
+Rules 13a-15(f)
+
+15d-15(f)
+
+Under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control — Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on our evaluation under the framework in Internal Control — Integrated Framework (2013), our management, including our chief executive officer and chief financial officer, concluded that our internal control over financial reporting was effective as of December 31, 2025.
+
+The effectiveness of our internal control over financial reporting as of December 31, 2025 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report which is included herein.
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Stockholders of Waters Corporation
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+Internal Control—Integrated Framework
+
+Basis for Opinions
+
+The Company’s management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company’s internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in
+
+accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matters
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Product Revenue Recognition
+
+As described in Note 2 to the consolidated financial statements, the Company recognizes revenue upon transfer of control of promised products to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products. The Company recognizes revenue on product sales at the time control of the product transfers to the customer. Certain of the Company’s customers have terms where control of the product transfers to the customer on shipment, while others have terms where control transfers to the customer on delivery. Product sales totaled $2.0 billion for the year ended December 31, 2025.
+
+The principal consideration for our determination that performing procedures relating to product revenue recognition is a critical audit matter is a high degree of auditor effort in performing procedures related to the Company’s product revenue recognition.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to product revenue recognition. These procedures also included, among others, (i) evaluating the recognition of revenue for a sample of transactions by obtaining and inspecting source documents, such as invoices, customer purchase orders, and shipping documents, and (ii) obtaining and inspecting evidence of remittance of cash payment from customers, as applicable, related to product revenue.
+
+/s/ PricewaterhouseCoopers LLP
+
+Boston, Massachusetts
+
+We have served as the Company’s auditor since 1994.
+
+WATERS CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED BALANCE SHEETS
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+WATERS CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+WATERS CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+WATERS CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+WATERS CORPORATION AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1 Description of Business and Organization
+
+(“LC-MS”)
+
+LC-MS
+
+Acquisition of BD Biosciences & Diagnostic Solutions Businesses
+
+On February 9, 2026, the Company completed the acquisition (the “BDS Business Acquisition”) of the Biosciences & Diagnostic Solutions business (the “BDS Business”) of Becton, Dickinson and Company (“BD”). The transaction was structured as a Reverse Morris Trust transaction, where the BDS Business was spun off to BD shareholders and simultaneously merged with a wholly-owned subsidiary of the Company. The 2025 financial results of the BDS Business are not included in the Company’s 2025 consolidated financial results presented herein.
+
+2 Basis of Presentation and Summary of Significant Accounting Policies
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with generally accepted accounting principles (“GAAP”) requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities at the dates of the financial statements. On an ongoing basis, the Company evaluates its estimates, including those related to revenue recognition, goodwill and intangible assets, income taxes and inventory valuation. The Company bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual amounts may differ from these estimates under different assumptions or conditions.
+
+Risks and Uncertainties
+
+The Company is subject to risks common to companies in the analytical instrument industry, including, but not limited to, global economic and financial market conditions, fluctuations in foreign currency exchange rates, fluctuations in customer demand, development by its competitors of new technological innovations, costs of developing new technologies, levels of debt and debt service requirements, risk of disruption, dependence on key
+
+6 9
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+personnel, protection and litigation of proprietary technology, shifts in taxable income between tax jurisdictions and compliance with regulations of the U.S. Food and Drug Administration and similar foreign regulatory authorities and agencies.
+
+Principles of Consolidation
+
+The consolidated financial statements include the accounts of the Company and its subsidiaries, which are wholly owned. The Company consolidates entities in which it owns or controls 50% or more of the voting shares. All inter-company balances and transactions have been eliminated.
+
+Translation of Foreign Currencies
+
+The functional currency of each of the Company’s foreign operating subsidiaries is the local currency of its country of domicile, except for the Company’s subsidiaries in Hong Kong and Singapore, where the underlying transactional cash flows are denominated in currencies other than the respective local currency of domicile. The functional currency of the Hong Kong and Singapore subsidiaries is the U.S. dollar, based on the respective entity’s cash flows.
+
+For the Company’s foreign operations, assets and liabilities are translated into U.S. dollars at exchange rates prevailing on the balance sheet date, while revenues and expenses are translated at average exchange rates prevailing during the respective period. Any resulting translation gains or losses are included in accumulated other comprehensive loss in the consolidated balance sheets.
+
+The Company’s net sales derived from operations outside the United States were 69 %, 68 % and 69 % in 2025, 2024 and 2023, respectively. Gains and losses from foreign currency transactions are included primarily in cost of sales in the consolidated statements of operations. In 2025, 2024 and 2023, foreign currency transactions resulted in net losses of $ 28 million, $ 36 million and $ 16 million, respectively.
+
+Seasonality of Business
+
+year-end.
+
+Cash and Cash Equivalents
+
+Cash equivalents represent highly liquid investments, with original maturities of 90 days or less, primarily in bank deposits, U.S. treasury bill money market funds and commercial paper.
+
+Accounts Receivable and Allowance for Credit Losses
+
+Trade accounts receivable are recorded at the invoiced amount and do not bear interest. The Company has very limited use of rebates and other cash considerations payable to customers and, as a result, the transaction price
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+determination does not have any material variable consideration. The Company does not consider there to be significant concentrations of credit risk with respect to trade receivables due to the short-term nature of the balances, the Company having a large and diverse customer base, and the Company having a strong historical experience of collecting receivables with minimal defaults. As a result, credit risk is considered low across territories and trade receivables are considered to be a single class of financial asset. The allowance for credit losses is based on a number of factors and is calculated by applying a historical loss rate to trade receivable aging balances to estimate a general reserve balance along with an additional adjustment for any specific receivables with known or anticipated issues affecting the likelihood of recovery. Past due balances with a probability of default based on historical data as well as relevant available forward-looking information are included in the specific adjustment. The historical loss rate is reviewed on at least an annual basis and the allowance for credit losses is reviewed quarterly for any required adjustments. The Company does not have any off-balance sheet credit exposure related to its customers.
+
+risk
+
+re-possess,
+
+re-sell
+
+The following is a summary of the activity of the Company’s allowance for credit losses for the twelve months ended December 31, 2025, 2024 and 2023 (in thousands):
+
+Concentration of Credit Risk
+
+The Company sells its products and services to a significant number of large and small customers throughout the world, with net sales to the pharmaceutical industry of approximately 59 %, 58 % and 57 % in 2025, 2024 and 2023, respectively. None of the Company’s individual customers accounted for more than 2 % of annual Company sales in 2025, 2024 or 2023. The Company performs continuing credit evaluations of its customers and generally does not require collateral, but in certain circumstances may require letters of credit or deposits. Historically, the Company has not experienced significant credit losses.
+
+Inventory
+
+first-in,
+
+first-out
+
+Income Taxes
+
+As part of the process of preparing the consolidated financial statements, the Company is required to estimate its income taxes in each of the jurisdictions in which it operates. This process involves the Company estimating its income taxes, taking into account the amount, timing and character of taxable income, tax deductions and credits and assessing changes in tax laws, regulations, agreements and treaties. Differing treatment of items for tax and accounting purposes, such as depreciation, amortization and inventory reserves, result in deferred tax assets and liabilities, which are included within the consolidated balance sheets. In the event that actual results differ from
+
+7 1
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+these estimates, or the Company adjusts these estimates in future periods, such changes could materially impact the Company’s financial position and results of operations.
+
+The accounting standards for income taxes require that a company continually evaluate the necessity of establishing or changing a valuation allowance for deferred tax assets depending on whether it is more likely than not that the actual benefit of those assets will be realized in future periods.
+
+The Company accounts for its uncertain tax return positions in accordance with the accounting standards for income taxes, which require financial statement reporting of the expected future tax consequences of uncertain tax positions on the presumption that all concerned tax authorities possess full knowledge of those tax positions, as well as all of the pertinent facts and circumstances, but prohibit any discounting of unrecognized tax benefits associated with those positions for the time value of money. The Company classified interest and penalties related to unrecognized tax benefits as a component of the provision for income taxes.
+
+Leases
+
+The Company’s lease portfolio consists primarily of operating leases. The Company’s operating leases consist of property leases for sales, demonstration, laboratory, warehouse and office spaces, automotive leases for sales and service personnel and equipment leases, primarily used in our manufacturing and distribution operations. The Company categorizes leases as either operating or finance leases at the commencement date of the lease. The Company does not have any material financing leases.
+
+The Company makes variable lease payments that do not depend on a rate or index, primarily for items such as real estate taxes and other expenses. These expenses are recorded as variable costs in the period incurred. For the years ended December 31, 2025, 2024 and 2023, variable costs incurred were not material.
+
+The Company’s lease agreements may include tenant improvement allowances, rent holidays, and/or contingent rent provisions as well as a certain number of these leases contain rental escalation clauses that are either fixed or adjusted periodically for inflation of market rates which are factored into our determination of lease payments at lease inception. The Company’s leases also sometimes include renewal options and/or termination options which are included in the determination of the lease term when they are reasonably certain to be exercised.
+
+non-lease
+
+right-of-use
+
+costs incurred related to short-term leases were not material.
+
+When available, the Company uses the rate implicit in the lease to discount lease payments to determine the present value of the lease liabilities; however, most of the leases do not provide a readily determinable implicit rate and, as required by the accounting guidance, the Company estimates its incremental secured borrowing rate to discount the lease payments based on information available at lease commencement (or, for the leases in existence on the adoption date, the January 1, 2019 information). The Company’s incremental borrowing rate reflects the estimated rate of interest that the Company would pay to borrow on a collateralized basis over a similar term to the lease payments in a similar economic environment.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) Property, Plant and Equipment Property, plant and equipment are recorded at cost. Expenditures for maintenance and repairs are charged to expense, while the costs of significant improvements are capitalized. Depreciation is provided using the straight-line method over the following estimated useful lives: buildings — fifteen to thirty-nine years; building improvements — five to ten years ; leasehold improvements — the shorter of the economic useful life or life of lease; and production and other equipment — three to ten years . Upon retirement or sale, the cost of the assets disposed of and the related accumulated depreciation are eliminated from the consolidated balance sheets and related gains or losses are reflected in the consolidated statements of operations. Asset Impairments The Company reviews its long-lived assets for impairment at the asset group level in accordance with the accounting standards for property, plant and equipment. Whenever events or circumstances indicate that the carrying amount of an asset may not be recoverable, the Company evaluates the recoverability of the carrying value of the asset based on the expected future cash flows, relying on a number of factors, including, but not limited to, operating results, business plans, economic projections and anticipated future cash flows. If the asset is deemed not recoverable, it is written down to fair value and the impairment is recorded in the consolidated statements of operations. Business Combinations and Asset Acquisitions As of the acquisition date the results of the acquiree are included in the Company’s consolidated results and the purchase price is allocated to tangible and intangible assets and assumed liabilities based on their estimated fair values. Any excess of the fair value consideration transferred over the estimated fair values of the net assets acquired is recognized as goodwill. Acquired in-process research and development (“IPR&D”) included in a business combination is capitalized as an indefinite-lived intangible asset. Development costs incurred after the acquisition are expensed as incurred and acquired IPR&D is tested for impairment annually until completion of the acquired programs. Upon commercialization, this indefinite-lived intangible asset is then accounted for as a finite-lived intangible asset and amortized on a straight-line basis over its estimated useful life, subject to periodic impairment reviews. If the research and development project is abandoned, the indefinite-lived asset is charged to expense. Legal costs, due diligence costs, business valuation costs and all other business acquisition costs are expensed when incurred. The Company also acquires intellectual property through licensing arrangements. These arrangements often require upfront payments and may include additional milestone or royalty payments, contingent upon certain future events. IPR&D acquired in an asset acquisition (as opposed to a business combination) is expensed immediately unless there is an alternative future use. Subsequent payments made for the achievement of milestones are evaluated to determine whether they have an alternative future use or should be expensed. Payments made to third parties subsequent to commercialization are capitalized and amortized over the remaining useful life of the related asset, and are classified as intangible assets. Goodwill and Other Intangible Assets Goodwill and indefinite-lived intangible assets are not amortized, but are evaluated for impairment on an annual basis, or on an interim basis when events or changes in circumstances indicate that the carrying value may not be recoverable. In assessing the recoverability of goodwill and indefinite-lived intangible assets, we must make assumptions regarding the estimated future cash flows, including forecasted revenue growth and the discount rate to determine the fair value of these assets. If these estimates or their related assumptions change in the future, we may be required to record impairment charges against these assets in the reporting period in which the impairment is determined. 73
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Property, Plant and Equipment
+
+fifteen
+
+thirty-nine
+
+five
+
+three
+
+Asset Impairments
+
+The Company reviews its long-lived assets for impairment at the asset group level in accordance with the accounting standards for property, plant and equipment. Whenever events or circumstances indicate that the carrying amount of an asset may not be recoverable, the Company evaluates the recoverability of the carrying value of the asset based on the expected future cash flows, relying on a number of factors, including, but not limited to, operating results, business plans, economic projections and anticipated future cash flows. If the asset is deemed not recoverable, it is written down to fair value and the impairment is recorded in the consolidated statements of operations.
+
+Business Combinations and Asset Acquisitions
+
+Acquired in-process research
+
+The Company also acquires intellectual property through licensing arrangements. These arrangements often require upfront payments and may include additional milestone or royalty payments, contingent upon certain future events. IPR&D acquired in an asset acquisition (as opposed to a business combination) is expensed immediately unless there is an alternative future use. Subsequent payments made for the achievement of milestones are evaluated to determine whether they have an alternative future use or should be expensed. Payments made to third parties subsequent to commercialization are capitalized and amortized over the remaining useful life of the related asset, and are classified as intangible assets.
+
+Goodwill and Other Intangible Assets
+
+Goodwill and indefinite-lived intangible assets are not amortized, but are evaluated for impairment on an annual basis, or on an interim basis when events or changes in circumstances indicate that the carrying value may not be recoverable. In assessing the recoverability of goodwill and indefinite-lived intangible assets, we must make assumptions regarding the estimated future cash flows, including forecasted revenue growth and the discount rate to determine the fair value of these assets. If these estimates or their related assumptions change in the future, we may be required to record impairment charges against these assets in the reporting period in which the impairment is determined.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+We test goodwill for impairment at the reporting unit level, which is the operating segment or one level below an operating segment. We have the option of performing a qualitative assessment to determine whether further impairment testing is necessary before performing the quantitative assessment. If as a result of the qualitative assessment, it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, a quantitative impairment test will be required. Otherwise, no further testing will be required. If a quantitative impairment test is performed, we compare the fair values of the applicable reporting units with their aggregate carrying values, including goodwill. Estimating the fair value of the reporting units requires significant judgment by management. If the carrying amount of a reporting unit exceeds the fair value of the reporting unit, an impairment charge is recognized for the amount by which the carrying value amount exceeds the reporting unit’s fair value up to the total amount of goodwill allocated to the reporting unit. The Company performs an annual goodwill impairment assessment for its reporting units as of the last day of the first month of the fourth fiscal quarter each year. The Company has two reporting units: Waters and TA. Goodwill is allocated to the reporting units at the time of acquisition.
+
+more-likely-than-not
+
+one
+
+fifteen
+
+one
+
+Goodwill totaled $ 1.3 billion as of both December 31, 2025 and 2024, respectively. Net intangible assets and long-lived assets amounted to $ 558 million and $ 642 million, as of December 31, 2025, respectively, and $ 568 million and $ 651 million as of December 31, 2024, respectively.
+
+Software Development Costs
+
+three
+
+million at December 31, 2025 and 2024, respectively. Additionally, net capitalized internal software included in other assets totaled $ 37 million and $ 2 million at December 31, 2025 and 2024, respectively.
+
+Fair Value Measurements
+
+In accordance with the accounting standards for fair value measurements and disclosures, certain of the Company’s assets and liabilities are measured at fair value on a recurring basis as of December 31, 2025 and 2024. Fair values determined by Level 1 inputs utilize observable data, such as quoted prices in active markets. Fair values determined by Level 2 inputs utilize data points other than quoted prices in active markets that are observable either directly or indirectly. Fair values determined by Level 3 inputs utilize unobservable data points for which there is little or no market data, which require the reporting entity to develop its own assumptions.
+
+7 4
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The following table represents the Company’s assets and liabilities measured at fair value on a recurring basis at December 31, 2025 (in thousands): The following table represents the Company’s assets and liabilities measured at fair value on a recurring basis at December 31, 2024 (in thousands): Fair Value of 401(k) Restoration Plan Assets The 401(k) Restoration Plan is a nonqualified defined contribution plan, and the assets were held in registered mutual funds and have been classified as Level 1. The fair values of the assets in the plan are determined through market and observable sources from daily quoted prices on nationally recognized securities exchanges. 75
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The following table represents the Company’s assets and liabilities measured at fair value on a recurring basis at December 31, 2025 (in thousands):
+
+The following table represents the Company’s assets and liabilities measured at fair value on a recurring basis at December 31, 2024 (in thousands):
+
+Fair Value of 401(k) Restoration Plan Assets
+
+The 401(k) Restoration Plan is a nonqualified defined contribution plan, and the assets were held in registered mutual funds and have been classified as Level 1. The fair values of the assets in the plan are determined through market and observable sources from daily quoted prices on nationally recognized securities exchanges.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) Fair Value of Cash Equivalents, Foreign Currency Exchange Contracts, Interest Rate Cross-Currency Swap Agreements and Interest Rate Swap Cash Flow Hedges The fair values of the Company’s cash equivalents, foreign currency exchange contracts, interest rate cross-currency swap agreements and interest rate swap cash flow hedges are determined through market and observable sources and have been classified as Level 2. These assets and liabilities have been initially valued at the transaction price and subsequently valued, typically utilizing third-party pricing services. The pricing services use many inputs to determine value, including reportable trades, benchmark yields, credit spreads, broker/dealer quotes, current spot rates and other industry and economic events. The Company validates the prices provided by third-party pricing services by reviewing their pricing methods and obtaining market values from other pricing sources. Fair Value of Other Financial Instruments The Company’s accounts receivable and accounts payable are recorded at cost, which approximates fair value due to their short-term nature. The carrying value of the Company’s variable interest rate debt approximates fair value due to the variable nature of the interest rate. The carrying value of the Company’s fixed interest rate debt was $ 1.3 billion at both December 31, 2025 and 2024. The fair value of the Company’s fixed interest rate debt was estimated using discounted cash flow models, based on estimated current rates offered for similar debt under current market conditions for the Company. The fair value of the Company’s fixed interest rate debt was estimated to be $ 1.2 billion and $ 1.1 billion at December 31, 2025 and 2024, respectively, using Level 2 inputs. Derivative Transactions The Company is a global company that operates in over 35 countries and, as a result, the Company’s net sales, cost of sales, operating expenses and balance sheet amounts are significantly impacted by fluctuations in foreign currency exchange rates. The Company is exposed to currency price risk on foreign currency exchange rate fluctuations when it translates its non-U.S. dollar foreign subsidiaries’ financial statements into U.S. dollars and when any of the Company’s subsidiaries purchase or sell products or services in a currency other than its own currency.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Fair Value of Cash Equivalents, Foreign Currency Exchange Contracts, Interest Rate Cross-Currency Swap Agreements and Interest Rate Swap Cash Flow Hedges
+
+The fair values of the Company’s cash equivalents, foreign currency exchange contracts, interest rate cross-currency swap agreements and interest rate swap cash flow hedges are determined through market and observable sources and have been classified as Level 2. These assets and liabilities have been initially valued at the transaction price and subsequently valued, typically utilizing third-party pricing services. The pricing services use many inputs to determine value, including reportable trades, benchmark yields, credit spreads, broker/dealer quotes, current spot rates and other industry and economic events. The Company validates the prices provided by third-party pricing services by reviewing their pricing methods and obtaining market values from other pricing sources.
+
+Fair Value of Other Financial Instruments
+
+The Company’s accounts receivable and accounts payable are recorded at cost, which approximates fair value due to their short-term nature. The carrying value of the Company’s variable interest rate debt approximates fair value due to the variable nature of the interest rate. The carrying value of the Company’s fixed interest rate debt was $ 1.3 billion at both December 31, 2025 and 2024. The fair value of the Company’s fixed interest rate debt was estimated using discounted cash flow models, based on estimated current rates offered for similar debt under current market conditions for the Company. The fair value of the Company’s fixed interest rate debt was estimated to be $ 1.2 billion and $ 1.1 billion at December 31, 2025 and 2024, respectively, using Level 2 inputs.
+
+Derivative Transactions
+
+The Company is a global company that operates in over 35 countries and, as a result, the Company’s net sales, cost of sales, operating expenses and balance sheet amounts are significantly impacted by fluctuations in foreign
+
+non-U.S.
+
+The Company’s principal strategies in managing exposures to changes in foreign currency exchange rates are to (1) naturally hedge the foreign-currency-denominated liabilities on the Company’s balance sheet against corresponding assets of the same currency, such that any changes in liabilities due to fluctuations in foreign currency exchange rates are typically offset by corresponding changes in assets and (2) mitigate foreign exchange risk exposure of international operations by hedging the variability in the movement of foreign currency exchange rates on a portion of its euro-denominated and yen-denominated net asset investments. The Company presents the derivative transactions in financing activities in the statement of cash flows. Foreign Currency Exchange Contracts The Company does not specifically enter into any derivatives that hedge foreign-currency-denominated operating assets, liabilities or commitments on its balance sheet, other than a portion of certain third-party accounts receivable and accounts payable, and the Company’s net worldwide intercompany receivables and payables, which are eliminated in consolidation. The Company periodically aggregates its net worldwide balances by currency and then enters into foreign currency exchange contracts that mature within 90 days to hedge a portion of the remaining balance to minimize some of the Company’s currency price risk exposure. The foreign currency exchange contracts are not designated for hedge accounting treatment. Principal hedged currencies include the euro, Japanese yen, British pound, Mexican peso and Brazilian real. 76
+
+yen-denominated
+
+Foreign Currency Exchange Contracts
+
+The Company does not specifically enter into any derivatives that hedge foreign-currency-denominated operating assets, liabilities or commitments on its balance sheet, other than a portion of certain third-party accounts receivable and accounts payable, and the Company’s net worldwide intercompany receivables and payables, which are eliminated in consolidation. The Company periodically aggregates its net worldwide balances by currency and then enters into foreign currency exchange contracts that mature within 90 days to hedge a portion of the remaining balance to minimize some of the Company’s currency price risk exposure. The foreign currency exchange contracts are not designated for hedge accounting treatment. Principal hedged currencies include the euro, Japanese yen, British pound, Mexican peso and Brazilian real.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) Cash Flow Hedges The Company’s Credit Facility is a variable borrowing and has interest payments based on a contractually specified interest rate index. The contractually specified index on the Credit Facility is the 1-month, 3-month or 6-month Term SOFR. The variable rate interest payments create interest risk for the Company as interest payments will fluctuate based on changes in the contractually specified interest rate index over the life of the Credit Facility. In order to reduce interest rate risk, the Company has entered into interest rate swaps with an aggregate notional value of $ 150 million to effectively lock in the forecasted interest payments on the variable rate borrowing over its term. The interest rate swaps represent cash flow hedges and are assessed for hedge effectiveness each reporting period. When the hedge relationship is highly effective at achieving offsetting changes in cash flows, the Company will record the entire change in fair value of the interest rate swaps in accumulated other comprehensive loss. The amount in accumulated other comprehensive loss is reclassified to income in the period that the underlying transaction impacts consolidated income. If it becomes probable that the forecasted transaction will not occur, the hedge relationship will be de-designated, and amounts accumulated in other comprehensive loss will be reclassified to income in the current period. Interest settlements due to benchmark interest rate changes are recorded in interest income or interest expense. For the twelve months ended December 31, 2025, the Company did not have any cash flow hedges that were deemed ineffective. Interest Rate Cross-Currency Swap Agreements As of December 31, 2025, the Company had entered into interest rate cross-currency swap derivative agreements with durations up to three years with an aggregate notional value of $ 900 million to hedge the variability in the movement of foreign currency exchange rates on a portion of its euro-denominated and yen-denominated net asset investments. Under hedge accounting, the change in fair value of the derivative that relates to changes in the foreign currency spot rate are recorded in the currency translation adjustment in other comprehensive income and remain in accumulated other comprehensive loss in stockholders’ equity until the sale or substantial liquidation of the foreign operation. The difference between the interest rate received and paid under the interest rate cross-currency swap derivative agreement is recorded in interest income in the statement of operations. The Company’s foreign currency exchange contracts, interest rate cross-currency swap agreements and interest rate swap agreements designated as cash flow hedges included in the consolidated balance sheets are classified as follows (in thousands): 77
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Cash Flow Hedges
+
+1-month,
+
+3-month
+
+6-month
+
+de-designated,
+
+Interest Rate Cross-Currency Swap Agreements
+
+yen-denominated
+
+liquidation of the foreign operation. The difference between the interest rate received and paid under the interest rate cross-currency swap derivative agreement is recorded in interest income in the statement of operations.
+
+The Company’s foreign currency exchange contracts, interest rate cross-currency swap agreements and interest rate swap agreements designated as cash flow hedges included in the consolidated balance sheets are classified as follows (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The following is a summary of the activity included in the consolidated statements of operations and statements of comprehensive income related to the foreign currency exchange contracts, interest rate cross-currency swap agreements and interest rate swap agreements designated as cash flow hedges (in thousands):  Stockholders’ Equity In December 2024, the Company’s Board of Directors authorized the extension of the existing share repurchase program through January 21, 2028. The Company’s remaining authorization is $ 1.0 billion. During 2023, the Company repurchased 0.2 million shares of the Company’s outstanding common stock at a cost of $ 58 million, under authorized share repurchase programs. The Company did not make any open market share repurchases in 2025 and 2024. In addition, the Company repurchased $ 15 million, $ 13 million and $ 12 million of common stock related to the vesting of restricted stock units during the years ended December 31, 2025, 2024 and 2023, respectively. As of December 31, 2025, the Company has a total of $1.0 billion authorized for future repurchases. Revenue Recognition The Company recognizes revenue upon transfer of control of promised products and services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services. The Company generally enters into contracts that include a combination of products and services. Revenue is allocated to distinct performance obligations and is recognized net of allowances for returns and discounts. The Company recognizes revenue on product sales at the time control of the product transfers to the customer. Certain of the Company’s customers have terms where control of the product transfers to the customer on shipment, while others have terms where control transfers to the customer on delivery. All incremental costs of obtaining a contract are expensed as and when incurred if the expected amortization period of the asset that would have been recognized is one year or less. Shipping and handling costs are included as a component of cost of sales. In situations where the control of the goods transfers prior to the completion of the Company’s obligation to ship the products to its customers, the Company has elected the practical expedient to account for the shipping services as a fulfillment cost. Accordingly, such costs are recognized when control of the related goods is transferred to the customer. In more rare situations, the Company has revenue associated with products 78
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The following is a summary of the activity included in the consolidated statements of operations and statements of comprehensive income related to the foreign currency exchange contracts, interest rate cross-currency swap agreements and interest rate swap agreements designated as cash flow hedges (in thousands):
+
+Stockholders’ Equity
+
+million of common stock related to the vesting of restricted stock units during the years ended December 31, 2025, 2024 and 2023, respectively. As of December 31, 2025, the Company has a total of $1.0 billion authorized for future repurchases.
+
+Revenue Recognition
+
+The Company recognizes revenue upon transfer of control of promised products and services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services. The Company generally enters into contracts that include a combination of products and services. Revenue is allocated to distinct performance obligations and is recognized net of allowances for returns and discounts.
+
+The Company recognizes revenue on product sales at the time control of the product transfers to the customer. Certain of the Company’s customers have terms where control of the product transfers to the customer on shipment, while others have terms where control transfers to the customer on delivery. All incremental costs of obtaining a contract are expensed as and when incurred if the expected amortization period of the asset that would have been recognized is one year or less. Shipping and handling costs are included as a component of cost of sales. In situations where the control of the goods transfers prior to the completion of the Company’s obligation to ship the products to its customers, the Company has elected the practical expedient to account for the shipping services as a fulfillment cost. Accordingly, such costs are recognized when control of the related goods is transferred to the customer. In more rare situations, the Company has revenue associated with products
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) that contain specific customer acceptance criteria and the related revenue is not recognized before the customer acceptance criteria are satisfied. The Company elected to exclude from the measurement of the transaction price all taxes assessed by a governmental authority that are both imposed on and concurrent with specific revenue-producing transactions and collected by the Company from a customer. Generally, the Company’s contracts for products include a performance obligation related to installation. The Company has determined that the installation represents a distinct performance obligation and revenue is recognized separately upon the completion of installation. The Company determines the amount of the transaction price to allocate to the installation service based on the standalone selling price of the product and the service, which requires judgment. The Company determines the relative standalone selling price of installation based upon a number of factors, including hourly service billing rates and estimated installation hours. In developing these estimates, the Company considers past history, competition, billing rates of current services and other factors. The Company has sales from standalone software, which are included in product revenue. These arrangements typically include software licenses and maintenance contracts, both of which the Company has determined are distinct performance obligations. The Company determines the amount of the transaction price to allocate to the license and maintenance contract based on the relative standalone selling price of each performance obligation. Software license revenue is recognized at the point in time when control has been transferred to the customer. The revenue allocated to the software maintenance contract is recognized on a straight-line basis over the maintenance period, which is the contractual term of the contract, as a time-based measure of progress best reflects the Company’s performance in satisfying this obligation. Unspecified rights to software upgrades are typically sold as part of the maintenance contract on a when-and-if-available basis. Payment terms and conditions vary among the Company’s revenue streams, although terms generally include a requirement of payment within 30 to 60 days of product shipment. Prior to providing payment terms to customers, an evaluation of their credit risk is performed. Returns and customer credits are infrequent and insignificant and are recorded as a reduction to sales. Rights of return are not included in sales arrangements and, therefore, there is minimal variable consideration included in the transaction price of our products. Service revenue includes (1) service and software maintenance contracts and (2) service calls (time and materials). Instrument service contracts and software maintenance contracts are typically annual contracts, which are billed at the beginning of the contract or maintenance period. The amount of the service and software maintenance contract is recognized on a straight-line basis to revenue over the maintenance service period, which is the contractual term of the contract, as a time-based measure of progress best reflects the Company’s performance in satisfying this obligation. There are no deferred costs associated with the service contract, as the cost of the service is recorded when the service is performed. Service calls are recognized to revenue at the time a service is performed. Product Warranty Costs The Company accrues estimated product warranty costs at the time of sale, which are included in cost of sales in the consolidated statements of operations. While the Company engages in extensive product quality programs and processes, including actively monitoring and evaluating the quality of its component suppliers, the Company’s warranty obligation is affected by product failure rates, material usage and service delivery costs incurred in correcting a product failure. The amount of the accrued warranty liability is based on historical information, such as past experience, product failure rates, number of units repaired and estimated costs of material and labor. The liability is reviewed for reasonableness at least quarterly. The following is a summary of the activity of the Company’s accrued warranty liability for the twelve months ended December 31, 2025, 2024 and 2023 (in thousands): 79
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+that contain specific customer acceptance criteria and the related revenue is not recognized before the customer acceptance criteria are satisfied. The Company elected to exclude from the measurement of the transaction price all taxes assessed by a governmental authority that are both imposed on and concurrent with specific revenue-producing transactions and collected by the Company from a customer.
+
+Generally, the Company’s contracts for products include a performance obligation related to installation. The Company has determined that the installation represents a distinct performance obligation and revenue is recognized separately upon the completion of installation. The Company determines the amount of the transaction price to allocate to the installation service based on the standalone selling price of the product and the service, which requires judgment. The Company determines the relative standalone selling price of installation based upon a number of factors, including hourly service billing rates and estimated installation hours. In developing these estimates, the Company considers past history, competition, billing rates of current services and other factors.
+
+when-and-if-available
+
+Payment terms and conditions vary among the Company’s revenue streams, although terms generally include a requirement of payment within 30 to 60 days of product shipment. Prior to providing payment terms to customers, an evaluation of their credit risk is performed. Returns and customer credits are infrequent and insignificant and are recorded as a reduction to sales. Rights of return are not included in sales arrangements and, therefore, there is minimal variable consideration included in the transaction price of our products.
+
+Service revenue includes (1) service and software maintenance contracts and (2) service calls (time and materials). Instrument service contracts and software maintenance contracts are typically annual contracts, which are billed at the beginning of the contract or maintenance period. The amount of the service and software maintenance contract is recognized on a straight-line basis to revenue over the maintenance service period, which is the contractual term of the contract, as a time-based measure of progress best reflects the Company’s performance in satisfying this obligation. There are no deferred costs associated with the service contract, as the cost of the service is recorded when the service is performed. Service calls are recognized to revenue at the time a service is performed.
+
+Product Warranty Costs
+
+The Company accrues estimated product warranty costs at the time of sale, which are included in cost of sales in the consolidated statements of operations. While the Company engages in extensive product quality programs and processes, including actively monitoring and evaluating the quality of its component suppliers, the Company’s warranty obligation is affected by product failure rates, material usage and service delivery costs incurred in correcting a product failure. The amount of the accrued warranty liability is based on historical information, such as past experience, product failure rates, number of units repaired and estimated costs of material and labor. The liability is reviewed for reasonableness at least quarterly.
+
+The following is a summary of the activity of the Company’s accrued warranty liability for the twelve months ended December 31, 2025, 2024 and 2023 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) Research and Development Expenses Research and development expenses are comprised of costs incurred in performing research and development activities, including salaries and benefits, facilities costs, overhead costs, contract services and other outside costs. Research and development expenses are expensed as incurred. Stock-Based Compensation The Company has two stock-based compensation plans, which are described in Note 13, “Stock-Based Compensation”. Earnings Per Share In accordance with the earnings per share accounting standards, the Company presents two earnings per share (“EPS”) amounts. Income per basic common share is based on income available to common shareholders and the weighted-average number of common shares outstanding during the periods presented. Income per diluted common share includes additional dilution from potential common stock, such as stock issuable pursuant to the exercise of stock options outstanding. Retirement Plans The Company sponsors various retirement plans, which are described in Note 16, “Retirement Plans”.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Research and Development Expenses
+
+Research and development expenses are comprised of costs incurred in performing research and development activities, including salaries and benefits, facilities costs, overhead costs, contract services and other outside costs. Research and development expenses are expensed as incurred.
+
+Stock-Based Compensation
+
+The Company has two stock-based compensation plans, which are described in Note 13, “Stock-Based Compensation”.
+
+Earnings Per Share
+
+In accordance with the earnings per share accounting standards, the Company presents two earnings per share (“EPS”) amounts. Income per basic common share is based on income available to common shareholders and the weighted-average number of common shares outstanding during the periods presented. Income per diluted common share includes additional dilution from potential common stock, such as stock issuable pursuant to the exercise of stock options outstanding.
+
+Retirement Plans
+
+The Company sponsors various retirement plans, which are described in Note 16, “Retirement Plans”.
+
+Comprehensive Income The Company accounts for comprehensive income in accordance with the accounting standards for comprehensive income, which establish the accounting rules for reporting and displaying comprehensive income. These standards require that all components of comprehensive income be reported in a financial statement that is displayed with the same prominence as other financial statements. Restructuring In March 2024, the Company implemented a reduction in workforce that impacted approximately 2 % of the Company’s employees, primarily in China, where there had been a significant decline in sales as a result of lower customer demand. As a result, the Company incurred approximately $ 9 million of severance-related costs. During 2024, the Company paid $ 15 million of severance-related costs in connection with the workforce reduction that occurred in March 2024 and July 2023. The accrued restructuring activity and payments were immaterial during the year ended December 31, 2025. Recently Adopted Accounting Standards In November 2023 , accounting guidance was issued that requires additional disclosures of reportable segment information. The guidance requires that public entities disclose, on an annual and interim basis (1) significant 80
+
+Comprehensive Income
+
+The Company accounts for comprehensive income in accordance with the accounting standards for comprehensive income, which establish the accounting rules for reporting and displaying comprehensive income. These standards require that all components of comprehensive income be reported in a financial statement that is displayed with the same prominence as other financial statements.
+
+Restructuring
+
+The accrued restructuring activity and payments were immaterial during the year ended December 31, 2025.
+
+Recently Adopted Accounting Standards
+
+In
+
+November 2023
+
+(1) significant
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) segment expenses that are regularly provided to the chief operating decision maker (“CODM”) and included within each reported measure of segment profit or loss, (2) an amount for other segment items by reportable segment and a description of its composition (the other segment items category is the difference between segment revenue less the segment expenses disclosed under the significant expense principle and each reported measure of segment profit or loss), (3) provide all annual disclosures about a reportable segment’s profit or loss and assets currently required by Topic 280 in interim periods, (4) clarify that if the CODM uses more than one measure of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources, a public entity may report one or more of those additional measures of segment profit. However, at least one of the reported segment profit or loss measures (or the single reported measure, if only one is disclosed) should be the measure that is most consistent with the measurement principles used in measuring the corresponding amounts in the public entity’s consolidated financial statements, (5) the title and position of the CODM and an explanation of how the CODM uses the reported measure(s) of segment profit or loss in assessing segment performance and deciding how to allocate resources, and (6) if a public entity has a single reportable segment to provide all the disclosures required by the amendments in this update and all existing segment disclosures in Topic 280. The amendments in this update do not change how operating segments are identified or aggregated nor how the quantitative thresholds are applied to determine its reportable segments. The amendments in this update are effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. The amendments in this update should be applied retrospectively to all prior periods presented in the financial statements. Upon transition, the segment expense categories and amounts disclosed in the prior periods should be based on the significant segment expense categories identified and disclosed in the period of adoption. The Company adopted this accounting standard update for the year ended December 31, 2024. In December 2023, accounting guidance was issued to enhance the transparency and decision usefulness of income tax disclosures. The amendments in this update change disclosure requirements related to the rate reconciliation, income taxes paid and other disclosures. For the rate reconciliation the amendments require that public business entities on an annual basis (1) disclose specific categories in the rate reconciliation and (2) provide additional information for reconciling items that meet a quantitative threshold. For income taxes paid the amendments require that all entities disclose on an annual basis the following information; (1) the amount of income taxes paid (net of refunds received) disaggregated by federal (national), state, and foreign taxes, (2) the amount of income taxes paid (net of refunds received) disaggregated by individual jurisdictions in which income taxes paid (net of refunds received) is equal to or greater than 5 percent of total income taxes paid (net of refunds received). Finally, for other disclosures the amendments require that all entities disclose the following information: (1) income (or loss) from continuing operations before income tax expense (or benefit) disaggregated between domestic and foreign, and (2) income tax expense (or benefit) from continuing operations disaggregated by federal (national), state, and foreign. This update also eliminates the requirement for all entities to (1) disclose the nature and estimate of the range of the reasonably possible change in the unrecognized tax benefits balance in the next 12 months or (2) make a statement that an estimate of the range cannot be made. As well as removing the requirement to disclose the cumulative amount of each type of temporary difference when a deferred tax liability is not recognized because of the exceptions to comprehensive recognition of deferred taxes related to subsidiaries and corporate joint ventures. The amendments in this update are effective for annual periods beginning after December 15, 2024. Early adoption is permitted for annual financial statements that have not yet been issued or made available for issuance. The amendments in this update should be applied on a prospective basis and retrospective application is permitted. The Company has adopted this accounting standard update on a prospective basis and included the disclosures in Note 9 “Income Taxes”. Recently Issued Accounting Standards In November 2024, accounting guidance was issued to improve disclosures of expenses and address requests from investors for more detailed information about the types of expenses (including purchases of inventory, 81
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+segment expenses that are regularly provided to the chief operating decision maker (“CODM”) and included within each reported measure of segment profit or loss,
+
+an amount for other segment items by reportable segment and a description of its composition (the other segment items category is the difference between segment revenue less the segment expenses disclosed under the significant expense principle and each reported measure of segment profit or loss),
+
+provide all annual disclosures about a reportable segment’s profit or loss and assets currently required by Topic
+
+in interim periods,
+
+clarify that if the CODM uses more than
+
+measure of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources, a public entity may report
+
+or more of those additional measures of segment profit. However, at least
+
+of the reported segment profit or loss measures (or the single reported measure, if only
+
+is disclosed) should be the measure that is most consistent with the measurement principles used in measuring the corresponding amounts in the public entity’s consolidated financial statements,
+
+the title and position of the CODM and an explanation of how the CODM uses the reported measure(s) of segment
+
+profit or loss in assessing segment performance and deciding how
+
+The Company adopted this accounting standard update for the year ended December 31, 2024.
+
+Early adoption is permitted for annual financial statements that have not yet been issued or made available for issuance. The amendments in this update should be applied on a prospective basis and retrospective application is permitted. The Company has adopted this accounting standard update on a prospective basis and included the disclosures in Note
+
+Recently Issued Accounting Standards
+
+In November 2024, accounting guidance was issued to improve disclosures of expenses and address requests from investors for more detailed information about the types of expenses (including purchases of inventory,
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) employee compensation, depreciation, amortization, and deplet ion) in commonly presented expense captions (such as cost of sales, SG&A, and research and development). This incremental information will allow investors to better understand the components of an entity’s expenses, make their own judgements about the entity’s performance, and more accurately forecast expenses which will allow investors to better assess an entity’s prospects for future cash flows. The amendments in this update require disclosure, in the notes to the financial statements, of specified information about certain costs and expenses. The amendments require that at each interim and annual reporting period an entity (1) disclose the amounts of (a) purchases of inventory, (b) employee compensation, (c) depreciation, (d) intangible asset amortization included in each relevant expense caption. A relevant expense caption is an expense caption presented on the face of the income statement within continuing operations that contains any of the expense categories listed in (a)–(d), (2) include certain amounts that are already required to be disclosed under current generally accepted accounting principles (GAAP) in the same disclosure as the other disaggregation requirements, (3) disclose a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively, (4) disclose the total amount of selling expenses and, in annual reporting periods, an entity’s definition of selling expenses. The amendments in this update are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027. Early adoption is permitted. The amendments in this update should be applied either (1) prospectively to financial statements issued for reporting periods after the effective date of this update or (2) retrospectively to any or all prior periods presented in the financial statements. The Company does not believe this accounting standard update will have a material impact on the Company’s financial position, results of operations and cash flows. The Company is currently evaluating the impact the adoption of this accounting standard update will have on our footnote disclosures. In September 2025, accounting guidance was issued to amend the existing guidance for accounting for software costs to reflect current software development practices, including iterative and agile methodologies, by removing references to development stages. Under the new standard, entities will begin to capitalize eligible software costs when (i) management has authorized and committed to funding the software project, and (ii) it is probable that the project will be completed and the software will be used to perform the function intended. The amendments in this standard are effective for annual reporting periods beginning after December 15, 2027, including interim periods within those annual reporting periods. Early adoption is permitted. The amendments may be applied either prospectively, retrospectively, or utilizing a modified transition approach. The Company is currently evaluating the impact the adoption of this accounting standard update will have on our consolidated financial statements and footnote disclosures. In November 2025, accounting guidance was issued, which includes amendments to more closely align hedge accounting with the economics of an entity’s risk management activities. The amendment enables entities to apply hedge accounting to a greater number of highly effective economic hedges in the following five areas: (1) similar risk assessment for cash flow hedges, (2) hedging forecasted interest payments on choose-your-rate debt instruments, (3) cash flow hedges of nonfinancial forecasted transactions, (4) net written options as hedging instruments, and (5) foreign-currency-denominated debt instrument as hedging instrument and hedged item (dual hedge). The amendments are effective for annual reporting periods beginning after December 15, 2027, including interim periods within those annual reporting periods. Early adoption is permitted. The Company is currently evaluating the impact the adoption of this accounting standard update will have on our consolidated financial statements and footnote disclosures. 3 Revenue Recognition The Company’s deferred revenue liabilities in the consolidated balance sheets consist of the obligation on instrument service contracts and customer payments received in advance, prior to transfer of control of the instrument. The Company records deferred revenue primarily related to its service contracts, where consideration is billable at the beginning of the service period. 82
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+ion)
+
+In September 2025, accounting guidance was issued to amend the existing guidance for accounting for software costs to reflect current software development practices, including iterative and agile methodologies, by removing references to development stages. Under the new standard, entities will begin to capitalize eligible software costs when (i) management has authorized and committed to funding the software project, and (ii) it is probable that the project will be completed and the software will be used to perform the function intended. The amendments in this standard are effective for annual reporting periods beginning after December 15, 2027, including interim periods within those annual reporting periods. Early adoption is permitted. The amendments may be applied either prospectively, retrospectively, or utilizing a modified transition approach. The Company is currently evaluating the impact the adoption of this accounting standard update will have on our consolidated financial statements and footnote disclosures.
+
+In November 2025, accounting guidance was issued, which includes amendments to more closely align hedge accounting with the economics of an entity’s risk management activities. The amendment enables entities to apply hedge accounting to a greater number of highly effective economic hedges in the following five areas: (1) similar risk assessment for cash flow hedges, (2) hedging forecasted interest payments on choose-your-rate debt instruments, (3) cash flow hedges of nonfinancial forecasted transactions, (4) net written options as hedging instruments, and (5) foreign-currency-denominated debt instrument as hedging instrument and hedged item (dual hedge). The amendments are effective for annual reporting periods beginning after December 15, 2027, including interim periods within those annual reporting periods. Early adoption is permitted. The Company is currently evaluating the impact the adoption of this accounting standard update will have on our consolidated financial statements and footnote disclosures.
+
+3 Revenue Recognition
+
+The Company’s deferred revenue liabilities in the consolidated balance sheets consist of the obligation on instrument service contracts and customer payments received in advance, prior to transfer of control of the instrument. The Company records deferred revenue primarily related to its service contracts, where consideration is billable at the beginning of the service period.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The following is a summary of the activity of the Company’s deferred revenue and customer advances for the twelve months ended December 31, 2025, 2024 and 2023 (in thousands):
+
+The Company classified $
+
+million and $
+
+million of deferred revenue and customer advances in other long-term liabilities at December 31, 2025 and 2024, respectively.
+
+The amount of unfulfilled performance obligations as of December 31, 2025, and the time such amounts are expected to be recognized in the future, is as follows (in thousands):
+
+4 Inventories
+
+Inventories are classified as follows (in thousands):
+
+During 2025, 2024 and 2023, the Company recorded inventory-related excess and obsolescence provisions of $ 6 million, $ 14 million and $ 11 million, respectively.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+5 Property, Plant and Equipment
+
+Property, plant and equipment consist of the following (in thousands):
+
+During 2025, 2024 and 2023, the Company retired and disposed of approximately $ 15 million, $ 108 million and $ 48 million of property, plant and equipment, respectively, most of which was fully depreciated and no longer in use. Gains or losses on disposals were immaterial for the years ended December 31, 2025, 2024 and 2023.
+
+6 Acquisitions
+
+million, net of cash acquired. There is no contingent consideration related to this acquisition.
+
+The Company allocated $
+
+million of the purchase price to goodwill, which is not deductible for tax purposes and has been allocated to the Waters operating segment. The principal factor that resulted in recognition of goodwill in the acquisition was that the purchase price was based, in part, on cash flow projections assuming the integration of any acquired technology, distribution channels and products with the Company’s products, which are higher than if the acquired companies’ technology, customer access or products were utilized on a stand-alone basis.
+
+8 4
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The assets and liabilities acquired were valued with input from valuation s pec ialists. The Company used various income-approach valuation techniques, which use Level 3 inputs, in determining the fair value of the assets and liabilities acquired. The following table presents the fair values as of the acquisition date of all of the assets and liabilities owned and recorded in connection with the acquisition of Halo Labs assumed on the closing date of May 20, 2025 (in thousands): The amounts of revenue and earnings of Halo Labs since the acquisition date included in the consolidated statements of operations for the year ended December 31, 2025 were immaterial. The pro forma effect on the ongoing operations of the Company as though this acquisition had occurred on January 1, 2024 was immaterial to the consolidated financial statements. On May 16, 2023, the Company acquired all of the issued and outstanding equity interests of Wyatt for $ 1.3 billion, net of cash acquired. Wyatt is a pioneer in innovative light scattering and field-flow fractionation instruments, software, accessories and services. The acquisition has expanded Waters’ portfolio and increased our exposure to large molecule applications. Unaudited Pro Forma Financial Information The following unaudited pro forma information is presented for illustrative purposes only. It is not necessarily indicative of the actual results of operations that actually would have been realized had the entities been a single company as of January 1, 2022 or the future operating results of the combined entity. The unaudited pro forma information does not give effect to the potential impact of current financial conditions, regulatory matters or any anticipated synergies that may be associated with the acquisition. The unaudited pro forma information also does not include any integration costs that the Company may incur related to the acquisition as part of combining the operations of the companies. The following unaudited pro forma information shows the results of the Company’s operations for the twelve months ended December 31, 2023, as if the Wyatt acquisition had occurred on January 1, 2022 (in thousands): 85
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+pec
+
+The following table presents the fair values as of the acquisition date of all of the assets and liabilities owned and recorded in connection with the acquisition of Halo Labs assumed on the closing date of May 20, 2025 (in thousands):
+
+The amounts of revenue and earnings of Halo Labs since the acquisition date included in the consolidated statements of operations for the year ended December 31, 2025 were immaterial. The pro forma effect on the ongoing operations of the Company as though this acquisition had occurred on January 1, 2024 was immaterial to the consolidated financial statements.
+
+On May 16, 2023, the Company acquired all of the issued and outstanding equity interests of Wyatt for $ 1.3 billion, net of cash acquired. Wyatt is a pioneer in innovative light scattering and field-flow fractionation instruments, software, accessories and services. The acquisition has expanded Waters’ portfolio and increased our exposure to large molecule applications.
+
+Unaudited Pro Forma Financial Information
+
+The following unaudited pro forma information is presented for illustrative purposes only. It is not necessarily indicative of the actual results of operations that actually would have been realized had the entities been a single company as of January 1, 2022 or the future operating results of the combined entity. The unaudited pro forma information does not give effect to the potential impact of current financial conditions, regulatory matters or any anticipated synergies that may be associated with the acquisition. The unaudited pro forma information also does not include any integration costs that the Company may incur related to the acquisition as part of combining the operations of the companies.
+
+The following unaudited pro forma information shows the results of the Company’s operations for the twelve months ended December 31, 2023, as if the Wyatt acquisition had occurred on January 1, 2022 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) To reflect the acquisition of Wyatt as if it had occurred on January 1, 2022, the unaudited pro forma information includes adjustments to reflect, among other things, the incremental intangible asset amortization to be incurred based on the values of each identifiable intangible asset of Wyatt and the interest expense from debt financings obtained to partially fund the cash consideration transferred. Pro forma adjustments were tax effected at the Company’s historical statutory rates in effect for the respective periods. Pro forma net income for the twelve months ended December 31, 2023, was adjusted to exclude certain non-recurring expenses related to transaction costs incurred and the fair value adjustment of inventory. These non-recurring expenses were reclassified to the prior period and included in the pro forma net income for the twelve months ended December 31, 2023. In conjunction with the Wyatt acquisition, the Company entered into retention agreements with certain employees, in which the Company agreed to pay a total of $ 40 million, in two equal installments upon the first and second anniversary of the acquisition date. As these employees are earning their individual cash award by providing service over the two-year period that benefits the Company, the $ 40 million will be recognized within total costs and operating expenses in the consolidated statements of operations over the two-year service period. The Company has recorded $ 4 million, $ 18 million and $ 19 million of expense in the consolidated statement of operations for the twelve months ended December 31, 2025, 2024 and 2023, respectively. 7 Goodwill and Other Intangibles The carrying amount of goodwill was $ 1.3 billion at both December 31, 2025 and 2024. The Company’s intangible assets included in the consolidated balance sheets are detailed as follows (dollars in thousands): The Company capitalized $ 83 million, $ 40 million and $ 468 million of intangible assets for the years ended December 31, 2025, 2024 and 2023, respectively. The gross carrying value of intangible assets and accumulated amortization for intangible assets increased by $ 89 million and $ 65 million, respectively, in the year ended December 31, 2025 due to the effects of foreign currency translation. Amortization expense for intangible assets was $ 118 million, $ 105 million and $ 81 million for the years ended December 31, 2025, 2024 and 2023, respectively. Amortization expense for intangible assets is estimated to be $ 121 million per year for each of the next five years. 8 Debt The Company has a credit agreement with an aggregate borrowing capacity of $ 1.8 billion. As of December 31, 2025, the Company had a total of $ 1.4 billion in outstanding debt, which consisted of $ 1.3 billion in outstanding 86
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+To reflect the acquisition of Wyatt as if it had occurred on January 1, 2022, the unaudited pro forma information includes adjustments to reflect, among other things, the incremental intangible asset amortization to be incurred based on the values of each identifiable intangible asset of Wyatt and the interest expense from debt financings obtained to partially fund the cash consideration transferred. Pro forma adjustments were tax effected at the Company’s historical statutory rates in effect for the respective periods.
+
+Pro forma net income for the twelve months ended December 31, 2023, was adjusted to exclude certain non-recurring expenses related to transaction costs incurred and the fair value adjustment of inventory. These non-recurring expenses were reclassified to the prior period and included in the pro forma net income for the twelve months ended December 31, 2023.
+
+In conjunction with the Wyatt acquisition, the Company entered into retention agreements with certain employees, in which the Company agreed to pay a total of $ 40 million, in two equal installments upon the first and second anniversary of the acquisition date. As these employees are earning their individual cash award by providing service over the two-year period that benefits the Company, the $ 40 million will be recognized within total costs and operating expenses in the consolidated statements of operations over the two-year service period. The Company has recorded $ 4
+
+million of expense in the consolidated statement of operations for the twelve months ended December 31, 2025, 2024 and 2023, respectively.
+
+7 Goodwill and Other Intangibles
+
+The carrying amount of goodwill was $
+
+billion at both December 31, 2025 and 2024.
+
+The Company’s intangible assets included in the consolidated balance sheets are detailed as follows (dollars in thousands):
+
+The Company capitalized $ 83 million, $ 40 million and $ 468 million of intangible assets for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Amortization
+
+8 Debt
+
+The Company has a credit agreement with an aggregate borrowing capacity of $ 1.8 billion. As of December 31, 2025, the Company had a total of $ 1.4 billion in outstanding debt, which consisted of $ 1.3 billion in outstanding
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) senior unsecured notes and $ 0.1 billion borrowed under its credit agreement. The Company’s net debt borrowings as of December 31, 2025 were $ 220 million lower than as of December 31, 2024, while the net borrowings as of December 31, 2024 were $ 730 million lower than as of December 31, 2023. These changes in outstanding debt balances over these periods is attributable to the funding of the 2023 Wyatt acquisition and the subsequent debt repayments in 2024 and 2025. On May 22, 2025, the Company and certain of its subsidiaries, as guarantors, entered into an Amendment and Restatement Agreement (the “Amendment”) in respect of that certain Amended and Restated Credit Agreement, dated as of September 17, 2021 and amended as of March 3, 2023 (the “Existing Credit Agreement”, and as amended by the Amendment, the “Amended Credit Agreement”), with the lenders and issuing banks party thereto, and JPMorgan Chase Bank, N.A., as administrative agent, pursuant to which the Company, among other things, reduced the aggregate total borrowing capacity of its existing senior unsecured revolving credit facility (the “Credit Facility”) by up to $ 200 million for an aggregate principal amount of up to $ 1.8 billion. As of December 31, 2025 and December 31, 2024, the Credit Facility had a total of $ 0.1 billion and $ 0.4 billion outstanding, respectively. The Credit Facility will mature on May 22, 2030 subject to the Company’s ability to request, subject to customary conditions, a one-year extension to which each lender may, in its discretion, agree. The Company may, subject to customary conditions, also request additional incremental revolving or term loan commitments from the lenders in an aggregate principal amount not to exceed $ 750 million to which each lender may, in its discretion, agree, provided that the aggregate amount of all commitments, including any such incremental commitments, under the Amended Credit Agreement does not exceed $ 2.55 billion at any time. Up to $ 50 million of the Credit Facility is available in the form of letters of credit.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+senior unsecured notes and $ 0.1 billion borrowed under its credit agreement. The Company’s net debt borrowings as of December 31, 2025 were $ 220 million lower than as of December 31, 2024, while the net borrowings as of December 31, 2024 were $ 730 million lower than as of December 31, 2023. These changes in outstanding debt balances over these periods is attributable to the funding of the 2023 Wyatt acquisition and the subsequent debt repayments in 2024 and 2025.
+
+On May 22, 2025, the Company and certain of its subsidiaries, as guarantors, entered into an Amendment and Restatement Agreement (the “Amendment”) in respect of that certain Amended and Restated Credit Agreement, dated as of September 17, 2021 and amended as of March 3, 2023 (the “Existing Credit Agreement”, and as amended by the Amendment, the “Amended Credit Agreement”), with the lenders and issuing banks party thereto, and JPMorgan Chase Bank, N.A., as administrative agent, pursuant to which the Company, among other things, reduced the aggregate total borrowing capacity of its existing senior unsecured revolving credit facility (the “Credit Facility”) by up to $ 200 million for an aggregate principal amount of up to $ 1.8 billion. As of December 31, 2025 and December 31, 2024, the Credit Facility had a total of $ 0.1 billion and $ 0.4 billion outstanding, respectively.
+
+one-year
+
+in its discretion,
+
+agree, provided that the aggregate amount of all commitments, including any such incremental commitments, under the Amended Credit Agreement does not exceed $ 2.55 billion at any time. Up to $ 50 million of the Credit Facility is available in the form of letters of credit.
+
+Interest on borrowings under the Credit Facility will accrue at an applicable rate equal to either Term SOFR plus an applicable spread or an alternate base rate plus an applicable spread, in each case based on the lower of the applicable rates determined as set forth in the Amended Credit Agreement based on the Company’s leverage ratio (determined as of the end of the most recent fiscal quarter for which financial statements have been delivered pursuant to the Amended Credit Agreement) or, when established, the Company’s public debt ratings by certain credit rating agencies applicable on such date. These applicable spreads range from 80 basis points to 112.5 basis points over Term SOFR and 0 basis points to 12.5 basis points over the alternate base rate, in each case, as determined in accordance with the provisions of the Amended Credit Agreement. The Company has agreed to pay a facility fee at specified rates as set forth in the Amended Credit Agreement based on either its leverage ratio (determined as of the end of the most recent fiscal quarter for which financial statements have been delivered pursuant to the Amended Credit Agreement) or the Company’s public debt ratings applicable on such date, as applicable, ranging from 7.5 basis points to 22.5 basis points per annum, on the aggregate commitments of the lenders. The facility fee is payable on a quarterly basis. The Company has the right to prepay borrowings under the Credit Facility at any time, in whole or in part and without premium or penalty (other than, if applicable, any breakage costs). The Company may also reduce its commitments under the Credit Facility at any time. The Company may use borrowings under the Credit Facility, which may be in United States dollars or the euro equivalent thereof, for general corporate purposes including repayment of debt, financing of acquisitions, payment of related fees and expenses, equity repurchases and working capital. Certain of the Company’s subsidiaries guarantee its obligations under the Amended Credit Agreement. Those guarantees will automatically terminate, and those subsidiaries will be automatically released from those guarantees, if those subsidiaries cease to guarantee the Company’s senior unsecured notes and do not guarantee any other senior debt of the Company. The Amended Credit Agreement contains affirmative and negative covenants, including limitations on subsidiary debt, liens, sale and leaseback transactions, mergers and certain restrictive agreements, as well as a financial covenant to not permit a leverage ratio as of the end of any fiscal quarter to exceed 3.50 to 1.00 (which 87
+
+time.
+
+The Company may use borrowings under the Credit Facility, which may be in United States dollars or the euro equivalent thereof, for general corporate purposes including repayment of debt, financing of acquisitions,
+
+payment of related fees and expenses, equity repurchases and working capital. Certain of the Company’s subsidiaries guarantee its obligations under the Amended Credit Agreement. Those guarantees will automatically terminate, and those subsidiaries will be automatically released from those guarantees, if those subsidiaries cease to guarantee the Company’s senior unsecured notes and do not guarantee any other senior debt of the Company.
+
+The Amended Credit Agreement contains affirmative and negative covenants, including limitations on subsidiary debt, liens, sale and leaseback transactions, mergers and certain restrictive agreements, as well as a financial covenant to not permit a leverage ratio as of the end of any fiscal quarter to exceed 3.50 to 1.00 (which
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) may be increased to 4.25 to 1.00 at the Company’s election as of the last day of the fiscal quarter during which the Company’s closing of a material acquisition for which the aggregate consideration involves cash in the amount of $ 500 million or more) and a financial covenant to not permit an interest coverage ratio as of the end of any fiscal quarter for the period of four consecutive fiscal quarters then ended to be less than 3.50 to 1.00 . The Credit Facility contains certain representations, warranties and events of default (which are, in some cases, subject to certain exceptions, thresholds and grace periods) including, but not limited to, non-payment of principal and interest, failure to perform or observe covenants, breaches of representations and warranties and certain bankruptcy-related events. As of both December 31, 2025 and 2024, the Company had a total of $ 1.3 billion of outstanding senior unsecured notes. Interest on the fixed rate senior unsecured notes is payable semi-annually each year. The Company may prepay all or some of the senior unsecured notes at any time in an amount not less than 10 % of the aggregate principal amount outstanding. In the event of a change in control of the Company (as defined in the note purchase agreement), the Company may be required to prepay the senior unsecured notes at a price equal to 100% of the principal amount thereof, plus accrued and unpaid interest. These senior unsecured notes require that the Company comply with an interest coverage ratio test of not less than 3.50:1 for any period of four consecutive fiscal quarters and a leverage ratio test of not more than 3.50:1 as of the end of any fiscal quarter. In addition, these senior unsecured notes include customary negative covenants, affirmative covenants, representations and warranties and events of default. Concurrently with the execution of the merger agreement related to the BDS Business Acquisition (the “Merger Agreement”), the Company and a financial institution executed a 364-day bridge facility commitment letter, pursuant to which such financial institution committed to provide bridge financing of $ 1.8 billion to fund dividends, fees and expenses related to the transactions contemplated by the Merger Agreement, on the terms and conditions set forth therein. As of December 31, 2025, no amounts related to the bridge facility have been drawn. The Company incurred $ 5 million of financing costs that are being amortized over the term of the bridge facility. In addition, in connection with the Merger, the Company incurred $ 16 million of financing costs on behalf of SpinCo. These financing costs were expensed in the year ended December 31, 2025. The Company had the following outstanding debt at December 31, 2025 and 2024 (in thousands): 88
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+non-payment
+
+As of both December 31, 2025 and 2024, the Company had a total of $ 1.3 billion of outstanding senior unsecured notes. Interest on the fixed rate senior unsecured notes is payable semi-annually each year. The Company may prepay all or some of the senior unsecured notes at any time in an amount not less than 10 % of the aggregate principal amount outstanding. In the event of a change in control of the Company (as defined in the note purchase agreement), the Company may be required to prepay the senior unsecured notes at a price equal to 100% of the principal amount thereof, plus accrued and unpaid interest. These senior unsecured notes require that the Company comply with an interest coverage ratio test of not less than 3.50:1 for any period of four consecutive fiscal quarters and a leverage ratio test of not more than 3.50:1 as of the end of any fiscal quarter. In addition, these senior unsecured notes include customary negative covenants, affirmative covenants, representations and warranties and events of default.
+
+Concurrently with the execution of the merger agreement related to the BDS Business Acquisition (the “Merger Agreement”), the Company and a financial institution executed a 364-day bridge facility commitment letter, pursuant to which such financial institution committed to provide bridge financing of
+
+$
+
+billion to fund dividends, fees and expenses related to the transactions contemplated by the Merger Agreement, on the terms and conditions set forth therein. As of December 31, 2025,
+
+amounts related to the bridge facility have been drawn. The Company incurred
+
+$
+
+million of financing costs that are being amortized over the term of the bridge facility. In addition, in connection with the Merger, the Company incurred
+
+million of financing costs on behalf of SpinCo. These financing costs were expensed in the year ended December 31, 2025.
+
+The Company had the following outstanding debt at December 31, 2025 and 2024 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) As of December 31, 2025 and 2024, the Company had a total amount available to borrow under the Credit Facility of $ 1.6 billion and $ 1.6 billion, respectively, after outstanding letters of credit. The weighted-average interest rates applicable to the senior unsecured notes and credit agreement borrowings collectively were 3.35 % and 3.72 % at December 31, 2025 and 2024, respectively. As of December 31, 2025, the Company was in compliance with all debt covenants. The Company and its foreign subsidiaries also had available short-term lines of credit totaling $ 110 million and $ 111 million at December 31, 2025 and December 31, 2024, respectively, for the purpose of short-term borrowing and issuance of commercial guarantees. None of the Company’s foreign subsidiaries had outstanding short-term borrowings as of December 31, 2025 or December 31, 2024.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+As of December 31, 2025 and 2024, the Company had a total amount available to borrow under the Credit Facility of $ 1.6 billion and $ 1.6 billion, respectively, after outstanding letters of credit. The weighted-average interest rates applicable to the senior unsecured notes and credit agreement borrowings collectively were 3.35 % and 3.72 % at December 31, 2025 and 2024, respectively. As of December 31, 2025, the Company was in compliance with all debt covenants.
+
+The Company and its foreign subsidiaries also had available short-term lines of credit totaling $ 110 million and $ 111 million at December 31, 2025 and December 31, 2024, respectively, for the purpose of short-term borrowing and issuance of commercial guarantees. None of the Company’s foreign subsidiaries had outstanding short-term borrowings as of December 31, 2025 or December 31, 2024.
+
+Annual maturities of debt outstanding at December 31, 2025 are as follows (in thousands):
+
+million tranche which will mature and be payable in full on the second anniversary of the Funding Date (“Tranche B”), and such funds were used by SpinCo on the Funding Date to finance the SpinCo Cash Distribution. Upon consummation of the BDS Business Acquisition, all of this indebtedness was assumed by the Company. The Company plans to refinance the $ 3.5 billion tranche in the first quarter of 2026 with long-term bond financing. There can be no assurance that the Company will be able to do so on commercially reasonable terms or at all. If the Company is unable to obtain financing on commercially reasonable terms, the Company may be required to reduce or delay investments, strategic acquisitions and capital expenditures, seek additional capital to refinance its indebtedness or use existing borrowing capacity under its existing revolving credit facility. The Company plans to repay the $ 500 million tranche at or prior to maturity.
+
+9 Income Taxes
+
+Income tax data for the years ended December 31, 2025, 2024 and 2023 is as follows (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)  A reconciliation of the federal statutory income tax rate to the Company’s effective income tax rate for the year ended December 31, 2025 was as follows: 90
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+A reconciliation of the federal statutory income tax rate to the Company’s effective income tax rate for the year ended December 31, 2025 was as follows:
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The differences between income taxes computed at the United States statutory rate and the provision for income taxes are summarized as follows for the years ended December 31, 2024 and December 31, 2023 (in thousands):
+
+The Company’s effective tax rate was
+
+%,
+
+% and
+
+% for the years ended December 31, 2025, 2024 and 2023
+
+, respectively.
+
+The decrease in the Company’s effective tax in 2025 can primarily be attributed to the jurisdictional mix of earnings.
+
+The Company’s effective income tax rate differs from the U.S. federal statutory rate each year due to differences in the proportionate amounts of pre-tax income recognized in jurisdictions with different effective tax rates and the items discussed below. The four principal jurisdictions in which the Company manufactures are the U.S., Ireland, the U.K. and Singapore, where the statutory tax rates were 21 %, 12.5 %, 25 % and 17 %, respectively, as of December 31, 2025. The Company has a Development and Expansion Incentive in Singapore that provides a concessionary income tax rate of 5 % on certain types of income for the period April 1, 2021 through March 31, 2026. The effect of applying these concessionary income tax rates rather than the statutory tax rate to income arising from qualifying activities in Singapore increased the Company’s net income by $ 4 million, $ 14 million and $ 16 million and increased the Company’s net income per diluted share by $ 0.06 , $ 0.24 and $ 0.27 for the years ended December 31, 2025, 2024 and 2023, respectively. The Singapore 2025 benefit of $ 4 million and $ 0.06 per diluted share is reduced by $ 14 million and $ 0.24 per diluted share due to the global minimum tax under Pillar Two, respectively. During 2025, the Company’s effective tax rate differed from the 21 % U.S. statutory tax rate primarily due to the jurisdictional mix of earnings , a discrete benefit of $ 14 million related to the enactment of OBBBA , a $ 3 million provision related to the GILTI tax, including the impact of capitalizing research and development expenditures pursuant to IRC Section 174, and a tax benefit of $ 3 million on stock-based compensation. During 2024, the Company’s effective tax rate differed from the 21 % U.S. statutory tax rate primarily due to the jurisdictional mix of earnings, a $ 5 million provision related to the GILTI tax, including the impact of capitalizing research and development expenditures pursuant to IRC Section 174, and a tax benefit of $ 3 million on stock-based compensation. 91
+
+The Company’s effective income tax rate differs from the U.S. federal statutory rate each year due to differences in the proportionate amounts of
+
+pre-tax
+
+income recognized in jurisdictions with different effective tax rates and the items discussed below.
+
+The four principal jurisdictions in which the Company manufactures are the U.S., Ireland, the U.K. and Singapore, where the statutory tax rates were 21 %, 12.5 %, 25 % and 17 %, respectively, as of December 31, 2025. The Company has a Development and Expansion Incentive in Singapore that provides a concessionary income tax rate of 5 % on certain types of income for the period April 1, 2021 through March 31, 2026. The effect of applying these concessionary income tax rates rather than the statutory tax rate to income arising from qualifying activities in Singapore increased the Company’s net income by
+
+respectively. The Singapore 2025 benefit of $ 4 million and $ 0.06 per diluted share is reduced by $ 14 million and $ 0.24 per diluted share due to the global minimum tax under Pillar Two, respectively.
+
+During
+
+, a discrete benefit of $ 14 million related to the enactment of OBBBA
+
+During 2024, the Company’s effective tax rate differed from
+
+the
+
+% U.S. statutory tax rate primarily due to the jurisdictional
+
+mix of earnings, a $ 5 million provision related to the GILTI tax, including the impact of capitalizing research and development expenditures pursuant to IRC Section 174, and a tax benefit of $ 3 million on stock-based compensation.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The 2023 effective tax rate differed from the 21 % U.S. statutory tax rate primarily due to the jurisdictional mix of earnings, a n $ 18 million recognition of a previously unrecognized tax benefit as a result of the completion of a tax examination, a $ 15 million provision related to the GILTI tax, including the impact of capitalizing research and development expenditures pursuant to IRC Section 174 and a tax benefit of $ 3 million on stock-based compensation. The tax effects of temporary differences and carryforwards which give rise to deferred tax assets and deferred tax liabilities are summarized as follows (in thousands): The Company has gross foreign net operating losses of $ 595 million, of which $ 200 million do not expire under current laws and $ 395 million start expiring in 2026. As of December 31, 2025, the Company has provided a deferred tax valuation allowance of $ 140 million, of which $ 134 million relates to certain foreign net operating losses. The Company’s net deferred tax assets associated with net operating losses and tax credit carryforwards are approximately $ 12 million as of December 31, 2025, which represent the future tax benefit of foreign net operating loss carryforwards and tax credit carryforwards. The Company accounts for its uncertain tax return positions in accordance with the accounting standards for income taxes, which require financial statement reporting of the expected future tax consequences of uncertain tax reporting positions on the presumption that all concerned tax authorities possess full knowledge of those tax reporting positions, as well as all of the pertinent facts and circumstances, but prohibit any discounting of unrecognized tax benefits associated with those reporting positions for the time value of money. The Company continues to classify interest and penalties related to unrecognized tax benefits as a component of the provision for income taxes. 9 2
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The 2023 effective tax rate differed from the 21 % U.S. statutory tax rate primarily due to the jurisdictional mix of earnings,
+
+n
+
+on stock-based compensation.
+
+The tax effects of temporary differences and carryforwards which give rise to deferred tax assets and deferred tax liabilities are summarized as follows (in thousands):
+
+and
+
+million as of December 31, 2025, which represent the future tax benefit of foreign net operating loss carryforwards and tax credit carryforwards.
+
+The Company accounts for its uncertain tax return positions in accordance with the accounting standards for income taxes, which require financial statement reporting of the expected future tax consequences of uncertain tax reporting positions on the presumption that all concerned tax authorities possess full knowledge of those tax reporting positions, as well as all of the pertinent facts and circumstances, but prohibit any discounting of unrecognized tax benefits associated with those reporting positions for the time value of money. The Company continues to classify interest and penalties related to unrecognized tax benefits as a component of the provision for income taxes.
+
+9 2
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The following is a summary of the activity of the Company’s gross unrecognized tax benefits, excluding interest and penalties, for the year ended December 31, 2025, 2024 and 2023 (in thousands):
+
+As of 2025, the total amount of gross unrecognized tax benefits was $ 15 million, all of which, if recognized, would impact the Company’s effective tax rate. The Company is subject to various foreign audits and inquiries, and we currently do not expect any material adjustments.
+
+With limited exceptions, the Company is no longer subject to tax audit examinations in significant jurisdictions for the years ended on or before December 31, 2020. The Company continuously monitors the lapsing of statutes of limitations on potential tax assessments for related changes in the measurement of unrecognized tax benefits, related net interest and penalties and deferred tax assets and liabilities.
+
+10 Litigation
+
+provisions
+
+litigation provisions were recorded and no litigation payments were made by the Company during the year ended December 31, 2025.
+
+11 Leases
+
+remaining
+
+As of December 31, 2025 and 2024, the weighted-average discount rates used to determine the present value of lease liabilities were
+
+% and
+
+%, respectively. During the years ended December 31, 2025, 2024 and
+
+2023,
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) cash paid for amounts included in the measurement of lease liabilities in operating activities in the statement of cash flows was $ 41 million, $ 39 million and $ 38 million, respectively. The Company recorded a $ 19 million and a $ 2 million increase in right-of-use assets in exchange for new operating lease liabilities during the years ended December 31, 2025 and 2023, respectively. The Company recorded a $ 3 million decrease in right-of-use assets in exchange for new operating lease liabilities during the year ended December 31, 2024. The Company’s right-of-use lease assets and lease liabilities included in the consolidated balance sheets are classified as follows (in thousands): Undiscounted future minimum rents payable as of December 31, 2025 under non-cancelable leases with initial terms exceeding one year reconcile to lease liabilities included in the consolidated balance sheet as follows (in thousands): 12 Other Commitments and Contingencies The Company licenses certain technology and software from third parties in the ordinary course of business. The Company reviews its third party license and software arrangements in accordance with the accounting standards for internal-use software and hosting arrangements, including identifying service contracts and capitalizing certain implementation costs. Future minimum fees payable under existing technology and software license agreements as of December 31, 2025 are $74 million for the years ended December 31, 2025 and thereafter. The software license agreements are long-term contracts and are not cancellable by the Company until the expiration of their initial term. The amounts owed under these contracts are included in both other assets and other 94
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+paid for amounts included in the measurement of
+
+lease liabilities in operating activities in the statement of cash flows was $
+
+million, $
+
+million and $
+
+million, respectively.
+
+The Company recorded a $ 19
+
+million and a
+
+$
+
+million increase in right-of-use assets in exchange for new operating lease liabilities during the years ended December 31, 2025 and 2023, respectively. The Company recorded a
+
+$
+
+million decrease in right-of-use assets in exchange for new operating lease liabilities during the year ended December 31, 2024.
+
+The Company’s
+
+right-of-use
+
+lease assets and lease liabilities included in the consolidated balance sheets are classified as follows (in thousands):
+
+non-cancelable
+
+12 Other Commitments and Contingencies
+
+of their initial term. The amounts owed under these contracts are included in both other assets and other
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) long-term liabilities on the Company’s consolidated balance sheet as of December 31, 2025. In December 2024, the Company’s Board of Directors approved the implementation of a new worldwide enterprise resource planning system (“ERP”). The Company anticipates spending approximately $ 130 million on the ERP implementation, of which $ 52 million has been spent through the end of 2025. The Company expects to use existing cash and its credit facility to fund the ERP implementation. For the twelve months ended December 31, 2025, the Company has incurred $ 32 million of capitalized costs included in other assets and $ 20 million of operating costs included in the consolidated statement of operations for the ERP system implementation. The Company enters into standard indemnification agreements in its ordinary course of business. Pursuant to these agreements, the Company indemnifies, holds harmless and agrees to reimburse the indemnified party for losses suffered or incurred by the indemnified party, generally the Company’s business partners or customers, in connection with patent, copyright or other intellectual property infringement claims by any third party with respect to its current products, as well as claims relating to property damage or personal injury resulting from the performance of services by the Company or its subcontractors. The maximum potential amount of future payments the Company could be required to make under these indemnification agreements is unlimited. Historically, the Company’s costs to defend lawsuits or settle claims relating to such indemnity agreements have been minimal and management accordingly believes the estimated fair value of these agreements is immaterial. The Merger Agreement contains specified termination rights that requires the Company to pay BD a termination fee of $ 733 million if the Merger Agreement is terminated under certain circumstances. As the BDS Business Acquisition closed on February 9, 2026, no termination fee is payable.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+long-term liabilities on the Company’s consolidated balance sheet as of December 31, 2025. In December 2024, the Company’s Board of Directors approved the implementation of a new worldwide enterprise resource planning system (“ERP”). The Company anticipates spending approximately $ 130 million on the ERP implementation, of which $ 52 million has been spent through the end of 2025. The Company expects to use existing cash and its credit facility to fund the ERP implementation. For the twelve months ended December 31, 2025, the Company has incurred $ 32 million of capitalized costs included in other assets and $ 20 million of operating costs included in the consolidated statement of operations for the ERP system implementation.
+
+The Company enters into standard indemnification agreements in its ordinary course of business. Pursuant to these agreements, the Company indemnifies, holds harmless and agrees to reimburse the indemnified party for losses suffered or incurred by the indemnified party, generally the Company’s business partners or customers, in connection with patent, copyright or other intellectual property infringement claims by any third party with respect to its current products, as well as claims relating to property damage or personal injury resulting from the performance of services by the Company or its subcontractors. The maximum potential amount of future payments the Company could be required to make under these indemnification agreements is unlimited. Historically, the Company’s costs to defend lawsuits or settle claims relating to such indemnity agreements have been minimal and management accordingly believes the estimated fair value of these agreements is immaterial.
+
+The Merger Agreement contains specified termination rights that requires the Company to pay BD a termination fee of
+
+million if the Merger Agreement is terminated under certain circumstances. As the BDS Business Acquisition closed on February 9, 2026,
+
+termination fee is payable.
+
+13 Stock-Based Compensation
+
+In
+
+May 2020, the Company’s shareholders approved the Company’s 2020 Equity Incentive Plan (“2020 Plan”). As of December 31, 2025, the 2020 Plan has
+
+million shares available for grant in the form of incentive or
+
+non-qualified
+
+stock options, stock appreciation rights (“SARs”), restricted stock or other types of awards (e.g. restricted stock units and performance stock units). The Company issues new shares of common stock upon exercise of stock options, restricted stock unit conversion or performance stock unit conversion. Under the 2020 Plan, the exercise price for stock options may not be less than the fair market value of the underlying stock at the date of grant. The 2020 Plan is scheduled to terminate on May 13, 2030. Options generally will expire no later than
+
+after the date on which they are granted and will become exercisable as directed by the Compensation Committee of the Board of Directors and generally vest in equal annual installments over a
+
+period. A SAR may be granted alone or in conjunction with an option or other award. Shares of restricted stock, restricted stock units and performance stock units may be issued under the 2020 Plan for such consideration as is determined by the Compensation Committee of the Board of Directors. As of December 31, 2025, the Company had stock options, restricted stock and restricted and performance stock unit awards outstanding.
+
+May 2009, the Company’s shareholders approved the 2009 Employee Stock Purchase Plan, under which eligible employees may contribute up to
+
+% of their earnings toward the quarterly purchase of the Company’s common stock. The plan makes available
+
+million shares of the Company’s common stock, and as of December 31, 2025,
+
+million shares have been issued under the plan. Each plan period lasts
+
+beginning on January
+
+, April 1, July 1 and October 1 of each year.
+
+Stock-based compensation expense related to this plan was $
+
+million for each of the years ended December 31, 2025, 2024 and 2023.
+
+The Company accounts for stock-based compensation costs in accordance with the accounting standards for stock-based compensation, which require that all share-based payments to employees be recognized in the
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) statements of operations, based on their grant date fair values. The Company recognizes the expense using the straight-line attribution method. The stock-based compensation expense recognized in the consolidated statements of operations is based on awards that ultimately are expected to vest; therefore, the amount of expense has been reduced for estimated forfeitures. Forfeitures are estimated based on historical experience. If actual results differ significantly from these estimates, stock-based compensation expense and the Company’s results of operations could be materially impacted. In addition, if the Company employs different assumptions in the application of these standards, the compensation expense that the Company records in the future periods may differ significantly from what the Company has recorded in the current period. The consolidated statements of operations for the years ended December 31, 2025, 2024 and 2023 include the following stock-based compensation expense related to stock option awards, restricted stock awards, restricted stock unit awards, performance stock unit awards and the employee stock purchase plan (in thousands): Stock Options In determining the fair value of the stock options, the Company makes a variety of assumptions and estimates, including volatility measures, expected yields and expected stock option lives. The fair value of each option grant was estimated on the date of grant using the Black-Scholes option pricing model. The Company uses implied volatility on its publicly traded options as the basis for its estimate of expected volatility. The Company believes that implied volatility is the most appropriate indicator of expected volatility because it is generally reflective of historical volatility and expectations of how future volatility will differ from historical volatility. The expected life assumption for grants is based on historical experience for the population of non-qualified stock option exercises. The risk-free interest rate is the yield currently available on U.S. Treasury zero-coupon issues with a remaining term approximating the expected term used as the input to the Black-Scholes model. The relevant data used to determine the value of the stock options granted during the twelve months ended December 31, 2025, 2024 and 2023 are as follows:  96
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+statements of operations, based on their grant date fair values. The Company recognizes the expense using the straight-line attribution method. The stock-based compensation expense recognized in the consolidated statements of operations is based on awards that ultimately are expected to vest; therefore, the amount of expense has been reduced for estimated forfeitures. Forfeitures are estimated based on historical experience. If actual results differ significantly from these estimates, stock-based compensation expense and the Company’s results of operations could be materially impacted. In addition, if the Company employs different assumptions in the application of these standards, the compensation expense that the Company records in the future periods may differ significantly from what the Company has recorded in the current period.
+
+The consolidated statements of operations for the years ended December 31, 2025, 2024 and 2023 include the following stock-based compensation expense related to stock option awards, restricted stock awards, restricted stock unit awards, performance stock unit awards and the employee stock purchase plan (in thousands):
+
+Stock Options
+
+non-qualified
+
+zero-coupon
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The following table summarizes stock option activity for the plans for the twelve months ended December 31, 2025 (in thousands, except per share data): The following table details the options outstanding at December 31, 2025 by range of exercise prices (in thousands, except per share data): During 2025, 2024 and 2023, the total intrinsic value of the stock options exercised (i.e., the difference between the market price at exercise and the price paid by the employee to exercise the options) was $ 9 million, $ 14 million and $ 11 million, respectively. The total cash received from the exercise of these stock options was $ 10 million, $ 21 million and $ 18 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The following table summarizes stock option activity for the plans for the twelve months ended December 31, 2025 (in thousands, except per share data):
+
+The following table details the options outstanding at December 31, 2025 by range of exercise prices (in thousands, except per share data):
+
+During 2025, 2024 and 2023, the total intrinsic value of the stock options exercised (i.e., the difference between the market price at exercise and the price paid by the employee to exercise the options) was $ 9 million, $ 14 million and $ 11 million, respectively. The total cash received from the exercise of these stock options was $ 10 million, $ 21 million and $ 18 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+T he aggregate intrinsic value of the outstanding stock options at December 31, 2025 was $ 48 million. There were 0.3 million options exercisable at December 31, 2025, 2024 and 2023. The weighted-average exercise prices of options exercisable at December 31, 2025, 2024 and 2023 were $ 271.74 , $ 251.63 and $ 223.37 , respectively. The weighted-average remaining contractual life of the exercisable outstanding stock options at December 31, 2025 was 5.2 years. The aggregate intrinsic value of stock options exercisable as of December 31, 2025 was $ 35 million. At December 31, 2025, the Company had 0.6 million stock options that are vested and expected to vest. The intrinsic value, weighted-average exercise price and remaining contractual life of the vested and expected to vest stock options were $ 47 million, $ 302.88 and 6.3 years, respectively, at December 31, 2025. The amount of compensation costs recognized for the years ended December 31, 2025, 2024 and 2023 on the stock options expected to vest were $ 13 million, $ 11 million and $ 10 million, respectively. As of December 31, 2025, there were $ 24 million of total unrecognized compensation costs related to unvested stock option awards that are expected to vest. These costs are expected to be recognized over a weighted-average period of 3 years. Restricted Stock During the each of the years ended December 31, 2025, 2024 and 2023, the Company granted three thousand shares of restricted stock. The weighted-average fair value per share on the grant date of the restricted stock granted in 2025, 2024 and 2023 was $ 368.26 , $ 329.00 and $ 341.04 , respectively. The Company has recorded $ 1 million of compensation expense in each of the years ended December 31, 2025, 2024 and 2023 related to the 97
+
+T
+
+prices of options exercisable at December 31, 2025, 2024 and 2023 were $
+
+, $
+
+and $
+
+, respectively. The weighted-average remaining contractual life of the exercisable outstanding stock options at December 31, 2025 was
+
+years. The aggregate intrinsic value of stock options exercisable as of December 31, 2025 was $
+
+million.
+
+At December 31, 2025, the Company had 0.6 million stock options that are vested and expected to vest. The intrinsic value, weighted-average exercise price and remaining contractual life of the vested and expected to vest stock options were $ 47 million, $ 302.88 and 6.3 years, respectively, at December 31, 2025.
+
+The amount of compensation costs recognized for the years ended December 31, 2025, 2024 and 2023 on the stock options expected to vest were $ 13 million, $ 11 million and $ 10 million, respectively. As of December 31, 2025, there were $ 24 million of total unrecognized compensation costs related to unvested stock option awards that are expected to vest. These costs are expected to be recognized over a weighted-average period of 3 years.
+
+Restricted Stock
+
+$
+
+million of compensation expense in each of the years ended December 31, 2025, 2024
+
+and 2023 related to the
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) restricted stock grants. As of December 31, 2025, the Company had three thousand unvested shares of restricted stock outstanding, which have been fully expensed. Restricted Stock Units The following table summarizes the unvested restricted stock unit award activity for the twelve months ended December 31, 2025 (in thousands, except per share data): Restricted stock units are generally granted annually in February and vest in equal annual installments over a five-year period. The amount of compensation costs recognized for the years ended December 31, 2025, 2024 and 2023 on the restricted stock units expected to vest were $ 27 million, $ 22 million and $ 19 million, respectively. As of December 31, 2025, there were $ 66 million of total unrecognized compensation costs related to the restricted stock unit awards that are expected to vest. These costs are expected to be recognized over a weighted-average period of 3.3 years. Performance Stock Units The Company’s performance stock units are equity compensation awards with a market vesting condition based on the Company’s Total Shareholder Return (“TSR”) relative to the TSR of the components of the S&P Health Care Index. TSR is the change in value of a stock price over time, including the reinvestment of dividends. The vesting schedule ranges from 0 % to 200 % of the target shares awarded. Beginning with the grants made in 2020, the vesting conditions for performance stock units now include a performance condition based on future sales growth. In determining the fair value of the performance stock units, the Company makes a variety of assumptions and estimates, including volatility measures, expected yields and expected terms. The fair value of each performance stock unit grant was estimated on the date of grant using the Monte Carlo simulation model. The Company uses implied volatility on its publicly traded options as the basis for its estimate of expected volatility. The Company believes that implied volatility is the most appropriate indicator of expected volatility because it is generally reflective of historical volatility and expectations of how future volatility will differ from historical volatility. The expected life assumption for grants is based on the performance period of the underlying performance stock units. The risk-free interest rate is the yield currently available on U.S. Treasury zero-coupon issues with a remaining term approximating the expected term used as the input to the Monte Carlo simulation model. The correlation coefficient is used to model the way in which each company in the S&P Health Care Index tends to move in relation to each other during the performance period. The relevant data used to determine the value of the performance stock units granted during the years ended December 31, 2025, 2024 and 2023 are as follows: 98
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+restricted stock
+
+grants. As of December 31, 2025, the Company had
+
+thousand unvested shares of restricted stock outstanding, which have been fully expensed.
+
+Restricted Stock Units
+
+The following table summarizes the unvested restricted stock unit award activity for the twelve months ended December 31, 2025 (in thousands, except per share data):
+
+Restricted stock units are generally granted annually in February and vest in equal annual installments over a five-year period. The amount of compensation costs recognized for the years ended December 31, 2025, 2024 and 2023 on the restricted stock units expected to vest were $ 27 million, $ 22 million and $ 19 million, respectively. As of December 31, 2025, there were $ 66 million of total unrecognized compensation costs related to the restricted stock unit awards that are expected to vest. These costs are expected to be recognized over a weighted-average period of 3.3 years.
+
+Performance Stock Units
+
+growth.
+
+In
+
+zero-coupon
+
+Index tends to move in relation to each other during the performance period.
+
+The relevant data used to determine the value of the performance stock units granted during the years ended December 31, 2025, 2024 and 2023 are as follows:
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+in
+
+The amount of compensation costs recognized for the years ended December 31, 2025, 2024 and 2023 on the performance stock units expected to vest were $ 13 million, $ 9 million and $ 5 million, respectively. As of December 31, 2025, there were $ 20 million of total unrecognized compensation costs related to the performance stock unit awards that are expected to vest. These costs are expected to be recognized over a weighted-average period of 1.9 years.
+
+14 Earnings Per Share
+
+Basic and diluted EPS calculations are detailed as follows (in thousands, except per share data):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) For the years ended December 31, 2025, 2024 and 2023, the Company had 79 thousand, 79 thousand and 245 thousand stock options that were antidilutive, respectively, due to having higher exercise prices than the Company’s average stock price during the period. These securities were not included in the computation of diluted EPS. The effect of dilutive securities was calculated using the treasury stock method. 15 Accumulated Other Comprehensive Loss The components of accumulated other comprehensive loss are detailed as follows (in thousands): 16 Retirement Plans U.S. employees are eligible to participate in the Waters Employee Investment Plan, a 401(k) defined contribution plan, immediately upon hire. Employees may contribute up to 60 % of eligible pay on a pre-tax or post-tax basis and the Company makes matching contributions of 100 % for contributions up to 6 % of eligible pay. The Company also sponsors a 401(k) Restoration Plan, which is a nonqualified defined contribution plan. Employees are 100 % vested in employee and Company matching contributions for both plans. For the years ended December 31, 2025, 2024 and 2023, the Company’s matching contributions amounted to $ 22 million, $ 20 million and $ 22 million, respectively. The Company also sponsors other employee benefit plans in the U.S., including a retiree healthcare plan, which provides reimbursement for medical expenses and is contributory. There are various employee benefit plans outside the United States (both defined benefit and defined contribution plans). Certain non-U.S. defined benefit plans (“Non-U.S. Pension Plans”) are included in the disclosures below, which are required under the accounting standards for retirement benefits. The Company contributed $ 20 million, $ 18 million and $ 18 million in the years ended December 31, 2025, 2024 and 2023, respectively, to the non-U.S. plans (primarily defined contribution plans) which are currently outside of the scope of the required disclosures. The eligibility and vesting of non-U.S. plans are consistent with local laws and regulations. The net periodic pension cost is made up of several components that reflect different aspects of the Company’s financial arrangements as well as the cost of benefits earned by employees. These components are determined using the projected unit credit actuarial cost method and are based on certain actuarial assumptions. The Company’s accounting policy is to reflect in the projected benefit obligation all benefit changes to which the Company is committed as of the current valuation date; use a market-related value of assets to determine pension expense; amortize increases in prior service costs on a straight-line basis over the expected future service of active participants as of the date such costs are first recognized; and amortize cumulative actuarial gains and losses in excess of 10% of the larger of the market-related value of plan assets and the projected benefit obligation over the expected future service of active participants. 100
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+For the years ended December 31, 2025, 2024 and 2023, the Company had 79 thousand, 79 thousand and 245 thousand stock options that were antidilutive, respectively, due to having higher exercise prices than the Company’s average stock price during the period. These securities were not included in the computation of diluted EPS. The effect of dilutive securities was calculated using the treasury stock method.
+
+15 Accumulated Other Comprehensive Loss
+
+The components of accumulated other comprehensive loss are detailed as follows (in thousands):
+
+16 Retirement Plans
+
+pre-tax
+
+post-tax
+
+non-U.S.
+
+(“Non-U.S.
+
+non-U.S.
+
+non-U.S. plans
+
+The net periodic pension cost is made up of several components that reflect different aspects of the Company’s financial arrangements as well as the cost of benefits earned by employees. These components are determined using the projected unit credit actuarial cost method and are based on certain actuarial assumptions. The Company’s accounting policy is to reflect in the projected benefit obligation all benefit changes to which the Company is committed as of the current valuation date; use a market-related value of assets to determine pension expense; amortize increases in prior service costs on a straight-line basis over the expected future service of active participants as of the date such costs are first recognized; and
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) Summary data for the U.S. Retiree Healthcare Plan and Non-U.S. Pension Plans are presented in the following tables, using the measurement dates of December 31, 2025 and 2024, respectively. The reconciliation of the projected benefit obligations for the plans at December 31, 2025 and 2024 is as follows (in thousands): The reconciliation of the fair value of the plan assets at December 31, 2025 and 2024 is as follows (in thousands): The summary of the funded status for the plans at December 31, 2025 and 2024 is as follows (in thousands): The change in the Company’s projected benefit obligation for the year ended December 31, 2025 was primarily due to net actuarial gains that arose during the year driven by an increase in discount rates, differences 101
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Non-U.S. Pension
+
+The reconciliation of the projected benefit obligations for the plans at December 31, 2025 and 2024 is as follows (in thousands):
+
+The reconciliation of the fair value of the plan assets at December 31, 2025 and 2024 is as follows (in thousands):
+
+The
+
+summary of the funded status for the plans at December 31, 2025 and 2024 is as follows (in thousands):
+
+The change in the Company’s projected benefit obligation for the year ended December 31, 2025 was primarily due to net actuarial gains that arose during the year driven by an increase in discount rates, differences
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) between expected and actual return on plan assets, and fluctuations in foreign currency exchange rates during the year. The change in the Company’s projected benefit obligation for the year ended December 31, 2024 was primarily due to net actuarial gains that arose during the year driven by an increase in discount rates, differences between expected and actual return on plan assets, and fluctuations in foreign currency exchange rates during the year. The summary of the amounts recognized in the consolidated balance sheets for the plans at December 31, 2025 and 2024 is as follows (in thousands): The accumulated benefit obligation for all defined benefit pension plans was $ 80 million and $ 74 million at December 31, 2025 and 2024, respectively. The summary of the Non-U.S. Pension Plans that have accumulated benefit obligations in excess of plan assets at December 31, 2025 and 2024 is as follows (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+between expected and actual return on plan assets, and fluctuations in foreign currency exchange rates during the year. The change in the Company’s projected benefit obligation for the year ended December 31, 2024 was primarily due to net actuarial gains that arose during the year driven by an increase in discount rates, differences between expected and actual return on plan assets, and fluctuations in foreign currency exchange rates during the year.
+
+The summary of the amounts recognized in the consolidated balance sheets for the plans at December 31, 2025 and 2024 is as follows (in thousands):
+
+The accumulated benefit obligation for all defined benefit pension plans was $ 80 million and $ 74 million at December 31, 2025 and 2024, respectively.
+
+Non-U.S.
+
+The summary of the Non-U.S. Pension Plans that have projected benefit obligations in excess of plan assets at December 31, 2025 and 2024 is as follows (in thousands): The summary of the components of net periodic pension costs for the plans for the years ended December 31, 2025, 2024 and 2023 is as follows (in thousands): 102
+
+Non-U.S.
+
+The summary of the components of net periodic pension costs for the plans for the years ended December 31, 2025, 2024 and 2023 is as follows (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The summary of the changes in amounts recognized in other comprehensive income (loss) for the plans for the years ended December 31, 2025 , 2024 and 2023 is as follows (in thousands): The components of net periodic benefit cost other than the service cost component are included in other income, net in the consolidated statements of operations. T he summary of the amounts included in accumulated other comprehensive loss in stockholders’ equity for the plans at December 31, 2025 and 2024 is as follows (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The components of net periodic benefit cost other than the service cost component are included in other income, net in the consolidated statements of operations.
+
+T
+
+he
+
+The plans’ investment asset mix is as follows at December 31, 2025 and 2024 : 103
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The plans’ investment policies include the following asset allocation guidelines: The asset allocation policy for the U.S. Retiree Healthcare Plan was developed in consideration of the following long-term investment objectives: achieving a return on assets consistent with the investment policy, achieving portfolio returns which compare favorably with those of other similar plans, professionally managed portfolios and of appropriate market indexes and maintaining sufficient liquidity to meet the obligations of the plan. Within the equity portfolio of the U.S. Retiree Healthcare Plan, investments are diversified among market capitalization and investment strategy, and targets a 45% allocation of the equity portfolio to be invested in financial markets outside of the United States. The Company does not invest in its own stock within the U.S. Retiree Healthcare Plan’s assets.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+guidelines:
+
+The asset allocation policy for the U.S. Retiree Healthcare Plan was developed in consideration of the following long-term investment objectives: achieving a return on assets consistent with the investment policy, achieving portfolio returns which compare favorably with those of other similar plans, professionally managed portfolios and of appropriate market indexes and maintaining sufficient liquidity to meet the obligations of the plan. Within the equity portfolio of the U.S. Retiree Healthcare Plan, investments are diversified among market capitalization and investment strategy, and targets a 45% allocation of the equity portfolio to be invested in financial markets outside of the United States. The Company does not invest in its own stock within the U.S. Retiree Healthcare Plan’s assets.
+
+Plan assets are measured at fair value using the following valuation techniques and inputs: There have been no changes in the above valuation techniques associated with determining the value of the plans’ assets during the years ended December 31, 2025 and 2024. The fair value of the Company’s retirement plan assets are as follows at December 31, 2025 (in thousands): 104
+
+Plan assets are measured at fair value using the following valuation techniques and inputs:
+
+The fair value of the Company’s retirement plan assets are as follows at December 31, 2025 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The fair value of the Company’s retirement plan assets are as follows at December 31, 2024 (in thousands):       The following table summarizes the changes in fair value of the Level 3 retirement plan assets for the years ended December 31, 2025 and 2024 (in thousands): 105
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The fair value of the Company’s retirement plan assets are as follows at December 31, 2024 (in thousands):
+
+The following table summarizes the changes in fair value of the Level 3 retirement plan assets for the years ended December 31, 2025 and 2024 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The weighted-average assumptions used to determine the benefit obligation in the consolidated balance sheets at December 31, 2025, 2024 and 2023 are as follows:  The weighted-average assumptions used to determine the net periodic pension cost for the years ended December 31, 2025, 2024 and 2023 are as follows:  To develop the expected long-term rate of return on assets assumption, the Company considered historical returns and future expectations for returns for each asset class, as well as the target asset allocation of the pension portfolio and historical expenses paid by the plan. A one-quarter percentage point increase in the assumed long-term rate of return on assets would decrease the Company’s net periodic benefit cost by less than $1 million . A one-quarter percentage point increase in the discount rate would decrease the Company’s net periodic benefit cost by less than $1 million .
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The weighted-average assumptions used to determine the benefit obligation in the consolidated balance sheets at December 31, 2025, 2024 and 2023 are as follows:
+
+The weighted-average assumptions used to determine the net periodic pension cost for the years ended December 31, 2025, 2024 and 2023 are as follows:
+
+To develop the expected long-term rate of return on assets assumption, the Company considered historical returns and future expectations for returns for each asset class, as well as the target asset allocation of the pension portfolio and historical expenses paid by the plan. A
+
+one-quarter
+
+percentage point increase in the assumed long-term rate of return on assets would decrease the Company’s net periodic benefit cost by
+
+.
+
+During fiscal year 2026, the Company expects to contribute a total of approximately $ 3 million to $ 6 million to the Company’s defined benefit plans. Estimated future benefit payments from the plans as of December 31, 2025 are as follows (in thousands): 17 Business Segment Information The accounting standards for segment reporting establish standards for reporting information about operating segments in annual financial statements and require selected information for those segments to be presented in interim financial reports of public business enterprises. They also establish standards for related disclosures about products and services, geographic areas and major customers. The Company’s Chief Executive Officer is the CODM. The CODM evaluates the business based on our two operating segments: Waters and TA. The Waters operating segment is primarily in the business of designing, manufacturing, selling and servicing LC and MS instruments, columns and other precision chemistry consumables that can be integrated and 106
+
+During fiscal year 2026, the Company expects to contribute a total of approximately $
+
+million to $
+
+benefit
+
+17 Business Segment Information
+
+The accounting standards for segment reporting establish standards for reporting information about operating segments in annual financial statements and require selected information for those segments to be presented in interim financial reports of public business enterprises. They also establish standards for related disclosures about products and services, geographic areas and major customers. The Company’s Chief Executive Officer is the CODM. The CODM evaluates the business based on our two operating segments: Waters and TA.
+
+The Waters operating segment is primarily in the business of designing, manufacturing, selling and servicing LC and MS instruments, columns and other precision chemistry consumables that can be integrated and
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) used along with other analytical instruments. The TA operating segment is primarily in the business of designing, manufacturing, selling and servicing thermal analysis, rheometry and calorimetry instruments. The Company’s two operating segments have similar economic characteristics; product processes; products and services; types and classes of customers; methods of distribution; and regulatory environments. Because of these similarities, the two segments have been aggregated into one reporting segment for financial statement purposes. Please refer to the consolidated balance sheets and consolidated statements of operations for financial information regarding the one reportable segment of the Company. Net sales for the Company’s products and services are as follows for the years ended December 31, 2025, 2024 and 2023 (in thousands): Net sales are attributable to geographic areas based on the region of destination. Geographic sales information is presented below for the years ended December 31, 2025, 2024 and 2023 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+and
+
+Net sales for the Company’s products and services are as follows for the years ended December 31, 2025, 2024 and 2023 (in thousands):
+
+Net sales are attributable to geographic areas based on the region of destination. Geographic sales information is presented below for the years ended December 31, 2025, 2024 and 2023 (in thousands):
+
+None of the Company’s individual customers accounts for more than 2% of annual Company sales. Net sales by customer class are as follows for the years ended December 31, 2025, 2024 and 2023 (in thousands): 107
+
+follows
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) Net sales for the Company recognized at a point in time versus over time are as follows for the years ended December 31, 2025, 2024 and 2023 (in thousands):
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+Long-lived assets information at December 31, 2025, 2024 and 2023 is presented below (in thousands): The Americas Other category includes Canada, Latin America and Puerto Rico. Long-lived assets exclude goodwill, other intangible assets and other assets. The Company’s segment performance measure is net income attributable to Waters shareholders, which is used by our CODM when assessing performance and allocating capital and resources to our business. Significant segment expenses are presented in the Company’s consolidated statements of operations. Additional disaggregated significant segment expenses, that are not separately presented on the Company’s consolidated statements of operations, are presented below. 108
+
+Long-lived assets information at December 31, 2025, 2024 and 2023 is presented below (in thousands):
+
+The Americas Other category includes Canada, Latin America and Puerto Rico. Long-lived assets exclude goodwill, other intangible assets and other assets.
+
+The Company’s segment performance measure is net income attributable to Waters shareholders, which is used by our CODM when assessing performance and allocating capital and resources to our business. Significant segment expenses are presented in the Company’s consolidated statements of operations. Additional disaggregated significant segment expenses, that are not separately presented on the Company’s consolidated statements of operations, are presented below.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The significant segment expenses, revenues and net income of the Company’s one reportable segment are as follows for the years ended December 31, 2025, 2024 and 2023 (in thousands): The other segment expenses include ERP implementation costs, transaction costs, depreciation and amortization expenses, facilities and information technology costs, travel, freight, professional fees and all other costs. 18 Unaudited Quarterly Results The Company’s unaudited quarterly results are summarized below (in thousands, except per share data): 1 09
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+ended
+
+The other segment expenses include ERP implementation costs, transaction costs, depreciation and amortization expenses, facilities and information technology costs, travel, freight, professional fees and all other costs.
+
+18 Unaudited Quarterly Results
+
+The Company’s unaudited quarterly results are summarized below (in thousands, except per share data):
+
+1 09
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) The Company typically experiences an increase in sales in the fourth quarter, as a result of purchasing habits for capital goods of customers that tend to exhaust their spending budgets by calendar year-end. Selling and administrative expenses are typically higher after the first quarter in each year as the Company’s annual payroll merit increases take effect. 19 Subsequent Events Acquisition of BD Biosciences & Diagnostic Solutions Businesses On February 9, 2026, the Company completed the BDS Business Acquisition for a total purchase price, including assumed debt, of $ 16.8 billion. This transformative combination establishes an innovative global leader in life sciences and diagnostics, enhancing the Company’s scale, broadening its capabilities and expanding its presence across attractive end markets. The transaction is structured as a Reverse Morris Trust transaction, where BD’s Biosciences & Diagnostic Solutions business will be spun off to BD shareholders and simultaneously merged with a wholly owned subsidiary of the Company. In connection with the BDS Business Acquisition, on January 8, 2026, SpinCo entered into the SpinCo Credit Agreement. On the Funding Date, SpinCo borrowed $ 4.0 billion of unsecured term loans under the SpinCo Credit Agreement, consisting of a $ 3.5 billion tranche which will mature and be payable in full 364 days after the Funding Date and a $ 500 million tranche which will mature and be payable in full on the second anniversary of the Funding Date, and such funds were used by SpinCo on the Funding Date to finance the SpinCo Cash Distribution. Upon consummation of the BDS Business Acquisition, all of this indebtedness was assumed by Waters. 11 0
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+The Company typically experiences an increase in sales in the fourth quarter, as a result of purchasing habits for capital goods of customers that tend to exhaust their spending budgets by calendar year-end. Selling and administrative expenses are typically higher after the first quarter in each year as the Company’s annual payroll merit increases take effect.
+
+19 Subsequent Events
+
+Acquisition of BD Biosciences & Diagnostic Solutions Businesses
+
+On February 9, 2026, the Company completed the BDS Business Acquisition for a total purchase price, including assumed debt, of
+
+The transaction is structured as a Reverse Morris Trust transaction, where BD’s Biosciences & Diagnostic Solutions business will be spun off to BD shareholders and simultaneously merged with a wholly owned subsidiary of the Company.
+
+connection with the BDS Business Acquisition, on January 8, 2026, SpinCo entered into the SpinCo Credit Agreement. On the Funding Date, SpinCo borrowed
+
+$
+
+billion of unsecured term loans under the SpinCo Credit Agreement, consisting of a
+
+$
+
+billion tranche which will mature and be payable in full 364 days after the Funding Date and a
+
+$
+
+million tranche which will mature and be payable in full on the second anniversary of the Funding Date, and such funds were used by SpinCo on the Funding Date to finance the SpinCo Cash Distribution. Upon consummation of the BDS Business Acquisition, all of this indebtedness was assumed by Waters.
+
+11 0
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+
+In connection with the BDS Business Acquisition, and in addition to the $4 billion of debt assumed by Waters upon completion of the BDS Business Acquisition, the Company and a financial institution executed a 364-day bridge facility commitment letter, pursuant to which such financial institution committed to provide bridge financing of $1.8 billion to fund dividends, fees and expenses related to the BDS Business Acquisition. The bridge facility was cancelled on the closing date of the BDS Business Acquisition. As a result of the cancellation of the bridge facility, the remaining financing costs of $
+
+million that were being amortized over the term of the bridge facility were recorded as interest expense in February 2026.
+
+million of which were recorded as selling and administrative expenses in February 2026.
+
+reporting
+
+Derivative Transactions
+
+The variable rate interest payments on the debt associated with the BDS Business Acquisition will create interest risk for the Company as interest payments will fluctuate based on changes in the contractually specified interest rate index over the life of the debt. In order to reduce interest rate risk associated with the variability in interest cash flows paid on the debt attributable to changes in SOFR rates during the forecasted period of the debt, the Company entered into interest rate swap agreements. The agreements have a duration of 7 years to 10 years, and an aggregate notional value of $ 1 billion. The Company expects to designate the derivatives as a cash flow hedge under hedge accounting.
+
+In January 2026, the Company entered into a derivative agreement with a duration up to four years, and a notional value of $
+
+million to hedge the variability in the movement of foreign currency exchange rates on a portion of its euro-denominated net asset investments. The Company expects to designate the derivative as an interest rate cross-currency swap under hedge accounting.
+
+Item 9:
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A:
+
+Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Rules 13a-15(e)
+
+15d-15(e)
+
+10-K.
+
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+60 of this Annual Report.
+
+Report of the Independent Registered Public Accounting Firm
+
+61 of this Annual Report.
+
+Changes in Internal Control Over Financial Reporting
+
+Rules 13a-15(f)
+
+15d-15(f)
+
+Item 9B:
+
+Other Information
+
+Insider Trading Arrangements and Related Disclosures
+
+Rule 16a-1(f)
+
+10b5-1
+
+“non-Rule
+
+10b5-1
+
+S-K).
+
+Item 9C:
+
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+None.
+
+PART III
+
+Item 10:
+
+Directors, Executive Officers and Corporate Governance
+
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+
+Officers of the Company are elected annually by the Board of Directors and hold office at the discretion of the Board of Directors. The following persons serve as executive officers of the Company:
+
+non-profit
+
+Jianqing Bennett, 56, was appointed Senior Vice President of TA Instruments Division on May 1, 2021. Previously, Ms. Bennett served as Senior Vice President, High Growth Markets at Beckman Coulter Diagnostics from November 2017 to March 2021. Prior to that, from 2007-2017, she held various senior management positions at Carestream Health Inc, including serving as President, Medical Digital Solutions from August 2015 to November 2017.
+
+Amol Chaubal, 50, was appointed Chief Financial Officer of Waters Corporation on May 12, 2021. Previously, Mr. Chaubal was Chief Financial Officer of Quanterix Corporation, a life sciences company, where he served as Chief Financial Officer since April 2019. Before Quanterix, Mr. Chaubal served as Chief Financial Officer, Global Operations at Smith & Nephew, a global medical devices company, from October 2017 to April 2019. Prior to his time at Smith & Nephew, he served as Corporate Vice President and Head of Finance for the Clinical Research Services and Access business at Parexel from July 2015 to October 2017.
+
+Robert Carpio, 43, was appointed Senior Vice President of the Waters Division on June 24, 2024. Previously, Mr. Carpio served in multiple roles at Madison Industries’ Filtration Group from October 2017 to May 2024, including as Group President of Life Sciences from January 2022 to May 2024 and President of Porex from June 2019 to April 2022. Prior to Madison, Mr. Carpio held various positions at Precision Castparts Corporation, Alcoa Corporation and McKinsey & Company. Mr. Carpio began his career in the United States Army, serving both on active duty and as a member of the Massachusetts National Guard.
+
+n
+
+of the Audit and Finance Committee of the Board of Directors” and “Directors Meetings and Board Committees”. Such information is incorporated herein by reference.
+
+S-K.
+
+The Company’s corporate governance guidelines and the charters of the audit committee, compensation committee and nominating and corporate governance committee of the Board of Directors are available on the Company’s website, https://www.waters.com, under the caption “Corporate Governance”. The Company shall provide to any person without charge, upon request, a copy of any of the foregoing materials. Any such request must be made in writing to the Secretary of the Company, c/o Waters Corporation, 34 Maple Street, Milford, MA 01757.
+
+Item 11:
+
+Executive Compensation
+
+by
+
+Item 12: Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Except for the Equity Compensation Plan information set forth below, this information will be contained in the 2026 Proxy Statement, under the heading “Security Ownership of Certain Beneficial Owners and Management”. Such information is incorporated herein by reference.
+
+Equity Compensation Plan Information
+
+The following table provides information as of December 31, 2025 about the Company’s common stock that may be issued upon the exercise of options, warrants and rights under its existing equity compensation plans (in thousands):
+
+See Note 13, Stock-Based Compensation, in the Notes to Consolidated Financial Statements for a description of the material features of the Company’s equity compensation plans.
+
+This information will be contained in the 2026 Proxy Statement, under the headings “Directors Meetings and Board Committees”, “Corporate Governance” and “Compensation of Directors and Executive Officers”. Such information is incorporated herein by reference.
+
+This information will be contained in the 2026 Proxy Statement, under the headings “Ratification of Selection of Independent Registered Public Accounting Firm” and “Report of the Audit and Finance Committee of the Board of Directors”. Such information is incorporated herein by reference.
+
+PART IV
+
+Item 15: Exhibits, Financial Statement Schedules
+
+(a) Documents filed as part of this report:
+
+The consolidated financial statements of the Company and its subsidiaries are filed as part of this Annual Report and are set forth on pages 63 to 108. The report of PricewaterhouseCoopers LLP (PCAOB ID: 238), an independent registered public accounting firm, dated February 23, 2026, is set forth beginning on page 61 of this Annual Report.
+
+The optional summary in Item 16 has not been included in this Annual Report.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Date: February 23, 2026
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities indicated on February 23, 2026.

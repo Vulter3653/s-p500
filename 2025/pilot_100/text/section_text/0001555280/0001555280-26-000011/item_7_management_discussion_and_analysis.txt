@@ -1,0 +1,713 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Introduction
+
+Our management’s discussion and analysis of financial condition and results of operations (MD&A) is provided to assist readers in understanding our performance, as reflected in the results of our operations, our financial condition and our cash flows and should be read in conjunction with our consolidated financial statements and notes to consolidated financial statements included in Item 8. Financial Statements and Supplementary Data . The discussion in this MD&A contains forward-looking statements that involve substantial risks and uncertainties. Our objective is to also provide discussion of material events and uncertainties known to management that are reasonably likely to cause reported financial information not to be indicative of future results, which could differ materially from historical performance and from those anticipated in the forward-looking statements as a result of various factors such as those discussed in Item 1A. Risk Factors and Forward-looking statements and factors that may affect future results sections of this MD&A.
+
+A discussion regarding our financial condition and results of operations for fiscal 2025 compared to fiscal 2024 is presented below. A discussion regarding our financial condition and results of operations for fiscal 2024 compared to fiscal 2023 can be found under Item 7 of Part II of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, filed with the SEC on February 13, 2025 (our “2024 Annual Report”), which is available free of charge on the SEC’s website at www.sec.gov.
+
+Overview of our business
+
+We are a global leader in the animal health industry, focused on the discovery, development, manufacture and commercialization of medicines, vaccines, diagnostic products and services, biodevices, genetic tests and precision animal health. With a legacy of nearly 75 years, we continue to pioneer ways to predict, prevent, detect, and treat animal illness, supporting those raising and caring for animals worldwide - from veterinarians and pet owners to livestock producers.
+
+We manage our operations through two geographic operating segments: the United States (U.S.) and International. Within each of these operating segments, we offer diverse products for both companion animals and livestock customers in order to capitalize on local and regional trends and customer needs. See Notes to Consolidated Financial Statements— Note 19. Segment Information .
+
+We directly market our products to veterinarians and livestock producers located in approximately 45 countries across North America, Europe, Africa, Asia, Australia and South America, and are a market leader in nearly all of the major regions in which we operate. In markets where we do not have a direct commercial presence, we generally contract with distributors that provide logistics and sales and marketing support for our products.
+
+We believe our investments in one of the industry’s largest sales organizations, including our extensive network of technical and veterinary operations specialists, our high-quality manufacturing and reliability of supply, and our long track record of developing products that meet customer needs, has led to enduring and valued relationships with our customers. Our research and development (R&D) efforts enable us to deliver innovative products to address unmet needs and evolve our products so that they remain relevant for our customers.
+
+We have approximately 300 product lines that we sell in over 100 countries for the prediction, prevention, detection and treatment of diseases and conditions that affect various companion animal and livestock species. The diversity of our product portfolio and our global operations provides stability to our overall business.
+
+(a) Adjusted net income is a non-GAAP financial measure. See the Non-GAAP financial measures and Adjusted net income sections of this MD&A for more information.
+
+Our operating environment
+
+Industry
+
+The animal health industry, which focuses on both companion animals and livestock, is a growing industry that impacts billions of people worldwide. The primary companion animal species are dogs, cats and horses. Factors influencing growth in demand for companion animal medicines, vaccines and diagnostics include:
+
+• increasing pet owners’ commitment to the health and well-being of their pets;
+
+• economic development and related increases in disposable income, particularly in many emerging markets;
+
+• companion animals living longer;
+
+• increasing medical treatment of companion animals; and
+
+• advances in companion animal medicines, vaccines and diagnostics.
+
+The primary livestock species are cattle (both beef and dairy), swine, poultry, fish and sheep. Livestock health and production are essential to meeting the growing demand for animal protein of a global population. Factors influencing growth in demand for livestock medicines and vaccines include:
+
+• human population growth and increasing standards of living, particularly in many emerging markets;
+
+33 |
+
+• increasing demand for improved nutrition, particularly animal protein;
+
+• natural resource constraints, such as scarcity of arable land, fresh water and increased competition for cultivated land, resulting in fewer resources that will be available to meet an increasing demand for animal protein;
+
+• increasing urbanization; and
+
+• increased focus on food safety and food security.
+
+The overall economic environment
+
+In addition to industry-specific factors, we, like other businesses, face challenges related to global economic conditions, an economic downturn and high inflation. Growth in both the livestock and companion animal sectors is driven by overall economic development and related growth, particularly in many emerging markets. In the past, certain of our customers and suppliers have been affected directly by shortages in veterinary healthcare workers and economic downturns or inflation, which decreased the demand for our products and, in some cases, hindered our ability to collect amounts due from customers.
+
+Industry sources have reported that pet owners indicated a preference for reducing spending on other aspects of their lifestyle, including entertainment, clothing and household goods, before reducing spending on pet healthcare. Similarly, the cost of medicines and vaccines to our livestock producer customers is small relative to other production costs, including feed, and the use of these products is intended to improve livestock producers’ economic outcomes. As a result, demand for our products has historically been more stable than demand for other production inputs. Each of these factors, plus our broad and innovative portfolio, contributes to our ability to incorporate inflationary challenges into our product pricing and mitigate the impact on our results. While these factors have mitigated the impact of prior downturns in the global economy, economic challenges, including an economic downturn and inflation, could increase cost sensitivity among our customers, which may result in reduced demand for our products, which could have a material adverse effect on our operating results and financial condition.
+
+Competition
+
+The animal health industry is highly competitive. Although our business is the largest based on revenue in the animal health industry (which includes medicines, vaccines and diagnostics), we face competition in the regions in which we operate. Principal methods of competition vary depending on the particular region, species, product category or individual product. Some of these methods include new product development, quality, price, service and promotion to veterinary professionals, pet owners and livestock producers. Our competitors include standalone animal health businesses and the animal health businesses of large pharmaceutical companies. In recent years, there has been an increase in consolidation in the animal health industry. There are also many start-up companies working in the animal health area. In addition to competition from established market participants, there could be new entrants to the animal health medicines, vaccines and diagnostics industry in the future. We also compete with companies that produce generic products, following our products’ loss of exclusivity in a given market. For example, Draxxin currently competes with generic products in key markets including the U.S., Europe, Canada, Mexico and Australia. Since 2021, the first year of generic competition, sales of Draxxin declined by 66% in the U.S., its largest market. For more information regarding the generic competition we expect to encounter as patents on certain of our key products expire, see Item 1. Business – Intellectual Property .
+
+Manufacturing and supply
+
+In order to sell our products, we must be able to produce and ship our products in sufficient quantities. Many of our products involve complex manufacturing processes and are sole-sourced from certain manufacturing sites. Minor deviations in our manufacturing or logistical processes, such as temperature excursions or improper package sealing, could result in delays, inventory shortages, unanticipated costs, product recalls, product liability and/or regulatory action. In addition, a number of factors could cause production interruptions that could result in launch delays, inventory shortages, recalls, unanticipated costs or issues with our supply agreements with third parties.
+
+Our manufacturing network may be unable to meet the demand for our products or we may have excess capacity if demand for our products changes. The unpredictability of a product's regulatory or commercial success or failure, the lead time necessary to construct highly technical and complex manufacturing sites, and shifting customer demand increase the potential for capacity imbalances.
+
+Perceptions of product quality, safety and reliability
+
+We believe that animal health customers value high-quality manufacturing and reliability of supply. The importance of quality and safety concerns to pet owners, veterinarians and livestock producers also contributes to animal health brand loyalty, which often continues after the loss of patent-based and regulatory exclusivity. We depend on positive perceptions of the safety and quality of our products by our customers, veterinarians and end-users.
+
+In addition, negative beliefs about animal health products generally could impact demand for our products. For example, the issue of the potential transfer of increased antibacterial resistance in bacteria from food-producing animals to human pathogens, and the causality of that transfer, continue to be the subject of global scientific and regulatory discussion. In some countries, this issue has led to government restrictions and bans on the use of specific antibacterials in some food-producing animals, regardless of the route of administration (in feed or injectable). In addition, consumer preferences in some markets have impacted the use of antibacterials in food producing animals. Such restrictions and consumer preferences in some cases may negatively impact sales of our antibacterial products, but in other instances may increase sales of our products that can be used as antibacterial alternatives. Our total revenue attributable to antibacterials for livestock was approximately $713 million for the year ended December 31, 2025.
+
+Similarly, concerns regarding greenhouse gas emissions and other potential environmental impacts of livestock production have led to some consumers opting to limit or avoid consuming animal products. However, we believe the impact of this trend is limited as the livestock industry is still expected to continue to grow in order to feed a growing global population.
+
+34 |
+
+Product development initiatives
+
+Our future success depends on both our existing products and our pipeline of new products, including new products that we may develop through joint ventures and products that we are able to obtain through license or acquisition. We believe we are an industry leader in animal health R&D, with a track record of generating new products a nd product lifecycle innovation, which is defined as R&D programs that leverage existing animal health products by adding new species or claims, achieving approvals in new markets or creating new reformulations, modifications and combinations. The majority of our R&D programs focus on new products. In addition to traditional medicines and vaccines, we develop products across additional categories to address the needs of veterinarians and producers to predict, prevent, detect and treat conditions in both companion animals and livestock, including products and services in diagnostics, genetics, precision animal health and digital and data analytics.
+
+Changing distribution channels for companion animal products
+
+In most markets, companion animal owners typically purchase their animal health products directly from veterinarians. However, in the U.S. and certain other markets, companion animal owners increasingly have the option to purchase animal health products from sources other than veterinarians, such as internet-based retailers, “big-box” retail stores or other over-the-counter distribution channels. We believe the ability of pet owners to purchase our products online and from retail stores may increase pet owner compliance and result in increased sales. However, over time, we may be unable to sustain our current margins due to the increased purchasing power of such retailers as compared to traditional veterinary practices.
+
+In addition, this trend could negatively impact the sales of products we primarily sell through the veterinarian distribution channel, as any decrease in visits to veterinarians by companion animal owners could reduce our market share and sales of such products. A reduction in the number of pet owners who purchase our products directly from their veterinarian could also lead to increased use of generic alternatives to our products or the increased substitution of our products with other animal health products or human health products if such other products are deemed to be lower-cost alternatives.
+
+Disease Outbreaks
+
+Sales of our livestock products have in the past, and may in the future be, adversely affected by the outbreak of disease carried by animals. Outbreaks of disease may reduce regional or global sales of particular animal-derived food products or result in reduced exports of such products, either due to heightened export restrictions or import prohibitions, which may reduce demand for our products. Also, the outbreak of any highly contagious disease near our main production sites could require us to immediately halt production of our products at such sites or force us to incur substantial expenses in procuring raw materials or products elsewhere. Alternatively, sales of products that treat specific disease outbreaks may increase.
+
+Foreign exchange rates
+
+Significant portions of our revenue and costs are exposed to changes in foreign exchange rates. Our products are sold in more than 100 countries and, as a result, our revenue is influenced by changes in foreign exchange rates. For the year ended December 31, 2025, approximately 42% of our revenue was denominated in foreign currencies. We seek to manage our foreign exchange risk, in part, through operational means, including managing same-currency revenue in relation to same-currency costs and same-currency assets in relation to same-currency liabilities. As we operate in multiple foreign currencies, including the Australian dollar, Brazilian real, British pound, Canadian dollar, Chinese renminbi, euro and other currencies, changes in those currencies relative to the U.S. dollar will impact our revenue, cost of goods and expenses, and consequently, net income. Exchange rate fluctuations may also have an impact beyond our reported financial results and directly impact operations. These fluctuations may affect the ability to buy and sell our goods and services between markets impacted by significant exchange rate variances. For the year ended December 31, 2025, approximately 58% of our total revenue was in U.S. dollars. Our year-over-year total revenue growth was unfavorably impacted by 1% from changes in foreign currency values relative to the U.S. dollar.
+
+Weather conditions, climate change and the availability of natural resources
+
+The animal health industry and demand for many of our animal health products in a particular region are affected by weather conditions, as usage of our products follows varying weather patterns and weather-related pressures from pests, such as ticks. As a result, we may experience regional and seasonal fluctuations in our results of operations.
+
+In addition, veterinary hospitals and practitioners depend on visits from and access to the animals under their care. Veterinarians’ patient volume and ability to operate could be adversely affected if they experience prolonged snow, ice or other severe weather conditions, particularly in regions not accustomed to sustained inclement weather. Furthermore, weather conditions, including excessive cold or heat, natural disasters and other events, could negatively impact our livestock customers by impairing the health or growth of their animals or the production or availability of feed, as well as disrupting their normal operations. For example, livestock producers depend on the availability of natural resources, including large supplies of fresh water. Their animals’ health and their ability to operate could be adversely affected if they experience a shortage of fresh water due to human population growth, climate change or floods, droughts or other weather conditions. In the event of adverse weather conditions, climate-change related impacts or a shortage of fresh water, veterinarians and livestock producers may purchase less of our products.
+
+Adverse weather conditions, natural disasters and climate change may also impact the aquaculture business. Changes in water temperatures could affect the timing of reproduction and growth of various fish species, as well as trigger the outbreak of certain waterborne diseases.
+
+Our strategic pillars
+
+Our vision is to be the most trusted and valued animal health company, shaping the future of animal care through our innovation, customer obsession and purpose-driven colleagues. We have a global presence in both developed and emerging markets and across eight core species. We intend to grow our business by pursuing the following core strategies:
+
+• Lead through innovation across our diverse portfolio - We seek to define the future of animal health by delivering new products and solutions as well as lifecycle innovations across the continuum of care that span from disease prediction and prevention to detection and treatment. We are focused on innovating across vaccines, pharmaceuticals, diagnostics, genetics, biodevices, and other product segments, and across all core species. Our internal R&D capabilities are differentiators, but we also collaborate across both academia and industry partners to ensure we are bringing the best possible innovations to our customers;
+
+35 |
+
+• Deliver an exceptional experience to delight our customers - We believe that our customers' success is our success and that the best way to realize that success is by enabling veterinarians, livestock producers and pet owners to provide the best possible care for animals. We are focused on providing greater value to our customers through the integration and connectedness of our portfolio and by reducing frictions in the way they engage with us and our products and solutions;
+
+• Power our business through digital solutions and data insights - We believe that digital and data are no longer just enablers, but are core decision drivers for the future of animal health. We are leaders in the translation of digital solutions and data insights to positive outcomes for our customers and for the animals they care for, whether for better identification of health care solutions in pets or improved production capabilities in livestock;
+
+• Support a workplace where our colleagues can thrive - We view the strength of our leadership team and our talented colleagues around the world as a critical component of our past and future success. We believe that by focusing on colleague well-being and providing all of our colleagues with supportive tools, training and environment that we are best positioned to succeed. With that, our colleagues are committed to our purpose, our customers and each other. We are committed to maintaining an inclusive workplace culture that attracts, retains and develops the best talent in the industry;
+
+• Advance sustainability in animal health for a better future - As the world’s leading animal health company, our business purpose is well aligned with our social purpose. We strive to make a meaningful difference in society through the three pillars of our sustainability approach: (1) by improving access to care for animals and by supporting the veterinary profession; (2) by leveraging our innovation capabilities to develop solutions that improve productivity, keep animals healthy, and fight emerging infectious diseases; and (3) by taking actions to protect our planet that reduce our footprint on the environment; and
+
+• Perform with excellence and agility - We recognize the increasing uncertainty in our industry and more broadly across the world. While we aim to improve our ability to predict, we more importantly aim to be proactive in how we effectively manage our resources and how quickly we can redeploy focus to emerging themes or priorities. We actively: (1) review and manage our resource allocation; (2) continuously improve key operational processes; and (3) ensure strategic focus on our core business.
+
+Components of revenue and costs and expenses
+
+Our revenue, costs and expenses are reported for the year ended December 31 for each year presented, except for subsidiaries operating outside the U.S., for which the financial information is included in our consolidated financial statements for the fiscal year ended November 30 for each year presented.
+
+Revenue
+
+Our revenue is primarily derived from our diversified product portfolio of medicines, vaccines and diagnostic products and services used to treat and protect companion animals and livestock. Generally, our products are promoted to veterinarians and livestock producers by our sales organization which includes sales representatives and technical and veterinary operations specialists, and then sold directly by us or through distributors, retailers or e-commerce outlets. The depth of our product portfolio enables us to address the varying needs of customers in different species and geographies. In 2025, our two top-selling products and product lines, Simparica/Simparica Trio and Apoquel/Apoquel Chewable, contributed approximately 16% and 12% of our revenue, respectively, and combined with our next three top-selling products and product lines, Cytopoint, Librela and our ceftiofur line, these five products and product lines contributed approximately 42% of our revenue. Our ten top-selling products and product lines contributed 57% of our revenue. For additional information regarding our products, including descriptions of our product lines that each represented approximately 1% or more of our revenue in 2025, see Item 1. Business—Products .
+
+Costs and expenses
+
+Costs of sales consist primarily of cost of materials, facilities and other infrastructure used to manufacture our medicine and vaccine products, as well as costs to operate our reference labs and royalty expenses associated with the intellectual property of our products, when relevant.
+
+Selling, general and administrative (SG&A) expenses consist of, among other things, the internal and external costs of marketing, promotion, advertising and shipping and handling as well as certain costs related to business technology, facilities, legal, finance, human resources, business development, public affairs and procurement.
+
+Research and development (R&D) expenses consist primarily of project costs specific to new product R&D and product lifecycle innovation, overhead costs associated with R&D operations and investments that support local market clinical trials for approved indications and expenses related to regulatory approvals for our products. We do not disaggregate R&D expenses by research stage or by therapeutic area for purposes of managing our business.
+
+Amortization of intangible assets consists primarily of the amortization expense for identifiable finite-lived intangible assets that have been acquired through business combinations. These assets consist of, but are not limited to, developed technology, brands and trademarks.
+
+Restructuring charges and certain acquisition and divestiture-related costs consist of all restructuring charges (those associated with cost reduction/productivity initiatives and those associated with acquisition activity) and costs associated with executing the transaction which include acquiring and integrating businesses and costs associated with divesting and disintegrating businesses. Restructuring charges are associated with employees, assets and activities that will not continue in the company. Acquisition and divestiture-related costs are associated with acquiring and integrating acquired businesses, which may include expenditures for consulting and the integration of systems and processes, product transfers, transaction costs and restructuring the company, as well as costs associated with divesting and disintegrating a portion of our business which may include expenditures for consulting and the disintegration of systems and processes, transfer costs, and restructuring charges which may include charges related to employees, assets and activities that will not continue in the company's ongoing operations.
+
+Other (income)/deductions—net consists of various items, primarily net (gains)/losses on business sales and divestitures, as well as asset disposals, interest income, royalty-related income, foreign exchange translation (gains)/losses and certain asset impairment charges.
+
+36 |
+
+Variability of Financial Results
+
+Our financial results are subject to variability related to a number of factors including, but not limited to: tariffs and other trade protection measures, the decline in global macroeconomic conditions, competitive dynamics, geopolitical tensions with and economic uncertainty in certain markets, inflation, global supply chain disruption and supply availability, variability in distributor inventory stocking levels, including as a result of expected demand and promotional activities, weather patterns, herd management decisions, regulatory actions, disease outbreaks, product and geographic mix, timing of price increases and customer expectations related to the same, timing of investment decisions and operational and other changes made in connection with the expected change in accounting principle to eliminate the one-month reporting lag in 2026 for our subsidiaries operating outside the U.S.
+
+Significant accounting policies and application of critical accounting estimates
+
+In presenting our financial statements in conformity with U.S. GAAP, we are required to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses and related disclosures. For a description of our significant accounting policies, see Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies .
+
+We believe that the following accounting policies are critical to an understanding of our consolidated financial statements as they require the application of the most difficult, subjective and complex judgments and, therefore, could have the greatest impact on our financial statements: (i) fair value; (ii) revenue; (iii) asset impairment reviews; and (iv) contingencies.
+
+Below are some of our more critical accounting estimates. See Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Estimates and Assumptions for a discussion about the risks associated with estimates and assumptions.
+
+Fair value
+
+For a discussion about the application of fair value to our long-term debt and financial instruments, see Notes to Consolidated Financial Statements— Note 9. Financial Instruments .
+
+For a discussion about the application of fair value to our business combinations, see Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Fair Value .
+
+For a discussion about the application of fair value to our asset impairment reviews, see Asset impairment reviews below .
+
+Revenue
+
+Our gross product revenue is subject to deductions that are generally estimated and recorded in the same period that the revenue is recognized and primarily represents sales returns and revenue incentives. For example:
+
+• for sales returns, we perform calculations in each market that incorporate the following, as appropriate: local returns policies and practices; past returns as a percentage of revenue; an understanding of the reasons for past returns; estimated shelf life by product; an estimate of the amount of time between shipment and return or lag time; and any other factors that could impact the estimate of future returns, product recalls, discontinuation of products or a changing competitive environment; and
+
+• for revenue incentives, we use our historical experience with similar incentives programs to estimate the impact of such programs on revenue.
+
+If any of our ratios, factors, assessments, experiences or judgments are not indicative or accurate predictors of our future experience, our results could be materially affected. Although the amounts recorded for these revenue deductions are dependent on estimates and assumptions, historically our adjustments to actual results have not been material. The sensitivity of our estimates can vary by program, type of customer and geographic location.
+
+Amounts recorded for revenue deductions can result from a complex series of judgments about future events and uncertainties and can rely on estimates and assumptions. For further information about the risks associated with estimates and assumptions, see Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Estimates and Assumptions .
+
+Asset impairment reviews
+
+We review all of our long-lived assets for impairment indicators throughout the year and we perform detailed testing whenever impairment indicators are present. In addition, we perform impairment testing for goodwill and indefinite-lived intangible assets at least annually. When necessary, we record charges for impairments of long-lived assets for the amount by which the fair value is less than the carrying value of these assets.
+
+Our impairment review processes are described below and in Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Amortization of Intangible Assets, Depreciation and Certain Long-Lived Assets and, for deferred tax assets, in Note 3. Significant Accounting Policies: Deferred Tax Assets and Liabilities and Income Tax Contingencies .
+
+Examples of events or circumstances that may be indicative of impairment include:
+
+• a significant adverse change in the extent or manner in which an asset is used. For example, restrictions imposed by the regulatory authorities could affect our ability to manufacture or sell a product; and
+
+• a projection or forecast that demonstrates losses or reduced profits associated with an asset. This could result, for example, from the introduction of a competitor’s product that results in a significant loss of market share or the inability to achieve the previously projected revenue growth, or from the lack of acceptance of a product by customers.
+
+For finite-lived identifiable intangible assets, such as developed technology rights, and for other long-lived assets, such as property, plant and equipment, whenever impairment indicators are present, we calculate the undiscounted value of the projected cash flows associated with the asset, or asset group, and compare this estimated amount to the carrying amount. If the carrying amount is found to be greater, we record an impairment loss for the excess of book value over fair value. In addition, in all cases of an impairment review, we re-evaluate the remaining useful lives of the assets and modify them, as appropriate.
+
+37 |
+
+Our impairment reviews of most of our long-lived assets depend on the determination of fair value, as defined by U.S. GAAP. A single estimate of fair value can result from a complex series of judgments about future events and uncertainties and can rely on estimates and assumptions which can materially impact our results of operations. For information about the risks associated with estimates and assumptions, see Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Estimates and Assumptions .
+
+Intangible assets other than goodwill
+
+We test indefinite-lived intangible assets for impairment at least annually, or more frequently if impairment indicators exist, by first assessing qualitative factors to determine whether it is more likely than not that the fair value of the indefinite-lived intangible asset is less than its carrying amount. If we conclude it is more likely than not that the fair value is less than the carrying amount, a quantitative test that compares the fair value of the indefinite-lived intangible asset with its carrying value is performed. If the fair value is less than the carrying amount, an impairment loss is recognized. Impairments of identifiable intangible assets other than goodwill, are recorded in Restructuring charges and certain acquisition and divestiture-related costs and Other (income)/deductions—net , as applicable. We did not have any material intangible asset impairment charges for the years ended December 31, 2025, 2024 and 2023.
+
+When we are required to determine the fair value of intangible assets other than goodwill, we use an income approach, specifically the multi-period excess earnings method, also known as the discounted cash flow method. We start with a forecast of all the expected net cash flows associated with the asset, which includes the application of a terminal value for indefinite-lived assets, and then we apply an asset-specific discount rate to arrive at a net present value amount. Some of the more significant estimates and assumptions inherent in this approach include: the amount and timing of the projected net cash flows, which includes the expected impact of competitive, legal and/or regulatory forces on the projections, the impact of technological risk associated with IPR&D assets, as well as the selection of a long-term growth rate; the discount rate, which seeks to reflect the risks inherent in the projected cash flows; foreign currency fluctuations; and the effective tax rate, which seeks to incorporate the geographic diversity of the projected cash flows.
+
+While all identifiable intangible assets can be impacted by events and thus lead to impairment, in general, identifiable intangible assets that are at the highest risk of impairment include IPR&D assets ($141 million as of December 31, 2025). IPR&D assets are higher-risk assets given the uncertain nature of R&D activity.
+
+For a description of our accounting policy, see Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Amortization of Intangible Assets, Depreciation and Certain Long-Lived Assets .
+
+Goodwill
+
+Goodwill represents the excess of the consideration transferred over the fair value of net assets of businesses purchased and is assigned to reporting units. We test goodwill for impairment on at least an annual basis, or more frequently if necessary, either by assessing qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount or by performing a periodic quantitative assessment.
+
+Factors considered in the qualitative assessment include general macroeconomic conditions, conditions specific to the industry and market, cost factors which could have a significant effect on earnings or cash flows, the overall financial performance of the reporting unit and whether there have been sustained declines in our share price. Additionally, we evaluate the extent to which the fair value exceeded the carrying value of the reporting unit at the date of the last quantitative assessment performed.
+
+When performing a quantitative assessment to test for goodwill impairment we utilize the income approach, which is forward-looking, and relies primarily on internal forecasts. Within the income approach, the method that we use is the discounted cash flow method. We start with a forecast of all the expected net cash flows associated with the reporting unit, which includes the application of a terminal value, and then apply a reporting unit-specific discount rate to arrive at a net present value. Some of the more significant estimates and assumptions inherent in this approach include: the amount and timing of the projected net cash flows, which includes the expected impact of technological risk and competitive, legal and/or regulatory forces on the projections, as well as the selection of a long-term growth rate; the discount rate, which seeks to reflect the various risks inherent in the projected cash flows; and the effective tax rate, which seeks to incorporate the geographic diversity of the projected cash flows.
+
+We test goodwill for impairment on at least an annual basis, or more frequently if necessary, either by assessing qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount or by performing a periodic quantitative assessment. In 2025, we performed a periodic qualitative impairment assessment as of September 30, 2025 and, in 2024, we performed a quantitative impairment assessment as of September 30, 2024, which did not result in the impairment of goodwill associated with any of our reporting units in either period.
+
+For all of our reporting units, there are a number of future events and factors that may impact future results and that could potentially have an impact on the outcome of subsequent goodwill impairment testing. For a list of these factors, see Forward-looking statements and factors that may affect future results.
+
+For a description of our accounting policy, see Notes to Consolidated Financial Statements— Note 3. Significant Accounting Policies: Amortization of Intangible Assets, Depreciation and Certain Long-Lived Assets .
+
+Contingencies
+
+For a discussion about income tax contingencies, see Notes to Consolidated Financial Statements— Note 8C. Tax Matters: Tax Contingencies .
+
+For a discussion about legal contingencies, guarantees and indemnifications, see Notes to Consolidated Financial Statement— Note 18. Commitments and Contingencies .
+
+Non-GAAP financial measures
+
+We report information in accordance with U.S. generally accepted accounting principles (GAAP). Management also measures performance using non-GAAP financial measures that may exclude certain amounts from the most directly comparable GAAP measure. Despite the importance of these
+
+38 |
+
+measures to management in goal setting and performance measurement, non-GAAP financial measures have no standardized meaning prescribed by U.S. GAAP and, therefore, have limits in their usefulness to investors and may not be comparable to the calculation of similar measures of other companies. We present certain identified non-GAAP measures solely to provide investors with useful information to more fully understand how management assesses performance.
+
+Operational Growth
+
+We believe that it is important to not only understand overall revenue and earnings growth, but also “operational growth.” Operational growth is a non-GAAP financial measure defined as revenue or earnings growth excluding the impact of foreign exchange. This measure provides information on the change in revenue and earnings as if foreign currency exchange rates had not changed between the current and prior periods to facilitate a period-to-period comparison. We believe this non-GAAP measure provides a useful comparison to previous periods for the company and investors, but should not be viewed as a substitute for U.S. GAAP reported growth.
+
+Adjusted Net Income and Adjusted Earnings Per Share
+
+Adjusted net income and the corresponding adjusted earnings per share (EPS) are non-GAAP financial measures of performance used by management. We believe these financial measures are useful supplemental information to investors when considered together with our U.S. GAAP financial measures. We report adjusted net income to portray the results of our major operations, and the discovery, development, manufacture and commercialization of our products, prior to considering certain income statement elements. We define adjusted net income and adjusted EPS as net income attributable to Zoetis and EPS before the impact of purchase accounting adjustments, acquisition and divestiture-related costs and certain significant items.
+
+We recognize that, as an internal measure of performance, the adjusted net income and adjusted EPS measures have limitations, and we do not restrict our performance management process solely to these metrics. A limitation of the adjusted net income and adjusted EPS measures is that they provide a view of our operations without including all events during a period, such as the effects of an acquisition or amortization of purchased intangibles, and do not provide a comparable view of our performance to other companies. The adjusted net income and adjusted EPS measures are not, and should not be viewed as, a substitute for U.S. GAAP reported net income attributable to Zoetis and reported EPS. See the Adjusted Net Income section below for more information.
+
+Fiscal Year Alignment of International Subsidiaries
+
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). For subsidiaries operating outside the U.S. (the “International Subsidiaries”), the consolidated financial information is included as of and for the fiscal year ended November 30 for each year presented. As a result, results of operations of our International Subsidiaries for the month of December 2025 are not included in our consolidated results of operations for fiscal year 2025 (and results of operations of our International Subsidiaries for the month of December 2024 are included).
+
+In connection with our multi-year process to transition our ERP system noted above, we expect to eliminate the one-month reporting lag in 2026 for our International Subsidiaries, effective beginning with the Company’s first quarterly report in 2026, which would result in an alignment of the year-end for all subsidiaries and operations to December 31 (the “Expected Fiscal Year Alignment”). As a result of this alignment, the results of operations of our International Subsidiaries for the month of December 2025 would not be included in our consolidated results of operations for fiscal year 2026 but will be included in the retrospective application of the new accounting principle to prior financial statement periods. This alignment is an important preliminary step in the process to transition our ERP system because it will contribute to more seamless financial consolidation, regulatory compliance and consistent reporting.
+
+In connection with the Expected Fiscal Year Alignment, revenue in the International segment for the reported fourth quarter of 2025 benefited from operational changes resulting in the acceleration of the timing of sales into the reported fourth quarter of 2025, which led to an approximate 2.5% to 3.5% increase in sales in the International segment in the reported fourth quarter of 2025, a trend that we do not expect to recur at the end of fiscal year 2026.
+
+The operational changes in connection with the Expected Fiscal Year Alignment to date also included a shift implemented in early 2026 to the timing of annual price increases in certain International Subsidiaries so that the price increase and anticipated customer buying preceding the price increase would occur in the same calendar year. In addition, processing of certain customer orders from December 2025 was delayed to calendar year 2026.
+
+39 |
+
+Analysis of the Consolidated Statements of Income
+
+* Calculation not meaningful.
+
+(a) Amortization expense related to finite-lived acquired intangible assets that contribute to our ability to sell, manufacture, research, market and distribute products, compounds and intellectual property is included in Amortization of intangible assets as these intangible assets benefit multiple business functions. Amortization expense related to finite-lived acquired intangible assets that are associated with a single function is included in Cost of sales , Selling, general and administrative expenses or Research and development expenses , as appropriate.
+
+Revenue
+
+2025 vs. 2024
+
+Total revenue increased by $211 million, or 2%, in 2025 compared with 2024 reflecting operational revenue growth of $247 million, or 3%. Operational revenue growth was primarily due to the following:
+
+• price growth of approximately 4%;
+
+• volume growth from other in-line products of approximately 1%; and
+
+• volume growth from key franchises of approximately 1%,
+
+partially offset by:
+
+• volume decrease related to the impact of the divestiture of our medicated feed additive product portfolio, certain water soluble products and related assets (MFA divestiture) of approximately 3%.
+
+Foreign exchange decreased our reported revenue growth by approximately $36 million, or 1%.
+
+40 |
+
+Costs and Expenses
+
+2025 vs. 2024
+
+Cost of sales as a percentage of revenue was 28.2% in 2025, compared with 29.4% in 2024. The decrease was primarily as a result of:
+
+• favorable impact of the MFA divestiture;
+
+• price increases;
+
+• favorable foreign exchange; and
+
+• lower inventory charges,
+
+partially offset by:
+
+• unfavorable manufacturing and other costs.
+
+2025 vs. 2024
+
+SG&A expenses increased by $60 million, or 3%, in 2025 compared with 2024, primarily as a result of:
+
+• an increase in software expense;
+
+• higher charitable contributions;
+
+• an increase in certain significant items;
+
+• higher professional and consulting fees; and
+
+• higher travel and entertainment expenses,
+
+partially offset by:
+
+• lower depreciation expense;
+
+• favorable foreign exchange; and
+
+• lower logistics and freight expense.
+
+2025 vs. 2024
+
+R&D expenses increased by $12 million, or 2%, in 2025 compared with 2024, primarily as a result of:
+
+• higher depreciation expense;
+
+• an increase in certain compensation-related costs to support innovation and portfolio progression; and
+
+• unfavorable impact from foreign exchange,
+
+partially offset by:
+
+• lower professional and consulting services.
+
+2025 vs. 2024
+
+Amortization of intangible assets decreased by $13 million, or 9%, in 2025 compared with 2024 primarily due to asset impairments taken in 2025 and 2024, as well as assets that became fully amortized, partially offset by intangible assets placed in service in 2025 and 2024.
+
+41 |
+
+* Calculation not meaningful.
+
+2025 vs. 2024
+
+Restructuring charges and certain acquisition and divestiture-related costs were $51 million in 2025 and $53 million in 2024. Restructuring charges and certain acquisition and divestiture-related costs in 2025 primarily consisted of charges related to a transition from internal to external innovation and manufacturing of certain products and the closure of a related site, as well as employee termination costs related to organizational structure refinements. Restructuring charges and certain acquisition and divestiture-related costs in 2024 primarily consisted of employee termination costs related to organizational structure refinements, as well as costs related to the sale of our medicated feed additive product portfolio, certain water soluble products and related assets, partially offset by a reversal of certain employee termination costs as a result of a change in strategy from our 2015 operational efficiency initiative.
+
+For additional information regarding restructuring charges and acquisition and divestiture-related costs, see Notes to Consolidated Financial Statements— Note 6. Restructuring Charges and Other Costs Associated with Acquisitions and Divestitures .
+
+2025 vs. 2024
+
+Interest expense, net of capitalized interest, decreased by $3 million, or 1%, in 2025 compared with 2024, primarily as a result of higher capitalized interest in the current period associated with capital projects to support our future growth and higher gains on foreign exchange derivative instruments, partially offset by a higher average debt balance during a portion of the current year.
+
+* Calculation not meaningful.
+
+2025 vs. 2024
+
+The change in Other (income)/deductions—net is primarily as a result of the net loss on the sale of our medicated feed additive product portfolio, certain water soluble products and related assets in 2024, as well as lower asset impairment charges in the current period, partially offset by lower interest income in the current period.
+
+The income tax provision in the Consolidated Statements of Income includes tax costs and benefits, such as uncertain tax positions, repatriation decisions and audit settlements, among others.
+
+2025 vs. 2024
+
+Our effective tax rate was 20.4% for 2025 and 20.3% for 2024. The higher effective tax rate for 2025, as compared to 2024, was primarily attributable to a lower benefit in the U.S. related to foreign-derived intangible income, partially offset by a more favorable jurisdictional mix of earnings (which includes the impact of the location of pre-tax earnings, tax impact of permanent differences and repatriation activity) and higher net discrete tax benefits.
+
+42 |
+
+Operating Segment Results
+
+* Calculation not meaningful.
+
+2025 vs. 2024
+
+U.S. operating segment
+
+U.S. segment revenue increased by $23 million in 2025, which was relatively flat compared with 2024, of which $166 million resulted from growth in companion animal products, partially offset by a $143 million decline in livestock products.
+
+• Companion animal revenue growth was primarily due to increased sales of Simparica Trio, key dermatology products and small animal diagnostics, partially offset by lower sales of Librela.
+
+• Livestock revenue declined due to the impact of the MFA divestiture across cattle, poultry and swine products. Excluding the impact of the MFA divestiture, livestock revenue increased primarily due to higher demand for vaccines in our cattle and poultry markets, partially offset by a decrease in demand for certain swine products.
+
+U.S. segment earnings increased by $102 million, or 3%, in 2025 compared with 2024, primarily due to higher revenue and lower cost of sales, partially offset by higher operating expenses.
+
+International operating segment
+
+International segment revenue increased by $152 million, or 4%, in 2025 compared with 2024. Operational revenue growth was $188 million, or 5%, reflecting growth of $145 million in companion animal products and $43 million in livestock products.
+
+• Companion animal operational revenue growth was driven primarily by increased sales of our Simparica franchise products, key dermatology products and our mAb products for OA pain, Librela and Solensia.
+
+43 |
+
+• Livestock operational revenue growth was due to increased sales in our cattle and fish products, partially offset by lower sales of poultry products. Excluding the impact of the MFA divestiture, livestock revenue increased across all species. Sales of cattle products grew largely due to price and sales of poultry products grew due to higher demand for vaccines in key poultry markets and price. Sales of our fish products grew due to increased vaccine sales in Norway and Chile. Sales of swine products increased due to higher demand for vaccines and geographic expansion.
+
+• International segment revenue was positively impacted by operational changes made in connection with the Expected Fiscal Year Alignment, leading to an approximate 2.5% to 3.5% increase in sales in the International segment in the reported fourth quarter 2025 due to an acceleration of the timing of sales into the reported fourth quarter of 2025, a trend that we do not expect to recur.
+
+• Additionally, International segment revenue was unfavorably impacted by foreign exchange which decreased revenue by approximately $36 million, or 1%, primarily driven by the Brazilian real, Argentinian peso, Turkish lira, Mexican peso, Australian dollar and Canadian dollar.
+
+International segment earnings increased by $146 million, or 7%, in 2025 compared with 2024. Operational earnings growth was $106 million, or 5%, primarily due to higher revenue, partially offset by higher cost of sales and operating expenses.
+
+Other business activities
+
+Other business activities includes our Client Supply Services contract manufacturing results, our human health business and expenses associated with our dedicated veterinary medicine research and development organization, research alliances, U.S. regulatory affairs and other operations focused on the development of our products. Other R&D-related costs associated with non-U.S. market and regulatory activities are generally included in the International segment.
+
+2025 vs. 2024
+
+Other business activities net loss was flat in 2025 compared with 2024, reflecting a decrease in R&D costs primarily due to timing of spend related to projects and other strategic investments, as well as contract manufacturing results, offset by an increase in certain compensation-related costs and depreciation expense.
+
+Reconciling items
+
+Reconciling items include certain costs that are not allocated to our operating segments results, such as costs associated with the following:
+
+• Corporate, which includes certain costs associated with information technology, facilities, legal, finance, human resources, business development, certain diagnostics costs and communications, among others. These costs also include certain compensation costs, certain procurement costs, and other miscellaneous operating expenses that are not charged to our operating segments, as well as interest income and expense;
+
+• Certain transactions and events such as Purchase accounting adjustments , Acquisition and divestiture-related activities and Certain significant items , which are defined below; and
+
+• Other unallocated , which includes (i) certain overhead expenses associated with our global manufacturing operations not charged to our operating segments; (ii) certain costs associated with finance that specifically support our global manufacturing operations; (iii) certain supply chain and global logistics costs; and (iv) certain procurement costs.
+
+2025 vs. 2024
+
+Corporate expenses increased by $27 million, or 2%, in 2025 compared with 2024, primarily due to an increase in compensation-related costs, partially offset by favorable foreign exchange.
+
+Other unallocated expenses increased by $19 million, or 6%, in 2025 compared with 2024, primarily due to higher manufacturing costs and other charges, partially offset by lower inventory obsolescence, freight charges and favorable foreign exchange.
+
+See Notes to Consolidated Financial Statements— Note 19. Segment Information for further information.
+
+Adjusted net income
+
+General description of adjusted net income (a non-GAAP financial measure)
+
+Adjusted net income is an alternative view of performance used by management, and we believe that investors’ understanding of our performance is enhanced by disclosing this performance measure. The adjusted net income measure is an important internal measurement for us. Additionally, we measure our overall performance on this basis in conjunction with other performance metrics. The following are examples of how the adjusted net income measure is utilized:
+
+• senior management receives a monthly analysis of our operating results that is prepared on an adjusted net income basis;
+
+• our annual budgets are prepared on an adjusted net income basis; and
+
+• other goal setting and performance measurements.
+
+Purchase accounting adjustments
+
+Adjusted net income is calculated prior to considering certain significant purchase accounting impacts that result from business combinations and net asset acquisitions. These impacts, primarily associated with certain acquisitions, include amortization related to the increase in fair value of the acquired finite-lived intangible assets and depreciation related to the increase/decrease to fair value of the acquired fixed assets. Therefore, the adjusted net income measure includes the revenue earned upon the sale of the acquired products without considering the aforementioned significant charges.
+
+While certain purchase accounting adjustments can occur through 20 or more years, this presentation provides an alternative view of our performance that is used by management to internally assess business performance. We believe the elimination of amortization attributable to acquired intangible
+
+44 |
+
+assets provides management and investors an alternative view of our business results by providing a degree of parity to internally developed intangible assets for which R&D costs previously have been expensed.
+
+A completely accurate comparison of internally developed intangible assets and acquired intangible assets cannot be achieved through adjusted net income. These components of adjusted net income are derived solely from the impact of the items listed above. We have not factored in the impact of any other differences in experience that might have occurred if we had discovered and developed those intangible assets on our own, and this approach does not intend to be representative of the results that would have occurred in those circumstances. For example, our R&D costs in total, and in the periods presented, may have been different; our speed to commercialization and resulting revenue, if any, may have been different; or our costs to manufacture may have been different. In addition, our marketing efforts may have been received differently by our customers. As such, in total, there can be no assurance that our adjusted net income amounts would have been the same as presented had we discovered and developed the acquired intangible assets.
+
+Acquisition and divestiture-related costs
+
+Adjusted net income is calculated prior to considering transaction, integration and disintegration costs associated with significant business combinations, net asset acquisitions and divestitures. These incremental costs are excluded as they are incurred to acquire and integrate, or dispose and disintegrate, certain businesses as a result of the acquisition or disposal decision and are unique to each transaction. We have made no adjustments for the resulting synergies from these transactions.
+
+We believe that viewing income prior to considering these charges provides investors with a useful additional perspective because the significant costs incurred in a business combination, net asset acquisition or divestiture result primarily from the need to eliminate duplicate assets, activities or employees––a natural result of acquiring or disposing of a fully integrated set of activities. For this reason, we believe that the costs incurred to convert disparate systems, to close duplicative facilities or to eliminate duplicate positions (for example, in the context of a business combination) can be viewed differently from those costs incurred in the ordinary course of business.
+
+The integration and disintegration costs associated with a business combination, asset acquisition or divestiture may occur over several years, with the more significant impacts generally ending within three years of the transaction. Because of the need for certain external approvals for some actions, the span of time needed to achieve certain restructuring and integration or disintegration activities can be lengthy. For example, due to the regulated nature of the animal health medicines, vaccines and diagnostic business, the closure of excess facilities can take several years, as all manufacturing changes are subject to extensive validation and testing and must be approved by the U.S. Food and Drug Administration and/or other regulatory authorities.
+
+Certain significant items
+
+Adjusted net income is calculated excluding certain significant items. Certain significant items represent substantive, unusual items that are evaluated on an individual basis. Such evaluation considers both the quantitative and the qualitative aspect of their unusual nature. Unusual, in this context, may represent items that are not part of our ongoing business; items that, either as a result of their nature or size, we would not expect to occur as part of our normal business on a regular basis; items that would be nonrecurring; or items that relate to products that we no longer sell. While not all-inclusive, examples of items that could be included as certain significant items would be costs related to a major non-acquisition or divestiture-related restructuring charge and associated implementation costs for a program that is specific in nature with a defined term, such as those related to our non-acquisition or divestiture-related cost-reduction and productivity initiatives; costs related to our business process transformation program; amounts related to disposals of products or facilities that do not qualify as discontinued operations as defined by U.S. GAAP; certain asset impairment charges; adjustments related to the resolution of certain tax positions; significant currency devaluation; the impact of adopting certain significant, event-driven tax legislation; or charges related to legal matters. See Notes to Consolidated Financial Statements— Note 18. Commitments and Contingencies . Our normal, ongoing defense costs or settlements of and accruals on legal matters made in the normal course of our business would not be considered certain significant items.
+
+Reconciliation
+
+* Calculation not meaningful.
+
+(a) The effective tax rate on adjusted pretax income was 20.3%, 19.8% and 20.1% in 2025, 2024 and 2023, respectively.
+
+The higher effective tax rate on adjusted pretax income for 2025, as compared to 2024, was primarily attributable to a lower benefit in the U.S related to foreign-derived intangible income and a less favorable jurisdictional mix of earnings (which includes the impact of the location of pre-tax earnings, tax impact of permanent differences and repatriation activity), partially offset by higher net discrete benefits.
+
+The lower effective tax rate on adjusted pretax income for 2024, as compared to 2023, was primarily attributable to a higher benefit in the U.S. related to foreign-derived intangible income and lower net discrete tax expenses, partially offset by a less favorable jurisdictional mix of earnings (which includes the impact of the location of earnings, repatriation costs and Pillar Two global minimum tax). Jurisdictional mix of earnings can vary depending on repatriation decisions, operating fluctuations in the normal course of business and the impact of non-deductible and non-taxable items.
+
+45 |
+
+* Calculation not meaningful.
+
+(a) Diluted earnings per share was computed using the weighted-average common shares outstanding during the period plus the common stock equivalents related to stock options, restricted stock units, performance-vesting restricted stock units and deferred stock units.
+
+(a) Income taxes include the tax effect of the associated pre-tax amounts, calculated by determining the jurisdictional location of the pre-tax amounts and applying that jurisdiction's applicable tax rate.
+
+Income taxes in Certain significant items also includes:
+
+• For 2024, a tax expense related to the divestiture of the medicated feed additive product portfolio, certain water soluble products and related assets.
+
+• For 2023, a benefit from the tax loss on the divestiture of Performance Livestock Analytics, partially offset by a tax expense related to changes to prior years’ tax positions with regard to the one-time mandatory deemed repatriation tax under the Tax Cuts and Jobs Act.
+
+(b) Represents costs related to the sale of our medicated feed additive product portfolio, certain water soluble products and related assets.
+
+(c) For 2025, primarily consisted of employee termination costs related to organizational structure refinements, as well as costs related to a transition from internal to external innovation and manufacturing of certain products and the closure of a related site.
+
+For 2024, primarily consisted of employee termination costs related to organizational structure refinements, partially offset by a reversal of certain employee termination costs as a result of a change in strategy from our 2015 operational efficiency initiative.
+
+46 |
+
+For 2023, primarily represents employee termination and exit costs related to organizational structure refinements and other cost-reduction and productivity initiatives.
+
+(d) Represents costs related to our multi-year business process transformation program, which includes the implementation of a new enterprise resource planning (ERP) system, related digital technology solutions and other related costs. This comprehensive program is a major global and cross-functional company-wide effort, of which the Expected Fiscal Year Alignment is a part, that we believe will transform how we work across our business and contribute to all of our strategic priorities. Due to the nature, scope and magnitude of this investment, these costs are incremental transformational costs that are far in excess of the historical normal level of spending to support operations and are not expected to recur in the foreseeable future.
+
+(e) For 2025, represents charges related to a transition from internal to external innovation and manufacturing of certain products and the closure of a related site, as well as charges related to our aquaculture product portfolio.
+
+For 2024, represents certain asset impairment charges related to our aquaculture business.
+
+For 2023, primarily represents certain asset impairment charges related to our precision animal health and diagnostics businesses.
+
+(f) For 2025 and 2024, represents a net loss related to the sale of our medicated feed additive product portfolio, certain water soluble products and related assets in 2024.
+
+For 2023, primarily represents a net gain on the sale of a majority interest in our pet insurance business.
+
+The classification of the above items excluded from adjusted net income are as follows:
+
+Analysis of the Consolidated Statements of Comprehensive Income
+
+Changes in other comprehensive income for the periods presented are primarily related to foreign currency translation adjustments and unrealized gains/(losses) on derivative instruments. The foreign currency translation adjustment changes result from the strengthening or weakening of the U.S. dollar as compared to the currencies in the countries in which we do business. Unrealized gains/(losses) on the changes in the fair value of derivative instruments are recorded within Accumulated other comprehensive income/(loss) and reclassified into earnings depending on the nature and purpose of the financial instrument, as described in Note 9. Financial Instruments of the Notes to Consolidated Financial Statements.
+
+47 |
+
+Analysis of the Consolidated Balance Sheets
+
+December 31, 2025 vs. December 31, 2024
+
+For a discussion about the changes in Cash and cash equivalents , Short-term borrowings, Current portion of long-term debt and Long-term debt, net of discount and issuance costs , see “Analysis of financial condition, liquidity and capital resources” below.
+
+Accounts receivable, less allowance for doubtful accounts increased primarily as a result of higher net sales in the period.
+
+Inventories increased primarily as a result of inventory build-up to support production for the forecasted demand of certain products. See Notes to Consolidated Financial Statements - Note 11. Inventories.
+
+Other current assets increased primarily due to an increase in collateral posted related to derivative contracts, the deferral of a prepaid tax benefit in connection with a prepayment from a related foreign entity in Belgium, as well as higher value-added tax receivables, partially offset by the mark-to-market adjustments of derivative instruments.
+
+Property, plant and equipment less accumulated depreciation increased primarily as a result of capital spending, partially offset by depreciation expense. See Notes to Consolidated Financial Statements - Note 12. Property, Plant and Equipment.
+
+The increase in Operating lease right-of-use assets reflects assets acquired through new and amended lease agreements, partially offset by lease amortization, while the increase in Operating lease liabilities primarily reflects an amended lease obligation in the current period, partially offset by lease payments. See Notes to Consolidated Financial Statements— Note 10. Leases .
+
+Identifiable intangible assets, less accumulated amortization decreased primarily due to amortization expense. See Notes to Consolidated Financial Statements - Note 13. Goodwill and Other Intangible Assets.
+
+The net changes in Noncurrent deferred tax assets, Noncurrent deferred tax liabilities, Income taxes payable and Other taxes payable primarily reflect adjustments to the accrual for the income tax provision, the timing of income tax payments and the tax impact of various acquisitions and divestitures.
+
+Other noncurrent assets increased primarily due to capitalized cloud computing arrangements implementation costs, partially offset by the mark-to-market adjustments of derivative instruments.
+
+Accounts payable increased as a result of the timing of vendor and value-added tax payments.
+
+Accrued expenses increased primarily as a result of increases in accrued contract rebates, interest and third-party inventory.
+
+Accrued compensation and related items decreased primarily due to the payments of 2024 annual incentive bonuses, payments for sales incentive bonuses and savings plan contributions to eligible employees, partially offset by the accrual of 2025 annual incentive bonuses, savings plan contributions to eligible employees and sales incentive bonuses.
+
+Other current liabilities decreased primarily due to a decrease in collateral received related to derivative contracts, partially offset by the mark-to-market adjustments of derivative instruments.
+
+Other noncurrent liabilities increased primarily due to the mark-to-market adjustments of derivative instruments.
+
+For an analysis of the changes in Total Equity , see the Consolidated Statements of Equity and Notes to Consolidated Financial Statements— Note 16. Stockholders' Equity .
+
+Operating activities
+
+2025 vs. 2024
+
+Net cash provided by operating activities was $2,904 million in 2025 compared with $2,953 million in 2024. The decrease in operating cash flows was primarily attributable to the timing of receipts and payments in the ordinary course of business and higher inventory build-up of certain products due to increased demand, partially offset by higher net income adjusted by non-cash items and the timing of income taxes paid.
+
+Investing activities
+
+2025 vs. 2024
+
+Net cash used in investing activities was $748 million in 2025 compared with $315 million in 2024. The net cash used in investing activities for 2025 was primarily due to capital expenditures and net payments of derivative instrument activity. The net cash used in investing activities for 2024 was primarily due to capital expenditures, partially offset by net proceeds on the sale of our medicated feed additive product portfolio, certain water soluble products and related assets, as well as net proceeds from derivative instrument activity.
+
+48 |
+
+Financing activities
+
+2025 vs. 2024
+
+Net cash used in financing activities was $1,870 million in 2025 compared with $2,660 million in 2024. The net cash used in financing activities for 2025 was primarily attributable to the purchase of treasury shares and related excise taxes, the repayment of the aggregate principal amounts of our 2015 and 2022 senior notes due 2025, the payment of dividends and payment of the capped calls related to the convertible senior notes, partially offset by proceeds from the issuance of the convertible senior notes in December 2025 and senior notes in August 2025. The net cash used in financing activities for 2024 was primarily attributable to the purchase of treasury shares and related payment of excise taxes, the payment of dividends and taxes paid on withholding shares, partially offset by proceeds in connection with the issuance of common stock under our equity incentive plan.
+
+Analysis of financial condition, liquidity and capital resources
+
+While we believe our cash and cash equivalents on hand, our operating cash flows and our existing financing arrangements will be sufficient to support our cash needs for the next twelve months and beyond, this may be subject to the environment in which we operate. Risks to our meeting future funding requirements are described in Global economic conditions below.
+
+Selected measures of liquidity and capital resources
+
+(a) Accounts receivable are usually collected over a period of 45 to 75 days . For the years ended December 31, 2025 and 2024, the number of days that accounts receivables were outstanding have remained within this range. We regularly monitor our accounts receivable for collectability, particularly in markets where economic conditions remain uncertain. We believe that our allowance for doubtful accounts is appropriate. Our assessment is based on such factors as past due aging, historical and expected collection patterns, the financial condition of our customers, the robust nature of our credit and collection practices and the economic environment.
+
+For additional information about the sources and uses of our funds, see the Analysis of the Consolidated Balance Sheets and Analysis of the Consolidated Statements of Cash Flows sections of this MD&A.
+
+Credit facility and other lines of credit
+
+In August 2025, we entered into a new revolving credit agreement with a syndicate of banks providing for a multi-year $1.25 billion senior unsecured revolving credit facility (the credit facility), which expires in August 2030. Subject to certain conditions, we have the right to increase the credit facility up to $1.75 billion. The credit facility contains a financial covenant requiring us to not exceed a maximum total leverage ratio (the ratio of consolidated net debt as of the end of the period to consolidated Earnings Before Interest, Income Taxes, Depreciation and Amortization (EBITDA) for such period) of 3.50:1. Upon entering into a material acquisition, the maximum total leverage ratio increases to 4.00:1, and extends until the fourth full consecutive fiscal quarter ended immediately following the consummation of a material acquisition. In addition, the credit facility contains other customary covenants.
+
+We were in compliance with all financial covenants as of December 31, 2025 and December 31, 2024. There were no amounts drawn under the credit facility as of December 31, 2025 or December 31, 2024.
+
+We have additional lines of credit and other credit arrangements with a group of banks and other financial intermediaries for general corporate purposes. We maintain cash and cash equivalent balances in excess of our outstanding short-term borrowings. As of December 31, 2025, we had access to $51 million of lines of credit which expire at various times and are generally renewed annually. There were no borrowings outstanding related to these facilities as of December 31, 2025 or December 31, 2024.
+
+Domestic and international short-term funds
+
+Many of our operations are conducted outside the U.S. The amount of funds held in the U.S. will fluctuate due to the timing of receipts and payments in the ordinary course of business and due to other reasons, such as business development activities. As part of our ongoing liquidity assessments, we regularly monitor the mix of U.S. and international cash flows (both inflows and outflows). Actual repatriation of overseas funds can result in additional U.S. and local income taxes, such as U.S. state income taxes, local withholding taxes, and taxes on currency gains and losses. See Notes to Consolidated Financial Statements— Note 8. Tax Matters .
+
+Global economic conditions
+
+Global financial markets may be impacted by macroeconomic, business and financial volatility. Challenging economic conditions in recent years have not had, nor do we anticipate that it will have, a significant impact on our liquidity. Due to our operating cash flows, financial assets, access to capital markets and available lines of credit and revolving credit agreements, we continue to believe that we have the ability to meet our liquidity needs for the foreseeable future. As markets change, we continue to monitor our liquidity position. There can be no assurance that a challenging economic environment or an economic downturn will not impact our liquidity or our ability to obtain financing in the future.
+
+49 |
+
+Contractual obligations
+
+In the normal course of business, we enter into contracts and commitments that obligate us to make payments in the future. These obligations include long-term debt, including interest obligations, purchase obligations, lease commitments, other liabilities, benefit plan obligations and uncertain tax positions. See Notes to Consolidated Financial Statements— Note 9. Financial Instruments , Note 18. Commitments and Contingencies, Note 10. Leases , Note 6. Restructuring Charges and Other Costs Associated with Acquisitions and Divestitures, Note 14. Benefit Plans and Note 8. Tax Matters for further information on material cash requirements from known contractual and other obligations.
+
+Debt securities
+
+Convertible Senior Notes
+
+On December 18, 2025, we completed a private offering (the “offering”) of 0.250% convertible senior notes (the “convertible senior notes”) with a maturity date of June 15, 2029, unless earlier repurchased, redeemed or converted. The aggregate principal amount of the convertible senior notes sold in the offering was $2.0 billion, which includes $250 million in aggregate principal amount of convertible senior notes issued pursuant to the initial purchasers’ option to purchase additional convertible senior notes on the same terms and conditions, which the initial purchasers exercised in full for settlement on December 18, 2025.
+
+The convertible senior notes were issued pursuant to an indenture, dated as of December 18, 2025, between us and Deutsche Bank Trust Company Americas, as trustee. If we call any convertible senior notes for redemption, a "make-whole fundamental change" will occur under the indenture with respect to those convertible senior notes, in which case the conversion rate applicable to the conversion of those convertible senior notes will be increased if they are converted during a specified period of time after they are called for redemption. The convertible senior notes are convertible at an initial conversion price of approximately $148.20 per share of common stock. Prior to March 15, 2029, the convertible senior notes are convertible during certain periods only: (i) if the trading price of our common stock is greater than or equal to 130% of the conversion price for at least 20 trading days (whether or not consecutive) during the 30 consecutive trading days prior to the end of a calendar quarter, (ii) the trading price per $1,000 principal amount of convertible senior notes for each trading day of the specified measurement period was less than 98% of the product of the last reported sale price of our common stock and the conversion rate on each such trading day, (iii) if we call the notes for redemption and (iv) upon the occurrence of certain corporate events, as set forth in the indenture. On or after March 15, 2029, holders may convert all or any portion of their notes, regardless of the foregoing conditions. Upon any conversion of the convertible senior notes, we will pay cash up to the aggregate principal amount of the notes to be converted and pay or deliver, as the case may be, cash, shares of our common stock or a combination thereof, at our election, in respect of the remainder, if any, of our conversion obligation in excess of the aggregate principal amount of the notes being converted.
+
+The net proceeds from the offering were $1,970 million, after deducting the initial purchasers’ discounts and expenses of $30 million. We used the net proceeds from the offering as follows: (i) $187 million to fund the cost of entering into the capped call transactions described below, (ii) $248 million to purchase approximately 2.1 million shares of Zoetis’ common stock, par value $0.01 per share (the “common stock”), in privately negotiated transactions entered into concurrently with the pricing of the offering effected with or through one of the initial purchasers or its affiliate and (iii) the remaining $1,535 million for additional repurchases of common stock following the date of the offering, which repurchases were substantially completed as of December 31, 2025.
+
+In connection with the issuance of the convertible senior notes, we also entered into privately negotiated capped call transactions with certain counterparties (the “capped calls”). The capped calls each have a strike price of approximately $148.20 per share, subject to certain adjustments, which correspond to the initial conversion price of the convertible senior notes. The capped calls have initial cap prices of approximately $211.72 per share, subject to certain adjustments. The capped calls cover, subject to anti-dilution adjustments, approximately 13.5 million shares of our common stock. We have the option to settle the capped calls in either shares, cash or a combination thereof. The capped calls are generally intended to reduce or offset the potential dilution to our common stock upon any conversion of the convertible senior notes with such reduction or offset, as the case may be, subject to a cap based on the cap price. However, if the market price per share of our common stock, as measured under the terms of the capped calls, exceeds the cap prices of the capped calls, there would nevertheless be dilution and/or there would not be an offset of such cash payments, in each case, to the extent that such market price exceeds the cap price of the capped calls. The capped calls are separate transactions, and not part of the terms of the convertible senior notes. We analyzed the transactions under ASC 815, Derivatives and Hedging, and determined that the capped calls met the criteria for classification as an equity transaction with no subsequent remeasurement, as long as they continue to meet the conditions for equity classification. These capped calls are recorded in stockholders’ equity on our balance sheet and are not accounted for as a bifurcated derivative. The cost of the capped calls of $187 million, net of $42 million in deferred tax assets, was recorded as a decrease to Additional paid-in capital on our Consolidated Balance Sheets as of December 31, 2025.
+
+On December 17, 2025, we and the lenders under the credit facility entered into the First Waiver to the Revolving Credit Agreement, dated as of December 17, 2025 (the “waiver”), among us, the lenders party thereto, the issuing banks party thereto and JPMorgan Chase Bank, N.A., as administrative agent. The waiver waived a technical provision in the credit facility and explicitly permits early conversions of the convertible senior notes pursuant to their terms.
+
+Senior Notes and Other Long-Term Debt
+
+On August 18, 2025, we issued $850 million aggregate principal amount of 4.150% senior notes due 2028 and $1.00 billion aggregate principal amount of 5.000% senior notes due 2035 (collectively, 2025 senior notes), with an original issue discount of $2 million. The net proceeds were used to redeem in full the $600 million aggregate principal amount of our 5.400% 2022 senior notes due 2025 and the $750 million aggregate principal amount of our 4.500% 2015 senior notes due 2025 on August 28, 2025 and September 17, 2025, respectively, and the remainder is being used for general corporate purposes.
+
+Our senior notes are governed by an indenture and supplemental indentures (collectively, the indenture) between us and Deutsche Bank Trust Company Americas, as trustee. The indenture contains certain covenants, including limitations on our and certain of our subsidiaries' ability to incur liens or engage in sale lease-back transactions. The indenture also contains restrictions on our ability to consolidate, merge or sell substantially all of our assets. In addition, the indenture contains other customary terms, including certain events of default, upon the occurrence of which the senior notes may be declared immediately due and payable.
+
+50 |
+
+Pursuant to the indenture, we are able to redeem the senior notes of any series, in whole or in part, at any time by paying a “make whole” premium, plus accrued and unpaid interest to, but excluding, the date of redemption. Upon the occurrence of a change of control of us and a downgrade of the senior notes below an investment grade rating by each of Moody's Investors Service, Inc. and Standard & Poor's Ratings Services, we are, in certain circumstances, required to make an offer to repurchase all of the outstanding senior notes at a price equal to 101% of the aggregate principal amount of the senior notes together with accrued and unpaid interest to, but excluding, the date of repurchase.
+
+Our outstanding debt securities are as follows:
+
+Credit ratings
+
+Two major corporate debt-rating organizations, Moody's and S&P, assign ratings to our short-term and long-term debt. A security rating is not a recommendation to buy, sell or hold securities and the rating is subject to revision or withdrawal at any time by the rating organization. Each rating should be evaluated independently of any other rating.
+
+Pension obligations
+
+We maintain pension obligations associated with certain international defined benefit plans and expect to contribute a total of $8 million to these plans in 2026. As of December 31, 2025, the supplemental savings plan liability was $47 million. For additional information, see Notes to Consolidated Financial Statements— Note 14. Benefit Plans.
+
+Share repurchase program
+
+In August 2024, our Board of Directors authorized a multi-year share repurchase program of up to $6 billion of our outstanding common stock. In connection with the December 18, 2025 private offering of 0.250% convertible senior notes, we purchased approximately 2.1 million shares of Zoetis’ common stock, par value $0.01 per share, in privately negotiated transactions entered into concurrently with the pricing of the convertible senior notes offering effected with or through one of the initial purchasers or its affiliate. Following the date of the offering, we used $1,535 million of the remaining proceeds from the offering for additional repurchases of common stock which repurchases were substantially completed as of December 31, 2025. As of December 31, 2025, there was $2.4 billion remaining under this authorization. Purchases of Zoetis shares may be made at the discretion of management, depending on market conditions and business needs. Share repurchases may be executed through various means, including open market or privately negotiated transactions. During 2025, 23.9 million shares were repurchased for $3.2 billion, which excludes a $31 million accrual for excise tax on net share repurchases.
+
+Off-balance sheet arrangements
+
+In the ordinary course of business and in connection with the sale of assets and businesses, we may indemnify our counterparties against certain liabilities that may arise in connection with a transaction or that are related to activities prior to a transaction. These indemnifications typically pertain to environmental, tax, employee and/or product-related matters, and patent-infringement claims. If the indemnified party were to make a successful claim pursuant to the terms of the indemnification, we would be required to reimburse the loss. These indemnifications are generally subject to threshold amounts, specified claim periods and other restrictions and limitations. Historically, we have not paid significant amounts under these provisions and, as of December 31, 2025 and 2024, recorded amounts for the estimated fair value of these indemnifications are not material.
+
+New accounting standards
+
+See Note 3. Significant Accounting Policies in the Notes to Consolidated Financial Statements for discussion of recent accounting pronouncements, including the respective dates of adoption or expected adoption and effects or expected effects on our consolidated financial position, results of operations and cash flows.
+
+51 |
+
+Forward-looking statements and factors that may affect future results
+
+This report contains “forward-looking” statements. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. We generally identify forward-looking statements by using words such as “anticipate,” “estimate,” “could,” “expect,” “intend,” “project,” “plan,” “predict,” “believe,” “seek,” “continue,” “outlook,” “forecast,” “objective,” “target,” “may,” “might,” “will,” “should,” “can have,” “likely” or the negative version of these words or comparable words or by using future dates in connection with any discussion of future performance, actions or events.
+
+In particular, forward-looking statements include statements relating to our future actions, business plans or prospects, prospective products, product approvals or products under development, product and supply chain disruptions, R&D costs, timing and likelihood of success, future operating or financial performance, future results of current and anticipated products and services, strategies, sales efforts, expenses, production efficiencies, production margins, anticipated timing of generic market entries, integration of acquired businesses, anticipated impact or timing of divestitures, interest rates, tax rates, tariffs, changes in tax regimes and laws, impacts of the timing and processing of sales in the International segment; possible impacts of the expected fiscal year alignment , foreign exchange rates, growth in emerging markets, the outcome of contingencies, such as legal proceedings, plans related to share repurchases and dividends, government regulation, taxes and financial results. These statements are not guarantees of future performance, actions or events. Forward-looking statements are subject to risks and uncertainties, many of which are beyond our control, and are based on assumptions that could prove to be inaccurate. Among the factors that could cause actual results to differ materially from past results and future plans and projected future results are the following:
+
+• the possible impact and timing of competing products, including generic alternatives, on our products and our ability to compete against such products;
+
+• unanticipated safety, quality or efficacy concerns or issues about our products;
+
+• the economic, political, legal and business environment of the foreign jurisdictions in which we do business;
+
+• the decline in global economic conditions, including the ongoing conflicts and rising tensions in various parts of the world, economic weakness in China and inflation;
+
+• consolidation of our customers and distributors;
+
+• changes in the distribution channel for companion animal products;
+
+• an outbreak of infectious disease carried by animals;
+
+• disruptive innovations and advances in medical practices and technologies;
+
+• failure to successfully acquire businesses, license rights or products, integrate businesses, form and manage alliances or divest businesses;
+
+• restrictions and bans on the use of and consumer preferences regarding antibacterials in food-producing animals;
+
+• perceived adverse effects linked to the consumption of food derived from animals that utilize our products or animals generally;
+
+• increased regulation or decreased governmental support relating to the raising, processing or consumption of food-producing animals;
+
+• modification of foreign trade policy by the U.S. or other countries or the imposition of tariffs on imported or exported goods;
+
+• adverse weather conditions and the availability of natural resources;
+
+• the impact of climate change on our activities and the activities of our customers and suppliers;
+
+• an inability to hire and retain executive officers and other key personnel;
+
+• product launch delays, inventory shortages, recalls or unanticipated costs caused by manufacturing problems and capacity imbalances;
+
+• failure of our R&D, acquisition and licensing efforts to generate new products and product lifecycle innovations;
+
+• difficulties or delays in the development or commercialization of new products;
+
+• illegal distribution and/or sale of our products or the misuse or off-label use of our products;
+
+• legal factors, including product liability claims, antitrust litigation and governmental investigations, including tax disputes, environmental concerns, laws and regulations regarding data privacy, commercial disputes and patent disputes with branded and generic competitors, any of which could preclude commercialization of products or negatively affect the profitability of existing products;
+
+• fluctuations in foreign exchange rates and potential currency controls;
+
+• a cyberattack, information security breach or other misappropriation of our data;
+
+• governmental laws and regulations affecting domestic and foreign operations, including without limitation, tax obligations and changes affecting the tax treatment by the U.S. of income earned outside the U.S. that may result from pending or possible future proposals;
+
+• failure to protect our intellectual property rights or to operate our business without infringing the intellectual property rights of others;
+
+• failure to generate sufficient cash to service our substantial indebtedness; and
+
+• the other factors set forth under “Risk Factors” in Item 1A of Part I of this 2025 Annual Report.
+
+However, there may also be other risks that we are unable to predict at this time. These risks or uncertainties may cause actual results to differ materially from those contemplated by a forward-looking statement. You should not put undue reliance on forward-looking statements. Forward-looking statements speak only as of the date on which they are made. We undertake no obligation to publicly update forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law or by the rules and regulations of the SEC. You are advised, however, to consult any further disclosures we make on related subjects in our Form 10-Q and 8-K reports and our other filings with the SEC. You should understand that it is not possible to predict or identify all such factors. Consequently, you should not consider the above to be a complete discussion of all potential risks or uncertainties.
+
+52 |

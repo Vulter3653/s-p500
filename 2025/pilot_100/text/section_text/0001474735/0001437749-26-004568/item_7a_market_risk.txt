@@ -1,0 +1,23 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risk from changes in foreign currency exchange rates, commodity prices and interest rates. To reduce the risk from these changes, we use financial instruments from time to time. We do not hold or issue financial instruments for trading purposes.
+
+Foreign C urrency
+
+We are exposed to foreign currency exchange risk as a result of transactions denominated in currencies other than the U.S. Dollar, as well as operating businesses and supply chains in foreign countries. Periodically, we utilize foreign currency forward purchase and sales contracts to manage the volatility associated with certain foreign currency purchases and sales in the normal course of business. Contracts typically have maturities of twelve months or less. Realized gains and losses on transactions denominated in foreign currency are recorded as a component of cost of goods sold in the statements of comprehensive income.
+
+The following is a summary of the 24 foreign currency forward contracts outstanding as of December 31, 2025 (notional amounts in thousands of U.S. dollars).
+
+Commodity P rices
+
+We are a purchaser of commodities and components manufactured from commodities including steel, aluminum, copper and others. As a result, we are exposed to fluctuating market prices for those commodities. While such materials are typically available from numerous suppliers, commodity raw materials are subject to price fluctuations. We generally buy these commodities and components based on market prices that are established with the supplier as part of the purchase process. Depending on the supplier, these market prices may reset on a periodic basis based on negotiated lags and calculations. To the extent that commodity prices increase and we do not have firm pricing from our suppliers, or our suppliers are not able to honor such prices, we may experience a decline in our gross margins to the extent we are not able to increase selling prices of our products or obtain manufacturing efficiencies or supply chain savings to offset increases in commodity costs.
+
+Periodically, we engage in certain commodity risk management activities to mitigate the impact of potential price fluctuations on our financial results. These derivatives typically have maturities of less than eighteen months. As of December 31, 2025, we had the following commodity forward contract outstanding (notional amounts in thousands of U.S. dollars):
+
+Interest R ates
+
+As of December 31, 2025, all of the outstanding debt under our Term Loans and Revolving Facility was subject to floating interest rate risk. As of December 31, 2025, we had the following interest rate swap contracts outstanding to help minimize our borrowing costs (notional amount in thousands of U.S. dollars):
+
+In July 2025, in conjunction with the amendments to the Company's credit agreements discussed further in Note 12, “Credit Agreements,” to our consolidated financial statements in Item 8 of this Annual Report on Form 10-K, the Company modified its interest rate swaps to match that of the underlying debt and reconfirmed hedge effectiveness. The Company formally documented all relationships between interest rate hedging instruments and the related hedged items, as well as its risk-management objectives and strategies for undertaking various hedge transactions. These interest rate swap agreements qualify as cash flow hedges and therefore, the effective portions of their gains or losses are reported as a component of accumulated other comprehensive income (loss) in the consolidated balance sheets. As of December 31, 2025, the fair value of these interest rate swaps was an asset of $11.6 million, excluding the impact of credit risk. Even after giving effect to these swaps, we are exposed to risks due to changes in interest rates with respect to the portions of our Term Loans and Revolving Facility that are not covered by the swaps. A hypothetical change in the SOFR interest rate of 100 basis points would have changed annual interest expense by approximately $7.4 million (or, without the swaps in place, approximately $12.4 million) in 2025.
+
+For additional information on the Company’s foreign currency and commodity forward contracts and interest rate swaps, including amounts charged to the statements of comprehensive income during 2025, 2024, and 2023, refer to Note 5, “Derivative Instruments and Hedging Activities,” and Note 6, “Accumulated Other Comprehensive Income (Loss),” to our consolidated financial statements in Item 8 of this Annual Report on Form 10-K.

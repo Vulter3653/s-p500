@@ -1,0 +1,823 @@
+[TABLE 001]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware 33-0857544 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
+[END TABLE 003]
+
+[TABLE 004]
+6340 Sequence Drive , San Diego , CA 92121 (Address of principal executive offices) (Zip Code)
+[END TABLE 004]
+
+[TABLE 005]
+Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.001 Par Value Per Share DXCM Nasdaq Global Select Market
+[END TABLE 005]
+
+[TABLE 006]
+Large accelerated filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 006]
+
+[TABLE 007]
+Class Outstanding at February 5, 2026 Common stock, $0.001 par value per share 384,864,842
+[END TABLE 007]
+
+[TABLE 008]
+DexCom, Inc. Table of Contents
+[END TABLE 008]
+
+[TABLE 009]
+Page PART I ITEM 1. Business 6 ITEM 1A. Risk Factors 27 ITEM 1B. Unresolved Staff Comments 71 ITEM 1C. Cybersecurity 71 ITEM 2. Properties 73 ITEM 3. Legal Proceedings 73 ITEM 4. Mine Safety Disclosures 74 PART II ITEM 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 75 ITEM 6. [Reserved] 76 ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 77 ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk 87 ITEM 8. Financial Statements and Supplementary Data 88 ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 88 ITEM 9A. Controls and Procedures 89 ITEM 9B. Other Information 91 ITEM 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 91 PART III ITEM 10. Directors, Executive Officers and Corporate Governance 92 ITEM 11. Executive Compensation 92 ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 92 ITEM 13. Certain Relationships and Related Transactions, and Director Independence 92 ITEM 14. Principal Accountant Fees and Services 93 PART IV ITEM 15. Exhibits and Financial Statement Schedules 94 ITEM 16. Form 10-K Summary 96 Signatures 97
+[END TABLE 009]
+
+[TABLE 010]
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+[END TABLE 010]
+
+[TABLE 011]
+Available Information
+[END TABLE 011]
+
+[TABLE 012]
+Summary of Risk Factors
+[END TABLE 012]
+
+[TABLE 013]
+ITEM 1 - BUSINESS
+[END TABLE 013]
+
+[TABLE 014]
+Overview
+[END TABLE 014]
+
+[TABLE 015]
+Market Opportunity
+[END TABLE 015]
+
+[TABLE 016]
+Our Technology Platform
+[END TABLE 016]
+
+[TABLE 017]
+Commercial Operations
+[END TABLE 017]
+
+[TABLE 018]
+Competition
+[END TABLE 018]
+
+[TABLE 019]
+Manufacturing
+[END TABLE 019]
+
+[TABLE 020]
+Third-Party Coverage and Reimbursement
+[END TABLE 020]
+
+[TABLE 021]
+Intellectual Property
+[END TABLE 021]
+
+[TABLE 022]
+Sustainability
+[END TABLE 022]
+
+[TABLE 023]
+Government Regulation
+[END TABLE 023]
+
+[TABLE 024]
+Advisory Boards and Consultants
+[END TABLE 024]
+
+[TABLE 025]
+Human Capital
+[END TABLE 025]
+
+[TABLE 026]
+Country Female Male Grand Total Ethnically Diverse (US Only)* United States 2,400 2,900 5,300 3,100 International 3,000 2,800 5,800 N/A Grand Total** 5,400 5,700 11,100 3,100
+[END TABLE 026]
+
+[TABLE 027]
+ITEM 1A - RISK FACTORS
+[END TABLE 027]
+
+[TABLE 028]
+Risks Related to Our Business and Operations
+[END TABLE 028]
+
+[TABLE 029]
+Risks Related to Pricing and Reimbursement
+[END TABLE 029]
+
+[TABLE 030]
+Risks Related to Product Development
+[END TABLE 030]
+
+[TABLE 031]
+Risks Related to Manufacturing, Commercial Operations and Commercialization
+[END TABLE 031]
+
+[TABLE 032]
+Risks Related to our International Operations
+[END TABLE 032]
+
+[TABLE 033]
+Risks Related to Privacy and Security
+[END TABLE 033]
+
+[TABLE 034]
+Risks Related to Non-Compliance with Laws, Regulations and Contractual Requirements and Healthcare Industry Shifts
+[END TABLE 034]
+
+[TABLE 035]
+Risks Related to Intellectual Property Protection and Use
+[END TABLE 035]
+
+[TABLE 036]
+Litigation Risks
+[END TABLE 036]
+
+[TABLE 037]
+Other Risks Related to Our Business and Financial Condition
+[END TABLE 037]
+
+[TABLE 038]
+Risks Relating to Our Public Company Status, Tax Laws and Growth Through Acquisition
+[END TABLE 038]
+
+[TABLE 039]
+Risks Related to Our Common Stock
+[END TABLE 039]
+
+[TABLE 040]
+Risks Related to Our Debt
+[END TABLE 040]
+
+[TABLE 041]
+Risks Related to Environmental, Social and Governance Matters
+[END TABLE 041]
+
+[TABLE 042]
+General Risk Factors
+[END TABLE 042]
+
+[TABLE 043]
+ITEM 1B - UNRESOLVED STAFF COMMENTS
+[END TABLE 043]
+
+[TABLE 044]
+ITEM 1C - CYBERSECURITY
+[END TABLE 044]
+
+[TABLE 045]
+ITEM 2 - PROPERTIES
+[END TABLE 045]
+
+[TABLE 046]
+Location Purpose San Diego, California Corporate headquarters, research and development, and manufacturing Mesa, Arizona Manufacturing Penang, Malaysia Manufacturing Athenry, Ireland (1) Manufacturing (1) Our new manufacturing facility in Athenry, Ireland is under construction.
+[END TABLE 046]
+
+[TABLE 047]
+ITEM 3 - LEGAL PROCEEDINGS
+[END TABLE 047]
+
+[TABLE 048]
+ITEM 4 - MINE SAFETY DISCLOSURES
+[END TABLE 048]
+
+[TABLE 049]
+ITEM 5 - MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[END TABLE 049]
+
+[TABLE 050]
+Period Total number of shares purchased Average price paid per share (1) Total number of shares purchased as part of publicly announced program (2) Maximum dollar value of shares that may yet be purchased under the program (in millions)(2) 10/01/2025 - 10/31/2025 875,652 $ 58.64 875,652 $ 511.4 11/01/2025 - 11/30/2025 4,388,845 $ 59.56 4,388,845 $ 250.0 12/01/2025 - 12/31/2025 — $ — — $ 250.0 (1) Average price paid per share includes broker commissions. (2) On May 1, 2025, we announced that our Board of Directors authorized and approved a share repurchase program of up to $750.0 million of our outstanding common stock, with a repurchase period ending no later than June 30, 2026.
+[END TABLE 050]
+
+[TABLE 051]
+ITEM 6 - [RESERVED]
+[END TABLE 051]
+
+[TABLE 052]
+ITEM 7 - MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[END TABLE 052]
+
+[TABLE 053]
+Overview
+[END TABLE 053]
+
+[TABLE 054]
+Who We Are We are a medical device company primarily focused on the design, development and commercialization of CGM systems for the management of diabetes and metabolic health by patients, caregivers, and clinicians around the world. We received approval from the FDA and commercialized our first product in 2006. We launched our latest generation systems, the G7 in 2023, and the G7 15 Day in late 2025. In August 2024, we launched Stelo, our biosensor designed for adults with prediabetes and Type 2 diabetes who do not use insulin, as the first over-the-counter glucose biosensor in the U.S. Unless the context requires otherwise, the terms “we,” “us,” “our,” the “company,” or “Dexcom” refer to DexCom, Inc. and its subsidiaries.
+[END TABLE 054]
+
+[TABLE 055]
+Global Presence We have built a direct sales organization in North America and certain international markets to call on health care professionals, such as endocrinologists, physicians and diabetes educators, who can educate and influence patient adoption of continuous glucose monitoring. To complement our direct sales efforts, we have entered into distribution arrangements in North America and several international markets that allow distributors to sell our products. Future Developments Product Development: We plan to develop future generations of technologies that are focused on improved performance and convenience and that will enable intelligent insulin administration. Over the longer term, we plan to continue to develop and improve networked platforms with open architecture, connectivity and transmitters capable of communicating with other devices. We also intend to expand our efforts to accumulate CGM patient data and metrics and apply predictive modeling and machine learning to generate interactive CGM insights that can inform patient behavior. Partnerships: We continue to support partnerships with insulin pump companies and companies or institutions developing insulin delivery systems, including automated insulin delivery systems. With the introduction of Stelo, we are also pursuing and supporting development partnerships with consumer technology product companies that seek to provide metabolic health insights to their customers. New Opportunities: We are also exploring how to extend our offerings to other opportunities, including for people with pre-diabetes, people who are obese, people who are pregnant, and people in the hospital setting. Eventually, we may apply our technological expertise to products beyond glucose monitoring.
+[END TABLE 055]
+
+[TABLE 056]
+Critical Accounting Estimates
+[END TABLE 056]
+
+[TABLE 057]
+Overview of Financial Results The most important financial indicators that we use to assess our business are revenue, gross profit, operating income, net income, and operating cash flow. Key Highlights for fiscal 2025 include the following: Revenue Gross Profit Operating Income Net Income Operating Cash Flow $4.66 billion $2.80 billion $911.8 million $836.3 million $1.44 billion up 16% from 2024 up 15% from 2024 up 52.0% from 2024 up 45% from 2024 up 46% from 2024
+[END TABLE 057]
+
+[TABLE 058]
+Results of Operations
+[END TABLE 058]
+
+[TABLE 059]
+Financial Overview
+[END TABLE 059]
+
+[TABLE 060]
+Twelve Months Ended December 31, 2025 Compared to Twelve Months Ended December 31, 2024 Twelve Months Ended December 31, 2025 - 2024 (In millions, except per share amounts) 2025 % of Revenue (1) 2024 % of Revenue (1) $ Change % Change Revenue $ 4,662.0 100.0 % $ 4,033.0 100.0 % $ 629.0 16 % Cost of sales 1,860.1 39.9 % 1,594.8 39.5 % 265.3 17 % Gross profit 2,801.9 60.1 % 2,438.2 60.5 % 363.7 15 % Operating expenses: Research and development 599.1 13 % 552.4 14 % 46.7 8 % Selling, general and administrative 1,291.0 28 % 1,285.8 32 % 5.2 — % Total operating expenses 1,890.1 41 % 1,838.2 46 % 51.9 3 % Operating income 911.8 20 % 600.0 15 % 311.8 52 % Other income, net 176.6 4 % 109.0 3 % 67.6 62 % Income before income taxes 1,088.4 23 % 709.0 18 % 379.4 54 % Income tax expense 252.1 5 % 132.8 3 % 119.3 90 % Net income $ 836.3 18 % $ 576.2 14 % $ 260.1 45 % Basic net income per share $ 2.14 ** $ 1.46 ** $ 0.68 47 % Diluted net income per share $ 2.09 ** $ 1.42 ** $ 0.67 47 % (1) The sum of the individual percentages may not equal the total due to rounding. ** Not meaningful
+[END TABLE 060]
+
+[TABLE 061]
+Twelve Months Ended December 31, 2025 Compared to Twelve Months Ended December 31, 2024
+[END TABLE 061]
+
+[TABLE 062]
+Twelve Months Ended December 31, 2025 2024 (In millions) United States International Total United States International Total Distributor $ 3,195.7 $ 763.3 $ 3,959.0 $ 2,824.4 $ 605.7 $ 3,430.1 Direct 139.2 563.8 703.0 65.4 537.5 602.9 Total revenue $ 3,334.9 $ 1,327.1 $ 4,662.0 $ 2,889.8 $ 1,143.2 $ 4,033.0
+[END TABLE 062]
+
+[TABLE 063]
+Twelve Months Ended December 31, 2025 Compared to Twelve Months Ended December 31, 2024 Revenue The revenue increase was primarily driven by increased sales volume of our disposable sensors due to the continued growth of our worldwide customer base. We added approximately 600,000 - 700,000 net customers, excluding Stelo customers, to our worldwide customer base in 2025. The increase was offset by pricing headwinds due to greater rebate eligibility and channel mix. Cost of sales & Gross profit Cost of sales and gross profit increased primarily due to an increase in sales volume driven by the addition of approximately 600,000 - 700,000 net customers, excluding Stelo customers, to our worldwide customer base in 2025. The decrease in gross profit margin percentage in 2025 compared to 2024 was primarily driven by inefficiencies associated with ensuring supply availability, build configurations that lowered production yield, and total replacement costs.
+[END TABLE 063]
+
+[TABLE 064]
+Twelve Months Ended December 31, 2025 Compared to Twelve Months Ended December 31, 2024 Research and development expense Research and development expense increased primarily due to $37.3 million in higher compensation and related costs. We continue to believe that focused investments in research and development are critical to our future growth and competitive position in the marketplace, and to the development of new and updated products and services that are central to our core business strategy. Selling, general and administrative expense Selling, general and administrative expense increased primarily due to $83.7 million in higher compensation and related costs, $9.1 million in higher software and data costs, offset by $87.2 million in lower legal expense primarily related to a patent infringement lawsuit that was settled in December 2024. Other income, net Other income, net, increased primarily due to $79.5 million in higher net gains on equity investments and $8.7 million in higher net foreign currency gains, offset by $21.5 million in lower interest and dividend income on our cash, cash equivalents, and marketable securities portfolio. The decrease in interest income was primarily related to a change in market interest rates, as well as a decrease in the average invested balances compared to the same period in 2024. Income tax expense The income tax expense recorded for the twelve months ended December 31, 2025 was primarily attributable to income tax expense from normal, recurring operations increased by shortfalls recognized for share-based compensation for employees, net of nondeductible executive compensation, offset by the tax benefit related to the commencement of our Malaysia tax holiday. The income tax expense recorded for the twelve months ended December 31, 2024 was primarily attributable to income tax expense from normal, recurring operations, partially offset by excess tax benefits recognized for share-based compensation for employees, net of nondeductible executive compensation, the Verily milestone payment, the impacts of certain foreign tax return filings and generation of research and development tax credits. The increase in our effective tax rate for the twelve months ended December 31, 2025 compared to the same period in 2024 is primarily attributable to impacts of shortfalls on share-based compensation, a non-recurring benefit related to the Verily milestone payment during 2024, offset by the tax benefit related to the commencement of our Malaysia tax holiday.
+[END TABLE 064]
+
+[TABLE 065]
+Liquidity and Capital Resources
+[END TABLE 065]
+
+[TABLE 066]
+Overview, Capital Resources, and Capital Requirements
+[END TABLE 066]
+
+[TABLE 067]
+The evolution of the international expansion of our business and the revenue generated by sales of our approved products and any future products; Our ability to efficiently scale our operations to meet demand for our current and any future products; The success of our research and development efforts; The expenses we incur in manufacturing, developing, selling and marketing our products; The costs, timing and risks of delays of additional regulatory approvals; The costs of filing, prosecuting, defending and enforcing any patent claims and other intellectual property rights; The quality levels of our products and services; The emergence of competing or complementary technological developments; The terms and timing of any collaborative, licensing and other arrangements that we may establish; and The third-party reimbursement of our products for our customers; The rate of progress and cost of our clinical trials and other development activities; The acquisition of businesses, products and technologies and our ability to integrate and manage any acquired businesses, products and technologies.
+[END TABLE 067]
+
+[TABLE 068]
+Cash Flows
+[END TABLE 068]
+
+[TABLE 069]
+Twelve Months Ended December 31, (In millions) 2025 2024 $ Change Net cash provided by operating activities $ 1,440.7 $ 989.5 $ 451.2 Net cash provided by (used in) investing activities 536.0 (207.5) 743.5 Net cash used in financing activities (1,686.4) (734.8) (951.6) Effect of exchange rate changes on cash, cash equivalents and restricted cash 21.5 (7.4) 28.9 Increase in cash, cash equivalents and restricted cash $ 311.8 $ 39.8 $ 272.0
+[END TABLE 069]
+
+[TABLE 070]
+Twelve Months Ended December 31, 2025 Compared to Twelve Months Ended December 31, 2024 Operating Cash Flows $260.1 million increase in net income $196.5 million increase in net non-cash adjustments primarily due to adjustments to deferred income taxes, partially offset by gains on equity investments Investing Cash Flows $670.0 million increase in net proceeds from marketable securities due to the management of our liquidity $62.1 million decrease in purchases of non-marketable equity securities Financing Cash Flows $250.0 million decrease in cash used to repurchase our common stock $1.21 billion increase in cash used upon the maturity of our 2025 Notes
+[END TABLE 070]
+
+[TABLE 071]
+Recent Accounting Guidance
+[END TABLE 071]
+
+[TABLE 072]
+ITEM 7A - QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[END TABLE 072]
+
+[TABLE 073]
+ITEM 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+[END TABLE 073]
+
+[TABLE 074]
+ITEM 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+[END TABLE 074]
+
+[TABLE 075]
+ITEM 9A - CONTROLS AND PROCEDURES
+[END TABLE 075]
+
+[TABLE 076]
+ITEM 9B - OTHER INFORMATION
+[END TABLE 076]
+
+[TABLE 077]
+Name Title Action Action Date Aggregate Number of Shares to be Sold Expiration Date (1) Michael J. Brown Executive Vice President, Chief Legal Officer Adoption 11/26/2025 20,400 2/26/2027 Jacob S. Leach President, Chief Executive Officer, and Director Termination 11/7/2025 102,732 (2) 3/12/2026 (1) Each trading arrangement permitted or permits transactions through and including the date listed in the table. (2) As of the date of termination, no shares of common stock had been sold under the plan.
+[END TABLE 077]
+
+[TABLE 078]
+ITEM 9C - DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+[END TABLE 078]
+
+[TABLE 079]
+ITEM 10 - DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+[END TABLE 079]
+
+[TABLE 080]
+ITEM 11 - EXECUTIVE COMPENSATION
+[END TABLE 080]
+
+[TABLE 081]
+ITEM 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+[END TABLE 081]
+
+[TABLE 082]
+ITEM 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+[END TABLE 082]
+
+[TABLE 083]
+ITEM 14 - PRINCIPAL ACCOUNTANT FEES AND SERVICES
+[END TABLE 083]
+
+[TABLE 084]
+ITEM 15 - EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
+[END TABLE 084]
+
+[TABLE 085]
+Exhibit Number Exhibit Description Incorporated by Reference Provided Herewith Form File No. Date of First Filing Exhibit Number 3.1 Restated Certificate of Incorporation of DexCom, Inc. 8-K 000-51222 June 10, 2022 3.1 3.2 Amended and Restated Bylaws of DexCom, Inc. 10-Q 000-51222 October 24, 2024 3.1 4.1 Form of Specimen Certificate for DexCom, Inc. common stock. S-1/A 333-122454 March 24, 2005 4.01 4.2 Indenture, dated November 30, 2018, between DexCom, Inc. and U.S. Bank National Association (including the form of 0.75% Convertible Senior Notes due 2023). 8-K 000-51222 December 3, 2018 4.1 4.3 Indenture, dated May 14, 2020, between DexCom, Inc. and U.S. Bank National Association (including the form of 0.25% Convertible Senior Notes due 2025). 8-K 000-51222 May 15, 2020 4.1 4.4 Indenture, dated May 5, 2023, between DexCom, Inc. and U.S. Bank Trust Company, National Association (including the form of 0.375% Convertible Senior Notes due 2028). 8-K 000-51222 May 5, 2023 4.1 4.5 Description of Securities Registered Under Section 12 of the Exchange Act. 10-K 000-51222 February 18, 2025 4.5 10.1* Offer letter between DexCom, Inc. and Kevin Sayer, dated May 3, 2011. 10-Q 000-51222 August 3, 2011 10.28 10.2 Sublease between DexCom, Inc. and Entropic Communications, LLC, dated February 1, 2016. 10-Q 000-51222 April 27, 2016 10.36 10.3* DexCom, Inc. Executive Deferred Compensation Plan. 8-K 000-51222 June 4, 2019 10.02 10.4** Third Amendment to Office Lease between DexCom, Inc. and John Hancock Life Insurance Company, dated January 9, 2019. 10-K 000-51222 February 13, 2020 10.40
+[END TABLE 085]
+
+[TABLE 086]
+10.5* Form of Indemnity Agreement between DexCom, Inc. and each of its directors and executive officers. 10-K 000-51222 February 11, 2021 10.43 10.6* DexCom, Inc. Incentive Bonus Plan. 8-K 000-51222 March 17, 2021 10.1 10.7 Second Amended and Restated Credit Agreement dated October 13, 2021 by and among DexCom, Inc., Bank of America, Silicon Valley Bank and Union Bank, and JPMorgan Chase Bank, as Administrative Agent. 10-K 000-51222 February 14, 2022 10.39 10.8 Office Lease Agreement, dated March 31, 2006, between DexCom, Inc. and Kilroy Realty, L.P., as amended on August 18, 2010 and October 1, 2014. 10-K 000-51222 February 9, 2023 10.09 10.9** Fourth Amendment to Office Lease between DexCom, Inc. and Sequence Tech. Center CA LLC, dated September 9, 2019, as amended on October 21, 2019, May 25, 2021, and December 23, 2022. 10-K 000-51222 February 9, 2023 10.18 10.10* DexCom, Inc. Amended and Restated Severance and Change in Control Plan. 8-K 000-51222 May 19, 2023 10.1 10.11 First Amendment to Second Amended and Restated Credit Agreement, dated June 1, 2023 by and between DexCom, Inc. and JPMorgan Chase Bank National Association. 10-Q 000-51222 July 27, 2023 10.06 10.12** Amended and Restated Collaboration and License Agreement, dated November 20, 2018, by and between DexCom, Inc. and Verily Life Sciences LLC (formerly Google Life Sciences LLC). 10-K 000-51222 February 8, 2024 10.14 10.13** Warrant Termination Agreement between DexCom, Inc. and Bank of America, N.A., dated February 13, 2024. 8-K 000-51222 February 15, 2024 10.1 10.14** Confidential Settlement and Patent License Agreement, dated December 20, 2024, between Abbott Diabetes Care Inc. and DexCom, Inc. 10-K 000-51222 February 18, 2025 10.16 10.15* Amended and Restated 2015 Equity Incentive Plan. 8-K 000-51222 May 9, 2025 10.1 10.16* Amended and Restated 2015 Employee Stock Purchase Plan. 8-K 000-51222 May 9, 2025 10.2 10.17* Offer Letter, effective January 1, 2026, by and between DexCom, Inc. and Jacob S. Leach. 8-K 000-51222 December 22, 2025 10.1 10.18* Form of award agreement under the Amended and Restated 2015 Equity Incentive Plan. X 10.19* Form of enrollment agreement under the Amended and Restated 2015 Employee Stock Purchase Plan. X
+[END TABLE 086]
+
+[TABLE 087]
+19.1* Insider Trading Policy. 10-K 000-51222 February 18, 2025 19.1 21.1 List of Subsidiaries. X 23.1 Consent of Independent Registered Public Accounting Firm (Deloitte & Touche LLP). X 23.2 Consent of Independent Registered Public Accounting Firm (Ernst & Young LLP). X 24.1 Power of Attorney (see signature page of this Form 10-K). X 31.1 Certification of Chief Executive Officer Pursuant to Securities Exchange Act Rule 13a-14(a). X 31.2 Certification of Chief Financial Officer Pursuant to Securities Exchange Act Rule 13a-14(a). X 32.1*** Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350 and Securities Exchange Act Rule 13a-14(b). X 32.2*** Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350 and Securities Exchange Act Rule 13a-14(b). X 97.1* Compensation Recovery Policy. 10-K 000-51222 February 8, 2024 97.1 101.INS Inline XBRL Instance Document X 101.SCH Inline XBRL Taxonomy Extension Schema Document X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document X 104 Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit 101) X
+[END TABLE 087]
+
+[TABLE 088]
+* Represents a management contract or compensatory plan, contract or arrangement. ** Portions of this exhibit have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K. *** This certification is not deemed “filed” for purposes of Section 18 of the Securities Exchange Act, or otherwise subject to the liability of that section. Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent that Dexcom specifically incorporates it by reference.
+[END TABLE 088]
+
+[TABLE 089]
+ITEM 16 - FORM 10-K SUMMARY
+[END TABLE 089]
+
+[TABLE 090]
+DEXCOM, INC. (Registrant) Dated: February 12, 2026 By: /s/ JEREME M. SYLVAIN Jereme M. Sylvain, Executive Vice President and Chief Financial Officer (Principal Financial and Accounting Officer)
+[END TABLE 090]
+
+[TABLE 091]
+Signature Title Date /s/ JACOB S. LEACH President, Chief Executive Officer, and Director (Principal Executive Officer) February 12, 2026 Jacob S. Leach /s/ JEREME M. SYLVAIN Executive Vice President and Chief Financial Officer (Principal Financial and Accounting Officer) February 12, 2026 Jereme M. Sylvain /s/ KEVIN R. SAYER Executive Chairman of the Board of Directors February 12, 2026 Kevin R. Sayer /s/ MARK G. FOLETTA Interim Chairman of the Board of Directors and Lead Independent Director February 12, 2026 Mark G. Foletta /s/ STEVEN R. ALTMAN Director February 12, 2026 Steven R. Altman /s/ DR. EUAN ASHLEY Director February 12, 2026 Dr. Euan Ashley /s/ NICHOLAS AUGUSTINOS Director February 12, 2026 Nicholas Augustinos /s/ RICHARD A. COLLINS Director February 12, 2026 Richard A. Collins /s/ RIMMA DRISCOLL Director February 12, 2026 Rimma Driscoll /s/ RENÉE GALÁ Director February 12, 2026 Renée Galá /s/ BRIDGETTE P. HELLER Director February 12, 2026 Bridgette P. Heller /s/ KYLE MALADY Director February 12, 2026 Kyle Malady
+[END TABLE 091]
+
+[TABLE 092]
+DexCom, Inc. Index to Consolidated Financial Statements
+[END TABLE 092]
+
+[TABLE 093]
+Page Report of Independent Registered Public Accounting Firm (PCAOB ID: 34 ) F- 2 Report of Independent Registered Public Accounting Firm (PCAOB ID: 42 ) F- 4 Consolidated Balance Sheets F- 5 Consolidated Statements of Operations F- 6 Consolidated Statements of Comprehensive Income F- 7 Consolidated Statements of Stockholders’ Equity F- 8 Consolidated Statements of Cash Flows F- 9 Notes to Consolidated Financial Statements F- 11
+[END TABLE 093]
+
+[TABLE 094]
+DexCom, Inc. Consolidated Balance Sheets
+[END TABLE 094]
+
+[TABLE 095]
+December 31, (In millions, except par value data) 2025 2024 Assets Current assets: Cash and cash equivalents $ 917.7 $ 606.1 Short-term marketable securities 1,081.0 1,973.3 Accounts receivable, net 1,216.1 1,005.7 Inventory 629.1 542.6 Prepaid and other current assets 189.4 173.7 Total current assets 4,033.3 4,301.4 Property and equipment, net 1,559.9 1,339.9 Operating lease right-of-use assets 77.4 62.8 Goodwill 24.2 22.8 Intangibles, net 70.8 103.4 Deferred tax assets 295.6 481.2 Other assets 278.7 173.0 Total assets $ 6,339.9 $ 6,484.5 Liabilities and Stockholders’ Equity Current liabilities: Accounts payable and accrued liabilities $ 1,944.0 $ 1,585.1 Accrued payroll and related expenses 169.2 112.0 Current portion of long-term senior convertible notes — 1,204.4 Short-term operating lease liabilities 21.6 22.5 Other current liabilities 7.7 8.0 Total current liabilities 2,142.5 2,932.0 Long-term senior convertible notes 1,240.9 1,237.0 Long-term operating lease liabilities 73.4 65.0 Other long-term liabilities 137.1 147.9 Total liabilities 3,593.9 4,381.9 Commitments and contingencies (Note 6) Stockholders’ equity: Preferred stock, $ 0.001 par value, 5.0 million shares authorized; no shares issued and outstanding at December 31, 2025 and December 31, 2024 — — Common stock, $ 0.001 par value, 800.0 million shares authorized; 410.7 million and 384.8 million shares issued and outstanding, respectively, at December 31, 2025; and 408.9 million and 390.7 million shares issued and outstanding, respectively, at December 31, 2024 0.4 0.4 Additional paid-in capital 2,281.5 2,093.8 Accumulated other comprehensive income (loss) 115.0 ( 8.0 ) Retained earnings 2,433.9 1,597.6 Treasury stock, at cost; 25.9 million shares at December 31, 2025 and 18.2 million shares at December 31, 2024 ( 2,084.8 ) ( 1,581.2 ) Total stockholders’ equity 2,746.0 2,102.6 Total liabilities and stockholders’ equity $ 6,339.9 $ 6,484.5
+[END TABLE 095]
+
+[TABLE 096]
+DexCom, Inc. Consolidated Statements of Operations
+[END TABLE 096]
+
+[TABLE 097]
+Twelve Months Ended December 31, (In millions, except per share data) 2025 2024 2023 Revenue $ 4,662.0 $ 4,033.0 $ 3,622.3 Cost of sales 1,860.1 1,594.8 1,333.4 Gross profit 2,801.9 2,438.2 2,288.9 Operating expenses: Research and development 599.1 552.4 505.8 Selling, general and administrative 1,291.0 1,285.8 1,185.4 Total operating expenses 1,890.1 1,838.2 1,691.2 Operating income 911.8 600.0 597.7 Other income, net 176.6 109.0 112.7 Income before income taxes 1,088.4 709.0 710.4 Income tax expense 252.1 132.8 168.9 Net income $ 836.3 $ 576.2 $ 541.5 Basic net income per share $ 2.14 $ 1.46 $ 1.40 Shares used to compute basic net income per share 390.2 393.6 386.0 Diluted net income per share $ 2.09 $ 1.42 $ 1.30 Shares used to compute diluted net income per share 405.5 412.7 425.5
+[END TABLE 097]
+
+[TABLE 098]
+DexCom, Inc. Consolidated Statements of Comprehensive Income
+[END TABLE 098]
+
+[TABLE 099]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Net income $ 836.3 $ 576.2 $ 541.5 Other comprehensive income (loss), net of tax: Translation adjustments and other 122.2 8.6 ( 9.2 ) Unrealized gain on marketable debt securities 0.8 0.1 4.1 Total other comprehensive income (loss), net of tax 123.0 8.7 ( 5.1 ) Comprehensive income $ 959.3 $ 584.9 $ 536.4
+[END TABLE 099]
+
+[TABLE 100]
+DexCom, Inc. Consolidated Statements of Stockholders’ Equity
+[END TABLE 100]
+
+[TABLE 101]
+Accumulated Other Comprehensive Income (Loss) Common Stock Additional Paid-In Capital Translation Adjustments and Other Net Unrealized Gain (Loss) on Marketable Securities Retained Earnings Treasury Stock Total Stockholders’ Equity (In millions) Shares Amount Balance at December 31, 2022 386.3 $ 0.4 $ 2,258.1 $ ( 7.8 ) $ ( 3.8 ) $ 479.9 $ ( 595.0 ) $ 2,131.8 Issuance of common stock under equity incentive plans 1.4 — — — — — — — Issuance of common stock for Employee Stock Purchase Plan 0.3 — 26.6 — — — — 26.6 Issuance of common stock in connection with achievement of sales-based milestone, net of issuance costs 3.7 — ( 323.4 ) — — — 323.2 ( 0.2 ) Purchases of treasury stock, including excise tax ( 6.3 ) — ( 0.2 ) — — — ( 689.0 ) ( 689.2 ) Tax benefit related to Senior Convertible Notes — — ( 4.4 ) — — — — ( 4.4 ) Conversions of 2023 Notes 12.2 — ( 13.1 ) — — — — ( 13.1 ) Benefit of note hedge upon conversions of 2023 Notes ( 12.2 ) — 1,496.5 — — — ( 1,490.3 ) 6.2 Purchase of capped call transactions, net of tax — — ( 76.3 ) — — — — ( 76.3 ) Share-based compensation expense — — 150.8 — — — — 150.8 Net income — — — — — 541.5 — 541.5 Other comprehensive income, net of tax — — — ( 9.2 ) 4.1 — — ( 5.1 ) Balance at December 31, 2023 385.4 0.4 3,514.6 ( 17.0 ) 0.3 1,021.4 ( 2,451.1 ) 2,068.6 Issuance of common stock under equity incentive plans 1.3 — — — — — — — Issuance of common stock for Employee Stock Purchase Plan 0.4 — 28.2 — — — — 28.2 Issuance of common stock in connection with achievement of sales-based milestone, net of issuance costs 1.5 — ( 188.1 ) — — — 188.1 — Purchases of treasury stock, including excise tax ( 10.4 ) — — — — — ( 749.5 ) ( 749.5 ) Exercise and settlement of warrants 12.5 — ( 1,431.3 ) — — — 1,431.3 — Share-based compensation expense — — 170.4 — — — — 170.4 Net income — — — — — 576.2 — 576.2 Other comprehensive income, net of tax — — — 8.6 0.1 — — 8.7 Balance at December 31, 2024 390.7 0.4 2,093.8 ( 8.4 ) 0.4 1,597.6 ( 1,581.2 ) 2,102.6 Issuance of common stock under equity incentive plans 1.4 — — — — — — — Issuance of common stock for Employee Stock Purchase Plan 0.4 — 28.1 — — — — 28.1 Purchases of treasury stock, including excise tax ( 7.7 ) — — — — — ( 503.6 ) ( 503.6 ) Share-based compensation expense — — 159.6 — — — — 159.6 Net income — — — — — 836.3 — 836.3 Other comprehensive income, net of tax — — — 122.2 0.8 — — 123.0 Balance at December 31, 2025 384.8 $ 0.4 $ 2,281.5 $ 113.8 $ 1.2 $ 2,433.9 $ ( 2,084.8 ) $ 2,746.0
+[END TABLE 101]
+
+[TABLE 102]
+DexCom, Inc. Consolidated Statements of Cash Flows
+[END TABLE 102]
+
+[TABLE 103]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Operating activities Net income $ 836.3 $ 576.2 $ 541.5 Adjustments to reconcile net income to cash provided by operating activities: Depreciation and amortization 251.8 217.7 186.0 Share-based compensation 159.6 170.4 150.8 Non-cash interest expense 7.3 7.5 7.8 Deferred income taxes 182.2 ( 43.8 ) ( 55.0 ) Net (gains) losses on equity investments ( 78.1 ) 1.4 ( 1.9 ) Other non-cash income and expenses ( 21.8 ) ( 48.7 ) ( 83.9 ) Changes in operating assets and liabilities: Accounts receivable, net ( 201.9 ) ( 35.0 ) ( 260.1 ) Inventory ( 63.7 ) 12.4 ( 252.6 ) Prepaid and other assets ( 14.8 ) ( 5.8 ) 19.3 Operating lease right-of-use assets and liabilities, net ( 7.1 ) ( 6.5 ) ( 4.5 ) Accounts payable and accrued liabilities 347.0 211.7 466.5 Accrued payroll and related expenses 55.4 ( 60.0 ) 37.2 Deferred revenue and other liabilities ( 11.5 ) ( 8.0 ) ( 2.6 ) Net cash provided by operating activities 1,440.7 989.5 748.5 Investing activities Purchases of marketable securities ( 1,246.6 ) ( 2,576.3 ) ( 3,200.4 ) Proceeds from sale and maturity of marketable securities 2,164.7 2,824.4 2,947.4 Purchases of property and equipment ( 363.5 ) ( 358.8 ) ( 236.6 ) Purchases of non-marketable equity securities ( 19.2 ) ( 81.3 ) ( 19.5 ) Other investing activities 0.6 ( 15.5 ) 1.9 Net cash provided by (used in) investing activities 536.0 ( 207.5 ) ( 507.2 ) Financing activities Net proceeds from issuance of common stock 28.1 28.2 26.6 Purchases of treasury stock ( 500.0 ) ( 750.0 ) ( 688.7 ) Proceeds from issuance of convertible notes, net of issuance costs — — 1,230.6 Purchases of capped call transactions — — ( 101.3 ) Payments for conversions of senior convertible notes — — ( 787.3 ) Repayments for maturity of senior convertible notes ( 1,207.5 ) — — Other financing activities ( 7.0 ) ( 13.0 ) 1.5 Net cash used in financing activities ( 1,686.4 ) ( 734.8 ) ( 318.6 ) Effect of exchange rate changes on cash, cash equivalents and restricted cash 21.5 ( 7.4 ) 1.5 Increase (decrease) in cash, cash equivalents and restricted cash 311.8 39.8 ( 75.8 ) Cash, cash equivalents and restricted cash, beginning of period 607.3 567.5 643.3 Cash, cash equivalents and restricted cash, end of period $ 919.1 $ 607.3 $ 567.5 Reconciliation of cash, cash equivalents and restricted cash, end of period: Cash and cash equivalents $ 917.7 $ 606.1 $ 566.3 Restricted cash 1.4 1.2 1.2 Total cash, cash equivalents and restricted cash $ 919.1 $ 607.3 $ 567.5
+[END TABLE 103]
+
+[TABLE 104]
+2025 2024 2023 Supplemental disclosure of non-cash investing and financing transactions: Shares issued for repurchase and conversions of senior convertible notes $ — $ — $ 1,501.9 Shares received under note hedge upon conversion of 2023 Notes $ — $ — $ ( 1,490.3 ) Acquisition of property and equipment included in accounts payable and accrued liabilities $ 62.7 $ 75.4 $ 53.2 Supplemental cash flow information: Cash paid during the year for interest $ 11.4 $ 11.4 $ 12.4 Cash paid during the year for income taxes $ 94.4 $ 198.0 $ 212.3
+[END TABLE 104]
+
+[TABLE 105]
+DexCom, Inc. Notes to Consolidated Financial Statements December 31, 2025
+[END TABLE 105]
+
+[TABLE 106]
+1. Organization and Significant Accounting Policies
+[END TABLE 106]
+
+[TABLE 107]
+Organization and Business
+[END TABLE 107]
+
+[TABLE 108]
+Basis of Presentation and Principles of Consolidation
+[END TABLE 108]
+
+[TABLE 109]
+Use of Estimates
+[END TABLE 109]
+
+[TABLE 110]
+Fair Value Measurements
+[END TABLE 110]
+
+[TABLE 111]
+Cash and Cash Equivalents
+[END TABLE 111]
+
+[TABLE 112]
+Marketable Securities
+[END TABLE 112]
+
+[TABLE 113]
+Accounts Receivable and Allowance for Doubtful Accounts
+[END TABLE 113]
+
+[TABLE 114]
+Concentration of Credit Risk and Significant Customers
+[END TABLE 114]
+
+[TABLE 115]
+Revenue* Gross Accounts Receivable Twelve Months Ended December 31, As of December 31, 2025 2024 2023 2025 2024 Customer A 55 % 40 % 35 % 24 % 18 % Customer B 35 % 35 % 30 % 20 % 21 % Customer C 46 % 42 % 37 % 24 % 27 %
+[END TABLE 115]
+
+[TABLE 116]
+Inventory
+[END TABLE 116]
+
+[TABLE 117]
+Property and Equipment
+[END TABLE 117]
+
+[TABLE 118]
+Goodwill
+[END TABLE 118]
+
+[TABLE 119]
+Intangible Assets and Other Long-Lived Assets
+[END TABLE 119]
+
+[TABLE 120]
+Income Taxes
+[END TABLE 120]
+
+[TABLE 121]
+Warranty Accrual
+[END TABLE 121]
+
+[TABLE 122]
+Loss Contingencies
+[END TABLE 122]
+
+[TABLE 123]
+Comprehensive Income
+[END TABLE 123]
+
+[TABLE 124]
+Revenue Recognition
+[END TABLE 124]
+
+[TABLE 125]
+Research and Development
+[END TABLE 125]
+
+[TABLE 126]
+Collaboration Agreements
+[END TABLE 126]
+
+[TABLE 127]
+Advertising Costs
+[END TABLE 127]
+
+[TABLE 128]
+Leases
+[END TABLE 128]
+
+[TABLE 129]
+Share-Based Compensation
+[END TABLE 129]
+
+[TABLE 130]
+Net Income Per Share
+[END TABLE 130]
+
+[TABLE 131]
+Twelve Months Ended December 31, (In millions, except per share data) 2025 2024 2023 Net income $ 836.3 $ 576.2 $ 541.5 Add back interest expense, net of tax attributable to assumed conversion of senior convertible notes 11.0 11.5 12.6 Net income - diluted $ 847.3 $ 587.7 $ 554.1 Net income per common share Basic $ 2.14 $ 1.46 $ 1.40 Diluted $ 2.09 $ 1.42 $ 1.30 Basic weighted average shares outstanding 390.2 393.6 386.0 Dilutive potential securities: Collaborative sales-based milestones — 0.2 0.7 RSUs and PSUs 0.6 0.7 1.1 Senior convertible notes 14.7 15.7 26.2 Warrants — 2.5 11.5 Diluted weighted average shares outstanding 405.5 412.7 425.5
+[END TABLE 131]
+
+[TABLE 132]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 RSUs and PSUs 1.1 1.3 —
+[END TABLE 132]
+
+[TABLE 133]
+Recent Accounting Guidance
+[END TABLE 133]
+
+[TABLE 134]
+2. Fair Value Measurements
+[END TABLE 134]
+
+[TABLE 135]
+Fair Value Measurements Using (In millions) Level 1 Level 2 Level 3 Total Cash equivalents $ 392.8 $ — $ — $ 392.8 Debt securities, available-for-sale: U.S. government agencies (1) — 357.3 — 357.3 Commercial paper — 123.4 — 123.4 Corporate debt — 600.3 — 600.3 Total debt securities, available-for-sale — 1,081.0 — 1,081.0 Other long-term assets: Convertible notes receivable — — 10.5 10.5 Other assets (2) 20.0 — — 20.0 Total assets measured at fair value on a recurring basis $ 412.8 $ 1,081.0 $ 10.5 $ 1,504.3
+[END TABLE 135]
+
+[TABLE 136]
+Fair Value Measurements Using (In millions) Level 1 Level 2 Level 3 Total Cash equivalents $ 134.2 $ — $ — $ 134.2 Debt securities, available-for-sale: U.S. government agencies (1) — 1,150.1 — 1,150.1 Commercial paper — 312.1 — 312.1 Corporate debt — 511.1 — 511.1 Total debt securities, available-for-sale — 1,973.3 — 1,973.3 Other long-term assets: Convertible notes receivable — — 10.5 10.5 Other assets (2) 20.6 — — 20.6 Total assets measured at fair value on a recurring basis $ 154.8 $ 1,973.3 $ 10.5 $ 2,138.6
+[END TABLE 136]
+
+[TABLE 137]
+3. Balance Sheet Details and Other Financial Information
+[END TABLE 137]
+
+[TABLE 138]
+Short-Term Marketable Securities
+[END TABLE 138]
+
+[TABLE 139]
+December 31, 2025 (In millions) Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Market Value Debt securities, available-for-sale: U.S. government agencies (1) $ 356.6 $ 0.7 $ — $ 357.3 Commercial paper 123.4 — — 123.4 Corporate debt 599.4 0.9 — 600.3 Total debt securities, available-for-sale $ 1,079.4 $ 1.6 $ — $ 1,081.0
+[END TABLE 139]
+
+[TABLE 140]
+December 31, 2024 (In millions) Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Market Value Debt securities, available-for-sale: U.S. government agencies (1) $ 1,149.4 $ 1.3 $ ( 0.6 ) $ 1,150.1 Commercial paper 312.2 — ( 0.1 ) 312.1 Corporate debt 511.1 0.4 ( 0.4 ) 511.1 Total debt securities, available-for-sale $ 1,972.7 $ 1.7 $ ( 1.1 ) $ 1,973.3
+[END TABLE 140]
+
+[TABLE 141]
+Accounts Receivable
+[END TABLE 141]
+
+[TABLE 142]
+December 31, (In millions) 2025 2024 Accounts receivable $ 1,228.6 $ 1,014.9 Less: allowance for doubtful accounts ( 12.5 ) ( 9.2 ) Total accounts receivable, net $ 1,216.1 $ 1,005.7
+[END TABLE 142]
+
+[TABLE 143]
+Inventory
+[END TABLE 143]
+
+[TABLE 144]
+December 31, (In millions) 2025 2024 Raw materials $ 257.6 $ 327.1 Work-in-process 105.0 28.1 Finished goods 266.5 187.4 Total inventory $ 629.1 $ 542.6
+[END TABLE 144]
+
+[TABLE 145]
+Prepaid and Other Current Assets
+[END TABLE 145]
+
+[TABLE 146]
+December 31, (In millions) 2025 2024 Prepaid expenses $ 66.4 $ 87.5 Deferred compensation plan assets 20.0 18.6 Income tax receivables 60.8 27.9 Indirect tax receivables 13.0 10.6 Other current assets 29.2 29.1 Total prepaid and other current assets $ 189.4 $ 173.7
+[END TABLE 146]
+
+[TABLE 147]
+Property and Equipment
+[END TABLE 147]
+
+[TABLE 148]
+December 31, (In millions) 2025 2024 Building $ 319.7 $ 291.0 Computer software and hardware 87.8 76.6 Furniture and fixtures 41.0 40.2 Land and land improvements 58.3 53.1 Leasehold improvements 302.1 293.8 Machinery and equipment 1,016.3 908.9 Construction in progress 593.5 354.6 Total cost 2,418.7 2,018.2 Less: accumulated depreciation and amortization ( 858.8 ) ( 678.3 ) Total property and equipment, net $ 1,559.9 $ 1,339.9
+[END TABLE 148]
+
+[TABLE 149]
+Intangibles, Net
+[END TABLE 149]
+
+[TABLE 150]
+December 31, 2025 (Dollars in millions) Remaining Weighted Average Useful Life (in years) Gross Carrying Amount Accumulated Amortization Net Carrying Amount Verily intangible asset (1) 2.3 $ 152.4 $ ( 88.1 ) $ 64.3 Customer relationships 1.0 18.5 ( 16.4 ) 2.1 Acquired technology and intellectual property (2) 6.5 19.6 ( 15.6 ) 4.0 Trademarks and trade name 0.6 4.0 ( 3.6 ) 0.4 Intangibles, other 0.0 0.2 ( 0.2 ) — Total 2.4 $ 194.7 $ ( 123.9 ) $ 70.8
+[END TABLE 150]
+
+[TABLE 151]
+December 31, 2024 (Dollars in millions) Remaining Weighted Average Useful Life (in years) Gross Carrying Amount Accumulated Amortization Net Carrying Amount Verily intangible asset (1) 3.3 $ 152.4 $ ( 59.5 ) $ 92.9 Customer relationships 1.8 17.5 ( 13.0 ) 4.5 Acquired technology and intellectual property (2) 7.2 19.6 ( 14.7 ) 4.9 Trademarks and trade name 1.6 3.8 ( 2.7 ) 1.1 Intangibles, other 0.0 0.2 ( 0.2 ) — Total 3.4 $ 193.5 $ ( 90.1 ) $ 103.4 (1) Our prior collaboration with Verily provides us with exclusive and non‐exclusive rights to Verily intellectual property for glucose‐monitoring products. Upon FDA approval in Q4 2022, we concluded the sales‐based milestones were probable and capitalized $ 152.4 million as an intangible asset, amortized over 64 months. (2) Excludes Verily intangible asset.
+[END TABLE 151]
+
+[TABLE 152]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Amortization expense included in cost of sales $ 28.6 $ 29.8 $ 30.5 Amortization expense included in operating expenses 4.2 6.7 8.1 Total amortization of intangible assets $ 32.8 $ 36.5 $ 38.6
+[END TABLE 152]
+
+[TABLE 153]
+(In millions) 2026 $ 31.6 2027 29.6 2028 7.6 2029 0.5 2030 0.5 Thereafter 1.0 Total $ 70.8
+[END TABLE 153]
+
+[TABLE 154]
+Other Assets
+[END TABLE 154]
+
+[TABLE 155]
+December 31, (In millions) 2025 2024 Non-marketable equity securities $ 218.0 $ 119.3 Capitalized software 19.1 17.6 Long-term deposits 17.2 13.8 Other assets 24.4 22.3 Total other assets $ 278.7 $ 173.0
+[END TABLE 155]
+
+[TABLE 156]
+Accounts Payable and Accrued Liabilities
+[END TABLE 156]
+
+[TABLE 157]
+December 31, (In millions) 2025 2024 Accounts payable trade $ 344.3 $ 345.3 Accrued rebates 1,487.6 1,135.9 Accrued tax, audit, and legal fees 27.0 38.4 Accrued warranty 10.4 5.9 Deferred compensation plan liabilities 20.0 18.6 Income tax payable 8.9 3.9 Other accrued liabilities 45.8 37.1 Total accounts payable and accrued liabilities $ 1,944.0 $ 1,585.1
+[END TABLE 157]
+
+[TABLE 158]
+Accrued Payroll and Related Expenses
+[END TABLE 158]
+
+[TABLE 159]
+December 31, (In millions) 2025 2024 Accrued wages, bonus and taxes $ 134.6 $ 74.5 Other accrued employee benefits 34.6 37.5 Total accrued payroll and related expenses $ 169.2 $ 112.0
+[END TABLE 159]
+
+[TABLE 160]
+Accrued Warranty
+[END TABLE 160]
+
+[TABLE 161]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Beginning balance $ 5.9 $ 12.6 $ 12.8 Charges to costs and expenses 73.0 47.2 51.5 Costs incurred ( 68.5 ) ( 53.9 ) ( 51.7 ) Ending balance $ 10.4 $ 5.9 $ 12.6
+[END TABLE 161]
+
+[TABLE 162]
+Other Long-Term Liabilities
+[END TABLE 162]
+
+[TABLE 163]
+December 31, (In millions) 2025 2024 Asset retirement obligation $ 20.6 $ 17.0 Finance lease obligations 53.8 58.5 Income tax payable 46.6 44.8 Other liabilities 16.1 27.6 Total other long-term liabilities $ 137.1 $ 147.9
+[END TABLE 163]
+
+[TABLE 164]
+Other Income, Net
+[END TABLE 164]
+
+[TABLE 165]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Interest and dividend income $ 112.7 $ 134.2 $ 135.0 Interest expense ( 18.3 ) ( 19.0 ) ( 20.3 ) Net gains (losses) on equity investments 78.1 ( 1.4 ) 1.9 Other income (expense), net 4.1 ( 4.8 ) ( 3.9 ) Total other income, net $ 176.6 $ 109.0 $ 112.7
+[END TABLE 165]
+
+[TABLE 166]
+4. Debt
+[END TABLE 166]
+
+[TABLE 167]
+Senior Convertible Notes
+[END TABLE 167]
+
+[TABLE 168]
+December 31, (In millions) 2025 2024 Principal amount: 2025 Notes $ — $ 1,207.5 2028 Notes 1,250.0 1,250.0 Total principal amount 1,250.0 2,457.5 Unamortized debt issuance costs ( 9.1 ) ( 16.1 ) Carrying amount of senior convertible notes $ 1,240.9 $ 2,441.4
+[END TABLE 168]
+
+[TABLE 169]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Cash interest expense: Contractual coupon interest (1) $ 7.3 $ 7.7 $ 9.1 Non-cash interest expense: Amortization of debt issuance costs 7.0 7.2 7.3 Total interest expense recognized on senior notes $ 14.3 $ 14.9 $ 16.4 Effective interest rate: 2025 Notes 0.5 % 0.5 % 0.5 % 2028 Notes 0.7 % 0.7 % 0.7 % (1) Interest on the 2025 Notes began accruing upon issuance and was payable semi-annually on May 15 and November 15 of each year until the 2025 Notes matured in November 2025. Interest on the 2028 Notes, began accruing upon issuance and is payable semi-annually on May 15 and November 15 of each year.
+[END TABLE 169]
+
+[TABLE 170]
+Fair Value Measurements Using Level 1 (In millions) December 31, 2025 December 31, 2024 2025 Notes $ — $ 1,163.7 2028 Notes 1,152.1 1,122.3 Total fair value of outstanding senior convertible notes $ 1,152.1 $ 2,286.0
+[END TABLE 170]
+
+[TABLE 171]
+Senior Convertible Notes Offering Completion Date Maturity Date Stated Interest Rate Aggregate Principal Amount Issued Net Proceeds (1) Initial Conversion Rate (2) (per $1,000 principal amount) Conversion Price (per share) Settlement Methods (3) 2025 Notes (4) May 2020 November 15, 2025 0.25 % $ 1.21 billion $ 1.19 billion 6.6620 shares $ 150.11 Cash and/or shares 2028 Notes May 2023 May 15, 2028 0.375 % $ 1.25 billion $ 1.23 billion 6.1571 shares $ 162.41 Cash and/or shares (1) Net proceeds are calculated by deducting the initial purchasers’ discounts and estimated costs directly related to the offering from the aggregate principal amount of the applicable series of notes. (2) Subject to adjustments as defined in the applicable indentures. (3) Pursuant to the Indenture of the 2025 Notes, on August 15, 2025, we elected to satisfy conversion obligations on or after August 15, 2025 through the combination of cash and/or shares of our common stock. The 2028 Notes may be settled upon conversion in cash, stock, or a combination thereof, solely at our discretion. (4) The 2025 Notes matured in November 2025 and we repaid the principal of $ 1.21 billion entirely in cash on the maturity date.
+[END TABLE 171]
+
+[TABLE 172]
+Summary of Conversions Rights at the Option of the Holders for the 2028 Notes, or the Notes Conversion Rights at the Option of the Holders Holders of the Notes have the ability to convert all or a portion of their notes in multiples of $1,000 principal amount, at their option prior to 5:00 p.m., New York City time, on the business day immediately preceding February 15, 2028 for the 2028 Notes only under the following circumstances: Circumstance 1 (1) During any calendar quarter commencing after the applicable period (and only during such calendar quarter), if the last reported sale price of Dexcom’s common stock for at least 20 trading days (whether or not consecutive) during the period of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to 130 % of the applicable conversion price for the Notes on each applicable trading day Circumstance 2 During the five business day period after any five consecutive trading day period in which the trading price per $1,000 principal amount of the Notes for each trading day of that five consecutive trading day period was less than 98 % of the product of the last reported sale price of Dexcom’s common stock and the applicable conversion rate of the Notes on each such trading day Circumstance 3 If we call any or all of the Notes for redemption, at any time prior to the close of business on the scheduled trading day immediately preceding the redemption date (only with respect to the notes called or deemed called for redemption) Circumstance 4 Upon the occurrence of specified corporate events Circumstance 5 (2) Holders of the Notes may convert all or a portion of their notes regardless of the foregoing circumstances prior to the close of business on the second scheduled trading day immediately preceding the maturity date (1) Circumstance 1 is available after the calendar quarter ended September 30, 2023 for the 2028 Notes. (2) Circumstance 5 is available on or after February 15, 2028 for the 2028 Notes.
+[END TABLE 172]
+
+[TABLE 173]
+Summary of Conversion Right at the Option of the Company for the 2028 Notes Conversion Right at Our Option (1) Dexcom may redeem for cash all or part of the Notes, at its option, if the last reported sale price of our common stock has been at least 130 % of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period ending on, and including, the trading day immediately preceding the date on which Dexcom provides notice of redemption. The redemption price will be equal to 100 % of the principal amount of the Notes to be redeemed plus accrued and unpaid interest to, but excluding, the redemption date (1) Dexcom does not have the right to redeem the 2028 Notes prior to May 20, 2026. Dexcom has the right to redeem the 2028 Notes on or after May 20, 2026 and prior to February 15, 2028.
+[END TABLE 173]
+
+[TABLE 174]
+Amended Credit Agreement
+[END TABLE 174]
+
+[TABLE 175]
+(In millions) Available principal amount $ 200.0 Letters of credit sub-facility 25.0 Outstanding borrowings — Outstanding letters of credit 7.9 Total available balance $ 192.1
+[END TABLE 175]
+
+[TABLE 176]
+Range ABR Spread Term Benchmark/RFR Spread Unused Commitment Fee Rate Minimum 0.375 % 1.375 % 0.175 % Maximum 1.000 % 2.000 % 0.250 %
+[END TABLE 176]
+
+[TABLE 177]
+5. Leases and Other Commitments
+[END TABLE 177]
+
+[TABLE 178]
+Leases
+[END TABLE 178]
+
+[TABLE 179]
+(In millions) Operating Leases (1) Finance Leases 2026 $ 25.9 $ 9.7 2027 21.4 7.8 2028 16.5 5.8 2029 9.9 5.5 2030 9.0 5.7 Thereafter 28.9 48.9 Total future lease cost 111.6 83.4 Less: Imputed interest ( 16.6 ) ( 22.9 ) Present value of future payments 95.0 60.5 Less: Current portion ( 21.6 ) ( 6.7 ) Long-term portion $ 73.4 $ 53.8 (1) Total future lease cost excludes $ 9.3 million of legally binding minimum lease payments for leases signed but not yet commenced.
+[END TABLE 179]
+
+[TABLE 180]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Finance lease cost: Amortization of finance leases $ 8.3 $ 7.2 $ 6.5 Interest on lease liabilities 3.3 3.4 3.2 Operating lease cost 21.5 22.4 22.9 Short-term lease cost 5.1 3.8 2.4 Variable lease cost 8.4 9.0 8.3 Total lease cost $ 46.6 $ 45.8 $ 43.3
+[END TABLE 180]
+
+[TABLE 181]
+Twelve Months Ended December 31, (Dollars in millions) 2025 2024 2023 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases $ 28.6 $ 27.5 $ 28.1 Operating cash flows from finance leases 3.3 3.4 3.2 Financing cash flows from finance leases 6.9 13.0 4.7 Right-of-use assets obtained in exchange for lease liabilities: Operating leases 30.4 8.8 7.5 Finance leases $ 2.4 $ 14.6 $ 4.2 Weighted average remaining lease term: Operating leases 5.9 years 4.2 years 5.0 years Finance leases 12.0 years 12.6 years 14.1 years Weighted average discount rate: Operating leases 5.4 % 6.1 % 6.1 % Finance leases 5.3 % 5.4 % 5.3 %
+[END TABLE 181]
+
+[TABLE 182]
+Purchase Commitments
+[END TABLE 182]
+
+[TABLE 183]
+6. Contingencies
+[END TABLE 183]
+
+[TABLE 184]
+Litigation
+[END TABLE 184]
+
+[TABLE 185]
+7. Income Taxes
+[END TABLE 185]
+
+[TABLE 186]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 United States $ 961.4 $ 659.8 $ 732.4 Outside of the United States 127.0 49.2 ( 22.0 ) Total $ 1,088.4 $ 709.0 $ 710.4
+[END TABLE 186]
+
+[TABLE 187]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Current: Federal $ 37.1 $ 157.4 $ 149.1 State 7.1 16.5 18.1 Foreign 25.7 2.7 56.7 Total current income taxes 69.9 176.6 223.9 Deferred: Federal 169.7 ( 55.2 ) ( 93.7 ) State 16.0 ( 2.0 ) 14.6 Foreign ( 3.5 ) 13.4 24.1 Total deferred income taxes 182.2 ( 43.8 ) ( 55.0 ) Total $ 252.1 $ 132.8 $ 168.9
+[END TABLE 187]
+
+[TABLE 188]
+Twelve Months Ended December 31, (In millions) 2025 Federal $ 68.0 State 10.6 Foreign 15.8 Total $ 94.4
+[END TABLE 188]
+
+[TABLE 189]
+December 31, Year of Expiration (In millions) 2025 2024 Net operating loss: Federal $ 3.8 $ 12.1 2028 California 162.0 162.0 2037 Other states 5.1 5.8 2028 Tax credits: Federal Foreign tax credits 1.2 0.1 2032 California R&D credits 134.6 124.9 Indefinite California AMT Credits $ 0.5 $ 0.5 Indefinite
+[END TABLE 189]
+
+[TABLE 190]
+December 31, (In millions) 2025 2024 Deferred tax assets: Net operating loss carryforwards $ 12.6 $ 14.4 Capitalized research and development expenses 103.6 265.0 Tax credits 85.6 79.2 Share-based compensation 20.6 22.5 Fixed and intangible assets 187.3 263.6 Accrued liabilities and reserves 86.8 87.4 Convertible debt 11.3 16.0 Total gross deferred tax assets 507.8 748.1 Less: valuation allowance ( 160.7 ) ( 221.9 ) Total net deferred tax assets 347.1 526.2 Deferred tax liabilities: Fixed assets and acquired intangibles assets ( 45.8 ) ( 59.3 ) Net unrealized gain on equity investments ( 18.4 ) — Other — ( 0.3 ) Total deferred tax liabilities ( 64.2 ) ( 59.6 ) Net deferred tax assets (liabilities) $ 282.9 $ 466.6
+[END TABLE 190]
+
+[TABLE 191]
+Twelve Months Ended December 31, (In millions) 2025 U.S. Federal Statutory Rate $ 228.6 21.0 % Increase (Decrease) Resulting From: State and Local Income Tax, Net of Federal Income Tax Effect 16.4 1.5 % Foreign Tax Effects Ireland Change in Rate 63.6 5.8 % Change in Valuation Allowance ( 74.5 ) ( 6.8 ) % Other 5.8 0.5 % Malaysia Foreign rate differential ( 14.8 ) ( 1.4 ) % Other 8.9 0.8 % Other foreign jurisdictions 6.7 0.6 % Effect of Cross-Border Taxes 3.0 0.3 % Tax Credits Research and development credits ( 13.6 ) ( 1.2 ) % Changes in Valuation Allowance 0.4 — % Nontaxable or Nondeductible Items Stock and officers compensation 16.1 1.5 % Other 2.5 0.2 % Changes in Unrecognized Tax Benefits 4.4 0.4 % Other ( 1.4 ) ( 0.1 ) % Total $ 252.1 23.2 %
+[END TABLE 191]
+
+[TABLE 192]
+Twelve Months Ended December 31, (In millions) 2024 2023 U.S. federal statutory tax rate $ 148.9 $ 149.2 State income tax, net of federal benefit 10.2 7.8 Permanent items 10.5 ( 2.7 ) Research and development credits ( 24.6 ) ( 28.3 ) Foreign tax credit ( 1.2 ) — Foreign rate differential 1.6 15.8 Stock and officers compensation 3.8 5.6 Collaboration agreement milestone share-based payment ( 32.2 ) ( 72.1 ) Change in statutory tax rates 51.5 19.4 Intellectual property transfer — 63.9 Other 6.7 0.3 Change in valuation allowance ( 42.4 ) 10.0 Income taxes at effective rates $ 132.8 $ 168.9
+[END TABLE 192]
+
+[TABLE 193]
+(In millions) Balance at January 1, 2023 $ 52.0 Increases related to prior year tax positions 0.8 Increases related to current year tax positions 6.6 Balance at December 31, 2023 59.4 Increases related to prior year tax positions 0.1 Increases related to current year tax positions 6.7 Balance at December 31, 2024 66.2 Increases related to prior year tax positions 0.2 Increases related to current year tax positions 5.7 Decreases related to prior year tax positions ( 3.0 ) Balance at December 31, 2025 $ 69.1
+[END TABLE 193]
+
+[TABLE 194]
+Jurisdiction Fiscal Year United States (Federal and state) 2007 - 2025 United Kingdom 2022 - 2025 Malaysia 2020 - 2025 Ireland 2023 - 2025
+[END TABLE 194]
+
+[TABLE 195]
+8. Employee Benefit Plans and Stockholders’ Equity
+[END TABLE 195]
+
+[TABLE 196]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Shares received from Note Hedge — — 12.2 Shares issued in connection with the Restated Collaboration Agreement — ( 1.5 ) ( 3.7 ) Shares repurchased under share repurchase programs 7.7 10.4 4.7 Shares repurchased with 2028 Notes proceeds — — 1.6 Shares issued in connection with 2023 Warrants — ( 12.5 ) —
+[END TABLE 196]
+
+[TABLE 197]
+Nonvested RSU and PSU Activity (In millions, except weighted average grant date fair value) Shares Available for Grant Shares Weighted Average Grant Date Fair Value Aggregate Intrinsic Value Balance at December 31, 2022 15.3 2.9 $ 94.08 Granted ( 1.6 ) 1.6 112.01 Vested — ( 1.4 ) 88.57 Forfeited 0.2 ( 0.2 ) 106.34 Balance at December 31, 2023 13.9 2.9 105.98 $ 361.2 Granted ( 1.7 ) 1.7 131.17 Vested — ( 1.3 ) 102.09 Forfeited 0.3 ( 0.3 ) 115.59 Balance at December 31, 2024 12.5 3.0 121.17 234.1 Additional shares authorized 3.4 — — Granted ( 2.5 ) 2.5 78.75 Vested — ( 1.4 ) 114.95 Forfeited 0.7 ( 0.7 ) 113.04 Balance at December 31, 2025 14.1 3.4 $ 94.48 $ 226.3
+[END TABLE 197]
+
+[TABLE 198]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Cost of sales $ 10.9 $ 14.4 $ 14.6 Research and development 49.2 52.2 45.5 Selling, general and administrative 99.5 103.8 90.7 Total share-based compensation expense $ 159.6 $ 170.4 $ 150.8 Total tax benefit related to share-based compensation expense $ 24.9 $ 43.8 $ 40.0
+[END TABLE 198]
+
+[TABLE 199]
+Twelve Months Ended December 31, 2025 2024 2023 Risk free interest rate 3.99 % - 4.31 % 4.80 % - 5.27 % 5.20 % - 5.47 % Dividend yield — % — % — % Expected volatility of Dexcom common stock 32 % - 48 % 42 % - 85 % 34 % - 48 % Expected life (in years) 0.5 0.5 0.5
+[END TABLE 199]
+
+[TABLE 200]
+9. Business Segment and Geographic Information
+[END TABLE 200]
+
+[TABLE 201]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Revenue $ 4,662.0 $ 4,033.0 $ 3,622.3 Less: Cost of sales (1) 1,860.1 1,594.8 1,333.4 Payroll related expenses 885.0 767.1 726.9 Stock-based compensation expense 148.7 156.0 136.2 Marketing expense 310.3 298.7 264.6 Travel related expenses 64.4 64.8 55.3 Supply expenses and clinical trials 61.6 64.5 46.5 Consulting & professional fees 139.0 227.8 222.2 Equipment, office & facility expenses 92.2 83.8 84.7 IT software and data 144.3 130.6 106.6 Depreciation and amortization 39.5 39.9 41.9 Other segment items (2) 5.1 5.0 6.3 Operating income 911.8 600.0 597.7 Other income, net 176.6 109.0 112.7 Income tax expense 252.1 132.8 168.9 Net income $ 836.3 $ 576.2 $ 541.5 (1) Includes amounts stated in other significant expense captions. (2) Other segment items are primarily composed of impairment of assets and bad debt expense.
+[END TABLE 201]
+
+[TABLE 202]
+Twelve Months Ended December 31, (In millions) 2025 2024 2023 Other segment disclosures Depreciation and amortization (1) $ 251.8 $ 217.7 $ 186.0 Expenditures for long-lived assets $ 363.5 $ 358.8 $ 236.6 Significant noncash items other than depreciation and amortization expense: Deferred income tax expense (benefit) $ 182.2 $ ( 43.8 ) $ ( 55.0 ) Net (gains) losses on equity investments $ ( 78.1 ) $ 1.4 $ ( 1.9 ) (1) Includes depreciation and amortization recorded in both cost of sales and operating expenses.
+[END TABLE 202]
+
+[TABLE 203]
+Twelve Months Ended December 31, 2025 2024 2023 (In millions) United States International Total United States International Total United States International Total Distributor $ 3,195.7 $ 763.3 $ 3,959.0 $ 2,824.4 $ 605.7 $ 3,430.1 $ 2,587.2 $ 508.4 $ 3,095.6 Direct 139.2 563.8 703.0 65.4 537.5 602.9 38.1 488.6 526.7 Total revenue $ 3,334.9 $ 1,327.1 $ 4,662.0 $ 2,889.8 $ 1,143.2 $ 4,033.0 $ 2,625.3 $ 997.0 $ 3,622.3
+[END TABLE 203]
+
+[TABLE 204]
+December 31, (In millions) 2025 2024 Ireland $ 438.8 $ 185.7 Malaysia 684.4 632.1 United States 406.1 464.6 Other countries 108.0 120.3 Total long-lived assets $ 1,637.3 $ 1,402.7
+[END TABLE 204]
+
+[TABLE 205]
+DexCom, Inc. SCHEDULE II – VALUATION AND QUALIFYING ACCOUNTS (In millions)
+[END TABLE 205]
+
+[TABLE 206]
+Twelve Months Ended December 31, Allowance for doubtful accounts 2025 2024 2023 Beginning Balance $ 9.2 $ 9.3 $ 7.3 Provision for doubtful accounts 3.3 ( 0.1 ) 2.0 Write-offs and adjustments — — — Recoveries — — — Ending Balance $ 12.5 $ 9.2 $ 9.3
+[END TABLE 206]

@@ -1,0 +1,591 @@
+[TABLE 001]
+(Mark One) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware 47-3298624 (State or other jurisdiction of incorporation or organization) (I.R.S. employer identification no.)
+[END TABLE 003]
+
+[TABLE 004]
+1701 East Mossy Oaks Road, Spring, Texas 77389 (Address of principal executive offices) (Zip code) (678) 259-9860 (Registrant's telephone number, including area code)
+[END TABLE 004]
+
+[TABLE 005]
+Title of each class Trading Symbol(s) Name of each exchange on which registered Common stock, par value $0.01 per share HPE New York Stock Exchange 7.625% Series C Mandatory Convertible Preferred Stock, par value $0.01 per share HPEPRC New York Stock Exchange
+[END TABLE 005]
+
+[TABLE 006]
+Large accelerated filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 006]
+
+[TABLE 007]
+DOCUMENTS INCORPORATED BY REFERENCE DOCUMENT DESCRIPTION 10-K PART Portions of the Registrant's proxy statement related to its 2026 Annual Meeting of Stockholders to be filed pursuant to Regulation 14A within 120 days after Registrant's fiscal year end of October 31, 2025 are incorporated by reference into Part III of this Report. III
+[END TABLE 007]
+
+[TABLE 008]
+Page PART I Item 1. Business 3 Item 1A. Risk Factors 17 Item 1B. Unresolved Staff Comments 41 Item 1C. Cybersecurity 41 Item 2. Properties 42 Item 3. Legal Proceedings 43 Item 4. Mine Safety Disclosures 43 PART II Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 44 Item 6. [Reserved] 45 Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 46 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 72 Item 8. Financial Statements and Supplementary Data 73 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 150 Item 9A. Controls and Procedures 150 Item 9B. Other Information 151 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 152 PART III Item 10. Directors, Executive Officers and Corporate Governance 153 Item 11. Executive Compensation 153 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 153 Item 13. Certain Relationships and Related Transactions, and Director Independence 154 Item 14. Principal Accounting Fees and Services 154 PART IV Item 15. Exhibits and Financial Statement Schedules 155 Item 16. Form 10-K Summary 163 Signatures 164
+[END TABLE 008]
+
+[TABLE 009]
+Name Age Position Antonio Neri 58 President and Chief Executive Officer Marie Myers 57 Executive Vice President and Chief Financial Officer John F. Schultz 61 Executive Vice President and Chief Operating and Legal Officer Stacy Dillow 51 Executive Vice President and Chief People Officer Maeve Culloty 47 Executive Vice President, President and Chief Executive Officer of HPE Financial Services Fidelma Russo 62 Executive Vice President, General Manager of Hybrid Cloud, and Chief Technology Officer Neil B. MacDonald 57 Executive Vice President and General Manager of Server Rami Rahim 54 Executive Vice President, President and General Manager of Networking Jeremy K. Cox 48 Senior Vice President, Corporate Controller, Chief Tax Officer, and Principal Accounting Officer Kirt P. Karros 56 Senior Vice President, Treasurer and Head of Corporate Development
+[END TABLE 009]
+
+[TABLE 010]
+As of October 31, 2025 Owned Leased Total (Square feet in millions) Administration and support 1 5 6 (Percentage) 17 % 83 % 100 % Core data centers, manufacturing plants, research and development facilities, and warehouse operations 2 2 4 (Percentage) 50 % 50 % 100 % Total 3 7 10 (Percentage) 30 % 70 % 100 %
+[END TABLE 010]
+
+[TABLE 011]
+Americas Puerto Rico— Aguadilla United States— Alpharetta, Andover, Chippewa Falls, Colorado Springs, Fort Collins, Herndon, Houston, Milpitas, Roseville, San Jose, Spring, Sunnyvale, Westford Europe, Middle East, Africa Netherlands —Amsterdam United Kingdom —Erskine Asia Pacific India —Bangalore Singapore — Singapore Taiwan — Taipei
+[END TABLE 011]
+
+[TABLE 012]
+Fourth Quarter of Fiscal 2025 Total Number of Shares Purchased and Settled Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares that May Yet Be Purchased under the Plans or Programs In thousands, except per share amounts Month 1 (August 2025) — $ — — $ 711,642 Month 2 (September 2025) 1,310 24.69 1,310 679,298 Month 3 (October 2025) 2,787 24.28 2,787 $ 3,611,641 Total 4,097 $ 24.41 4,097
+[END TABLE 012]
+
+[TABLE 013]
+10/2020 10/2021 10/2022 10/2023 10/2024 10/2025 Hewlett Packard Enterprise $ 100.00 $ 175.41 $ 176.48 $ 195.99 $ 255.45 $ 328.65 S&P 500 Index $ 100.00 $ 142.89 $ 122.00 $ 134.35 $ 185.38 $ 225.10 S&P Information Technology Index $ 100.00 $ 146.93 $ 117.16 $ 153.30 $ 231.83 $ 318.88
+[END TABLE 013]
+
+[TABLE 014]
+For the fiscal years ended October 31, 2025 2024 Change In millions, except per share amounts Net revenue $ 34,296 $ 30,127 13.8% Gross profit $ 10,377 $ 9,878 5.1% Gross profit margin 30.3 % 32.8 % (2.5)pts (Loss) earnings from operations $ (437) $ 2,190 (120.0)% Operating profit margin (1.3) % 7.3 % (8.6)pts Net earnings attributable to HPE $ 57 $ 2,579 (97.8)% Net (loss) earnings attributable to common stockholders $ (59) $ 2,554 (102.3)% Diluted net (loss) earnings per share attributable to common stockholders (1) $ (0.04) $ 1.93 $(1.97) Cash flow provided by operations $ 2,919 $ 4,341 $(1,422)
+[END TABLE 014]
+
+[TABLE 015]
+For the fiscal years ended October 31, 2025 2024 Change In millions, except per share amounts Non-GAAP gross profit $ 10,805 $ 9,893 9.2% Non-GAAP gross profit margin 31.5 % 32.8 % (1.3)pts Non-GAAP earnings from operations $ 3,353 $ 3,168 5.8% Non-GAAP operating profit margin 9.8 % 10.5 % (0.7)pts Non-GAAP net earnings attributable to HPE $ 2,753 $ 2,655 3.7% Non-GAAP net earnings attributable to common stockholders $ 2,637 $ 2,630 0.3% Non-GAAP diluted net earnings per share attributable to common stockholders (1) $ 1.94 $ 1.99 $(0.05) Free cash flow $ 986 $ 2,297 $(1,311)
+[END TABLE 015]
+
+[TABLE 016]
+For the fiscal years ended October 31, 2025 2024 Dollars in millions ARR $ 3,151 $ 1,938 Year-over-year growth rate 63 % 49 %
+[END TABLE 016]
+
+[TABLE 017]
+For the fiscal years ended October 31, 2025 2024 2023 Dollars % of Revenue Dollars % of Revenue Dollars % of Revenue Dollars in millions Net revenue $ 34,296 100.0 % $ 30,127 100.0 % $ 29,135 100.0 % Cost of sales (exclusive of amortization shown separately below) 23,919 69.7 20,249 67.2 18,896 64.9 Gross profit 10,377 30.3 9,878 32.8 10,239 35.1 Research and development 2,518 7.3 2,246 7.5 2,349 8.1 Selling, general and administrative 5,704 16.6 4,871 16.2 5,160 17.7 Amortization of intangible assets 511 1.5 267 0.9 288 1.0 Impairment charges 1,621 4.7 — — — — Transformation costs 2 — 93 0.3 283 1.0 Acquisition, disposition and other charges 458 1.3 211 0.7 70 0.2 (Loss) earnings from operations (437) (1.3) 2,190 7.3 2,089 7.2 Interest and other, net (175) (0.5) (117) (0.4) (104) (0.4) Gain on sale of equity interest — — 733 2.4 — — Gain on sale of a business 248 0.7 — — — — Earnings from equity interests 79 0.2 147 0.5 245 0.8 (Loss) earnings before provision for taxes (285) (0.9) 2,953 9.8 2,230 7.6 Benefit (provision) for taxes 342 1.0 (374) (1.2) (205) (0.7) Net earnings attributable to HPE 57 0.2 2,579 8.6 2,025 7.0 Preferred stock dividends (116) (0.3) (25) (0.1) — — Net (loss) earnings attributable to common stockholders $ (59) (0.2) % $ 2,554 8.5 % $ 2,025 7.0 %
+[END TABLE 017]
+
+[TABLE 018]
+For the fiscal years ended October 31, 2025 2024 Percentage Points Server 5.4 6.3 Hybrid Cloud 0.9 (0.3) Networking 7.7 (2.9) Financial Services — 0.1 Corporate Investments and Other (0.8) 0.1 Total segment 13.2 3.3 Elimination of intersegment net revenue and other 0.6 0.1 Total HPE 13.8 3.4
+[END TABLE 018]
+
+[TABLE 019]
+HPE Consolidated Server Hybrid Cloud Networking Financial Services Corporate Investments and Other Dollars in millions, except for per share amounts Net revenue (1) $ 34,296 $ 17,745 $ 5,754 $ 6,850 $ 3,504 $ 776 Year-over-year change % 13.8% 10.2% 4.9% 51.1% (0.2)% (23.5)% Gross Profit as a % of net revenue 30.3% 20.9% 37.0% 59.8% 18.5% 22.9% (Loss) earnings from operations (2) $ (437) $ 1,343 $ 335 $ 1,596 $ 361 $ (32) (Loss) earnings from operations as a % of net revenue (1.3)% 7.6% 5.8% 23.3% 10.3% (4.1)% Year-over-year change percentage points (8.6) pts (3.6) pts 1.1 pts (1.3) pts 1.3 pts (1.6) pts
+[END TABLE 019]
+
+[TABLE 020]
+For the fiscal years ended October 31, 2025 2024 2023 2025 vs 2024 % Change Dollars in millions Net revenue $ 17,745 $ 16,104 $ 14,266 10.2 % Cost of sales 14,038 12,060 10,071 16.4 % Gross profit 3,707 4,044 4,195 (8.3) % Operating expenses 2,364 2,240 2,380 5.5 % Earnings from operations $ 1,343 $ 1,804 $ 1,815 (25.6) % Earnings from operations as a % of net revenue 7.6 % 11.2 % 12.7 %
+[END TABLE 020]
+
+[TABLE 021]
+For the fiscal years ended October 31, 2025 2024 2023 2025 vs 2024 % Change Dollars in millions Net revenue $ 5,754 $ 5,487 $ 5,588 4.9 % Cost of sales 3,624 3,302 3,314 9.8 % Gross profit 2,130 2,185 2,274 (2.5) % Operating expenses 1,795 1,926 2,027 (6.8) % Earnings from operations $ 335 $ 259 $ 247 29.3 % Earnings from operations as a % of net revenue 5.8 % 4.7 % 4.4 %
+[END TABLE 021]
+
+[TABLE 022]
+For the fiscal years ended October 31, 2025 2024 2023 2025 vs 2024 % Change Dollars in millions Net revenue $ 6,850 $ 4,532 $ 5,379 51.1 % Cost of sales 2,756 1,706 2,228 61.5 % Gross profit 4,094 2,826 3,151 44.9 % Operating expenses 2,498 1,711 1,808 46.0 % Earnings from operations $ 1,596 $ 1,115 $ 1,343 43.1 % Earnings from operations as a % of net revenue 23.3 % 24.6 % 25.0 %
+[END TABLE 022]
+
+[TABLE 023]
+For the fiscal years ended October 31, 2025 2024 2023 2025 vs 2024 % Change Dollars in millions Net revenue $ 3,504 $ 3,512 $ 3,480 (0.2) % Cost of sales 2,856 2,923 2,919 (2.3) % Gross profit 648 589 561 10.0 % Operating expenses 287 273 280 5.1 % Earnings from operations $ 361 $ 316 $ 281 14.2 % Earnings from operations as a % of net revenue 10.3 % 9.0 % 8.1 %
+[END TABLE 023]
+
+[TABLE 024]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Financing volume $ 5,475 $ 6,616 $ 6,412
+[END TABLE 024]
+
+[TABLE 025]
+As of October 31 2025 2024 Dollars in millions Financing receivables, gross $ 9,740 $ 9,647 Net equipment under operating leases 3,159 3,632 Capitalized profit on intercompany equipment transactions (1) 388 396 Intercompany leases (1) 134 119 Gross portfolio assets 13,421 13,794 Allowance for doubtful accounts (2) 189 177 Operating lease equipment reserve 51 30 Total reserves 240 207 Net portfolio assets $ 13,181 $ 13,587 Reserve coverage 1.8 % 1.5 % Debt-to-equity ratio (3) 7.0x 7.0x
+[END TABLE 025]
+
+[TABLE 026]
+For the fiscal years ended October 31, 2025 2024 2023 2025 vs 2024 % Change Dollars in millions Net revenue $ 776 $ 1,014 $ 985 (23.5) % Cost of sales 598 795 808 (24.8) % Gross profit 178 219 177 (18.7) % Operating expenses 210 244 254 (13.9) % Loss from operations $ (32) $ (25) $ (77) (28.0) % Loss from operations as a % of net revenue (4.1) % (2.5) % (7.8) %
+[END TABLE 026]
+
+[TABLE 027]
+As of October 31, 2025 2024 2023 In millions Cash, cash equivalents and restricted cash $ 5,859 $ 15,105 $ 4,581 Total debt 22,365 18,246 12,355 Available borrowing resources (1) 6,122 6,009 6,588 Commercial paper programs (2) 5,069 5,101 5,071 Uncommitted lines of credit (3) $ 1,053 $ 908 $ 1,517
+[END TABLE 027]
+
+[TABLE 028]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Net cash provided by operating activities $ 2,919 $ 4,341 $ 4,428 Net cash used in investing activities (13,190) (53) (3,284) Net cash provided by (used in) financing activities 1,046 6,283 (1,362) Effect of exchange rate changes on cash, cash equivalents, and restricted cash (21) (47) 36 Change in cash, cash equivalents and restricted cash $ (9,246) $ 10,524 $ (182) Free cash flow $ 986 $ 2,297 $ 2,238
+[END TABLE 028]
+
+[TABLE 029]
+As of October 31, 2025 2024 2023 Days of sales outstanding in accounts receivable (“DSO”) 49 38 43 Days of supply in inventory (“DOS”) 89 120 87 Days of purchases outstanding in accounts payable (“DPO”) (108) (170) (134) Cash conversion cycle 30 (12) (4)
+[END TABLE 029]
+
+[TABLE 030]
+As of October 31, 2025 2024 2023 Dollars in millions Short-term debt $ 4,609 $ 4,742 $ 4,868 Long-term debt $ 17,756 $ 13,504 $ 7,487 Weighted-average interest rate 4.8 % 5.4 % 5.4 %
+[END TABLE 030]
+
+[TABLE 031]
+For the fiscal years ended October 31, 2025 2024 Dollars % of Revenue Dollars % of Revenue Dollars In millions GAAP net revenue $ 34,296 100.0 % $ 30,127 100.0 % GAAP cost of sales 23,919 69.7 % 20,249 67.2 % GAAP gross profit 10,377 30.3 % 9,878 32.8 % Non-GAAP adjustments Stock-based compensation expense 49 0.1 % 49 0.2 % Acquisition, disposition and other charges (1) 236 0.7 % (34) (0.1) % Cost reduction program 126 0.4 % — — % H3C divestiture related severance costs 17 — % — — % Non-GAAP gross profit $ 10,805 31.5 % $ 9,893 32.8 %
+[END TABLE 031]
+
+[TABLE 032]
+For the fiscal years ended October 31, 2025 2024 Dollars % of Revenue Dollars % of Revenue Dollars In millions GAAP (loss) earnings from operations $ (437) (1.3) % $ 2,190 7.3 % Non-GAAP adjustments: Amortization of intangible assets 511 1.5 % 267 0.9 % Impairment charges 1,621 4.7 % — — % Transformation costs 2 — % 93 0.3 % Stock-based compensation expense 643 1.9 % 430 1.4 % H3C divestiture related severance costs 97 0.3 % — — % Cost reduction program 275 0.8 % — — % Acquisition, disposition and other charges (1) 641 1.9 % 188 0.6 % Non-GAAP earnings from operations $ 3,353 9.8 % $ 3,168 10.5 %
+[END TABLE 032]
+
+[TABLE 033]
+For the fiscal years ended October 31, 2025 2024 Dollars Diluted Net EPS (1) Dollars Diluted Net EPS Dollars in millions except per share amounts GAAP net (loss) earnings attributable to common stockholders $ (59) $ (0.04) $ 2,554 $ 1.93 Preferred stock dividends 116 25 GAAP net earnings attributable to HPE 57 $ (0.04) 2,579 $ 1.93 Non-GAAP adjustments: Amortization of intangible assets 511 0.39 267 0.20 Impairment charges 1,621 1.22 — — Transformation costs 2 — 93 0.07 Stock-based compensation expense 643 0.49 430 0.32 Gain on sale of a business (248) (0.19) — — H3C divestiture related severance costs 97 0.07 — — Cost reduction program 275 0.21 — — Acquisition, disposition and other charges (2) 641 0.49 188 0.15 Litigation judgment (52) (0.04) — — Gain on sale of equity interest — — (733) (0.55) Loss on equity investments, net 140 0.10 (94) (0.07) Adjustments for taxes (828) (0.64) (95) (0.07) Other adjustments (3)(4) (106) (0.12) 20 0.01 Non-GAAP net earnings attributable to HPE (5) 2,753 1.94 2,655 1.99 Preferred stock dividends (116) (25) Non-GAAP net earnings attributable to common stockholders $ 2,637 $ 2,630
+[END TABLE 033]
+
+[TABLE 034]
+For the fiscal years ended October 31, 2025 2024 In millions Weighted-average shares used to compute basic net EPS 1,324 1,309 Dilutive effect of employee stock plans 18 18 Dilutive effect of 7.625% Series C mandatory convertible preferred stock 76 10 Weighted-average shares used to compute Non-GAAP diluted net EPS 1,418 1,337
+[END TABLE 034]
+
+[TABLE 035]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Net cash provided by operating activities $ 2,919 $ 4,341 $ 4,428 Investment in property, plant and equipment and software assets (2,292) (2,367) (2,828) Proceeds from sale of property, plant and equipment 380 370 602 Effect of exchange rate changes on cash, cash equivalents, and restricted cash (21) (47) 36 Free cash flow $ 986 $ 2,297 $ 2,238
+[END TABLE 035]
+
+[TABLE 036]
+Page Reports of Independent Registered Public Accounting Firm (PCAOB ID: 42 ) 74 Management's Report on Internal Control Over Financial Reporting 78 Consolidated Statements of Earnings 79 Consolidated Statements of Comprehensive Income 80 Consolidated Balance Sheets 81 Consolidated Statements of Cash Flows 82 Consolidated Statements of Stockholders' Equity 83 Notes to Consolidated Financial Statements 85 Note 1: Overview and Summary of Significant Accounting Policies 85 Note 2: Segment Information 94 Note 3: Transformation Programs 98 Note 4: Retirement and Post-Retirement Benefit Plans 99 Note 5: Stock-Based Compensation 106 Note 6: Taxes on Earnings 108 Note 7: Balance Sheet Details 112 Note 8: Accounting for Leases as a Lessee 117 Note 9: Accounting for Leases as a Lessor 119 Note 10: Acquisitions and Dispositions 123 Note 11: Goodwill and Intangible Assets 127 Note 12: Fair Value 130 Note 13: Financial Instruments 133 Note 14: Borrowings 138 Note 15: Stockholders' Equity 141 Note 16: Net (Loss) Earnings Per Share 143 Note 17: Litigation, Contingencies, and Commitments 144 Note 18: Guarantees and Indemnifications 147 Note 19: Equity Interests 148
+[END TABLE 036]
+
+[TABLE 037]
+Valuation of Goodwill Description of the Matter At October 31, 2025, the Company’s goodwill was $23.8 billion, of which $3.3 billion and $10.2 billion related to the Hybrid Cloud, and Server reporting units, respectively. As discussed in Note 11 to the consolidated financial statements, goodwill is tested for impairment at least annually at the reporting unit level and more frequently when warranted based on indicators of impairment. Auditing management’s goodwill impairment test for the Hybrid Cloud and Server reporting units was complex and highly judgmental due to the significant estimation required to determine the fair value of the reporting units. In particular, the fair value estimate of the Hybrid Cloud and Server reporting units was sensitive to significant assumptions, such as the terminal revenue growth rate and operating margin, which are affected by expectations about future market or economic conditions.
+[END TABLE 037]
+
+[TABLE 038]
+How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the Company’s goodwill impairment review process, including controls over the significant assumptions described above. To test the estimated fair value of the Company’s Hybrid Cloud and Server reporting units, we performed audit procedures that included, among others, assessing methodologies and testing the significant assumptions discussed above and the underlying data used by the Company in its analysis. We compared the significant assumptions used by management to current industry and economic trends and evaluated whether changes to the Company’s business model, product mix and other factors would affect the significant assumptions. We assessed the historical accuracy of management’s estimates and performed sensitivity analyses of significant assumptions to evaluate the changes in the fair value of the reporting unit that would result from changes in the assumptions. In addition, we tested management’s reconciliation of the fair value of all the reporting units to the market capitalization of the Company. We involved our valuation professionals to evaluate the application of valuation methodologies in the Company’s annual impairment test. Estimation of variable consideration Description of the Matter As described in Note 1 to the consolidated financial statements, the Company recognizes revenue for sales to its customers after deducting management’s estimates of variable consideration which may include various rebates, volume-based discounts, price protection, and other incentive programs that are offered to customers, partners, and distributors. Estimated variable consideration is presented within other accrued liabilities on the consolidated balance sheet and totaled $1.0 billion at October 31, 2025. Auditing the estimates of variable consideration for certain rebates within the Networking segment included in this amount was complex and judgmental due to the level of uncertainty involved in management’s estimate of expected usage of these programs. How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the Company’s process for estimating rebates, including controls over the significant assumptions described below. To test the Company’s determination of variable consideration, we performed audit procedures that included, among others, evaluating the methodologies, testing the significant assumptions including revenue eligible for rebates and expected rebate rates and testing the completeness and accuracy of the underlying data used by the Company in its analyses. We compared the significant assumptions to historical experience of the Company to develop an expectation of future rebates on eligible revenue as of October 31, 2025, which we compared to management’s recorded amount. In addition, we inspected the underlying agreements and compared the incentive rates used in the Company’s analyses with contractual rates. We assessed the historical accuracy of management’s estimates by comparing previous estimates of rebate liabilities to the amount of actual payments in subsequent periods.
+[END TABLE 038]
+
+[TABLE 039]
+Acquisition of Juniper Networks – Valuation of customer contracts, customer lists and distribution agreements Description of the Matter As disclosed in Notes 1 and 10 to the consolidated financial statements, on July 2, 2025, the Company completed the acquisition of Juniper Networks, Inc. for total consideration of $13.6 billion. The Company allocated the net purchase price to assets acquired and liabilities assumed based on their respective fair values as of the date of acquisition, including intangible assets of $6.2 billion, of which $2.4 billion relate to customer contracts, customer lists and distribution agreements. Auditing the valuation of acquired customer contracts, customer lists and distribution agreements was complex and highly judgmental due to significant judgment and estimation by management when developing the fair value estimate of the customer contracts, customer lists & distribution agreement. Specifically, there was a high degree of auditor judgment, subjectivity and effort in performing procedures and evaluating management’s significant assumptions related to forecasted revenue, and forecasted growth in earnings before interest, taxes, depreciation & amortization, both of which are affected by expectations about future market and operational decisions and the discount rate used in estimating the fair value. How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design, and tested the operating effectiveness of internal controls over the Company’s valuation of acquired intangible assets, including controls over the significant assumptions described above. To test the estimated fair value of the customer contracts, customer lists and distribution agreements intangible asset, we performed audit procedures that included, among others, assessing methodologies and testing the significant assumptions discussed above and the underlying data used by the Company in its analysis. We compared the significant assumptions used by management to current industry and economic trends and evaluated whether and the degree to which changes to the Company’s forecast and other factors would affect the significant assumptions. Our testing also included comparing the significant assumptions used to the current and historical results of the acquired business and to other guideline companies within the same industry. We involved our valuation professionals to evaluate the application of valuation methodologies and test the discount rate used in the determination of the fair value estimate.
+[END TABLE 039]
+
+[TABLE 040]
+/s/ Antonio F. Neri /s/ Marie Myers Antonio F. Neri President and Chief Executive Officer (Principal Executive Officer) Marie Myers Executive Vice President and Chief Financial Officer (Principal Financial Officer) December 18, 2025 December 18, 2025
+[END TABLE 040]
+
+[TABLE 041]
+For the fiscal years ended October 31, 2025 2024 2023 In millions, except per share amounts Net Revenue: Products $ 21,956 $ 18,587 $ 18,100 Services 11,573 10,872 10,488 Financing income 767 668 547 Total net revenue 34,296 30,127 29,135 Costs and Expenses: Cost of products (exclusive of amortization shown separately below) 16,151 12,961 11,958 Cost of services (exclusive of amortization shown separately below) 7,268 6,793 6,555 Financing cost 500 495 383 Research and development 2,518 2,246 2,349 Selling, general and administrative 5,704 4,871 5,160 Amortization of intangible assets 511 267 288 Impairment charges 1,621 — — Transformation costs 2 93 283 Acquisition, disposition and other charges 458 211 70 Total costs and expenses 34,733 27,937 27,046 (Loss) earnings from operations ( 437 ) 2,190 2,089 Interest and other, net ( 175 ) ( 117 ) ( 104 ) Gain on sale of equity interest — 733 — Gain on sale of a business 248 — — Earnings from equity interests 79 147 245 (Loss) earnings before provision for taxes ( 285 ) 2,953 2,230 Benefit (provision) for taxes 342 ( 374 ) ( 205 ) Net earnings attributable to HPE 57 2,579 2,025 Preferred stock dividends ( 116 ) ( 25 ) — Net (loss) earnings attributable to common stockholders $ ( 59 ) $ 2,554 $ 2,025 Net (Loss) Earnings Per Share Attributable to Common Stockholders: Basic $ ( 0.04 ) $ 1.95 $ 1.56 Diluted $ ( 0.04 ) $ 1.93 $ 1.54 Weighted-average Shares Used to Compute Net (Loss) Earnings Per Share: Basic 1,324 1,309 1,299 Diluted 1,324 1,337 1,316
+[END TABLE 041]
+
+[TABLE 042]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Net earnings attributable to HPE $ 57 $ 2,579 $ 2,025 Other Comprehensive Income (Loss) Before Taxes Change in Net Unrealized Gains (Losses) on Available-for-sale Securities: Net unrealized gains (losses) arising during the period ( 3 ) 8 1 Losses reclassified into earnings 1 — — ( 2 ) 8 1 Change in Net Unrealized Components of Cash Flow Hedges: Net unrealized losses arising during the period ( 168 ) ( 115 ) ( 177 ) Net losses reclassified into earnings 156 16 116 ( 12 ) ( 99 ) ( 61 ) Change in Unrealized Components of Defined Benefit Plans: Net unrealized gains (losses) arising during the period 177 34 ( 99 ) Amortization of net actuarial loss and prior service benefit 124 136 144 Curtailments, settlements and other 10 2 3 311 172 48 Change in Cumulative Translation Adjustment: Net losses arising during the period ( 44 ) ( 23 ) ( 32 ) Net loss reclassified into earnings — 32 — ( 44 ) 9 ( 32 ) Other Comprehensive Income (Loss) Before Taxes 253 90 ( 44 ) (Provision) Benefit for Taxes ( 24 ) 17 58 Other Comprehensive Income, Net of Taxes 229 107 14 Comprehensive Income $ 286 $ 2,686 $ 2,039
+[END TABLE 042]
+
+[TABLE 043]
+As of October 31 2025 2024 In millions, except par value and shares ASSETS Current Assets: Cash and cash equivalents $ 5,773 $ 14,846 Accounts receivable, net of allowances 5,290 3,550 Financing receivables, net of allowances 3,826 3,870 Inventory 6,352 7,810 Assets held for sale — 1 Other current assets 3,753 3,380 Total current assets 24,994 33,457 Property, plant and equipment, net 6,002 5,664 Long-term financing receivables and other assets 13,817 12,616 Investments in equity interests 955 929 Goodwill 23,770 18,086 Intangible assets, net 6,368 510 Total assets $ 75,906 $ 71,262 LIABILITIES AND STOCKHOLDERS' EQUITY Current Liabilities: Notes payable and short-term borrowings $ 4,609 $ 4,742 Accounts payable 7,731 11,064 Employee compensation and benefits 1,871 1,356 Taxes on earnings 319 284 Deferred revenue 5,358 3,904 Liabilities held for sale — 32 Other accrued liabilities 4,755 4,591 Total current liabilities 24,643 25,973 Long-term debt 17,756 13,504 Other non-current liabilities 8,753 6,905 Commitments and Contingencies HPE stockholders' Equity: 7.625 % Series C mandatory convertible preferred stock, $ 0.01 par value ( 30,000,000 issued and outstanding at October 31, 2025 and October 31, 2024) — — Common stock, $ 0.01 par value ( 9,600,000,000 shares authorized; 1,318,292,428 and 1,297,258,235 issued and outstanding at October 31, 2025 and October 31, 2024, respectively) 13 13 Additional paid-in capital 30,234 29,848 Accumulated deficit ( 2,811 ) ( 2,068 ) Accumulated other comprehensive loss ( 2,748 ) ( 2,977 ) Total HPE stockholders' equity 24,688 24,816 Non-controlling interests 66 64 Total stockholders' equity 24,754 24,880 Total liabilities and stockholders' equity $ 75,906 $ 71,262
+[END TABLE 043]
+
+[TABLE 044]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Cash Flows from Operating Activities: Net earnings attributable to HPE $ 57 $ 2,579 $ 2,025 Adjustments to Reconcile Net Earnings Attributable to HPE to Net Cash Provided by Operating Activities: Depreciation and amortization 2,737 2,564 2,616 Impairment charges 1,621 — — Stock-based compensation expense 643 430 428 Provision for inventory and credit losses 511 175 230 Restructuring (credit) charges ( 13 ) 33 242 Cost reduction program 275 — — Deferred taxes on earnings ( 565 ) ( 64 ) ( 67 ) Earnings from equity interests ( 90 ) ( 147 ) ( 245 ) Gain on sale of a business ( 248 ) — — Gain on sale of equity interest — ( 733 ) — Dividends received from equity investees 29 43 200 H3C divestiture related severance costs 97 — — Amortization of inventory fair value adjustment 244 — — Loss on equity investments, net 147 13 31 Other, net 181 136 — Changes in Operating Assets and Liabilities, Net of Acquisitions: Accounts receivable ( 700 ) ( 83 ) 577 Financing receivables ( 153 ) ( 909 ) ( 607 ) Inventory 1,783 ( 3,358 ) 400 Accounts payable ( 3,468 ) 3,927 ( 1,655 ) Taxes on earnings ( 200 ) 190 ( 34 ) Restructuring ( 58 ) ( 164 ) ( 275 ) Other assets and liabilities 89 ( 291 ) 562 Net cash provided by operating activities 2,919 4,341 4,428 Cash Flows from Investing Activities: Investment in property, plant and equipment and software assets ( 2,292 ) ( 2,367 ) ( 2,828 ) Proceeds from sale of property, plant and equipment 380 370 602 Purchases of equity investments ( 9 ) ( 16 ) ( 15 ) Proceeds from sale of available-for-sale securities and other investments 934 6 8 Proceeds from maturities and redemptions of available-for-sale securities 48 — — Proceeds from sale of equity interest — 2,143 1 Financial collateral posted ( 764 ) ( 1,020 ) ( 1,443 ) Financial collateral received 581 978 1,152 Payments made in connection with business acquisitions, net of cash acquired ( 12,278 ) ( 147 ) ( 761 ) Proceeds from sale of a business 210 — — Net cash used in investing activities ( 13,190 ) ( 53 ) ( 3,284 ) Cash Flows from Financing Activities: Short-term borrowings with original maturities less than 90 days, net ( 8 ) ( 31 ) ( 47 ) Proceeds from debt, net of issuance costs 9,188 11,245 4,725 Payment of debt ( 6,837 ) ( 5,475 ) ( 4,887 ) Net payments related to stock-based award activities ( 289 ) ( 84 ) ( 106 ) Proceeds from issuance of 7.625 % Series C mandatory convertible preferred stock, net of issuance costs — 1,462 — Repurchases of common stock ( 202 ) ( 150 ) ( 421 ) Cash dividends paid to preferred stockholders ( 112 ) — — Cash dividends paid to common stockholders ( 684 ) ( 676 ) ( 619 ) Other ( 10 ) ( 8 ) ( 7 ) Net cash provided by (used in) financing activities 1,046 6,283 ( 1,362 ) Effect of exchange rate changes on cash, cash equivalents, and restricted cash ( 21 ) ( 47 ) 36 Change in cash, cash equivalents and restricted cash ( 9,246 ) 10,524 ( 182 ) Cash, cash equivalents and restricted cash at beginning of period 15,105 4,581 4,763 Cash, cash equivalents and restricted cash at end of period $ 5,859 $ 15,105 $ 4,581 Supplemental Cash Flow Disclosures: Income taxes paid, net of refunds $ 425 $ 248 $ 307 Interest expense paid $ 1,018 $ 772 $ 677
+[END TABLE 044]
+
+[TABLE 045]
+Common Stock Preferred Stock In millions, except number of shares in thousands Number of Shares Par Value Number of 7.625 % Series C Mandatory Convertible Shares Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Loss Equity Attributable to the Company Non- controlling Interests Total Equity In millions, except number of shares in thousands Balance at October 31, 2022 1,281,037 $ 13 — $ 28,299 $ ( 5,350 ) $ ( 3,098 ) $ 19,864 $ 45 $ 19,909 Net earnings attributable to HPE 2,025 2,025 11 2,036 Other comprehensive income 14 14 — 14 Comprehensive income 2,039 11 2,050 Stock-based compensation expense 428 428 428 Tax withholding related to vesting of employee stock plans ( 165 ) ( 165 ) ( 165 ) Issuance of common stock in connection with employee stock plans and other 28,684 56 ( 2 ) 54 54 Repurchases of common stock ( 27,091 ) ( 419 ) ( 419 ) ( 419 ) Cash dividends declared ($ 0.48 per common share) ( 619 ) ( 619 ) ( 619 ) Balance at October 31, 2023 1,282,630 $ 13 — $ 28,199 $ ( 3,946 ) $ ( 3,084 ) $ 21,182 $ 56 $ 21,238 Net earnings attributable to HPE 2,579 2,579 16 2,595 Other comprehensive income 107 107 — 107 Comprehensive income 2,686 16 2,702 Stock-based compensation expense 430 430 430 Tax withholding related to vesting of employee stock plans ( 145 ) ( 145 ) ( 145 ) Equity issued in connection with the 7.625 % Series C mandatory convertible preferred stock 30,000 1,462 1,462 1,462 Issuance of common stock in connection with employee stock plans and other 22,385 52 — 52 52 Repurchases of common stock ( 7,757 ) ( 150 ) ( 150 ) ( 150 ) Dividend on preferred stock accrued / declared ($ 0.83 per preferred share) ( 25 ) ( 25 ) ( 25 ) Cash dividends declared ($ 0.52 per common share) ( 676 ) ( 676 ) ( 8 ) ( 684 ) Balance at October 31, 2024 1,297,258 $ 13 30,000 $ 29,848 $ ( 2,068 ) $ ( 2,977 ) $ 24,816 $ 64 $ 24,880
+[END TABLE 045]
+
+[TABLE 046]
+Common Stock Preferred Stock In millions, except number of shares in thousands Number of Shares Par Value Number of 7.625 % Series C Mandatory Convertible Shares Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Loss Equity Attributable to the Company Non- controlling Interests Total Equity Balance at October 31, 2024 1,297,258 $ 13 30,000 $ 29,848 $ ( 2,068 ) $ ( 2,977 ) $ 24,816 $ 64 $ 24,880 Net earnings attributable to HPE 57 57 12 69 Other comprehensive income 229 229 229 Comprehensive income 286 12 298 Stock-based compensation expense 643 643 643 Tax withholding related to vesting of employee stock plans ( 333 ) ( 333 ) ( 333 ) Consideration for replacement of Juniper Networks Inc.’s equity awards 239 239 239 Issuance of common stock in connection with employee stock plans and other 30,758 35 2 37 ( 2 ) 35 Repurchases of common stock ( 9,724 ) ( 198 ) ( 2 ) ( 200 ) ( 200 ) Dividend on preferred stock accrued / declared ($ 3.81 per preferred share) ( 116 ) ( 116 ) ( 116 ) Cash dividends declared ($ 0.52 per common share) ( 684 ) ( 684 ) ( 8 ) ( 692 ) Balance at October 31, 2025 1,318,292 $ 13 30,000 $ 30,234 $ ( 2,811 ) $ ( 2,748 ) $ 24,688 $ 66 $ 24,754
+[END TABLE 046]
+
+[TABLE 047]
+Change in basis points Change in Net Periodic Benefit Cost In millions Assumptions: Discount rate ( 25 ) $ 17 Expected increase in compensation levels 25 2 Expected long-term return on plan assets ( 25 ) $ 28
+[END TABLE 047]
+
+[TABLE 048]
+Server Hybrid Cloud Networking Financial Services Corporate Investments and Other Total In millions Fiscal 2025 Net revenue $ 17,639 $ 5,544 $ 6,837 $ 3,507 $ 769 $ 34,296 Intersegment net revenue 106 210 13 ( 3 ) 7 333 Total segment net revenue 17,745 5,754 6,850 3,504 776 34,629 Segment cost of sales 14,038 3,624 2,756 2,856 598 23,872 Segment operating expenses 2,364 1,795 2,498 287 210 7,154 Segment earnings (loss) from operations $ 1,343 $ 335 $ 1,596 $ 361 $ ( 32 ) $ 3,603 Fiscal 2024 (1) Net revenue $ 15,830 $ 5,273 $ 4,501 $ 3,509 $ 1,014 $ 30,127 Intersegment net revenue 274 214 31 3 — 522 Total segment net revenue 16,104 5,487 4,532 3,512 1,014 30,649 Segment cost of sales 12,060 3,302 1,706 2,923 795 20,786 Segment operating expenses 2,240 1,926 1,711 273 244 6,394 Segment earnings (loss) from operations $ 1,804 $ 259 $ 1,115 $ 316 $ ( 25 ) $ 3,469 Fiscal 2023 (1) Net revenue $ 13,831 $ 5,491 $ 5,362 $ 3,466 $ 985 $ 29,135 Intersegment net revenue 435 97 17 14 — 563 Total segment net revenue 14,266 5,588 5,379 3,480 985 29,698 Segment cost of sales 10,071 3,314 2,228 2,919 808 19,340 Segment operating expenses 2,380 2,027 1,808 280 254 6,749 Segment earnings (loss) from operations $ 1,815 $ 247 $ 1,343 $ 281 $ ( 77 ) $ 3,609
+[END TABLE 048]
+
+[TABLE 049]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Net Revenue: Total segments $ 34,629 $ 30,649 $ 29,698 Elimination of intersegment net revenue ( 333 ) ( 522 ) ( 563 ) Total consolidated net revenue $ 34,296 $ 30,127 $ 29,135 (Loss) Earnings Before Taxes: Total segment earnings from operations $ 3,603 $ 3,469 $ 3,609 Unallocated corporate costs and eliminations ( 250 ) ( 301 ) ( 464 ) Stock-based compensation expense ( 643 ) ( 430 ) ( 428 ) Amortization of intangible assets ( 511 ) ( 267 ) ( 288 ) Impairment charges ( 1,621 ) — — Transformation costs ( 2 ) ( 93 ) ( 283 ) Gain on sale of a business 248 — — H3C divestiture related severance costs ( 97 ) — — Cost reduction program ( 275 ) — — Acquisition, disposition and other charges (1) ( 641 ) ( 188 ) ( 57 ) Interest and other, net (2) ( 175 ) ( 117 ) ( 104 ) Gain on sale of equity interest — 733 — Earnings from equity interests 79 147 245 Total (loss) earnings before provision for taxes $ ( 285 ) $ 2,953 $ 2,230
+[END TABLE 049]
+
+[TABLE 050]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Americas U.S. $ 13,402 $ 10,890 $ 10,369 Americas excluding U.S. 2,446 2,345 2,208 Total Americas 15,848 13,235 12,577 Europe, Middle East and Africa 11,510 10,189 10,151 Asia Pacific and Japan 6,938 6,703 6,407 Total consolidated net revenue $ 34,296 $ 30,127 $ 29,135
+[END TABLE 050]
+
+[TABLE 051]
+As of October 31 2025 2024 In millions U.S. $ 2,982 $ 2,616 Other countries 3,020 3,048 Total property, plant and equipment, net $ 6,002 $ 5,664
+[END TABLE 051]
+
+[TABLE 052]
+Cost Optimization and Prioritization Plan HPE Next Plan Employee Severance Infrastructure and other Infrastructure and other In millions Balance at beginning of year $ 67 $ 94 $ 23 Charges — ( 10 ) ( 3 ) Cash payments ( 32 ) ( 21 ) ( 5 ) Non-cash items 2 ( 2 ) ( 1 ) Balance at end of year $ 37 $ 61 $ 14 Total costs incurred to date as of October 31, 2025 $ 823 $ 553 $ 268 Total expected costs to be incurred as of October 31, 2025 $ 823 $ 553 $ 268
+[END TABLE 052]
+
+[TABLE 053]
+For the fiscal years ended October 31, 2025 2024 2023 2025 2024 2023 Defined Benefit Plans Post-Retirement Benefit Plans In millions Service cost $ 52 $ 49 $ 53 $ 1 $ 1 $ 1 Interest cost (1) 370 408 386 9 9 8 Expected return on plan assets (1) ( 610 ) ( 550 ) ( 539 ) ( 4 ) ( 4 ) ( 2 ) Amortization and Deferrals (1) : Actuarial loss (gain) 131 148 160 ( 2 ) ( 4 ) ( 6 ) Prior service benefit ( 4 ) ( 8 ) ( 10 ) — — — Net periodic benefit cost (credit) ( 61 ) 47 50 4 2 1 Settlement loss and special termination benefits (1) 10 4 6 — — — Total net benefit (credit) cost $ ( 51 ) $ 51 $ 56 $ 4 $ 2 $ 1
+[END TABLE 053]
+
+[TABLE 054]
+For the fiscal years ended October 31, 2025 2024 2023 2025 2024 2023 Defined Benefit Plans Post-Retirement Benefit Plans Discount rate used to determine benefit obligation 3.8 % 4.4 % 3.9 % 5.6 % 6.5 % 6.0 % Discount rate used to determine service cost 4.1 % 4.7 % 4.2 % 5.2 % 6.1 % 5.7 % Discount rate used to determine interest cost 3.7 % 4.4 % 3.9 % 5.5 % 6.4 % 5.9 % Expected increase in compensation levels 2.6 % 2.9 % 3.0 % — — — Expected long-term return on plan assets 5.5 % 5.5 % 5.1 % 4.8 % 5.3 % 4.3 % Interest crediting rate (1) 2.5 % 2.4 % 2.4 % 4.8 % 5.3 % 4.3 %
+[END TABLE 054]
+
+[TABLE 055]
+As of October 31, 2025 2024 2025 2024 Defined Benefit Plans Post-Retirement Benefit Plans In millions Change in fair value of plan assets: Fair value—beginning of year $ 11,007 $ 9,879 $ 76 $ 68 Acquisitions and divestitures 26 — — — Reimbursement of benefit payments (1) ( 102 ) ( 90 ) — — Actual return on plan assets 605 1,207 5 5 Employer contributions 196 172 5 4 Participant contributions 27 26 6 6 Benefits paid ( 524 ) ( 509 ) ( 9 ) ( 7 ) Settlement ( 64 ) ( 18 ) — — Currency impact 559 340 — — Fair value—end of year $ 11,730 $ 11,007 $ 83 $ 76 Change in benefit obligation: Projected benefit obligation—beginning of year $ 10,256 $ 9,362 $ 162 $ 148 Addition/deletion of plans/acquisitions/divestitures (2) 66 — — — Service cost 52 49 1 1 Interest cost 370 408 9 9 Participant contributions 27 26 6 6 Actuarial (gain) loss ( 171 ) 613 ( 3 ) 7 Benefits paid ( 524 ) ( 509 ) ( 9 ) ( 7 ) Plan amendments 2 4 — — Settlement ( 64 ) ( 18 ) — — Special termination benefits — 2 — — Currency impact 491 319 1 ( 2 ) Projected benefit obligation—end of year (3) $ 10,505 $ 10,256 $ 167 $ 162 Funded status at end of year $ 1,225 $ 751 $ ( 84 ) $ ( 86 ) Accumulated benefit obligation $ 10,352 $ 10,130 $ — $ —
+[END TABLE 055]
+
+[TABLE 056]
+As of October 31, 2025 2024 2025 2024 Defined Benefit Plans Post-Retirement Benefit Plans Discount rate 4.0 % 3.8 % 5.6 % 5.6 % Expected increase in compensation levels 2.7 % 2.6 % — — Interest crediting rate 2.7 % 2.5 % 4.6 % 4.8 %
+[END TABLE 056]
+
+[TABLE 057]
+As of October 31, 2025 2024 2025 2024 Defined Benefit Plans Post-Retirement Benefit Plans In millions Non-current assets $ 2,074 $ 1,555 $ — $ — Current liabilities ( 58 ) ( 52 ) ( 7 ) ( 6 ) Non-current liabilities ( 791 ) ( 752 ) ( 77 ) ( 80 ) Funded status at end of year $ 1,225 $ 751 $ ( 84 ) $ ( 86 )
+[END TABLE 057]
+
+[TABLE 058]
+As of October 31, 2025 Defined Benefit Plans In millions Net actuarial loss $ 2,162 Prior service benefit 20 Total recognized in accumulated other comprehensive loss $ 2,182
+[END TABLE 058]
+
+[TABLE 059]
+As of October 31, 2025 2024 In millions Aggregate fair value of plan assets $ 2,114 $ 2,274 Aggregate projected benefit obligation $ 2,964 $ 3,076
+[END TABLE 059]
+
+[TABLE 060]
+As of October 31, 2025 2024 In millions Aggregate fair value of plan assets $ 190 $ 506 Aggregate accumulated benefit obligation $ 934 $ 1,212
+[END TABLE 060]
+
+[TABLE 061]
+As of October 31, 2025 As of October 31, 2024 Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total In millions Asset Category: Equity Securities U.S. $ 320 $ 485 $ — $ 805 $ 654 $ 60 $ — $ 714 Non-U.S. 131 229 — 360 125 190 — 315 Debt securities Corporate — 1,759 — 1,759 — 1,526 — 1,526 Government (1) — 4,637 — 4,637 — 4,768 — 4,768 Other (2) — 765 699 1,464 — 465 745 1,210 Alternative investments Private Equity (3) — 6 296 302 — 6 276 282 Hybrids (4) — 379 162 541 — 365 197 562 Hybrids at NAV (5) 71 307 Common Contractual Funds at NAV (6) Equities at NAV 1,217 1,053 Fixed Income at NAV 558 508 Emerging Markets at NAV 283 275 Alternative investments at NAV 1 1 Real Estate Funds (7) 3 299 326 628 3 303 264 570 Insurance Group Annuity Contracts — 126 21 147 — 93 21 114 Cash and Cash Equivalents 182 134 — 316 157 194 — 351 Other (8) 17 157 — 174 9 154 — 163 Obligation to return cash received from repurchase agreements (1) — ( 1,533 ) — ( 1,533 ) — ( 1,712 ) — ( 1,712 ) Total $ 653 $ 7,443 $ 1,504 $ 11,730 $ 948 $ 6,412 $ 1,503 $ 11,007
+[END TABLE 061]
+
+[TABLE 062]
+For the fiscal year ended October 31, 2025 Alternative Investments Debt-Other Private Equity Hybrids Real Estate Funds Insurance Group Annuities Total In millions Balance at beginning of year $ 745 $ 276 $ 197 $ 264 $ 21 $ 1,503 Actual return on plan assets: Relating to assets held at the reporting date 14 18 26 18 — 76 Relating to assets sold during the period ( 12 ) 3 — — — ( 9 ) Purchases, sales, and settlements ( 48 ) ( 1 ) ( 61 ) 44 — ( 66 ) Balance at end of year $ 699 $ 296 $ 162 $ 326 $ 21 $ 1,504
+[END TABLE 062]
+
+[TABLE 063]
+For the fiscal year ended October 31, 2024 Alternative Investments Debt-Other Private Equity Hybrids Real Estate Funds Insurance Group Annuities Total In millions Balance at beginning of year $ 799 $ 41 $ 177 $ 237 $ 20 $ 1,274 Actual return on plan assets: Relating to assets held at the reporting date 27 ( 3 ) 6 ( 14 ) 1 17 Relating to assets sold during the period — 4 — ( 1 ) — 3 Purchases, sales, and settlements ( 81 ) 234 14 42 — 209 Balance at end of year $ 745 $ 276 $ 197 $ 264 $ 21 $ 1,503
+[END TABLE 063]
+
+[TABLE 064]
+Defined Benefit Plans Plan Assets 2025 Target Allocation 2025 2024 Public equity securities 22.8 % 21.4 % Private/hybrid equity securities 7.8 % 10.5 % Real estate and other (1) 6.8 % 6.7 % Equity-related investments (1) 42.3 % 37.4 % 38.6 % Debt securities 56.2 % 59.9 % 58.2 % Cash and cash equivalents 1.5 % 2.7 % 3.2 % Total 100.0 % 100.0 % 100.0 %
+[END TABLE 064]
+
+[TABLE 065]
+Fiscal year Defined Benefit Plans Post-Retirement Benefit Plans In millions 2026 $ 653 $ 11 2027 603 12 2028 625 12 2029 642 13 2030 645 14 Next five fiscal years to October 31, 2035 $ 3,320 $ 75
+[END TABLE 065]
+
+[TABLE 066]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Stock-based compensation expense $ 643 $ 430 $ 428 Income tax benefit ( 151 ) ( 96 ) ( 92 ) Stock-based compensation expense, net of tax $ 492 $ 334 $ 336
+[END TABLE 066]
+
+[TABLE 067]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Cost of sales $ 49 $ 49 $ 47 Research and development 208 158 161 Selling, general and administrative 348 223 220 Acquisition, disposition and other charges 38 — — Stock-based compensation expense $ 643 $ 430 $ 428
+[END TABLE 067]
+
+[TABLE 068]
+Shares Weighted-Average Grant Date Fair Value Per Share In thousands Outstanding at beginning of year 55,613 $ 16 Granted and replacement awards for acquisitions 66,385 21 Vested ( 41,471 ) 18 Forfeited/canceled ( 5,117 ) 19 Outstanding at end of year 75,410 $ 19
+[END TABLE 068]
+
+[TABLE 069]
+For the fiscal years ended October 31, 2025 2024 2023 In millions U.S. $ ( 3,561 ) $ 765 $ ( 1,105 ) Non-U.S. 3,276 2,188 3,335 $ ( 285 ) $ 2,953 $ 2,230
+[END TABLE 069]
+
+[TABLE 070]
+For the fiscal years ended October 31, 2025 2024 2023 In millions U.S. federal taxes: Current $ 154 $ ( 8 ) $ — Deferred 345 120 88 Non-U.S. taxes: Current ( 349 ) ( 415 ) ( 256 ) Deferred 66 ( 44 ) ( 23 ) State taxes: Current ( 28 ) ( 15 ) ( 16 ) Deferred 154 ( 12 ) 2 $ 342 $ ( 374 ) $ ( 205 )
+[END TABLE 070]
+
+[TABLE 071]
+For the fiscal years ended October 31, 2025 (1) 2024 2023 U.S. federal statutory income tax rate 21.0 % 21.0 % 21.0 % State income taxes, net of federal tax benefit 24.4 % 0.4 % 0.9 % Lower rates in other jurisdictions, net 66.5 % ( 1.3 ) % ( 4.4 ) % Valuation allowance ( 14.7 ) % ( 1.3 ) % ( 2.8 ) % U.S. permanent differences ( 23.5 ) % ( 4.0 ) % ( 1.5 ) % U.S. R&D credit 22.7 % ( 1.8 ) % ( 2.1 ) % Uncertain tax positions 23.6 % ( 0.3 ) % ( 2.0 ) % Goodwill impairment ( 115.7 ) % — % — % Tax impact of integration transactions 114.6 % — % — % Other, net 1.1 % — % 0.1 % 120.0 % 12.7 % 9.2 %
+[END TABLE 071]
+
+[TABLE 072]
+As of October 31, 2025 2024 2023 In millions Balance at beginning of year $ 724 $ 672 $ 674 Increases: For current year's tax positions 38 60 67 For prior years' tax positions 26 116 20 For tax positions from the Merger 111 — — Decreases: For prior years' tax positions ( 20 ) ( 113 ) ( 2 ) Statute of limitations expiration ( 50 ) ( 4 ) ( 4 ) Settlements with taxing authorities ( 355 ) ( 7 ) ( 83 ) Balance at end of year $ 474 $ 724 $ 672
+[END TABLE 072]
+
+[TABLE 073]
+As of October 31, 2025 2024 In millions Deferred tax assets: Loss and credit carryforwards $ 7,225 $ 5,692 Inventory valuation 185 78 Intercompany prepayments — 192 Warranty 39 45 Employee and retiree benefits 73 162 Restructuring 13 27 Deferred revenue 1,115 799 Intangible assets — 251 Capitalized R&D 390 81 Lease liabilities 273 253 Other 245 262 Total deferred tax assets 9,558 7,842 Valuation allowance ( 6,202 ) ( 5,204 ) Total deferred tax assets net of valuation allowance 3,356 2,638 Deferred tax liabilities: Unremitted earnings of foreign subsidiaries ( 253 ) ( 229 ) ROU assets ( 259 ) ( 236 ) Intangibles ( 235 ) — Fixed assets ( 130 ) ( 150 ) Total deferred tax liabilities ( 877 ) ( 615 ) Net deferred tax assets and liabilities $ 2,479 $ 2,023
+[END TABLE 073]
+
+[TABLE 074]
+As of October 31, 2025 2024 In millions Deferred tax assets $ 2,952 $ 2,396 Deferred tax liabilities ( 473 ) ( 373 ) Deferred tax assets net of deferred tax liabilities $ 2,479 $ 2,023
+[END TABLE 074]
+
+[TABLE 075]
+Carryforward Valuation Allowance Initial Year of Expiration In millions U.S. foreign tax credits $ 805 $ ( 701 ) 2027 U.S. research and development and other credits 273 — 2029 Tax credits in state and foreign jurisdictions 544 ( 487 ) 2028 Balance at end of year $ 1,622 $ ( 1,188 )
+[END TABLE 075]
+
+[TABLE 076]
+As of October 31, 2025 2024 In millions Cash and cash equivalents $ 5,773 $ 14,846 Restricted cash 86 259 Total $ 5,859 $ 15,105
+[END TABLE 076]
+
+[TABLE 077]
+As of October 31, 2025 2024 In millions Accounts receivable $ 4,916 $ 3,236 Unbilled receivable 396 324 Allowances ( 22 ) ( 10 ) Total $ 5,290 $ 3,550
+[END TABLE 077]
+
+[TABLE 078]
+As of October 31, 2025 2024 2023 In millions Balance at beginning of year $ 10 $ 37 $ 25 Provision for credit losses 33 41 29 Adjustments to existing allowances, including write offs ( 21 ) ( 68 ) ( 17 ) Balance at end of year $ 22 $ 10 $ 37
+[END TABLE 078]
+
+[TABLE 079]
+As of October 31, 2025 2024 2023 In millions Balance at beginning of period (1) $ — $ 83 $ 163 Trade receivables sold 3,724 3,098 4,097 Cash receipts ( 3,489 ) ( 3,190 ) ( 4,185 ) Foreign currency and other 10 9 8 Balance at end of period (1) $ 245 $ — $ 83
+[END TABLE 079]
+
+[TABLE 080]
+As of October 31, 2025 2024 In millions Purchased parts and fabricated assemblies $ 4,139 $ 5,441 Finished goods 2,213 2,369 Total 1 $ 6,352 $ 7,810
+[END TABLE 080]
+
+[TABLE 081]
+As of October 31, 2025 2024 In millions Land $ 309 $ 66 Internal use software 2,259 1,941 Buildings and leasehold improvements 2,075 1,696 Machinery and equipment, including equipment held for lease 7,987 8,451 Gross property, plant and equipment 12,630 12,154 Accumulated depreciation ( 6,628 ) ( 6,490 ) Property, plant and equipment, net $ 6,002 $ 5,664
+[END TABLE 081]
+
+[TABLE 082]
+As of October 31, 2025 2024 In millions Financing receivables, net $ 5,716 $ 5,583 Deferred tax assets 2,952 2,396 Prepaid pension 2,074 1,555 ROU assets 1,535 1,408 Other 1,540 1,674 Total $ 13,817 $ 12,616
+[END TABLE 082]
+
+[TABLE 083]
+As of October 31, 2025 In millions Balance at beginning of period $ 466 Invoices confirmed during the year 1,895 Confirmed invoices paid during the year ( 1,873 ) Balance at end of period $ 488
+[END TABLE 083]
+
+[TABLE 084]
+As of October 31, 2025 In millions Balance at beginning of period $ 49 Severance charges 418 Cash paid and other ( 229 ) Balance at end of period $ 238
+[END TABLE 084]
+
+[TABLE 085]
+As of October 31, 2025 2024 In millions Sales and marketing programs $ 1,039 $ 1,032 Value-added and property taxes 1,065 922 Customer deposits 616 289 Operating lease liabilities 316 261 Severance and accrued restructuring 234 61 Warranty 138 150 Contract manufacturer liabilities 23 505 Collateral payable 16 90 Other 1,308 1,281 Total $ 4,755 $ 4,591
+[END TABLE 085]
+
+[TABLE 086]
+As of October 31, 2025 2024 In millions Deferred revenue $ 4,980 $ 3,578 Operating lease liabilities 1,396 1,309 Pension, post-retirement, and post-employment 930 859 Deferred tax liabilities 473 373 Taxes on earnings 183 163 Other 791 623 Total $ 8,753 $ 6,905
+[END TABLE 086]
+
+[TABLE 087]
+As of October 31, 2025 2024 2023 In millions Balance at beginning of year $ 301 $ 318 $ 360 Charges 206 173 184 Adjustments related to pre-existing warranties ( 55 ) ( 5 ) ( 18 ) Settlements made ( 168 ) ( 185 ) ( 208 ) Balance at end of year (1) $ 284 $ 301 $ 318
+[END TABLE 087]
+
+[TABLE 088]
+As of October 31, 2025 2024 Location In millions Customer deposits Other accrued liabilities $ 616 $ 289 Customer deposits - non-current Other non-current liabilities 72 7 Total customer deposits $ 688 $ 296 Deferred revenue Deferred revenue $ 5,358 $ 3,904 Deferred revenue - non-current Other non-current liabilities 4,980 3,578 Total deferred revenue $ 10,338 $ 7,482
+[END TABLE 088]
+
+[TABLE 089]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Operating lease cost $ 350 $ 259 $ 200 Finance lease cost 3 3 4 Sublease rental income ( 40 ) ( 26 ) ( 23 ) Total lease cost $ 313 $ 236 $ 181
+[END TABLE 089]
+
+[TABLE 090]
+As of October 31, Balance Sheet Classification 2025 2024 In millions Operating Leases ROU Assets Long-term financing receivables and other assets $ 1,535 $ 1,408 Lease Liabilities: Operating lease liabilities – current Other accrued liabilities 316 261 Operating lease liabilities – non-current Other non-current liabilities 1,396 1,309 Total operating lease liabilities $ 1,712 $ 1,570 Finance Leases Finance lease ROU Assets: Property, plant and equipment, net Gross finance lease ROU assets $ 26 $ 26 Less: Accumulated depreciation ( 18 ) ( 16 ) Net finance lease ROU assets $ 8 $ 10 Lease Liabilities: Finance lease liabilities – current Notes payable and short-term borrowings $ 6 $ 6 Finance lease liabilities – non-current Long-term debt 25 32 Total finance lease liabilities $ 31 $ 38 Total ROU assets $ 1,543 $ 1,418 Total lease liabilities $ 1,743 $ 1,608
+[END TABLE 090]
+
+[TABLE 091]
+As of October 31, 2025 2024 Operating Leases Finance Leases Operating Leases Finance Leases Weighted-average remaining lease term (in years) 6.6 4.5 6.7 5.5 Weighted-average discount rate 4.5 % 3.5 % 4.4 % 3.5 %
+[END TABLE 091]
+
+[TABLE 092]
+For the fiscal years ended October 31, Cash Flow Statement Activity 2025 2024 2023 In millions Cash outflows from operating leases Net cash used in operating activities $ 352 $ 274 $ 219 ROU assets obtained in exchange for new operating lease liabilities Non-cash activities $ 109 $ 627 $ 251
+[END TABLE 092]
+
+[TABLE 093]
+As of October 31, 2025 Operating Leases Finance Leases Fiscal year In millions 2026 $ 383 $ 7 2027 355 7 2028 312 8 2029 252 8 2030 196 4 Thereafter 492 — Total future lease payments $ 1,990 $ 34 Less: imputed interest ( 278 ) ( 3 ) Total lease liabilities $ 1,712 $ 31
+[END TABLE 093]
+
+[TABLE 094]
+As of October 31, 2025 2024 In millions Minimum lease payments receivable $ 10,310 $ 10,266 Unguaranteed residual value 694 599 Unearned income ( 1,264 ) ( 1,218 ) Financing receivables, gross 9,740 9,647 Allowance for credit losses ( 198 ) ( 194 ) Financing receivables, net 9,542 9,453 Less: current portion ( 3,826 ) ( 3,870 ) Amounts due after one year, net $ 5,716 $ 5,583
+[END TABLE 094]
+
+[TABLE 095]
+As of October 31, 2025 Fiscal year In millions 2026 $ 4,424 2027 2,827 2028 1,779 2029 879 2030 307 Thereafter 94 Total undiscounted cash flows $ 10,310 Present value of lease payments (recognized as finance receivables) $ 9,046 Difference between undiscounted cash flows and discounted cash flows $ 1,264
+[END TABLE 095]
+
+[TABLE 096]
+As of October 31, 2025 Risk Rating Low Moderate High Fiscal Year In millions 2025 $ 2,245 $ 1,016 $ 17 2024 2,160 942 36 2023 1,189 645 47 2022 579 347 26 2021 and prior 213 206 72 Total $ 6,386 $ 3,156 $ 198
+[END TABLE 096]
+
+[TABLE 097]
+As of October 31, 2024 Risk Rating Low Moderate High Fiscal Year In millions 2024 $ 2,630 $ 1,120 $ 19 2023 1,804 948 54 2022 1,128 665 46 2021 440 317 52 2020 and prior 158 193 73 Total $ 6,160 $ 3,243 $ 244
+[END TABLE 097]
+
+[TABLE 098]
+As of October 31, 2025 2024 2023 In millions Balance at beginning of period $ 194 $ 243 $ 325 Provision for credit losses 77 50 58 Adjustment to the existing allowance ( 1 ) ( 4 ) — Write-offs ( 72 ) ( 95 ) ( 140 ) Balance at end of period $ 198 $ 194 $ 243
+[END TABLE 098]
+
+[TABLE 099]
+As of October 31, 2025 2024 In millions Billed: (1) Current 1-30 days $ 349 $ 334 Past due 31-60 days 26 29 Past due 61-90 days 13 12 Past due > 90 days 70 79 Unbilled sales-type and direct-financing lease receivables 9,282 9,193 Total gross financing receivables $ 9,740 $ 9,647 Gross financing receivables on non-accrual status (2) $ 168 $ 214 Gross financing receivables 90 days past due and still accruing interest (2) $ 114 $ 82
+[END TABLE 099]
+
+[TABLE 100]
+As of October 31, 2025 2024 In millions Equipment leased to customers $ 6,123 $ 6,669 Accumulated depreciation ( 2,964 ) ( 3,037 ) Total $ 3,159 $ 3,632
+[END TABLE 100]
+
+[TABLE 101]
+As of October 31, 2025 Fiscal year In millions 2026 $ 1,410 2027 814 2028 325 2029 56 2030 4 Thereafter — Total $ 2,609
+[END TABLE 101]
+
+[TABLE 102]
+For the fiscal years ended October 31, Location 2025 2024 2023 In millions Interest income from sales-type leases and direct financing leases Financing income $ 767 $ 668 $ 547 Lease income from operating leases Services 2,156 2,344 2,407 Total lease income $ 2,923 $ 3,012 $ 2,954
+[END TABLE 102]
+
+[TABLE 103]
+As of October 31, 2025 2024 Assets held by VIE: In millions Other current assets $ 73 $ 189 Financing receivables Short-term 885 872 Long-term 1,283 1,079 Property, plant and equipment, net 775 1,033 Liabilities held by VIE: Notes payable and short-term borrowings, net of unamortized debt issuance costs 1,159 1,433 Long-term debt, net of unamortized debt issuance costs 1,287 965
+[END TABLE 103]
+
+[TABLE 104]
+In millions Cash paid for outstanding Juniper Networks common stock $ 13,386 Consideration for replacement of Juniper Networks equity awards 239 Total purchase consideration $ 13,625
+[END TABLE 104]
+
+[TABLE 105]
+In millions Cash and cash equivalents $ 1,098 Inventory 989 Other current assets 1,803 Goodwill 7,272 Intangible assets 6,219 Other non-current assets 1,690 Total assets acquired 19,071 Other accrued liabilities (1) 2,627 Long-term debt 1,232 Other non-current liabilities 1,587 Total liabilities assumed 5,446 Total purchase consideration $ 13,625
+[END TABLE 105]
+
+[TABLE 106]
+Weighted-Average Useful Life (in Years) In millions Customer contracts, customer lists and distribution agreements 10 $ 2,420 Developed and core technology and patents 4 2,507 Trade name and trademarks 10 464 Total identified finite-lived intangible assets (1) 5,391 IPR&D N/A 828 Total intangible assets $ 6,219
+[END TABLE 106]
+
+[TABLE 107]
+IPR&D % of Completion Estimated Costs to Complete Expected Release Date (Fiscal Year) Dollars in millions Campus & Branch $ 28 50 % $ 13 2026 Data Center 107 29 % 35 2026 SASE & Security 4 75 % 1 2026 WAN $ 689 72 % $ 51 2027
+[END TABLE 107]
+
+[TABLE 108]
+Maturity Date Par Value Fair Value In millions 1.200% fixed-rate notes December 2025 $ 400 $ 394 3.750% fixed-rate notes August 2029 500 486 2.000% fixed-rate notes December 2030 400 348 5.950% fixed-rate notes March 2041 $ 400 $ 398
+[END TABLE 108]
+
+[TABLE 109]
+In millions Total revenue $ 2,096 Earnings from operations (1) $ 419
+[END TABLE 109]
+
+[TABLE 110]
+For the fiscal years ended October 31, 2025 2024 In millions Total revenue $ 38,085 $ 35,201 Net earnings $ 108 $ 1,196
+[END TABLE 110]
+
+[TABLE 111]
+In millions Goodwill $ 98 Amortizable intangible assets 68 Net liabilities assumed ( 19 ) Total fair value consideration $ 147
+[END TABLE 111]
+
+[TABLE 112]
+In millions Goodwill $ 585 Amortizable intangible assets 209 Net tangible assets assumed 46 Total fair value consideration $ 840
+[END TABLE 112]
+
+[TABLE 113]
+Server Hybrid Cloud Networking Financial Services Corporate Investments & Other Total Balance at October 31, 2024 $ 10,194 $ 4,839 $ 2,909 $ 144 $ — $ 18,086 Goodwill from acquisitions — — 7,272 — — 7,272 Impairment of goodwill — ( 1,578 ) — — — ( 1,578 ) Changes due to foreign currency — — ( 10 ) — — ( 10 ) Balance at October 31, 2025 (1) $ 10,194 $ 3,261 $ 10,171 $ 144 $ — $ 23,770
+[END TABLE 113]
+
+[TABLE 114]
+As of October 31, 2025 As of October 31, 2024 Gross Accumulated Amortization Net Gross Accumulated Amortization Net In millions Customer contracts, customer lists and distribution agreements $ 2,634 $ ( 215 ) $ 2,419 $ 219 $ ( 70 ) $ 149 Developed and core technology and patents 3,253 ( 780 ) 2,473 747 ( 443 ) 304 Trade name and trademarks 464 ( 21 ) 443 6 ( 5 ) 1 Capitalized software development costs 232 ( 27 ) 205 56 — 56 IPR&D 828 — 828 — — — Total intangible assets $ 7,411 $ ( 1,043 ) $ 6,368 $ 1,028 $ ( 518 ) $ 510
+[END TABLE 114]
+
+[TABLE 115]
+Weighted-Average Remaining Useful Lives In years Customer contracts, customer lists and distribution agreements 9 Developed and core technology and patents 3 Trade name and trademarks 10 Capitalized software development costs 3
+[END TABLE 115]
+
+[TABLE 116]
+Fiscal year In millions 2026 $ 1,220 2027 1,093 2028 963 2029 632 2030 279 Thereafter 1,282 Total (1) $ 5,469
+[END TABLE 116]
+
+[TABLE 117]
+As of October 31, 2025 As of October 31, 2024 Fair Value Measured Using Fair Value Measured Using Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total In millions Assets Cash Equivalents: Time deposits $ — $ 997 $ — $ 997 $ — $ 601 $ — $ 601 Money market funds 2,741 — — 2,741 12,639 — — 12,639 Total cash equivalents 2,741 997 — 3,738 12,639 601 — 13,240 Available-for-sale Debt Investments: Foreign bonds — 111 — 111 — 102 1 103 Other debt securities (1) — — 46 46 — — 14 14 Total available-for-sale debt investments — 111 46 157 — 102 15 117 Equity Investments: Mutual funds — 59 — 59 — — — — Equity securities in public companies 6 — — 6 — — — — Equity securities — — — — — — 88 88 Total equity investments 6 59 — 65 — — 88 88 Derivatives Instruments: Foreign currency contracts — 193 — 193 — 299 — 299 Other derivatives — 2 — 2 — — — — Total assets 2,747 1,362 46 4,155 12,639 1,002 103 13,744 Liabilities Derivatives Instruments: Interest rate contracts — 51 — 51 — 58 — 58 Foreign currency contracts — 238 — 238 — 103 — 103 Other derivatives — — — — — 2 — 2 Total liabilities $ — $ 289 $ — $ 289 $ — $ 163 $ — $ 163
+[END TABLE 117]
+
+[TABLE 118]
+As of October 31, 2025 As of October 31, 2024 Cost Gross Unrealized Gains/(Losses) Fair Value Cost Gross Unrealized Gains/(Losses) Fair Value In millions Cash Equivalents Time deposits $ 997 $ — $ 997 $ 601 $ — $ 601 Money market funds 2,741 — 2,741 12,639 — 12,639 Total cash equivalents 3,738 — 3,738 13,240 — 13,240 Available-for-sale Investments Debt Securities: Foreign bonds 107 4 111 101 2 103 Other debt securities 44 2 46 8 6 14 Total debt securities 151 6 157 109 8 117 Equity Securities: Equity securities in public companies 6 — 6 — — — Mutual funds 59 — 59 — — — Total equity securities 65 — 65 — — — Total available-for-sale investments 216 6 222 109 8 117 Total cash equivalents and available-for-sale investments $ 3,954 $ 6 $ 3,960 $ 13,349 $ 8 $ 13,357
+[END TABLE 118]
+
+[TABLE 119]
+As of October 31, 2025 Amortized Cost Fair Value In millions Due in one to five years $ 37 $ 37 Due in more than five years 114 120 $ 151 $ 157
+[END TABLE 119]
+
+[TABLE 120]
+As of October 31, 2025 As of October 31, 2024 Fair Value Fair Value Outstanding Gross Notional Other Current Assets Long-Term Financing Receivables and Other Assets Other Accrued Liabilities Long-Term Other Liabilities Outstanding Gross Notional Other Current Assets Long-Term Financing Receivables and Other Assets Other Accrued Liabilities Long-Term Other Liabilities In millions Derivatives Designated as Hedging Instruments Fair Value Hedges: Interest rate contracts $ 600 $ — $ — $ — $ 51 $ 2,500 $ — $ — $ 58 $ — Cash Flow Hedges: Foreign currency contracts 7,062 81 29 95 67 7,809 107 59 31 25 Net Investment Hedges: Foreign currency contracts 2,126 20 24 30 20 1,986 38 44 12 13 Total derivatives designated as hedging instruments 9,788 101 53 125 138 12,295 145 103 101 38 Derivatives Not Designated as Hedging Instruments Foreign currency contracts 7,167 37 2 22 4 5,528 46 5 18 4 Other derivatives 153 2 — — — 147 — — 2 — Total derivatives not designated as hedging instruments 7,320 39 2 22 4 5,675 46 5 20 4 Total derivatives $ 17,108 $ 140 $ 55 $ 147 $ 142 $ 17,970 $ 191 $ 108 $ 121 $ 42
+[END TABLE 120]
+
+[TABLE 121]
+As of October 31, 2025 In the Consolidated Balance Sheets (i) (ii) (iii) = (i)–(ii) (iv) (v) (vi) = (iii)–(iv)–(v) Gross Amounts Not Offset Gross Amount Recognized Gross Amount Offset Net Amount Presented Derivatives Financial Collateral Net Amount In millions Derivative assets $ 195 $ — $ 195 $ 121 $ 16 (1) $ 58 Derivative liabilities $ 289 $ — $ 289 $ 121 $ 136 (2) $ 32
+[END TABLE 121]
+
+[TABLE 122]
+As of October 31, 2024 In the Consolidated Balance Sheets (i) (ii) (iii) = (i)–(ii) (iv) (v) (vi) = (iii)–(iv)–(v) Gross Amounts Not Offset Gross Amount Recognized Gross Amount Offset Net Amount Presented Derivatives Financial Collateral Net Amount In millions Derivative assets $ 299 $ — $ 299 $ 138 $ 90 (1) $ 71 Derivative liabilities $ 163 $ — $ 163 $ 138 $ 27 (2) N/A
+[END TABLE 122]
+
+[TABLE 123]
+Carrying Amount of the Hedged Liabilities Cumulative Amount of Fair Value Hedging Adjustment Included in the Carrying Amount of the Hedged Liabilities As of October 31, As of October 31, 2025 2024 2025 2024 In millions In millions Notes payable and short-term borrowings $ — $ ( 2,440 ) $ — $ 58 Long-term debt $ ( 754 ) $ — $ ( 4 ) $ —
+[END TABLE 123]
+
+[TABLE 124]
+Gains (Losses) Recognized in OCI on Derivatives For the fiscal years ended October 31, 2025 2024 2023 In millions Derivatives in Cash Flow Hedging Relationship Foreign exchange contracts $ ( 168 ) $ ( 73 ) $ ( 177 ) Interest rate locks — ( 42 ) — Derivatives in Net Investment Hedging Relationship Foreign exchange contracts ( 42 ) 25 ( 76 ) Total $ ( 210 ) $ ( 90 ) $ ( 253 )
+[END TABLE 124]
+
+[TABLE 125]
+Gains (Losses) Recognized in Income For the fiscal years ended October 31, 2025 2024 2023 Net Revenue Interest and Other, net Net Revenue Interest and Other, net Net Revenue Interest and Other, net In millions Total net revenue and interest and other, net $ 34,296 $ ( 175 ) $ 30,127 $ ( 117 ) $ 29,135 $ ( 104 ) Gains (Losses) on Derivatives in Fair Value Hedging Relationships: Interest Rate Contracts Hedged items — ( 62 ) — ( 93 ) — ( 27 ) Derivatives designated as hedging instruments — 62 — 93 — 27 Gains (Losses) on Derivatives in Cash Flow Hedging Relationships: Foreign Exchange Contracts Amount of (losses) gains reclassified from accumulated other comprehensive income into income ( 33 ) ( 120 ) 59 ( 75 ) 28 ( 144 ) Interest Rate Locks Amount of losses reclassified from accumulated other comprehensive income into income — ( 3 ) — — — — Gains (Losses) on Derivatives not Designated as Hedging Instruments: Foreign exchange contracts — ( 61 ) — 38 — ( 97 ) Other derivatives — 3 — — — ( 8 ) Total (losses) gains $ ( 33 ) $ ( 181 ) $ 59 $ ( 37 ) $ 28 $ ( 249 )
+[END TABLE 125]
+
+[TABLE 126]
+As of October 31, 2025 2024 Amount Outstanding Weighted-Average Interest Rate Amount Outstanding Weighted-Average Interest Rate Dollars in millions Current portion of long-term debt (1) $ 3,796 4.4 % $ 3,969 7.6 % Commercial paper 681 2.3 % 649 3.7 % Notes payable to banks, lines of credit and other 132 3.1 % 124 5.0 % Total notes payable and short-term borrowings $ 4,609 $ 4,742
+[END TABLE 126]
+
+[TABLE 127]
+As of October 31, Issuance Date Maturity Date 2025 2024 In millions Unsecured Senior Notes 4.40 % notes issued at discount to par at a price of 99.905 % September 2025 October 2030 $ 850 $ — 4.15 % notes issued at discount to par at a price of 99.964 % September 2025 September 2028 850 — 4.05 % notes issued at discount to par at a price of 99.949 % September 2025 September 2027 900 — Floating rate notes issued at par September 2025 September 2028 300 — 4.45 % notes issued at discount to par at a price of 99.996 % September 2024 September 2026 1,250 1,250 4.40 % notes issued at discount to par at a price of 99.953 % September 2024 September 2027 1,250 1,250 4.55 % notes issued at discount to par at a price of 99.894 % September 2024 October 2029 1,750 1,750 4.85 % notes issued at discount to par at a price of 99.908 % September 2024 October 2031 1,250 1,250 5.00 % notes issued at discount to par at a price of 99.078 % September 2024 October 2034 2,000 2,000 5.60 % notes issued at discount to par at a price of 98.086 % September 2024 October 2054 1,500 1,500 5.25 % notes issued at discount to par at a price of 99.887 % June 2023 July 2028 550 550 1.75 % notes issued at discount to par at a price of 99.820 % July 2020 April 2026 750 750 4.90 % notes issued at discount to par at a price of 99.725 % October 2015 October 2025 — 2,500 6.20 % notes issued at discount to par at a price of 99.942 % October 2015 October 2035 750 750 6.35 % notes issued at discount to par at a price of 99.932 % October 2015 October 2045 1,500 1,500 1.20 % Juniper Global Notes assumed December 2025 400 — 3.75 % Juniper Global Notes assumed August 2029 500 — 2.00 % Juniper Global Notes assumed September 2030 400 — 5.95 % Juniper Global Notes assumed March 2041 400 — Asset-Backed Debt Securities $ 660 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 4.31 % October 2025 Stated final maturity date of May 2033 660 — $ 900 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 4.67 % July 2025 Stated final maturity date of March 2033 812 — $ 818 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 5.59 % June 2024 Stated final maturity date of April 2032 441 700 $ 796 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 5.48 % January 2024 Stated final maturity date of November 2031 326 583 $ 612 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 6.40 % September 2023 Stated final maturity date of July 2031 172 373 $ 643 issued in five tranches at a weighted average price of 99.99 % and a weighted average interest rate of 5.59 % March-April 2023 Stated final maturity date of April 2028 40 257 $ 651 issued in five tranches at a weighted average price of 99.99 % and a weighted average interest rate of 5.55 % October 2022 Stated final maturity date of August 2029 1 191 $ 747 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 3.68 % May 2022 Stated final maturity date of March 2030 — 148 $ 1,000 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 1.51 % January 2022 Stated final maturity date of November 2029 — 124 $ 753 issued in six tranches at a weighted average price of 99.99 % and a weighted average interest rate of 0.58 % June 2021 Stated final maturity date of March 2029 — 26 Others Term Loan at Term Benchmark Rate July 2025 June 2028 2,000 — Other, including finance lease obligations, at 1.6 %- 6.3 %, due in calendar years 2025-2030 (1) 146 208 Total 21,748 17,660 Unamortized premium/discount, issuance costs and other ( 196 ) ( 187 ) Less: current portion ( 3,796 ) ( 3,969 ) Total long-term debt $ 17,756 $ 13,504
+[END TABLE 127]
+
+[TABLE 128]
+For the fiscal years ended October 31, Location 2025 2024 2023 In millions Financing interest Financing cost $ 500 $ 495 $ 383 Interest expense Interest and other, net 598 282 326 Total interest expense $ 1,098 $ 777 $ 709
+[END TABLE 128]
+
+[TABLE 129]
+Fiscal Year In millions 2026 $ 3,804 2027 3,136 2028 3,778 2029 2,376 2030 404 Thereafter 8,250 Total $ 21,748
+[END TABLE 129]
+
+[TABLE 130]
+Net unrealized gains (losses) on available-for-sale securities Net unrealized (losses) gains on cash flow hedges Unrealized components of defined benefit plans Cumulative translation adjustment Accumulated other comprehensive loss In millions Balance at beginning of period $ 8 $ ( 16 ) $ ( 2,342 ) $ ( 627 ) $ ( 2,977 ) Other comprehensive (loss) income before reclassifications ( 3 ) ( 168 ) 177 ( 44 ) ( 38 ) Reclassifications of losses into earnings 1 156 134 — 291 Tax benefit (provision) — 2 ( 27 ) 1 ( 24 ) Balance at end of period $ 6 $ ( 26 ) $ ( 2,058 ) $ ( 670 ) $ ( 2,748 )
+[END TABLE 130]
+
+[TABLE 131]
+Net unrealized gains on available-for-sale securities Net unrealized gains (losses) on cash flow hedges Unrealized components of defined benefit plans Cumulative translation adjustment Accumulated other comprehensive loss In millions Balance at beginning of period $ — $ 61 $ ( 2,507 ) $ ( 638 ) $ ( 3,084 ) Other comprehensive income (loss) before reclassifications 8 ( 115 ) 34 ( 23 ) ( 96 ) Reclassifications of losses into earnings — 16 138 32 186 Tax benefit (provision) — 22 ( 7 ) 2 17 Balance at end of period $ 8 $ ( 16 ) $ ( 2,342 ) $ ( 627 ) $ ( 2,977 )
+[END TABLE 131]
+
+[TABLE 132]
+Net unrealized gains (losses) on available-for-sale securities Net unrealized gains (losses) on cash flow hedges Unrealized components of defined benefit plans Cumulative translation adjustment Accumulated other comprehensive loss In millions Balance at beginning of period $ ( 1 ) $ 109 $ ( 2,596 ) $ ( 610 ) $ ( 3,098 ) Other comprehensive (loss) income before reclassifications 1 ( 177 ) ( 99 ) ( 32 ) ( 307 ) Reclassifications of (gains) losses into earnings — 116 147 — 263 Tax (provision) benefit — 13 41 4 58 Balance at end of period $ — $ 61 $ ( 2,507 ) $ ( 638 ) $ ( 3,084 )
+[END TABLE 132]
+
+[TABLE 133]
+For the fiscal years ended October 31, 2025 2024 2023 In millions, except per share amounts Numerator: Net (loss) earnings attributable to common stockholders - Basic $ ( 59 ) $ 2,554 $ 2,025 Plus: 7.625 % Series C mandatory convertible preferred stock dividends — 25 — Net (loss) earnings - Diluted $ ( 59 ) $ 2,579 $ 2,025 Denominator: Weighted-average shares used to compute basic net EPS 1,324 1,309 1,299 Dilutive effect of employee stock plans (1) — 18 17 Dilutive effect of 7.625 % Series C mandatory convertible preferred stock (1) — 10 — Weighted-average shares used to compute diluted net EPS 1,324 1,337 1,316 Net EPS: Basic $ ( 0.04 ) $ 1.95 $ 1.56 Diluted $ ( 0.04 ) $ 1.93 $ 1.54 Anti-dilutive Share Count (1)(2) : Employee stock plans 62 — — 7.625 % Series C mandatory convertible preferred stock 76 — — Total anti-dilutive weighted-average stock 138 — —
+[END TABLE 133]
+
+[TABLE 134]
+As of October 31, 2025 2024 In millions Litigation Matters and Other Contingencies Receivable $ 29 $ 37 Payable 33 47 Income Tax-Related Indemnification (1) Net indemnification receivable - long-term $ 33 $ 35
+[END TABLE 134]
+
+[TABLE 135]
+For the fiscal years ended October 31, 2025 2024 2023 In millions Earnings from equity interests, net of taxes $ 79 $ 154 $ 242 Basis difference amortization — ( 3 ) ( 9 ) Adjustment of profit on intra-entity sales — ( 4 ) 12 Earnings from equity interests $ 79 $ 147 $ 245
+[END TABLE 135]
+
+[TABLE 136]
+Name & Title Date of Adoption / Termination Character of Trading Arrangement (1) Aggregate Number of Shares of Common Stock to be Purchased/Sold Pursuant to Trading Arrangement Duration of Plan (2) Antonio Neri Adopted September 29, 2025 Rule 10b5-1 Trading Arrangement Up to 440,889 shares to be sold December 29, 2025- June 29, 2026 President and Chief Executive Officer Marie Myers Adopted September 30, 2025 Rule 10b5-1 Trading Arrangement Up to 93,583 shares to be sold January 21, 2026- December 31, 2026 Executive Vice President, Chief Financial Officer Neil MacDonald Adopted September 30, 2025 Rule 10b5-1 Trading Arrangement Up to 293,747 shares to be sold December 29, 2025- May 29, 2026 Executive Vice President, General Manager, Server Kirt Karros Adopted September 24, 2025 Rule 10b5-1 Trading Arrangement Up to 108,989 shares to be sold December 15, 2025- March 31, 2026 Senior Vice President, Treasurer, Corporate Development and FP&A
+[END TABLE 136]
+
+[TABLE 137]
+Report of Independent Registered Public Accounting Firm 74 Consolidated Statements of Earnings 79 Consolidated Statements of Comprehensive Income 80 Consolidated Balance Sheets 81 Consolidated Statements of Cash Flows 82 Consolidated Statements of Stockholders' Equity 83 Notes to Consolidated Financial Statements 85
+[END TABLE 137]
+
+[TABLE 138]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 2.1 Separation and Distribution Agreement, dated as of October 31, 2015, by and among Hewlett-Packard Company, Hewlett Packard Enterprise Company and the Other Parties Thereto 8-K 001-37483 2.1 November 5, 2015 2.2 Transition Services Agreement, dated as of November 1, 2015, by and between Hewlett-Packard Company and Hewlett Packard Enterprise Company 8-K 001-37483 2.2 November 5, 2015 2.3 Employee Matters Agreement, dated as of October 31, 2015, by and between Hewlett-Packard Company and Hewlett Packard Enterprise Company 8-K 001-37483 2.4 November 5, 2015 2.4 Real Estate Matters Agreement, dated as of October 31, 2015, by and between Hewlett-Packard Company and Hewlett Packard Enterprise Company 8-K 001-37483 2.5 November 5, 2015 2.5 Master Commercial Agreement, dated as of November 1, 2015, by and between Hewlett-Packard Company and Hewlett Packard Enterprise Company 8-K 001-37483 2.6 November 5, 2015 2.6 Information Technology Service Agreement, dated as of November 1, 2015, by and between Hewlett-Packard Company and HP Enterprise Services, LLC 8-K 001-37483 2.7 November 5, 2015 2.7 Agreement and Plan of Merger, dated as of May 24, 2016, by and among Hewlett Packard Enterprise Company, Everett SpinCo, Inc., Computer Sciences Corporation, and Everett Merger Sub, Inc. 8-K 001-37483 2.1 May 26, 2016 2.8 Separation and Distribution Agreement, dated as of May 24, 2016, by and between Hewlett Packard Enterprise Company and Everett SpinCo, Inc. 8-K 001-37483 2.2 May 26, 2016 2.9 Agreement and Plan of Merger, dated as of September 7, 2016, by and among Hewlett Packard Enterprise Company, Seattle SpinCo, Inc., Micro Focus International plc, Seattle Holdings, Inc. and Seattle MergerSub, Inc. 8-K 001-37483 2.1 September 7, 2016 2.10 Separation and Distribution Agreement, dated as of September 7, 2016, by and between Hewlett Packard Enterprise Company and Seattle SpinCo, Inc. 8-K 001-37483 2.2 September 7, 2016 2.11 First Amendment to the Agreement and Plan of Merger, dated as of November 2, 2016, by and among Hewlett Packard Enterprise Company, Everett SpinCo, Inc., New Everett Merger Sub Inc., Computer Sciences Corporation, and Everett Merger Sub, Inc. 8-K 001-37483 2.1 November 2, 2016 2.12 First Amendment to the Separation and Distribution Agreement, dated as of November 2, 2016, by and between Hewlett Packard Enterprise Company and Everett SpinCo, Inc. 8-K 001-37483 2.2 November 2, 2016 2.13 Tax Matters Agreement, dated March 31, 2017, by and among Hewlett Packard Enterprise Company, Everett SpinCo, Inc., and Computer Sciences Corporation 8-K 001-38033 2.2 April 6, 2017 2.14 IP Matters Agreement, dated March 31, 2017, by and between Hewlett Packard Enterprise Company, Hewlett Packard Enterprise Development LP, and Everett SpinCo, Inc. 8-K 001-38033 2.3 April 6, 2017 2.15 Transition Services Agreement, dated March 31, 2017, by and between Hewlett Packard Enterprise Company and Everett SpinCo, Inc. 8-K 001-38033 2.4 April 6, 2017 2.16 Real Estate Matters Agreement, dated March 31, 2017, by and between Hewlett Packard Enterprise Company and Everett SpinCo, Inc. 8-K 001-38033 2.5 April 6, 2017
+[END TABLE 138]
+
+[TABLE 139]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 2.17 Fourth Amendment to the Separation and Distribution Agreement, dated March 31, 2017, by and between Hewlett Packard Enterprise Company and Everett SpinCo, Inc. 8-K 001-38033 2.6 April 6, 2017 2.18 Tax Matters Agreement, dated September 1, 2017, by and among Hewlett Packard Enterprise Company, Seattle SpinCo, Inc., and Micro Focus International plc 8-K 001-37483 2.1 September 1, 2017 2.19 Intellectual Property Matters Agreement, dated September 1, 2017, by and between Hewlett Packard Enterprise Company, Hewlett Packard Enterprise Development LP, and Seattle SpinCo, Inc. 8-K 001-37483 2.2 September 1, 2017 2.20 Transition Services Agreement, dated September 1, 2017, by and between Hewlett Packard Enterprise Company and Seattle SpinCo, Inc. 8-K 001-37483 2.3 September 1, 2017 2.21 Real Estate Matters Agreement, dated September 1, 2017, by and between Hewlett Packard Enterprise Company and Seattle SpinCo, Inc. 8-K 001-37483 2.4 September 1, 2017 3.1 Registrant's Restated Certificate of Incorporation 8-K 001-37483 3.2 April 12, 2024 3.2 Registrant's Second Amended and Restated Bylaws effective September 27, 2023 8-K 001-37483 3.1 September 28, 2023 3.3 Certificate of Designation of Series A Junior Participating Redeemable Preferred Stock of Hewlett Packard Enterprise Company 8-K 001-37483 3.1 March 20, 2017 3.4 Certificate of Designation of Series B Junior Participating Redeemable Preferred Stock of Hewlett Packard Enterprise Company 8-K 001-37483 3.2 March 20, 2017 3.5 Corrected Certificate of Designations of 7.625% Series C Mandatory Convertible Preferred Stock of Hewlett Packard Enterprise Company 10-K 001-37483 3.8 December 19, 2024 4.1 Indenture, dated as of October 9, 2015, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee 8-K 001-37483 4.1 October 13, 2015 4.2 Sixth Supplemental Indenture, dated as of October 9, 2015, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company's 6.200% notes due 2035 (including the form of 6.200% notes due 2035) 8-K 001-37483 4.7 October 13, 2015 4.3 Seventh Supplemental Indenture, dated as of October 9, 2015, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company's 6.350% notes due 2045 (including the form of 6.350% notes due 2045) 8-K 001-37483 4.8 October 13, 2015 4.4 Eighteenth Supplemental Indenture, dated as of July 17, 2020, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company's 1.750% notes due 2026 (including the form of 1.750% notes due 2026) 8-K 001-37483 4.3 July 17, 2020 4.5 Twenty-First Supplemental Indenture, dated as of June 14, 2023, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 5.250% notes due 2028 (including the form of 5.250% notes due 2028) 8-K 001-37483 4.3 June 14, 2023
+[END TABLE 139]
+
+[TABLE 140]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 4.6 Twenty-Second Supplemental Indenture, dated as of September 26, 2024, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.450% notes due 2026 (including the form of 4.450% notes due 2026) 8-K 001-37483 4.2 September 26, 2024 4.7 Twenty-Third Supplemental Indenture, dated as of September 26, 2024, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.400% notes due 2027 (including the form of 4.400% notes due 2027) 8-K 001-37483 4.3 September 26, 2024 4.8 Twenty-Fourth Supplemental Indenture, dated as of September 26, 2024, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.550% notes due 2029 (including the form of 4.550% notes due 2029) 8-K 001-37483 4.4 September 26, 2024 4.9 Twenty-Fifth Supplemental Indenture, dated as of September 26, 2024, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.850% notes due 2031 (including the form of 4.850% notes due 2031) 8-K 001-37483 4.5 September 26, 2024 4.10 Twenty-Sixth Supplemental Indenture, dated as of September 26, 2024, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 5.000% notes due 2034 (including the form of 5.00% notes due 2034) 8-K 001-37483 4.6 September 26, 2024 4.11 Twenty-Seventh Supplemental Indenture, dated as of September 26, 2024, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 5.600% notes due 2054 (including the form of 5.600% notes due 2054) 8-K 001-37483 4.7 September 26, 2024 4.12 Twenty-Eighth Supplemental Indenture, dated as of September 15, 2025, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.050% notes due 2027 (including the form of 4.050% notes due 2027) 8-K 001-37483 4.2 September 15, 2025 4.13 Twenty-Ninth Supplemental Indenture, dated as of September 15, 2025, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s floating rate notes due 2028 (including the form of floating rate notes due 2028) 8-K 001-37483 4.3 September 15, 2025 4.14 Thirtieth Supplemental Indenture, dated as of September 15, 2025, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.150% notes due 2028 (including the form of 4.150% notes due 2028) 8-K 001-37483 4.4 September 15, 2025
+[END TABLE 140]
+
+[TABLE 141]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 4.15 Thirty-First Supplemental Indenture, dated as of September 15, 2025, between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee, relating to Hewlett Packard Enterprise Company’s 4.400% notes due 2030 (including the form of 4.400% notes due 2030) 8-K 001-37483 4.5 September 15, 2025 4.16 Form of Subordinated Indenture between Hewlett Packard Enterprise Company and The Bank of New York Mellon Trust Company, N.A., as Trustee S-3ASR 333-222102 4.5 December 15, 2017 4.17 Form of 7.625% Series C Mandatory Convertible Preferred Stock (included in Exhibit 3.1 to the Registrant’s Form 8-K filed on September 13, 2024, which is incorporated by reference) 8-K 001-37483 3.1 September 13, 2024 4.18 Description of the Registrant's Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934 10-K 001-37483 4.18 December 19, 2024 4.19 Indenture, dated March 3, 2011, by and between Juniper Networks, Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee 10-Q 333-288473 4.16 September 4, 2025 4.20 First Supplemental Indenture, dated as of March 3, 2011,between Juniper Networks, Inc. and The Bank of New York Mellon Trust Company, N.A., as Trustee (including the form of note for Juniper Networks, Inc.'s 5.950% senior notes due 2041) 10-Q 333-288473 4.17 September 4, 2025 4.21 Sixth Supplemental Indenture, dated as of August 26, 2019, by and between Juniper Networks, Inc. and The Bank of New York Mellon Trust Company, N.A., as Trustee (including the form of note for Juniper Networks, Inc.'s 3.750% senior notes due 2029) 10-Q 333-288473 4.18 September 4, 2025 4.22 Seventh Supplemental Indenture, dated as of December 10, 2020, by and between Juniper Networks, Inc. and The Bank of New York Mellon Trust Company, N.A., as Trustee (including the form of note for Juniper Networks, Inc.'s 1.200% senior notes due 2025 and 2.000 senior notes due 2030) 10-Q 333-288473 4.19 September 4, 2025 10.1 Hewlett Packard Enterprise Company 2015 Stock Incentive Plan (amended and restated January 25, 2017)* 8-K 001-37483 10.1 January 30, 2017 10.2 Hewlett Packard Enterprise Company 2021 Stock Incentive Plan* S-8 333-255839 4.4 May 6, 2021 10.3 Amendment No. 1 to the Hewlett Packard Enterprise Company 2021 Stock Incentive Plan* S-8 333-265378 4.7 June 2, 2022 10.4 Amendment No. 2 to the Hewlett Packard Enterprise Company 2021 Stock Incentive Plan* 8-K 001-37483 10.1 April 6, 2023 10.5 Amendment No. 3 to the Hewlett Packard Enterprise Company 2021 Stock Incentive Plan* 8-K 001-37483 10.1 April 12, 2024 10.6 Amendment No. 4 to the Hewlett Packard Enterprise Company 2021 Stock Incentive Plan* 8-K 001-37483 10.1 April 4, 2025 10.7 Hewlett Packard Enterprise Severance and Long-Term Incentive Change in Control Plan for Executive Officers* 10-12B/A 001-37483 10.4 September 28, 2015 10.8 Hewlett Packard Enterprise Grandfathered Executive Deferred Compensation Plan* S-8 333-207679 4.4 October 30, 2015 10.9 Form of Non-Qualified Stock Option Grant Agreement* 8-K 001-37483 10.4 November 5, 2015 10.10 Cloud Technology Partners, Inc. 2011 Equity Incentive Plan* S-8 333-221254 4.3 November 1, 2017 10.11 Amendment to the Cloud Technology Partners, Inc. 2011 Equity Incentive Plan* S-8 333-221254 4.4 November 1, 2017
+[END TABLE 141]
+
+[TABLE 142]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 10.12 Plexxi Inc. 2011 Stock Plan* S-8 333-226181 4.3 July 16, 2018 10.13 Hewlett Packard Enterprise Company 2015 Employee Stock Purchase Plan (as amended and restated on July 18, 2018, effective as of October 8, 2015)* 10-Q 001-37483 10.29 September 4, 2018 10.14 Amendment No. 1 to the Hewlett Packard Enterprise Company 2015 Employee Stock Purchase Plan (effective as of April 2, 2025)* 8-K 001-37483 10.2 April 4, 2025 10.15 Hewlett Packard Enterprise Executive Deferred Compensation Plan (as amended and restated December 1, 2018)* 10-K 001-37483 10.27 December 12, 2018 10.16 First Amendment to the Hewlett Packard Enterprise Company Severance and Long-Term Incentive Change in Control Plan for Executive Officers* 10-K 001-37483 10.29 December 12, 2018 10.17 BlueData Software Inc. 2012 Stock Incentive Plan* S-8 333-229449 4.3 January 31, 2019 10.18 Cray Inc. 2013 Equity Incentive Plan (as amended and restated June 11, 2019)* S-8 333-234033 4.3 October 1, 2019 10.19 Termination and Mutual Release Agreement dated as of October 30, 2019 by and between HP Inc. and Hewlett Packard Enterprise Company 10-K 001-37483 10.31 December 13, 2019 10.20 Aircraft Time Sharing Agreement, dated as of December 13, 2019, between Hewlett Packard Enterprise and Antonio Neri* 10-Q 001-37483 10.32 March 9, 2020 10.21 Silver Peak Systems, Inc. 2014 Equity Incentive Plan, as amended* S-8 333-249731 4.4 October 29, 2020 10.22 2021 Stock Incentive Plan – Form of Restricted Stock Units Grant Agreement* 10-K 001-37483 10.30 December 10, 2021 10.23 2021 Stock Incentive Plan – Form of Performance-Adjusted Restricted Stock Units Grant Agreement* 10-K 001-37483 10.31 December 10, 2021 10.24 2021 Stock Incentive Plan - Form of Performance-Adjusted Restricted Stock Units Grant Agreement (for grants beginning December 2022)* 10-K 001-37483 10.31 December 8, 2022 10.25 2021 Stock Incentive Plan - Form of Non-Employee Director Restricted Stock Units Grant Agreement (for grants beginning April 2023)* 10-Q 001-37483 10.32 June 2, 2023 10.26 OpsRamp, Inc. 2014 Equity Incentive Plan* 10-Q 001-37483 10.33 June 2, 2023 10.27 Put Share Purchase Agreement, dated May 26, 2023, among H3C Holdings Limited, Izar Holding Co., and Unisplendour International Technology Limited (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) 10-Q 001-37483 10.34 June 2, 2023 10.28 2021 Stock Incentive Plan - Form of Restricted Stock Units Grant Agreement (for grants beginning December 2023)* 10-K 001-37483 10.34 December 22, 2023 10.29 2021 Stock Incentive Plan - Form of Performance-Adjusted Restricted Stock Units Grant Agreement (for grants beginning December 2023)* 10-K 001-37483 10.35 December 22, 2023 10.30 Amended and Restated Put Share Purchase Agreement, dated May 24, 2024, among H3C Holdings Limited, Izar Holding Co., and Unisplendour International Technology Limited (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) 10-Q 001-37483 10.37 September 5, 2024 10.31 Agreement on Subsequent Arrangements, dated May 24, 2024, between H3C Holdings Limited and Unisplendour International Technology Limited (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) 10-Q 001-37483 10.38 September 5, 2024
+[END TABLE 142]
+
+[TABLE 143]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 10.32 Five-Year Credit Agreement, dated as of September 12, 2024, among Hewlett Packard Enterprise Company, the Borrowing Subsidiaries from time to time party thereto, the Lenders party thereto, JPMorgan Chase Bank, N.A., as Administrative Processing Agent and Co-Administrative Agent, and Citibank, N.A., as Co-Administrative Agent. 8-K 001-37483 10.1 September 12, 2024 10.33 Three-Year Term Loan Credit Agreement, dated as of September 12, 2024, among Hewlett Packard Enterprise Company, the Lenders party thereto, JPMorgan Chase Bank, N.A., as Administrative Processing Agent and Co-Administrative Agent, and Citibank, N.A., as Co-Administrative Agent. 8-K 001-37483 10.3 September 12, 2024 10.34 First Amendment to the Three-Year Term Loan Credit Agreement, dated as of November 21, 2025, among Hewlett Packard Enterprise Company, the Lenders party thereto, JPMorgan Chase Bank, N.A., as Administrative Processing Agent and Co-Administrative Agent, and Citibank, N.A., as Co-Administrative Agent. ‡ 10.35 HPE Offer Letter to Rami Rahim, dated as of January 9, 2024 (certain schedules and exhibits omitted pursuant to Regulation S-K Item 601(a)(5))* 10-Q 333-288473 10.35 September 4, 2025 10.36 Juniper Networks, Inc. 2015 Equity Incentive Plan, as amended and restated* S-8 333-288473 4.3 July 2, 2025 10.37 128 Technology, Inc. Amended and Restated 2014 Equity Incentive Plan* S-8 333-288473 4.4 July 2, 2025 10.38 Apstra, Inc. Amended and Restated 2014 Equity Incentive Plan* S-8 333-288473 4.5 July 2, 2025 10.39 Mist Systems, Inc. 2014 Equity Incentive Plan* S-8 333-288473 4.6 July 2, 2025 10.40 Juniper Networks, Inc. Deferred Compensation Plan* S-8 333-288473 4.7 July 2, 2025 10.41 Form of Stock Option Agreement effective as of May 19, 2015* 10-Q 333-288473 10.35 September 4, 2025 10.42 Amended and Restated Juniper Networks, Inc. Form of Restricted Stock Unit Agreement effective as of December 1, 2021* 10-Q 333-288473 10.42 September 4, 2025 10.43 Cooperation Agreement, between Hewlett Packard Enterprise Company, Elliott Investment Management L.P., Elliott Associates, L.P., and Elliott International, L.P., dated July 16, 2025 8-K 001-37483 10.1 July 16, 2025 10.44 Share Purchase Agreement, dated November 17 , 2025, between H3C Holdings Limited and Unisplendour International Technology Limited (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.45 Share Purchase Agreement, dated November 17, 2025, between H3C Holdings Limited and Shenzhen Zhaohua Information and Communication Technology Phase I Private Equity I nvestment Fund Partnership (Limited Partnership) (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.46 Share Purchase Agreement, dated November 17, 2025, between H3C Holdings Limited and Beijing Xinhua Zhilian Equity Investment Co., Ltd. (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡
+[END TABLE 143]
+
+[TABLE 144]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 10.47 Share Purchase Agreement, dated November 17, 2025, between H3C Holdings Limited and China CITIC Financial Asset Management Co., Ltd. (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.48 Share Purchase Agreement, dated November 17, 2025, between H3C Holdings Limited and Beijing Changshi Zhihua Equity Investment Co., Ltd (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.49 S ide Letter, dated November 17, 2025, between H3C Holdings Limited and Unisplendour International Technology Limited (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.50 Share Purchase Agreement, dated November 28 , 2025, between H3C Holdings Limited and Unisplendour International Technology Limited (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.51 Share Purchase Agreement, dated November 28, 2025, between H3C Holdings Limited and Hefei Huaxin Mingzhu Equity Investment Partnership L.P. (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 10.52 Share Purchase Agreement, dated November 28 , 2025, between H3C Holdings Limited and Ningbo Yongning Yinshu Venture Capital Partnership (Limited Partnership) (certain schedules, exhibits, and portions omitted pursuant to Regulation S-K Item 601(a)(5) and Item 601(b)(10)(iv)) ‡ 19 Insider Trading Policy 10-K 001-37483 19 December 19, 2024 21 Subsidiaries of Hewlett Packard Enterprise Company‡ 23.1 Consent of Independent Registered Public Accounting Firm‡ 24 Power of Attorney (included on the signature page) 31.1 Certification of Chief Executive Officer pursuant to Rule 13a- 14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended‡ 31.2 Certification of Chief Financial Officer pursuant to Rule 13a- 14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended‡ 32 Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002† 97 Hewlett Packard Enterprise Company Dodd-Frank Clawback Policy 10-K 001-37483 97 December 22, 2023 101.INS Inline XBRL Instance Document‡ 101.SCH Inline XBRL Taxonomy Extension Schema Document‡ 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document‡ 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document‡ 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document‡
+[END TABLE 144]
+
+[TABLE 145]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit(s) Filing Date 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document‡ 104 The cover page from the Company’s Annual Report on Form 10-K for the fiscal year ended October 31, 2025, formatted in Inline XBRL (included within the Exhibit 101 attachments)
+[END TABLE 145]
+
+[TABLE 146]
+Date: December 18, 2025 HEWLETT PACKARD ENTERPRISE COMPANY By: /s/ Marie Myers Marie Myers Executive Vice President and Chief Financial Officer (Principal Financial Officer)
+[END TABLE 146]
+
+[TABLE 147]
+Signature Title(s) Date /s/ Antonio F. Neri President, Chief Executive Officer and Director (Principal Executive Officer) December 18, 2025 Antonio F. Neri /s/ Marie Myers Executive Vice President and Chief Financial Officer (Principal Financial Officer) December 18, 2025 Marie Myers /s/ Jeremy K. Cox Senior Vice President, Controller, and Chief Tax Officer (Principal Accounting Officer) December 18, 2025 Jeremy K. Cox /s/ Patricia F. Russo Chair December 18, 2025 Patricia F. Russo /s/ Robert M. Calderoni Director December 18, 2025 Robert M. Calderoni /s/ Pamela L. Carter Director December 18, 2025 Pamela L. Carter /s/ Regina E. Dugan Director December 18, 2025 Regina E. Dugan /s/ Frank A. D’Amelio Director December 18, 2025 Frank A. D’Amelio /s/ Jean M. Hobby Director December 18, 2025 Jean M. Hobby
+[END TABLE 147]
+
+[TABLE 148]
+/s/ Raymond J. Lane Director December 18, 2025 Raymond J. Lane /s/ Ann M. Livermore Director December 18, 2025 Ann M. Livermore /s/ Bethany J. Mayer Director December 18, 2025 Bethany J. Mayer /s/ Charles H. Noski Director December 18, 2025 Charles H. Noski /s/ Raymond E. Ozzie Director December 18, 2025 Raymond E. Ozzie /s/ Gary M. Reiner Director December 18, 2025 Gary M. Reiner
+[END TABLE 148]

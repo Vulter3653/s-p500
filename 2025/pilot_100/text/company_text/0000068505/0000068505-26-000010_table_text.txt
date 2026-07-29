@@ -1,0 +1,511 @@
+[TABLE 001]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware 36-1115800 (State of Incorporation) (I.R.S. Employer Identification No.)
+[END TABLE 003]
+
+[TABLE 004]
+Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered Common Stock $0.01 Par Value MSI New York Stock Exchange
+[END TABLE 004]
+
+[TABLE 005]
+Large accelerated filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 005]
+
+[TABLE 006]
+TABLE OF CONTENTS Page PART I 3 Item 1. Business 4 Overview | Solving for safer 4 Business Organization 4 Our Customers and Contracts 6 Competition 7 Other Information 8 Backlog 8 Research and Development 9 Intellectual Property Matters 9 Inventory and Raw Materials 9 Government Regulations 10 Human Capital Management 11 Material Dispositions 11 Available Information 12 Item 1A. Risk Factors 13 Item 1B. Unresolved Staff Comments 26 Item 1C. Cybersecurity 26 Item 2. Properties 28 Item 3. Legal Proceedings 28 Item 4. Mine Safety Disclosures 28 Information about our Executive Officers 29 PART II 30 Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 30 Item 6. [Reserved] 32 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 33 Item 7A. Quantitative and Qualitative Disclosures About Market Risk 53 Item 8. Financial Statements and Supplementary Data 54 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 105 Item 9A. Controls and Procedures 105 Item 9B. Other Information 105 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 105 PART III 106 Item 10. Directors, Executive Officers and Corporate Governance 106 Item 11. Executive Compensation 106 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 106 Item 13. Certain Relationships and Related Transactions, and Director Independence 106 Item 14. Principal Accounting Fees and Services 106 PART IV 107 Item 15. Exhibits and Financial Statement Schedules 107 15(a)(1) Financial Statements 107 15(a)(2) Financial Statement Schedules 107 15(a)(3) Exhibits 107 Item 16. Form 10-K Summary 111 Signatures 112
+[END TABLE 006]
+
+[TABLE 007]
+Technology Competitor MCN Airbus, BK Technologies, DTC, Doodle Labs, Hytera, iCOM, JVCKenwood Corporation, L3Harris Technologies, Persistent Systems, RCA, Samsung, Sepura, Tait, TrellisWare Technologies, Zebra Video Axis Communications, Axon Enterprise, Bosch, Brivo, Dahua Technology Company, Eagle Eye Networks, ECAM, Flock, Genetec, Hanwha Group, Hikvision, Honeywell, Johnson Controls, Milestone Systems, NetWatch, Pro-Vigil, Rhombus, Verkada Command Center AlertMedia, AT&T, Axon Enterprise, Carbyne, CentralSquare Technologies, Comtech Telecommunications, Everbridge, Hexagon, Intrado, Mark43, Crisis24, Oracle Public Safety, RapidSOS, Tyler Technologies, Versaterm
+[END TABLE 007]
+
+[TABLE 008]
+December 31 (In millions) 2025 2024 Products and Systems Integration $ 3,812 $ 4,135 Software and Services 11,930 10,562 $ 15,742 $ 14,697
+[END TABLE 008]
+
+[TABLE 009]
+Segment Technology Acquisition Description Purchase Price Date of Acquisition Software and Services Video Security and Access Control Blue Eye Provider of AI-powered enterprise remote video monitoring ("RVM") services. $79 million and share-based compensation of $1 million November 18, 2025 Products and Systems Integration & Software and Services Mission Critical Networks Silvus Technologies Designer and developer of software-defined high-speed MANET technology. $4.4 billion and share-based compensation of $20 million August 6, 2025 Software and Services Command Center Theatro Creator of AI and voice-powered communication and digital workflow software for frontline workers. $174 million and share-based compensation of $5 million March 6, 2025 Software and Services Command Center RapidDeploy Provider of cloud-native 911 solutions. $240 million and share-based compensation of $6 million February 21, 2025 Software and Services Command Center 3tc Software Provider of control room software solutions. $23 million and share-based compensation of $4 million October 29, 2024 Software and Services Command Center Noggin Provider of cloud-based business continuity planning, operational resilience and critical event management software. $92 million and share-based compensation of $19 million July 1, 2024 Software and Services Video Security and Access Control Unnamed vehicle location and management solutions business Provider of vehicle location and management solutions. $132 million and share-based compensation of $3 million July 1, 2024 Products and Systems Integration Video Security and Access Control Silent Sentinel Provider of specialized, long-range cameras. $37 million February 13, 2024 Products and Systems Integration Video Security and Access Control IPVideo Creator of a multifunctional safety and security device. $170 million and share-based compensation of $5 million December 15, 2023
+[END TABLE 009]
+
+[TABLE 010]
+Location Approximate Operating Size in Sq. Ft. (In thousands) Owned vs. Leased Purpose Elgin, Illinois, U.S. 301 Leased Manufacturing, assembly, staging and distribution Schaumburg, Illinois, U.S. 282 Leased Research & development and customer support Penang, Malaysia 234 Leased Distribution, research & development and corporate administrative Krakow, Poland 191 Leased Research & development and corporate administrative Plantation, Florida, U.S. 172 Leased Research & development and corporate administrative Tel Aviv, Israel 139 Leased Research & development and corporate administrative Allen, Texas, U.S. 138 Owned Research & development and corporate administrative Schio, Italy 125 Leased Manufacturing, engineering and administrative Chicago, Illinois, U.S. 102 Leased Corporate administrative (global headquarters) Los Angeles, California, U.S. 86 Leased Research & development, manufacturing and administrative Vancouver, BC, Canada 70 Leased Research & development and corporate administrative
+[END TABLE 010]
+
+[TABLE 011]
+Period (a) Total Number of Shares Purchased (b) Average Price Paid per Share (1) (c) Total Number of Shares Purchased as Part of Publicly Announced Plans or Program (2) (d) Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Program (2) 09/26/2025 to 10/23/2025 275,067 $ 451.25 275,067 $ 1,449,245,273 10/24/2025 to 11/20/2025 675,898 $ 395.02 675,898 $ 1,182,253,478 11/21/2025 to 12/30/2025 266,849 $ 370.72 266,849 $ 1,083,326,456 Total 1,217,814 $ 402.40 1,217,814
+[END TABLE 011]
+
+[TABLE 012]
+(1) Average price paid per share of common stock repurchased excludes commissions paid to brokers and excise tax. As of January 1, 2023, the Company's share repurchases in excess of issuances are subject to a 1% excise tax enacted by the Inflation Reduction Act of 2022. The amount of excise tax incurred is included in the Company's Consolidated Statement of Stockholders' Equity for the year ended December 31, 2025. (2) As originally announced on July 28, 2011, and subsequently amended, the Board of Directors has authorized the Company to repurchase an aggregate amount of up to $18.0 billion of its outstanding shares of common stock (the “share repurchase program”). The share repurchase program does not have an expiration date. As of December 31, 2025, the Company had used approximately $16.9 billion to repurchase shares, leaving approximately $1.1 billion of authority available for future repurchases.
+[END TABLE 012]
+
+[TABLE 013]
+Years Ended December 31 2020 2021 2022 2023 2024 2025 Motorola Solutions $ 100.00 $ 161.91 $ 155.74 $ 191.61 $ 285.73 $ 239.54 S&P 500 100.00 128.68 105.36 133.03 166.28 195.98 S&P Communications Equipment 100.00 151.31 121.24 146.05 201.64 241.63
+[END TABLE 013]
+
+[TABLE 014]
+Segment Technology Acquisition Description Purchase Price Date of Acquisition Software and Services Video Security and Access Control Blue Eye Provider of AI-powered enterprise remote video monitoring ("RVM") services. $79 million and share-based compensation of $1 million November 18, 2025 Products and Systems Integration & Software and Services Mission Critical Networks Silvus Designer and developer of software-defined high-speed MANET technology. $4.4 billion and share-based compensation of $20 million August 6, 2025 Software and Services Command Center Theatro Creator of AI and voice-powered communication and digital workflow software for frontline workers. $174 million and share-based compensation of $5 million March 6, 2025 Software and Services Command Center RapidDeploy Provider of cloud-native 911 solutions. $240 million and share-based compensation of $6 million February 21, 2025 Software and Services Command Center 3tc Software Provider of control room software solutions. $23 million and share-based compensation of $4 million October 29, 2024 Software and Services Command Center Noggin Provider of cloud-based business continuity planning, operational resilience and critical event management software. $92 million and share-based compensation of $19 million July 1, 2024 Software and Services Video Security and Access Control Unnamed vehicle location and management solutions business Provider of vehicle location and management solutions. $132 million and share-based compensation of $3 million July 1, 2024 Products and Systems Integration Video Security and Access Control Silent Sentinel Provider of specialized, long-range cameras. $37 million February 13, 2024 Products and Systems Integration Video Security and Access Control IPVideo Creator of a multifunctional safety and security device. $170 million and share-based compensation of $5 million December 15, 2023
+[END TABLE 014]
+
+[TABLE 015]
+Years ended December 31 (Dollars in millions, except per share amounts) 2025 % of Sales ** 2024 % of Sales ** 2023 % of Sales ** Net sales from products $ 6,770 $ 6,454 $ 5,814 Net sales from services 4,912 4,363 4,164 Net sales 11,682 10,817 9,978 Costs of product sales 2,776 41.0 % 2,674 41.4 % 2,591 44.6 % Costs of services sales 2,871 58.4 % 2,631 60.3 % 2,417 58.0 % Costs of sales 5,647 48.3 % 5,305 49.0 % 5,008 50.2 % Gross margin 6,035 51.7 % 5,512 51.0 % 4,970 49.8 % Selling, general and administrative expenses 1,870 16.0 % 1,752 16.2 % 1,561 15.6 % Research and development expenditures 970 8.3 % 917 8.5 % 858 8.6 % Other charges 207 1.8 % 155 1.4 % 257 2.6 % Operating earnings 2,988 25.6 % 2,688 24.8 % 2,294 23.0 % Other income (expense): Interest expense, net (302) (2.6) % (227) (2.1) % (216) (2.2) % Other, net 126 1.1 % (489) (4.5) % 68 0.7 % Total other expense (176) (1.5) % (716) (6.6) % (148) (1.5) % Net earnings before income taxes 2,812 24.1 % 1,972 18.2 % 2,146 21.5 % Income tax expense 652 5.6 % 390 3.6 % 432 4.3 % Net earnings 2,160 18.5 % 1,582 14.6 % 1,714 17.2 % Less: Earnings attributable to noncontrolling interests 6 0.1 % 5 — % 5 0.1 % Net earnings* $ 2,154 18.4 % $ 1,577 14.6 % $ 1,709 17.1 % Earnings per diluted common share* $ 12.75 $ 9.23 $ 9.93
+[END TABLE 015]
+
+[TABLE 016]
+2025 2024 2023 North America 72 % 72 % 69 % International 28 % 28 % 31 % 100 % 100 % 100 %
+[END TABLE 016]
+
+[TABLE 017]
+Years ended December 31 (In millions) 2025 2024 % Change Net sales from Products and Systems Integration $ 7,253 $ 6,883 5 % Net sales from Software and Services 4,429 3,934 13 % Net sales $ 11,682 $ 10,817 8 %
+[END TABLE 017]
+
+[TABLE 018]
+Years ended December 31 (In millions) 2025 2024 % Change Gross margin from Products and Systems Integration $ 3,915 $ 3,668 7 % Gross margin from Software and Services 2,120 1,844 15 % Gross margin $ 6,035 $ 5,512 9 %
+[END TABLE 018]
+
+[TABLE 019]
+Years ended December 31 (In millions) 2025 2024 % Change SG&A expenses from Products and Systems Integration $ 1,478 $ 1,392 6 % SG&A expenses from Software and Services 392 360 9 % SG&A expenses $ 1,870 $ 1,752 7 %
+[END TABLE 019]
+
+[TABLE 020]
+Years ended December 31 (In millions) 2025 2024 % Change R&D expenditures from Products and Systems Integration $ 598 $ 575 4 % R&D expenditures from Software and Services 372 342 9 % R&D expenditures $ 970 $ 917 6 %
+[END TABLE 020]
+
+[TABLE 021]
+Years ended December 31 (In millions) 2025 2024 Other charges from Products and Systems Integration $ 78 $ 25 Other charges from Software and Services 129 $ 130 Other charges $ 207 $ 155
+[END TABLE 021]
+
+[TABLE 022]
+Years ended December 31 (In millions) 2025 2024 Operating earnings from Products and Systems Integration $ 1,761 $ 1,676 Operating earnings from Software and Services 1,227 1,012 Operating earnings $ 2,988 $ 2,688
+[END TABLE 022]
+
+[TABLE 023]
+Years ended December 31 (In millions) 2025 2024 Interest expense, net $ (302) $ (227)
+[END TABLE 023]
+
+[TABLE 024]
+Years ended December 31 (In millions) 2025 2024 Other, net $ 126 $ (489)
+[END TABLE 024]
+
+[TABLE 025]
+Years ended December 31 (In millions) 2025 2024 Income tax expense $ 652 $ 390
+[END TABLE 025]
+
+[TABLE 026]
+Years ended December 31 (In millions) 2024 2023 % Change Net sales from Products and Systems Integration $ 6,883 $ 6,242 10 % Net sales from Software and Services 3,934 3,736 5 % Net sales $ 10,817 $ 9,978 8 %
+[END TABLE 026]
+
+[TABLE 027]
+Years ended December 31 (In millions) 2024 2023 % Change Gross margin from Products and Systems Integration $ 3,668 $ 3,127 17 % Gross margin from Software and Services 1,844 1,843 — % Gross margin $ 5,512 $ 4,970 11 %
+[END TABLE 027]
+
+[TABLE 028]
+Years ended December 31 (In millions) 2024 2023 % Change SG&A expenses from Products and Systems Integration $ 1,392 $ 1,239 12 % SG&A expenses from Software and Services 360 322 12 % SG&A expenses $ 1,752 $ 1,561 12 %
+[END TABLE 028]
+
+[TABLE 029]
+Years ended December 31 (In millions) 2024 2023 % Change R&D expenditures from Products and Systems Integration $ 575 $ 551 4 % R&D expenditures from Software and Services 342 307 11 % R&D expenditures $ 917 $ 858 7 %
+[END TABLE 029]
+
+[TABLE 030]
+Years ended December 31 (In millions) 2024 2023 Other charges from Products and Systems Integration $ 25 $ 94 Other charges from Software and Services 130 163 Other charges $ 155 $ 257
+[END TABLE 030]
+
+[TABLE 031]
+Years ended December 31 (In millions) 2024 2023 Operating earnings from Products and Systems Integration $ 1,676 $ 1,244 Operating earnings from Software and Services 1,012 1,050 Operating earnings $ 2,688 $ 2,294
+[END TABLE 031]
+
+[TABLE 032]
+Years ended December 31 (In millions) 2024 2023 Interest expense, net $ (227) $ (216)
+[END TABLE 032]
+
+[TABLE 033]
+Years ended December 31 (In millions) 2024 2023 Other, net $ (489) $ 68
+[END TABLE 033]
+
+[TABLE 034]
+Years ended December 31 (In millions) 2024 2023 Income tax expense $ 390 $ 432
+[END TABLE 034]
+
+[TABLE 035]
+Years ended December 31 2025 2024 2023 Products and Systems Integration $ 42 $ 32 $ 45 Software and Services 18 6 8 $ 60 $ 38 $ 53
+[END TABLE 035]
+
+[TABLE 036]
+Years Ended December 31 2025 2024 2023 Cash flows provided by (used for): Operating activities $ 2,837 $ 2,391 $ 2,044 Investing activities (5,164) (507) (414) Financing activities 1,309 (1,448) (1,295) Effect of exchange rates on cash and cash equivalents 81 (39) 45 Increase (decrease) in cash and cash equivalents $ (937) $ 397 $ 380
+[END TABLE 036]
+
+[TABLE 037]
+Years ended December 31 2025 2024 2023 Accounts receivable sales proceeds $ 156 $ 15 $ 96 Long-term receivables sales proceeds 258 205 182 Total proceeds from receivable sales $ 414 $ 220 $ 278
+[END TABLE 037]
+
+[TABLE 038]
+Year Shares Repurchased (in millions) Average Price Amount (in millions) 2025 2.7 $ 420.21 $ 1,154 2024 0.6 396.69 244 2023 2.9 278.56 804
+[END TABLE 038]
+
+[TABLE 039]
+Payments Due by Period (in millions) Short-term Long-term Debt obligations, gross (1) $ 750 $ 8,476 Lease obligations (2) 155 521 Purchase obligations (3) 250 521 Total obligations $ 1,155 $ 9,518
+[END TABLE 039]
+
+[TABLE 040]
+Notional Amount Net Buy (Sell) by Currency 2025 2024 British pound $ 301 $ 124 Euro 191 150 Australian dollar (160) (136) Canadian dollar 115 70 Danish krone 58 23
+[END TABLE 040]
+
+[TABLE 041]
+Page Report of Independent Registered Public Accounting Firm (PCAOB ID 238 ) 55 Consolidated Financial Statements: Consolidated Statements of Operations 58 Consolidated Statements of Comprehensive Income (Loss) 59 Consolidated Balance Sheets 60 Consolidated Statements of Stockholders' Equity 61 Consolidated Statements of Cash Flows 62 Notes to Consolidated Financial Statements 63
+[END TABLE 041]
+
+[TABLE 042]
+Years ended December 31 (In millions, except per share amounts) 2025 2024 2023 Net sales from products $ 6,770 $ 6,454 $ 5,814 Net sales from services 4,912 4,363 4,164 Net sales 11,682 10,817 9,978 Costs of products sales 2,776 2,674 2,591 Costs of services sales 2,871 2,631 2,417 Costs of sales 5,647 5,305 5,008 Gross margin 6,035 5,512 4,970 Selling, general and administrative expenses 1,870 1,752 1,561 Research and development expenditures 970 917 858 Other charges 207 155 257 Operating earnings 2,988 2,688 2,294 Other income (expense): Interest expense, net ( 302 ) ( 227 ) ( 216 ) Other, net 126 ( 489 ) 68 Total other expense ( 176 ) ( 716 ) ( 148 ) Net earnings before income taxes 2,812 1,972 2,146 Income tax expense 652 390 432 Net earnings 2,160 1,582 1,714 Less: Earnings attributable to noncontrolling interests 6 5 5 Net earnings attributable to Motorola Solutions, Inc. $ 2,154 $ 1,577 $ 1,709 Earnings per common share: Basic $ 12.93 $ 9.45 $ 10.23 Diluted 12.75 9.23 9.93 Weighted average common shares outstanding: Basic 166.6 166.8 167.0 Diluted 169.0 170.8 172.1 Dividends declared per share $ 4.48 $ 4.03 $ 3.62
+[END TABLE 042]
+
+[TABLE 043]
+Years ended December 31 (In millions) 2025 2024 2023 Net earnings $ 2,160 $ 1,582 $ 1,714 Other comprehensive income (loss), net of tax (Note 4): Foreign currency translation adjustments 101 ( 64 ) 57 Derivative instruments 1 5 ( 12 ) Defined benefit plans 17 60 ( 50 ) Total other comprehensive income (loss), net of tax 119 1 ( 5 ) Comprehensive income 2,279 1,583 1,709 Less: Earnings attributable to noncontrolling interests 6 5 5 Comprehensive income attributable to Motorola Solutions, Inc. $ 2,273 $ 1,578 $ 1,704
+[END TABLE 043]
+
+[TABLE 044]
+December 31 (In millions, except par value) 2025 2024 ASSETS Cash and cash equivalents $ 1,165 $ 2,102 Accounts receivable, net 2,200 1,952 Contract assets 1,574 1,230 Inventories, net 983 766 Other current assets 378 429 Total current assets 6,300 6,479 Property, plant and equipment, net 1,165 1,022 Operating lease assets 581 529 Investments 187 135 Deferred income taxes 761 1,280 Goodwill 6,800 3,526 Intangible assets, net 3,104 1,249 Other assets 491 375 Total assets $ 19,389 $ 14,595 LIABILITIES AND STOCKHOLDERS’ EQUITY Current portion of long-term debt $ — $ 322 Short-term borrowings 749 — Accounts payable 1,134 1,018 Contract liabilities 2,265 2,072 Accrued liabilities 1,930 1,643 Total current liabilities 6,078 5,055 Long-term debt 8,413 5,675 Operating lease liabilities 471 427 Other liabilities 2,000 1,719 Preferred stock, $ 100 par value: 0.5 shares authorized; none issued and outstanding — — Common stock, $ 0.01 par value: 2 2 Authorized shares: 600.0 Issued shares: 12/31/25— 167.4 ; 12/31/24— 168.6 Outstanding shares: 12/31/25— 165.7 ; 12/31/24— 167.1 Additional paid-in capital 2,279 1,940 Retained earnings 2,549 2,300 Accumulated other comprehensive loss ( 2,420 ) ( 2,539 ) Total Motorola Solutions, Inc. stockholders’ equity 2,410 1,703 Noncontrolling interests 17 16 Total stockholders’ equity 2,427 1,719 Total liabilities and stockholders’ equity $ 19,389 $ 14,595
+[END TABLE 044]
+
+[TABLE 045]
+(In millions) Shares Common Stock and Additional Paid-in Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Noncontrolling Interests Balance as of January 1, 2023 168.5 $ 1,308 $ ( 2,535 ) $ 1,343 $ 15 Net earnings 1,709 5 Other comprehensive loss ( 5 ) Issuance of common stock and stock options exercised 1.8 104 Share repurchase program ( 2.9 ) ( 808 ) Share-based compensation expenses 212 Dividends paid to noncontrolling interest in subsidiary common stock ( 5 ) Dividends declared ( 604 ) Balance as of December 31, 2023 167.4 $ 1,624 $ ( 2,540 ) $ 1,640 $ 15 Net earnings 1,577 5 Other comprehensive income 1 Issuance of common stock and stock options exercised 1.8 75 Share repurchase program ( 0.6 ) ( 244 ) Share-based compensation expenses 243 Dividends paid to noncontrolling interest in subsidiary common stock ( 4 ) Dividends declared ( 673 ) Balance as of December 31, 2024 168.6 $ 1,942 $ ( 2,539 ) $ 2,300 $ 16 Net earnings 2,154 6 Other comprehensive income 119 Issuance of common stock and stock options exercised 1.5 46 Share repurchase program ( 2.7 ) ( 1,159 ) Share-based compensation expenses 293 Dividends paid to noncontrolling interest in subsidiary common stock ( 5 ) Dividends declared ( 746 ) Balance as of December 31, 2025 167.4 $ 2,281 $ ( 2,420 ) $ 2,549 $ 17
+[END TABLE 045]
+
+[TABLE 046]
+Years ended December 31 (In millions) 2025 2024 2023 Operating Net earnings $ 2,160 $ 1,582 $ 1,714 Adjustments to reconcile Net earnings to Net cash provided by operating activities: Depreciation and amortization 425 336 356 Non-cash other charges 3 16 14 Exit of video manufacturing operations — — 24 Share-based compensation expenses 293 243 212 Loss from the extinguishment of Silver Lake Convertible Debt — 585 — Changes in assets and liabilities, net of effects of acquisitions, dispositions, and foreign currency translation adjustments: Accounts receivable ( 173 ) ( 246 ) ( 180 ) Inventories ( 145 ) 62 200 Other current assets and contract assets ( 221 ) ( 213 ) ( 82 ) Accounts payable, accrued liabilities, and contract liabilities 280 302 ( 144 ) Other assets and liabilities 121 ( 61 ) ( 38 ) Deferred income taxes 94 ( 215 ) ( 32 ) Net cash provided by operating activities 2,837 2,391 2,044 Investing Acquisitions and investments, net ( 4,916 ) ( 290 ) ( 180 ) Proceeds from sales of investments 17 40 19 Capital expenditures ( 265 ) ( 257 ) ( 253 ) Net cash used for investing activities ( 5,164 ) ( 507 ) ( 414 ) Financing Net proceeds from issuance of debt 2,733 1,288 — Net proceeds from short-term borrowings 923 — — Repayment of debt ( 322 ) ( 1,906 ) ( 1 ) Repayment of short-term borrowings ( 179 ) — — Revolving credit facility renewal fees ( 5 ) — — Issuances of common stock, net of tax 46 75 104 Purchases of common stock ( 1,154 ) ( 247 ) ( 804 ) Payment of dividends ( 728 ) ( 654 ) ( 589 ) Payment of dividends to noncontrolling interest ( 5 ) ( 4 ) ( 5 ) Net cash provided by (used for) financing activities 1,309 ( 1,448 ) ( 1,295 ) Effect of exchange rate changes on cash and cash equivalents 81 ( 39 ) 45 Net increase (decrease) in cash and cash equivalents ( 937 ) 397 380 Cash and cash equivalents, beginning of period 2,102 1,705 1,325 Cash and cash equivalents, end of period $ 1,165 $ 2,102 $ 1,705 Supplemental Cash Flow Information Cash paid during the period for: Interest paid $ 285 $ 253 $ 234 Income and withholding taxes, net of refunds $ 569 $ 627 $ 587
+[END TABLE 046]
+
+[TABLE 047]
+Years Ended 2025 2024 2023 (in millions) Products and Systems Integration Software and Services Total Products and Systems Integration Software and Services Total Products and Systems Integration Software and Services Total Regions North America $ 5,318 $ 3,044 $ 8,362 $ 5,097 $ 2,723 $ 7,820 $ 4,507 $ 2,425 $ 6,932 International 1,935 1,385 3,320 1,786 1,211 2,997 1,735 1,311 3,046 $ 7,253 $ 4,429 $ 11,682 $ 6,883 $ 3,934 $ 10,817 $ 6,242 $ 3,736 $ 9,978 Major Products and Services Mission Critical Networks (MCN) $ 6,066 $ 2,581 $ 8,647 $ 5,739 $ 2,361 $ 8,100 $ 5,127 $ 2,399 $ 7,526 Video 1,187 933 2,120 1,144 776 1,920 1,115 611 1,726 Command Center — 915 915 — 797 797 — 726 726 $ 7,253 $ 4,429 $ 11,682 $ 6,883 $ 3,934 $ 10,817 $ 6,242 $ 3,736 $ 9,978 Customer Type Direct $ 4,618 $ 4,037 $ 8,655 $ 4,238 $ 3,586 $ 7,824 $ 3,619 $ 3,396 $ 7,015 Indirect 2,635 392 3,027 2,645 348 2,993 2,623 340 2,963 $ 7,253 $ 4,429 $ 11,682 $ 6,883 $ 3,934 $ 10,817 $ 6,242 $ 3,736 $ 9,978
+[END TABLE 047]
+
+[TABLE 048]
+December 31 (in millions) 2025 2024 2023 Accounts receivable, net $ 2,200 $ 1,952 $ 1,710 Contract assets 1,574 1,230 1,102 Contract liabilities 2,265 2,072 2,037 Non-current contract liabilities 751 496 424
+[END TABLE 048]
+
+[TABLE 049]
+December 31 (in millions) 2025 2024 2023 Current contract cost assets $ 72 $ 70 $ 56 Non-current contract cost assets 152 141 119
+[END TABLE 049]
+
+[TABLE 050]
+(in millions) December 31, 2025 December 31, 2024 December 31, 2023 Lease expense: Operating lease cost $ 146 $ 140 $ 140 Short-term lease cost 2 1 1 Variable cost 47 47 36 Sublease income ( 6 ) ( 5 ) ( 5 ) Net lease expense from operating leases $ 189 $ 183 $ 172
+[END TABLE 050]
+
+[TABLE 051]
+(in millions) Statement Line Classification December 31, 2025 December 31, 2024 Right-of-use lease assets Operating lease assets $ 581 $ 529 Current lease liabilities Accrued liabilities 133 127 Operating lease liabilities Operating lease liabilities 471 427
+[END TABLE 051]
+
+[TABLE 052]
+(in millions) December 31, 2025 December 31, 2024 December 31, 2023 Supplemental cash flow information: Net cash used for operating activities related to operating leases $ 156 $ 152 $ 147 Right-of-use assets obtained in exchange for lease liabilities $ 143 $ 150 $ 98
+[END TABLE 052]
+
+[TABLE 053]
+December 31, 2025 December 31, 2024 Weighted average remaining lease terms (years) 5 5 Weighted average discount rate 4.21 % 3.97 %
+[END TABLE 053]
+
+[TABLE 054]
+December 31 (in millions) Amount 2026 $ 155 2027 153 2028 125 2029 93 2030 43 Thereafter 107 Total lease payments $ 676 Less: Interest 72 Present value of operating lease liabilities $ 604
+[END TABLE 054]
+
+[TABLE 055]
+Years ended December 31 (in millions) 2025 2024 2023 Other charges (income): Intangibles amortization (Note 15) $ 234 $ 152 $ 177 Reorganization of businesses (Note 14) 44 26 22 Legal settlements 15 7 4 Fixed asset impairments — 2 3 Environmental reserve expense 2 2 15 Exit of video manufacturing operations — — 24 Operating lease asset impairments 2 6 6 Acquisition-related transaction fees 66 20 7 Gain on Hytera litigation (Note 12) ( 157 ) ( 61 ) — Other 1 1 ( 1 ) $ 207 $ 155 $ 257
+[END TABLE 055]
+
+[TABLE 056]
+Years ended December 31 (in millions) 2025 2024 2023 Interest expense, net: Interest expense $ ( 360 ) $ ( 295 ) $ ( 249 ) Interest income 58 68 33 $ ( 302 ) $ ( 227 ) $ ( 216 ) Other, net: Net periodic pension and postretirement benefit (Note 8) $ 124 $ 132 $ 99 Loss from the extinguishment of long-term debt (Note 5) — ( 585 ) — Investment impairments ( 4 ) ( 3 ) ( 16 ) Foreign currency gain (loss) ( 55 ) 2 ( 53 ) Gain (loss) on derivative instruments (Note 6) 42 ( 19 ) 20 Fair value adjustments to equity investments 19 ( 5 ) 13 Assessments of uncertain tax positions (Note 7) — ( 11 ) — Other — — 5 $ 126 $ ( 489 ) $ 68
+[END TABLE 056]
+
+[TABLE 057]
+Amounts attributable to Motorola Solutions, Inc. common stockholders Net Earnings Years ended December 31 2025 2024 2023 Basic earnings per common share: Earnings $ 2,154 $ 1,577 $ 1,709 Weighted average common shares outstanding 166.6 166.8 167.0 Per share amount $ 12.93 $ 9.45 $ 10.23 Diluted earnings per common share: Earnings $ 2,154 $ 1,577 $ 1,709 Weighted average common shares outstanding 166.6 166.8 167.0 Add effect of dilutive securities: Share-based awards 2.4 4.0 3.7 1.75 % senior convertible notes — — 1.5 Diluted weighted average common shares outstanding 169.0 170.8 172.1 Per share amount $ 12.75 $ 9.23 $ 9.93
+[END TABLE 057]
+
+[TABLE 058]
+December 31 2025 2024 Accounts receivable $ 2,283 $ 2,035 Less allowance for credit losses ( 83 ) ( 83 ) $ 2,200 $ 1,952
+[END TABLE 058]
+
+[TABLE 059]
+December 31 2025 2024 Finished goods $ 455 $ 396 Work-in-process and production materials 644 498 1,099 894 Less inventory reserves ( 116 ) ( 128 ) $ 983 $ 766
+[END TABLE 059]
+
+[TABLE 060]
+December 31 2025 2024 Current contract cost assets (Note 2) $ 72 $ 70 Contractor receivables 19 44 Tax-related deposits (Note 7) 41 54 Other 246 261 $ 378 $ 429
+[END TABLE 060]
+
+[TABLE 061]
+December 31 2025 2024 Land $ 5 $ 5 Leasehold improvements 479 441 Machinery and equipment 2,655 2,243 3,139 2,689 Less accumulated depreciation ( 1,974 ) ( 1,667 ) $ 1,165 $ 1,022
+[END TABLE 061]
+
+[TABLE 062]
+December 31 2025 2024 Common stock $ 42 $ 23 Strategic investments, at cost 54 26 Company-owned life insurance policies 83 75 Equity method investments 8 11 $ 187 $ 135
+[END TABLE 062]
+
+[TABLE 063]
+December 31 2025 2024 Defined benefit plan assets (Note 8) $ 228 $ 162 Non-current contract cost assets (Note 2) 152 141 Non-current long-term receivables (Note 11) 59 41 Other 52 31 $ 491 $ 375
+[END TABLE 063]
+
+[TABLE 064]
+(in millions) 2025 2024 Confirmed obligations at the beginning of the year $ 38 $ 35 Invoices confirmed during the year 137 139 Confirmed invoices paid during the year ( 141 ) ( 136 ) Confirmed obligations outstanding at the end of the year $ 34 $ 38
+[END TABLE 064]
+
+[TABLE 065]
+December 31 2025 2024 Compensation $ 479 $ 406 Tax liabilities (Note 7) 225 217 Dividend payable 201 182 Trade liabilities 194 160 Operating lease liabilities (Note 3) 133 127 Customer reserves 125 97 External interest liabilities 113 52 Other 460 402 $ 1,930 $ 1,643
+[END TABLE 065]
+
+[TABLE 066]
+December 31 2025 2024 Defined benefit plans (Note 8) $ 683 $ 768 Non-current contract liabilities (Note 2) 751 496 Unrecognized tax benefits (Note 7) 41 39 Deferred income taxes (Note 7) 124 87 Environmental Reserve 119 119 Deferred compensation 111 89 Other 171 121 $ 2,000 $ 1,719
+[END TABLE 066]
+
+[TABLE 067]
+Year Shares Repurchased (in millions) Average Price Amount (in millions) 2025 2.7 $ 420.21 $ 1,154 2024 0.6 396.69 244 2023 2.9 278.56 804
+[END TABLE 067]
+
+[TABLE 068]
+Years ended December 31 2025 2024 2023 Foreign Currency Translation Adjustments: Balance at beginning of period $ ( 546 ) $ ( 482 ) $ ( 539 ) Other comprehensive income (loss) before reclassification adjustment 103 ( 64 ) 64 Reclassification adjustment into Net earnings ( 6 ) ( 2 ) ( 3 ) Tax benefit (expense) 4 2 ( 4 ) Other comprehensive income (loss), net of tax 101 ( 64 ) 57 Balance at end of period $ ( 445 ) $ ( 546 ) $ ( 482 ) Derivative instruments: Balance at beginning of period $ ( 7 ) $ ( 12 ) $ — Other comprehensive income (loss) before reclassification adjustment — 4 ( 12 ) Reclassification adjustment into Interest expense, net 1 1 — Other comprehensive income (loss), net of tax 1 5 ( 12 ) Balance at end of period $ ( 6 ) $ ( 7 ) $ ( 12 ) Defined Benefit Plans: Balance at beginning of period $ ( 1,986 ) $ ( 2,046 ) $ ( 1,996 ) Other comprehensive income (loss) before reclassification adjustment ( 13 ) 44 ( 130 ) Tax benefit (expense) 3 ( 9 ) 34 Other comprehensive income (loss) before reclassification adjustment, net of tax ( 10 ) 35 ( 96 ) Reclassification adjustment - Actuarial net losses into Other income (expense) 37 34 61 Reclassification adjustment - Prior service benefits into Other income (expense) — — 1 Tax expense ( 10 ) ( 9 ) ( 16 ) Reclassification adjustments into Net earnings, net of tax 27 25 46 Other comprehensive income (loss), net of tax 17 60 ( 50 ) Balance at end of period $ ( 1,969 ) $ ( 1,986 ) $ ( 2,046 ) Total Accumulated other comprehensive loss $ ( 2,420 ) $ ( 2,539 ) $ ( 2,540 )
+[END TABLE 068]
+
+[TABLE 069]
+December 31 2025 2024 7.5 % debentures due 2025 $ — $ 252 6.5 % debentures due 2025 — 70 364 day term loan 749 — 4.6 % senior notes due 2028 698 696 Term loan due 2028 748 — 6.5 % debentures due 2028 24 24 5.0 % senior notes due 2029 397 396 4.6 % senior notes due 2029 802 802 2.3 % senior notes due 2030 896 895 4.85 % senior notes due 2030 595 — 2.75 % senior notes due 2031 847 846 5.2 % senior notes due 2032 496 — 5.6 % senior notes due 2032 597 596 5.4 % senior notes due 2034 894 893 5.55 % senior notes due 2035 892 — 6.625 % senior notes due 2037 38 38 5.5 % senior notes due 2044 397 397 5.22 % debentures due 2097 93 93 9,163 5,998 Adjustments for unamortized gains on interest rate swap terminations ( 1 ) ( 1 ) Less: current portion ( 749 ) ( 322 ) Long-term debt $ 8,413 $ 5,675
+[END TABLE 069]
+
+[TABLE 070]
+Notional Amount Net Buy (Sell) by Currency 2025 2024 British pound $ 301 $ 124 Euro 191 150 Australian dollar ( 160 ) ( 136 ) Canadian dollar 115 70 Danish krone 58 23
+[END TABLE 070]
+
+[TABLE 071]
+Fair Values of Derivative Instruments December 31, 2025 Other Current Assets Accrued Liabilities Derivatives designated as hedging instruments: Foreign exchange contracts $ — $ 19 Derivatives not designated as hedging instruments: Foreign exchange contracts $ 10 $ — Total derivatives $ 10 $ 19
+[END TABLE 071]
+
+[TABLE 072]
+Fair Values of Derivative Instruments December 31, 2024 Other Current Assets Accrued Liabilities Derivatives designated as hedging instruments: Foreign exchange contracts $ 7 $ — Derivatives not designated as hedging instruments: Foreign exchange contracts $ 3 $ 9 Equity swap contracts — 1 Total derivatives $ 10 $ 10
+[END TABLE 072]
+
+[TABLE 073]
+Financial Statement Location 2025 2024 2023 Derivatives designated as hedging instruments: Foreign exchange contracts Accumulated other comprehensive income (loss) $ ( 24 ) $ 9 $ ( 4 ) Amortized hedge income Other income (expense) 6 2 3 Treasury rate lock settlement Accumulated other comprehensive income (loss) — 4 ( 12 ) Amortization of treasury rate lock Other income (expense) ( 1 ) ( 1 ) — Derivatives not designated as hedging instruments: Foreign exchange contracts Other income (expense) $ 42 $ ( 19 ) $ 20 Equity swap contracts Selling, general and administrative expenses 2 3 1
+[END TABLE 073]
+
+[TABLE 074]
+Years ended December 31 2025 2024 2023 United States $ 2,130 $ 1,741 $ 1,791 Foreign 682 231 355 $ 2,812 $ 1,972 $ 2,146
+[END TABLE 074]
+
+[TABLE 075]
+Years ended December 31 2025 2024 2023 Current income tax expense United States Federal $ 259 $ 410 $ 253 Foreign 183 62 141 States (U.S.) 116 133 70 Total current income tax expense $ 558 $ 605 $ 464 Deferred income tax expense (benefit) United States Federal $ 101 $ ( 207 ) $ ( 24 ) Foreign 7 23 ( 17 ) States (U.S.) ( 14 ) ( 31 ) 9 Total deferred income tax expense (benefit) $ 94 $ ( 215 ) $ ( 32 ) Total income tax expense $ 652 $ 390 $ 432
+[END TABLE 075]
+
+[TABLE 076]
+Years ended December 31 2025 2024 2023 U.S. Federal Statutory Tax Rate $ 591 21.0 % $ 414 21.0 % $ 450 21.0 % State and Local Income Taxes, Net of Federal Income tax effect (1) 80 2.8 % 81 4.1 % 62 2.9 % Foreign Tax Effects Other foreign jurisdictions 40 1.4 % 24 1.2 % 40 1.9 % Effect of Cross-Border Tax Laws Foreign-derived intangible income ( 14 ) ( 0.5 ) % ( 99 ) ( 5.0 ) % ( 38 ) ( 1.8 ) % Other 6 0.2 % ( 1 ) ( 0.1 ) % 7 0.3 % Tax Credits Foreign tax credit ( 24 ) ( 0.8 ) % ( 113 ) ( 5.7 ) % ( 26 ) ( 1.2 ) % Research & development credit ( 17 ) ( 0.6 ) % ( 22 ) ( 1.1 ) % ( 19 ) ( 0.9 ) % Changes in Valuation Allowances — — % 2 0.1 % ( 16 ) ( 0.7 ) % Nontaxable or Nondeductible Items Excess tax benefits on share-based payments ( 38 ) ( 1.4 ) % ( 35 ) ( 1.8 ) % ( 29 ) ( 1.4 ) % Extinguishment of Silver Lake convertible debt — — % 124 6.3 % — — % Other 24 0.8 % 17 0.8 % 5 0.2 % Changes in Unrecognized Tax Benefits 3 0.1 % ( 6 ) ( 0.3 ) % ( 3 ) ( 0.1 ) % Other Adjustments 1 — % 4 0.2 % ( 1 ) ( 0.1 ) % Effective Tax Rate $ 652 23.2 % $ 390 19.8 % $ 432 20.1 % (1) The States that contribute to the majority (greater than 50%) of the tax effect in this category include Illinois, California, New York, Florida, New Jersey, and Pennsylvania for all years, as well as Virginia for 2025. *Percentages may not add due to rounding.
+[END TABLE 076]
+
+[TABLE 077]
+Years ended December 31 2025 2024 2023 United States Federal $ 349 $ 431 $ 335 States (U.S.) 109 130 92 Foreign: Canada* * * 83 Other 111 66 77 Total $ 569 $ 627 $ 587 *The amount of income taxes paid during the year does not meet the 5% disaggregation threshold.
+[END TABLE 077]
+
+[TABLE 078]
+December 31 2025 2024 Inventory $ 30 $ 30 Accrued liabilities and allowances 105 87 Employee benefits 212 221 Capitalized items ( 237 ) 391 Tax basis differences on investments 5 2 Depreciation tax basis differences on fixed assets ( 62 ) ( 31 ) Undistributed non-U.S. earnings ( 28 ) ( 23 ) Tax attribute carryforwards 152 98 Business reorganization 6 7 Warranty and customer liabilities 28 24 Deferred revenue and costs 457 420 Valuation allowances ( 59 ) ( 62 ) Operating lease assets ( 142 ) ( 128 ) Operating lease liabilities 147 134 Other 23 24 $ 637 $ 1,194
+[END TABLE 078]
+
+[TABLE 079]
+December 31, 2025 Gross Tax Loss Tax Effected Expiration Period United States: U.S. tax losses $ 245 $ 52 2026-2038 Foreign tax credits — 6 2028-2035 General business credits — 1 2030-2036 Minimum tax credits — 25 Unlimited State tax losses — 10 2028-2045 State tax credits — 3 2026-2039 Non-U.S. subsidiaries: United Kingdom tax losses 152 38 Unlimited Canada tax losses 17 5 2035-2045 Canada tax credits — 3 2042-2045 Other subsidiaries tax losses 47 9 Various $ 461 $ 152
+[END TABLE 079]
+
+[TABLE 080]
+(in millions) 2025 2024 Balance at January 1 $ 42 $ 32 Additions based on tax positions related to current year 2 1 Additions for tax positions of prior years 3 18 Reductions for tax positions of prior years ( 1 ) ( 1 ) Settlements and agreements ( 1 ) ( 5 ) Lapse of statute of limitations ( 1 ) ( 3 ) Balance at December 31 $ 44 $ 42
+[END TABLE 080]
+
+[TABLE 081]
+Jurisdiction Tax Years United States 2021-2025 Australia 2021-2025 Canada 2021-2025 Germany 2018-2025 India 1997-2025 Ireland 2021-2025 Israel 2023-2025 Poland 2020-2025 Malaysia 2018-2025 United Kingdom 2023-2025
+[END TABLE 081]
+
+[TABLE 082]
+U.S. Pension Benefit Plans Non-U.S. Pension Benefit Plans Postretirement Health Care Benefits Plan Years ended December 31 2025 2024 2023 2025 2024 2023 2025 2024 2023 Service cost $ — $ — $ — $ 1 $ 1 $ 1 $ — $ — $ — Interest cost 201 189 190 58 57 56 5 4 5 Expected return on plan assets ( 305 ) ( 298 ) ( 293 ) ( 108 ) ( 104 ) ( 108 ) ( 13 ) ( 13 ) ( 13 ) Amortization of: Unrecognized net loss 25 25 22 7 6 37 5 3 2 Unrecognized prior service benefit — — — ( 3 ) ( 3 ) ( 2 ) 3 3 3 Net periodic cost (benefit) $ ( 79 ) $ ( 84 ) $ ( 81 ) $ ( 45 ) $ ( 43 ) $ ( 16 ) $ — $ ( 3 ) $ ( 3 )
+[END TABLE 082]
+
+[TABLE 083]
+U.S. Pension Benefit Plans Non-U.S. Pension Benefit Plans Postretirement Health Care Benefits Plan 2025 2024 2025 2024 2025 2024 Change in benefit obligation: Benefit obligation at January 1 $ 3,755 $ 3,928 $ 1,163 $ 1,347 $ 105 $ 96 Service cost — — 1 1 — — Interest cost 201 189 58 57 5 4 Actuarial loss (gain) 76 ( 220 ) ( 51 ) ( 156 ) ( 4 ) 17 Foreign exchange valuation adjustment — — 100 ( 32 ) — — Benefit payments ( 167 ) ( 142 ) ( 60 ) ( 54 ) ( 11 ) ( 12 ) Benefit obligation at December 31 $ 3,865 $ 3,755 $ 1,211 $ 1,163 $ 95 $ 105 Change in plan assets: Fair value at January 1 $ 3,249 $ 3,273 $ 1,083 $ 1,172 $ 128 $ 134 Return on plan assets 360 112 54 ( 23 ) 15 6 Company contributions 7 6 11 9 — — Foreign exchange valuation adjustment — — 84 ( 21 ) — — Benefit payments ( 167 ) ( 142 ) ( 60 ) ( 54 ) ( 11 ) ( 12 ) Fair value at December 31 $ 3,449 $ 3,249 $ 1,172 $ 1,083 $ 132 $ 128 Funded status of the plan $ ( 416 ) $ ( 506 ) $ ( 39 ) $ ( 80 ) $ 37 $ 23 Unrecognized net loss 1,631 1,635 790 796 76 88 Unrecognized prior service benefit (cost) — — ( 61 ) ( 64 ) 38 41 Prepaid pension cost $ 1,215 $ 1,129 $ 690 $ 652 $ 151 $ 152 Components of prepaid (accrued) pension cost: Current benefit liability $ ( 2 ) $ ( 3 ) $ — $ — $ — $ — Non-current benefit liability ( 414 ) ( 503 ) ( 196 ) ( 194 ) — — Non-current benefit asset — — 157 114 37 23 Deferred income taxes 388 388 94 95 31 35 Accumulated other comprehensive loss 1,243 1,247 635 637 83 94 Prepaid pension cost $ 1,215 $ 1,129 $ 690 $ 652 $ 151 $ 152
+[END TABLE 083]
+
+[TABLE 084]
+U.S. Pension Benefit Plans Non-U.S. Pension Benefit Plans Postretirement Health Care Benefits Plan 2025 2024 2025 2024 2025 2024 Discount rate 5.46 % 4.90 % 4.87 % 4.27 % 5.18 % 4.89 % Investment return assumption 8.01 % 7.74 % 6.29 % 5.84 % 8.55 % 8.30 %
+[END TABLE 084]
+
+[TABLE 085]
+U.S. Pension Benefit Plans Non-U.S. Pension Benefit Plans Postretirement Health Care Benefits Plan 2025 2024 2025 2024 2025 2024 Discount rate 5.50 % 5.70 % 5.25 % 5.07 % 5.12 % 5.49 % Future compensation increase rate n/a n/a 0.61 % 0.67 % n/a n/a
+[END TABLE 085]
+
+[TABLE 086]
+U.S. Pension Benefit Plans Non U.S. Pension Benefit Plans December 31 2025 2024 2025 2024 Accumulated benefit obligation $ 3,865 $ 3,775 $ 1,210 $ 1,162 Projected benefit obligation 3,865 3,755 1,211 1,163 Fair value of plan assets 3,449 3,249 1,172 1,083
+[END TABLE 086]
+
+[TABLE 087]
+All Pension Benefit Plans Postretirement Health Care Benefits Plan December 31 2025 2024 2025 2024 Target Mix: Equity securities 22 % 23 % 25 % 25 % Fixed income securities 61 % 61 % 56 % 57 % Cash and other investments 17 % 16 % 19 % 18 % Actual Mix: Equity securities 21 % 22 % 24 % 24 % Fixed income securities 61 % 60 % 56 % 56 % Cash and other investments 18 % 18 % 20 % 20 %
+[END TABLE 087]
+
+[TABLE 088]
+Year U.S. Pension Benefit Plans Non-U.S. Pension Benefit Plans Postretirement Health Care Benefits Plan 2026 $ 189 $ 63 $ 13 2027 205 64 12 2028 222 65 11 2029 239 66 10 2030 255 67 10 2031-2035 1,445 351 36
+[END TABLE 088]
+
+[TABLE 089]
+2025 2024 2023 Expected volatility 24.4 % 21.4 % 24.4 % Risk-free interest rate 3.9 % 4.3 % 4.2 % Dividend yield 1.3 % 1.4 % 1.6 % Expected life (years) 5.9 5.9 5.9
+[END TABLE 089]
+
+[TABLE 090]
+2025 2024 2023 Performance Options Performance Options Performance Options Expected volatility of common stock 24.9 % 21.7 % 25.1 % Expected volatility of the S&P 500 29.8 % 30.5 % 33.3 % Risk-free interest rate 4.1 % 4.3 % 4.1 % Dividend yield 1.3 % 1.4 % 1.7 % Expected life (years) 6.5 6.5 6.5
+[END TABLE 090]
+
+[TABLE 091]
+2025 2024 2023 Market Stock Unit Market Stock Unit Market Stock Units Expected volatility of common stock 24.9 % 21.7 % 25.1 % Risk-free interest rate 3.9 % 4.4 % 4.5 % Dividend yield 1.1 % 1.3 % 1.5 %
+[END TABLE 091]
+
+[TABLE 092]
+2025 2024 2023 Performance Stock Units Performance Stock Units Performance Stock Units Expected volatility of common stock 24.9 % 21.7 % 25.1 % Expected volatility of the S&P 500 29.8 % 30.8 % 33.3 % Risk-free interest rate 3.9 % 4.3 % 4.6 % Dividend yield 1.1 % 1.1 % 1.4 %
+[END TABLE 092]
+
+[TABLE 093]
+Options Outstanding Options Exercisable Exercise price range No. of options Wtd. avg. Exercise Price Wtd. avg. contractual life (in yrs.) No. of options Wtd. avg. Exercise Price Wtd. avg. contractual life (in yrs.) $ 70 -$ 100 495 $ 79 1 495 $ 79 1 $ 101 -$ 200 797 146 4 797 146 4 $ 201 -$ 300 526 237 6 390 227 6 $ 301 -$ 400 199 345 8 28 341 8 $ 401 and over 182 422 9 9 448 9 2,199 1,719
+[END TABLE 093]
+
+[TABLE 094]
+Stock Options Restricted Stock Units Restricted Stock No. of Options Outstanding Wtd. Avg. Exercise Price of Shares No. of Non-Vested Awards Wtd. Avg. Grant Date Fair Value No. of Non-Vested Awards Wtd. Avg. Grant Date Fair Value Balance as of January 1, 2025 491 $ 230 1,275 $ 275 65 $ 397 Granted 93 414 685 418 74 434 Releases/Exercised ( 115 ) 226 ( 626 ) 268 ( 39 ) 166 Forfeited/Canceled ( 7 ) 362 ( 50 ) 337 — — Balance as of December 31, 2025 462 $ 267 1,284 $ 352 100 $ 420 Awards exercisable 288 205 — — — —
+[END TABLE 094]
+
+[TABLE 095]
+Performance Options Market Stock Units Performance Stock Units No. of Options Outstanding Wtd. Avg. Exercise Price of Shares No. of Non-Vested Awards Wtd. Avg. Grant Date Fair Value No. of Non-Vested Awards Wtd. Avg. Grant Date Fair Value Balance as of January 1, 2025 1,731 $ 144 79 $ 331 264 $ 407 Granted 96 414 37 450 54 446 Releases/Exercised ( 268 ) 99 ( 67 ) 296 ( 166 ) 416 Adjustment for payout factor 178 222 27 228 99 381 Forfeited/Canceled — — — — ( 3 ) 422 Balance as of December 31, 2025 1,737 $ 174 76 $ 402 248 $ 457 Awards exercisable 1,431 139 — — — —
+[END TABLE 095]
+
+[TABLE 096]
+Years ended December 31 2025 2024 2023 Share-based compensation expense included in: Costs of sales $ 57 $ 48 $ 40 Selling, general and administrative expenses 162 132 116 Research and development expenditures 74 63 56 Share-based compensation expense included in Operating earnings 293 243 212 Tax benefit 62 51 43 Share-based compensation expense, net of tax $ 231 $ 192 $ 169 Decrease in basic earnings per share $ ( 1.39 ) $ ( 1.15 ) $ ( 1.01 ) Decrease in diluted earnings per share $ ( 1.37 ) $ ( 1.12 ) $ ( 0.98 )
+[END TABLE 096]
+
+[TABLE 097]
+December 31, 2025 Level 1 Level 2 Level 3 Total Assets: Foreign exchange derivative contracts $ — $ 10 $ — $ 10 Common stock and equivalents 42 — — 42 Liabilities: Foreign exchange derivative contracts $ — $ 19 $ — $ 19 Contingent earnout consideration (Note 15) — — 37 37
+[END TABLE 097]
+
+[TABLE 098]
+December 31, 2024 Level 1 Level 2 Total Assets: Foreign exchange derivative contracts $ — $ 10 $ 10 Common stock and equivalents 23 — 23 Liabilities: Foreign exchange derivative contracts $ — $ 9 $ 9 Equity swap contracts 1 — 1
+[END TABLE 098]
+
+[TABLE 099]
+December 31, 2025 Level 1 Level 2 Level 3 Total Equities $ 24 $ — $ — $ 24 Commingled funds 1,200 422 — 1,622 Government fixed income securities — 347 — 347 Corporate fixed income securities — 919 — 919 Short-term investment funds 231 — — 231 Private assets — — 238 238 Total investment securities $ 1,455 $ 1,688 $ 238 $ 3,381 Accrued income receivable 51 Cash 17 Fair value plan assets $ 3,449
+[END TABLE 099]
+
+[TABLE 100]
+2025 Fair value at January 1, 2025 $ 203 Actual return on plan assets 27 Purchases 8 Fair value at December 31, 2025 $ 238
+[END TABLE 100]
+
+[TABLE 101]
+December 31, 2024 Level 1 Level 2 Level 3 Total Equities $ 23 $ — $ — $ 23 Commingled funds 1,039 404 — 1,443 Government fixed income securities — 239 — 239 Corporate fixed income securities — 905 — 905 Short-term investment funds 258 — — 258 Private Assets — — 203 203 Total investment securities $ 1,320 $ 1,548 $ 203 $ 3,071 Accrued income receivable 162 Cash 16 Fair value plan assets $ 3,249
+[END TABLE 101]
+
+[TABLE 102]
+December 31, 2025 Level 1 Level 2 Total Equities $ 64 $ — $ 64 Commingled funds 205 33 238 Government fixed income securities — 755 755 Short-term investment funds 41 — 41 Total investment securities $ 310 $ 788 $ 1,098 Cash 5 Accrued income receivable 21 Insurance contracts 48 Fair value plan assets $ 1,172
+[END TABLE 102]
+
+[TABLE 103]
+December 31, 2024 Level 1 Level 2 Total Equities $ 53 $ — $ 53 Commingled funds 236 35 271 Government fixed income securities — 615 615 Short-term investment funds 56 — 56 Total investment securities $ 345 $ 650 $ 995 Cash 4 Accrued income receivable 42 Insurance contracts 42 Fair value plan assets $ 1,083
+[END TABLE 103]
+
+[TABLE 104]
+December 31, 2025 Level 1 Level 2 Level 3 Total Equities $ 1 $ — $ — $ 1 Commingled funds 44 17 — 61 Government fixed income securities — 13 — 13 Corporate fixed income securities — 37 — 37 Short-term investment funds 9 — — 9 Private funds — — 9 9 Total investment securities $ 54 $ 67 $ 9 $ 130 Accrued income receivable 2 Fair value plan assets $ 132
+[END TABLE 104]
+
+[TABLE 105]
+2025 Fair value at January 1, 2025 $ 8 Actual return on plan assets 1 Fair value at December 31, 2025 $ 9
+[END TABLE 105]
+
+[TABLE 106]
+December 31, 2024 Level 1 Level 2 Level 3 Total Equities $ 1 $ — $ — $ 1 Commingled funds 40 16 — 56 Government fixed income securities — 10 — 10 Corporate fixed income securities — 37 — 37 Short-term investment funds 10 — — 10 Private funds — — 8 8 Total investment securities $ 51 $ 63 $ 8 $ 122 Accrued income receivable 6 Fair value plan assets $ 128
+[END TABLE 106]
+
+[TABLE 107]
+December 31 2025 2024 Long-term receivables, gross $ 93 $ 65 Less allowance for losses ( 2 ) ( 2 ) Long-term receivables $ 91 $ 63 Less current portion ( 32 ) ( 22 ) Non-current long-term receivables $ 59 $ 41
+[END TABLE 107]
+
+[TABLE 108]
+Years ended December 31 2025 2024 2023 Accounts receivable sales proceeds $ 156 $ 15 $ 96 Long-term receivables sales proceeds 258 205 182 Total proceeds from receivable sales $ 414 $ 220 $ 278
+[END TABLE 108]
+
+[TABLE 109]
+December 31, 2025 Total Long-term Receivable Current Billed Due Past Due Under 90 Days Past Due Over 90 Days Municipal leases secured tax exempt $ 58 $ 9 $ 1 $ 1 Commercial loans and leases secured 35 3 — 1 Long-term receivables, including current portion $ 93 $ 12 $ 1 $ 2
+[END TABLE 109]
+
+[TABLE 110]
+December 31, 2024 Total Long-term Receivable Current Billed Due Past Due Under 90 Days Past Due Over 90 Days Municipal leases secured tax exempt $ 31 $ 2 $ 1 $ 1 Commercial loans and leases secured 34 3 — 1 Long-term receivables, including current portion $ 65 $ 5 $ 1 $ 2
+[END TABLE 110]
+
+[TABLE 111]
+2025 2024 2023 Years ended December 31 Products and Systems Integration Software and Services Total Products and Systems Integration Software and Services Total Products and Systems Integration Software and Services Total Net sales $ 7,253 $ 4,429 $ 11,682 $ 6,883 $ 3,934 $ 10,817 $ 6,242 $ 3,736 $ 9,978 Costs of sales 3,338 2,309 5,647 3,215 2,090 5,305 3,115 1,893 5,008 Gross margin 3,915 2,120 6,035 3,668 1,844 5,512 3,127 1,843 4,970 Selling, general and administrative expenses 1,478 392 1,870 1,392 360 1,752 1,239 322 1,561 Research and development expenditures 598 372 970 575 342 917 551 307 858 Other charges 78 129 207 25 130 155 93 163 257 Operating earnings $ 1,761 $ 1,227 $ 2,988 $ 1,676 $ 1,012 $ 2,688 $ 1,244 $ 1,050 $ 2,294 Total other expense ( 176 ) ( 716 ) ( 148 ) Net earnings before income taxes $ 2,812 $ 1,972 $ 2,146
+[END TABLE 111]
+
+[TABLE 112]
+Capital Expenditures Depreciation Expense Years ended December 31 2025 2024 2023 2025 2024 2023 Products and Systems Integration $ 131 $ 103 $ 97 $ 92 $ 90 $ 83 Software and Services 134 154 156 99 94 96 $ 265 $ 257 $ 253 $ 191 $ 184 $ 179
+[END TABLE 112]
+
+[TABLE 113]
+Net Sales Assets Years ended December 31 2025 2024 2023 2025 2024 2023 United States $ 7,929 $ 7,432 $ 6,559 $ 15,365 $ 11,456 $ 10,207 United Kingdom 603 572 769 2,538 2,190 2,034 Canada 433 388 373 435 383 362 Other 2,717 2,425 2,277 1,051 566 733 $ 11,682 $ 10,817 $ 9,978 $ 19,389 $ 14,595 $ 13,336
+[END TABLE 113]
+
+[TABLE 114]
+Year ended December 31 2025 Products and Systems Integration $ 42 Software and Services 18 $ 60
+[END TABLE 114]
+
+[TABLE 115]
+Accruals at January 1 Additional Charges Adjustments Amount Used Accruals at December 31 Reorganization costs $ 27 $ 62 $ ( 4 ) $ ( 61 ) $ 24 Exit costs 1 2 — ( 3 ) — $ 28 $ 64 $ ( 4 ) $ ( 64 ) $ 24
+[END TABLE 115]
+
+[TABLE 116]
+Year ended December 31 2024 Products and Systems Integration $ 32 Software and Services 6 $ 38
+[END TABLE 116]
+
+[TABLE 117]
+Accruals at January 1 Additional Charges Adjustments Amount Used Accruals at December 31 Reorganization costs $ 23 $ 48 $ ( 6 ) $ ( 38 ) $ 27 Exit costs 5 — ( 4 ) — 1 $ 28 $ 48 $ ( 10 ) $ ( 38 ) $ 28
+[END TABLE 117]
+
+[TABLE 118]
+Year ended December 31 2023 Products and Systems integration $ 45 Software and Services 8 $ 53
+[END TABLE 118]
+
+[TABLE 119]
+2025 2024 December 31 (in millions) Gross Carrying Amount Accumulated Amortization Gross Carrying Amount Accumulated Amortization Intangible assets: Developed technology $ 2,285 $ 679 $ 1,226 $ 535 Customer-related 2,515 1,190 1,609 1,093 Trade name 247 74 103 61 Other intangibles 15 15 15 15 $ 5,062 $ 1,958 $ 2,953 $ 1,704
+[END TABLE 119]
+
+[TABLE 120]
+2025 2024 December 31 (in millions) Gross Carrying Amount Accumulated Amortization Gross Carrying Amount Accumulated Amortization Products and Systems Integration $ 2,707 $ 552 $ 1,017 $ 409 Software and Services 2,355 1,406 1,936 1,295 $ 5,062 $ 1,958 $ 2,953 $ 1,704
+[END TABLE 120]
+
+[TABLE 121]
+(in millions) Products and Systems Integration Software and Services Total Balance as of January 1, 2024 $ 1,568 $ 1,833 $ 3,401 Goodwill acquired 16 128 144 Purchase accounting adjustments ( 9 ) 3 ( 6 ) Foreign currency translation ( 2 ) ( 11 ) ( 13 ) Balance as of December 31, 2024 $ 1,573 $ 1,953 $ 3,526 Goodwill acquired 2,654 606 3,260 Purchase accounting adjustments — ( 4 ) ( 4 ) Foreign currency translation 2 16 18 Balance as of December 31, 2025 $ 4,229 $ 2,571 $ 6,800
+[END TABLE 121]
+
+[TABLE 122]
+Balance at Beginning of Period Charged to Earnings Used Adjustments* Balance at End of Period 2025 Allowance for credit losses $ 83 $ 39 $ ( 39 ) $ — $ 83 2024 Allowance for credit losses 69 49 ( 35 ) — 83 2023 Allowance for credit losses 61 29 ( 21 ) — 69
+[END TABLE 122]
+
+[TABLE 123]
+2.1+ Purchase Agreement, dated as of May 27, 2025, by and among Motorola Solutions, Inc., Silvus Technologies Group LLC and Silvus Technologies Holdings Inc. (incorporated by reference to Exhibit 2.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on May 27, 2025). 3.1 Restated Certificate of Incorporation of Motorola Solutions, Inc., dated May 15, 2024 (incorporated by reference to Exhibit 3.1 to Motorola Solutions, Inc.'s Quarterly Report on Form 10-Q for the fiscal quarter ended June 29, 2024). 3.2 Amended and Restated Bylaws of Motorola Solutions, Inc. effective as of November 17, 2022 (incorporated by reference to Exhibit 3.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on November 18, 2022). 4.1 (a) Senior Indenture, dated as of May 1, 1995, between The Bank of New York Mellon Trust Company, N.A. (as successor Trustee to JPMorgan Chase Bank (as successor in interest to Bank One Trust Company) and BNY Midwest Trust Company (as successor in interest to Harris Trust and Savings Bank) and Motorola, Inc. (incorporated by reference to Exhibit 4(d) of the Registrant's Registration Statement on Form S-3 filed on September 25, 1995). 4.1 (b) Instrument of Resignation, Appointment and Acceptance, dated as of January 22, 2001, among Motorola, Inc., Bank One Trust Company, N.A. and BNY Midwest Trust Company (as successor in interest to Harris Trust and Savings Bank) (incorporated by reference to Exhibit 4.2(b) to Motorola, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2000). 4.1 (c) Indenture, dated as of August 19, 2014, between Motorola Solutions, Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference to Exhibit 4.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on August 19, 2014). Certain instruments defining the rights of holders of long-term debt of Motorola Solutions, Inc. and all of its subsidiaries for which consolidated or unconsolidated financial statements are required to be filed are being omitted pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K. Motorola Solutions, Inc. agrees to furnish a copy of any such instrument to the SEC upon request. 4.2 Description of the Registrant's Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934 (incorporated by reference to Exhibit 4.2 to Motorola Solutions, Inc.'s Annual Report on Form 10-K for the fiscal year ended December 31, 2023). 10.1 Amended and Restated Master Separation and Distribution Agreement, effective as of July 31, 2010, among Motorola Mobility Holdings, Inc. (f/k/a Motorola SpinCo Holdings Corporation), Motorola Mobility, Inc. and Motorola, Inc. (incorporated by reference to Exhibit 2.1 to Amendment No. 1 to the Form 10 Registration Statement filed on August 31, 2010 by Motorola Mobility Holdings, Inc. (formerly Motorola SpinCo Holdings Corporation)). 10.2 Amended and Restated Intellectual Property License Agreement, effective as of July 31, 2010, between Motorola Mobility, Inc. and Motorola, Inc. (incorporated by reference to Exhibit 10.2 to Amendment No. 1 to the Form 10 Registration Statement filed on August 31, 2010 by Motorola Mobility Holdings, Inc. (formerly Motorola SpinCo Holdings Corporation)). 10.3 Amended and Restated Exclusive License Agreement, effective as of July 30, 2010, between Motorola Trademark Holdings, LLC and Motorola, Inc. (incorporated by reference to Exhibit 10.3 to Amendment No. 3 to the Form 10 Registration Statement filed on November 12, 2010 by Motorola Mobility Holdings, Inc.). 10.4 Tax Sharing Agreement, effective as of July 31, 2010, among Motorola Mobility Holdings, Inc. (f/k/a Motorola SpinCo Holdings Corporation), Motorola Mobility, Inc. and Motorola, Inc. (incorporated by reference to Exhibit 10.4 to Amendment No. 1 to the Form 10 Registration Statement filed on August 31, 2010 by Motorola Mobility Holdings, Inc. (formerly Motorola SpinCo Holdings Corporation)). 10.5 Motorola Solutions Omnibus Incentive Plan of 2015 (f/k/a the Motorola Omnibus Incentive Plan of 2006), as amended and restated effective May 18, 2015 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on May 21, 2015). 10.6 First Amendment to the Motorola Solutions Omnibus Incentive Plan of 2015 (f/k/a the Motorola Omnibus Incentive Plan of 2006), as amended and restated effective May 18, 2015 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended September 26, 2020). 10.7 Motorola Solutions Amended and Restated Omnibus Incentive Plan of 2015, effective as of May 17, 2022 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on May 20, 2022).
+[END TABLE 123]
+
+[TABLE 124]
+10.8 Form of Motorola Solutions, Inc. Performance Option Award Agreement for grants to Section 16 Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.11 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.9 Form of Motorola Solutions, Inc. Performance Option Award Agreement for grants to Section 16 Officers from March 10, 2022 to March 8, 2023 (incorporated by reference to Exhibit 10.9 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.10 Form of Motorola Solutions, Inc. Performance Option Award Agreement for grants to Section 16 Officers from February 14, 2019 to March 9, 2022 (incorporated by reference to Exhibit 10.2 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 30, 2019). 10.11 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options for grants to Section 16 Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.8 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.12 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options for grants to Section 16 Officers from March 10, 2022 to March 8, 2023 (incorporated by reference to Exhibit 10.6 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.13 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options for grants to Section 16 Officers from May 6, 2013 to March 9, 2022 (incorporated by reference to Exhibit 10.2 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended June 29, 2013). 10.14 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options for grants on or after March 9, 2023 (incorporated by reference to Exhibit 10.5 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.15 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options relating to the Motorola Solutions Omnibus Incentive Plan of 2015, as amended, for grants from March 10, 2022 to March 8, 2023 (incorporated by reference to Exhibit 10.3 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.16 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options relating to the Motorola Solutions Omnibus Incentive Plan of 2015 for grants from February 15, 2018 to March 9, 2022 (incorporated by reference to Exhibit 10.4 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 31, 2018). 10.17 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options relating to the Motorola Solutions Omnibus Incentive Plan of 2015 for grants from March 9, 2017 to February 14, 2018 (incorporated by reference to Exhibit 10.6 to Motorola Solutions’ Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2017). 10.18 Form of Motorola Solutions, Inc. Award Document-Terms and Conditions Related to Employee Nonqualified Stock Options relating to the Motorola Solutions Omnibus Incentive Plan of 2006 for grants from February 3, 2014 to March 8, 2017 (incorporated by reference to Exhibit 10.9 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2013). 10.19 Form of Motorola Solutions, Inc. Stock Option Consideration Agreement for grants on or after March 9, 2023 (incorporated by reference to Exhibit 10.6 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.20 Form of Motorola Solutions, Inc. Stock Option Consideration Agreement for grants from March 10, 2022 to March 8, 2023 (incorporated by reference to Exhibit 10.4 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.21 Form of Motorola Solutions, Inc. Stock Option Consideration Agreement for grants from March 9, 2017 to March 9, 2022 (incorporated by reference to Exhibit 10.7 to Motorola Solutions, Inc.'s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2017). 10.22 Form of Motorola Solutions Stock Option Consideration Agreement for grants from February 3, 2014 to March 8, 2017 (incorporated by reference to Exhibit 10.14 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2013). 10.23 Form of Motorola Solutions, Inc. Market Stock Unit Award Agreement for grants to Section 16 Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.10 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.24 Form of Motorola Solutions, Inc. Restricted Stock Unit Award Agreement for grants to Section 16 Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.12 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.25 Form of Motorola Solutions, Inc. Restricted Stock Unit Award Agreement for grants to Appointed Vice Presidents and Elected Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.3 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.26 Form of Motorola Solutions, Inc. Restricted Stock Unit Agreement relating to the Motorola Solutions Omnibus Incentive Plan of 2015, as amended, for grants to Appointed Vice Presidents and Elected Officers from March 10, 2022 to March 8, 2023 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.27 Form of Motorola Solutions, Inc. Restricted Stock Unit Award Agreement for grants to Employees on or after March 9, 2023 (incorporated by reference to Exhibit 10.4 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023).
+[END TABLE 124]
+
+[TABLE 125]
+10.28 Form of Motorola Solutions, Inc. Restricted Stock Unit Agreement relating to the Motorola Solutions Omnibus Incentive Plan of 2015, as amended, for grants to Employees from March 10, 2022 to March 8, 2023 (incorporated by reference to Exhibit 10.2 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.29 Form of Motorola Solutions, Inc. Performance Stock Unit Award Agreement for grants to non-Section 16 Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.7 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.30 Form of Motorola Solutions, Inc. Performance Stock Unit Award Agreement for grants to Messrs. Molloy, Saptharishi, and Winkler on November 11, 2024 (incorporated by reference to Exhibit 10.35 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2024). 10.31 Form of Motorola Solutions, Inc. Performance Stock Unit Award Agreement for grants to Section 16 Officers on or after March 9, 2023 (incorporated by reference to Exhibit 10.9 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.32 Form of Motorola Solutions, Inc. Performance Stock Unit Award Agreement for grants to Gregory Q. Brown on or after March 9, 2023 (incorporated by reference to Exhibit 10.13 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.33 Form of Motorola Solutions, Inc. Performance Option Award Agreement for grants to Gregory Q. Brown on or after March 9, 2023 (incorporated by reference to Exhibit 10.15 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.34 Form of Motorola Solutions, Inc. Performance Option Award Agreement for grants to Gregory Q. Brown from March 9, 2015 to March 8, 2023 (incorporated by reference to Exhibit 10.3 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on March 11, 2015). 10.35 Form of Motorola Solutions Stock Option Consideration Agreement for Gregory Q. Brown for grants on or after March 9, 2023 (incorporated by reference to Exhibit 10.16 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.36 Form of Motorola Solutions Stock Option Consideration Agreement for Gregory Q. Brown for grants from March 10, 2022 to March 8, 2023 under the Motorola Solutions Omnibus Incentive Plan of 2015, as amended (incorporated by reference to Exhibit 10.13 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 2, 2022). 10.37 Form of Motorola Solutions Stock Option Consideration Agreement for Gregory Q. Brown for grants from January 4, 2011 to March 9, 2022 under the Motorola Solutions Omnibus Incentive Plan of 2006 (incorporated by reference to Exhibit 10.27 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2010). 10.38 Form of Motorola Solutions, Inc. Market Stock Unit Award Agreement for grants to Gregory Q. Brown on or after March 9, 2023 (incorporated by reference to Exhibit 10.14 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.39 Form of Motorola Solutions Deferred Stock Units Agreement between Motorola Solutions, Inc. and its non-employee directors, relating to the deferred stock units issued in lieu of cash compensation to directors under the Motorola Solutions Omnibus Incentive Plan of 2006, for acquisitions on or after January 1, 2012 (incorporated by reference to Exhibit 10.37 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2011). 10.40 Form of Motorola Solutions Deferred Stock Units Award between Motorola Solutions, Inc. and its non-employee directors under the Motorola Solutions Omnibus Incentive Plan of 2006 or any successor plan for grants on or after January 1, 2012 (incorporated by reference to Exhibit 10.40 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2011). 10.41 Motorola Solutions Executive Officer Short Term Incentive Plan dated January 17, 2013 (effective January 1, 2013) (incorporated by reference to Exhibit 10.50 to Motorola Solutions’ Annual Report on Form 10-K for the fiscal year ended December 31, 2012). 10.42 Motorola Solutions Executive Officer Short Term Incentive Plan Term Sheet (incorporated by reference to Exhibit 10.51 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2012). 10.43 Motorola Solutions Long Range Incentive Plan (LRIP), as Amended and Restated February 11, 2021 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 3, 2021). 10.44 2023-2025 Performance Measures under the Motorola Solutions Long Range Incentive Plan (LRIP), as approved on February 24, 2023 (incorporated by reference to Exhibit 10.2 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended April 1, 2023). 10.45 2024-2026 Performance Measures under the Motorola Solutions Long Range Incentive Plan (LRIP), as approved on February 21, 2024 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 30, 2024). 10.46 2025-2027 Performance Measures under the Motorola Solutions Long Range Incentive Plan (LRIP), as approved on February 25, 2025 (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 29, 2025). 10.47 Motorola Solutions Management Deferred Compensation Plan (As Amended and Restated Effective as of June 1, 2013) (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.'s Current Report on Form 8-K filed on June 5, 2013).
+[END TABLE 125]
+
+[TABLE 126]
+10.48 Motorola Solutions, Inc. 2011 Senior Officer Change in Control Severance Plan, as amended and restated November 13, 2014 (incorporated by reference to Exhibit No. 10.54 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2014). 10.49 Motorola Solutions, Inc. 2011 Executive Severance Plan, as amended and restated November 13, 2014 (incorporated by reference to Exhibit No. 10.55 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2014). 10.50 Arrangement for directors’ fees for non-employee directors (description incorporated by reference from the information under the caption “How our Directors are Compensated” of Motorola Solutions Inc.’s Proxy Statement on Schedule 14A for the 2025 Annual Meeting of Shareholders filed on March 27, 2025 (“Motorola Solutions’ Proxy Statement”)). 10.51 Description of insurance covering non-employee directors and their spouses (including a description incorporated by reference from the information under the caption “How our Directors are Compensated” of the Motorola Solutions’ Proxy Statement, and incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.'s Quarterly Report on Form 10-Q for the fiscal quarter ended on June 29, 2024). 10.52 Employment Agreement, dated August 27, 2008, by and between Motorola, Inc. and Gregory Q. Brown (incorporated by reference to Exhibit 10.1 to Motorola, Inc.’s Current Report on Form 8-K filed on August 29, 2008). 10.53 Amendment dated December 15, 2008, to the Employment Agreement dated August 27, 2008 by and between Motorola, Inc. and Gregory Q. Brown (incorporated by reference to Exhibit No. 10.50 to Motorola, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2008). 10.54 Second Amendment, dated May 28, 2010, to the Employment Agreement dated August 27, 2008, as amended, by and between Motorola, Inc. and Gregory Q. Brown (incorporated by reference to Exhibit 10.1 to Motorola, Inc.’s Current Report on Form 8-K filed on May 28, 2010). 10.55 Third Amendment, dated March 10, 2014, to the Employment Agreement dated August 27, 2008, as amended, by and between Motorola Solutions, Inc. and Gregory Q. Brown (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on March 13, 2014). 10.56 Revolving Credit Agreement, dated as of April 25, 2025, among Motorola Solutions, Inc., JPMorgan Chase Bank, N.A., as administrative agent, and the several lenders and agents party thereto (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on April 25, 2025). 10.57+ 364-Day Term Loan Credit Agreement, dated as of July 21, 2025, among Motorola Solutions, Inc., the Banks party thereto and Mizuho Bank, Ltd., as Administrative Agent (incorporated by reference to Exhibit 10.1 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on July 21, 2025). 10.58+ Three-Year Term Loan Credit Agreement, dated as of July 21, 2025, between Motorola Solutions, Inc. and Bank of America, N.A., as Administrative Agent and Bank (incorporated by reference to Exhibit 10.2 to Motorola Solutions, Inc.’s Current Report on Form 8-K filed on July 21, 2025). * 10.59 Revised and Amended Aircraft Time Sharing Agreement, dated as of October 30, 2025, between Motorola Solutions, Inc. and Gregory Q. Brown. *19 Insider Trading Prohibitions Policy, effective as of January 1, 2026. *21 Subsidiaries of Motorola Solutions, Inc. *23.1 Consent of Independent Registered Public Accounting Firm. *31.1 Certification of Gregory Q. Brown pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. *31.2 Certification of Jason J. Winkler pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. * *32.1 Certification of Gregory Q. Brown pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. * *32.2 Certification of Jason J. Winkler pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 97 Motorola Solutions, Inc. Compensation Recoupment Policy, effective as of November 16, 2023 (incorporated by reference to Exhibit 97 to Motorola Solutions, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023). 101.INS Inline XBRL Instance Document 101.SCH Inline XBRL Taxonomy Extension Scheme Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+[END TABLE 126]
+
+[TABLE 127]
+MOTOROLA SOLUTIONS, INC. By: / S / G REGORY Q. B ROWN Gregory Q. Brown Chairman and Chief Executive Officer
+[END TABLE 127]
+
+[TABLE 128]
+Signature Title Date /S/ GREGORY Q. BROWN Chairman and Chief Executive Officer February 12, 2026 Gregory Q. Brown and Director (Principal Executive Officer) /S/ JASON J. WINKLER Executive Vice President and February 12, 2026 Jason J. Winkler Chief Financial Officer (Principal Financial Officer) /S/ KATHERINE MAHER Corporate Vice President and February 12, 2026 Katherine Maher Chief Accounting Officer (Principal Accounting Officer) /S/ NICOLE ANASENES Director February 12, 2026 Nicole Anasenes /S/ KENNETH D. DENMAN Director February 12, 2026 Kenneth D. Denman /S/ AYANNA M. HOWARD Director February 12, 2026 Ayanna M. Howard /S/ MARK E. LASHIER Director February 12, 2026 Mark E. Lashier /S/ ELIZABETH D. MANN Director February 12, 2026 Elizabeth D. Mann /S/ GREGORY K. MONDRE Director February 12, 2026 Gregory K. Mondre /S/ JOSEPH M. TUCCI Director February 12, 2026 Joseph M. Tucci
+[END TABLE 128]

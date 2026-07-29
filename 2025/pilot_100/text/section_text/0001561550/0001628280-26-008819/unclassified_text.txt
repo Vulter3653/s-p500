@@ -1,0 +1,147 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+________________________________________
+
+FORM 10-K
+
+________________________________________
+
+(Mark One)
+
+For the fiscal year ended December 31 , 2025
+
+OR
+
+For the transition period from ______ to ______
+
+Commission File Number: 001-39051
+
+________________________________________
+
+Datadog, Inc.
+
+(Exact Name of Registrant as Specified in its Charter)
+
+________________________________________
+
+Registrant’s telephone number, including area code: ( 866 ) 329-4466
+
+________________________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No x
+
+The aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant, based on the closing price of the registrant’s shares of Class A common stock as reported by The Nasdaq Global Select Market on June 30, 2025 was approximately $ 43.0 billion.
+
+As of February 5, 2026, there were 328,274,648 shares of the registrant’s Class A common stock and 24,301,433 shares of the registrant’s Class B common stock, each with a par value of $0.00001 per share, outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant’s Proxy Statement for its 2026 Annual Meeting of Stockholders are incorporated by reference into Part III of this Annual Report on Form 10-K to the extent stated herein. Such Proxy Statement will be filed with the Securities and Exchange Commission within 120 days of the registrant’s fiscal year ended December 31, 2025.
+
+DATADOG, INC.
+
+2025 ANNUAL REPORT ON FORM 10-K
+
+RISK FACTORS SUMMARY
+
+Our operations and financial results and an investment in our Class A common stock are subject to various risks and uncertainties, the most significant of which are summarized below. You should consider carefully the summary below and the risks and uncertainties described in the “Risk Factors” section of this Annual Report on Form 10-K, as well as the other information contained in this Annual Report on Form 10-K, including our consolidated financial statements and related notes. The risks and uncertainties described below and in “Risk Factors” are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that adversely affect our business. If any of such risks or others not specified below or in “Risk Factors” materialize, our business, financial condition and results of operations could be materially and adversely affected. In that case, the trading price of our Class A common stock could decline.
+
+• Unfavorable conditions in our industry or the global economy, or reductions in information technology spending, could limit our ability to grow our business and negatively affect our results of operations.
+
+• Our recent rapid growth may not be indicative of our future growth. Our rapid growth also makes it difficult to evaluate our future prospects and may increase the risk that we will not be successful.
+
+• We have a history of operating losses and may not sustain profitability in the future.
+
+• We have a limited operating history, which makes it difficult to forecast our future results of operations.
+
+• We may require additional capital to support the growth of our business, and this capital might not be available on acceptable terms, if at all.
+
+• Our business depends on our existing customers purchasing additional subscriptions and products from us and renewing their subscriptions. If our customers do not renew or expand their subscriptions with us, or decrease their spend on our products, our future operating results would be harmed.
+
+• If we are unable to attract new customers, our business, financial condition and results of operations will be adversely affected.
+
+• Failure to effectively develop and expand our sales and marketing capabilities could harm our ability to increase our customer base and achieve broader market acceptance of our products.
+
+• If we or our third-party service providers experience, or are unable to protect against cyber-attacks, ransomware, security incidents, or security breaches, or if unauthorized parties otherwise obtain access to our customers’ data, our data, or our platform and information technology systems, then our solution may be perceived as not being secure, our reputation may be harmed, demand for our platform and products may be reduced, and we may incur significant liabilities or additional expenses.
+
+• Interruptions or performance problems associated with our products and platform capabilities may adversely affect our business, financial condition and results of operations.
+
+• We may not be able to successfully manage our growth, and if we are not able to grow efficiently, our business, financial condition and results of operations could be harmed.
+
+• If we fail to adapt and respond effectively to rapidly changing technology, evolving industry standards, changing regulations, or to changing customer needs, requirements or preferences, our platform and products may become less competitive.
+
+• The markets in which we participate are competitive, and if we do not compete effectively, our business, financial condition and results of operations could be harmed.
+
+• We and our third-party service providers are subject to stringent and changing laws, regulations standards, and contractual obligations related to data privacy and security. Actual or perceived failure by us or our third-party service providers to comply with such laws, regulations, standards, or contractual obligations could harm our business.
+
+• The dual class structure of our common stock has the effect of concentrating voting control with holders of our Class B common stock, including our executive officers, directors and their affiliates, which will limit the ability of holders of our Class A common stock to influence the outcome of important transactions.
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K contains forward-looking statements about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Annual Report on Form 10-K including statements regarding our future results of operations or financial condition, business strategy and plans and objectives of management for future operations, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will” or “would” or the negative of these words or other similar terms or expressions. These forward-looking statements include, but are not limited to, statements concerning the following:
+
+• our expectations regarding our revenue, expenses and other operating results;
+
+• our ability to acquire new customers and successfully retain existing customers;
+
+• our ability to increase usage of our platform and upsell and cross sell additional products;
+
+• our ability to sustain profitability;
+
+• future investments in our business, our anticipated capital expenditures and our estimates regarding our capital requirements;
+
+• the costs and success of our sales and marketing efforts, and our ability to promote our brand;
+
+• our reliance on key personnel and our ability to identify, recruit and retain skilled personnel;
+
+• our ability to effectively manage our growth, including any international expansion;
+
+• our ability to protect our intellectual property rights and any costs associated therewith;
+
+• our ability to compete effectively with existing competitors and new market entrants;
+
+• the growth rates of the markets in which we compete; and
+
+• the potential impact of general market, political, economic, and business conditions in our industry, or reductions in information technology spending, on our business, results of operations and financial condition.
+
+You should not rely on forward-looking statements as predictions of future events. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties and other factors described in under the header “Risk Factors” and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained herein. The results, events and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events or circumstances could differ materially from those described in the forward-looking statements.
+
+The forward-looking statements made in this Annual Report on Form 10-K relate only to events as of the date on which the statements are made, and we undertake no obligation to update them to reflect events or circumstances after the date of this Annual Report on Form 10-K or to reflect new information or the occurrence of unanticipated events, except as required by law.
+
+Unless the context otherwise indicates, references in this report to the terms “Datadog”, “the Company,” “we,” “our” and “us” refer to Datadog, Inc. and its subsidiaries.
+
+“Datadog” and other trade names and trademarks of ours appearing in this report are our property. This report contains trade names and trademarks of other companies, which are the property of their respective owners. We do not intend our use or display of other companies’ trade names or trademarks to imply an endorsement or sponsorship of us by such companies, or any relationship with any of these companies.
+
+We may announce material business and financial information to our investors using our investor relations website (www.investors.datadoghq.com). We therefore encourage investors and others interested in Datadog to review the information that we make available on our website, in addition to following our filings with the Securities and Exchange Commission, or the SEC, webcasts, press releases and conference calls.
+
+MARKET, INDUSTRY AND OTHER DATA
+
+The statistical data, estimates and forecasts referenced throughout this Annual Report on Form 10-K are based on independent industry publications or other publicly available information, as well as information based on our internal sources. While we believe the industry and market data included in this Annual Report on Form 10-K are reliable and are based on reasonable assumptions, these data involve many assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and other publicly available information. None of the industry publications referred to in this Annual Report on Form 10-K were prepared on our or on our affiliates’ behalf or at our expense. The industry in which we operate is subject to a high degree of uncertainty and risk due to a variety of factors, including those described in the section titled “Risk Factors” and “Special Note Regarding Forward-Looking Statements,” that could cause results to differ materially from those expressed in these publications and other publicly available information.
+
+The Gartner content referenced herein (the “Gartner Content”) represents research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. (“Gartner”), and are not representations of fact. The Gartner Content speaks as of its original publication date in December 2025 (and not as of the date of this Annual Report on Form 10-K) and the opinions expressed in the Gartner Content are subject to change without notice.
+
+PART I

@@ -1,0 +1,65 @@
+ITEM 1C. CYBERSECURITY
+
+Risk Management and Strategy
+
+Our operations are highly dependent upon information systems that support our business processes. In the ordinary course of our business, we collect and store certain confidential information such as personal information of our residents and associates and information about our business partners, contractors, vendors, and suppliers. Cyber intrusions could seriously compromise our networks and the information stored therein could be accessed, publicly disclosed, misused, lost, or stolen. As such, we have established information security processes and policies using principles from industry recognized cybersecurity frameworks focused on: (i) developing organizational understanding to manage cybersecurity risks; (ii) applying safeguards to protect our systems; (iii) detecting the occurrence of a cybersecurity incident; (iv) responding to a cybersecurity incident; and (v) recovering from a cybersecurity incident. Where appropriate, these processes and policies are integrated into our overall risk management systems and processes.
+
+Information technology and data security, particularly cybersecurity, are areas of focus for our board of directors and its audit committee. We employ a multi-layered security model that leverages risk-based controls with a focus on protecting our residents’ and associates’ data. We follow a cloud-first approach to enable efficient scaling, robust business continuity, and access to the latest technology innovations.
+
+Our cybersecurity risk management program aims to protect and preserve the confidentiality, integrity, and continued availability of our residents’ and associates’ data and includes controls and procedures for the identification, containment, and remediation of cyber threats.
+
+Our cybersecurity risk management program includes, among other key features:
+
+• regular cybersecurity risk assessments;
+
+• detection and reporting of any cybersecurity events;
+
+• independent strategy consultation on enhancement items and processes for cybersecurity tabletop exercises;
+
+• robust information security training program that includes annual information security training for all associates, as well as additional role-specific information security training; and
+
+• cyber incident response plan that provides controls and procedures for timely and accurate reporting of any material cybersecurity incident to executive leadership and our board of directors.
+
+We assess our cybersecurity risk management program at least annually and regularly review our cyber incident response plan. Our processes and policies also include the identification of those third-party relationships that have the greatest
+
+potential to expose us to cybersecurity threats. We also partner with industry leading third parties for regular security audits to ensure we view cybersecurity with a holistic perspective.
+
+Our cybersecurity risk management processes are a key element of our Enterprise Risk Management (“ERM”) process, which is designed to identify and evaluate the full range of significant risks to our business and operations. As part of our ERM program, our functional and operations departments identify and manage enterprise risks on an annual cycle. The process consists of structured reviews, discussions, and mitigation planning and includes risks identified by our Cybersecurity Governance Committee and information technology and cybersecurity functions as part of the overall review of significant enterprise risks. The top ERM risks are compiled annually and shared with the audit committee of the board of directors as well as the full board of directors. In addition, internal audit incorporates these risks into its continuous risk assessment process.
+
+Where appropriate, we seek to include in contractual arrangements with certain of our third-party vendors provisions addressing best practices with respect to data and cybersecurity, as well as the right to assess, monitor, audit, and test such vendors’ cybersecurity programs and practices. We also utilize a number of digital controls to monitor and manage third-party access to internal systems and data.
+
+We expect that our cybersecurity risk management processes and strategy will continue to evolve as the cybersecurity threat landscape evolves. As a backstop to our strong information security programs, policies, and procedures, we purchase a cybersecurity risk insurance policy that would defray the costs of an information security breach, if we were to experience one.
+
+Like other businesses, we have been, and expect to continue to be, subject to attempts at unauthorized access, mishandling or misuse, computer viruses or malware, cyber-attacks and intrusions, and other events of varying degrees. To date, we have not experienced a material security breach, nor are we aware of any third-party outside service providers that have experienced a cybersecurity breach. As a result, we have not incurred any significant expenses from information security breaches or any penalties or settlements related to the same. As of December 31, 2025, we do not believe that any risks from any cybersecurity threats, including as a result of any previous cybersecurity incidents, have materially affected or are reasonably likely to materially affect us, including our business strategy, our results of operations, or our financial condition. For a discussion of risks from cybersecurity threats that could materially affect us, please see Part I. Item 1A. “Risk Factors — Risks Related to Information Technology, Cybersecurity, and Data Protection.”
+
+Governance
+
+Since August 2020, our Senior Vice President, Infrastructure, Support Services, and Chief Information Security Officer (“ CISO ”) has led a team of information security professionals who have the first line responsibility for our cybersecurity risk management processes and activities. Our CISO has more than 20 years of experience as an information security leader responsible for assessing and managing cybersecurity programs. Our CISO reports directly to our Senior Vice President, Head of Technology, who reports to our Chief Executive Officer, and has over 25 years of experience managing global information technology operations, including strategy, application, infrastructure, information security, support, and execution.
+
+In performing his role, our CISO oversees cybersecurity risk assessments, policy development, training, and incident reporting, while applying industry best practices to identify cybersecurity risks and threats and assess and guide mitigation strategies effectively. Relevant cyber certifications of our CISO include Certified Information Systems Security Professional (“CISSP”) and Certified Information Security Manager (“CISM”). Our cybersecurity team holds certifications such as CISSP and CISM, supplemented by vendor-specific training and ongoing education.
+
+We have implemented a robust cybersecurity risk governance model, including the Cybersecurity Governance Committee chaired by our CISO and composed of senior leaders including these key members:
+
+• Chief Operating Officer — Over 25 years of commercial and strategic leadership experience; skilled in identifying operational and cybersecurity risks and ensuring alignment of security initiatives with business objectives and technology infrastructure.
+
+• Chief Legal Officer — Extensive experience as top legal executive; oversees legal and regulatory affairs, including risk management; advises on governance frameworks and board oversight of cybersecurity risk.
+
+• Chief Compliance Officer — Over 20 years of legal experience; expertise in SEC regulations and disclosure requirements for cybersecurity risks and incidents; oversees ERM program alignment of cybersecurity initiatives with business strategy.
+
+• Vice President of Internal Audit — Specialized in detecting internal threats and fraud through advanced audit techniques; integrates cybersecurity risk assessments into ERM and monitors audit recommendations for effectiveness.
+
+The Cybersecurity Governance Committee meets quarterly to review the processes and performance indicators related to prevention, detection, mitigation, and remediation of cybersecurity incidents that could adversely impact business operations.
+
+We maintain a cross-functional cyber incident response plan with defined roles, responsibilities, and reporting protocols, which focuses on responding to and recovering from any significant breach as well as mitigating any impact to our business. Significant breaches are escalated to the Cybersecurity Governance Committee for analysis and guidance. The Cybersecurity Governance Committee then determines reporting obligations, designates an incident manager, and oversees containment, eradication, and recovery. Depending on the severity and impact of a cybersecurity threat, the audit committee and the board of directors would be notified of an incident and kept informed of the mitigation and remediation efforts.
+
+In addition to providing periodic reports, at least semi-annually, our CISO and other senior members of information technology personnel report to the audit committee and the board of directors on recent trends in cyber risks and review our strategy to defend our business systems and information against cyber attacks. From time to time, outside advisors may be invited to brief the audit committee on the current cybersecurity threat landscape and other related topics.
+
+Our board of directors has an advanced understanding of its role and that of management in cyber-risk oversight and is well positioned to guide management in the development and implementation of an effective cybersecurity risk program. Ms. Barbe, the chairperson of the nominating and corporate governance committee of the board, holds a CERT Certificate in Cybersecurity Oversight from the National Association of Corporate Directors. Mr. Howard, a member of the audit committee, brings extensive practical experience in, and domain expertise related to, cybersecurity, shaped by his prior service with the SEAL teams and Joint Special Operations of the United States Navy.
+
+As part of its overall risk oversight activities, with respect to cybersecurity risk management, the audit committee:
+
+• oversees the quality and effectiveness of our policies and procedures with respect to our information technology and network systems;
+
+• provides oversight on our policies and procedures in preparation for responding to any material data security incidents; and
+
+• oversees management of internal and external risks related to our information technology systems and processes.

@@ -1,0 +1,19 @@
+Item 1C. Cybersecurity.
+
+Risk Management and Strategy
+
+IT systems and networks are important to our business operations, and we are committed to protecting the privacy, security, and integrity of our data, inclusive of our employee and customer data. We have a comprehensive cybersecurity program in place that is responsible for identifying, preventing, and mitigating data security risks. This program is aligned with the Company’s overall Enterprise Risk Management process .
+
+We actively monitor and update our IT systems and infrastructure to prevent unauthorized access, viruses, phishing, and other security risks. Our cybersecurity program follows the National Institute of Standards and Technology ( “NIST” ) Cybersecurity Framework standards.
+
+Our security technology tools and processes provide protection against security breaches and reduce cybersecurity risks. Our cybersecurity incident response plan includes procedures for identifying, containing, and responding to incidents. While we continue to invest in our program and capabilities, we cannot guarantee prevention of all incidents.
+
+We depend on IT systems, third-party service providers, and strategic partners to facilitate our business operations. This includes secure handling of personal, confidential, financial, sensitive, proprietary, and other forms of information, as well as enabling our service offerings. Despite continuous efforts to enhance both our and our partners’ cybersecurity defenses, we cannot guarantee the protection of all information systems, products, and service technologies.
+
+While we face regular cybersecurity threats, including ransomware and data breaches, we have not encountered significant incidents during the year ended April 30, 2025. We believe our security measures are adequate, but we acknowledge the rising sophistication of threats. Despite vigilance, system disruptions or unauthorized disclosures remain possible.
+
+Governance and Oversight
+
+The Board actively supports strategy and oversees risk management, drawing on a diverse range of experiences, skills, qualifications, and backgrounds. This includes oversight of cybersecurity matters. The Audit Committee, composed entirely of independent Board members, receives quarterly updates on the Company ’ s cybersecurity program, which includes recent developments, program improvements, risk analysis, and an annual update on the scenario-based cybersecurity exercise. The Audit Committee also receives periodic updates, as needed, including any cybersecurity events that would require notification to the Audit Committee. The Audit Committee provides quarterly updates to the Board on key cybersecurity activities, and cybersecurity is also reviewed at least annually with the Board . In addition, two of our Audit Committee members, including the Chair, hold a CERT Certificate in Cybersecurity Oversight from the National Association of Corporate Directors.
+
+We actively educate our employees about potential cybersecurity threats and actions. Our executive officers and global workforce receive ongoing trainings in response to cyber threats and cybersecurity incidents. We mandate annual completion of our information security training and compliance program, which includes reviewing and acknowledging the Company’s information security policy. All employees also participate in regular security awareness training, which includes data protection principles, general end-user security hygiene, and internal phishing simulations. Additional annual training covers information security topics related to our Code of Conduct and Records Management Policies.

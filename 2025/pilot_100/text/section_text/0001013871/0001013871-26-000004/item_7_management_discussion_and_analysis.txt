@@ -1,0 +1,543 @@
+Item 7 — Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The discussion and analysis below has been organized as follows:
+
+• Executive Summary, including the business environment in which the Company operates, a discussion of regulation, weather, competition and other factors that affect the business, and other significant events that are important to understanding the results of operations and financial condition;
+
+• Results of operations for the years ended December 31, 2025 and December 31, 2024, including an explanation of significant differences between the periods in the specific line items of NRG's Consolidated Statements of Operations;
+
+• Liquidity and capital resources including liquidity position, financial condition addressing credit ratings, material cash requirements and commitments, and other obligations; and
+
+• Critical accounting estimates that are most important to both the portrayal of the Company's financial condition and results of operations, and require management's most difficult, subjective, or complex judgments.
+
+As you read this discussion and analysis, refer to NRG's Consolidated Statements of Operations in this Annual Report on Form 10-K, which present the results of the Company's operations for the years ended December 31, 2025 and 2024, and also refer to Item 1 — Business to this Annual Report on Form 10-K for more detail discussion about the Company's business. A discussion and analysis of fiscal year 2023 may be found in Part II, Item 7 — Management's Discussion and Analysis of
+
+Financial Condition and Results of Operations of the Annual Report on Form 10-K for the fiscal year ended December 31, 2024.
+
+The following discussion and analysis also contains forward-looking statements, including, without limitation, statements relating to NRG’s plans, strategies, objectives, expectations, intentions, and resources. Such forward-looking statements should be read in conjunction with the disclosures under Item 1A — Risk Factors of this Annual Report on Form 10-K.
+
+Executive Summary
+
+NRG Energy, Inc., or NRG or the Company, serves electricity, natural gas, and smart-home technology solutions to approximately 8 million residential customers (comprised of 6 million retail energy and 2 million smart home), in addition to large commercial and industrial, data center, and wholesale customers. Across North America, NRG is redefining customers’ experience with energy under brand names such as NRG, Reliant, Direct Energy, Green Mountain Energy, and Vivint. As of December 31, 2025 the Company’s core power and natural gas business consists of approximately 12 GW of competitive power generation, primarily in Texas, and a natural gas portfolio that serves approximately 1,900 MMDth annually.
+
+Business Environment
+
+The industry dynamics and external influences affecting the Company, its businesses, and the retail energy and power generation industry in 2025 and for the future medium term include:
+
+Market Dynamics — The price of natural gas plays an important role in setting the price of electricity in many of the regions where NRG operates. Natural gas prices are driven by variables including demand from the industrial, residential, and electric sectors, productivity across natural gas supply basins, costs of natural gas production, changes in pipeline infrastructure, global liquified natural gas demand, exports of natural gas, and the financial and hedging profile of natural gas customers and producers. In 2025, the average natural gas price at Henry Hub was $3.43 per MMBtu compared to $2.27 per MMBtu in 2024, representing an increase of 51%.
+
+NRG may experience impacts to gross margins due to significant, rapid changes in current natural gas prices, the impact those prices have on power prices, and the lag in its ability to make a corresponding adjustment to the retail rates it charges customers on term and month to month contracts. The Company hedges its load commitments in order to mitigate the impact of changes in commodity prices, and as a result, these gross margin impacts would be realized in future periods until it is able to make the corresponding adjustments to the retail customer rates.
+
+The relative price of natural gas as compared to coal and prevailing power prices are the primary driver of coal demand. Coal commodity prices increased slightly in 2025.
+
+Electricity Prices — The price of electricity is a key determinant of the profitability of the Company. Many variables such as the price of different fuels, weather, load growth and unit availability all coalesce to impact the final price for electricity and the Company's profitability. An increase in supply cost volatility in the competitive retail markets may result in smaller companies choosing to exit the market, which may result in further consolidation in the competitive retail space. The following table summarizes average on-peak power prices for each of the major markets in which NRG operates.
+
+(a) Average on-peak power prices based on real time settlement prices as published by the respective ISOs
+
+(b) Average on-peak power prices based on day-ahead settlement prices as published by the respective ISOs
+
+Load Growth — The electric industry is expected to experience a surge in demand driven primarily by new manufacturing, industrial and data center facilities (inclusive of GenAI). The U.S. Energy Information Administration's 2023 Annual Energy Outlook, combined with external forecasts of GenAI, shows the potential for 500 TWh of incremental load across the U.S. through 2030, as compared to 2023. ERCOT's current long term load forecast shows peak demand increasing from 86 GW in 2024 to 139 GW in 2030. This load growth will require significant planning and construction of new generation and transmission.
+
+Affordability — Rising customer bills, driven by rising regulated transmission and distribution charges along with load growth, have heightened customer and regulatory focus on energy affordability, eliciting evolving discussions regarding market design and frameworks. NRG is monitoring and seeking to address these developments through its customer-focused business strategy and public policy advocacy efforts.
+
+Tariffs — NRG’s business is affected by various macroeconomic factors, including tariffs. The U.S. has implemented, or is considering implementing, higher tariffs on imports into the U.S. Any potential increases in capital and operational expenditures may impact the Company’s procurement and sourcing strategies.
+
+Increased Awareness of, and Action to Combat, Climate Change — Diverse groups of stakeholders, including investors, asset managers, financial institutions, non-government organizations, industry coalitions, individual companies, consumer groups and academic institutions, are increasingly engaged in efforts to limit global warming in the post-industrial era to 1.5 degrees Celsius. Although federal policy in the U.S. has recently shifted towards prioritizing domestic energy production and reducing climate-related regulatory requirements, policymakers and regulators at regional, national, sub-national and local levels of government, both in the U.S. and other parts of the world, remain focused on actions to combat climate change.
+
+NRG actively monitors climate change related developments that could impact its business and regularly engages with a diverse set of stakeholders on these issues. Such engagement helps the Company identify and pursue potential opportunities both to decarbonize its business and better serve its customers. NRG is committed to providing transparent disclosures of its climate risks and opportunities to stakeholders.
+
+Lower Carbon Infrastructure Development — Policy mechanisms at the state and federal level, including production and investment tax credits, cash grants, loan guarantees, accelerated depreciation tax benefits, RPS, and carbon trading plans, have supported and continue to support the development of renewable generation, demand-side and smart grid, and other lower carbon infrastructure technologies. According to ERCOT, 46% of 2025 energy consumption in the ERCOT market was generated from carbon emission-free resources, with wind power contributing 24%. In addition, subsidies and incentives may contribute to increases in renewable power sources, customer awareness and preferences are shifting toward sustainable solutions. Any increase in demand for sustainable energy products from both residential and commercial customers creates opportunities for diversified product offerings in competitive retail markets.
+
+Digitization and Customization — The electric industry is experiencing major technological changes in the way power is distributed and consumed by end-use customers. The electric grid is shifting from a centralized analog system, where power is generated from limited sources and flows in one direction, to a decentralized multidirectional system, where power can be generated from a number of distributed resources and stored or dispatched on an as-needed basis. In addition, customers are seeking new ways to engage with their power providers. Technologies like smart thermostats, smart appliances and electric vehicles are giving individuals more choice and control over their electricity usage. Power providers are starting to engage with customers who have transitioned to smart homes with new offerings, including but not limited to behind-the-meter demand response, or virtual power plant products. Companies with large customer bases in competitive marketplaces are poised to create additional engagement with customers to help further integrate their smart home into their daily lives.
+
+Weather — Weather conditions in the regions of the U.S. in which NRG conducts business influence the Company's financial results. Weather conditions can affect the supply and demand for electricity and fuels and may also impact the availability of the Company's generating assets. Changes in energy supply and demand may impact the price of these energy commodities in both the spot and forward markets, which may affect the Company's results in any given period. Typically, demand for and the price of electricity is higher in the summer and the winter seasons, when temperatures and resultant demand are more extreme. The demand for and price of natural gas is also generally higher in the winter. However, all regions of the U.S. typically do not experience extreme weather conditions at the same time, thus NRG's operations are typically not exposed to the effects of extreme weather in all parts of its business at once.
+
+Other Factors — A number of other factors significantly influence the level and volatility of prices for energy commodities and related derivative products for NRG's business. These factors include:
+
+• seasonal, daily and hourly changes in demand;
+
+• extreme peak demands;
+
+• performance of renewable generation;
+
+• available supply resources;
+
+• transportation and transmission availability and reliability within and between regions;
+
+• location of NRG's generating facilities relative to the location of its load-serving opportunities;
+
+• procedures used to maintain the integrity of the physical electricity system during extreme conditions; and
+
+• changes in the nature and extent of federal and state regulations.
+
+These factors can affect energy commodity and derivative prices in different ways and to different degrees. These effects may vary throughout the country as a result of regional differences in:
+
+• weather conditions;
+
+• market liquidity;
+
+• capability and reliability of the physical electricity and gas systems;
+
+• local transportation systems; and
+
+• the nature and extent of electricity deregulation.
+
+Environmental Matters, Regulatory Matters and Legal Proceedings — Details of environmental matters are presented in Item 15 — Note 24, Environmental Matters , to the Consolidated Financial Statements and Item 1 — Business, Environmental Matters . Details of regulatory matters are presented in Item 15 — Note 23, Regulatory Matters , to the Consolidated Financial Statements and Item 1 — Business, Regulatory Matters . Details of legal proceedings are presented in Item 15 — Note 22, Commitments and Contingencies , to the Consolidated Financial Statements. Some of this information relates to costs that may be material to the Company's financial results.
+
+Significant Events
+
+The following significant events occurred during 2025 and through the filing date, as further described within this Management's Discussion and Analysis and the Consolidated Financial Statements:
+
+Acquisition of LSP Portfolio
+
+On January 30, 2026, NRG completed the acquisition of the LSP Portfolio from LS Power, pursuant to the Purchase Agreement dated as of May 12, 2025. The acquisition doubles NRG’s generation capacity with the addition of 18 natural gas-fired and dual fuel facilities totaling approximately 13 GW. In addition, NRG acquired CPower, a leading demand response platform, which operates in all the country’s deregulated energy markets and has more than 2,000 commercial and industrial customers. The consideration consisted of 24.25 million shares of NRG common stock and $6.4 billion in cash, plus preliminary working capital and certain other adjustments of $479 million. The Company funded the cash consideration using a portion of the net proceeds of $4.4 billion from the New Unsecured Notes and the New Secured Notes and proceeds of $2.5 billion from the Company’s Revolving Credit Facility. As part of the transaction, NRG also assumed approximately $3.2 billion of debt. For further discussion, see Item 15 — Note 4, Acquisitions and Dispositions.
+
+Acquisition of Texas Generation Portfolio
+
+On April 10, 2025, the Company acquired all of the ownership interests of six power generation facilities from Rockland Capital, LLC, adding 738 MW of natural gas-fired assets in Texas to its portfolio for $560 million in consideration, less $2 million in working capital adjustments. For further discussion, see Item 15 — Note 4, Acquisitions and Dispositions.
+
+Capital Allocation
+
+The Company is actively repurchasing shares under its existing $3.7 billion share repurchase program, which began in 2023. During the year ended December 31, 2025, the Company completed $1.3 billion of share repurchases at an average price of $129.23 per share. On October 16, 2025, the Board of Directors authorized an additional share repurchase program of up to $3.0 billion, to be executed through 2028. For further information regarding share repurchases, see Item 15 — Note 15 , Capital Structure.
+
+In the first quarter of 2025, NRG increased the annual common stock dividend to $1.76 from $1.63 per share, representing an 8% increase from 2024. Beginning in the first quarter of 2026, NRG increased the annual common stock dividend by 8% to
+
+$1.90 per share. The Company expects to target an annual common stock dividend growth rate of 7-9% per share in subsequent years.
+
+Issuance of Unsecured Notes and Secured Notes
+
+On October 8, 2025, the Company issued $3.65 billion and $1.25 billion in aggregate principal amount of the New Unsecured Notes and New Secured Notes, respectively. The New Unsecured Notes are senior unsecured obligations of the Company and are guaranteed by its wholly-owned U.S. subsidiaries that guarantee the term loans under the Senior Credit Facility. The New Secured Notes are senior secured obligations of the Company and are guaranteed by its wholly-owned U.S. subsidiaries that guarantee the term loans under the Senior Credit Facility. For further discussion, see Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Operations
+
+Texas Development Projects
+
+On November 20, 2025, the Company entered into the Third TEF Loan to support the development of Greens Bayou 6, which is currently under construction. Commercial operation of the 443 MW facility is expected mid-2028.
+
+On September 26, 2025, the Company entered into the Second TEF Loan to support the development of Cedar Bayou 5, which is currently under construction. Commercial operation of the 689 MW combined cycle facility is expected mid-2028.
+
+On July 31, 2025, the Company entered into the First TEF Loan to support the development of T.H. Wharton, which is currently under construction. Commercial operation of the 415 MW facility is expected in June 2026.
+
+Site Development Updates
+
+On February 13, 2025, NRG signed a strategic Project Development Agreement with GE Vernova (“GEV”) and Kiewit’s subsidiary, TIC, to develop and construct up to 5.4 GW of new gas-fired, combined cycle generation projects. The generation facilities will be owned and operated by NRG. Additionally, NRG has entered into slot reservation agreements with GEV for the procurement of 3.6 GW of 7HA gas turbines. The first projects under this comprehensive development agreement are expected to commence operations by the end of 2029.
+
+Consolidated Results of Operations for the years ended December 31, 2025 and 2024
+
+The following table provides selected financial information for the Company:
+
+(a) Includes realized gains and losses from financially settled transactions
+
+(b) Includes trading gains and losses and ancillary revenues
+
+(c) Includes amortization of SO 2 and NO x credits and excludes amortization of RGGI credits
+
+Gross Margin
+
+The Company calculates gross margin in order to evaluate operating performance as revenues less cost of fuel, purchased energy and other costs of sales, mark-to-market for economic hedging activities, contract and emission credit amortization and depreciation and amortization.
+
+Economic Gross Margin
+
+In addition to gross margin, the Company evaluates its operating performance using the measure of economic gross margin, which is not a GAAP measure and may not be comparable to other companies’ presentations or deemed more useful than the GAAP information provided elsewhere in this report. Economic gross margin should be viewed as a supplement to and not a substitute for the Company's presentation of gross margin, which is the most directly comparable GAAP measure. Economic gross margin is not intended to represent gross margin. The Company believes that economic gross margin is useful to investors as it is a key operational measure reviewed by the Company's management. Economic gross margin is defined as the sum of retail revenue, energy revenue, capacity revenue and other revenue, less cost of fuels, purchased energy and other cost of sales. Economic gross margin does not include mark-to-market gains or losses on economic hedging activities, contract amortization, emission credit amortization, depreciation and amortization, operations and maintenance, or other costs of operations.
+
+The following tables present the composition and reconciliation of gross margin and economic gross margin for the years ended December 31, 2025 and 2024:
+
+The following table represents the weather metrics for 2025 and 2024:
+
+(a) The West/Other weather metrics are comprised of the average of the CDD and HDD regional results for the West - California and West - South Central regions
+
+(b) National Oceanic and Atmospheric Administration-Climate Prediction Center - A CDD represents the number of degrees that the mean temperature for a particular day is above 65 degrees Fahrenheit in each region. A HDD represents the number of degrees that the mean temperature for a particular day is below 65 degrees Fahrenheit in each region. The CDDs/HDDs for a period of time are calculated by adding the CDDs/HDDs for each day during the period
+
+Gross margin and economic gross margin
+
+Gross margin decreased $119 million and economic gross margin increased $417 million, both of which include intercompany sales, during the year ended December 31, 2025, compared to the same period in 2024. The detail by segment is as follows:
+
+Vivint Smart Home
+
+Mark-to-market for Economic Hedging Activities
+
+Mark-to-market for economic hedging activities includes asset-backed hedges that have not been designated as cash flow hedges. Total net mark-to-market results decreased by $552 million during the year ended December 31, 2025, compared to the same period in 2024.
+
+(a) Includes $(286) million, within the Texas segment, related to derivative contracts that were elected as NPNS on October 1, 2024 and are no longer valued at fair value on a recurring basis. For further discussion, see Item 15 — Note 6, Accounting for Derivative Instruments and Hedging Activities
+
+(a) Includes $37 million, within the Texas segment, related to derivative contracts that were elected as NPNS on October 1, 2024 and are no longer valued at fair value on a recurring basis. For further discussion, see Item 15 — Note 6, Accounting for Derivative Instruments and Hedging Activities
+
+Mark-to-market results consist of unrealized gains and losses on contracts that are yet to be settled. The settlement of these transactions is reflected in the same revenue or cost caption as the items being hedged.
+
+The reversals of acquired gain or loss positions were valued based upon the forward prices on the acquisition date.
+
+For the year ended December 31, 2025, the $12 million gain in revenues from economic hedge positions was driven primarily by an increase in the value of open positions as a result of decreases in natural gas prices, partially offset by the reversal of previously recognized unrealized gains on contracts that settled during the period. The $358 million loss in operating costs and expenses from economic hedge positions was driven primarily by the reversal of previously recognized unrealized gains on contracts that settled during the period and a decrease in the value of open positions as a result of decreases in CAISO power prices. This was partially offset by an increase in the value of open positions as a result of increases in Northeast and ERCOT power prices.
+
+For the year ended December 31, 2024, the $3 million loss in revenues from economic hedge positions was driven by the reversal of previously recognized unrealized gains on contracts that settled during the period, largely offset by an increase in the value of open positions as a result of decreases in New York capacity and MISO power prices. The $209 million gain in operating costs and expenses from economic hedge positions was driven primarily by the reversal of previously recognized unrealized losses on contracts that settled during the period, as well as an increase in the value of open positions as a result of increases in natural gas and Northeast power prices. This was partially offset by a decrease in the value of open positions as a result of decreases in CAISO and Alberta power prices.
+
+In accordance with ASC 815, the following table represents the results of the Company's financial and physical trading of energy commodities for the years ended December 31, 2025 and 2024. The realized and unrealized financial and physical trading results are included in revenue. The Company's trading activities are subject to limits within the Company's Risk Management Policy.
+
+Operations and Maintenance Expenses
+
+Operations and maintenance expenses are comprised of the following:
+
+Other Cost of Operations
+
+Other Cost of operations are comprised of the following:
+
+Other cost of operations increased by $1 million for the year ended December 31, 2025, compared to the same period in 2024, due to the following:
+
+Depreciation and Amortization
+
+Depreciation and amortization expenses are comprised of the following:
+
+Depreciation and amortization expense increased by $3 million for the year ended December 31, 2025, compared to the same period in 2024, due to the following:
+
+Impairment Losses
+
+During the year ended December 31, 2024, the Company recorded impairment losses related to property plant and equipment and other assets of $7 million, and $29 million in the Texas and West/Other segments, respectively. Refer to Item 15 — Note 10, Asset Impairments , to the Consolidated Financial Statements for further discussion .
+
+Selling, General and Administrative Costs
+
+Selling, general and administrative costs are comprised of the following:
+
+Acquisition-Related Transaction and Integration Costs
+
+Acquisition-related transaction and integration costs of $74 million and $30 million for the years ended December 31, 2025 and 2024, respectively, include:
+
+(Loss)/Gain on Sale of Assets
+
+The (loss)/gain on sale of assets of $(25) million and $208 million recorded for the years ended December 31, 2025 and 2024, respectively, include:
+
+Impairment Losses on Investments
+
+During the years ended December 31, 2025 and 2024, the Company recorded impairment losses of $39 million and $7 million, respectively, on the Company's equity method investment in Gladstone generation facility.
+
+Other Income, net
+
+Other income, net of $68 million and $44 million recorded for the years ended December 31, 2025, and 2024, respectively, include:
+
+Loss on Debt Extinguishment
+
+The loss on debt extinguishment of $10 million and $382 million recorded for the years ended December 31, 2025, and 2024, respectively, include:
+
+Interest Expense
+
+Interest expense increased by $90 million for the year ended December 31, 2025, compared to the same period in 2024, primarily due to the impact of New Unsecured Notes and the New Secured Notes to partially fund acquisition of the LSP Portfolio and a realized loss on the treasury locks in the 2025 period.
+
+Income Tax Expense
+
+For the year ended December 31, 2025, NRG recorded an income tax expense of $270 million on pre-tax income of $1.1 billion. For the same period in 2024, NRG recorded income tax expense of $323 million on a pre-tax income of $1.4 billion. The effective tax rate was 23.8% and 22.3% for the years ended December 31, 2025 and 2024, respectively.
+
+For the year ended December 31, 2025, NRG's overall effective tax rate was higher than the federal statutory tax rate of 21%, primarily due to the state tax expense, partially offset by favorable permanent differences. For the same period in 2024, NRG's overall effective tax rate was higher than the federal statutory tax rate of 21%, primarily due to permanent differences and state tax expense, partially offset by tax benefits from the revaluation of deferred tax assets and decrease of certain state valuation allowances. Refer to Item 15 — Note 19, Income Taxes , to the Consolidated Financial Statements for further discussion.
+
+The effective income tax rate may vary from period to period depending on, among other factors, the geographic and business mix of earnings and losses and changes in valuation allowances in accordance with ASC 740, Income Taxes ("ASC 740"). These factors and others, including the Company's history of pre-tax earnings and losses, are taken into account in assessing the ability to realize deferred tax assets.
+
+Liquidity and Capital Resources
+
+Liquidity Position
+
+As of January 31, 2026, December 31, 2025 and 2024, NRG's liquidity, excluding collateral funds deposited by counterparties, was approximately $3.0 billion, $9.6 billion and $5.4 billion, respectively, comprised of the following:
+
+(a) Includes reserves primarily for capital expenditures
+
+(b) Total capacity of Revolving Credit Facility and collective collateral facilities was $8.9 billion, $7.7 billion and $7.3 billion as of January 31, 2026, December 31, 2025 and December 31, 2024, respectively
+
+As of December 31, 2025, total liquidity, excluding collateral funds deposited by counterparties, increased by $4.2 billion from December 31, 2024. The increase was driven by $4.9 billion of newly-issued secured and unsecured corporate debt to partially fund the acquisition of the LSP Portfolio on January 30, 2026 and to repay the $500 million aggregate principal amount of 2.000% senior secured first lien notes. As of January 31, 2026, NRG had $3.0 billion of liquidity available to continue to support its operations. Changes in cash and cash equivalent balances are further discussed under the heading Cash Flow Discussion . Cash and cash equivalents at December 31, 2025, were predominantly held in bank deposits.
+
+Management believes that the Company's liquidity position and cash flows from operations will be adequate to finance operating and maintenance capital expenditures, to fund dividends, and to fund other liquidity commitments in the short and long-term. Management continues to regularly monitor the Company's ability to finance the needs of its operating, financing and investing activity within the dictates of prudent balance sheet management.
+
+The consolidated statement of cash flows includes certain draws from, and payments to, the revolving credit facility and other credit facilities which are not eligible for net reporting. These transactions are for short term liquidity purposes.
+
+Credit Ratings
+
+On May 12, 2025, S&P affirmed the Company's issuer credit rating of BB and changed the rating outlook from Positive to Stable.
+
+The following table summarizes the Company's current credit ratings:
+
+Liquidity
+
+The principal sources of liquidity for NRG's operating and capital expenditures are expected to be derived from cash on hand, cash flows from operations and financing arrangements. As described in Item 15 — Note 12, Long-term Debt and Finance Leases, to the Consolidated Financial Statements, the Company's financing arrangements consist mainly of the Senior Notes, Senior Secured First Lien Notes, Senior Credit Facility, Receivables Facility, tax-exempt bonds and TEF loans. The Company also issues letters of credit through bilateral letter of credit facilities and the pre-capitalized trust securities facility.
+
+The Company's requirements for liquidity and capital resources, other than for operating its facilities, can generally be categorized by the following: (i) market operations activities; (ii) debt service obligations, as described in Item 15 — Note 12, Long-term Debt and Finance Leases , to the Consolidated Financial Statements; (iii) capital expenditures, including maintenance, environmental, and investments and integration; and (iv) allocations in connection with acquisition opportunities, debt repayments, share repurchases and dividend payments to stockholders, as described in Item 15 — Note 15, Capital Structure , to the Consolidated Financial Statements.
+
+Acquisition of Texas Generation Portfolio
+
+On April 10, 2025, the Company acquired all of the ownership interests of six power generation facilities from Rockland Capital, LLC, adding 738 MW of natural gas-fired assets in Texas to its portfolio for $560 million in consideration, less $2 million in working capital adjustments. For further discussion, see Item 15 — Note 4, Acquisitions and Dispositions.
+
+Issuance of Unsecured Notes and Secured Notes
+
+On October 8, 2025, the Company issued $3.65 billion in aggregate principal amount of senior unsecured notes, consisting of (i) $1.25 billion aggregate principal amount of 5.750% senior notes due 2034 (the “2034 Notes”) and (ii) $2.4 billion aggregate principal amount of 6.000% senior notes due 2036 (the “2036 Notes” and, together with the 2034 Notes, the “New Unsecured Notes”). On October 8, 2025, the Company also issued $1.25 billion in aggregate principal amount of senior secured first lien notes, consisting of (i) $625 million aggregate principal amount of 4.734% senior secured first lien notes due 2030 (the “2030 Notes”) and (ii) $625 million aggregate principal amount of 5.407% senior secured first lien notes due 2035 (the “2035 Notes” and, together with the 2030 Notes, the “New Secured Notes”).
+
+The Company used a portion of the net proceeds from the 2035 Notes to repay in full its $500 million aggregate principal amount of 2.000% senior secured notes on the maturity date of December 2, 2025. For further discussion, see Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Acquisition of LSP Portfolio
+
+On January 30, 2026, NRG completed the acquisition of the LSP Portfolio from LS Power, pursuant to the Purchase Agreement dated as of May 12, 2025. The consideration consisted of 24.25 million shares of NRG common stock and $6.4 billion in cash, plus preliminary working capital and certain other adjustments of $479 million. The Company funded the cash consideration using a portion of the net proceeds from the New Unsecured Notes and the New Secured Notes of $4.4 billion and proceeds of $2.5 billion from the Company’s Revolving Credit Facility. As part of the transaction, NRG also assumed approximately $3.2 billion of debt. For further discussion, see Item 15 — Note 4, Acquisitions and Dispositions and Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Amendment to Term Loan
+
+On July 22, 2025, the Company and APX Group LLC, as borrowers, and certain subsidiaries of the Company, as guarantors, entered into the Fifteenth Amendment to the Second Amended and Restated Credit Agreement (the “Fifteenth Amendment”) with, among others, Citicorp North America, Inc., as administrative agent and as collateral agent (the “Agent”), and certain financial institutions, as lenders, which amended the Company’s Second Amended and Restated Credit Agreement, dated as of June 30, 2016 (the “Credit Agreement”) by adding a new incremental Term Loan B in an aggregate principal amount of $1.0 billion. For further discussion, see Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Revolving Credit Facility
+
+On May 27, 2025, the Company, as borrower, and certain of its subsidiaries, as guarantors, entered into the Fourteenth Amendment to the Credit Agreement in order to increase the commitments under the Revolving Credit Facility by $390 million (the “Incremental Commitments”) to an aggregate amount equal to $4.6 billion. As of January 31, 2026, $2.8 billion of borrowings were outstanding. For further discussion, see Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Convertible Senior Notes Redemption
+
+On July 8, 2025 (the “Redemption Date”), the Company used cash on hand to redeem $12 million in aggregate principal amount of the Convertible Senior Notes, at a redemption price equal to 100.000%. The holders of the remaining outstanding Convertible Senior Notes elected to convert their Convertible Senior Notes prior to the Redemption Date and received $220 million in cash with respect to the remaining principal amount of the Convertible Senior Notes and a total of 3,986,335 shares for the conversion premium. See Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Capped Call Options
+
+During the second quarter of 2024, the Company entered into privately negotiated capped call transactions with certain counterparties (the “Capped Calls”) to mitigate the impact of potential dilution of the Convertible Senior Notes. Upon the exercise and settlement of the Capped Calls on July 8, 2025, the Company paid a total amount of $292 million. For further discussion, see Item 15 — Note 15, Capital Structure .
+
+Receivables Facility
+
+On June 20, 2025, NRG Receivables amended its existing Receivables Facility to extend the scheduled termination date to June 18, 2026.
+
+Texas Development Projects
+
+On July 31, 2025, NRG THW GT LLC, an indirect wholly-owned subsidiary of the Company, entered into the First TEF Loan to support the development of T.H. Wharton, which is currently under construction. The loan bears interest at a fixed rate of 3.000% per annum and has a final maturity date of July 31, 2045. As January 31, 2026, $187 million of disbursements for the First TEF Loan have occurred.
+
+On September 26, 2025, NRG Cedar Bayou 5 LLC, an indirect wholly-owned subsidiary of the Company, entered into the Second TEF Loan to support the development of Cedar Bayou 5, which is currently under construction. The loan bears interest at a fixed rate of 3.000% per annum and has a final maturity date of September 26, 2045. As of January 31, 2026, $269 million of disbursements for the Second TEF Loan have occurred.
+
+On November 20, 2025, NRG Greens Bayou 6 LLC, an indirect wholly-owned subsidiary of the Company, entered into the Third TEF Loan to support the development of Greens Bayou 6, which is currently under construction. The loan bears interest at a fixed rate of 3.000% per annum and has a final maturity date of November 20, 2045. As of January 31, 2026, $95 million of disbursements for the Third TEF Loan have occurred.
+
+Indian River Bonds
+
+On October 23, 2025, the Company remarketed $57 million aggregate principal amount of NRG Indian River 2020 4.000% tax-exempt refinancing bonds due 2040 (the “IR 2040 Bonds”) and $190 million aggregate principal amount of NRG Indian River Power 2020 4.000% tax-exempt refinancing bonds due 2045 (the “IR 2045 Bonds” and, together with the IR 2040 Bonds, the “IR Bonds”). For further discussion, see Item 15 — Note 12, Long-term Debt and Finance Leases .
+
+Bilateral Letter of Credit Facilities
+
+In January and February 2026, the Company and certain of its subsidiaries, as guarantors, entered into amendments to its existing bilateral letter of credit facilities to increase the size of its bilateral credit facilities by $410 million and $90 million, respectively, to provide additional liquidity. As of January 31, 2026, $1.0 billion was issued under these facilities.
+
+Liability Management
+
+The Company executed $310 million in liability management in 2025 and remains committed to maintaining a strong balance sheet and achieving its targeted credit metrics.
+
+Pension and Other Postretirement Benefit Contributions
+
+As of December 31, 2025, the Company’s estimated pension minimum funding requirements for the next 5 years were $96 million, of which $32 million are required to be made within the next 12 months. As of December 31, 2025, the Company’s estimated other postretirement benefits minimum funding requirements for the next 5 years were $21 million, of which $4 million are required to be made within the next 12 months. These amounts represent estimates based on assumptions that are subject to change. For further discussion, see Item 15 — Note 14, Benefit Plans and Other Postretirement Benefits , to the Consolidated Financial Statements.
+
+Debt Service Obligations
+
+For further discussion, see Item 15 — Note 12, Long-term Debt and Finance Leases.
+
+Market Operations
+
+The Company's market operations activities require a significant amount of liquidity and capital resources. These liquidity requirements are primarily driven by: (i) margin and collateral posted with counterparties; (ii) margin and collateral required to participate in physical markets and commodity exchanges; (iii) timing of disbursements and receipts (e.g. buying energy before receiving retail revenues); and (iv) initial collateral for large structured transactions. As of December 31, 2025, market operations had total cash collateral outstanding of $365 million and $2.8 billion outstanding in letters of credit to third parties primarily to support its market activities. As of December 31, 2025, total funds deposited by counterparties were $260 million in cash and $621 million of letters of credit.
+
+The Company has entered into long-term contractual arrangements related to energy purchases, gas transportation and storage, and fuel and transportation services and generation projects. As of December 31, 2025, the Company had minimum payment obligations under such outstanding agreements of $10.2 billion, with $2.8 billion payable within the next 12 months and an additional $1.4 billion of short-term purchase energy commitments. For further discussion, see Item 15 — Note 22, Commitments and Contingencies .
+
+Future liquidity requirements may change based on the Company's hedging activities and structures, fuel purchases, and future market conditions, including forward prices for energy and fuel and market volatility. In addition, liquidity requirements are dependent on the Company's credit ratings and general perception of its creditworthiness.
+
+First Lien Structure
+
+NRG has the capacity to grant first liens to certain counterparties on a substantial portion of the Company's assets, subject to various exclusions including NRG's assets that have project-level financing and the assets of certain non-guarantor subsidiaries, to reduce the amount of cash collateral and letters of credit that it would otherwise be required to post from time to time to support its obligations under out-of-the-money hedge agreements. The first lien program does not limit the volume that can be hedged, or the value of underlying out-of-the-money positions. The first lien program also does not require NRG to post collateral above any threshold amount of exposure. The first lien structure is not subject to unwind or termination upon a ratings downgrade of a counterparty and has no stated maturity date.
+
+As of December 31, 2025, counterparties’ net exposure to NRG of approximately $5 million on out-of-the-money hedges was secured by the first lien structure.
+
+Capital Expenditures
+
+The following table summarizes the Company's capital expenditures for maintenance, environmental and investments and integration for the year ended December 31, 2025:
+
+(a) Capital expenditures exclude W.A. Parish insurance proceeds of $100 million
+
+Investments and Integration for the year ended December 31, 2025 include growth expenditures, integration, small book acquisitions and other investments.
+
+Environmental Capital Expenditures Estimate
+
+NRG estimates that environmental capital expenditures from 2026 through 2029 required to comply with environmental laws will be approximately $34 million, primarily driven by the cost of complying with ELG at the Company's coal units in Texas.
+
+The table below summarizes the status of NRG's coal fleet with respect to air quality controls as of December 31, 2025. NRG uses an integrated approach to fuels, controls and emissions markets to meet environmental requirements.
+
+The following table summarizes the estimated environmental capital expenditures by year:
+
+Share Repurchases
+
+During the year ended December 31, 2025, the Company completed $1.3 billion of share repurchases at an average price of $129.23 per share. See Item 15 — Note 15, Capital Structure for additional discussion.
+
+On October 16, 2025, the Board of Directors authorized an additional share repurchase program of up to $3.0 billion, to be executed through 2028.
+
+Dividend Increase on Common Stock
+
+During the first quarter of 2025, NRG increased the annual dividend on its common stock to $1.76 from $1.63 per share. The Company returned $350 million of capital to common shareholders in the year ended 2025 through a $1.76 dividend per common share. Beginning in the first quarter of 2026, NRG increased the annual common stock dividend to $1.90 per share, representing an 8% increase from 2025. The Company expects to target an annual common stock dividend growth rate of 7-9% per share in subsequent years.
+
+On January 23, 2026, NRG declared a quarterly dividend on the Company's common stock of $0.475 per share, or $1.90 per share on an annualized basis, payable on February 17, 2026, to stockholders of record as of February 2, 2026. The Company's common stock dividends are subject to available capital, market conditions, and compliance with associated laws and regulations.
+
+Series A Preferred Stock Dividends
+
+In March and September 2025, the Company declared and paid semi-annual dividends of $51.25 per share on its outstanding Series A Preferred Stock, each totaling $33 million.
+
+Additional Material Cash Requirements Not Discussed Above
+
+Operating leases — The Company leases generating facilities, land, office and equipment, railcars, fleet vehicles and storefront space at retail stores. As of December 31, 2025, the Company had lease payment obligations of $283 million, of which $50 million is payable within the next 12 months. For further discussion, see Item 15 — Note 9, Leases .
+
+Other liabilities — Other liabilities includes water right agreements, service and maintenance agreements, stadium naming rights, stadium sponsorships, long-term service agreements and other contractual obligations. As of December 31, 2025, the Company had total of $346 million under such commitments, of which $76 million are payable within the next 12 months.
+
+Contingent obligations for guarantees — NRG and its subsidiaries enter into various contracts that include indemnifications and guarantee provisions as a routine part of the Company’s business activities. For further discussion, see Item 15 —Note 26, Guarantees .
+
+Obligations Arising Out of a Variable Interest in an Unconsolidated Entity
+
+Variable Interest in Equity investments — NRG's investment in Ivanpah is a variable interest entity for which NRG is not the primary beneficiary. NRG's pro-rata share of non-recourse debt was approximately $462 million as of December 31, 2025. This indebtedness may restrict the ability of Ivanpah to issue dividends or distributions to NRG.
+
+Cash Flow Discussion
+
+2025 compared to 2024
+
+The following table reflects the changes in cash flows for the comparative years:
+
+Cash (used)/provided by operating activities
+
+Cash (used)/provided by investing activities
+
+Changes to cash (used)/provided by investing activities were driven by:
+
+Cash provided/(used) by financing activities
+
+Changes in cash provided/(used) by financing activities were driven by:
+
+NOLs, Deferred Tax Assets and Uncertain Tax Position Implications
+
+For the year ended December 31, 2025, the Company had domestic pre-tax book income of $1.1 billion and foreign pre-tax book income of $47 million. For the year ended December 31, 2025, the Company utilized U.S. federal NOLs of $247 million, and foreign NOLs of $25 million. As of December 31, 2025, the Company has cumulative U.S. federal NOL carryforwards of $6.6 billion, of which $5.1 billion do not have an expiration date, and cumulative state NOL carryforwards of $6.1 billion for financial statement purposes. NRG also has cumulative foreign NOL carryforwards of $392 million, most of which have no expiration date. In addition to the above NOLs, NRG has a $58 million indefinite carryforward for interest deductions, as well as $288 million of tax credits, inclusive of $92 million of CAMT credits to be utilized in future years. As a result of the Company's tax position, including the utilization of federal and state NOLs, and based on current forecasts, the Company anticipates income tax payments, of up to $90 million in 2026. As of December 31, 2025, NRG as an applicable corporation is subject to the CAMT, however, there is no impact on the Company’s provision for income taxes from the CAMT as of December 31, 2025.
+
+As of December 31, 2025, the Company has $53 million of tax effected uncertain federal, state and foreign tax benefits for which the Company has recorded a non-current tax liability of $59 million (inclusive of accrued interest) until such final resolution with the related taxing authority.
+
+On December 31, 2021, the OECD released rules which set forth a common approach to a global minimum tax at 15% for multinational companies, which has been enacted into law by certain countries effective for 2024. The Company's preliminary analysis indicates that there is no material impact to the Company's financial statements from these rules.
+
+The Company is no longer subject to U.S. federal income tax examinations for years prior to 2022. With few exceptions, state and Canadian income tax examinations are no longer open for years before 2015.
+
+On July 4, 2025, H.R.1 - One Big Beautiful Bill Act (“OBBB”) was enacted into law. The OBBB includes changes to U.S. tax law applicable to NRG beginning in 2025, such as the permanent extension of certain expiring provisions of the TCJA, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions. The impact of the OBBB on the Company’s consolidated financial statements has been reflected in its current and deferred taxes, however, there is no material impact to income tax expense for the year ended December 31, 2025.
+
+Guarantor Financial Information
+
+As of December 31, 2025, the Company's outstanding registered senior notes consisted of $821 million of the 2028 Senior Notes as shown in Item 15 — Note 12, Long-term Debt and Finance Leases . These Senior Notes are guaranteed by certain of NRG's current and future 100% owned domestic subsidiaries, or guarantor subsidiaries (the “Guarantors”). See Exhibit 22.1 to this Annual Report on Form 10-K for a listing of the Guarantors. These guarantees are both joint and several.
+
+NRG conducts much of its business through and derives much of its income from its subsidiaries. Therefore, the Company's ability to make required payments with respect to its indebtedness and other obligations depends on the financial results and condition of its subsidiaries and NRG's ability to receive funds from its subsidiaries. There are no restrictions on the ability of any of the Guarantors to transfer funds to NRG. Other subsidiaries of the Company do not guarantee the registered debt securities of either NRG Energy, Inc. or the Guarantors (such subsidiaries are referred to as the “Non-Guarantors”). The Non-Guarantors include all of NRG's foreign subsidiaries and certain domestic subsidiaries.
+
+The following tables present summarized financial information of NRG Energy, Inc. and the Guarantors in accordance with Rule 3-10 under the SEC's Regulation S-X. The financial information may not necessarily be indicative of the results of operations or financial position of NRG Energy, Inc. and the Guarantors in accordance with U.S. GAAP.
+
+The following table presents the summarized statement of operations:
+
+(a) Intercompany transactions with Non-Guarantors of $53 million during the year ended December 31, 2025
+
+(b) Intercompany transactions with Non-Guarantors including cost of operations of $136 million and selling, general and administrative of $440 million during the year ended December 31, 2025
+
+The following table presents the summarized balance sheet information:
+
+(a) Includes intercompany receivables due from Non-Guarantors of $152 million as of December 31, 2025
+
+(b) Includes intercompany payables due to Non-Guarantors of $6 million as of December 31, 2025
+
+Fair Value of Derivative Instruments
+
+NRG may enter into energy purchase and sales contracts, fuel purchase contracts and other energy-related financial instruments to mitigate variability in earnings due to fluctuations in spot market prices and to hedge fuel requirements at power plants or retail load obligations. In order to mitigate interest risk associated with the issuance of the Company's debt, NRG enters into interest rate derivatives. In addition, in order to mitigate foreign exchange rate risk primarily associated with the purchase of USD denominated natural gas for the Company's Canadian business, NRG enters into foreign exchange contract agreements.
+
+Under the Flex Pay plan (“Flex Pay”), offered by Vivint Smart Home, customers pay for smart home products by obtaining financing from a third-party financing provider (“Consumer Financing Program” or “CFP”). Vivint Smart Home pays certain fees to the financing providers and shares in credit losses on some of the loans.
+
+NRG's trading activities are subject to limits in accordance with the Company's Risk Management Policy. These contracts are recognized on the balance sheet at fair value and changes in the fair value of these derivative financial instruments are recognized in earnings.
+
+The tables below disclose the activities that include both exchange and non-exchange traded contracts accounted for at fair value in accordance with ASC 820, Fair Value Measurements and Disclosures ("ASC 820"). Specifically, these tables disaggregate realized and unrealized changes in fair value; disaggregate estimated fair values at December 31, 2025, based on their level within the fair value hierarchy defined in ASC 820; and indicate the maturities of contracts at December 31, 2025. For a full discussion of the Company's valuation methodology of its contracts, see Derivative Fair Value Measurements in Item 15 — Note 5, Fair Value of Financial Instruments , to the Consolidated Financial Statements.
+
+(a) As of December 31, 2024 and 2025, respectively, includes $770 million and $484 million of derivative contracts that were elected as NPNS on October 1, 2024 and are no longer valued at fair value on a recurring basis. For further discussion, see Item 15 — Note 6, Accounting for Derivative Instruments and Hedging Activities
+
+(a) Excludes $484 million of derivative contracts that were elected as NPNS on October 1, 2024 and are no longer valued at fair value on a recurring basis. For further discussion, see Item 15 — Note 6, Accounting for Derivative Instruments and Hedging Activities
+
+The Company has elected to disclose derivative assets and liabilities on a trade-by-trade basis and does not offset amounts at the counterparty master agreement level. Also, collateral received or posted on the Company's derivative assets or liabilities are recorded on a separate line item on the balance sheet. Consequently, the magnitude of the changes in individual current and
+
+non-current derivative assets or liabilities is higher than the underlying credit and market risk of the Company's portfolio. As discussed in Item 7A — Quantitative and Qualitative Disclosures About Market Risk, Commodity Price Risk , NRG measures the sensitivity of the Company's portfolio to potential changes in market prices using VaR, a statistical model which attempts to predict risk of loss based on market price and volatility. NRG's risk management policy places a limit on one-day holding period VaR, which limits the Company's net open position. As the Company's trade-by-trade derivative accounting results in a gross-up of the Company's derivative assets and liabilities, the net derivative assets and liability position is a better indicator of NRG's hedging activity. As of December 31, 2025, NRG's net derivative asset was $397 million, a decrease of $595 million to total fair value as compared to December 31, 2024. This decrease was driven by the roll-off of trades that settled during the period, losses in fair value and the Texas Generation Portfolio contracts acquired.
+
+Based on a sensitivity analysis using simplified assumptions, the impact of a $0.50 per MMBtu increase or decrease in natural gas prices across the term of the derivative contracts would result in a change of approximately $1.1 billion in the net value of derivatives as of December 31, 2025.
+
+Critical Accounting Estimates
+
+The Company's discussion and analysis of the financial condition and results of operations are based upon the Consolidated Financial Statements, which have been prepared in accordance with GAAP. The preparation of these financial statements and related disclosures in compliance with GAAP requires the application of appropriate technical accounting rules and guidance as well as the use of estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities. The application of appropriate technical accounting rules and guidance involves judgments regarding future events, including the likelihood of success of particular projects, legal and regulatory challenges, and the fair value of certain assets and liabilities. These judgments, in and of themselves, could materially affect the financial statements and disclosures based on varying assumptions, which may be appropriate to use. In addition, the financial and operating environment may also have a significant effect, not only on the operation of the business, but on the results reported through the application of accounting measures used in preparing the financial statements and related disclosures, even if the accounting guidance has not changed.
+
+NRG evaluates these estimates, on an ongoing basis, utilizing historic experience, consultation with experts and other methods the Company considers reasonable. In any event, actual results may differ substantially from the Company's estimates. Any effects on the Company's business, financial position or results of operations resulting from revisions to these estimates are recorded in the period in which the information that gives rise to the revision becomes known.
+
+The Company identifies its most critical accounting estimates as those that are the most pervasive and important to the portrayal of the Company's financial position and results of operations, and require the most difficult, subjective, and/or complex judgments by management about matters that are inherently uncertain.
+
+Such accounting estimates include:
+
+Derivative Instruments
+
+The Company follows the guidance of ASC 815, Derivatives and Hedging "(A SC 815"), to account for derivative instruments. ASC 815 requires the Company to mark-to-market all derivative instruments on the balance sheet and recognize fair value change in earnings, unless they qualify for the NPNS exception. ASC 815 applies to NRG's energy related commodity contracts, interest rate swaps, foreign exchange contracts and Consumer Financing Program.
+
+Energy-Related Commodities
+
+As of December 31, 2025 and 2024, for purposes of measuring the fair value of derivative instruments, the Company primarily used quoted exchange prices and consensus pricing. Consensus pricing is provided by independent pricing services which are compiled from market makers with longer dated tenors as compared to broker quotes. When external prices are not available, NRG uses internal models to determine the fair value. These internal models include assumptions of the future prices of energy commodities based on the specific market in which the energy commodity is being purchased or sold, using externally available forward market pricing curves for all periods possible under the pricing model. These estimations are considered to be critical accounting estimates.
+
+Interest Rate Derivatives
+
+NRG is exposed to changes in interest rates through the Company's issuance of debt. To manage the Company's interest rate risk, NRG enters into interest rate swap agreements and treasury locks. In order to qualify the derivative instruments for hedged transactions, NRG estimates the forecasted borrowings for interest rate swaps occurring within a specified time period.
+
+Foreign Exchange Contracts
+
+In order to mitigate foreign exchange risk primarily associated with the purchase of USD denominated natural gas for the Company's Canadian business, the Company enters into foreign exchange contract agreements.
+
+Consumer Financing Program
+
+The derivative positions for the Company's Consumer Financing Program are valued using a discounted cash flow model, with inputs consisting of available market data, such as market yield discount rates, as well as unobservable internally derived assumptions, such as collateral prepayment rates, collateral default rates and credit loss rates. In summary, the fair value represents an estimate of the present value of the cash flows Vivint Smart Home will be obligated to pay to the third-party financing provider for each component of the derivative.
+
+Certain derivative instruments that meet the criteria for derivative accounting treatment also qualify for a scope exception to derivative accounting, as they are considered to be NPNS. The availability of this exception is based upon the assumption that the Company has the ability and it is probable to deliver or take delivery of the underlying item. These assumptions are based on expected load requirements, internal forecasts of sales and generation and historical physical delivery on contracts. Derivatives that are considered to be NPNS are exempt from derivative accounting treatment and are accounted for under accrual accounting. If it is determined that a transaction designated as NPNS no longer meets the scope exception due to changes in estimates, the related contract would be recorded on the balance sheet at fair value combined with the immediate recognition through earnings.
+
+Income Taxes and Valuation Allowance for Deferred Tax Assets
+
+As of December 31, 2025, NRG’s deferred tax assets were primarily the result of U.S. federal and state NOLs, the difference between book and tax basis in property, plant, and equipment, deferred revenues and tax credit carryforwards. The realization of deferred tax assets is dependent upon the Company's ability to generate sufficient future taxable income during the periods in which those temporary differences become deductible, prior to the expiration of the tax attributes. The evaluation of deferred tax assets requires judgment in assessing the likely future tax consequences of events that have been recognized in the Company's financial statements or tax returns and forecasting future profitability by tax jurisdiction.
+
+The Company evaluates its deferred tax assets on a jurisdictional basis to determine whether adjustments to the valuation allowance are appropriate considering changes in facts or circumstances. As of each reporting date, management considers new evidence, both positive and negative, when determining the future realization of the Company’s deferred tax assets. Given the Company’s current level of pre-tax earnings and forecasted future pre-tax earnings, the Company expects to generate income before taxes in the U.S. in future periods at a level that would fully utilize its U.S. federal NOL carryforwards and the majority of its state NOL carryforwards prior to their expiration.
+
+The Company continues to maintain a valuation allowance of $150 million as of December 31, 2025 against deferred tax assets consisting of state NOL carryforwards and foreign NOL, and capital loss carryforwards in jurisdictions where the Company does not currently believe that the realization of deferred tax assets is more likely than not. As of December 31, 2024, the Company's valuation allowance balance was $144 million.
+
+Considerable judgment is required to determine the tax treatment of a particular item that involves interpretations of complex tax laws. The Company is subject to examination by taxing authorities for income tax returns filed in the U.S. federal jurisdiction and various state and foreign jurisdictions, including operations located in Australia and Canada. The Company continues to be under audit for multiple years by taxing authorities in various jurisdictions.
+
+The Company is no longer subject to U.S. federal income tax examinations for years prior to 2022. With few exceptions, state and Canadian income tax examinations are no longer open for years before 2015.
+
+NRG does not intend, nor currently foresee a need, to repatriate funds held at its international operations into the U.S. These funds are deemed to be indefinitely reinvested in its foreign operations and the Company has not changed its assertion with respect to distributions of funds that would require the accrual of U.S. income tax.
+
+Evaluation of Assets for Impairment
+
+In accordance with ASC 360, Property, Plant, and Equipment (" ASC 360"), the Company evaluates property, plant and equipment and certain intangible assets for impairment whenever indicators of impairment exist. Examples of such indicators or events include:
+
+• Significant decrease in the market price of a long-lived asset;
+
+• Significant adverse change in the manner an asset is being used or its physical condition;
+
+• Adverse business climate;
+
+• Accumulation of costs significantly in excess of the amounts originally expected for the construction or acquisition of an asset;
+
+• Current period loss combined with a history of losses or the projection of future losses; and
+
+• Change in the Company's intent about an asset from an intent to hold to a greater than 50% likelihood that an asset will be sold, or disposed of before the end of its previously estimated useful life.
+
+For assets to be held and used, recoverability is measured by a comparison of the carrying amount of the assets to the undiscounted future net cash flows expected to be generated by the asset, through considering project specific assumptions for long-term power and natural gas prices, escalated future project operating costs and expected plant operations. If the Company determines that the undiscounted cash flows from the asset are less than the carrying amount of the asset, NRG must estimate fair value to determine the amount of any impairment loss. If such assets are considered to be impaired, the impairment to be recognized is measured as the amount by which the carrying amount of the assets exceeds the fair value of the assets, factoring in the different courses of action available to the Company. Generally, fair value will be determined using valuation techniques, such as the present value of expected future cash flows. NRG uses its best estimates in making these evaluations and considers various factors, including forward price curves for energy, fuel and operating costs. However, actual future market prices and project costs could vary from the assumptions used in the Company's estimates and the impact of such variations could be material.
+
+Assets held-for-sale are reported at the lower of the carrying amount or fair value less the cost to sell. The estimation of fair value, whether in conjunction with an asset to be held and used or with an asset held-for-sale, and the evaluation of asset impairment are, by their nature, subjective. The Company considers quoted market prices in active markets to the extent they are available. In the absence of such information, NRG may consider prices of similar assets, consult with brokers or employ other valuation techniques. The Company will also discount the estimated future cash flows associated with the asset using a single interest rate representative of the risk involved with such an investment or asset. The use of these methods involves the same inherent uncertainty of future cash flows as previously discussed with respect to undiscounted cash flows. Actual future market prices and project costs could vary from those used in NRG's estimates and the impact of such variations could be material.
+
+Annually, during the fourth quarter, the Company revises its views of power and fuel prices including the Company's fundamental view for long-term prices, forecasted generation and operating and capital expenditures, in connection with the preparation of its annual budget. Changes to the Company's views of long-term power and fuel prices impact the Company’s projections of profitability, based on management's estimate of supply and demand within the sub-markets for its operations and the physical and economic characteristics of each of its businesses.
+
+For further discussion, see Item 15 — Note 10 , Asset Impairments .
+
+Goodwill and Other Intangible Assets
+
+At December 31, 2025, the Company reported goodwill of $5.0 billion, consisting of $3.5 billion from the acquisition of Vivint in 2023, $1.2 billion from the acquisition of Direct Energy in 2021 and $300 million from other retail acquisitions.
+
+The Company applies ASC 805, Business Combinations ("ASC 805"), and ASC 350, Intangibles-Goodwill and Other (" ASC 350") to account for its goodwill and intangible assets. Under these standards, the Company amortizes all finite-lived intangible assets over their respective estimated weighted-average useful lives. Goodwill has an indefinite life and is not amortized. Goodwill is tested for impairment at least annually, or more frequently whenever an event or change in circumstances occurs that would more likely than not reduce the fair value of a reporting unit below its carrying amount. The Company tests goodwill for impairment at the reporting unit level, which is identified by assessing whether the components of the Company's operating segments constitute businesses for which discrete financial information is available and whether segment management regularly reviews the operating results of those components. The Company performs the annual goodwill impairment assessment as of December 31 or when events or changes in circumstances indicate that the fair value of the reporting unit may be below the carrying amount. The Company may first assess qualitative factors to determine whether it is more likely than not that an impairment has occurred. In the absence of sufficient qualitative factors, the Company performs a
+
+quantitative assessment by determining the fair value of the reporting unit and comparing to its book value. If it is determined that the fair value of a reporting unit is below its carrying amount, the Company's goodwill will be impaired at that time.
+
+Fair value determinations require considerable judgment and are sensitive to changes in underlying assumptions and factors. As a result, there can be no assurance that the estimates and assumptions made for purposes of the annual goodwill impairment test will prove to be accurate predictions of the future.
+
+For further discussion, see Evaluation of Assets for Impairment caption above, and Item 15 — Note 10 , Asset Impairments .
+
+Business Combinations
+
+NRG accounts for business acquisitions using the acquisition method of accounting prescribed under ASC 805. Under this method, the Company is required to record on its Consolidated Balance Sheets the estimated fair values of the acquired company’s assets and liabilities assumed at the acquisition date. The excess of the consideration transferred over the fair value of the net identifiable assets acquired and liabilities assumed is recorded as goodwill. Determining fair values of assets acquired and liabilities assumed requires significant estimates and judgments. Fair value is determined based on the estimated price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+The acquired assets and assumed liabilities from the Texas Generation Portfolio acquisition that involved the most subjectivity in determining fair value consisted of property, plant, and equipment and derivative instruments. The fair values of the property, plant and equipment were measured using income-based valuation methodologies, which included certain assumptions, such as forecasted future cash flows, discount rates, market prices and asset lives. The derivative instruments were measured using an income-based valuation approach, which included available market data, such as consensus pricing, as well as unobservable internally derived assumptions, such as volatility factors and credit exposure.
+
+NRG describes in detail its acquisitions in Item 15 — Note 4, Acquisitions and Dispositions , to the Consolidated Financial Statements.
+
+Contingencies
+
+NRG records reserves for estimated losses from contingencies when information available indicates that a loss is probable and the amount of the loss, or range of loss, can be reasonably estimated. Gain contingencies are not recorded until management determines it is certain that the future event will become or does become a reality. Such determinations are subject to interpretations of current facts and circumstances, forecasts of future events, and estimates of the financial impacts of such events. NRG describes in detail its contingencies in Item 15 — Note 22, Commitments and Contingencies, Note 23, Regulatory Matters , and Note 24, Environmental Matters to the Consolidated Financial Statements.
+
+Recent Accounting Developments
+
+See Item 15 — Note 2, Summary of Significant Accounting Policies, to the Consolidated Financial Statements for a discussion of recent accounting developments.

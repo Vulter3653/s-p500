@@ -1,44 +1,59 @@
-# 2025 Pilot HTML Collection Validation Report
+# 2025 Pilot Text Extraction Validation Report
 
 Updated: 2026-07-29
 
 ## Result
 
-`PASS` — HTML collection completed.
+`PASS` — analysis-ready text extraction completed with retained section
+warnings.
 
-- Input: only `sample/final_analysis_sample_100.csv`.
-- Input rows and downloaded SEC primary filings: 100.
-- HTML files and manifest rows: 100 each.
-- Unique accessions and SHA-256 digests: 100 each.
-- Empty or zero-byte files: 0.
-- HTTP failures: 0.
-- Retry events: 0.
-- reportDate mismatches: 0.
-- Maximum filing size: 18,147,230 bytes.
-- Total HTML size: 448,173,188 bytes.
+- Input HTML and matching source SHA-256: 100/100.
+- Analysis, structure-preserved, and table-text files: 100 each.
+- Empty analysis files and output SHA mismatches: 0.
+- Total analysis words: 6,172,973.
+- Company word counts: minimum 9,287; median 55,105; maximum 237,550.
+- Analysis-text bytes / source-HTML bytes: 9.22%.
+- Paragraphs: 141,796 rows and unique IDs across 100 companies.
+- Sentences: 298,250 rows and unique IDs across 100 companies.
+- HTML tag, script/style, XBRL namespace, and broken-character errors: 0.
+- Parser attempts: 100 succeeded on attempt 1; no attempt 2/3 or failures.
+- Idempotent rerun: 100 SHA-matched companies skipped.
 
-Every input row has exact form `10-K`, a reportDate in 2025, a filingDate no
-later than 2026-07-29, and nonempty accession and primary-document fields.
-Downloaded paths use `html/raw/<CIK>/<accession>.html`. The manifest records
-the SHA-256 and byte size of each file.
+## Major Item detection
 
-The downloader was run a second time to verify idempotency. All 100 existing
-files matched their recorded SHA-256 and were skipped without network
-requests. The request log therefore remains at 100 successful HTTP 200 rows.
-It contains only URL, start/end timestamps, status code, and retry flag; it
-does not contain the SEC User-Agent value.
+| Item | Companies detected |
+| --- | ---: |
+| Item 1 | 72 |
+| Item 1A | 84 |
+| Item 7 | 84 |
+| Item 8 | 85 |
+
+Across the ten requested Items, 163 company-section rows are `not_present`.
+There are 137 section-level boundary warnings. Optional absence is not a
+failure. Company-level quality warnings are retained for 41 companies where a
+core Item is missing or its detected boundary is unusually short or weak.
+
+## Manual review
+
+Five distinct companies were selected by minimum/maximum HTML size,
+minimum/maximum analysis word count, and fixed seed `20250729`.
+
+- Pass: NVR and CPRT.
+- Warning: WFC likely lost material narrative because of table-based layout.
+- Warning: D retained extensive text but Item 7 was not detected.
+- Warning: ETR's Item 7 boundary is a short cross-reference in a
+  multi-registrant filing.
+
+These warnings remain in `failed_or_warning_cases.csv`; they were not
+reclassified as successful section detection.
 
 ## Validation
 
-The following completed successfully:
+All 30 tests, `py_compile`, annual constituent validation, extraction quality
+checks, source/output SHA checks, and `git diff --check` pass. Detailed
+paragraph and sentence tables are gzip CSVs to keep each repository file below
+20 MB.
 
-```bash
-python scripts/download_10k_html.py
-python -m unittest discover -s tests -p 'test_*.py' -v
-python -m py_compile scripts/*.py tests/*.py
-git diff --check
-```
-
-The suite ran 19 tests. SHA-256 values were recalculated from all 100 local
-files and matched the manifest. No parsing, body extraction, NLP, AI analysis,
-or linguistic-variable measurement was performed.
+No AI classification, language-variable calculation, NLP model fitting,
+financial-control collection, or sample expansion was performed. The next
+stage is a 3-5 company language-variable smoke test.

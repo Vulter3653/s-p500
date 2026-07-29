@@ -1,0 +1,797 @@
+Item 8. Financial Statements and Supplementary Data.
+
+Management's Report on Internal Control Over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America.
+
+We assessed the effectiveness of our internal control over financial reporting as of December 31, 2025 using the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO") in Internal Control – Integrated Framework (2013). Based on this assessment, we have determined that our internal control over financial reporting was effective as of December 31, 2025.
+
+PricewaterhouseCoopers LLP (PCAOB ID 238 ), an independent registered public accounting firm, has audited the effectiveness of our internal control over financial reporting as of December 31, 2025, as stated in their report, which is presented herein. Their report expressed an unqualified opinion on the effectiveness of our internal control over financial reporting as of December 31, 2025 and expressed an unqualified opinion on our 2025 consolidated financial statements. This report is included herein under the heading "Report of Independent Registered Public Accounting Firm."
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of Masco Corporation
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of Masco Corporation and its subsidiaries (the "Company") as of December 31, 2025 and 2024, and the related consolidated statements of operations, of comprehensive income (loss), of shareholders' equity and of cash flows for each of the three years in the period ended December 31, 2025, including the related notes and financial statement schedule listed in the index appearing under Item 15(a)(2) (collectively referred to as the "consolidated financial statements"). We also have audited the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the COSO.
+
+Basis for Opinions
+
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements
+
+in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matters
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Revenue Recognition - Plumbing Products
+
+As described in Notes A and D to the consolidated financial statements, the Company’s plumbing products revenue was $4,992 million for the year ended December 31, 2025. The Company recognizes revenue as control of its products is transferred to its customers, which is generally at the time of shipment or upon delivery based on the contractual terms with its customers. The Company provides customer programs and incentive offerings, which are considered variable consideration. The Company includes in revenue variable consideration only to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur when the variable consideration is resolved. This determination is made based upon known customer program and incentive offerings at the time of sale and expected sales volume forecasts as it relates to the volume-based incentives.
+
+The principal considerations for our determination that performing procedures relating to revenue recognition for plumbing products is a critical audit matter are a high degree of auditor effort in performing procedures and evaluating audit evidence related to the Company’s revenue recognition.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the revenue recognition process, including controls over the recording of plumbing products revenue as control is transferred to the customer. These procedures also included, among others (i) evaluating certain revenue transactions by either (a) testing a sample of revenue transactions by obtaining and inspecting source documents, such as purchase orders, invoices, proof of shipment, and cash receipts or (b) testing the issuance and settlement of invoices and credit memos, tracing transactions not settled to a detailed listing of accounts receivable, and testing the completeness and accuracy of data provided by management; (ii) testing a sample of customer program and incentive transactions by obtaining and inspecting source documents, such as support for the nature of the customer program or incentive, amount, and agreement with the customer; and (iii) confirming, on a sample basis, outstanding customer invoice balances as of December 31, 2025 and, for confirmations not returned, obtaining and inspecting source documents, such as invoices, proof of shipment, and subsequent cash receipts.
+
+/s/ PricewaterhouseCoopers LLP
+
+Detroit, Michigan
+
+February 10, 2026
+
+We have served as the Company’s auditor since 1959.
+
+Financial Statements and Supplementary Data
+
+MASCO CORPORATION and Consolidated Subsidiaries
+
+CONSOLIDATED BALANCE SHEETS
+
+December 31, 2025 and 2024
+
+(In Millions, Except Share Data)
+
+See notes to consolidated financial statements.
+
+Amounts may not add due to rounding.
+
+MASCO CORPORATION and Consolidated Subsidiaries
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+For the Years Ended December 31, 2025, 2024 and 2023
+
+(In Millions, Except Per Common Share Data)
+
+See notes to consolidated financial statements.
+
+Amounts may not add due to rounding.
+
+MASCO CORPORATION and Consolidated Subsidiaries
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+For the Years Ended December 31, 2025, 2024 and 2023
+
+(In Millions)
+
+See notes to consolidated financial statements.
+
+Amounts may not add due to rounding.
+
+MASCO CORPORATION and Consolidated Subsidiaries
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+For the Years Ended December 31, 2025, 2024 and 2023
+
+(In Millions)
+
+See notes to consolidated financial statements.
+
+Amounts may not add due to rounding.
+
+MASCO CORPORATION and Consolidated Subsidiaries
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+For the Years Ended December 31, 2025, 2024 and 2023
+
+(In Millions, Except Per Common Share Data)
+
+See notes to consolidated financial statements.
+
+Amounts may not add due to rounding.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+A. ACCOUNTING POLICIES
+
+Basis of Presentation. The accompanying consolidated financial statements and footnotes have been prepared in accordance with accounting principles generally accepted ("GAAP") in the United States of America. Within the financial statements and tables presented, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes.
+
+Principles of Consolidation. The consolidated financial statements include the accounts of Masco Corporation and all majority-owned subsidiaries. All significant intercompany transactions have been eliminated. We consolidate the assets, liabilities and results of operations of variable interest entities for which we are the primary beneficiary.
+
+Use of Estimates and Assumptions in the Preparation of Financial Statements. The preparation of financial statements in conformity with GAAP requires us to make certain estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of any contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results may differ from these estimates and assumptions.
+
+Revenue Recognition. We recognize revenue as control of our products is transferred to our customers, which is generally at the time of shipment or upon delivery based on the contractual terms with our customers. Our customers' payment terms generally range from 30 to 65 days.
+
+We provide customer programs and incentive offerings, including special pricing and co-operative advertising arrangements, promotions and other volume-based incentives. These customer programs and incentives are considered variable consideration. We include in revenue variable consideration only to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur when the variable consideration is resolved. This determination is made based upon known customer program and incentive offerings at the time of sale and expected sales volume for ecasts as it relates to our volume-based incentives. This determination is updated each reporting period.
+
+Certain product sales include a right of return. We estimate future product returns at the time of sale based on historical experience and record a corresponding refund liability. We additionally record an asset, based on historical experience, for the amount of product we expect to return to inventory as a result of the return, which is recorded in prepaid expenses and other in the consolidated balance sheets.
+
+We consider shipping and handling activities performed by us as activities to fulfill the sales of our products. Amounts billed for shipping and handling are included in net sales, while costs incurred for shipping and handling are included in cost of sales. We capitalize incremental costs of obtaining a contract and expense the costs on a straight-line basis over the contractual period if the cost is recoverable, the cost would not have been incurred without the contract and the term of the contract is greater than one year; otherwise, we expense the amounts as incurred. We do not adjust the promised amount of consideration for the effects of a financing component if the period between when we transfer our products or services and when our customers pay for our products or services is expected to be one year or less.
+
+Customer Displays. In-store displays that are owned by us and used to market our products are included in other assets in the consolidated balance sheets and are amortized using the straight-line method over the expected useful life of three to five years ; related amortization expense is classified as a selling expense in the consolidated statements of operations.
+
+Foreign Currency. The financial statements of our foreign subsidiaries are measured using the local currency as the functional currency. Assets and liabilities of these subsidiaries are translated at exchange rates as of the balance sheet dates. Revenues and expenses are translated at average exchange rates in effect during the year. The resulting cumulative translation adjustments have been recorded in accumulated other comprehensive income in the consolidated balance sheets. Realized foreign currency transaction gains and losses are included in other income (expense), net in the consolidated statements of operations.
+
+Cash and Cash Investments. We consider all highly liquid investments with an initial maturity of three months or less to be cash and cash investments.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+A. ACCOUNTING POLICIES (Continued)
+
+Receivables. We do business with home center retailers, wholesalers and a number of other customers. We monitor our exposure for credit losses on customer receivable balances and other financial investments measured at amortized cost and the credit worthiness of customers on an on-going basis, including requiring the completion of credit applications and performing periodic reviews of our open accounts receivable. We record allowances for credit losses for estimated losses resulting from the inability of our customers to fulfill their required payment obligation to us. Allowances are estimated based upon specific customer balances where a risk of loss has been identified, and also include a provision for losses based upon historical collection experience and write-off activity as well as reasonable and supportable forecast information that considers macro-economic factors and industry-specific trends associated with our businesses, among other factors. A separate allowance is recorded for customer incentive rebates and is generally based upon sales activity. Receivables are presented net of certain allowances (including allowances for credit losses) of $ 53 million and $ 51 million at December 31, 2025 and 2024, respectively. Our receivables balances are generally due in less than one year.
+
+Property and Equipment. Property and equipment, including significant improvements to existing facilities, are recorded at cost. Upon retirement or disposal, the cost and accumulated depreciation are removed from the accounts and any gain or loss is included in the consolidated statements of operations. Maintenance and repair costs are charged against earnings as incurred.
+
+At the asset group level, we review our property and equipment as events occur or circumstances change that would more likely than not reduce the fair value of the property and equipment below its carrying amount. If the carrying amount of property and equipment is not recoverable from its undiscounted cash flows, then we would recognize an impairment loss for the difference between the carrying amount and the current fair value. Further, we evaluate the remaining useful lives of property and equipment at each reporting period to determine whether events and circumstances warrant a revision to the remaining depreciation periods.
+
+Depreciation. Depreciation expense is computed principally using the straight-line method over the estimated useful lives of the assets. The estimated useful lives of depreciable assets are as follows: buildings and land improvements, 20 to 40 years, computer hardware and software, three to six years , and machinery and equipment, three to 25 years. Depreciation expense was $ 126 million in 2025, $ 118 million in 2024 and $ 115 million in 2023.
+
+Leases. We determine if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use assets (“ROU assets”), accrued liabilities and noncurrent operating lease liabilities on our consolidated balance sheets. Finance lease ROU assets are included in property and equipment, net, notes payable, and long-term debt on our consolidated balance sheets.
+
+ROU assets represent our right to use an underlying asset for the duration of the lease term while lease liabilities represent our obligation to make lease payments in exchange for the right to use an underlying asset. ROU assets and lease liabilities are measured based on the present value of fixed lease payments over the lease term at the commencement date. The ROU asset also includes any lease payments made prior to the commencement date and initial direct costs incurred, and is reduced by any lease incentives received. We review our ROU assets at the asset group level as events occur or circumstances change that would indicate the carrying amount of the ROU assets are not recoverable and exceed their fair values. If the carrying amount of the ROU asset is not recoverable from its undiscounted cash flows, then we would recognize an impairment loss for the difference between the carrying amount and the current fair value.
+
+As most of our leases do not provide an implicit discount rate, we generally use our incremental borrowing rate on the commencement date of the lease as the discount rate in determining the present value of future lease payments. We determine the incremental borrowing rate for each lease by using the current yields of our uncollateralized, publicly traded debts with maturity periods similar to the respective lease term or a comparable market alternative, adjusted to a collateralized basis based on third-party data. Our lease terms may include options to extend or terminate the lease when there are relevant economic incentives present that make it reasonably certain that we will exercise that option. We account for any non-lease components separately from lease components.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+A. ACCOUNTING POLICIES (Continued)
+
+For operating leases, lease expense for future fixed lease payments is recognized on a straight-line basis over the lease term. For finance leases, lease expense for future fixed lease payments is recognized using the effective interest rate method over the lease term. Variable lease payments are recognized as lease expense in the period incurred. Leases with an initial term of 12 months or less are not recorded on the consolidated balance sheets; we recognize lease expense for these leases on a straight-line basis over the lease term.
+
+Goodwill and Other Intangible Assets. We perform our annual impairment testing of goodwill in the fourth quarter of each year, or as events occur or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount. We have defined our reporting units and completed the impairment testing of goodwill at the operating segment level. Our operating segments are reporting units that engage in business activities, for which discrete financial information, including five-year forecasts, is available. We compare the fair value of the reporting units to the carrying value of the reporting units for goodwill impairment testing. Fair value is determined using a discounted cash flow method, which includes significant unobservable inputs (Level 3 inputs), and requires us to make significant estimates and assumptions, including long-term projections of cash flows, market conditions and appropriate discount rates. Our judgments are based upon historical experience, current market trends, consultations with external valuation specialists and other information. In estimating future cash flows, we rely on internally generated five-year forecasts for sales and operating profits, and, currently, a two percent long-term assumed annual growth rate of cash flows for periods after the five-year forecast. For 2025, we utilized a weighted average cost of capital of approximately 7.75 percent as the basis to determine the discount rate to apply to the estimated future cash flows. Based upon our assessment of the risks impacting each of our businesses, we applied a risk premium to increase the discount rate to a range of 9.75 percent to 11.75 percent for our reporting units. If the carrying amount of a reporting unit exceeds its fair value, an impairment loss is recognized to the extent that a reporting unit's carrying value exceeds its fair value, not to exceed the carrying amount of goodwill in that reporting unit.
+
+We review our other indefinite-lived intangible assets for impairment annually in the fourth quarter, or as events occur or circumstances change that indicate the assets may be impaired without regard to the business unit. Potential impairment is identified by comparing the fair value of an other indefinite-lived intangible asset to its carrying value. We utilize a relief-from-royalty model to estimate the fair value of other indefinite-lived intangible assets. We consider the implications of both external (e.g., market growth, competition and local economic conditions) and internal (e.g., product sales and expected product growth) factors and their potential impact on cash flows related to the intangible asset in both the near- and long-term. We also consider the profitability of the business, among other factors, to determine the royalty rate for use in the impairment assessment. We utilize our weighted average cost of capital of approximately 7.75 percent as the basis to determine the discount rate to apply to the estimated future cash flows. In 2025, based upon our assessment of the risks impacting each of our businesses and the nature of the other indefinite-lived intangible asset (i.e., trade name), we applied a risk premium to increase the discount rate to a range of 10.75 percent to 12.00 percent for our other indefinite-lived intangible assets.
+
+While we believe that the estimates and assumptions underlying the valuation methodologies are reasonable, different estimates and assumptions could result in different outcomes.
+
+Intangible assets with finite useful lives are amortized using the straight-line method over their estimated useful lives. We review our intangible assets with finite useful lives at the asset group level as events occur or circumstances change that would more likely than not reduce the fair value of the amortizable intangible assets below its carrying amount. If the carrying amount of the amortizable intangible asset is not recoverable from the undiscounted cash flows, then we would recognize an impairment loss for the difference between the carrying amount and the current fair value. We evaluate the remaining useful lives of amortizable intangible assets at each reporting period to determine whether events or circumstances warrant a revision to the remaining periods of amortization.
+
+Refer to Note H for additional information regarding goodwill and other intangible assets.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+A. ACCOUNTING POLICIES (Continued)
+
+Acquisitions. We allocate the purchase price of an acquired business to its identifiable assets and liabilities based on estimated fair values. The excess of the purchase price over the amount allocated to the assets and liabilities, if any, is recorded as goodwill. In addition, any contingent consideration is fair valued as of the date of the acquisition and is recorded as part of the purchase price. This estimate is updated in future periods and any changes in the estimate, which are not considered an adjustment to the purchase price, are recorded in our consolidated statements of operations.
+
+We use all available information to estimate fair values. We typically engage external valuation specialists to assist in the fair value determination of identifiable intangible assets and any other significant assets or liabilities. We adjust the preliminary purchase price allocation, as necessary, up to one year after the acquisition closing date as we obtain more information regarding assets acquired and liabilities assumed based on facts and circumstances that existed as of the acquisition date.
+
+Our purchase price allocation methodology contains uncertainties because it requires us to make assumptions and to apply judgment to estimate the fair value of acquired assets and assumed liabilities. We estimate the fair value of assets and liabilities based upon the carrying value of the acquired assets and assumed liabilities and widely accepted valuation techniques, including discounted cash flows. Unanticipated events or circumstances may occur which could affect the accuracy of our fair value estimates, including assumptions regarding industry economic factors and business strategies.
+
+Other estimates used in determining fair value include, but are not limited to, future cash flows or income related to intangibles, market rate assumptions and appropriate discount rates. Our estimates of fair value are based upon assumptions believed to be reasonable, but that are inherently uncertain, and therefore, may not be realized. Accordingly, there can be no assurance that the estimates, assumptions, and values reflected in the valuations will be realized, and actual results could vary materially.
+
+Refer to Note B for additional information regarding acquisitions.
+
+Fair Value Measurements. For our qualified defined-benefit pension plans, we have adopted accounting guidance that defines fair value, establishes a framework for measuring fair value and prescribes disclosures about fair value measurements.
+
+We use derivative financial instruments to manage certain exposure to fluctuations in earnings and cash flows resulting from changes in foreign currency exchange rates, and occasionally from interest rate exposures. Derivative financial instruments are recorded in the consolidated balance sheets as either an asset or liability measured at fair value, netted by counterparty, where the right of offset exists. The gain or loss is recognized in determining current earnings during the period of the change in fair value. We currently do not have any derivative instruments for which we have designated hedge accounting.
+
+Warranty. We offer limited warranties on certain products with warranty periods that can last up to the lifetime of the product to the original purchaser. At the time of sale, we accrue a warranty liability for the estimated future cost to provide products, parts or services to repair or replace products, or refunds to satisfy our warranty obligations. Our estimate of future costs to service our warranty obligations is based upon the information available and includes a number of factors, such as the warranty coverage, the warranty period, historical experience specific to the nature, frequency and average cost to service the claim, along with industry and demographic trends.
+
+Certain factors and related assumptions in determining our warranty liability involve judgments and estimates and are sensitive to changes in the factors described above. We believe that the warranty accrual is appropriate; however, actual claims incurred could differ from our original estimates which would require us to adjust our previously established accruals. Refer to Note R for additional information on our warranty accrual.
+
+A significant portion of our business is at the consumer retail level through home center retailers and other major retailers. A consumer may return a product to a retailer that is a warranty return. However, certain retailers do not distinguish between warranty and other types of returns when they claim a return deduction from us. Our revenue recognition policy takes into account this type of return when recognizing revenue, and an estimate of these amounts is recorded as a deduction to net sales at the time of sale.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+A. ACCOUNTING POLICIES (Continued)
+
+Insurance Reserves. We provide for expenses associated with workers' compensation and product liability obligations when such amounts are probable and can be reasonably estimated. The accruals are adjusted as new information develops or circumstances change that would affect the estimated liability. Any obligations expected to be settled within 12 months are recorded in accrued liabilities; all other obligations are recorded in other liabilities.
+
+Litigation. We are involved in claims and litigation, including class actions, mass torts and regulatory proceedings, which arise in the ordinary course of our business. Liabilities and costs associated with these matters require estimates and judgments based upon our professional knowledge and experience and that of our legal counsel. When a liability is probable of being incurred and our exposure in these matters is reasonably estimable, amounts are recorded as charges to earnings. The ultimate resolution of these exposures may differ due to subsequent developments.
+
+Stock-Based Compensation. We may issue stock-based incentives in various forms to our employees and non-employee Directors, including restricted stock units ("RSUs"), performance restricted stock units ("PRSUs"), stock options, long-term stock awards, phantom stock awards, and stock appreciation rights ("SARs").
+
+We measure compensation expense for RSUs and long-term stock awards at the market price of our common stock at the grant date. We measure compensation expense for PRSUs at the expected payout of the awards. We measure compensation expense for stock options using a Black-Scholes option pricing model. We recognize forfeitures related to RSUs, PRSUs, stock options and long-term stock awards as they occur.
+
+We initially measure compensation expense for phantom stock awards at the market price of our common stock at the grant date. Phantom stock awards are linked to the value of our common stock on the date of grant and are settled in cash upon vesting. We account for phantom stock awards as liability-based awards; the liability is remeasured and adjusted at the end of each reporting period until the awards are fully-vested and paid to the employees. We measure compensation expense for SARs using a Black-Scholes option pricing model; such expense is recognized ratably over the vesting period. SARs are linked to the value of our common stock on the date of grant and are settled in cash upon exercise. We account for SARs using the fair value method, which requires outstanding SARs to be classified as liability-based awards. The liability is remeasured and adjusted at the end of each reporting period until the SARs are exercised and payment is made to the employees or the SARs expire.
+
+Under our 2024 Long Term Stock Incentive Plan, retirement-eligibility is defined as age 65 or age 55 with at least 10 years of continuous service for RSUs, stock options, phantom stock awards and SARs. Compensation expense for equity awards is recognized ratably over the shorter of the vesting period, typically three years, or the length of time until the grantee becomes retirement eligible. Expense for PRSUs is recognized ratably over the three-year vesting period of the units.
+
+Refer to Note L for additional information on stock-based compensation.
+
+Noncontrolling Interest. We owned 68 percent of Hansgrohe SE at both December 31, 2025 and 2024. The aggregate noncontrolling interest, net of dividends, at December 31, 2025 and 2024 has been recorded as a component of equity on our consolidated balance sheets.
+
+Discontinued Operations. We report financial results for discontinued operations separately from continuing operations to distinguish the financial impact of disposal transactions from ongoing operations. Discontinued operations reporting occurs only when the disposal of a component or a group of components represents a strategic shift that will have a major effect on our operations and financial results. In our consolidated statements of cash flows, the cash flow from discontinued operations are not separately classified.
+
+Income Taxes. We record deferred taxes on the future tax consequences of differences between the financial statement carrying value of our assets and liabilities and their respective tax basis. The realization of deferred tax assets depends on sufficient sources of taxable income in future periods. If, based upon all available evidence, both positive and negative, it is more likely than not our deferred tax assets will not be realized, a valuation allowance is recorded.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+A. ACCOUNTING POLICIES (Concluded)
+
+We only recognize the tax benefits from income tax positions that have a greater than 50 percent likelihood of being sustained upon examination by the taxing authorities. A liability is recorded for uncertain tax positions where it is more likely than not the position may not be sustained based on its technical merits. We record interest and penalties on our uncertain tax positions in income tax expense.
+
+We record the tax effects of Net Controlled Foreign Corporation Tested Income related to our foreign operations, if applicable, as a component of income tax expense in the period the tax arises.
+
+We allocate our provision for income taxes between continuing operations and other categories of earnings. Adjustments to deferred taxes originally recorded to other comprehensive income (loss) may reverse in a different category of earnings, such as continuing operations, resulting in a disproportionate tax effect within accumulated other comprehensive income. Generally, a disproportionate tax effect will be eliminated and recognized in income tax expense when the circumstances upon which it is premised cease to exist.
+
+We include payments for the purchase of transferable tax credits in our income tax expense and in our income taxes paid disclosure in the jurisdiction in which the credits are claimed.
+
+Recently Adopted Accounting Pronouncements. In December 2023, the Financial Accounting Standards Board ("FASB") issued ASU 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which requires additional income tax disclosures, particularly regarding the effective tax rate reconciliation and income taxes paid. We adopted this standard for annual periods beginning January 1, 2025. The adoption of this guidance modified our annual disclosures, but did not have an impact on our financial position and results of operations.
+
+Recently Issued Accounting Pronouncements. In December 2025, the FASB issued ASU 2025-10, "Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities," which establishes guidance on the recognition, measurement, and presentation of government grants received by business entities. ASU 2025-10 is effective on a modified prospective, modified retrospective, or retrospective basis for interim and annual reporting periods beginning January 1, 2029. Early adoption is permitted. We are currently reviewing the provisions of this standard and the impact, if any, the adoption of this guidance will have on our financial position and results of operations.
+
+In September 2025, the FASB issued ASU 2025-06, "Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software," which requires that an entity capitalize internal-use software development costs once management has authorized and committed to funding the software project and it is probable that the project will be completed and the software will be used to perform the function intended. ASU 2025-06 is effective on a prospective, modified transition, or retrospective basis for interim and annual reporting periods beginning January 1, 2028. Early adoption is permitted. We are currently reviewing the provisions of this standard and the impact, if any, the adoption of this guidance will have on our financial position and results of operations.
+
+In July 2025, the FASB issued ASU 2025-05, "Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets," which provides a practical expedient that allows entities to assume the current conditions as of the balance sheet date do not change for the remaining life of the asset when estimating expected credit losses for current accounts receivable and current contract assets. ASU 2025-05 is effective on a prospective basis for interim and annual reporting periods beginning January 1, 2026. The adoption of this guidance is not expected to materially impact our financial position and results of operations.
+
+In November 2024, the FASB issued ASU 2024-03, "Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses," which requires additional disclosure of the nature of expenses included in the income statement. ASU 2024-03 is effective on a prospective or retrospective basis for annual periods beginning January 1, 2027, and interim periods within those annual periods beginning January 1, 2028. Early adoption is permitted. The adoption of this guidance will modify our disclosures, but will not have an impact on our financial position and results of operations.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+B. ACQUISITIONS
+
+In the third quarter of 2023, we acquired all of the share capital of Sauna360 Group Oy (“Sauna360”) for approximately € 124 million ($ 136 million), net of cash acquired. Sauna360 has a portfolio of products that includes traditional, infrared, and wood-burning saunas as well as steam showers. The business is included within the Plumbing Products segment. In connection with this acquisition, we recognized $ 22 million of indefinite-lived intangible assets, which is related to trademarks, and $ 45 million of definite-lived intangible assets, primarily related to customer relationships. The definite-lived intangible assets are being amortized on a straight-line basis over a weighted average amortization period of 16 years. We also recognized $ 60 million of goodwill, which is not tax deductible, and is related primarily to the expected synergies from combining the operations into our business. During the fourth quarter of 2023 and third quarter of 2024, we updated the allocation of the purchase price to certain identifiable assets and liabilities based on analysis of information as of the acquisition date, which resulted in a $ 1 million decrease and a $ 2 million increase to goodwill, respectively.
+
+In the first quarter of 2021, our Hansgrohe SE subsidiary acquired a 75.1 percent equity interest in Easy Sanitary Solutions B.V. ("ESS"). The remaining 24.9 percent equity interest in ESS was subject to a call and put option that was exercisable by Hansgrohe SE or the sellers, respectively, any time after December 31, 2023. In the first quarter of 2024, the sellers exercised their put option to sell the remaining 24.9 percent equity interest in ESS for € 13 million ($ 15 million). The transaction was accounted for as an equity purchase transaction.
+
+C. DIVESTITURES
+
+In the third quarter of 2024, we sold our Kichler Lighting ("Kichler") business, a provider of decorative residential and light commercial lighting products, ceiling fans, and LED lighting systems, for consideration of $ 125 million, net of cash disposed, and subject to final closing adjustments. Post-closing adjustments were finalized with the buyer in the fourth quarter of 2024. In connection with the divestiture, we recognized a loss of $ 88 million, inclusive of costs to sell, for the year ended December 31, 2024, which is included in other, net in our consolidated statement of operations. The sale of Kichler did not represent a strategic shift that will have a major effect on our operations and financial results and therefore was not presented as discontinued operations. Prior to the divestiture, the results of the business were included in our Decorative Architectural Products segment.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+D. REVENUE
+
+Our revenues are derived from sales to customers in the following geographic areas: North America and International, which are particularly in Europe. Net sales from these geographic areas, by segment, were as follows, in millions:
+
+We recognized increases t o revenue o f $ 3 million, $ 10 million, and $ 12 million in 2025, 2024, and 2023, respectively, for variable consideration related to performance obligations settled in previous periods.
+
+We record contract assets for items for which we have satisfied our performance obligation but our receipt of payment is contingent upon delivery or other circumstances other than the passage of time. Our contract assets are recorded in prepaid expenses and other in our consolidated balance sheets. Our contract assets generally become unconditional and are reclassified to receivables in the quarter subsequent to each balance sheet date. Our contract asset balance was $ 2 million at both December 31, 2025 and 2024.
+
+We record contract liabilities primarily for deferred revenue. Our contract liabilities are recorded in accrued liabilities in our consolidated balance sheets. Our contract liabilities are generally recognized to net sales in the immediately subsequent reporting period. Our contract liability balance was $ 57 million and $ 45 million at December 31, 2025 and 2024, respectively.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+D. REVENUE (Concluded)
+
+Changes in the allowance for credit losses deducted from accounts receivable were as follows, in millions:
+
+E. INVENTORIES
+
+The components of inventory were as follows, in millions:
+
+Inventories, which include purchased parts, materials, direct labor and applied overhead, are stated at the lower of cost or net realizable value, with cost determined primarily by use of the first-in, first-out method, and to a lesser extent the average cost method.
+
+F. LEASES
+
+We have operating and finance leases primarily for corporate offices, manufacturing facilities, warehouses, vehicles, and equipment. Our leases have remaining lease terms up to 17 years, some of which may include one or more renewal options with terms to extend the lease for up to an additional 15 years, and some of which may include options to terminate the leases prior to their expiration.
+
+The components of lease cost included in income before income taxes were as follows, in millions:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+F. LEASES (Continued)
+
+Supplemental cash flow information related to leases was as follows, in millions:
+
+(A) Includes $ 6 million of ROU assets obtained in exchange for new lease obligations related to the acquisition of Sauna360 in 2023.
+
+Supplemental balance sheet information related to leases was as follows, in millions:
+
+Gross ROU assets under finance leases recorded within property and equipment, net was $ 31 million and $ 41 million at December 31, 2025 and 2024, respectively. Accumulated amortization associated with these leases was $ 17 million and $ 25 million at December 31, 2025 and 2024, respectively.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+F. LEASES (Concluded)
+
+At December 31, 2025, future maturities of lease liabilities were as follows, in millions:
+
+G. PROPERTY AND EQUIPMENT
+
+The components of property and equipment, net were as follows, in millions:
+
+H. GOODWILL AND OTHER INTANGIBLE ASSETS
+
+Goodwill at December 31, 2025, by segment, was as follows, in millions:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+H. GOODWILL AND OTHER INTANGIBLE ASSETS (Concluded)
+
+The changes in the carrying amount of goodwill for years ended December 31, 2025 and 2024, by segment, were as follows, in millions:
+
+(A) As a result of the divestiture of Kichler in the third quarter of 2024, both gross goodwill and accumulated impairment losses for the Decorative Architectural Products segment were reduced by $ 64 million as the goodwill had been fully impaired prior to the divestiture.
+
+(B) In the third quarter of 2023, we acquired Sauna360 and during the third quarter of 2024, we recognized $ 2 million of goodwill in our Plumbing Products segment related to this acquisition (refer to Note B for additional information). In the second quarter of 2024, we recognized $ 4 million of goodwill in our Decorative Architectural Products segment related to an immaterial acquisition.
+
+Other indefinite-lived intangible assets were $ 77 million and $ 79 million at December 31, 2025 and 2024, respectively, and principally included registered trademarks.
+
+We completed our annual impairment testing of goodwill and other indefinite-lived intangible assets in the fourth quarters of 2025, 2024 and 2023. We recognized a $ 5 million non-cash impairment charge within our Decorative Architectural Products segment to other indefinite-lived intangible assets in the fourth quarter of 2025 due to the loss of a customer in our paint applicator business. We recognized a $ 15 million non-cash impairment charge within our Decorative Architectural Products segment to other indefinite-lived intangible assets in the fourth quarter of 2023 due to competitive market conditions and increased cost of capital in our lighting business. There was no impairment of goodwill for any of our reporting units or of our other indefinite-lived intangible assets in any of these years, other than as disclosed above.
+
+The carrying value of our definite-lived intangible assets wa s $ 128 million (net of accumulated amortization o f $ 92 million) at December 31, 2025 and $ 140 million (net of accumulated amortization of $ 102 million) at December 31, 2024 and principally included customer relationships with a weighted average amortization period of 13 years in both 2025 and 2024. Amortization expense related to the definite-lived intangible assets wa s $ 20 million, $ 29 million and $ 31 million in 2025, 2024 and 2023, respectively.
+
+At December 31, 2025, amortization expense related to the definite-lived intangible assets during each of the next five years will be as follows: 2026 – $ 18 million; 2027 – $ 18 million; 2028 – $ 15 million; 2029 – $ 15 million and 2030 – $ 14 million.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+I. SUPPLIER FINANCE PROGRAM
+
+We facilitate a voluntary supply chain finance program (the "program") to provide certain of our suppliers with the opportunity to sell receivables due from us to participating financial institutions at the sole discretion of both the suppliers and the financial institutions. A third party administers the program; our responsibility is limited to making payment on the terms originally negotiated with our supplier, regardless of whether the supplier sells its receivable to a financial institution. We do not enter into agreements with any of the participating financial institutions in connection with the program. Our current payment terms with a majority of our suppliers generally range from 45 to 90 days. The range of payment terms we negotiate with our suppliers is consistent, irrespective of whether a supplier participates in the program.
+
+All outstanding payments owed under the program are recorded within accounts payable in our consolidated balance sheets. The amounts confirmed as valid under the program and included in accounts payable were $ 26 million and $ 36 million at December 31, 2025 and 2024, respectively. Of the amounts confirmed as valid under the program, the amounts owed to participating financial institutions were $ 17 million and $ 23 million at December 31, 2025 and 2024, respectively. All payments made under the program are recorded as a decrease in accounts payable and accrued liabilities, net, in our consolidated statements of cash flows.
+
+Changes in the confirmed obligations outstanding were as follows, in millions:
+
+J. ACCRUED LIABILITIES
+
+The components of accrued liabilities were as follows, in millions:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+K. DEBT
+
+The carrying value of outstanding debt was as follows, in millions:
+
+All of the notes and debentures above are senior indebtedness and, other than the 7.750 % Notes due 2029, are redeemable at our option.
+
+At December 31, 2025, the debt maturities during each of the next five years were as follows: 2026 – $ 2 million; 2027 – $ 302 million; 2028 – $ 602 million; 2029 – $ 237 million and 2030 – $ 302 million.
+
+On April 26, 2022, we entered into a revolving credit agreement (the “2022 Credit Agreement”) with an aggregate commitment of $ 1.0 billion and a maturity date of April 26, 2027. Under the 2022 Credit Agreement, at our request and subject to certain conditions, we can increase the aggregate commitment up to an additional $ 500 million with the current lenders or new lenders.
+
+The 2022 Credit Agreement provides for an unsecured revolving credit facility available to us and one of our foreign subsidiaries in U.S. dollars, European euros, British pounds sterling, and certain other currencies for revolving credit loans, swingline loans and letters of credit. Borrowings under the revolving credit loans denominated in any agreed upon currency other than U.S. dollars are limited to the equivalent of $ 500 million. We can also borrow swingline loans up to $ 108 million and obtain letters of credit of up to $ 25 million. Outstanding letters of credit under the 2022 Credit Agreement reduce our borrowing capacity and we had no outstanding letters of credit under the 2022 Credit Agreement at December 31, 2025.
+
+Revolving credit loans denominated in U.S. dollars bear interest under the 2022 Credit Agreement at our option, at (A) SOFR rate for the interest period in effect for the borrowing, plus 0.1 %, plus an applicable margin based upon our then-applicable corporate credit ratings; or (B) a rate per annum equal to the greatest of (i) the U.S. prime rate, (ii) the Federal Reserve Bank of New York effective rate plus 0.50 % and (iii) the adjusted term SOFR rate for a one month interest period, plus 1.0 %; plus an applicable margin based upon our then-applicable corporate credit ratings. Foreign currency revolving credit loans denominated in British pounds sterling bear interest at a rate per annum equal to the Daily Simple SONIA, plus an applicable margin based upon our then-applicable corporate credit ratings. Foreign currency revolving credit loans denominated in European euros bear interest at the adjusted EURIBOR rate, plus an applicable margin based upon our then-applicable corporate credit ratings. The various benchmarks are subject to applicable floors.
+
+The 2022 Credit Agreement contains financial covenants requiring us to maintain (A) a net leverage ratio, as adjusted for certain items, not exceeding 4.0 to 1.0, and (B) an interest coverage ratio, as adjusted for certain items, not less than 2.5 to 1.0.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+K. DEBT (Concluded)
+
+In order for us to borrow under the 2022 Credit Agreement, there must not be any default in our covenants in the 2022 Credit Agreement (i.e., in addition to the two financial covenants described above, principally limitations on subsidiary debt, negative pledge restrictions, and requirements relating to legal compliance, maintenance of our properties and insurance) and our representations and warranties in the 2022 Credit Agreement must be true in all material respects on the date of borrowing (i.e., principally no material adverse change or litigation likely to result in a material adverse change, since December 31, 2021, no material ERISA or environmental non-compliance, and no material tax deficiency). We were in compliance with all covenants and no borrowings were outstanding at December 31, 2025.
+
+On May 9, 2023, our Hansgrohe SE subsidiary entered into € 70 million ($ 77 million) of short-term borrowings to support working capital needs. The loans contained no financial covenants and the entire balance was repaid at December 31, 2023.
+
+On April 26, 2022, we entered into a 364 -day $ 500 million senior unsecured delayed draw term loan (the "term loan") due April 26, 2023 with a syndicate of lenders. The term loan and commitments thereunder were subject to prepayment or termination at our option and the loans bore interest at SOFR plus a spread adjustment and 0.70 %. The covenants, including the financial covenants, were substantially the same as those in the 2022 Credit Agreement. We repaid $ 300 million during 2022 and the remaining $ 200 million upon the maturity of the term loan on April 26, 2023.
+
+Interest paid was $ 100 million, $ 99 million, $ 107 million in 2025, 2024 and 2023, respectively.
+
+Fair Value of Debt. The fair value of our short-term and long-term fixed-rate debt instruments is based principally upon modeled market prices for the same or similar issues, which are Level 1 inputs. The aggregate estimated market value of our short-term and long-term debt at December 31, 2025 was approximately $ 2.7 billion, compared with the aggregate carrying value of $ 3.0 billion. The aggregate estimated market value of our short-term and long-term debt at December 31, 2024 was approximately $ 2.6 billion, compared with the aggregate carrying value of $ 3.0 billion.
+
+L. STOCK-BASED COMPENSATION
+
+Our 2024 Long Term Stock Incentive Plan (the "2024 Plan") replaced the 2014 Long Term Stock Incentive Plan in May 2024 and provides for the issuance of stock-based incentives in various forms to our employees and non-employee Directors. At December 31, 2025, outstanding stock-based incentives were in the form of restricted stock units, performance restricted stock units, stock options, phantom stock awards and stock appreciation rights.
+
+Pre-tax compensation expense included in income before income taxes for these stock-based incentives was as follows, in millions:
+
+At December 31, 2025, approximately 7.0 million shares of our common stock were available under the 2024 Plan for the granting of restricted stock units, performance restricted stock units, stock options and long-term stock awards.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+L. STOCK-BASED COMPENSATION (Continued)
+
+Restricted Stock Units. Restricted stock units are granted to our key employees and non-employee Directors. These grants did not cause net share dilution due to our practice of repurchasing and retiring an equal number of shares in the open market.
+
+Our restricted stock unit activity was as follows, units in thousands:
+
+At December 31, 2025, 2024, and 2023, there was $ 16 million, $ 15 million, and $ 11 million, respectively, of unrecognized compensation expense related to unvested restricted stock units; such units had a weighted average remaining vesting period of two years at December 31, 2025, 2024 and 2023.
+
+The total market value (at the vesting date) of restricted stock units which vested was $ 28 million, $ 34 million, and $ 28 million during 2025, 2024 and 2023, respectively.
+
+Performance Restricted Stock Units. Under our Long Term Incentive Program ("LTIP"), we grant performance restricted stock units to certain executives. These performance restricted stock units will vest and share awards will be issued at no cost to the employees, subject to our achievement over a three-year period of specified return on invested capital performance goals, an earning per share metric, and a relative total shareholder return metric that have been established by our Compensation Committee for the performance period. To receive the award, the participant must be employed through the share award date. Except that, beginning with the 2025 grant, participants who conclude service and are retirement eligible or whose employment ends under certain qualifying conditions will receive an award, if the established performance goals for the respective LTIP are met, prorated to reflect the time the participant was employed during the applicable performance period. Performance restricted stock units are granted at a target number; based on our performance, the number of performance restricted stock units that vest can be adjusted downward to zero and upward to a maximum of 200 percent of the target number.
+
+During 2025, we granted approximately 121,000 performance restricted stock units with a weighted average grant date fair value of approximately $ 71 per share, no performance restricted stock units were issued and 83,000 performance restricted stock units were forfeited. At December 31, 2025, there were approximately 91,000 shares vested but unissued. During 2024, we granted approximately 70,000 performance restricted stock units with a grant date fair value of approximately $ 75 per share, approximately 48,000 performance restricted stock units were issued and 6,000 performance restricted stock units were forfeited. During 2023, we granted approximately 99,000 performance restricted stock units with a grant date fair value of approximately $ 52 per share, approximately 253,000 performance restricted stock units were issued and no performance restricted stock units were forfeited. At December 31, 2023, there were approximately 59,000 shares vested but unissued.
+
+Stock Options. Stock options are granted to certain senior executives. The exercise price equals the market price of our common stock at the grant date and the stock options expire no later than 10 years after the grant date.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+L. STOCK-BASED COMPENSATION (Continued)
+
+Our stock option activity was as follows, shares in thousands:
+
+The aggregate intrinsic value is calculated using our stock price at each respective date, less the exercise price (grant date price) multiplied by the number of shares. The aggregate intrinsic value for options exercised during 2025, 2024 and 2023 was $ 4 million, $ 48 million and $ 26 million, respectively. The weighted-average remaining term for options outstanding at December 31, 2025, 2024 and 2023 was six years , seven years and six years , respectively.
+
+The following table summarizes information for stock options vested and expected to vest and exercisable (vested) stock options, shares in thousands:
+
+Unrecognized compensation expense (using the Black-Scholes option pricing model at the grant date) related to unvested stock options was $ 2 million at December 31, 2025 and $ 1 million at both December 31, 2024 and 2023; such options had a weighted average remaining vesting period of two years at December 31, 2025, 2024 and 2023.
+
+The weighted average grant date fair value of option shares granted and the assumptions used to estimate those values using a Black-Scholes option pricing model were as follows:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+L. STOCK-BASED COMPENSATION (Concluded)
+
+Phantom Stock Awards and Stock Appreciation Rights. Certain non-U.S. employees are granted phantom stock awards and SARs.
+
+In 2025, 2024 and 2023, we granted approximately 47,000 , 42,000 , and 57,000 shares, respectively, of phantom stock awards with an aggregate fair value of $ 4 million in 2025 and $ 3 million in both 2024 and 2023 and paid cash of $ 4 million in 2025, $ 5 million in 2024 and $ 4 million in 2023 to settle phantom stock awards.
+
+Information related to phantom stock awards was as follows, dollars in millions and shares in thousands:
+
+No SARs were granted in 2025 and 2024 and we granted 22,000 SARs in 2023. During 2025, 7,000 SARs were forfeited and 15,000 SARs remained outstanding, all of which were vested at December 31, 2025.
+
+Long-Term Stock Awards. Prior to 2020, we granted long-term stock awards to our key employees and non-employee Directors. As of December 31, 2024, all long-term stock awards had vested.
+
+The total market value (at the vesting date) of stock award shares which vested was $ 5 million and $ 10 million during 2024 and 2023, respectively.
+
+M. EMPLOYEE RETIREMENT PLANS
+
+Substantially all salaried employees participate in non-contributory defined-contribution retirement plans, to which payments are determined annually by the Compensation Committee. We also sponsor qualified defined-benefit and non-qualified defined-benefit pension plans covering certain employees and former employees.
+
+Pre-tax expense included in income before income taxes related to our retirement plans was as follows, in millions:
+
+Substantially all our domestic and foreign qualified and domestic non-qualified defined-benefit pension plans were frozen to future benefit accruals.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+M. EMPLOYEE RETIREMENT PLANS (Continued)
+
+Changes in the projected benefit obligation and fair value of plan assets, and the funded status of our defined-benefit pension plans were as follows, in millions:
+
+Amounts in our consolidated balance sheets were as follows, in millions:
+
+Unrealized loss included in accumulated other comprehensive income before income taxes was as follows, in millions:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+M. EMPLOYEE RETIREMENT PLANS (Continued)
+
+Information for defined-benefit pension plans with an accumulated benefit obligation in excess of plan assets was as follows, in millions:
+
+The projected benefit obligation was in excess of plan assets for all of our qualified defined-benefit pension plans at December 31, 2025 and 2024 which had an accumulated benefit obligation in excess of plan assets.
+
+Net periodic pension cost for our defined-benefit pension plans, with the exception of service cost, is recorded in other, net, in our consolidated statements of operations. Net periodic pension cost for our defined-benefit pension plans was as follows, in millions:
+
+We expect to recognize $ 3 million of pre-tax net loss from accumulated other comprehensive income into net periodic pension cost in 2026 related to our defined-benefit pension plans. For plans in which almost all of the plan's participants are inactive, pre-tax net loss within accumulated other comprehensive income is amortized using the straight-line method over the remaining life expectancy of the inactive plan participants. For all other plans, pre-tax net loss within accumulated other comprehensive income is amortized using the straight-line method over the average remaining service period of the active employees expected to receive benefits from the plan.
+
+Plan Assets. Our qualified defined-benefit pension plan weighted average asset allocation, which is based upon fair value, was as follows:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+M. EMPLOYEE RETIREMENT PLANS (Continued)
+
+The following is a description of the valuation methodologies used for assets measured at fair value. There have been no changes in the methodologies used at December 31, 2025 compared to December 31, 2024.
+
+Common and preferred stocks and s hort-term and other investments: Valued at the closing price reported on the active market on which the individual securities are traded. Other investments include liability-driven investments in interest rate swap funds that are priced daily based on the use of observable inputs.
+
+Corporate, government and other debt securities: Valued based on using pricing models maximizing the use of observable inputs for similar securities. This includes basing value on yields currently available on comparable securities of issuers with similar credit ratings.
+
+Real estate: Real estate consists of property funds valued based on the underlying investments, which include inputs such as cost, discounted future cash flows, independent appraisals and market based comparable data. There is no active trading market for these investments, and they are generally illiquid. Due to the significant unobservable inputs, the fair value measurements used to estimate fair value are a Level 3 input.
+
+Buy-in annuity : Valued based on the associated benefit obligation for which the buy-in annuity covers the benefits, which approximates fair value. Such basis is determined based on various assumptions, including the discount rate and mortality rate.
+
+The methods described above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values. Furthermore, while we believe our valuation methods are appropriate and consistent with other market participants, the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date.
+
+The following tables set forth, by level within the fair value hierarchy, the qualified defined-benefit pension plan assets at fair value as of December 31, 2025 and 2024, in millions.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+M. EMPLOYEE RETIREMENT PLANS (Continued)
+
+Changes in the fair value of the qualified defined-benefit pension plan Level 3 assets were as follows, in millions:
+
+Assumptions. Weighted average major assumptions used in accounting for our defined-benefit pension plans were as follows:
+
+The discount rate for obligations for 2025, 2024 and 2023 is based primarily upon the expected duration of each defined-benefit pension plan's liabilities matched to spot rates along a high-quality corporate bond yield curve for the geography of the individual plans. At December 31, 2025, such rates for our defined-benefit pension plans ranged from 1.8 percent to 5.1 percent, with the most significant portion of the liabilities having a discount rate for obligations of 4.2 percent or higher. At December 31, 2024, such rates for our defined-benefit pension plans ranged from 2.1 percent to 5.4 percent, with the most significant portion of the liabilities having a discount rate for obligations of 3.4 percent or higher. At December 31, 2023, such rates for our defined‐benefit pension plans ranged from 1.9 percent to 5.0 percent, with the most significant portion of the liabilities having a discount rate for obligations of 3.2 percent or higher. The increase in the weighted average discount rate from both 2023 to 2024 and 2024 to 2025 is principally due to higher long-term interest rates in the bond markets.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+M. EMPLOYEE RETIREMENT PLANS (Concluded)
+
+The asset allocation of the investment portfolio was developed with the objective of achieving our expected rate of return and reducing volatility of asset returns, and considered the freezing of future benefits. The fixed-income portfolio is invested in corporate bonds, bond index funds and U.S. Treasury securities. Although we would expect alternative investments to yield a higher rate of return than the targeted overall long-term return, these investments are subject to greater volatility and would be less liquid than financial instruments that trade on public markets.
+
+The fair value of our plan assets is subject to risk including significant concentrations of risk in our plan assets related to equity, interest rate and operating risk. In order to ensure plan assets are sufficient to pay benefits, a portion of our foreign qualified plans' assets are allocated to equity investments and real assets that are expected, over time, to earn higher returns with more volatility than fixed-income investments which more closely match pension liabilities. Within equity, risk is mitigated by targeting a portfolio that is broadly diversified by geography, market capitalization, manager mandate size, investment style and process.
+
+In order to minimize asset volatility relative to the liabilities, a significant portion of plan assets are allocated to fixed-income investments that are exposed to interest rate risk. Rate increases generally will result in a decline in fixed-income assets, while reducing the present value of the liabilities. Conversely, rate decreases will increase fixed income assets, partially offsetting the related increase in the liabilities.
+
+Potential events or circumstances that could have a negative effect on estimated fair value include the risks of inadequate diversification and other operating risks. To mitigate these risks, investments are diversified across and within asset classes in support of investment objectives. Policies and practices to address operating risks include ongoing manager oversight, plan and asset class investment guidelines and instructions that are communicated to managers, and periodic compliance and audit reviews to ensure adherence to these policies. In addition, we periodically seek the input of our independent advisor to ensure the investment policy is appropriate.
+
+Cash Flows. At December 31, 2025, we expect to contribute approximately $ 11 million in 2026 to our non-qualified (domestic) defined-benefit pension plans.
+
+At December 31, 2025, the benefits expected to be paid in each of the next five years, and in aggregate for the five years thereafter, relating to our defined-benefit pension plans, were as follows, in millions:
+
+N. SHAREHOLDERS' EQUITY
+
+Effective October 20, 2022, our Board of Directors authorized the repurchase, for retirement, of up to $ 2.0 billion of shares of our common stock, exclusive of excise tax, in open-market transactions or otherwise. During 2025, we repurchased and retired 8.5 million shares of our common stock (including 0.3 million shares to offset the dilutive impact of restricted stock units granted in 2025) for $ 576 million, inclusive of excise tax of $ 5 million. At December 31, 2025, we had $ 325 million remaining under the 2022 authorization.
+
+During 2024, we repurchased and retired 10.0 million shares of our common stock (including 0.5 million shares to offset the dilutive impact of restricted stock units granted in 2024) for $ 757 million, inclusive of excise tax of $ 6 million.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+N. SHAREHOLDERS' EQUITY (Concluded)
+
+During 2023, we repurchased and retired 6.2 million shares of our common stock (including 0.2 million shares to offset the dilutive impact of restricted stock units granted in 2023) for $ 356 million, inclusive of excise tax of $ 3 million.
+
+Effective February 10, 2026, our Board of Directors authorized the repurchase, for retirement, of up to $ 2.0 billion of shares of our common stock, exclusive of excise tax, in open-market transactions or otherwise, replacing the previous Board of Directors authorization established in 2022.
+
+We have declared and paid cash dividends per common share of $ 1.24 in 2025, $ 1.16 in 2024 and $ 1.14 in 2023.
+
+Accumulated Other Comprehensive Income . The components of accumulated other comprehensive income attributable to Masco Corporation were as follows, in millions:
+
+O. SEGMENT INFORMATION
+
+Our reportable segments are as follows:
+
+Plumbing Products – principally includes faucets, plumbing system components and valves, showerheads and handheld showers, bath hardware and accessories, bathing units, tubs and shower bases and enclosures, shower drains, steam shower systems, water filtration systems, sinks, kitchen accessories, spas, exercise pools, aquatic fitness systems, and saunas.
+
+Decorative Architectural Products – principally includes paints and other coating products, paint applicators and accessories, cabinet and other hardware, shower doors and, until the divestiture of Kichler in the third quarter of 2024, lighting fixtures, ceiling fans, landscape lighting and LED lighting systems.
+
+The above products are sold to the residential repair and remodel and to a lesser extent the new home construction markets through home center retailers, online retailers, wholesalers and distributors, mass merchandisers, hardware stores, direct to the consumer and homebuilders.
+
+Our operations are principally located in North America and Europe. Our country of domicile is the United States of America.
+
+Other than those assets specifically identified within a segment, corporate assets consist primarily of property and equipment, ROU assets, deferred tax assets, cash and cash investments and other investments. Our accounting policies are consistently applied by our segments.
+
+Our segments are based upon similarities in products and represent the aggregation of operating units for which financial information is regularly provided to our Chief Operating Decision Maker ("CODM"), who is our President and Chief Executive Officer. Our CODM uses segment net sales and operating profit in assessing segment performance and deciding how to allocate resources by comparing budget to actual results and assessing year-over-year variances.
+
+Subsequent to December 31, 2025, we announced that we will implement an internal reorganization to further streamline our business and optimize operations resulting in the integration of our Liberty Hardware (“Liberty”) business, a distributor of cabinet and other hardware and shower doors, into our Delta Faucet business. Prior to this reorganization Liberty has historically been included in our Decorative Architectural Products segment. As a result of the integration, beginning with our Quarterly Report on Form 10-Q for the period ending March 31, 2026, Liberty will be included in our Plumbing Products segment rather than our Decorative Architectural Products segment and we will also reflect the change in the comparable prior period.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+O. SEGMENT INFORMATION (Continued)
+
+Information by segment as of December 31, 2025 was as follows, in millions:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+O. SEGMENT INFORMATION (Concluded)
+
+(A) Intra-company sales between segments were not material and have been excluded from net sales.
+
+(B) Included in net sales were sales to one customer of $ 2,859 million, $ 3,010 million and $ 3,070 million in 2025, 2024 and 2023, respectively. Such net sales were included in each of our segments.
+
+(C) Net sales from our operations in the U.S. were $ 5,674 million, $ 5,996 million and $ 6,140 million in 2025, 2024 and 2023, respectively.
+
+(D) Operating expenses included cost of sales and selling, general and administrative expenses.
+
+(E) Corporate expenses included specific corporate overhead allocated to each segment. General corporate expense, net included those expenses not specifically attributable to our segments.
+
+(F) Property additions exclude amounts paid for long-lived assets as part of acquisitions.
+
+(G) Long-lived assets of our operations in the U.S. and Europe were $ 1,322 million and $ 720 million, $ 1,323 million and $ 638 million, and $ 1,459 million and $ 677 million at December 31, 2025, 2024 and 2023, respectively.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+P. INCOME TAXES
+
+Components of income taxes on income before income taxes and the components of deferred tax assets and liabilities were as follows, in millions:
+
+The net deferred tax (liability) asset consisted of net deferred tax assets (included in other assets) of $ 50 million and $ 62 million, and net deferred tax liabilities (included in other liabilities) of $ 95 million and $ 38 million, at December 31, 2025 and 2024, respectively.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+P. INCOME TAXES (Continued)
+
+In the fourth quarter of 2023, we recognized a $ 29 million state income tax benefit, net of federal expense, due to a legal restructuring of certain U.S. businesses that occurred in early 2024 which allowed for the utilization of certain loss carryforwards that were not previously recognized.
+
+We continue to maintain a valuation allowance of $ 27 million on certain state and foreign deferred tax assets as of both December 31, 2025 and 2024 due primarily to cumulative losses in those jurisdictions and net operating losses that are expected to expire unused.
+
+Our capital allocation strategy includes reinvesting in our business, maintaining an investment grade credit rating, maintaining a relevant dividend and deploying excess free cash flow to share repurchases or acquisitions. In order to provide greater flexibility in the execution of our capital allocation strategy, we may repatriate earnings from certain foreign subsidiaries. Our deferred tax balance on investment in foreign subsidiaries reflects the impact of all taxable temporary differences, including those related to substantially all undistributed foreign earnings, except those that are legally restricted, and consists primarily of foreign withholding taxes.
+
+Of the $ 59 million and $ 65 million deferred tax assets related to the net operating loss and tax credit carryforwards at December 31, 2025 and 2024, respectively, $ 40 million and $ 46 million, respectively, will expire between 2026 and 2045, if unused, and $ 19 million for both periods have no expiration.
+
+A reconciliation of income tax expense at the U.S. Federal statutory tax rate to the income tax expense on income before income taxes was as follows, in millions:
+
+(A) The states that contribute to the majority (greater than 50%) of the tax effect in this category include California, New Jersey, Illinois, and New York for 2025; California, New York, New Jersey, Texas, and Michigan for 2024; and California, Florida, Maryland, Georgia, Oregon, and Tennessee for 2023.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+P. INCOME TAXES (Concluded)
+
+Income taxes paid by jurisdiction, exceeding 5% of the total income taxes paid by year, were as follows, in millions:
+
+A reconciliation of the beginning and ending liability for uncertain tax positions is as follows, in millions:
+
+If recognized, $ 58 million and $ 67 million of the liability for uncertain tax positions at December 31, 2025 and 2024, respectively, net of any U.S. Federal tax benefit, would impact our effective tax rate.
+
+Interest and penalties recognized in income tax expense were insignificant in years ended December 31, 2025, 2024 and 2023.
+
+Of the $ 88 million and $ 101 million total liability for uncertain tax positions (including related interest and penalties) at December 31, 2025 and 2024, respectively, $ 84 million and $ 97 million are recorded in other liabilities, respectively, and $ 4 million in both periods is recorded as a net offset to other assets.
+
+We file income tax returns in the U.S. Federal jurisdiction, and various local, state and foreign jurisdictions. We continue to participate in the Compliance Assurance Process ("CAP"). CAP is a real-time audit of the U.S. Federal income tax return that allows the Internal Revenue Service ("IRS"), working in conjunction with us, to determine tax return compliance with the U.S. Federal tax law prior to filing the return. This program provides us with greater certainty about our tax liability for a given year within months, rather than years, of filing our annual tax return and greatly reduces the need for recording a liability for U.S. Federal uncertain tax positions. The IRS has completed their examination of our consolidated U.S. Federal tax returns through 2024. With few exceptions, we are no longer subject to state or foreign income tax examinations on filed returns for years before 2021.
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+Q. INCOME PER COMMON SHARE
+
+Basic and diluted income per common share are computed by dividing net income attributable to common shareholders by the weighted average common shares outstanding in the period. Reconciliations of the numerators and denominators used in the computations of basic and diluted income per common share were as follows, in millions:
+
+We follow accounting guidance regarding determining whether instruments granted in share-based payment transactions are participating securities. This accounting guidance clarifies that share-based payment awards that entitle their holders to receive non-forfeitable dividends prior to vesting should be considered participating securities. The dividends associated with the unvested restricted stock units are forfeitable, and consequently, the restricted stock units are not considered a participating security and are not accounted for under the two-class method. We have also granted restricted stock awards that contain non-forfeitable rights to dividends on unvested shares; such unvested restricted stock awards are considered participating securities. As participating securities, the unvested shares are required to be included in the calculation of our basic income per common share, using the two-class method. The two-class method of computing income per common share is an allocation method that calculates income per share for each class of common stock and participating security according to dividends declared and participation rights in undistributed earnings. For the year ended December 31, 2025, diluted income per common share was calculated using the treasury stock method. For the years ended December 31, 2024 and 2023, we allocated dividends and undistributed earnings to the participating securities under the two-class method.
+
+The following stock options, restricted stock units and performance restricted stock units were excluded from the computation of weighted-average diluted common shares outstanding due to their anti-dilutive effect, in thousands:
+
+MASCO CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONCLUDED)
+
+R. OTHER COMMITMENTS AND CONTINGENCIES
+
+Litigation. We are involved in claims and litigation, including class actions, mass torts and regulatory proceedings, which arise in the ordinary course of our business. The types of matters may include, among others: advertising, competition, contract, data privacy, employment, environmental, insurance coverage, intellectual property, personal injury, product compliance, product liability, securities and warranty. We are also subject to product safety regulations, product recalls and direct claims for product liabilities. We believe the likelihood that the outcome of these claims, litigation and product safety matters would have a material adverse effect on us is remote. However, there is no assurance that we will prevail in these matters, and we could, in the future, incur judgments or penalties, enter into settlements of claims or revise our expectations regarding the outcome of these matters, which could materially impact our results of operations.
+
+Warranty. Changes in our warranty liability were as follows, in millions:
+
+Other Matters. We enter into contracts, which include reasonable and customary indemnifications that are standard for the industries in which we operate. Such indemnifications include claims made against builders by homeowners for issues relating to our products and workmanship. In conjunction with divestitures and other transactions, we occasionally provide reasonable and customary indemnifications. We have not paid a material amount related to these indemnifications, and we evaluate the probability that amounts may be incurred and record an estimated liability when it is probable and reasonably estimable.
+
+S. INSURANCE SETTLEMENT
+
+During the third quarter of 2023, we received an insurance settlement payment in our Decorative Architectural Products segment related to lost sales resulting from a weather event that occurred in Texas in 2021 which impacted the operations of a resin supplier and interrupted our ability to manufacture certain paints and other coating products. The insurance settlement payment increased gross profit and operating profit by $ 40 million for the year ended December 31, 2023.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+
+Not applicable.
+
+Item 9A. Controls and Procedures.
+
+a. Evaluation of Disclosure Controls and Procedures.
+
+The Company's Principal Executive Officer and Principal Financial Officer have concluded, based on an evaluation of the Company's disclosure controls and procedures (as defined in the Securities Exchange Act of 1934 Rules 13a-15(e) or 15d-15(e)) as required by paragraph (b) of Exchange Act Rules 13a-15 or 15d-15 that, as of December 31, 2025, the Company's disclosure controls and procedures were effective.
+
+b. Management's Report on Internal Control over Financial Reporting.
+
+Management's report on the Company's internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) is included in this Report under Item 8. Financial Statements and Supplementary Data, under the heading, "Management's Report on Internal Control over Financial Reporting" and is incorporated herein by reference. The report of our independent registered public accounting firm is also included under Item 8, under the heading, "Report of Independent Registered Public Accounting Firm" and is incorporated herein by reference.
+
+c. Changes in Internal Control over Financial Reporting.
+
+In connection with the evaluation of the Company's internal control over financial reporting that occurred during the quarter ended December 31, 2025, which is required under the Securities Exchange Act of 1934 by paragraph (d) of Exchange Rules 13a-15 or 15d-15 (as defined in paragraph (f) of Rule 13a-15), management determined that there was no change that materially affected or is reasonably likely to materially affect internal control over financial reporting.
+
+Item 9B. Other Information.
+
+Rule 10b5-1 and Non-Rule 10b5-1 Trading Arrangements
+
+During the three months ended December 31, 2025, none of our officers or directors adopted or terminated any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+
+Not applicable.
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+
+Our Code of Ethics applies to all employees, officers and directors including our Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer, and is posted on our website at www.masco.com. Amendments to or waivers of our Code of Ethics for directors and executive officers, if any, will be posted on our website.
+
+We maintain insider trading policies and procedures governing the purchase, sale, and/or other dispositions of our securities by our directors, officers, and employees that we believe are reasonably designed to promote compliance with insider trading laws, rules, and regulations, and the exchange listing standards applicable to us. In addition, it is our policy to comply with applicable securities and state laws, including insider trading laws, when engaging in transactions in our securities. A copy of our insider trading policy is incorporated by reference as Exhibit 19 to this annual report on Form 10-K.
+
+Other information required by this Item will be contained in our definitive Proxy Statement for the 2026 Annual Meeting of Stockholders, to be filed before April 28, 2026, and such information is incorporated herein by reference.
+
+Item 11. Executive Compensation.
+
+Information required by this Item will be contained in our definitive Proxy Statement for the 2026 Annual Meeting of Stockholders, to be filed before April 28, 2026, and such information is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+Equity Compensation Plan Information
+
+We grant equity under our 2024 Long Term Stock Incentive Plan (the "2024 Plan"). The following table sets forth information as of December 31, 2025 concerning the 2024 Plan, which was approved by our stockholders. We do not have any equity compensation plans that have not been approved by our stockholders.
+
+The remaining information required by this Item will be contained in our definitive Proxy Statement for our 2026 Annual Meeting of Stockholders, to be filed before April 28, 2026, and such information is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+
+Information required by this Item will be contained in our definitive Proxy Statement for the 2026 Annual Meeting of Stockholders, to be filed before April 28, 2026, and such information is incorporated herein by reference.
+
+Item 14. Principal Accountant Fees and Services.
+
+Information required by this Item will be contained in our definitive Proxy Statement for the 2026 Annual Meeting of Stockholders, to be filed before April 28, 2026, and such information is incorporated herein by reference.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+a. Listing of Documents.
+
+(1) Financial Statements. Our consolidated financial statements included in Item 8 hereof, as required at December 31, 2025 and 2024, and for the years ended December 31, 2025, 2024 and 2023, consist of the following:
+
+(2) Financial Statement Schedule.
+
+a. Our Financial Statement Schedule appended hereto, as required for the years ended December 31, 2025, 2024 and 2023, consists of the following:
+
+(3) Exhibits.
+
+The Company will furnish to its stockholders a copy of any of the above exhibits not included herein upon the written request of such stockholder and the payment to the Company of the reasonable expenses incurred by the Company in furnishing such copy or copies.
+
+Item 16. Form 10-K Summary.
+
+The optional summary in Item 16 has not been included in this Form 10-K.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+February 10, 2026
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the date indicated.
+
+MASCO CORPORATION
+
+SCHEDULE II. VALUATION AND QUALIFYING ACCOUNTS
+
+______________________________
+
+(a) Deductions, representing uncollectible accounts written off and divestitures, less recoveries of accounts written off in prior years.
+
+(b) Primarily other activity not affecting income tax expense.
+
+(c) As a result of the acquisition of Sauna360 Group Oy in the third quarter of 2023, $ 5 million was added to valuation allowance on deferred tax assets.
+
+(d) $ 48 million was added to valuation allowance resulting from the establishment of certain state deferred tax assets for which the likelihood of utilization is no longer considered remote.
+
+(e) Due to a legal restructuring of certain U.S. businesses that occurred in early 2024, a $ 37 million reduction in valuation allowance was recorded as a $ 29 million state income tax benefit, net of federal expense.

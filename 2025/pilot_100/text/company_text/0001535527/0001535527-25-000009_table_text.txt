@@ -1,0 +1,279 @@
+[TABLE 001]
+☑ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware 45-3788918 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number)
+[END TABLE 003]
+
+[TABLE 004]
+Title of each class of securities Trading symbol(s) Name of each exchange on which registered Class A common stock, par value $0.0005 per share CRWD The Nasdaq Stock Market LLC (Nasdaq Global Select Market)
+[END TABLE 004]
+
+[TABLE 005]
+Large Accelerated Filer ☑ Accelerated Filer ☐ Non-accelerated Filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 005]
+
+[TABLE 006]
+Page No. Part I Item 1. Business 4 Item 1A. Risk Factors 21 Item 1B. Unresolved Staff Comments 56 Item 1C. Cybersecurity 57 Item 2. Properties 58 Item 3. Legal Proceedings 58 Item 4. Mine Safety Disclosures 58 Part II Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 59 Item 6. [Reserved] 60 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 61 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 76 Item 8. Financial Statements and Supplementary Data 77 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 117 Item 9A. Controls and Procedures 117 Item 9B. Other Information 118 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 118 Part III Item 10. Directors, Executive Officers and Corporate Governance 118 Item 11. Executive Compensation 119 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 119 Item 13. Certain Relationships and Related Transactions and Director Independence 119 Item 14. Principal Accountant Fees and Services 119 Part IV Item 15. Exhibits and Financial Statement Schedules 119 Item 16. Form 10-K Summary 119 Signatures 123 Power of Attorney 124
+[END TABLE 006]
+
+[TABLE 007]
+Name Age Position George Kurtz 54 President, Chief Executive Officer and Director Burt W. Podbere 59 Chief Financial Officer Shawn Henry 62 Chief Security Officer Michael Sentonas 51 President
+[END TABLE 007]
+
+[TABLE 008]
+Company/ Index Base period 1/31/20 1/31/21 1/31/22 1/31/23 1/31/24 1/31/25 CrowdStrike Holdings, Inc. $ 100.00 $ 353.25 $ 295.69 $ 173.35 $ 478.80 $ 651.61 S&P 500 $ 100.00 $ 117.25 $ 144.56 $ 132.68 $ 160.30 $ 202.59 S&P Information Technology $ 100.00 $ 137.13 $ 173.37 $ 146.16 $ 219.37 $ 279.92 Nasdaq 100 $ 100.00 $ 145.00 $ 168.64 $ 137.90 $ 196.96 $ 248.82
+[END TABLE 008]
+
+[TABLE 009]
+As of January 31, 2025 2024 Annual recurring revenue $ 4,241,838 $ 3,435,150 Year-over-year growth 23 % 34 %
+[END TABLE 009]
+
+[TABLE 010]
+As of January 31, 2025 2024 Dollar-based net retention rate 112 % 119 %
+[END TABLE 010]
+
+[TABLE 011]
+Year Ended January 31, 2025 2024 2023 Revenue Subscription $ 3,761,480 $ 2,870,557 $ 2,111,660 Professional services 192,144 184,998 129,576 Total revenue 3,953,624 3,055,555 2,241,236 Cost of revenue Subscription 835,509 630,745 511,684 Professional services 155,972 124,978 89,547 Total cost of revenue 991,481 755,723 601,231 Gross profit 2,962,143 2,299,832 1,640,005 Operating expenses Sales and marketing 1,523,356 1,140,566 904,409 Research and development 1,076,901 768,497 608,364 General and administrative 482,316 392,764 317,344 Total operating expenses 3,082,573 2,301,827 1,830,117 Loss from operations (120,430) (1,995) (190,112) Interest expense (26,311) (25,756) (25,319) Interest income 196,174 148,930 52,495 Other income, net 5,101 1,638 3,053 Income (loss) before provision for income taxes 54,534 122,817 (159,883) Provision for income taxes 71,130 32,232 22,402 Net income (loss) (16,596) 90,585 (182,285) Net income attributable to non-controlling interest 2,675 1,258 960 Net income (loss) attributable to CrowdStrike $ (19,271) $ 89,327 $ (183,245)
+[END TABLE 011]
+
+[TABLE 012]
+Year Ended January 31, 2025 2024 2023 % % % Revenue Subscription 95 % 94 % 94 % Professional services 5 % 6 % 6 % Total revenue 100 % 100 % 100 % Cost of revenue Subscription 21 % 21 % 23 % Professional services 4 % 4 % 4 % Total cost of revenue 25 % 25 % 27 % Gross profit 75 % 75 % 73 % Operating expenses Sales and marketing 39 % 37 % 40 % Research and development 27 % 25 % 27 % General and administrative 12 % 13 % 14 % Total operating expenses 78 % 75 % 82 % Loss from operations (3) % — % (8) % Interest expense (1) % (1) % (1) % Interest income 5 % 5 % 2 % Other income, net — % — % — % Income (loss) before provision for income taxes 1 % 4 % (7) % Provision for income taxes 2 % 1 % 1 % Net income (loss) — % 3 % (8) % Net income attributable to non-controlling interest — % — % — % Net income (loss) attributable to CrowdStrike — % 3 % (8) %
+[END TABLE 012]
+
+[TABLE 013]
+Change 2025 2024 $ % Subscription $ 3,761,480 $ 2,870,557 $ 890,923 31 % Professional services 192,144 184,998 7,146 4 % Total revenue $ 3,953,624 $ 3,055,555 $ 898,069 29 %
+[END TABLE 013]
+
+[TABLE 014]
+Change 2025 2024 $ % Subscription $ 835,509 $ 630,745 $ 204,764 32 % Professional services 155,972 124,978 30,994 25 % Total cost of revenue $ 991,481 $ 755,723 $ 235,758 31 %
+[END TABLE 014]
+
+[TABLE 015]
+Change 2025 2024 $ % Subscription gross profit $ 2,925,971 $ 2,239,812 $ 686,159 31 % Professional services gross profit 36,172 60,020 (23,848) (40) % Total gross profit $ 2,962,143 $ 2,299,832 $ 662,311 29 %
+[END TABLE 015]
+
+[TABLE 016]
+Change 2025 2024 Subscription gross margin 78 % 78 % — % Professional services gross margin 19 % 32 % (13) % Total gross margin 75 % 75 % — %
+[END TABLE 016]
+
+[TABLE 017]
+Change 2025 2024 $ % Sales and marketing expenses $ 1,523,356 $ 1,140,566 $ 382,790 34 %
+[END TABLE 017]
+
+[TABLE 018]
+Change 2025 2024 $ % Research and development expenses $ 1,076,901 $ 768,497 $ 308,404 40 %
+[END TABLE 018]
+
+[TABLE 019]
+Change 2025 2024 $ % General and administrative expenses $ 482,316 $ 392,764 $ 89,552 23 %
+[END TABLE 019]
+
+[TABLE 020]
+Change 2025 2024 $ % Interest expense $ (26,311) $ (25,756) $ (555) 2 % Interest income $ 196,174 $ 148,930 $ 47,244 32 % Other income, net $ 5,101 $ 1,638 $ 3,463 211 %
+[END TABLE 020]
+
+[TABLE 021]
+Change 2025 2024 $ % Provision for income taxes $ 71,130 $ 32,232 $ 38,898 121 %
+[END TABLE 021]
+
+[TABLE 022]
+Year Ended January 31, 2025 2024 2023 Net cash provided by operating activities $ 1,381,727 $ 1,166,207 $ 941,007 Net cash used in investing activities (536,588) (340,650) (556,658) Net cash provided by financing activities 107,208 93,158 77,437 Net change in cash, cash equivalents and restricted cash 947,069 920,673 460,291
+[END TABLE 022]
+
+[TABLE 023]
+Statement of Operations Year Ended January 31, 2025 (in thousands) Revenue $ 3,948,062 Cost of revenue 1,022,627 Operating expenses 3,063,076 Loss from operations (137,641) Net loss (36,365) Net loss attributable to CrowdStrike (36,365)
+[END TABLE 023]
+
+[TABLE 024]
+Balance Sheet January 31, 2025 (in thousands) Current assets (excluding current intercompany receivables from non-Guarantors) $ 5,922,562 Current intercompany receivables from non-Guarantors 49,417 Noncurrent assets (excluding noncurrent intercompany receivables from non-Guarantors) 2,316,545 Noncurrent intercompany receivables from non-Guarantors 613,732 Current liabilities (excluding current intercompany payables to non-Guarantors) 3,331,647 Current intercompany payables to non-Guarantors 31,092 Noncurrent liabilities (excluding noncurrent intercompany payables to non-Guarantors) 1,897,235 Noncurrent intercompany payables to non-Guarantors 234,643
+[END TABLE 024]
+
+[TABLE 025]
+Page Report of Independent Registered Public Accounting Firm (PCAOB ID 238 ) 78 Consolidated Financial Statements Consolidated Balance Sheets as of January 31, 2025 and 2024 80 Consolidated Statements of Operations for the years ended January 31, 2025, 2024 and 2023 81 Consolidated Statements of Comprehensive Income (Loss) for the years ended January 31, 2025, 2024 and 2023 82 Consolidated Statements of Stockholders’ Equity for the years ended January 31, 2025, 2024 and 2023 83 Consolidated Statements of Cash Flows for the years ended January 31, 2025, 2024 and 2023 84 Notes to Consolidated Financial Statements 85
+[END TABLE 025]
+
+[TABLE 026]
+January 31, 2025 2024 Assets Current assets: Cash and cash equivalents $ 4,323,295 $ 3,375,069 Short-term investments — 99,591 Accounts receivable, net of allowance for credit losses of $ 2.8 million and $ 2.2 million as of January 31, 2025 and January 31, 2024, respectively 1,128,564 853,105 Deferred contract acquisition costs, current 347,042 246,370 Prepaid expenses and other current assets 314,444 183,172 Total current assets 6,113,345 4,757,307 Strategic investments 72,544 56,244 Property and equipment, net 788,640 620,172 Operating lease right-of-use assets 42,763 48,211 Deferred contract acquisition costs, noncurrent 500,908 335,933 Goodwill 912,805 638,041 Intangible assets, net 133,114 114,518 Other long-term assets 137,459 76,094 Total assets $ 8,701,578 $ 6,646,520 Liabilities and Stockholders’ Equity Current liabilities: Accounts payable $ 130,887 $ 28,180 Accrued expenses 191,349 125,896 Accrued payroll and benefits 319,243 234,624 Operating lease liabilities, current 13,811 14,150 Deferred revenue 2,733,005 2,270,757 Other current liabilities 72,755 23,672 Total current liabilities 3,461,050 2,697,279 Long-term debt 743,983 742,494 Deferred revenue, noncurrent 995,672 783,342 Operating lease liabilities, noncurrent 31,107 36,230 Other liabilities, noncurrent 150,849 50,086 Total liabilities 5,382,661 4,309,431 Commitments and contingencies (Note 10) Stockholders’ Equity Preferred stock, $ 0.0005 par value; 100,000 shares authorized as of January 31, 2025 and January 31, 2024; no shares issued and outstanding as of January 31, 2025 and January 31, 2024. — — Class A common stock, $ 0.0005 par value; 2,000,000 shares authorized as of January 31, 2025 and January 31, 2024; 247,872 shares, and 229,380 shares issued and outstanding as of January 31, 2025 and January 31, 2024, respectively; Class B common stock, $ 0.0005 par value; 92,364 shares and 300,000 shares authorized as of January 31, 2025 and January 31, 2024, respectively; 0 shares, and 12,485 shares issued and outstanding as of January 31, 2025 and January 31, 2024, respectively. 124 121 Additional paid-in capital 4,367,070 3,364,328 Accumulated deficit ( 1,078,107 ) ( 1,058,836 ) Accumulated other comprehensive loss ( 9,593 ) ( 1,663 ) Total CrowdStrike Holdings, Inc. stockholders’ equity 3,279,494 2,303,950 Non-controlling interest 39,423 33,139 Total stockholders’ equity 3,318,917 2,337,089 Total liabilities and stockholders’ equity $ 8,701,578 $ 6,646,520
+[END TABLE 026]
+
+[TABLE 027]
+Year Ended January 31, 2025 2024 2023 Revenue Subscription $ 3,761,480 $ 2,870,557 $ 2,111,660 Professional services 192,144 184,998 129,576 Total revenue 3,953,624 3,055,555 2,241,236 Cost of revenue Subscription 835,509 630,745 511,684 Professional services 155,972 124,978 89,547 Total cost of revenue 991,481 755,723 601,231 Gross profit 2,962,143 2,299,832 1,640,005 Operating expenses Sales and marketing 1,523,356 1,140,566 904,409 Research and development 1,076,901 768,497 608,364 General and administrative 482,316 392,764 317,344 Total operating expenses 3,082,573 2,301,827 1,830,117 Loss from operations ( 120,430 ) ( 1,995 ) ( 190,112 ) Interest expense ( 26,311 ) ( 25,756 ) ( 25,319 ) Interest income 196,174 148,930 52,495 Other income, net 5,101 1,638 3,053 Income (loss) before provision for income taxes 54,534 122,817 ( 159,883 ) Provision for income taxes 71,130 32,232 22,402 Net income (loss) ( 16,596 ) 90,585 ( 182,285 ) Net income attributable to non-controlling interest 2,675 1,258 960 Net income (loss) attributable to CrowdStrike $ ( 19,271 ) $ 89,327 $ ( 183,245 ) Net income (loss) per share attributable to CrowdStrike common stockholders: Basic $ ( 0.08 ) $ 0.37 $ ( 0.79 ) Diluted $ ( 0.08 ) $ 0.37 $ ( 0.79 ) Weighted-average shares used in computing net income (loss) per share attributable to CrowdStrike common stockholders: Basic 244,750 238,637 233,139 Diluted 244,750 243,635 233,139
+[END TABLE 027]
+
+[TABLE 028]
+Year Ended January 31, 2025 2024 2023 Net income (loss) $ ( 16,596 ) $ 90,585 $ ( 182,285 ) Other comprehensive income (loss): Foreign currency translation adjustments ( 8,631 ) ( 594 ) 221 Unrealized gain (loss) on cash equivalents and short-term investments, net of tax 701 ( 50 ) — Other comprehensive income (loss) ( 7,930 ) ( 644 ) 221 Less: Comprehensive income attributable to non-controlling interest 2,675 1,258 960 Total comprehensive income (loss) attributable to CrowdStrike $ ( 27,201 ) $ 88,683 $ ( 183,024 )
+[END TABLE 028]
+
+[TABLE 029]
+Common Stock Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Income (Loss) Non-controlling Interest Total Stockholders’ Equity Shares Amount Balances at January 31, 2022 230,706 $ 115 $ 1,991,807 $ ( 964,918 ) $ ( 1,240 ) $ 11,879 $ 1,037,643 Issuance of common stock upon exercise of options 1,032 3 8,652 — — — 8,655 Issuance of common stock under RSU and PSU release 3,444 — — — — — — Issuance of common stock under employee stock purchase plan 517 — 59,419 — — — 59,419 Issuance of common stock for restricted stock awards 6 — — — — — — Vesting of early exercised options — — 2,204 — — — 2,204 Issuance of common stock for founders holdbacks related to acquisitions 72 — 10,645 — — — 10,645 Stock-based compensation expense, net of founder revest — — 519,735 — — — 519,735 Capitalized stock-based compensation — — 20,193 — — — 20,193 Fair value of replacement equity awards attributable to pre-acquisition service — — 50 — — — 50 Net income (loss) — — — ( 183,245 ) — 960 ( 182,285 ) Non-controlling interest — — — — — 10,954 10,954 Other comprehensive income — — — — 221 — 221 Balances at January 31, 2023 235,777 $ 118 $ 2,612,705 $ ( 1,148,163 ) $ ( 1,019 ) $ 23,793 $ 1,487,434 Issuance of common stock upon exercise of options 1,146 2 8,693 — — — 8,695 Issuance of common stock under RSU and PSU release 4,041 — — — — — — Issuance of common stock under employee stock purchase plan 747 1 76,374 — — — 76,375 Issuance of common stock for restricted stock awards 125 — — — — — — Issuance of common stock for founders holdbacks related to acquisitions 27 — 4,314 — — — 4,314 Issuance of common stock for payment of board of director fees 2 — 344 — — — 344 Stock-based compensation expense, net of founder revest — — 626,861 — — — 626,861 Capitalized stock-based compensation — — 34,385 — — — 34,385 Fair value of replacement equity awards attributable to pre-acquisition service — — 652 — — — 652 Net income — — — 89,327 — 1,258 90,585 Non-controlling interest — — — — — 8,088 8,088 Other comprehensive loss — — — — ( 644 ) — ( 644 ) Balances at January 31, 2024 241,865 $ 121 $ 3,364,328 $ ( 1,058,836 ) $ ( 1,663 ) $ 33,139 $ 2,337,089 Issuance of common stock upon exercise of options 514 — 3,983 — — — 3,983 Issuance of common stock under RSU and PSU release 4,552 3 ( 3 ) — — — — Issuance of common stock under employee stock purchase plan 858 — 99,616 — — — 99,616 Issuance of common stock for restricted stock awards 72 — — — — — — Issuance of common stock for founders holdbacks related to acquisitions 11 — 3,555 — — — 3,555 Issuance of common stock for payment of board of director fees — — 348 — — — 348 Stock-based compensation expense, net of founder revest — — 857,129 — — — 857,129 Capitalized stock-based compensation — — 36,959 — — — 36,959 Fair value of replacement equity awards attributable to pre-acquisition service — — 1,155 — — — 1,155 Net income (loss) — — — ( 19,271 ) — 2,675 ( 16,596 ) Non-controlling interest — — — — — 3,609 3,609 Other comprehensive loss — — — — ( 7,930 ) — ( 7,930 ) Balances at January 31, 2025 247,872 $ 124 $ 4,367,070 $ ( 1,078,107 ) $ ( 9,593 ) $ 39,423 $ 3,318,917
+[END TABLE 029]
+
+[TABLE 030]
+Year Ended January 31, 2025 2024 2023 Operating activities Net income (loss) $ ( 16,596 ) $ 90,585 $ ( 182,285 ) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization 187,952 126,838 77,245 Amortization of intangible assets 26,004 18,416 16,565 Amortization of deferred contract acquisition costs 318,837 238,901 170,808 Non-cash operating lease cost 15,283 13,398 9,440 Stock-based compensation expense 865,421 631,519 526,504 Deferred income taxes ( 9,903 ) ( 3,387 ) 1,306 Realized gains on strategic investments ( 6,321 ) ( 3,936 ) — Accretion of short-term investments purchased at a discount 2,285 ( 2,285 ) — Non-cash interest expense 3,763 3,173 2,813 Change in fair value of strategic investments 1,000 1,459 ( 1,830 ) Changes in operating assets and liabilities, net of impact of acquisitions Accounts receivable, net ( 274,219 ) ( 217,699 ) ( 258,109 ) Deferred contract acquisition costs ( 584,484 ) ( 371,649 ) ( 298,716 ) Prepaid expenses and other assets ( 190,232 ) ( 102,520 ) ( 46,807 ) Accounts payable 84,939 ( 18,898 ) ( 15,463 ) Accrued expenses and other liabilities 218,518 14,586 58,923 Accrued payroll and benefits 85,873 65,102 65,226 Operating lease liabilities ( 15,657 ) ( 14,035 ) ( 10,364 ) Deferred revenue 669,264 696,639 825,751 Net cash provided by operating activities 1,381,727 1,166,207 941,007 Investing activities Purchases of property and equipment ( 254,852 ) ( 176,529 ) ( 235,019 ) Capitalized internal-use software and website development costs ( 58,969 ) ( 49,457 ) ( 29,095 ) Purchases of strategic investments ( 19,702 ) ( 17,177 ) ( 21,808 ) Proceeds from sales of strategic investments 12,507 2,000 — Business acquisitions, net of cash acquired ( 310,257 ) ( 239,030 ) ( 18,349 ) Purchases of intangible assets — ( 11,126 ) ( 2,323 ) Purchases of short-term investments — ( 195,581 ) ( 250,000 ) Proceeds from maturities and sales of short-term investments 97,300 348,281 — Purchases of deferred compensation investments ( 2,721 ) ( 2,031 ) ( 64 ) Proceeds from the sale of deferred compensation investments 106 — — Net cash used in investing activities ( 536,588 ) ( 340,650 ) ( 556,658 ) Financing activities Repayment of loan payable — — ( 1,591 ) Proceeds from issuance of common stock upon exercise of stock options 3,983 8,695 8,655 Proceeds from issuance of common stock under the employee stock purchase plan 99,616 76,375 59,419 Distributions to non-controlling interest holders ( 4,891 ) — — Capital contributions from non-controlling interest holders 8,500 8,088 10,954 Net cash provided by financing activities 107,208 93,158 77,437 Effect of foreign exchange rates on cash, cash equivalents and restricted cash ( 5,278 ) 1,958 ( 1,495 ) Net increase in cash, cash equivalents and restricted cash 947,069 920,673 460,291 Cash, cash equivalents and restricted cash at beginning of period 3,377,597 2,456,924 1,996,633 Cash, cash equivalents and restricted cash at end of period $ 4,324,666 $ 3,377,597 $ 2,456,924 Cash, cash equivalents and restricted cash at the end of period: Cash and cash equivalents 4,323,295 3,375,069 2,455,369 Restricted cash included in prepaid expenses and other assets 1,371 2,528 1,555 Total cash, cash equivalents and restricted cash shown in the consolidated statements of cash flows 4,324,666 3,377,597 2,456,924 Supplemental disclosure of cash flow information: Interest paid $ 22,500 $ 22,500 $ 22,551 Income taxes paid, net of refunds received $ 19,022 $ 22,608 $ 11,943 Supplemental disclosure of non-cash investing and financing activities: Net increase (decrease) in property and equipment included in accounts payable and accrued expenses $ 9,452 $ ( 3,081 ) $ 22,421 Vesting of early exercised stock options $ — $ — $ 2,204 Equity consideration for acquisitions $ 1,155 $ 652 $ 50 Operating lease liabilities arising from obtaining operating right of-use assets $ 6,821 $ 16,445 $ 18,464 Proceeds from sales of strategic investments not yet received $ 4,992 $ 8,774 $ — Stock-based compensation included in capitalized software development costs and fixed assets $ 36,959 $ 31,919 $ 20,193 Noncash consideration for the purchase of strategic investments $ 3,319 $ — $ — Noncash consideration received from sales of strategic investments $ 3,319 $ — $ —
+[END TABLE 030]
+
+[TABLE 031]
+Data center and other computer equipment 3 – 5 years Furniture and equipment 5 years Purchased software 3 – 5 years Capitalized internal-use software and website development 3 years Leasehold improvements Estimated useful life or term of the lease, whichever is shorter
+[END TABLE 031]
+
+[TABLE 032]
+January 31, 2025 January 31, 2024 Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3 Total Assets Cash equivalents Money market funds $ 1,470,040 $ — $ — $ 1,470,040 $ 2,360,173 $ — $ — $ 2,360,173 U.S. Treasury securities — 2,490,097 — 2,490,097 — 693,599 — 693,599 Short-term investments U.S. Treasury securities — — — — — 99,591 — 99,591 Other assets Deferred compensation investments 5,496 — — 5,496 2,271 — — 2,271 Total assets $ 1,475,536 $ 2,490,097 $ — $ 3,965,633 $ 2,362,444 $ 793,190 $ — $ 3,155,634
+[END TABLE 032]
+
+[TABLE 033]
+Privately held equity securities Privately held debt and other securities Total Initial total cost $ 68,140 $ 1,000 $ 69,140 Cumulative net gains 3,404 — 3,404 Carrying amount, end of period $ 71,544 $ 1,000 $ 72,544
+[END TABLE 033]
+
+[TABLE 034]
+Privately held equity securities Privately held debt and other securities Total Initial total cost $ 50,373 $ 1,000 $ 51,373 Cumulative net gains 4,871 — 4,871 Carrying amount, end of period $ 55,244 $ 1,000 $ 56,244
+[END TABLE 034]
+
+[TABLE 035]
+Year Ended January 31, 2025 2024 2023 Unrealized gains recognized on privately held equity securities $ — $ — $ 4,758 Unrealized losses recognized on privately held equity securities including impairment ( 1,000 ) ( 1,459 ) ( 2,928 ) Unrealized gains (losses), net ( 1,000 ) ( 1,459 ) 1,830 Realized gains recognized on sales of privately held equity securities 6,975 3,936 — Realized losses recognized on sales of privately held equity securities ( 654 ) — — Realized gains, net 6,321 3,936 — Gains on strategic investments, net $ 5,321 $ 2,477 $ 1,830 Unrealized gains (losses) recognized during the reporting period on privately held equity securities still held at the reporting date $ ( 1,000 ) $ ( 1,459 ) $ 1,830
+[END TABLE 035]
+
+[TABLE 036]
+January 31, 2025 Short-term financing receivables, gross $ 9,579 Unearned income ( 2,339 ) Allowance for credit losses ( 76 ) Short-term financing receivables, net $ 7,164 Long-term financing receivables, gross $ 43,235 Unearned income ( 5,051 ) Allowance for credit losses ( 342 ) Long-term financing receivables, net $ 37,842
+[END TABLE 036]
+
+[TABLE 037]
+Internal Risk Rating (1) Year Ended January 31, 2025 1 to 4 $ 18,413 5 to 6 27,011 7 to 9 — Amortized cost basis of financing receivables $ 45,424
+[END TABLE 037]
+
+[TABLE 038]
+January 31, 2025 2024 Data center and other computer equipment $ 755,728 $ 525,890 Capitalized internal-use software and website development costs 265,987 183,117 Leasehold improvements 42,230 39,168 Purchased software 15,876 10,907 Furniture and equipment 10,485 8,524 Construction in progress 220,088 190,832 1,310,394 958,438 Less: Accumulated depreciation and amortization ( 521,754 ) ( 338,266 ) Property and equipment, net $ 788,640 $ 620,172
+[END TABLE 038]
+
+[TABLE 039]
+January 31, 2025 Weighted-Average Remaining Useful Life Gross Carrying Amount Accumulated Amortization Net Amount (in months) Developed technology $ 168,416 $ 63,783 $ 104,633 55 Customer relationships 24,502 8,454 16,048 65 Intellectual property and other acquired intangible assets 15,837 3,404 12,433 112 Total $ 208,755 $ 75,641 $ 133,114
+[END TABLE 039]
+
+[TABLE 040]
+January 31, 2024 Weighted-Average Remaining Useful Life Gross Carrying Amount Accumulated Amortization Net Amount (in months) Developed technology $ 131,346 $ 41,854 $ 89,492 60 Customer relationships 17,027 5,825 11,202 68 Intellectual property and other acquired intangible assets 15,842 2,018 13,824 123 Total $ 164,215 $ 49,697 $ 114,518
+[END TABLE 040]
+
+[TABLE 041]
+Total Fiscal 2026 $ 29,423 Fiscal 2027 27,248 Fiscal 2028 26,735 Fiscal 2029 23,982 Fiscal 2030 14,605 Thereafter 11,121 Total amortization expense $ 133,114
+[END TABLE 041]
+
+[TABLE 042]
+Amounts Goodwill as of January 31, 2024 $ 638,041 Goodwill acquired (1) 274,981 Foreign currency translation ( 217 ) Goodwill as of January 31, 2025 $ 912,805
+[END TABLE 042]
+
+[TABLE 043]
+January 31, 2025 2024 Accrued commissions $ 174,322 $ 116,870 Accrued payroll and related expenses 69,197 58,579 Accrued bonuses 42,510 36,860 Employee stock purchase plan 33,214 22,315 Accrued payroll and benefits $ 319,243 $ 234,624
+[END TABLE 043]
+
+[TABLE 044]
+Year Ended January 31, 2025 2024 2023 Domestic $ 62,385 $ 99,241 $ ( 195,042 ) International ( 7,851 ) 23,576 35,159 Income (loss) before provision for income taxes $ 54,534 $ 122,817 $ ( 159,883 )
+[END TABLE 044]
+
+[TABLE 045]
+Year Ended January 31, 2025 2024 2023 Current Federal $ 431 $ 272 $ — State 2,493 4,462 855 Foreign 78,109 30,885 20,241 Total current 81,033 35,619 21,096 Deferred Federal 323 ( 307 ) 135 State ( 204 ) ( 343 ) 89 Foreign ( 10,022 ) ( 2,737 ) 1,082 Total deferred ( 9,903 ) ( 3,387 ) 1,306 Provision for income taxes $ 71,130 $ 32,232 $ 22,402
+[END TABLE 045]
+
+[TABLE 046]
+As of January 31, 2025 2024 2023 Provision for income taxes at statutory rate $ 11,452 $ 25,527 $ ( 33,777 ) State income taxes, net of federal benefits 2,289 4,118 944 Effects of foreign operations 10,236 22,425 11,003 Research and other credits ( 36,669 ) ( 21,182 ) ( 19,465 ) Stock-based compensation ( 125,590 ) ( 31,852 ) ( 47,335 ) Non-deductible expenses 6,904 4,604 2,800 Change in valuation allowance 152,608 28,810 102,892 Tax impact of foreign transactions 49,883 — 5,340 Other 17 ( 218 ) — Provision for income taxes $ 71,130 $ 32,232 $ 22,402
+[END TABLE 046]
+
+[TABLE 047]
+As of January 31, 2025 2024 Deferred tax assets Net operating loss carryforwards $ 400,277 $ 420,803 Research and other credit carryforwards 144,068 100,002 Intangible assets 117,620 81,551 Stock-based compensation 60,290 33,885 Deferred revenue 209,357 169,777 Accrued expenses 29,833 23,956 Operating lease liabilities 17,418 20,613 Capitalized research and development 473,889 320,708 Other, net 13,898 — Gross deferred assets 1,466,650 1,171,295 Less: Valuation allowance ( 1,192,366 ) ( 957,710 ) Total deferred tax assets 274,284 213,585 Deferred tax liabilities Property and equipment, net ( 64,576 ) ( 51,335 ) Capitalized commissions ( 171,349 ) ( 128,302 ) Intangible assets ( 6,921 ) ( 6,489 ) Operating right-of-use assets ( 16,853 ) ( 19,956 ) Other, net — ( 277 ) Total deferred tax liabilities ( 259,699 ) ( 206,359 ) Net deferred tax assets $ 14,585 $ 7,226
+[END TABLE 047]
+
+[TABLE 048]
+Balance as of February 1, 2022 $ 26,324 Decreases in prior period tax positions ( 2,122 ) Increases in current period tax positions 12,699 Balance as of January 31, 2023 36,901 Increases in prior period tax positions 4,757 Decreases in prior period tax positions ( 1,321 ) Increases in current period tax positions 18,538 Balance as of January 31, 2024 58,875 Increases in current period tax positions 66,354 Increases in prior period tax positions 890 Decreases in prior period tax positions ( 5,285 ) Settlements with taxing authorities ( 2,882 ) Statute of limitations expirations ( 151 ) Impact from currency fluctuations ( 261 ) Balance as of January 31, 2025 $ 117,540
+[END TABLE 048]
+
+[TABLE 049]
+Year Ended January 31, 2025 2024 2023 Lease cost Operating lease cost $ 17,326 $ 15,510 $ 11,084 Short-term lease cost 3,519 3,664 2,344 Variable lease cost 11,526 8,480 8,279 Total lease cost $ 32,371 $ 27,654 $ 21,707
+[END TABLE 049]
+
+[TABLE 050]
+January 31, 2025 Fiscal 2026 $ 14,135 Fiscal 2027 11,269 Fiscal 2028 10,794 Fiscal 2029 6,042 Fiscal 2030 3,787 Thereafter 3,717 Total operating lease payments 49,744 Less: imputed interest ( 4,826 ) Present value of operating lease liabilities $ 44,918
+[END TABLE 050]
+
+[TABLE 051]
+Number of Shares Weighted- Average Exercise Price Per Share (in thousands) Options outstanding at January 31, 2024 1,754 $ 9.37 Granted 30 $ 18.06 Exercised ( 514 ) $ 7.75 Canceled ( 19 ) $ 12.69 Options outstanding at January 31, 2025 1,251 $ 10.23 Options vested and expected to vest at January 31, 2025 1,251 $ 10.23 Options exercisable at January 31, 2025 1,217 $ 9.93
+[END TABLE 051]
+
+[TABLE 052]
+Number of Shares Weighted-Average Grant Date Fair Value Per Share (in thousands) RSUs and PSUs outstanding at January 31, 2024 10,968 $ 167.84 Granted 5,122 $ 306.50 Released ( 4,552 ) $ 171.25 Performance adjustment (1) 245 $ 132.83 Forfeited ( 759 ) $ 205.25 RSUs and PSUs outstanding at January 31, 2025 11,024 $ 227.55 RSUs and PSUs expected to vest at January 31, 2025 (2) 10,454 $ 228.49
+[END TABLE 052]
+
+[TABLE 053]
+Year Ended January 31, 2025 2024 2023 Expected term (in years) 0.5 – 2.0 0.5 – 2.0 0.5 – 2.0 Risk-free interest rate 3.4 % – 5.3 % 0.2 % – 5.3 % 0.1 % – 4.7 % Expected stock price volatility 40.8 % – 59.8 % 40.8 % – 61.2 % 39.6 % – 67.4 % Dividend yield — % — % — %
+[END TABLE 053]
+
+[TABLE 054]
+Year Ended January 31, 2025 2024 2023 Subscription cost of revenue $ 73,592 $ 43,886 $ 32,091 Professional services cost of revenue 31,126 22,302 15,692 Sales and marketing 235,499 175,808 151,919 Research and development 337,620 205,896 174,711 General and administrative 187,584 183,627 152,091 Total stock-based compensation expense $ 865,421 $ 631,519 $ 526,504
+[END TABLE 054]
+
+[TABLE 055]
+Year Ended January 31, 2025 2024 2023 Amount % Revenue Amount % Revenue Amount % Revenue United States $ 2,682,942 68 % $ 2,088,054 68 % $ 1,563,567 70 % Europe, Middle East, and Africa 619,483 16 % 467,928 15 % 327,929 15 % Asia Pacific 402,453 10 % 315,524 10 % 228,124 10 % Other 248,746 6 % 184,049 7 % 121,616 5 % Total revenue $ 3,953,624 100 % $ 3,055,555 100 % $ 2,241,236 100 %
+[END TABLE 055]
+
+[TABLE 056]
+Year Ended January 31, 2025 2024 Beginning balance $ 3,054,099 $ 2,355,113 Additions to deferred revenue 4,628,202 3,754,541 Recognition of deferred revenue ( 3,953,624 ) ( 3,055,555 ) Ending balance $ 3,728,677 $ 3,054,099
+[END TABLE 056]
+
+[TABLE 057]
+Year Ended January 31, 2025 2024 Beginning balance $ 582,303 $ 447,088 Capitalization of contract acquisition costs 584,484 374,116 Amortization of deferred contract acquisition costs ( 318,837 ) ( 238,901 ) Ending balance $ 847,950 $ 582,303 Deferred contract acquisition costs, current $ 347,042 $ 246,370 Deferred contract acquisition costs, noncurrent 500,908 335,933 Total deferred contract acquisition costs $ 847,950 $ 582,303
+[END TABLE 057]
+
+[TABLE 058]
+Amounts Balance at January 31, 2024 $ — Expenses incurred, net of insurance receivable recorded (1) 60,062 Payments made / cash received ( 38,917 ) Balance at January 31, 2025 $ 21,145
+[END TABLE 058]
+
+[TABLE 059]
+Total Commitments Fiscal 2026 $ 491,027 Fiscal 2027 541,433 Fiscal 2028 558,559 Fiscal 2029 581,474 Fiscal 2030 432,481 Thereafter 87,058 Total purchase commitments $ 2,692,032
+[END TABLE 059]
+
+[TABLE 060]
+January 31, 2025 2024 United States $ 688,766 $ 539,580 Germany 88,443 84,488 Other countries 54,194 44,315 Total property and equipment, net and operating lease right-of-use assets $ 831,403 $ 668,383
+[END TABLE 060]
+
+[TABLE 061]
+Fair Value Useful Life (in months) Developed technology $ 23,600 72 Customer relationships 7,500 72 Total intangible assets acquired $ 31,100
+[END TABLE 061]
+
+[TABLE 062]
+Fair Value Useful Life (in months) Developed technology $ 29,900 72 Customer relationships 5,000 96 Total intangible assets acquired $ 34,900
+[END TABLE 062]
+
+[TABLE 063]
+Year Ended January 31, 2025 2024 2023 Numerator: Net income (loss) attributable to CrowdStrike $ ( 19,271 ) $ 89,327 $ ( 183,245 ) Denominator: Weighted-average shares used in computing net income (loss) per share attributable to CrowdStrike common stockholders, basic 244,750 238,637 233,139 Dilutive effect of common stock equivalents — 4,998 — Weighted-average shares used in computing net income (loss) per share attributable to CrowdStrike common stockholders, dilutive 244,750 243,635 233,139 Net income (loss) per share attributable to CrowdStrike common stockholders, basic $ ( 0.08 ) $ 0.37 $ ( 0.79 ) Net income (loss) per share attributable to CrowdStrike common stockholders, diluted $ ( 0.08 ) $ 0.37 $ ( 0.79 )
+[END TABLE 063]
+
+[TABLE 064]
+Year Ended January 31, 2025 2024 2023 RSUs and PSUs subject to future vesting 10,454 3,125 10,050 Shares of common stock issuable from stock options 1,217 1 2,869 Share purchase rights under the Employee Stock Purchase Plan 742 411 4,481 Potential common shares excluded from diluted net income (loss) per share 12,413 3,537 17,400
+[END TABLE 064]
+
+[TABLE 065]
+Plans Name and Title Action Date Rule 10b5-1 (1) Non-Rule 10b5-1 (2) Number of Shares to be Sold Expiration (4) Gerhard Watzinger , Chairman Adoption December 6, 2024 X Up to 60,500 Earlier of the date when all shares under the plan are sold and April 1, 2026 . Shawn Henry , Chief Security Officer Adoption December 18, 2024 X Up to 54,333 (3) Earlier of when all shares under the plan are sold and March 24, 2026 . Johanna Flower , Director Adoption January 16, 2025 X Up to 10,394 Earlier of when all shares under the plan are sold and April 17, 2026 .
+[END TABLE 065]
+
+[TABLE 066]
+Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit Filing Date Filed Herewith 3.1 Amended and Restated Certificate of Incorporation of the Registrant, as currently in effect. 8-K 001-38933 3.1 June 14, 2019 3.2 Amended and Restated Bylaws of the Registrant, as currently in effect. 10-Q 001-38933 3.2 November 27, 2024 3.3 Certificate of Retirement of Class B common stock. 8-K 001-38933 3.1 December 13, 2024 4.1 Amended and Restated Stockholders Agreement among the Registrant and certain holders of its capital stock, dated as of June 21, 2018, as amended on September 25, 2018 and April 17, 2019. S-1 333-231461 4.1 May 14, 2019 4.2 Amended and Restated Registration Rights Agreement among the Registrant and certain holders of its capital stock, dated as of June 21, 2018. S-1 333-231461 4.2 May 14, 2019 4.3 Class A common stock certificate of the Registrant. S-1/A 333-231461 4.3 May 29, 2019 4.4 Description of Registrant’s securities. X 4.5 Indenture dated as of January 20, 2021, between CrowdStrike Holdings, Inc. and U.S. Bank National Association, as trustee 8-K 001-38933 4.1 January 20, 2021 4.6 First Supplemental Indenture, dated as of January 20, 2021, between CrowdStrike Holdings, Inc. and U.S. Bank National Association, as trustee 8-K 001-38933 4.2 January 20, 2021 4.7 Form of 3.000% Senior Notes due 2029 (included in Exhibit 4.9) 8-K 001-38933 4.2 January 20, 2021 4.8 Second Supplemental Indenture, dated as of January 10, 2025, by and among CrowdStrike Holdings, Inc., CrowdStrike Financial Services, Inc. and U.S. Bank Trust Company, National Association, as successor to U.S. Bank National Association, as trustee X 10.1 † Form of Indemnification Agreement between the Registrant and each of its directors and executive officers. S-1 333-231461 10.1 May 14, 2019 10.2 † 2019 Equity Incentive Plan and related form agreement. S-1/A 333-231461 10.2 May 29, 2019 10.3† Form of Global Restricted Stock Unit Agreement Outside Directors – Annual Grant under the Company’s 2019 Equity Incentive Plan 10-Q 001-38933 10.1 September 3, 2020 10.4† Form of Global Restricted Stock Unit Agreement Outside Directors – Initial Grant under the Company’s 2019 Equity Incentive Plan 10-K 001-38933 10.4 March 18, 2021 10.5† CrowdStrike Holdings, Inc. 2019 Equity Incentive Plan Global Performance Unit Agreement 10-Q 001-38933 10.1 June 3, 2020 10.6† Amended and Restated 2011 Stock Incentive Plan and related form agreements. S-1 333-231461 10.4 May 14, 2019 10.7† Amended and Restated 2019 Employee Stock Purchase Plan and related form agreements. 10-Q 001-38933 10.2 September 1, 2021 10.8† CrowdStrike Holdings, Inc. Corporate Incentive Plan. 10-Q 001-38933 10.1 June 1, 2023 10.9† Outside Director Compensation Policy, as amended on June 19, 2024. 10-Q 001-38933 10.1 August 29, 2024 10.10† Employment Agreement between the Registrant and George Kurtz, dated as of November 18, 2011. S-1 333-231461 10.6 May 14, 2019 10.11† Offer Letter between the Registrant and Burt W. Podbere, dated as of August 10, 2015. S-1 333-231461 10.8 May 14, 2019 10.12 Office Lease Agreement between EQC Capitol Tower Property LLC and CrowdStrike, Inc., dated April 20, 2018. 10-K 001-38933 10.18 March 16, 2022
+[END TABLE 066]
+
+[TABLE 067]
+10.13 First Amendment to Office Lease Agreement between EQC Capitol Tower Property LLC and CrowdStrike, Inc., dated June 6, 2019. 10-K 001-38933 10.19 March 16, 2022 10.14 Amended and Restated Credit Agreement dated as of January 4, 2021, as amended on January 6, 2022 among CrowdStrike Holdings, Inc., as guarantor, CrowdStrike, Inc. as borrower, and Silicon Valley Bank and the other lenders party thereto. 10-K 001-38933 10.20 March 16, 2022 10.15† Amended and Restated Performance Unit Agreement with George Kurtz, dated September 1, 2021, under the CrowdStrike Holdings, Inc. 2019 Equity Incentive Plan. 10-Q 001-38933 10.4 September 1, 2021 10.16† Change in Control and Severance Agreement, dated as of September 1, 2021, by and between CrowdStrike Holdings, Inc. and George Kurtz. 10-Q 001-38933 10.3 September 1, 2021 10.17† Performance Unit Agreement with Burt Podbere, dated January 12, 2022, under the CrowdStrike Holdings, Inc. 2019 Equity Incentive Plan. 8-K 001-38933 10.1 January 14, 2022 10.18† Offer Letter between the Registrant and Shawn Henry, dated as of March 4, 2012. 10-Q 001-38933 10.2 June 4, 2021 10.19 Second Amendment to Office Lease between EQC Capitol Tower Property LLC and CrowdStrike, Inc., dated January 19, 2023 10-K 001-38933 10.26 March 9, 2023 10.20† CrowdStrike, Inc. Deferred Compensation Plan Adoption Agreement, dated May 4, 2023. 10-K 001-38933 10.20 March 7, 2024 10.21† CrowdStrike, Inc, Deferred Compensation Plan, dated January 1, 2023. 10-K 001-38933 10.21 March 7, 2024 10.22† Offer Letter between CrowdStrike, Inc. and Michael Sentonas, dated as of March 22, 2021. 10-Q 001-38933 10.1 June 5, 2024 19.1 Insider Trading Policy X 21.1 List of Subsidiaries of the Registrant. X 22.1 List of Subsidiary Guarantors X 23.1 Consent of PricewaterhouseCoopers LLC, independent registered public accounting firm. X 24.1 Power of Attorney (reference is made to the signature page hereto). X 31.1 Certification of the Principal Executive Officer pursuant to Exchange Act Rules 13a14(a) and 15d14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. X 31.2 Certification of the Principal Financial Officer pursuant to Exchange Act Rules 13a14(a) and 15d14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. X 32.1* Certification of the Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. X 97.1 Compensation Recovery Policy 10-K 001-38933 97.1 March 7, 2024 101.INS Inline XBRL Instance Document X 101.SCH Inline XBRL Taxonomy Extension Schema Document X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document X
+[END TABLE 067]
+
+[TABLE 068]
+104 Cover Page Interactive Data File – the cover page XBRL tags are embedded within the Inline Instance XBRL document X
+[END TABLE 068]
+
+[TABLE 069]
+CROWDSTRIKE HOLDINGS, INC. By: /s/ George Kurtz George Kurtz President, Chief Executive Officer and Director (Principal Executive Officer)
+[END TABLE 069]
+
+[TABLE 070]
+Signature Title Date /s/ George Kurtz President, Chief Executive Officer, and Director (Principal Executive Officer) March 10, 2025 George Kurtz /s/ Burt W. Podbere Chief Financial Officer (Principal Financial Officer) March 10, 2025 Burt W. Podbere /s/ Anurag Saha Chief Accounting Officer (Principal Accounting Officer) March 10, 2025 Anurag Saha /s/ Gerhard Watzinger Chairman of the Board of Directors March 10, 2025 Gerhard Watzinger /s/ Cary J. Davis Director March 10, 2025 Cary J. Davis /s/ Denis J. O’Leary Director March 10, 2025 Denis J. O’Leary /s/ Godfrey R. Sullivan Director March 10, 2025 Godfrey R. Sullivan /s/ Johanna Flower Director March 10, 2025 Johanna Flower /s/ Laura J. Schumacher Director March 10, 2025 Laura J. Schumacher /s/ Roxanne S. Austin Director March 10, 2025 Roxanne S. Austin /s/ Sameer K. Gandhi Director March 10, 2025 Sameer K. Gandhi
+[END TABLE 070]

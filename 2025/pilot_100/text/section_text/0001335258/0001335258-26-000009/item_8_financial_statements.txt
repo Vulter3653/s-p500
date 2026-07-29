@@ -1,0 +1,785 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Live Nation Entertainment, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Live Nation Entertainment, Inc. (the Company) as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income, changes in equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and financial statement schedule listed in the index at Item 15(a)2 (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated February 19, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 2005.
+
+Los Angeles, California
+
+February 19, 2026
+
+LIVE NATION ENTERTAINMENT, INC.
+
+See Notes to Consolidated Financial Statements
+
+LIVE NATION ENTERTAINMENT, INC.
+
+See Notes to Consolidated Financial Statements
+
+LIVE NATION ENTERTAINMENT, INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+See Notes to Consolidated Financial Statements
+
+LIVE NATION ENTERTAINMENT, INC.
+
+See Notes to Consolidated Financial Statements
+
+LIVE NATION ENTERTAINMENT, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+See Notes to Consolidated Financial Statements
+
+LIVE NATION ENTERTAINMENT, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1— THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+History
+
+Live Nation was incorporated in Delaware on August 2, 2005 in preparation for the contribution and transfer by Clear Channel Communications, Inc. of substantially all of its entertainment assets and liabilities to us. We completed this separation on December 21, 2005 and became a publicly traded company on the New York Stock Exchange trading under the symbol “LYV.”
+
+On January 25, 2010, we merged with Ticketmaster Entertainment LLC and it became a wholly-owned subsidiary of Live Nation. Effective with the merger, Live Nation, Inc. changed its name to Live Nation Entertainment, Inc.
+
+Seasonality
+
+Our Concerts and Sponsorship & Advertising segments typically experience higher revenue and operating income in the second and third quarters as our outdoor venue concerts and festivals primarily occur from May through October in most major markets. Our Ticketing segment revenue is impacted by fluctuations in the availability and timing of events for sale to the public, which vary depending upon scheduling by our clients.
+
+Cash flows from our Concerts segment typically have a slightly different seasonality as partial payments are often made for artist performance fees and production costs for tours in advance of the date the related event tickets go on sale. These artist fees and production costs are expensed when the event occurs. Once tickets for an event go on sale, we generally begin to receive payments from ticket sales in advance of when the event occurs. In the United States, this cash is largely associated with events in our operated venues, notably amphitheaters, festivals, theaters and clubs. Internationally, this cash is from a combination of both events in our owned or operated venues, as well as events in third-party venues associated with our promoters’ share of tickets in allocation markets. We record ticket sales related to owned and operated venues as revenue when the event occurs. Our seasonality also results in higher balances in cash and cash equivalents, accounts receivable, prepaid expenses, accrued expenses and deferred revenue at different times in the year.
+
+We expect our seasonality trends to evolve as we continue to expand our global operations.
+
+Basis of Presentation and Principles of Consolidation
+
+Our consolidated financial statements include all of our accounts, including our majority owned and controlled subsidiaries and VIEs for which we are the primary beneficiary. Intercompany accounts among the consolidated businesses have been eliminated in consolidation. Net income (loss) attributable to noncontrolling interests is reflected in the statements of operations.
+
+Typically, we consolidate entities in which we own more than 50% of the voting common stock and control operations and also VIEs for which we are the primary beneficiary. Investments in nonconsolidated affiliates in which we own more than 20% of the voting common stock or otherwise exercise significant influence over operating and financial policies but not control of the nonconsolidated affiliate are accounted for using the equity method of accounting. Investments in nonconsolidated affiliates in which we own less than 20% of the voting common stock and do not exercise significant influence over operating and financial policies are accounted for at fair value unless the investment does not have a readily determinable fair value in which case the investment is accounted for at cost less any impairment.
+
+All of our cash flow activity reflected on the consolidated statements of cash flows is presented net of any non-cash transactions so the amounts reflected may be different than amounts shown in other places in our consolidated financial statements that are based on accrual accounting and therefore include non-cash amounts. For example, purchases of property, plant and equipment reflected on the consolidated statements of cash flows reflect the amount of cash paid during the year for these purchases and does not include the impact of the changes in accrued expenses related to capital expenditures during the year.
+
+Variable Interest Entities
+
+In the normal course of business, we enter into joint ventures or make investments in companies that will allow us to expand our core business and enter new markets. In certain instances, such ventures or investments may be considered a VIE because the equity at risk is insufficient to permit it to carry on its activities without additional financial support from its equity owners. In determining whether we are the primary beneficiary of a VIE, we assess whether we have the power to direct activities that most significantly impact the economic performance of the entity and have the obligation to absorb losses or the right to receive benefits from the entity that could potentially be significant to the VIE. The activities we believe most significantly impact the economic performance of our VIEs include the unilateral ability to approve the annual budget, to terminate key management and to approve entering into agreements with artists, among others. We have certain rights and obligations related to our involvement in the VIEs, including the requirement to provide operational cash flow funding.
+
+As of December 31, 2025 and 2024, excluding intercompany balances and allocated goodwill and intangible assets, there were approximately $ 941.4 million and $ 839.9 million of assets and $ 875.4 million and $ 577.6 million of liabilities, respectively, related to VIEs included in our balance sheets. None of our VIEs are significant on an individual basis.
+
+Nonconsolidated Affiliates
+
+In general, nonconsolidated investments in which we own more than 20% of the common stock or otherwise exercise significant influence over an affiliate are accounted for under the equity method. We review the value of equity method investments and record impairment charges in the statements of operations for any decline in value that is determined to be other-than-temporary. If we obtain control of a nonconsolidated affiliate through the purchase of additional ownership interest or changes in the governing agreements, we remeasure our investment to fair value first and then apply the accounting guidance for business combinations. Any gain or loss resulting from the remeasurement to fair value is recorded as a component of other expense (income), net in the statements of operations.
+
+Cash, Cash Equivalents and Restricted Cash
+
+Cash and cash equivalents include all highly liquid investments with an original maturity of three months or less. Our cash and cash equivalents include domestic and foreign bank accounts as well as interest-bearing accounts consisting primarily of bank deposits and money market accounts managed by third-party financial institutions. These balances are stated at cost, which approximates fair value.
+
+Restricted cash primarily consists of cash held in escrow accounts to fund capital improvements of certain leased or operated venues. The cash is held in these accounts pursuant to the related lease or operating agreement.
+
+Included in the December 31, 2025 and 2024 cash and cash equivalents balance is $ 1.6 billion and $ 1.6 billion, respectively, of cash received that includes the face value of tickets sold on behalf of our ticketing clients and their share of service charges (“client cash”), which amounts are to be remitted to these clients. These amounts due to our clients are included in accounts payable, client accounts.
+
+Cash held in interest-bearing operating accounts in many cases exceeds the Federal Deposit Insurance Corporation insurance limits. To reduce our credit risk, we monitor the credit standing of the financial institutions that hold our cash and cash equivalents; however, these balances could be impacted in the future if the underlying financial institutions fail. To date, we have experienced no loss of or lack of access to our cash or cash equivalents; however, we can provide no assurances that access to our cash and cash equivalents will not be impacted in the future by adverse conditions in the financial markets.
+
+Allowance for Doubtful Accounts
+
+We evaluate the collectability of our accounts receivable based on a combination of factors. Generally, we record reserves based on the amount of cash we expect to receive when an account receivable balance is established. Our reserve estimate is primarily based on our historical accounts receivable write-offs. We adjust the historical reserve estimate applied to current accounts receivable when events or circumstances change, such as changes in current economic conditions or there is a significant deterioration in our accounts receivable aging, indicating that the reserve estimate may be insufficient to cover the expected loss. We generally apply a portfolio approach to all of our accounts receivable based on reporting unit unless there are facts and circumstances that indicate a specific group of customers is at greater risk of nonpayment.
+
+We believe that the credit risk with respect to trade receivables is limited due to the large number and the geographic diversification of our customers.
+
+Prepaid Expenses
+
+The majority of our prepaid expenses relate to event expenses including show advances and deposits and other costs directly related to future concert events. For advances that are expected to be recouped over a period of more than twelve months, the long-term portion of the advance is classified as long-term advances. These prepaid costs are charged to operations upon completion of the related events.
+
+Ticketing contract advances, which can be either recoupable or non-recoupable, represent amounts paid in advance to our clients pursuant to ticketing agreements and are reflected in prepaid expenses or in long-term advances if the amount is expected to be recouped or recognized over a period of more than twelve months. Recoupable ticketing contract advances are generally recoupable against future royalties earned by our clients, based on the contract terms, over the life of the contract. Non-recoupable ticketing contract advances, excluding those amounts paid to support clients’ advertising costs, are fixed additional incentives occasionally paid by us to secure the contract with certain clients and are typically amortized over the life of the contract on a straight-line basis.
+
+Artist advances and ticketing contract advances are reviewed for recoverability whenever circumstances change, such as extended delays in an artist’s touring cycle, a decline in an artist’s tour earnings, lack of events on sale for a ticketing client or a decline in a client’s ticket sales, indicating that the advance may not be recoupable over the term of the agreement. We review various factors, including past recoupment amounts, timing of an artist’s last tour, expectations of future tours, ticketing clients’ historical ticket sales and expectations of clients’ future ticket sales, to determine if we believe the advance will recoup as expected. If an advance is not expected to be fully recoupable, a reserve is established to reduce the advance to the amount we expect to recoup. The reserves are recorded as a component of direct operating expenses in our consolidated statements of operations.
+
+Business Combinations
+
+During 2025, 2024 and 2023, we completed several acquisitions that were accounted for as business combinations under the acquisition method of accounting. When we make these acquisitions, we often acquire a controlling interest without buying 100% of the business. These acquisitions and the related results of operations were not significant on either an individual basis or in the aggregate for the years ended December 31, 2025, 2024 and 2023.
+
+We account for our business combinations under the acquisition method of accounting. Identifiable assets acquired, liabilities assumed and any noncontrolling interest in the acquiree are recognized and measured as of the acquisition date at fair value. Additionally, any contingent consideration is recorded at fair value on the acquisition date and classified as a liability. Goodwill is recognized to the extent by which the aggregate of the acquisition-date fair value of the consideration transferred and any noncontrolling interest in the acquiree exceeds the recognized basis of the identifiable assets acquired, net of assumed liabilities. Determining the fair value of assets acquired, liabilities assumed and noncontrolling interests requires management’s judgment and often involves the use of significant estimates and assumptions, including assumptions with respect to future cash flows, discount rates and asset lives among other items. In addition, when we have acquisitions where substantially all of the fair value of assets acquired is concentrated in a single asset or group of similar assets, we account for the acquisitions as asset acquisitions.
+
+Property, Plant and Equipment
+
+Property, plant and equipment are stated at cost or fair value at the date of acquisition. Depreciation is computed using the straight-line method over their estimated useful lives, which are typically as follows:
+
+Buildings and improvements - 10 to 50 years
+
+Computer equipment and capitalized software - 3 to 10 years
+
+Furniture and other equipment - 3 to 10 years
+
+Leasehold improvements are depreciated over the shorter of the economic life or associated lease term. Expenditures for maintenance and repairs are charged to operations as incurred, whereas expenditures for asset renewal and improvements are capitalized. There is no depreciation expense included in direct operating expenses, selling, general and administrative expenses or corporate expenses. Our depreciation expense is presented as a separate line item, with amortization expense, in the statements of operations.
+
+We test for possible impairment of property, plant and equipment whenever events or circumstances change, such as a current period operating cash flow loss combined with a history of, or projections of, operating cash flow losses or a significant adverse change in the manner in which the asset is intended to be used, which could indicate that the carrying amount of the asset may not be recoverable. If indicators exist, we compare the estimated undiscounted future cash flows related to the asset to the carrying value of the asset. If the carrying value is greater than the estimated undiscounted future cash flow amount, an impairment charge is recorded based on the difference between the fair value and the carrying value. Any such impairment charge is recorded in depreciation and amortization in the statements of operations. The impairment loss calculations require management to apply judgment in estimating future cash flows and the discount rates that reflect the risk inherent in future cash flows.
+
+Intangible Assets
+
+We classify intangible assets as definite-lived or indefinite-lived. Definite-lived intangibles include revenue-generating contracts, client/vendor relationships, trademarks and naming rights, technology, non-compete agreements, and venue management and leasehold agreements, all of which are amortized either on a straight-line basis over the respective lives of the agreements, typically 3 to 10 years, or on a basis more representative of the time pattern over which the benefit is derived. We periodically review the appropriateness of the amortization periods related to our definite-lived intangible assets. These assets are stated at cost or fair value at the date of acquisition. Indefinite-lived intangibles consist of trade names and cryptocurrency assets which are not subject to amortization. Our amortization expense is presented as a separate line item, with depreciation expense, in the statements of operations. There is no amortization expense included in direct operating expenses, selling, general and administrative expenses or corporate expenses.
+
+We test for possible impairment of definite-lived intangible assets whenever events or circumstances change, such as a current period operating cash flow loss combined with a history of, or projections of, operating cash flow losses or a significant adverse change in the manner in which the asset is intended to be used, which could indicate that the carrying amount of the asset may not be recoverable. If indicators exist, we compare the estimated undiscounted future cash flows related to the asset to the carrying value of the asset. If the carrying value is greater than the estimated undiscounted future cash flow amount, an impairment charge is recorded based on the difference between the fair value and the carrying value. Any such impairment charge is recorded in depreciation and amortization in the statements of operations. For the years ended December 31, 2025, 2024 and 2023, there were no significant impairment charges.
+
+We test for possible impairment of indefinite-lived intangible assets at least annually. Depending on facts and circumstances, qualitative factors may first be assessed to determine whether the existence of events and circumstances indicate that it is more likely than not that an indefinite-lived intangible asset is impaired. If it is concluded that it is more likely than not impaired, we perform a quantitative impairment test by comparing the fair value with the carrying amount. When specific assets are determined to be impaired, the cost basis of the asset is reduced to reflect the current fair value. Any such impairment charge is recorded in depreciation and amortization in the statements of operations. The impairment loss calculations require management to apply judgment in estimating future cash flows, expected future revenue, discount rates and royalty rates that reflect the risk inherent in future cash flows. For the years ended December 31, 2025, 2024 and 2023, there were no significant impairment charges.
+
+Goodwill
+
+We review goodwill for impairment annually, as of October 1, using a two-step process. We also test goodwill for impairment in other periods if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount or when we change our reporting units.
+
+The first step is a qualitative evaluation as to whether it is more likely than not that the fair value of any of our reporting units is less than its carrying value using an assessment of relevant events and circumstances. Examples of such events and circumstances include historical financial performance, industry and market conditions, macroeconomic conditions, reporting unit-specific events, historical results of goodwill impairment testing and the timing of the last performance of a quantitative assessment. We also considered changes in discount rates, market multiples, carrying values and forecast since the last quantitative test. If any reporting units are concluded to be more likely than not impaired, or if that conclusion cannot be determined qualitatively, a second step is performed for that reporting unit utilizing a quantitative approach.
+
+For the year ended December 31, 2025, as part of our annual test for impairment, all of our reporting units with goodwill were assessed under the initial qualitative evaluation and did not advance to the quantitative analysis.
+
+For the year ended December 31, 2024, as part of a refresh of the fair values of reporting units, as of July 1, 2024, three of our reporting units were assessed under quantitative analysis to support future qualitative evaluation. As of October 1, 2024, as required by our policy to perform goodwill tests annually, these three reporting units were also assessed under the initial qualitative evaluation and did not advance to the quantitative analysis. As of October 1, 2024, the remaining three reporting units with goodwill were assessed under quantitative analysis to support future qualitative evaluation. All of our reporting units assessed under the quantitative analysis primarily used a discounted cash flows methodology, with a lesser weighting attributed to the market multiple approach. The discounted cash flows methodology estimates fair value by discounting the reporting unit’s estimated future cash flows using a weighted-average cost of capital that reflects current market conditions and the risk profile of the reporting unit. Under the market multiple approach, the estimated fair value of the reporting unit was estimated by applying market multiples derived from stock prices of companies that are engaged in the same or similar lines of business as the reporting unit and that are actively traded on a free and open market. The derived multiples are then applied to the reporting unit’s financial metrics.
+
+For the year ended December 31, 2023, as part of our annual test for impairment, one of our reporting units, which accounted for approximately 12 % of our goodwill at December 31, 2023, was assessed under the quantitative analysis. The remaining reporting units with goodwill were assessed under the initial qualitative evaluation and did not advance to the quantitative analysis.
+
+No impairment charges were recorded for the years ended December 31, 2025, 2024 and 2023.
+
+Leases
+
+We lease office space, many of our concert venues, festival sites and certain equipment. We record a lease asset and liability on our consolidated balance sheets at the inception of the lease or when we take possession of the leased space or equipment, if later, based on the required payments over the term of the lease. We do not recognize a lease asset or liability for leases with an initial term of twelve months or less, including multi-year festival site leases where the sum of the non-consecutive periods of rental time is less than twelve months. Rent expense for these short-term leases is generally recognized on a straight-line basis over the lease term.
+
+Some of our lease agreements contain annual rental escalation clauses, as well as provisions for us to pay the related utilities and maintenance. We have elected to account for the lease components (i.e., fixed payments including rent and parking) and non-lease components (i.e., common-area maintenance costs) as a single lease component.
+
+Many of our lease agreements contain renewal options that can extend the lease for additional terms typically ranging from one to ten years . Renewal options at the discretion of the lessor are included in the lease term while renewal options at our discretion are generally not included in the lease term unless they are reasonably certain to be exercised.
+
+In addition to fixed rental payments, many of our leases contain contingent rental payments based on a percentage of revenue, tickets sold or other variables, while others include periodic adjustments to rental payments based on the prevailing inflationary index or market rental rates. Contingent rent obligations are not included in the initial measurement of the lease asset or liability and are recognized as rent expense in the period that the contingency is resolved. Our leases do not contain any material residual value guarantees or restrictive covenants.
+
+We measure our lease assets and liabilities using an incremental borrowing rate which varies from lease to lease depending on geographical location and length of the lease.
+
+Accounts Payable, Client Accounts
+
+Accounts payable, client accounts consists of contractual amounts due to our ticketing clients which includes the face value of tickets sold and the clients’ share of service charges.
+
+Income Taxes
+
+We account for income taxes using the liability method which results in deferred tax assets and liabilities based on differences between financial reporting bases and tax bases of assets and liabilities and are measured using the enacted tax rates expected to apply to taxable income in the periods in which the deferred tax asset or liability is expected to be realized or settled. We assess the realizability of our deferred tax assets, considering all relevant factors, at each reporting period. As almost all earnings from our continuing foreign operations are permanently reinvested and not distributed, our income tax provision does not include additional United States state and foreign withholding or transaction taxes on those foreign earnings that would be incurred if they were distributed. It is not practicable to determine the amount of state and foreign income taxes, if any, that might become due in the event that any remaining available cash associated with these earnings were distributed.
+
+The FASB guidance for income taxes prescribes a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by taxing authorities. The amount recognized is measured as the largest amount of benefit that is more likely than not to be realized upon ultimate settlement.
+
+We have established a policy of including interest related to tax loss contingencies in income tax expense (benefit) in the statements of operations. We treat the taxes due on future Global Intangible Low-Taxed Income (“GILTI”) inclusions in United States taxable income as a current-period expense when incurred.
+
+The One Big Beautiful Bill Act (the “Act”) was enacted on July 4, 2025. The Act makes key elements of the Tax Cuts and Jobs Act permanent, including 100% bonus depreciation, domestic research cost expensing, the business interest expense limitation and makes modifications to the international tax framework. The financial reporting implications of the Act were recorded in the income tax provision for the year ended December 31, 2025.
+
+Revenue Recognition
+
+Revenue from the promotion or production of an event in our Concerts segment is recognized when the event occurs. Consideration collected in advance of the event is recorded as deferred revenue until the event occurs. Revenue collected from sponsorship agreements, which is not related to a single event, is classified as deferred revenue and recognized over the term of the agreement or operating season as the benefits are provided to the sponsor.
+
+Revenue from our ticketing operations primarily consists of service fees charged at the time a ticket for an event is sold in either the primary or secondary markets. For primary tickets sold to our concert and festival events, where our concert promoters control ticketing, the revenue for the associated ticket service charges collected in advance of the event is recorded as deferred revenue until the event occurs and these service charges are shared between our Ticketing and Concerts segments. For primary tickets sold for events of third-party clients and secondary market sales, the revenue is recognized at the time of the sale and is recorded by our Ticketing segment. Amortization of nonrecoupable ticketing contract advances is recorded as a reduction to revenue.
+
+We account for taxes that are externally imposed on revenue producing transactions on a net basis.
+
+Gross versus Net Revenue Recognition
+
+We report revenue on a gross or net basis based on management’s assessment of whether we act as a principal or agent in the transaction. To the extent we act as the principal, revenue is reported on a gross basis. The determination of whether we act as a principal or an agent in a transaction is based on an evaluation of whether we have control of the good or service before it is transferred to the customer. Our Ticketing segment’s revenue, which primarily consists of service fees from its ticketing operations, is recorded net of the face value of the ticket as well as the portion of the service fee paid to the venue as we generally act as an agent in these transactions.
+
+Business Interruption Insurance Recovery
+
+We record revenue or offset expense for covered business interruptions in the period we determine it is probable we will be compensated for the costs incurred or the applicable contingencies with the insurance company are resolved for lost revenue. This may result in business interruption insurance recoveries being recorded in a period subsequent to the period we experience lost revenue and/or incurred the expenses from a covered event that are being reimbursed. For the years ended December 31, 2025, 2024 and 2023, we recorded business interruption insurance recoveries of $ 72.5 million, $ 51.3 million and $ 41.5 million, respectively. The recoveries were for a variety of claims and primarily recorded as revenue.
+
+Foreign Currency
+
+Results of operations for foreign subsidiaries and foreign equity investees are translated into United States dollars using the average exchange rates during the year. The assets and liabilities of those subsidiaries and investees are translated into United States dollars using the exchange rates at the balance sheet date. The related translation adjustments are recorded in a separate component of stockholders’ equity in AOCI. Foreign currency transaction gains and losses are included in the statements of operations and include the impact of revaluation of certain foreign currency denominated net assets or liabilities held internationally. For the years ended December 31, 2025 and December 31, 2023, we recorded net foreign currency transaction losses of $ 61.1 million and $ 74.5 million, respectively. For the year ended December 31, 2024, we recorded net foreign currency transaction gains of $ 14.7 million.
+
+Advertising Expense
+
+We record advertising expense in the year that it is incurred. Throughout the year, general advertising expenses are recognized as they are incurred, but event-related advertising for concerts is recognized once the event occurs. If an event is rescheduled into the following year, the advertising costs are expensed in the period the event is rescheduled. However, all advertising costs incurred during the year and not previously recognized are expensed at the end of the year. For the years ended December 31, 2025, 2024 and 2023, advertising expenses of $ 731.6 million, $ 750.9 million and $ 706.2 million , respectively, were recorded as a component of direct operating expenses. For the years ended December 31, 2025, 2024 and 2023, advertising expenses of $ 59.8 million, $ 54.6 million and $ 47.7 million, respectively, were recorded as a component of selling, general and administrative expenses.
+
+Direct Operating Expenses
+
+Direct operating expenses include artist fees, event-related marketing and advertising expenses, rent expense for events in third-party venues, credit card fees, telecommunication and data communication costs associated with our call centers, commissions paid on tickets distributed through independent sales outlets away from the box office, and salaries and wages related to seasonal employees at our venues along with other costs, including ticket stock and shipping. These costs are primarily variable in nature. For the years ended December 31, 2024 and December 31, 2023, we reclassified certain software technology costs from selling, general and administrative expenses to direct operating expenses of $52.7 million and $40.2 million, respectively, all within our Ticketing segment, due to the variable nature of these expenses.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses include salaries and other compensation costs related to full-time employees, fixed rent, travel and entertainment, legal expenses and consulting along with other costs.
+
+Litigation Accruals
+
+We are currently involved in certain legal proceedings and, as required, have accrued our estimate of the probable costs for the resolution of these claims. Management’s estimates used have been developed in consultation with counsel and are based upon an analysis of potential results, assuming a combination of litigation and settlement strategies. It is possible, however, that future results of operations for any particular period could be materially affected by changes in our assumptions or the effectiveness of our strategies related to these proceedings.
+
+Non-cash and Stock-based Compensation
+
+We follow the fair value recognition provisions in the FASB guidance for stock compensation. Stock-based compensation expense includes compensation expense for all share-based payments using the estimated grant date fair value. Stock-based compensation expense is adjusted for forfeitures as they occur.
+
+The fair value for options in Live Nation stock is estimated on the date of grant using the Black-Scholes option-pricing model. The fair value of the options is amortized to expense on a straight-line basis over the options’ vesting period. We use an expected volatility based on an even weighting of our own traded options and historical volatility. We use a weighted-average expected life based on historical experience calculated with the assistance of outside consultants. The risk-free rate for periods within the expected life of the option is based on the United States Treasury note rate.
+
+The fair value of restricted stock awards and deferred stock awards, which is generally the stock price on the date of grant, is amortized to expense on a straight-line basis over the vesting period except for restricted stock awards and deferred stock awards with minimum performance or market targets as their vesting condition. The performance-based awards are amortized to expense on a graded basis over the vesting period to the extent that it is probable that the performance criteria will be met. Market-based award fair values are estimated using a Monte Carlo simulation model and are then amortized to expense on a graded basis over the derived service period, which is estimated as the median weighted average vesting period from the Monte Carlo simulation models. However, unlike awards with a service or performance condition, the expense for market-based awards will not be reversed solely because the market condition is not satisfied.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates, judgments, and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes including, but not limited to, legal, tax and insurance accruals, acquisition accounting and impairments. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances. Actual results could differ from those estimates.
+
+Accounting Standards Updates (ASU)
+
+In August 2023, the FASB issued ASU 2023-05, “Business Combinations—Joint Venture Formations (Subtopic 805-60): Recognition and Initial Measurement,” which requires joint ventures to initially measure all contributions received upon its formation at fair value. We adopted this guidance prospectively for all joint venture formations with a formation date on or after January 1, 2025. The adoption did not and is not expected to have a material impact on our consolidated financial statements.
+
+In December 2023, the FASB issued ASU 2023-08, "Intangibles—Goodwill and Other—Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of Crypto Assets," which requires measurement of crypto assets at fair value each reporting period with changes in fair value recognized on the income statement. This guidance also requires disclosure on significant holdings, contractual sale restrictions and changes during the reporting period of crypto assets. We adopted ASU 2023-08 on January 1, 2025 under the modified retrospective method and recorded a $ 8.9 million decrease to the opening balance of accumulated deficit and a corresponding increase to intangible assets. We do not engage in speculative investment activities related to crypto assets.
+
+In December 2023, the FASB issued ASU 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures,” which prescribes standardized categories and disaggregation of information in the reconciliation of provision for income taxes, requires disclosure of disaggregated income taxes paid, and modifies other income tax-related disclosure requirements. We prospectively adopted these disclosures for our annual reporting period ending December 31, 2025 within Note 9 – Income Taxes.
+
+In November 2024, the FASB issued ASU 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,” which requires the disclosure of additional information related to certain costs and expenses, including amounts of inventory purchases, employee compensation, and depreciation and amortization included in each income statement line item. The guidance also requires disclosure of the total amount of selling expenses and the Company’s definition of selling expenses. This guidance is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods within annual periods beginning after December 15, 2027, with early adoption permitted. The guidance is to be applied either prospectively to financial statements issued for reporting periods after the effective date or retrospectively to any or all prior periods presented in the financial statements. We are currently evaluating this guidance and we expect the adoption will result in additional disclosures.
+
+In September 2025, the FASB issued ASU 2025-07, “Derivatives and Hedging (Topic 815) and Revenue from Contracts with Customers (Topic 606): Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract,” which expands Topic 815 scope exceptions to include contracts for which settlement is based on operations or activities specific to one of the parties to the contract. This guidance also clarifies how Topic 606 applies for share-based payments received as noncash consideration from customers. This guidance is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods within those annual reporting periods, with early adoption permitted and is to be applied either prospectively to new contracts entered into on or after the date of adoption, or on a modified retrospective basis through a cumulative-effect adjustment to the opening balance of retained earnings as of the beginning of the annual reporting period of adoption for contracts existing as of the beginning of the annual reporting period of adoption. We are currently evaluating the impact of adopting this guidance and we do not expect the adoption to have a material impact on our consolidated financial statements.
+
+NOTE 2—LONG-LIVED ASSETS, INTANGIBLES, AND GOODWILL
+
+Property, Plant and Equipment, Net
+
+Property, plant and equipment includes expenditures for the construction of new venues, major renovations to existing buildings or buildings that are being added to our venue network, the development of new ticketing tools and technology enhancements along with the renewal and improvement of existing venues and technology systems, web development and administrative offices. For certain projects with significant expected costs and an extended construction period, we capitalize interest. For the year ended December 31, 2025, we recorded $ 24.0 million of capitalized interest.
+
+Definite-lived Intangible Assets
+
+___________________
+
+(1) Other primarily includes crypto assets and intangible assets for non-compete agreements.
+
+(2) Other primarily includes netdowns of fully amortized or impaired assets as well as mark-to-market adjustments of crypto assets.
+
+Included in the current year acquisitions amounts above for 2025 are definite-lived intangible assets primarily associated with the acquisitions of an artist management business and a concert promotion business, both located in Latin America, as well as a festival promotion business in Europe, a concert promotion business in Asia Pacific and an artist management business in the United States.
+
+Included in the current year acquisitions amounts above for 2024 are definite-lived intangible assets primarily associated with the acquisitions of certain festival promotion, venue and artist management businesses located in the United States.
+
+The additions to definite-lived intangible assets from acquisitions have weighted-average lives as follows:
+
+Amortization of definite-lived intangible assets for the years ended December 31, 2025, 2024 and 2023 was $ 264.6 million, $ 249.3 million and $ 237.6 million, respectively.
+
+The following table presents our estimate of amortization expense for each of the five succeeding fiscal years for definite-lived intangible assets that exist at December 31, 2025:
+
+As acquisitions and dispositions occur in the future and the valuations of intangible assets for recent acquisitions are completed, amortization expense may vary.
+
+Indefinite-lived Intangibles
+
+We have indefinite-lived intangible assets which consist of trade names. These indefinite-lived intangible assets had a carrying value of $ 369.0 million and $ 380.6 million as of December 31, 2025 and 2024, respectively.
+
+Goodwill
+
+The following table presents the changes in the carrying amount of goodwill in each of our reportable segments for the years ended December 31, 2025 and 2024:
+
+Included in the current year acquisitions amounts above for 2025 is goodwill primarily associated with the acquisitions of an artist management business and a concert promotion business, both located in Latin America, as well as a venue management business and a concert and festival promotion business located in Europe.
+
+Included in the current year acquisitions amounts above for 2024 is goodwill primarily associated with the acquisitions of an artist management business and certain festival and concert promotion businesses located in the United States.
+
+We are in various stages of finalizing our acquisition accounting for recent acquisitions, which may include the use of external valuation consultants, and the completion of this accounting could result in a change to the associated purchase price allocations, including goodwill and the allocation between segments.
+
+NOTE 3—LEASES
+
+Many of our leases contain contingent rent obligations based on revenue, tickets sold or other variables. Contingent rent obligations, including those related to subsequent changes in the prevailing index or market rate after lease inception, are not included in the initial measurement of the lease asset or liability and are recorded as rent expense in the period that the contingency is resolved.
+
+Future maturities of our operating lease liabilities at December 31, 2025 are as follows:
+
+The weighted average remaining lease term and weighted average discount rate for our operating leases are as follows:
+
+As of December 31, 2025, we have additional operating leases that have not yet commenced with total lease payments of $ 977.9 million. These operating leases, which are not included on our consolidated balance sheets, have commencement dates ranging from January 2026 to June 2030 with lease terms ranging from 5 to 39 years.
+
+NOTE 4—LONG-TERM DEBT
+
+Future maturities of debt at December 31, 2025 are as follows:
+
+All debt without a stated maturity date is considered current and is reflected as maturing in the earliest period shown in the table above. See Note 6 – Fair Value Measurements for discussion of the fair value measurement of our debt.
+
+Amended Senior Secured Credit Facility
+
+In October 2025, we amended, restated and refinanced, our existing senior secured credit facility and entered into an amended and restated credit agreement (the “Credit Agreement”). The Credit Agreement amended and restated our then-existing credit agreement (as amended, restated, supplemented or otherwise modified immediately prior to the effectiveness of the Credit Agreement, the “Prior Credit Agreement”), and provides for (i) a $ 1.3 billion multicurrency revolving credit facility (the “new multicurrency revolving facility”), (ii) a $ 400 million venue expansion revolving credit facility (the “new venue expansion revolving facility” and together with the new multicurrency revolving facility, the “new revolving facilities”), (iii) a $ 700 million delayed draw term loan A facility (the “new delayed draw term loan A facility”), and (iv) a $ 1.3 billion term loan B facility (the “new term loan B facility” and together with the new revolving facilities and the new delayed draw term loan A facility, the “new senior secured credit facilities”). The new term loan B facility was fully drawn at the closing of the new senior secured credit facilities. The new multicurrency revolving facility provides for sublimits of up to $ 250 million for the issuance of letters of credit and $ 200 million for swingline loans.
+
+Proceeds of the new term loan B facility were used to refinance obligations under the Prior Credit Agreement, with any excess proceeds available for working capital, for general corporate purposes, and to finance other permitted transactions. Proceeds of borrowings under the new revolving facilities and the new delayed draw term loan A facility may be used for working capital, for general corporate purposes and to finance other permitted transactions.
+
+The commitments under the new delayed draw term loan A facility will expire on October 21, 2027 unless drawn prior to such date. The new revolving facilities and the new delayed draw term loan A facility mature on October 21, 2030; provided, that if (x) any of our 2027 senior secured notes or the 2027 senior unsecured notes remain outstanding on the date that is ninety-one days prior to the stated maturity thereof in an aggregate principal amount in excess of $ 500 million and (y) our consolidated free cash on such date is less than the sum of such outstanding principal amount plus $ 500 million, then the maturity date of the new revolving facilities and the new delayed draw term loan A facility will instead be the date that is ninety-one days prior to the stated maturity of our 2027 senior secured notes, 2027 senior unsecured notes or any permitted refinancing or extension of such indebtedness, as applicable. The new term loan B facility matures on October 21, 2032.
+
+The interest rates per annum applicable to the new revolving facilities and the new delayed term loan A facility are, at our option, equal to either Term SOFR plus 1.50 % or an adjusted base rate (as defined in the Credit Agreement) plus 0.50 %, subject to two stepdowns based on our secured leverage ratio. The interest rates per annum applicable to the new term loan B facility are, at our option, equal to either Term SOFR plus 2.00 % or an adjusted base rate plus 1.00 %. We have an interest rate swap agreement that ensures the interest rate on $ 500.0 million principal amount of our outstanding term loan B does not exceed 3.445 % through October 2026.
+
+We are required to pay a commitment fee equal to 0.35 % per annum on the undrawn portion available under the new revolving facilities and the new delayed draw term loan A facility, and customary letter of credit fees, as necessary. Based on our outstanding letters of credit of $ 20.5 million, $ 1.68 billion was available for future borrowings from our revolving credit facility as of December 31, 2025.
+
+Commencing at the earlier of (i) the date on which the commitments under the new delayed draw term loan A facility have been reduced to zero and (ii) October 21, 2027, we will be required to make quarterly payments on borrowings under the new delayed draw term loan A facility at a rate equal to, for the first three years after October 21, 2025, 0.625 % of the original principal amount thereof, and thereafter, 1.25 % of the original principal amount thereof. We will be required to make quarterly payments on the new term loan B facility at a rate equal to 0.25 % of the original principal amount thereof. We are also required to make mandatory prepayments of the loans under the new senior secured credit facilities, subject to specified exceptions, from excess cash flow and with the proceeds of asset sales, debt issuances, and other specified events.
+
+Our obligations under the Credit Agreement are guaranteed by certain of our direct and indirect domestic subsidiaries, subject to certain exceptions. The obligations under the Credit Agreement and the guarantees are secured by a lien on substantially all of our tangible and intangible personal property and the domestic subsidiaries that are guarantors, and by a pledge of substantially all of the shares of stock, partnership interests and limited liability company interests of our direct domestic subsidiaries and the guarantors and 65 % of each class of capital stock of any of our first-tier foreign subsidiaries and the guarantors, subject to limited exceptions.
+
+On August 14, 2025, we drew down $ 775.0 million from our Prior Credit Agreement primarily to finance the acquisition of an additional 24 % interest in OCESA from CIE and for other general corporate purposes. This borrowing was fully repaid in October 2025.
+
+6.5% Senior Secured Notes Due 2027
+
+At December 31, 2025, we had $ 1.2 billion principal amount of 6.5 % senior secured notes due 2027. Interest on the notes is payable semi-annually in cash in arrears on May 15 and November 15 of each year and the notes will mature on May 15, 2027. On or after May 15, 2025 we may redeem some or all of the notes at any time at redemption prices starting at 101.625 % of their principal amount, plus any accrued and unpaid interest to the date of redemption. We must make an offer to redeem the notes at 101 % of their aggregate principal amount, plus accrued and unpaid interest to the repurchase date, if we experience certain defined changes of control. The notes are secured by a first priority lien on substantially all of the tangible and intangible personal property of LNE and LNE’s domestic subsidiaries that are guarantors, and by a pledge of substantially all of the shares of stock, partnership interests and limited liability company interests of our direct and indirect domestic subsidiaries and 65 % of each class of capital stock of any first-tier foreign subsidiaries, subject to certain exceptions.
+
+3.75% Senior Secured Notes due 2028
+
+At December 31, 2025, we had $ 500.0 million principal amount of 3.75 % senior secured notes due 2028. Interest on the notes is payable semi-annually in cash in arrears on January 15 and July 15 of each year, and will mature on January 15, 2028. On or after January 15, 2025, we may redeem some or all of the notes at any time at redemption prices starting at 101.875 % of their principal amount , plus any accrued and unpaid interest to the date of redemption. We must make an offer to redeem the notes at 101 % of their aggregate principal amount, plus accrued and unpaid interest to the repurchase date, if we experience certain defined changes of control. The notes are secured by a first priority lien on substantially all of the tangible and intangible personal property of LNE and LNE’s domestic subsidiaries that are guarantors, and by a pledge of substantially all of the shares of stock, partnership interests and limited liability company interests of our direct and indirect domestic subsidiaries.
+
+4.75% Senior Notes Due 2027
+
+At December 31, 2025, we had $ 950.0 million principal amount of 4.75 % senior notes due 2027. Interest on the notes is payable semi-annually in cash in arrears on April 15 and October 15 of each year, and will mature on October 15, 2027. On or after October 15, 2025, we may redeem some or all of the notes at any time at redemption prices starting at 100 % of their principal amount, plus any accrued and unpaid interest to the date of redemption. We must make an offer to redeem the notes at 101 % of their aggregate principal amount, plus accrued and unpaid interest to the repurchase date, if we experience certain defined changes of control.
+
+3.125% Convertible Senior Notes due 2029
+
+At December 31, 2025, we had $ 1.0 billion principal amount of 3.125 % convertible senior notes due 2029 (the “2029 Notes”). Interest on the 2029 Notes is payable semi-annually in arrears on January 15 and July 15, beginning July 15, 2023, at a rate of 3.125 % per annum. The notes will mature on January 15, 2029, unless earlier repurchased, redeemed or converted. The notes will be convertible, under certain circumstances, until October 15, 2028, and on or after such date without condition, at an initial conversion rate of 9.2259 shares of our common stock per $1,000 principal amount of notes, subject to adjustment, which represents a 50 % conversion premium based on the last reported sale price for our common stock of $ 72.26 on January 9, 2023 prior to issuing the debt. Upon conversion, the notes may be settled in, at our election, shares of common stock or cash or a combination of cash and shares of common stock. Assuming we fully settle the notes in shares, the maximum number of shares that could be issued to satisfy the conversion is 13.8 million as of December 31, 2025.
+
+We may redeem for cash all or any portion of the 2029 Notes, at our option, on or after January 21, 2026 and before the 41st scheduled trading day before the maturity date, if the sales price of our common stock reaches specified targets as defined in the indenture. The redemption price will equal 100 % of the principal amount of the notes plus accrued interest, if any, and the conversion ratio, at which the notes called for redemption may be converted, may be increased depending on timing of the redemption and the price of our common stock at such time.
+
+If we experience a fundamental change, as defined in the indenture governing the 2029 Notes, the holders of the 2029 Notes may require us to purchase for cash all or a portion of their notes, subject to specified exceptions, at a price equal to 100 % of the principal amount of the notes plus accrued and unpaid interest, if any.
+
+As of December 31, 2025, the remaining period for the unamortized debt issuance costs balance of $ 8.1 million was approximately three years and the value of the notes, if converted and fully settled in shares, exceeded the principal amount of the notes by $ 314.7 million. As of December 31, 2025, the effective interest rate on the notes was 3.17 %.
+
+In connection with the issuance of the 2029 Notes, we entered into privately negotiated capped call transactions with several counterparties. The cap price of the capped call transactions is initially $ 144.52 , which represents a premium of 100 % over the last reported sale price of the Company’s common stock on January 9, 2023. The cost of the capped call transactions was $ 75.5 million and was charged to additional paid-in capital.
+
+2.875% Convertible Senior Notes due 2030
+
+At December 31, 2025, we had $ 1.1 billion principal amount of 2.875 % convertible senior notes due 2030 (the “2030 Notes”). Interest on the 2030 Notes is payable semi-annually in arrears on January 15 and July 15, beginning July 15, 2025, at a rate of 2.875 % per annum. The 2030 Notes will mature on January 15, 2030, unless earlier repurchased, redeemed or converted. The 2030 Notes will be convertible, under certain circumstances, until October 15, 2029, and on or after such date without condition, at an initial conversion rate of 5.2005 shares of our common stock per $1,000 principal amount of notes, subject to adjustment, which represents a 40.0 % conversion premium based on the last reported sale price for our common stock of $ 137.35 on December 3, 2024 prior to issuing the debt. Upon conversion, the notes may be settled in, at our election, shares of common stock or cash or a combination of cash and shares of common stock. Assuming we fully settle the notes in shares, the maximum number of shares that could be issued to satisfy the conversion is 8.0 million as of December 31, 2025.
+
+We may redeem for cash all or any portion of the 2030 Notes, at our option, on or after January 24, 2028 and before the 41st scheduled trading day before the maturity date, if the sales price of our common stock reaches specified targets as defined in the indenture. The redemption price will equal 100 % of the principal amount of the notes plus accrued interest, if any, and the conversion ratio, at which the notes called for redemption may be converted, may be increased depending on timing of the redemption and the price of our common stock at such time.
+
+If we experience a fundamental change, as defined in the indenture governing the 2030 Notes, the holders of the 2030 Notes may require us to purchase for cash all or a portion of their notes, subject to specified exceptions, at a price equal to 100 % of the principal amount of the notes plus accrued and unpaid interest, if any.
+
+As of December 31, 2025, the remaining period for the unamortized debt issuance costs balance of $ 14.7 million was approximately four years and the value of the notes, if converted and fully settled in shares, did not exceed the principal amount of the notes. As of December 31, 2025, the effective interest rate on the notes was 2.913 %.
+
+2.875% Convertible Senior Notes due 2031
+
+In October 2025, we issued $ 1.4 billion aggregate principal amount of 2.875 % Convertible Senior Notes due 2031 (the “2031 Notes”). Interest on the 2031 Notes is payable semi-annually in arrears on April 15 and October 15, beginning on April 15, 2026, at a rate of 2.875 % per annum. The 2031 Notes will mature on October 15, 2031, unless earlier repurchased, redeemed or converted. The 2031 Notes will be convertible, under certain circumstances, until July 15, 2031, and on or after such date without condition, at an initial conversion rate of 4.4459 shares of our common stock per $1,000 principal amount of notes, subject to adjustment, which represents a 50.0 % conversion premium based on the last reported sale price for our common stock of $ 149.95 on October 8, 2025 prior to issuing the debt. Upon conversion, the notes may be settled in, at our election, shares of common stock or cash or a combination of cash and shares of common stock. Assuming we fully settle the notes in shares, the maximum number of shares that could be issued to satisfy the conversion is 9.3 million as of December 31, 2025.
+
+We may redeem for cash all or any portion of the 2031 Notes, at our option, on or after October 20, 2028 and before the 41st scheduled trading day before the maturity date, if the sales price of our common stock reaches specified targets as defined in the indenture. The redemption price will equal 100 % of the principal amount of the notes plus accrued interest, if any, and the conversion ratio, at which the notes called for redemption may be converted, may be increased depending on timing of the redemption and the price of our common stock at such time.
+
+If we experience a fundamental change, as defined in the indenture governing the 2031 Notes, the holders of the 2031 Notes may require us to purchase for cash all or a portion of their notes, subject to specified exceptions, at a repurchase price equal to the principal amount of the notes plus accrued and unpaid interest, if any.
+
+As of December 31, 2025, the remaining period for the unamortized debt issuance costs balance of $ 20.6 million was approximately six years and the value of the notes, if converted and fully settled in shares, did not exceed the principal amount of the notes. As of December 31, 2025, the effective interest rate on the notes was 3.11 %.
+
+Interest Cost on Convertible Senior Notes
+
+Debt Extinguishment
+
+On February 18, 2025, we utilized $ 84.8 million of our existing cash balance to repay the remaining aggregate principal amount of our 2.0 % convertible senior notes due February 2025 plus accrued interest and we issued 182,560 shares of common stock to holders as a result of conversion.
+
+In conjunction with the issuance of the 2031 Notes, we utilized the net proceeds to fund the full redemption of $ 300.0 million of our 5.625 % Senior Notes due 2026 plus accrued interest.
+
+Other Debt
+
+As of December 31, 2025, other debt includes $ 275.0 million for a note due in 2026 related to an acquisition of a venue in the United States during the first quarter of 2023, $ 136.2 million for a Euro denominated note due in 2026, debt to noncontrolling interest partners of $ 23.5 million and capital leases of $ 4.2 million. Our other debt has a weighted average cost of debt of 4.3 % and maturities at various dates through September 2050.
+
+Debt Covenants
+
+Our Credit Agreement contains a number of restrictions that, among other things, require us to satisfy a financial covenant and restrict our and our subsidiaries’ ability to incur additional debt, make certain investments and acquisitions, repurchase our stock and prepay certain indebtedness, create liens, enter into agreements with affiliates, modify the nature of our business, enter into sale-leaseback transactions, transfer and sell material assets, merge or consolidate, and pay dividends and make distributions (with the exception of subsidiary dividends or distributions to the parent company or other subsidiaries on at least a pro-rata basis with any noncontrolling interest partners). Non-compliance with one or more of the covenants and restrictions could result in the full or partial principal balance of the credit facility becoming immediately due and payable. Our Credit Agreement contains a financial covenant that requires us to maintain a maximum ratio of consolidated net debt to consolidated EBITDA (both as defined in the Amended Credit Agreement) that ranges from 6.75 x to 5.25 x, with the first measurement occurring after the quarter ended March 31, 2026, the first step down of 0.50 x occurring on March 31, 2027 and additional step downs of 0.50 x occurring annually thereafter.
+
+The indentures governing our 6.5 % senior secured notes, 3.75 % senior secured notes and 4.75 % senior notes contain covenants that limit, among other things, our ability and the ability of our restricted subsidiaries to incur certain additional indebtedness, make certain distributions, investments and other restricted payments, sell certain assets, agree to any restrictions on the ability of restricted subsidiaries to make payments to us, merge, consolidate or sell all of our assets, create certain liens, and engage in transactions with affiliates on terms that are not on an arms-length basis. Certain covenants, including those pertaining to incurrence of indebtedness, restricted payments, asset sales, mergers, and transactions with affiliates will be suspended during any period in which the notes are rated investment grade by both rating agencies and no default or event of default under the indenture has occurred and is continuing.
+
+Some of our other subsidiary indebtedness includes restrictions on entering into various transactions, such as acquisitions and disposals, and prohibits payment of ordinary dividends. They also have financial covenants including minimum consolidated EBITDA to consolidated net interest payable, minimum consolidated cash flow to consolidated debt service, maximum consolidated debt to consolidated EBITDA and minimum liquidity, all as defined in the applicable debt agreements.
+
+As of December 31, 2025, we believe we were in compliance with all of our debt covenants related to our senior secured credit facility and our corporate senior secured notes, senior notes and convertible senior notes. We expect to remain in compliance with all of these covenants throughout 2026.
+
+NOTE 5—DERIVATIVE INSTRUMENTS
+
+We primarily use forward currency contracts and options to reduce our exposure to foreign currency risk associated with short-term artist fee commitments. We may also enter into forward currency contracts to minimize the risks and/or costs associated with changes in foreign currency rates on forecasted operating income. These instruments have not been designated as hedging instruments and any change in fair value is reported in earnings during the period of the change. Our foreign currency derivative activity, including the related fair values, are not material to any period presented.
+
+In January 2020, we entered into an interest rate swap agreement that is designated as a cash flow hedge for accounting purposes to effectively convert a portion of our floating-rate debt to a fixed-rate basis. The swap agreement expires in October 2026, has a notional amount of $ 500.0 million and ensures that a portion of our floating-rate debt does not exceed 3.445 %. The principal objective of this contract is to reduce the variability of the cash flow in our variable rate interest payments associated with our senior secured term loan B facility, thus reducing the impact of interest rate changes on future interest expense. Cash flows associated with the interest rate swap agreement are reflected as cash flows from operating activities within our consolidated statements of cash flows. As of December 31, 2025, there is no ineffective portion or amount excluded from effectiveness testing.
+
+As a cash flow hedge, the effective portion of the loss on the derivative instrument was reported as a component of other comprehensive loss. Amounts are deferred in other comprehensive loss and reclassified into earnings in the same line item associated with the forecasted transaction in the period or periods during which the hedged transaction affects earnings.
+
+We do not enter into derivative instruments for speculative or trading purposes and do not anticipate any significant recognition of derivative activity through the income statement in the future related to the instruments currently held. See Note 6 – Fair Value Measurements for further discussion and disclosure of the fair values for our derivative instruments.
+
+NOTE 6—FAIR VALUE MEASUREMENTS
+
+Recurring
+
+We currently have various financial instruments carried at fair value, such as marketable securities, derivatives and contingent consideration, but do not currently have nonfinancial assets and liabilities that are required to be measured at fair value on a recurring basis. Our financial assets and liabilities are measured using inputs from all levels of the fair value hierarchy as defined in the FASB guidance for fair value. For this categorization, only inputs that are significant to the fair value are considered. The three levels are defined as follows:
+
+Level 1—Inputs are unadjusted quoted prices in active markets for identical assets or liabilities that can be accessed at the measurement date.
+
+Level 2—Inputs include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability (i.e., interest rates, yield curves, etc.) and inputs that are derived principally from or corroborated by observable market data by correlation or other means (i.e., market corroborated inputs).
+
+Level 3—Unobservable inputs that reflect assumptions about what market participants would use in pricing the asset or liability. These inputs would be based on the best information available, including our own data.
+
+___________________
+
+(1) Refer to Note 1 – Basis of Presentation and Other Information — Accounting Standards Updates for further discussion on the adoption of ASU 2023-08.
+
+Short-term investments consist of money market funds and have original maturities beyond three months but less than one year, or not readily convertible to cash. Crypto assets consist of cryptocurrencies. Fair values for short-term investments and crypto assets are based on quoted prices in an active market. The fair value for our interest rate swap is based upon inputs corroborated by observable market data with similar tenors. Fair values for forward currency contracts are based on observable market transactions of spot and forward rates. The fair value of our investments in nonconsolidated affiliates are based quoted prices in an active market.
+
+Certain equity awards are based on the Company’s annual performance goals and achievement criteria. These awards are accounted for as liability-classified awards under GAAP and have performance goals that, if met, are vested quarterly over a period of up to two years, with the number of shares of common stock determined based on the Company’s grant date stock price.
+
+We have certain contingent consideration obligations related to acquisitions which are measured at fair value using Level 3 inputs. The amounts due to the sellers are based on the achievement of agreed-upon financial performance metrics by the acquired companies where the contingent obligation is either earned or not earned. We record the liability at the time of the acquisition based on the present value of management’s best estimates of the future results of the acquired companies compared to the agreed-upon metrics. Subsequent to the date of acquisition, we update the original valuation to reflect current projections of future results of the acquired companies and the passage of time. Accretion of, and changes in the valuations of, contingent consideration are reported in selling, general and administrative expenses. See Note 7 – Commitments and Contingent Liabilities for additional information related to the contingent payments.
+
+Due to their short maturity, the carrying amounts of accounts receivable, accounts payable and accrued expenses approximated their fair values at December 31, 2025 and 2024.
+
+Our outstanding debt held by third-party financial institutions is carried at cost, adjusted for discounts or debt issuance costs. Our debt is not publicly traded and the carrying amounts typically approximate fair value for debt that accrues interest at a variable rate, which are considered to be Level 2 inputs.
+
+The following table presents the estimated fair values of our senior secured notes, senior notes and convertible senior notes at December 31, 2025 and 2024:
+
+The estimated fair value of our third-party fixed-rate debt is based on quoted market prices in active markets for the same or similar debt, which are considered to be Level 2 inputs.
+
+Non-recurring
+
+For the year ended December 31, 2025, there were no significant non-recurring fair value measurements.
+
+For the year ended December 31, 2024, we recorded a gain related to an investment in a nonconsolidated affiliate of $ 31.8 million, as well as, a gain related to a warrant in a nonconsolidated affiliate of $ 41.5 million, as a component of other income, net. To calculate the gain on the investment, we remeasured the investment to fair value of $ 142.2 million using an observable price from orderly transactions for a similar investment of the same issuer. We remeasured the warrant to fair value of $ 66.9 million using an option pricing model.
+
+For the year ended December 31, 2024, we also recorded a gain related to an investment in a nonconsolidated affiliate of $ 24.4 million, as a component of other income, net. The gain was related to the acquisition of a controlling interest in a concert business, which was previously accounted for as an equity-method investment. To calculate the gain, we remeasured the investment to fair value of $ 35.9 million using the income approach method.
+
+The key inputs in these fair value measurements include a future cash flow projection, including revenue, profit margins, and adjustment related to discount for lack of marketability. The key inputs used for these non-recurring fair value measurements are considered Level 3 inputs.
+
+NOTE 7—COMMITMENTS AND CONTINGENT LIABILITIES
+
+We have non-cancelable contracts related to minimum performance payments with various artists, other event-related costs and nonrecoupable ticketing contract advances. We also have commitments relating to additions to property, plant, and equipment under certain construction commitments for facilities and venues.
+
+As of December 31, 2025, our future minimum payments under non-cancelable contracts and capital expenditure commitments consist of the following:
+
+Certain agreements relating to acquisitions provide for deferred purchase consideration payments at future dates. A liability is established at the time of the acquisition for these fixed payments. For obligations payable at a date greater than twelve months from the acquisition date, we apply a discount rate to calculate the present value of the obligations. As of December 31, 2025, we have accrued $ 9.4 million in other current liabilities and $ 6.3 million in other long-term liabilities and, as of December 31, 2024, we had accrued $ 1.5 million in other current liabilities and $ 11.8 million in other long-term liabilities, related to these deferred purchase consideration payments.
+
+We have contingent obligations related to acquisitions which were accounted for as business combinations. Contingent consideration associated with business combinations is recorded at fair value at the time of the acquisition and reflected at current fair value for each subsequent reporting period thereafter until settled. We record these fair value changes in our statements of operations as selling, general and administrative expenses. The contingent consideration is generally subject to payout following the achievement of future performance targets and a portion is expected to be payable in the next twelve months. As of December 31, 2025, we have accrued $ 276.1 million in other current liabilities and $ 23.6 million in other long-term liabilities and, as of December 31, 2024, we had accrued $ 39.3 million in other current liabilities and $ 9.0 million in other long-term liabilities, representing the fair value of these estimated payments. The last contingency period for which we have an outstanding contingent payment is for the period ending July 2049. See Note 6 – Fair Value Measurements for further discussion related to the valuation of these contingent payments.
+
+As of December 31, 2025 and 2024, we guaranteed the debt of third parties of approximately $ 17.0 million and $ 19.4 million, respectively, primarily related to maximum credit limits on employee and tour-related credit cards and obligations under a venue management agreement.
+
+Litigation
+
+Governmental Investigations and Litigation
+
+Department of Justice Complaint
+
+In May 2024, the United States Department of Justice, Antitrust Division, together with the attorneys general of twenty-nine states plus the District of Columbia, filed a civil antitrust complaint (the “Complaint”) against Live Nation Entertainment, Inc. and Ticketmaster in the United States District Court for the Southern District of New York alleging violations of various federal and state laws pertaining to antitrust, competition, unlawful or unfair business practices, restraint of trade, and other causes of action. The United States filed an Amended Complaint in August 2024, adding ten additional states as plaintiffs but not otherwise materially amending the claims asserted in the lawsuit. The Complaint requests various forms of relief for the alleged violations, including without limitation the divestiture of Ticketmaster by the Company, cancellation of certain ticketing contracts, enjoining the Company from engaging in anticompetitive practices, and other forms of relief. Twenty-four states also seek damages for their citizens allegedly caused by anticompetitive ticketing practices.
+
+As of this date, discovery is substantially completed. The 24 states seeking damages have disclosed a damages study asserting that the allegedly anticompetitive ticketing practices raised ticketing fees. The Company contests that the alleged overcharge (the amount of which is subject to a confidentiality order) has occurred or was caused by anticompetitive conduct. The Company filed summary judgment motions in November 2025, which were partially granted in February 2026. Trial on the remaining claims is set for March 2026.
+
+The Company believes it has substantial defenses to the claims asserted in the lawsuit and will vigorously defend itself. Nevertheless, the defense or resolution of this matter could involve significant monetary costs or penalties and have a significant impact on the Company’s financial results and operations. There can be no assurance that the Company will be successful in negotiating a favorable settlement or in litigation. Any remedies or compliance requirements could adversely affect the Company’s ability to operate our business or have a materially adverse impact on the Company’s financial results. At this stage, we are unable to estimate a reasonably possible financial loss or range of any potential financial loss, if any, as a result of this litigation.
+
+Federal Trade Commission Complaint
+
+In September 2025, the United States Federal Trade Commission (the “FTC”), joined by the attorneys general of seven states, filed a lawsuit against Live Nation Entertainment, Inc. and Ticketmaster L.L.C. in the Central District of California. The plaintiffs allege that Live Nation and Ticketmaster advertised ticket prices to consumers that were deceptively lower than prices displayed at checkout, deceived consumers about the enforcement of advertised event ticket purchase limits and facilitated the sale of tickets unlawfully acquired by ticket brokers. The plaintiffs also allege that the Company violated the Better Online Ticket Sales Act and Section 5 of the FTC Act, as well as various state consumer protection statutes. The plaintiffs seek injunctive relief, statutory penalties and restitution for consumers. The Company filed a motion to dismiss the complaint in January 2026.
+
+Based on information presently known to management, we do not believe that a loss is probable of occurring at this time, and considerable uncertainty exists regarding the monetary penalties or other relief that the FTC could obtain in litigation. The Company will vigorously defend itself.
+
+Antitrust Litigation
+
+The Company is a defendant in three putative antitrust consumer class actions alleging violations of federal and state antitrust laws, among other causes of action. In Heckman, et al. v. Live Nation Entertainment, et al., filed in the Central District of California in January 2022, the District Court denied defendants’ motion to compel arbitration in August 2023. The Ninth Circuit affirmed the District Court’s ruling in October 2024. In January 2025, the Company filed a motion to dismiss the lawsuit, which was granted in part and denied in part in April 2025. In December 2025, the court granted the plaintiffs’ motion for class certification. The Company believes it has substantial defenses to the claims alleged in the lawsuit and will continue to vigorously defend itself.
+
+Two other putative class actions were filed in the Southern District of New York in August and September 2024: In Re Live Nation Entertainment, Inc. and Ticketmaster L.L.C. Antitrust Litigation, and Jacobson v. Live Nation Entertainment, Inc., et al. While these lawsuits are at their initial stages, the Company believes it has substantial defenses to the claims alleged therein and will vigorously defend itself.
+
+Other Litigation
+
+From time to time, we are involved in other legal proceedings arising in the ordinary course of our business, including proceedings and claims based upon purported violations of antitrust laws, intellectual property rights and tortious interference, which could cause us to incur significant expenses. We have also been the subject of personal injury and wrongful death claims relating to accidents at certain venues in connection with our operations. As required, we have accrued our estimate of the probable settlement or other losses for the resolution of any outstanding claims. These estimates have been developed in consultation with counsel and are based upon an analysis of potential results, including, in some cases, estimated redemption rates for the settlement offered, assuming a combination of litigation and settlement strategies. It is possible, however, that future results of operations for any particular period could be materially affected by changes in our assumptions or the effectiveness of our strategies related to these proceedings.
+
+NOTE 8—CERTAIN RELATIONSHIPS AND RELATED-PARTY TRANSACTIONS
+
+Transactions Involving Related Parties
+
+There were no significant related-party transactions for certain relationships discussed below.
+
+Liberty Live
+
+Two current members of our board of directors were originally nominated by Liberty Media Corporation pursuant to a stockholder agreement. In December 2025, Liberty Media Corporation completed its split-off of its former wholly owned subsidiary, Liberty Live, which included the assignment and transfer of its significant beneficial ownership interest in Live Nation to Liberty Live. One member of our board of directors is on Liberty Live’s board of directors and one member of our board of directors is an executive officer at Liberty Live. These directors receive directors’ fees and stock-based awards on the same basis as other non-employee members of our board of directors.
+
+Atlanta Braves
+
+During most of 2025, one individual who had a significant beneficial ownership interest in Liberty Media Corporation also had a significant beneficial ownership interest in Atlanta Braves Holdings, Inc. (“Atlanta Braves”). This related party relationship ended when Liberty Live was split off from Liberty Media Corporation. During 2025 while this was still a related party relationship, we leased a venue from, and provided ticketing services to the Atlanta Braves and paid royalty fees and non-recoupable ticketing contract advances. We also received transaction fees for tickets the Atlanta Braves sold using our ticketing software.
+
+Sirius XM
+
+Our Chief Executive Officer is a member of the board of directors of Sirius XM Holdings Inc. (“Sirius XM”), a satellite radio company that is a subsidiary of Liberty Media. From time to time, we purchase advertising from Sirius XM.
+
+Common Stock Repurchases
+
+On December 15, 2025, we repurchased an aggregate of 166,107 net shares of common stock from certain executive officers upon their stock option exercise. These common stock repurchases were made at the closing market price at the trade date and were allocated to treasury stock.
+
+Transactions Involving Equity Method Investees
+
+We conduct business with certain of our equity method investees in the ordinary course of business. Transactions primarily relate to venue rentals and ticketing services. Revenue of $ 2.4 million, $ 18.9 million and $ 27.9 million were earned in 2025, 2024 and 2023, respectively, and expenses of $ 9.8 million, $ 5.8 million and $ 6.3 million were incurred in 2025, 2024 and 2023, respectively, from these equity investees for services rendered or provided in relation to these business ventures.
+
+As of December 31, 2025 and 2024, we had accounts receivable and notes receivable balances of $ 33.2 million and $ 48.0 million, respectively, due from certain of our equity investees.
+
+NOTE 9—INCOME TAXES
+
+The domestic income before income taxes was $ 145.6 million, $ 31.8 million and $ 237.5 million for 2025, 2024 and 2023, respectively. Foreign income before income taxes was $ 884.9 million, $ 707.6 million and $ 675.8 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Each reporting period, we evaluate the realizability of all of our deferred tax assets in each tax jurisdiction. The Company recorded valuation allowances of $ 587.3 million and $ 569.5 million as of December 31, 2025 and 2024, respectively. Deferred income tax assets and liabilities are recorded related to net operating losses and temporary differences between the book and tax basis of assets and liabilities expected to produce tax deductions and income in the future. The realization of these assets depends on recognition of sufficient future taxable income in specific tax jurisdictions in which those temporary differences or net operating losses relate.
+
+In assessing the need for a valuation allowance, the Company considers whether it is more likely than not that some portion or all of the deferred tax assets will not be realized using available positive and negative evidence, including future reversals of temporary differences, tax-planning strategies and future taxable income, to estimate whether sufficient future taxable income will be generated to permit use of deferred tax assets. A significant piece of objective negative evidence evaluated is the cumulative loss incurred over recent years. Such objective negative evidence limits the Company’s ability to consider other subjective positive evidence.
+
+At December 31, 2025, the valuation allowance primarily relates to investments in consolidated partnership and various state and foreign operating losses.
+
+At December 31, 2025 and 2024, we recorded a net deferred tax asset of $ 367.7 million and $ 437.8 million, respectively, due principally to differences in financial reporting and tax bases in assets acquired in business combinations.
+
+As of December 31, 2025, we have United States federal, state and foreign deferred tax assets related to net operating loss carryforwards of $ 254.4 million, $ 148.7 million and $ 448.7 million, respectively. Based on current statutory carryforward periods, the operating loss carryforwards will expire on various dates beginning in 2026. Our net operating losses may be subject to statutory limitations on the amount that can be used in any given year.
+
+As of December 31, 2025, we have United States federal and state deferred tax assets related to credits of $ 40.4 million and $ 18.8 million, respectively. Based on current statutory carryforward periods, the credits will expire on various dates beginning in 2031.
+
+A reconciliation of income tax computed at the United States federal statutory rates to income tax expense for the year ended December 31, 2025 is as follows:
+
+Income tax expense is principally attributable to operational results in tax paying jurisdictions.
+
+Amounts included in Foreign Tax Effects are impacted by changes in the mix of international earnings subject to various tax rates which can differ greatly in their proximity to the United States statutory rate and current and deferred adjustments related to payable and deferred tax assets.
+
+Amounts included in the Effect of Cross-border Tax Laws include unfavorable inclusions for Subpart F.
+
+Nondeductible items for all years presented include the impact of increased nondeductible expenses pursuant to the provisions of the Tax Cuts and Jobs Act (“TCJA”) including nondeductible executive compensation.
+
+If we were to prevail on all uncertain tax positions, the net effect would be a decrease to our income tax provision of approximately $ 5.6 million. The remaining $ 25.9 million is related to various tax credits and would remain in place until the statute of limitation for those years expires. As of December 31, 2025, it is not expected that the total amounts of unrecognized tax benefits will increase or decrease materially within the next year.
+
+We regularly assess the likelihood of additional assessments in each taxing jurisdiction resulting from current and subsequent years’ examinations. Liabilities for income taxes are established for future income tax assessments when it is probable there will be future assessments and the amount can be reasonably estimated. Once established, liabilities for uncertain tax positions are adjusted only when there is more information available or when an event occurs necessitating a change to the liabilities. As of December 31, 2025, we believe that the resolution of income tax matters for open years will not have a material effect on our consolidated financial statements although the resolution of income tax matters could impact our effective tax rate for a particular future period.
+
+The tax years 2010 through 2025 remain open to examination by the primary tax jurisdictions to which we are subject.
+
+Cash paid during the year for income taxes, net of refunds, are as follows:
+
+There was no cash paid for United States federal income taxes as we generated a taxable loss for the year ended December 31, 2025 due to the provisions allowed within the One Big Beautiful Bill Act (the “Act”) discussed below .
+
+Recent Tax Legislation
+
+The Act was enacted on July 4, 2025 and makes key elements of the Tax Cuts and Jobs Act permanent, including 100% bonus depreciation, domestic research cost expensing, the business interest expense limitation and makes modifications to the international tax framework. The financial reporting implications of the Act were recorded in the income tax provision for the year ended December 31, 2025. The Company determined that the Act did not have a material impact on the consolidated financial statements for the year ended December 31, 2025. We will continue to evaluate the full impact of these legislative changes as additional guidance becomes available.
+
+NOTE 10—EQUITY
+
+Common Stock
+
+Unvested restricted stock awards and deferred stock awards will be reflected in the statements of changes in equity at the time of vesting.
+
+For the years ended December 31, 2025, 2024 and 2023, we issued 1.2 million, 1.5 million and 1.1 million shares, respectively, of common stock in connection with stock option exercises and vesting of restricted stock awards.
+
+Common Stock Reserved for Future Issuance
+
+Common stock of approximately 11.2 million shares as of December 31, 2025 is reserved for future issuances under the stock incentive plan (including 0.9 million options, 1.4 million restricted stock awards and 1.8 million deferred stock awards currently granted).
+
+Noncontrolling Interests
+
+Common securities held by the noncontrolling interests that do not include put arrangements exercisable outside of our control are recorded in equity, separate from our stockholders’ equity.
+
+The purchase or sale of additional ownership in an already controlled subsidiary is recorded as an equity transaction with no gain or loss recognized in net income (loss) or comprehensive income (loss) as long as the subsidiary remains a controlled subsidiary. For the years ended December 31, 2025, 2024 and 2023, we acquired all or additional equity interests in several companies that did not have a significant impact to equity either on an individual basis or in the aggregate. The following schedule reflects the change in ownership interests for these transactions:
+
+Redeemable Noncontrolling Interests
+
+We are subject to put arrangements where the holders of the noncontrolling interests can require us to repurchase their shares at specified dates in the future or within specified periods in the future. Certain of these puts can be exercised earlier upon the occurrence of triggering events as specified in the agreements. The redemption amounts for these puts are either at a fixed amount, at fair value at the time of exercise or a variable amount based on a formula linked to earnings. In accordance with the FASB guidance for business combinations, the redeemable noncontrolling interests are recorded at their fair value at acquisition date. For put arrangements that are not currently redeemable, we accrete to the estimated redemption value over the period from the date of issuance to the earliest redemption date of the individual puts, with the offset recorded to additional paid-in capital. Decreases in accretion are only recognized to the extent that increases had been previously recognized. The estimated redemption values that are based on a formula linked to future earnings are computed each reporting period using projected cash flows, and the estimated redemption values that are based on fair value at the time of exercise are computed each reporting period by applying a multiple to projected earnings, both of which take into account the current expectations regarding profitability and the timing of revenue-generating events. The balances are reflected in our balance sheets as redeemable noncontrolling interests outside of permanent equity.
+
+Our estimate of redemption amounts for puts that are redeemable at fixed or determinable prices on fixed or determinable dates for the years ended December 31, 2026, 2027, 2028, 2029 and 2030 are $ 15.1 million, $ 160.6 million, $ 79.8 million, $ 47.3 million and $ 23.4 million, respectively.
+
+Transactions with Noncontrolling and Redeemable Noncontrolling Interest Partners
+
+We have loaned or advanced money to noncontrolling interest partners under the terms of the partnership operating agreements, promissory notes or other arrangements. As of December 31, 2025 and December 31, 2024, we had outstanding notes receivable and prepayments of $ 50.0 million and $ 50.0 million in other long-term assets, respectively.
+
+For the year ended December 31, 2025, we paid $ 122.3 million to purchase a portion of the noncontrolling interest in certain subsidiaries in Europe. We also acquired an additional 24 % interest in OCESA from CIE, which resulted in a decrease of $ 749.4 million in redeemable noncontrolling interest.
+
+Accumulated Other Comprehensive Income (Loss)
+
+See Note 6 – Fair Value Measurements for further discussion and disclosure of the fair value of our interest rate swap that has been designated as a cash flow hedge.
+
+Earnings per Share
+
+Basic net income (loss) per common share is computed by dividing the net income (loss) available to common stockholders by the weighted average number of common shares outstanding during the period. The calculation of diluted net income (loss) per common share includes the effects of the assumed exercise of any outstanding stock options, the assumed vesting of shares of restricted and deferred stock awards and the assumed conversion of our convertible senior notes, where dilutive.
+
+The following table sets forth the computation of weighted average common shares outstanding:
+
+NOTE 11—SEGMENTS AND REVENUE RECOGNITION
+
+Our reportable segments are Concerts, Ticketing and Sponsorship & Advertising. We use AOI to evaluate the performance of our operating segments and define AOI as operating income (loss) before certain acquisition expenses (including ongoing legal costs stemming from the Ticketmaster merger, changes in the fair value of accrued acquisition-related contingent consideration obligations, and acquisition-related severance and compensation), amortization of non-recoupable ticketing contract advances, depreciation and amortization (including goodwill impairment), loss (gain) on disposal of operating assets, and stock-based compensation expense. Due to the significant and non-recurring nature of the matters, we also exclude from AOI the impact of realized liabilities for settlements or damages arising out of the Astroworld matter that exceed our estimated insurance recovery, and expenses for regulatory compliance matters associated with the provision for (possible) losses arising from certain significant governmental investigations and litigations under ASC 450 - Contingencies, which are described under the heading “Governmental Investigations and Litigation” in Note 7 of the Notes to the Consolidated Financial Statements herein. Except as described above, ongoing legal costs associated with defense of these claims, such as attorney fees, are not excluded from AOI. AOI assists investors by allowing them to evaluate changes in the operating results of our portfolio of businesses separate from non-operational factors that affect net income (loss), thus providing insights into both operations and the other factors that affect reported results.
+
+Revenue and expenses earned and charged between segments are eliminated in consolidation. Our capital expenditures below include accruals for amounts incurred but not yet paid for, but are not reduced by reimbursements received from outside parties such as landlords and noncontrolling interest partners or replacements funded by insurance proceeds.
+
+We manage our working capital on a consolidated basis. Accordingly, segment assets are not reported to, or used by, our management to allocate resources to or assess performance of our segments, and therefore, total segment assets and related depreciation and amortization have not been presented.
+
+There were no customers that individually accounted for more than 10% of our consolidated revenue in any year.
+
+The Company’s Chief Executive Officer is the chief operating decision maker (“CODM”) and evaluates the operating performance of our operating segments based on AOI. The CODM uses segment AOI for evaluating performance of each segment and for making decisions on allocating capital and other resources to each segment. We have not identified any segment expenses that are considered significant and segment expenses are not regularly provided to the CODM. Other segments items are direct operating expenses and selling, general and administrative expenses (excluding acquisition expenses, amortization of non-recoupable ticketing contract advance, Astroworld loss contingencies and stock-based compensation expense) which represents the difference between each operating segment’s revenue and AOI.
+
+Concerts
+
+Our Concerts segment involves the promotion of live music events globally in our owned or operated venues and in rented third-party venues, the production of music festivals, the operation and management of music venues, the creation or streaming of associated content and the provision of management and other services to artists. This segment generates revenue from the promotion or production of live music events and festivals in our owned or operated venues and in rented third-party venues, artist management commissions and the sale of merchandise for music artists at events. As a promoter and venue operator, we earn revenue primarily from the sale of tickets, concessions, merchandise, parking, ticket rebates or service charges on tickets sold by Ticketmaster or third-party ticketing platforms, and rental of our owned or operated venues. As an artist manager, we earn commissions on the earnings of the artists and other clients we represent, primarily derived from clients’ earnings for concert tours. Over 97 % of Concerts’ revenue, whether related to promotion, venue operations, artist management or artist event merchandising, is recognized on the day of the related event. The majority of consideration for our Concerts segment is collected in advance of or on the day of the event. Consideration received in advance of the event is recorded as deferred revenue or in long-term liabilities if the event is more than twelve months from the balance sheet date. Any consideration not collected by the day of the event is typically received within three months after the event date.
+
+Ticketing
+
+Our Ticketing segment involves the management of our global ticketing operations, including providing ticketing software and services to clients, and consumers with a marketplace, both online and mobile, for tickets and event information, and is responsible for our primary ticketing website, www.ticketmaster.com . Ticket fee revenue is generated from convenience and order processing fees, or service charges, charged at the time a ticket for an event is sold in either the primary or secondary markets. A significant portion of our service charges are payable to the venue and credit card vendors. The Ticketing segment is primarily an agency business that sells tickets for events on behalf of its clients, which include venues, concert promoters, professional sports franchises and leagues, college sports teams, theater producers and museums. This segment records revenue arising from convenience and order processing fees, regardless of whether these fees are related to tickets sold in the primary or secondary market, and regardless of whether these fees are associated with our concert events or third-party clients’ concert events. We do not record the face value of the tickets or the venue’s portion of the service fees as revenue. Ticket fee revenue is recognized when the ticket is sold for third-party clients and secondary market sales, as we have no further obligation to our client’s customers following the sale of the ticket. For our concert events where our concert promoters control ticketing, ticket fee revenue is recognized when the event occurs because we also have the obligation to deliver the event to the fan. The delivery of the ticket to the fan is not considered a distinct performance obligation for our concert events because the fan cannot receive the benefits of the ticket unless we also fulfill our obligation to deliver the event. The majority of ticket fee revenue is collected within the month of the ticket sale. Revenue received from the sale of tickets in advance of our concert events is recorded as deferred revenue or in other long-term liabilities if the date of the event is more than twelve months from the balance sheet date. Reported revenue is net of any refunds made or committed to and also the impact of any cancellations of events that occurred during the period and up to the time of filing these consolidated financial statements.
+
+Ticketing contract advances, which can be either recoupable or non-recoupable, represent amounts paid in advance to our clients pursuant to ticketing agreements and are reflected in prepaid expenses or in long-term advances if the amount is expected to be recouped or recognized over a period of more than twelve months. Recoupable ticketing contract advances are generally recoupable against future royalties earned by the client, based on the contract terms, over the life of the contract. Royalties are typically earned by the client when tickets are sold. Royalties paid to clients are recorded as a reduction to revenue when the tickets are sold and the corresponding service charge revenue is recognized. Non-recoupable ticketing contract advances, excluding those amounts paid to support clients’ advertising costs, are fixed additional incentives occasionally paid by us to certain clients to secure the contract and are typically amortized over the life of the contract on a straight-line basis as a reduction to revenue. At December 31, 2025 and 2024, we had ticketing contract advances of $ 298.7 million and $ 158.1 million, respectively, in prepaid expenses and $ 155.7 million and $ 128.9 million, respectively, in long-term advances. We amortized $ 88.4 million, $ 88.7 million and $ 83.7 million for the years ended December 31, 2025, 2024 and 2023 respectively, related to non-recoupable ticketing contract advances.
+
+Sponsorship & Advertising
+
+Our Sponsorship & Advertising segment manages the development of strategic sponsorship programs in addition to the sale of international, national and local sponsorships and placement of advertising such as signage, promotional programs, rich media offerings, including advertising associated with live streaming and music-related content, and ads across our distribution network of venues, events and websites. This segment generates revenue from sponsorship and marketing programs that provide its sponsors with strategic, international, national and local opportunities to reach customers through our venue, concert and ticketing assets, including advertising on our websites. These programs can also include custom events or programs for the sponsors’ specific brands, which are typically experienced exclusively by the sponsors’ customers. Sponsorship agreements may contain multiple elements, which provide several distinct benefits to the sponsor over the term of the agreement, and can be for a single or multi-year term. We also earn revenue from exclusive access rights provided to sponsors in various categories such as ticket pre-sales, beverage pouring rights, venue naming rights, media campaigns, signage within our venues, and advertising on our websites. Revenue from sponsorship agreements is allocated to the multiple elements based on the relative stand-alone selling price of each separate element, which are determined using vendor-specific evidence, third-party evidence or our best estimate of the fair value. Revenue is recognized over the term of the agreement or operating season as the benefits are provided to the sponsor unless the revenue is associated with a specific event, in which case it is recognized when the event occurs. Revenue is collected in installment payments during the year, typically in advance of providing the benefit or the event. Revenue received in advance of the event or the sponsor receiving the benefit is recorded as deferred revenue or in other long-term liabilities if the date of the event is more than twelve months from the balance sheet date.
+
+At December 31, 2025, we had contracted sponsorship agreements with terms greater than one year that had approximately $ 1.7 billion of revenue related to future benefits to be provided by us. We expect to recognize, based on current projections, approximately 41 %, 27 %, 15 % and 17 % of this revenue in 2026, 2027, 2028 and thereafter, respectively.
+
+The following table sets forth the reconciliation of consolidated AOI to operating income for the for the years ended December 31, 2025, 2024 and 2023:
+
+Deferred Revenue
+
+The majority of our deferred revenue is typically classified as current and is shown as a separate line item on the consolidated balance sheets. Deferred revenue that is not expected to be recognized within the next twelve months is classified as long-term and reflected in other long-term liabilities on the consolidated balance sheets. At December 31, 2025, 2024 and 2023, we had current deferred revenue of $ 4.5 billion, $ 3.7 billion and $ 3.4 billion, respectively.
+
+The table below summarizes the amount of prior year current deferred revenue recognized during the years ended December 31, 2025 and 2024:
+
+NOTE 12—STOCK-BASED COMPENSATION
+
+In December 2005, we adopted our 2005 Stock Incentive Plan, which has been amended and/or restated on several occasions. In connection with our merger with Ticketmaster Entertainment LLC, we adopted the Amended and Restated Ticketmaster 2008 Stock & Annual Incentive Plan. The plans authorize us to grant stock option awards, director shares, stock appreciation rights, restricted stock and deferred stock awards, other equity-based awards and performance awards. We have granted restricted stock awards, options to purchase our common stock and deferred stock awards to employees, directors, consultants, and our affiliates under the stock incentive plans at no less than the fair market value of the underlying stock on the date of grant. The stock incentive plans contain anti-dilutive provisions that require the adjustment of the number of shares of our common stock represented by, and the exercise price of, each option for any stock splits or stock dividends. The ten -year term of the Ticketmaster plan expired in August 2018; accordingly, no new awards may be granted under that plan but outstanding awards shall continue in full force and effect in accordance with their terms.
+
+The following is a summary of stock-based compensation expense we recorded during the respective periods:
+
+As of December 31, 2025, there was $ 154.2 million of total unrecognized compensation cost related to stock-based compensation arrangements for stock options, restricted stock and deferred stock awards. This cost is expected to be recognized over a weighted-average period of 2.1 years.
+
+Stock Options
+
+Stock options are granted for a term not exceeding ten years and the non-vested options are generally forfeited in the event the employee, director or consultant terminates his or her employment or relationship with us or one of our affiliates. Any options that have vested at the time of termination are forfeited to the extent they are not exercised within the applicable post-employment exercise period provided in their option agreements. These options typically vest over one to four years . In 2025, 2024 and 2023, no stock options were granted.
+
+The total intrinsic value of stock options exercised during the years ended December 31, 2025, 2024 and 2023 was $ 72.1 million, $ 60.4 million and $ 58.3 million, respectively. Cash received from stock option exercises for the years ended December 31, 2025, 2024 and 2023 was $ 5.1 million, $ 26.1 million and $ 19.3 million, respectively.
+
+There were 7.1 million shares available for future grants under the stock incentive plan at December 31, 2025. Upon share option exercise or vesting of restricted or deferred stock, we issue new shares or treasury shares to fulfill these grants. As of December 31, 2025, all outstanding stock options were vested and exercisable, and expiration dates range from May 2026 to December 2030 at exercise prices and average contractual lives as follows:
+
+The total intrinsic value of options outstanding and options exercisable as of December 31, 2025 was $ 93.3 million and $ 93.3 million, respectively.
+
+Restricted Stock
+
+We have granted restricted stock awards to our employees, directors and consultants under our stock incentive plan. These common shares carry a legend which typically restricts their transferability for a term of one to five years and are forfeited in the event the recipient’s employment or relationship with us is terminated prior to the lapse of the restriction. In addition, certain restricted stock awards require us or the recipient to achieve minimum performance targets in order for these awards to vest.
+
+For the year ended December 31, 2025, we granted 0.6 million shares of restricted stock and 0.3 million shares of performance-based awards, respectively, under our stock incentive plan. These awards will all vest on the grant date or over a period of six months to four years with the exception of the performance-based awards which will vest within two years if the performance criteria are met.
+
+For the year ended December 31, 2024, we granted 0.3 million shares of restricted stock and 0.4 million shares of performance-based awards, respectively, under our stock incentive plan. These awards will all vest on the grant date or over a period of one year to four years with the exception of the performance-based awards which will vest within two years if the performance criteria are met.
+
+For the year ended December 31, 2023, we granted 0.4 million shares of restricted stock and 0.4 million shares of performance-based awards, respectively, under our stock incentive plan. These awards will vest on the grant date or over a period of two months to four years with the exception of the performance-based awards which will vest within two years if the performance criteria are met.
+
+The total grant date fair market value of the shares issued upon the vesting of restricted stock awards during the years ended December 31, 2025, 2024 and 2023 was $ 82.6 million, $ 58.1 million and $ 32.2 million, respectively.
+
+Deferred Stock
+
+We granted deferred stock awards to our employees where the employees are entitled to receive shares of common stock in the future. Deferred stock can only be settled in stock as determined at the time of the grant. All of the deferred stock awards require us to achieve minimum market conditions in order for these awards to issue and vest.
+
+For the year ended December 31, 2025, we granted 0.8 million shares of deferred stock awards with market conditions under our stock incentive plans. These awards will vest over five years if specified stock prices are achieved over a specific number of days during the five years .
+
+For the year ended December 31, 2024, we granted 33 thousand shares of deferred stock awards with market conditions under our stock incentive plans. These awards will vest over five years if specified stock prices are achieved over a specific number of days during the five years .
+
+For the year ended December 31, 2023, we granted 0.3 million shares of deferred stock awards with market conditions under our stock incentive plans. These awards will vest over five years if specified stock prices are achieved over a specific number of days during the five years .
+
+The following assumptions were used to calculate the fair value of the deferred stock awards with market conditions on the date of grant:
+
+NOTE 13—OTHER INFORMATION
+
+NOTE 14—GEOGRAPHIC DATA
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+We have established disclosure controls and procedures to ensure that material information relating to our company, including our consolidated subsidiaries, is made known to the officers who certify our financial reports and to other members of senior management and our board of directors.
+
+Based on their evaluation as of December 31, 2025, our Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) are effective to ensure that (1) the information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (2) the information we are required to disclose in such reports is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or internal controls will prevent all possible errors and fraud. Our disclosure controls and procedures are, however, designed to provide reasonable assurance of achieving their objectives, and our Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures are effective at that reasonable assurance level.
+
+Management’s Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934, as amended. Our management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the 2013 framework in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (the COSO criteria). Based on its evaluation, our management concluded that our internal control over financial reporting was effective as of December 31, 2025.
+
+Ernst & Young LLP, an independent registered public accounting firm, has issued an attestation report on our internal control over financial reporting. The attestation report is included herein.
+
+Changes in Internal Control Over Financial Reporting
+
+There have been no changes in our internal control over financial reporting during the fourth quarter of the fiscal year ended December 31, 2025 that have materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Live Nation Entertainment, Inc.
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Live Nation Entertainment, Inc.’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Live Nation Entertainment, Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the 2025 consolidated financial statements of the Company and our report dated February 19, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+Los Angeles, California
+
+February 19, 2026
+
+ITEM 9B. OTHER INFORMATION
+
+No director or officer adopted or terminated any Rule 10b5-1 plan, or any other written trading arrangement that meets the requirements of a “ non-Rule 10b5-1 trading arrangement” during the fourth quarter of the fiscal year ended December 31, 2025.
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+Not applicable.
+
+PART III
+
+Other than the information set forth under Item 1. Business—Information About Our Executive Officers, the information required by this Item is incorporated by reference to our Definitive Proxy Statement, expected to be filed within 120 days of our fiscal year end.
+
+The information required by this Item is incorporated by reference to our Definitive Proxy Statement, expected to be filed within 120 days of our fiscal year end.
+
+The information required by this Item is incorporated by reference to our Definitive Proxy Statement, expected to be filed within 120 days of our fiscal year end.
+
+The information required by this Item is incorporated by reference to our Definitive Proxy Statement, expected to be filed within 120 days of our fiscal year end.
+
+The information required by this Item is incorporated by reference to our Definitive Proxy Statement, expected to be filed within 120 days of our fiscal year end.
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(a)1. Financial Statements.
+
+(a)2. Financial Statement Schedule.
+
+The following financial statement schedule for the years ended December 31, 2025, 2024 and 2023 is filed as part of this report and should be read in conjunction with the consolidated financial statements.
+
+Schedule II Valuation and Qualifying Accounts
+
+All other schedules for which provision is made in the applicable accounting regulation of the SEC are not required under the related instructions or are inapplicable, and therefore have been omitted.
+
+LIVE NATION ENTERTAINMENT, INC.
+
+SCHEDULE II
+
+VALUATION AND QUALIFYING ACCOUNTS
+
+LIVE NATION ENTERTAINMENT, INC.
+
+SCHEDULE II
+
+VALUATION AND QUALIFYING ACCOUNTS
+
+____________
+
+(1) During 2025, 2024 and 2023, the valuation allowance was adjusted for acquisitions, divestitures and foreign currency adjustments.
+
+(a)3. Those exhibits required by Item 601 of Regulation S-K
+
+§ Management contract or compensatory plan or arrangement.
+
+We have not filed long-term debt instruments of our subsidiaries where the total amount under such instruments is less than ten percent of the total assets of the Company and its subsidiaries on a consolidated basis. However, we will furnish a copy of such instruments to the Commission upon request.
+
+ITEM 16. FORM 10-K SUMMARY
+
+Not applicable.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on February 19, 2026.
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints, jointly and severally, Michael Rapino and Joe Berchtold, and each of them, as his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his or her substitute or substitutes, may lawfully do or cause to be done by virtue hereof.

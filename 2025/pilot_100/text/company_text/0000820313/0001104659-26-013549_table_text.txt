@@ -1,0 +1,507 @@
+[TABLE 001]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 001]
+
+[TABLE 002]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+Delaware (State or other jurisdiction of incorporation or organization) 22-2785165 (I.R.S. Employer Identification No.)
+[END TABLE 003]
+
+[TABLE 004]
+Title of each class Trading Symbol(s) Name of each exchange on which registered Class A Common Stock, $0.001 par value APH New York Stock Exchange 3.125% Senior Notes due 2032 APH32 New York Stock Exchange
+[END TABLE 004]
+
+[TABLE 005]
+Large Accelerated Filer ⌧ Accelerated Filer ◻ Non-accelerated Filer ◻ Smaller Reporting Company ☐ Emerging Growth Company ☐
+[END TABLE 005]
+
+[TABLE 006]
+INDEX Page PART I Item 1. Business 2 General 2 Reportable Business Segments 2 Our Strategy 4 Markets 5 Customers and Geographies 7 Manufacturing 8 Research and Development 8 Intellectual Property 9 Raw Materials 9 Competition 9 Backlog and Seasonality 10 Environmental Matters 10 Government Regulation 10 Human Capital Management and Our Culture 11 Sustainability Report 11 Available Information 12 Item 1A. Risk Factors 12 Item 1B. Unresolved Staff Comments 23 Item 1C. Cybersecurity 23 Item 2. Properties 25 Item 3. Legal Proceedings 25 Item 4. Mine Safety Disclosures 25 PART II Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 26 Item 6. [Reserved] 27 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 28 Item 7A. Quantitative and Qualitative Disclosures About Market Risk 50 Item 8. Financial Statements and Supplementary Data 53 Report of Independent Registered Public Accounting Firm 53 Consolidated Statements of Income 55 Consolidated Statements of Comprehensive Income 56 Consolidated Balance Sheets 57 Consolidated Statements of Changes in Equity 58 Consolidated Statements of Cash Flow 59 Notes to Consolidated Financial Statements 60 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 101 Item 9A. Controls and Procedures 101 Item 9B. Other Information 101 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 101 PART III Item 10. Directors, Executive Officers and Corporate Governance 102 Item 11. Executive Compensation 102 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 102 Item 13. Certain Relationships and Related Transactions, and Director Independence 103 Item 14. Principal Accountant Fees and Services 103 PART IV Item 15. Exhibits and Financial Statement Schedules 104 Item 16. Form 10-K Summary 107 Signatures 109
+[END TABLE 006]
+
+[TABLE 007]
+Reporting Segment Communications Solutions Harsh Environment Solutions Interconnect and Sensor Systems % of 2025 Net Sales: 52% 26% 22% End Markets ● Automotive ● Commercial Aerospace ● Communications Networks ● Defense ● Industrial ● Information Technology and Data Communications ● Mobile Devices ● Automotive ● Commercial Aerospace ● Communications Networks ● Defense ● Industrial ● Information Technology and Data Communications ● Automotive ● Commercial Aerospace ● Communications Networks ● Defense ● Industrial ● Information Technology and Data Communications Key Products Connectors and Connector Systems: ● fiber optic interconnect products ● high-speed interconnect products ● radio frequency interconnect products Value-Add Products: ● cable assemblies and harnesses Antennas: ● consumer device antennas ● network infrastructure antennas Cable: ● coaxial, fiber optic, power and specialty cable Other: ● hinges and other mechanical products ● production-related products Connectors and Connector Systems: ● harsh environment data, power, fiber optic and radio frequency interconnect products Value-Add Products: ● backplane interconnect systems ● cable assemblies and harnesses ● cable management products Cable: ● coaxial and specialty cable Other: ● flexible and rigid printed circuit boards Connectors and Connector Systems: ● busbars and power distribution systems ● power interconnect products Value-Add Products: ● backplane interconnect systems ● cable assemblies and harnesses Sensors and Sensor-based Products: ● force ● gas and moisture ● level ● position ● pressure ● temperature ● vibration
+[END TABLE 007]
+
+[TABLE 008]
+● antennas ● lighting ● charging stations ● passenger connectivity ● climate control ● power management ● electric vehicles ● safety and security systems ● engine management and control ● sensing systems ● exhaust monitoring and cleaning ● telematics systems ● hybrid vehicles ● transmission systems ● infotainment and communications
+[END TABLE 008]
+
+[TABLE 009]
+● aircraft and airframe power distribution ● in-flight entertainment ● avionics ● in-flight internet connectivity ● controls and instrumentation ● lighting and control systems ● engines ● wire bundling and cable management
+[END TABLE 009]
+
+[TABLE 010]
+● antenna systems ● fiber management systems ● base stations ● mobile switches ● cable, satellite & telecommunications networks ● network switching equipment ● customer premises equipment ● satellite interface devices ● distributed antenna systems (DAS) ● small cells
+[END TABLE 010]
+
+[TABLE 011]
+● airframe ● naval ● avionics ● ordnance and missile systems ● communications ● radar systems ● engines ● rotorcraft ● ground vehicles and tanks ● satellite and space programs ● homeland security ● unmanned aerial vehicles
+[END TABLE 011]
+
+[TABLE 012]
+● agricultural equipment ● marine ● alternative and traditional energy generation ● medical equipment ● batteries and hybrid drive systems ● oil and gas ● entertainment ● power distribution ● factory and machine tool automation ● public safety ● heavy equipment ● rail mass transit ● instrumentation ● semiconductor manufacturing equipment ● internet of things ● smart manufacturing ● LED lighting ● transportation
+[END TABLE 012]
+
+[TABLE 013]
+● AI ● servers ● cloud computing ● storage systems ● data centers ● transmission ● networking equipment
+[END TABLE 013]
+
+[TABLE 014]
+● consumer electronics ● production-related products ● mobile and smart phones, including accessories ● wearable and hearable devices ● mobile computing devices, including laptops, tablets and e-readers
+[END TABLE 014]
+
+[TABLE 015]
+2025 2024 First Quarter $ 0.165 $ 0.11 Second Quarter 0.165 0.11 Third Quarter 0.165 0.165 Fourth Quarter 0.25 0.165 Total $ 0.745 $ 0.55
+[END TABLE 015]
+
+[TABLE 016]
+2025 2024 Dividends declared $ 909.3 $ 662.9 Dividends paid (including those declared in the prior year) 802.2 595.1
+[END TABLE 016]
+
+[TABLE 017]
+(dollars in millions, except price per share) Total Number of Shares Maximum Dollar Value Total Number Average Purchased as Part of of Shares that May Yet be of Shares Price Paid Publicly Announced Purchased Under the Period Purchased per Share Plans or Programs Plans or Programs First Quarter – 2025 2,675,000 $ 67.61 2,675,000 $ 1,355.4 Second Quarter – 2025 2,045,700 78.26 2,045,700 1,195.4 Third Quarter – 2025 1,401,700 109.09 1,401,700 1,042.4 Fourth Quarter – 2025: October 1 to October 31, 2025 462,900 128.22 462,900 983.1 November 1 to November 30, 2025 410,200 137.23 410,200 926.8 December 1 to December 31, 2025 408,400 136.33 408,400 $ 871.1 1,281,500 133.69 1,281,500 Total – 2025 7,403,900 $ 89.84 7,403,900
+[END TABLE 017]
+
+[TABLE 018]
+● information technology and communication devices and systems for the converging technologies of voice, video and data communications;
+[END TABLE 018]
+
+[TABLE 019]
+● a broad range of industrial applications and traditional, hybrid and electric automotive applications; and
+[END TABLE 019]
+
+[TABLE 020]
+● defense and commercial aerospace applications.
+[END TABLE 020]
+
+[TABLE 021]
+● Pursue broad market diversification;
+[END TABLE 021]
+
+[TABLE 022]
+● Develop high-technology performance-enhancing solutions;
+[END TABLE 022]
+
+[TABLE 023]
+● Expand global presence;
+[END TABLE 023]
+
+[TABLE 024]
+● Control costs;
+[END TABLE 024]
+
+[TABLE 025]
+● Pursue strategic acquisitions and investments; and
+[END TABLE 025]
+
+[TABLE 026]
+● Foster collaborative, entrepreneurial management.
+[END TABLE 026]
+
+[TABLE 027]
+Percentage Growth (relative to prior year) (1) Net sales Foreign Constant Organic growth in currency Currency Net Acquisition Net Sales U.S. Dollars (2) impact (3) Sales Growth (4) impact (5) Growth (4) Net sales by: 2025 2024 (GAAP) (non-GAAP) (non-GAAP) (non-GAAP) (non-GAAP) Segment: Communications Solutions $ 12,056.0 $ 6,323.8 91 % — % 91 % 20 % 71 % Harsh Environment Solutions 5,881.7 4,417.4 33 % 1 % 32 % 15 % 17 % Interconnect and Sensor Systems 5,157.0 4,481.5 15 % 1 % 14 % 1 % 13 % Consolidated $ 23,094.7 $ 15,222.7 52 % 1 % 51 % 13 % 38 % Geography (6) : United States $ 7,987.7 $ 5,272.3 52 % — % 51 % 25 % 26 % Foreign 15,107.0 9,950.4 52 % 1 % 51 % 7 % 44 % Consolidated $ 23,094.7 $ 15,222.7 52 % 1 % 51 % 13 % 38 %
+[END TABLE 027]
+
+[TABLE 028]
+(1) Percentages in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding.
+[END TABLE 028]
+
+[TABLE 029]
+(2) Net sales growth in U.S. dollars is calculated based on Net sales as reported in the Consolidated Statements of Income and Note 13 of the Notes to Consolidated Financial Statements. While the term “net sales growth in U.S. dollars” is not considered a U.S. GAAP financial measure, for purposes of this table, we derive the reported (GAAP) measure based on GAAP results, which serves as the basis for the reconciliation to its comparable non-GAAP financial measures.
+[END TABLE 029]
+
+[TABLE 030]
+(3) Foreign currency translation impact, a non-GAAP measure, represents the percentage impact on net sales resulting from foreign currency exchange rate changes in the current reporting year compared to the prior reporting year. Such amount is calculated by subtracting current year net sales translated at average foreign currency exchange rates for the prior year from current year net sales, taken as a percentage of the prior year’s net sales.
+[END TABLE 030]
+
+[TABLE 031]
+(4) Constant Currency Net Sales Growth and Organic Net Sales Growth are non-GAAP financial measures as defined in the “Non-GAAP Financial Measures” section of this Item 7.
+[END TABLE 031]
+
+[TABLE 032]
+(5) Acquisition impact, a non-GAAP measure, represents the percentage impact on net sales resulting from acquisitions that have not been included in the Company’s consolidated results for the full current year and/or prior comparable year presented. Such net sales related to these acquisitions do not reflect the underlying growth of the Company on a comparative basis. Acquisition impact is calculated as a percentage of the respective prior year period(s) net sales.
+[END TABLE 032]
+
+[TABLE 033]
+(6) Net sales by geographic area are based on the customer location to which the product is shipped.
+[END TABLE 033]
+
+[TABLE 034]
+Year Ended December 31, 2025 2024 2023 Net sales 100.0 % 100.0 % 100.0 % Operating expenses (1) 74.1 78.4 79.3 Acquisition-related expenses 0.4 0.8 0.3 Operating income 25.4 20.7 20.4 Interest expense (1.6) (1.4) (1.1) Gain on bargain purchase acquisition — — — Other income (expense), net 0.4 0.5 0.2 Income before income taxes 24.3 19.8 19.6 Provision for income taxes (5.6) (3.7) (4.1) Net income 18.6 16.0 15.5 Net income attributable to noncontrolling interests (0.2) (0.1) (0.1) Net income attributable to Amphenol Corporation 18.5 % 15.9 % 15.4 %
+[END TABLE 034]
+
+[TABLE 035]
+(1) The aggregated amount is comprised of cost of sales and selling, general and administrative expenses.
+[END TABLE 035]
+
+[TABLE 036]
+2025 2024 Net Income Net Income attributable Effective attributable Effective Operating Operating to Amphenol Tax Diluted Operating Operating to Amphenol Tax Diluted Income Margin (1) Corporation Rate (1) EPS Income Margin (1) Corporation Rate (1) EPS Reported (GAAP) $ 5,868.6 25.4 % $ 4,270.3 23.1 % $ 3.34 $ 3,156.9 20.7 % $ 2,424.0 18.9 % $ 1.92 Amortization of acquisition-related inventory step-up costs 77.8 0.3 59.6 — 0.05 18.2 0.1 14.0 — 0.01 Acquisition-related expenses 103.4 0.4 89.2 (0.2) 0.07 127.4 0.8 105.3 (0.3) 0.08 Excess tax benefits related to stock-based compensation — — (246.6) 4.4 (0.19) — — (142.6) 4.7 (0.11) Discrete tax items — — 100.0 (1.8) 0.08 — — (18.6) 0.6 (0.01) Adjusted (non-GAAP) (2) $ 6,049.8 26.2 % $ 4,272.5 25.5 % $ 3.34 $ 3,302.5 21.7 % $ 2,382.1 24.0 % $ 1.89
+[END TABLE 036]
+
+[TABLE 037]
+(1) While the terms “operating margin” and “effective tax rate” are not considered U.S. GAAP financial measures, for purposes of this table, we derive the reported (GAAP) measures based on GAAP results, which serve as the basis for the reconciliation to their comparable non-GAAP financial measures.
+[END TABLE 037]
+
+[TABLE 038]
+(2) All percentages and per share amounts in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding.
+[END TABLE 038]
+
+[TABLE 039]
+Percentage Growth (relative to prior year) (1) Net sales Foreign Constant Organic growth in currency Currency Net Acquisition Net Sales U.S. Dollars (2) impact (3) Sales Growth (4) impact (5) Growth (4) Net sales by: 2024 2023 (GAAP) (non-GAAP) (non-GAAP) (non-GAAP) (non-GAAP) Segment: Communications Solutions $ 6,323.8 $ 4,912.8 29 % — % 29 % 2 % 27 % Harsh Environment Solutions 4,417.4 3,530.8 25 % — % 25 % 21 % 4 % Interconnect and Sensor Systems 4,481.5 4,111.1 9 % — % 9 % 5 % 4 % Consolidated $ 15,222.7 $ 12,554.7 21 % — % 21 % 8 % 13 % Geography (6) : United States $ 5,272.3 $ 4,405.4 20 % — % 20 % 16 % 3 % Foreign 9,950.4 8,149.3 22 % — % 23 % 4 % 19 % Consolidated $ 15,222.7 $ 12,554.7 21 % — % 21 % 8 % 13 %
+[END TABLE 039]
+
+[TABLE 040]
+(1) Percentages in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding.
+[END TABLE 040]
+
+[TABLE 041]
+(2) Net sales growth in U.S. dollars is calculated based on Net sales as reported in the Consolidated Statements of Income and Note 13 of the Notes to Consolidated Financial Statements. While the term “net sales growth in U.S. dollars” is not considered a U.S. GAAP financial measure, for purposes of this table, we derive the reported (GAAP) measure based on GAAP results, which serves as the basis for the reconciliation to its comparable non-GAAP financial measures.
+[END TABLE 041]
+
+[TABLE 042]
+(3) Foreign currency translation impact, a non-GAAP measure, represents the percentage impact on net sales resulting from foreign currency exchange rate changes in the current reporting year compared to the prior reporting year. Such amount is calculated by subtracting current year net sales translated at average foreign currency exchange rates for the prior year from current year net sales, taken as a percentage of the prior year’s net sales.
+[END TABLE 042]
+
+[TABLE 043]
+(4) Constant Currency Net Sales Growth and Organic Net Sales Growth are non-GAAP financial measures as defined in the “Non-GAAP Financial Measures” section of this Item 7.
+[END TABLE 043]
+
+[TABLE 044]
+(5) Acquisition impact, a non-GAAP measure, represents the percentage impact on net sales resulting from acquisitions that have not been included in the Company’s consolidated results for the full current year and/or prior comparable year presented. Such net sales related to these acquisitions do not reflect the underlying growth of the Company on a comparative basis. Acquisition impact is calculated as a percentage of the respective prior year period(s) net sales.
+[END TABLE 044]
+
+[TABLE 045]
+(6) Net sales by geographic area are based on the customer location to which the product is shipped.
+[END TABLE 045]
+
+[TABLE 046]
+2024 2023 Net Income Net Income attributable Effective attributable Effective Operating Operating to Amphenol Tax Diluted Operating Operating to Amphenol Tax Diluted Income Margin (1) Corporation Rate (1) EPS Income Margin (1) Corporation Rate (1) EPS Reported (GAAP) $ 3,156.9 20.7 % $ 2,424.0 18.9 % $ 1.92 $ 2,559.6 20.4 % $ 1,928.0 20.7 % $ 1.55 Amortization of acquisition-related inventory step-up costs 18.2 0.1 14.0 — 0.01 — — — — — Acquisition-related expenses 127.4 0.8 105.3 (0.3) 0.08 34.6 0.3 30.2 (0.2) 0.02 Gain on bargain purchase acquisition — — — — — — — (5.4) 0.1 — Excess tax benefits related to stock-based compensation — — (142.6) 4.7 (0.11) — — (82.4) 3.4 (0.07) Discrete tax items — — (18.6) 0.6 (0.01) — — — — — Adjusted (non-GAAP) (2) $ 3,302.5 21.7 % $ 2,382.1 24.0 % $ 1.89 $ 2,594.2 20.7 % $ 1,870.4 24.0 % $ 1.51
+[END TABLE 046]
+
+[TABLE 047]
+(1) While the terms “operating margin” and “effective tax rate” are not considered U.S. GAAP financial measures, for purposes of this table, we derive the reported (GAAP) measures based on GAAP results, which serve as the basis for the reconciliation to their comparable non-GAAP financial measures.
+[END TABLE 047]
+
+[TABLE 048]
+(2) All percentages and per share amounts in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding.
+[END TABLE 048]
+
+[TABLE 049]
+Payment Due By Period Contractual Obligations Less than 1-3 3-5 More than (dollars in millions) Total 1 year years years 5 years Debt (1) $ 15,601.9 $ 937.2 $ 4,035.5 $ 2,848.3 $ 7,780.9 Interest related to senior notes (2) 6,283.1 601.5 1,122.1 844.2 3,715.3 Operating leases (3) 649.3 161.4 227.4 121.8 138.7 Purchase obligations (4) 2,083.2 2,006.9 72.1 3.9 0.3 Accrued pension and postretirement benefit obligations (5) 53.0 5.6 9.8 10.8 26.8 Total (6) $ 24,670.5 $ 3,712.6 $ 5,466.9 $ 3,829.0 $ 11,662.0
+[END TABLE 049]
+
+[TABLE 050]
+(1) The Company has excluded expected interest payments on the Revolving Credit Facility, Commercial Paper Program and Euro Commercial Paper Program from the above table, as this calculation is largely dependent on average debt levels during each of the years presented. The actual interest payments made related to the Company’s Revolving Credit Facility and Commercial Paper Programs in 2025, were approximately $33.7. Expected debt levels, and therefore expected interest payments, are difficult to predict, as they are significantly impacted by items such as future acquisitions, repurchases of Common Stock and dividend payments, as well as payments or additional borrowings that reduce or increase the underlying revolver balance. The table above also excludes borrowings of $1,534.1 under each Delayed Draw Term Loan that occurred subsequent to December 31, 2025 and related interest.
+[END TABLE 050]
+
+[TABLE 051]
+(2) Interest related to the Floating Rate Senior Notes (as defined below) is included in the table above at the effective rate as of December 31, 2025.
+[END TABLE 051]
+
+[TABLE 052]
+(3) The Company’s operating lease payments included in this table reflect the future minimum undiscounted fixed lease payments, which serve as the basis for calculating the Company’s operating lease liabilities as of December 31, 2025. The table above excludes any variable lease payments not included in the measurement of the Company’s right-of-use assets and operating lease liabilities, due to their uncertainty. Finance leases are not material to the Company individually or in the aggregate and as such have been excluded from the table above.
+[END TABLE 052]
+
+[TABLE 053]
+(4) Purchase obligations relate primarily to open purchase orders for goods and services, including but not limited to, raw materials and components to be used in production.
+[END TABLE 053]
+
+[TABLE 054]
+(5) This table includes estimated benefit payments expected to be made under the Company’s unfunded pension and postretirement benefit plans, as well as the anticipated minimum required contributions under the Company’s funded pension plans, the most significant of which covers certain of its U.S. employees. Over the past several years, there has been no minimum requirement for Company contributions to our defined benefit pension plans in the United States (“U.S. Pension Plans”) due to prior contributions made in excess of minimum requirements, and as a result, there was no anticipated minimum required contribution included in the table above related to the U.S. Pension Plans for 2026. The Company did not make any voluntary contributions to its U.S. Pension Plans in 2025 and 2024. It is not possible to reasonably estimate expected required contributions in the above table after 2026, since several assumptions are required to calculate minimum required contributions, such as the discount rate and expected returns on pension assets.
+[END TABLE 054]
+
+[TABLE 055]
+(6) As of December 31, 2025, the Company has recorded net liabilities of approximately $311.7 related to unrecognized tax benefits. These liabilities have been excluded from the above table due to the high degree of uncertainty regarding the timing of potential future cash flows. It is difficult to make a reasonably reliable estimate of the amount and period in which all of these liabilities might be paid.
+[END TABLE 055]
+
+[TABLE 056]
+Year Ended December 31, 2025 2024 2023 Net cash provided by operating activities $ 5,374.7 $ 2,814.7 $ 2,528.7 Net cash used in investing activities (5,082.1) (2,648.6) (1,393.7) Net cash provided by (used in) financing activities 7,423.2 1,729.9 (1,012.4) Effect of exchange rate changes on cash and cash equivalents 97.8 (54.0) (20.7) Net increase in cash and cash equivalents $ 7,813.6 $ 1,842.0 $ 101.9
+[END TABLE 056]
+
+[TABLE 057]
+2025 2024 2023 Operating Cash Flow (GAAP) $ 5,374.7 $ 2,814.7 $ 2,528.7 Capital expenditures (GAAP) (996.6) (665.4) (372.8) Proceeds from disposals of property, plant and equipment (GAAP) 14.8 7.8 4.0 Free Cash Flow (non-GAAP) $ 4,392.9 $ 2,157.1 $ 2,159.9
+[END TABLE 057]
+
+[TABLE 058]
+Principal Interest Amount Rate Maturity $ 350.0 4.750 % March 2026 700.0 5.050 % April 2027 500.0 Compounded SOFR plus 0.53 % November 2027 750.0 3.800 % November 2027 750.0 4.375 % June 2028 750.0 3.900 % November 2028 450.0 5.050 % April 2029 500.0 4.350 % June 2029 900.0 2.800 % February 2030 1,000.0 4.125 % November 2030 750.0 2.200 % September 2031 1,250.0 4.400 % February 2033 600.0 5.250 % April 2034 750.0 5.000 % January 2035 1,600.0 4.625 % February 2036 500.0 5.375 % November 2054 1,650.0 5.300 % November 2055 € 500.0 0.750 % May 2026 (Euro Notes) 500.0 2.000 % October 2028 (Euro Notes) 600.0 3.125 % June 2032 (Euro Notes)
+[END TABLE 058]
+
+[TABLE 059]
+2025 2024 2023 First Quarter $ 0.165 $ 0.11 $ 0.105 Second Quarter 0.165 0.11 0.105 Third Quarter 0.165 0.165 0.105 Fourth Quarter 0.25 0.165 0.11 Total $ 0.745 $ 0.55 $ 0.425
+[END TABLE 059]
+
+[TABLE 060]
+2025 2024 2023 Dividends declared $ 909.3 $ 662.9 $ 507.4 Dividends paid (including those declared in the prior year) 802.2 595.1 500.6
+[END TABLE 060]
+
+[TABLE 061]
+● We tested the effectiveness of controls over the unrecognized tax benefits for income taxes, including management’s controls over the identification of uncertain tax positions, determination of whether it is more likely than not that the tax positions will be sustained, and recording of unrecognized tax benefits.
+[END TABLE 061]
+
+[TABLE 062]
+● With the assistance of our income tax specialists, we evaluated management’s significant judgements regarding unrecognized tax benefits including:
+[END TABLE 062]
+
+[TABLE 063]
+o Assessing the reasonableness of the methods and processes used by management to identify uncertain tax positions including but not limited to:
+[END TABLE 063]
+
+[TABLE 064]
+◾ Evaluating former and ongoing tax audits and notices by tax authorities
+[END TABLE 064]
+
+[TABLE 065]
+◾ Evaluating transactions for which third-party tax advice or tax opinions were received
+[END TABLE 065]
+
+[TABLE 066]
+◾ Determining if there is any relevant additional information available that was not identified and considered in management’s assessment
+[END TABLE 066]
+
+[TABLE 067]
+o Assessing the technical merits of a sample of positions identified and the reasonableness of the methodology used to determine the unrecognized tax benefit.
+[END TABLE 067]
+
+[TABLE 068]
+o Evaluating management’s conclusion with respect to whether a sample of unrecognized tax benefits accounted for in prior periods have been effectively settled and/or whether the statute of limitations has expired and, if so, whether the resolution of the tax position has been appropriately accounted for in the financial statements.
+[END TABLE 068]
+
+[TABLE 069]
+o Evaluating a sample of tax positions that have not yet settled or are within statute to determine whether any new information regarding the sustainability of these tax positions or measurement of tax benefit is present and has been appropriately accounted for in the financial statements.
+[END TABLE 069]
+
+[TABLE 070]
+Year Ended December 31, 2025 2024 2023 Net sales $ 23,094.7 $ 15,222.7 $ 12,554.7 Cost of sales 14,577.0 10,083.0 8,470.6 Gross profit 8,517.7 5,139.7 4,084.1 Acquisition-related expenses 103.4 127.4 34.6 Selling, general and administrative expenses 2,545.7 1,855.4 1,489.9 Operating income 5,868.6 3,156.9 2,559.6 Interest expense ( 367.8 ) ( 217.0 ) ( 139.5 ) Gain on bargain purchase acquisition — — 5.4 Other income (expense), net 99.9 72.0 29.3 Income before income taxes 5,600.7 3,011.9 2,454.8 Provision for income taxes ( 1,295.4 ) ( 570.3 ) ( 509.3 ) Net income 4,305.3 2,441.6 1,945.5 Less: Net income attributable to noncontrolling interests ( 35.0 ) ( 17.6 ) ( 17.5 ) Net income attributable to Amphenol Corporation $ 4,270.3 $ 2,424.0 $ 1,928.0 Net income attributable to Amphenol Corporation per common share — Basic $ 3.51 $ 2.01 $ 1.62 Weighted average common shares outstanding — Basic 1,218.2 1,203.8 1,193.0 Net income attributable to Amphenol Corporation per common share — Diluted $ 3.34 $ 1.92 $ 1.55 Weighted average common shares outstanding — Diluted 1,277.5 1,263.6 1,241.2 Dividends declared per common share $ 0.745 $ 0.55 $ 0.425
+[END TABLE 070]
+
+[TABLE 071]
+Year Ended December 31, 2025 2024 2023 Net income $ 4,305.3 $ 2,441.6 $ 1,945.5 Total other comprehensive income (loss), net of tax: Foreign currency translation adjustments 289.6 ( 201.1 ) ( 0.9 ) Unrealized loss on hedging activities ( 66.7 ) — — Pension and postretirement benefit plan adjustment 18.1 16.6 1.1 Total other comprehensive income (loss), net of tax 241.0 ( 184.5 ) 0.2 Total comprehensive income 4,546.3 2,257.1 1,945.7 Less: Comprehensive income attributable to noncontrolling interests ( 39.2 ) ( 15.8 ) ( 16.3 ) Comprehensive income attributable to Amphenol Corporation $ 4,507.1 $ 2,241.3 $ 1,929.4
+[END TABLE 071]
+
+[TABLE 072]
+December 31, 2025 2024 ASSETS Current Assets: Cash and cash equivalents $ 11,130.6 $ 3,317.0 Short-term investments 303.6 18.4 Total cash, cash equivalents and short-term investments 11,434.2 3,335.4 Accounts receivable, less allowance for doubtful accounts of $ 99.3 and $ 66.5 , respectively 4,717.1 3,287.9 Inventories 3,424.9 2,545.7 Prepaid expenses and other current assets 691.0 517.0 Total current assets 20,267.2 9,686.0 Property, plant and equipment, net 2,305.6 1,711.8 Goodwill 10,575.4 8,236.2 Other intangible assets, net 2,241.4 1,225.1 Other long-term assets 847.3 581.1 Total Assets $ 36,236.9 $ 21,440.2 LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY Current Liabilities: Accounts payable $ 2,661.9 $ 1,819.4 Accrued salaries, wages and employee benefits 767.7 529.8 Accrued income taxes 482.9 199.0 Accrued dividends 306.7 199.5 Other accrued expenses 1,646.4 934.4 Current portion of long-term debt 937.2 401.7 Total current liabilities 6,802.8 4,083.8 Long-term debt, less current portion 14,564.8 6,484.4 Accrued pension and postretirement benefit obligations 138.2 129.8 Deferred income taxes 432.9 376.7 Other long-term liabilities 788.5 509.4 Total Liabilities 22,727.2 11,584.1 Commitments and contingent liabilities (Note 14) Redeemable noncontrolling interests 9.3 8.7 Equity: Common stock Class A Common Stock, $ 0.001 par value; 5,000.0 shares authorized, 1,228.9 shares issued and 1,226.6 shares outstanding at December 31, 2025; 2,000.0 shares authorized, 1,212.9 shares issued and 1,209.3 shares outstanding at December 31, 2024 1.2 1.2 Additional paid-in capital 4,232.9 3,601.8 Retained earnings 9,854.3 7,105.0 Treasury stock, at cost; 2.4 shares and 3.6 shares as of December 31, 2025 and 2024, respectively ( 195.8 ) ( 199.7 ) Accumulated other comprehensive loss ( 479.5 ) ( 716.3 ) Total stockholders’ equity attributable to Amphenol Corporation 13,413.1 9,792.0 Noncontrolling interests 87.3 55.4 Total Equity 13,500.4 9,847.4 Total Liabilities, Redeemable Noncontrolling Interests and Equity $ 36,236.9 $ 21,440.2
+[END TABLE 072]
+
+[TABLE 073]
+Stockholders’ equity attributable to Amphenol Corporation Accumulated Redeemable Additional Other Non- Non- Common Stock Treasury Stock Paid-in Retained Comprehensive controlling Total controlling Shares Amount Shares Amount Capital Earnings Loss Interests (1) Equity Interests Balance as of January 1, 2023 1,192.0 $ 1.2 ( 2.4 ) $ ( 79.8 ) $ 2,649.8 $ 4,979.4 $ ( 535.0 ) $ 57.9 $ 7,073.5 $ 20.6 Net income 1,928.0 15.6 1,943.6 1.9 Other comprehensive income (loss) 1.4 ( 1.2 ) 0.2 — Acquisitions resulting in noncontrolling interests 1.0 1.0 8.2 Distributions to shareholders of noncontrolling interests ( 24.0 ) ( 24.0 ) Purchase of treasury stock ( 14.4 ) ( 585.1 ) ( 585.1 ) Retirement of treasury stock ( 10.9 ) — 10.9 435.8 ( 435.8 ) — Stock options exercised 20.2 — 2.4 86.3 351.8 ( 43.1 ) 395.0 Dividends declared ( $ 0.425 per common share) ( 507.4 ) ( 507.4 ) Stock-based compensation expense 99.0 99.0 Balance as of December 31, 2023 1,201.3 1.2 ( 3.5 ) ( 142.8 ) 3,100.6 5,921.1 ( 533.6 ) 49.3 8,395.8 30.7 Net income 2,424.0 16.0 2,440.0 1.6 Other comprehensive income (loss) ( 182.7 ) ( 1.3 ) ( 184.0 ) ( 0.5 ) Capital contributions from noncontrolling interests 1.5 1.5 Purchase of noncontrolling interest 0.2 ( 0.1 ) 0.1 ( 23.1 ) Distributions to shareholders of noncontrolling interests ( 10.0 ) ( 10.0 ) Purchase of treasury stock ( 11.1 ) ( 689.3 ) ( 689.3 ) Retirement of treasury stock ( 8.3 ) — 8.3 513.1 ( 513.1 ) — Stock options exercised 19.9 — 2.7 119.3 391.5 ( 64.1 ) 446.7 Dividends declared ( $ 0.55 per common share) ( 662.9 ) ( 662.9 ) Stock-based compensation expense 109.5 109.5 Balance as of December 31, 2024 1,212.9 1.2 ( 3.6 ) ( 199.7 ) 3,601.8 7,105.0 ( 716.3 ) 55.4 9,847.4 8.7 Net income 4,270.3 34.6 4,304.9 0.4 Other comprehensive income (loss) 236.8 3.1 239.9 1.1 Purchase of noncontrolling interest 0.7 0.7 ( 0.9 ) Distributions to shareholders of noncontrolling interests ( 5.8 ) ( 5.8 ) Purchase of treasury stock ( 7.4 ) ( 665.2 ) ( 665.2 ) Retirement of treasury stock ( 6.0 ) — 6.0 512.3 ( 512.3 ) — Stock options exercised 22.0 — 2.6 156.8 495.0 ( 99.4 ) 552.4 Dividends declared ( $ 0.745 per common share) ( 909.3 ) ( 909.3 ) Stock-based compensation expense 135.4 135.4 Balance as of December 31, 2025 1,228.9 $ 1.2 ( 2.4 ) $ ( 195.8 ) $ 4,232.9 $ 9,854.3 $ ( 479.5 ) $ 87.3 $ 13,500.4 $ 9.3
+[END TABLE 073]
+
+[TABLE 074]
+(1) Excludes redeemable noncontrolling interests.
+[END TABLE 074]
+
+[TABLE 075]
+Year Ended December 31, 2025 2024 2023 Cash from operating activities: Net income $ 4,305.3 $ 2,441.6 $ 1,945.5 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 922.4 572.5 406.4 Stock-based compensation expense 135.4 109.5 99.0 Deferred income tax benefit ( 65.6 ) ( 82.8 ) ( 58.8 ) Gain on bargain purchase acquisition — — ( 5.4 ) Net change in operating assets and liabilities, excluding effects of acquisitions: Accounts receivable, net ( 964.4 ) ( 586.8 ) 146.4 Inventories ( 487.4 ) ( 200.1 ) 71.4 Prepaid expenses and other current assets ( 150.7 ) ( 106.8 ) ( 34.1 ) Accounts payable 554.1 423.1 ( 34.6 ) Accrued income taxes 276.9 3.1 7.7 Other accrued liabilities 739.2 257.0 ( 7.0 ) Accrued pension and postretirement benefits 0.1 ( 2.4 ) ( 0.3 ) Other long-term assets and liabilities 109.4 ( 13.2 ) ( 7.5 ) Net cash provided by operating activities 5,374.7 2,814.7 2,528.7 Cash from investing activities: Capital expenditures ( 996.6 ) ( 665.4 ) ( 372.8 ) Proceeds from disposals of property, plant and equipment 14.8 7.8 4.0 Purchases of investments ( 309.3 ) ( 26.2 ) ( 305.7 ) Sales and maturities of investments 27.6 189.7 246.3 Acquisitions, net of cash acquired ( 3,818.6 ) ( 2,156.4 ) ( 970.4 ) Other, net — 1.9 4.9 Net cash used in investing activities ( 5,082.1 ) ( 2,648.6 ) ( 1,393.7 ) Cash from financing activities: Proceeds from issuance of senior notes and other long-term debt 8,921.7 2,991.3 354.9 Repayments of senior notes and other long-term debt ( 401.7 ) ( 364.4 ) ( 15.7 ) (Repayments) borrowings under commercial paper programs, net — — ( 632.6 ) Payment of costs related to debt financing ( 89.1 ) ( 28.4 ) ( 2.3 ) Payment of deferred purchase price related to acquisitions — — ( 1.5 ) Purchase of treasury stock ( 665.2 ) ( 689.3 ) ( 585.1 ) Proceeds from exercise of stock options 553.0 447.4 394.5 Distributions to and purchases of noncontrolling interests ( 5.8 ) ( 33.0 ) ( 24.0 ) Dividend payments ( 802.2 ) ( 595.1 ) ( 500.6 ) Treasury lock settlement ( 88.0 ) — — Other, net 0.5 1.4 — Net cash provided by (used in) financing activities 7,423.2 1,729.9 ( 1,012.4 ) Effect of exchange rate changes on cash and cash equivalents 97.8 ( 54.0 ) ( 20.7 ) Net increase in cash and cash equivalents 7,813.6 1,842.0 101.9 Cash and cash equivalents balance, beginning of year 3,317.0 1,475.0 1,373.1 Cash and cash equivalents balance, end of year $ 11,130.6 $ 3,317.0 $ 1,475.0 Cash paid during the year for: Interest $ 288.1 $ 179.5 $ 129.2 Income taxes, net 1,084.1 650.0 560.4
+[END TABLE 075]
+
+[TABLE 076]
+December 31, 2025 2024 Raw materials and supplies $ 1,413.0 $ 1,102.5 Work in process 960.3 703.5 Finished goods 1,051.6 739.7 $ 3,424.9 $ 2,545.7
+[END TABLE 076]
+
+[TABLE 077]
+December 31, 2025 2024 Land and improvements $ 72.5 $ 47.7 Buildings and improvements 702.4 543.0 Machinery and equipment 3,919.1 3,042.8 Office equipment and other 707.6 542.6 5,401.6 4,176.1 Accumulated depreciation ( 3,096.0 ) ( 2,464.3 ) $ 2,305.6 $ 1,711.8
+[END TABLE 077]
+
+[TABLE 078]
+December 31, 2025 December 31, 2024 Carrying Approximate Carrying Approximate Maturity Amount Fair Value (1) Amount Fair Value (1) Revolving Credit Facility March 2029 $ — $ — $ — $ — U.S. Commercial Paper Program (less unamortized discount of nil at December 31, 2025 and 2024) March 2029 — — — — Euro Commercial Paper Program March 2029 — — — — 2.050 % Senior Notes (less unamortized discount of nil at December 31, 2024) March 2025 — — 400.0 398.0 4.750 % Senior Notes (less unamortized discount of $ 0.1 and $ 0.5 at December 31, 2025 and 2024, respectively) March 2026 349.9 350.8 349.5 350.0 0.750 % Euro Senior Notes (less unamortized discount of $ 0.1 and $ 0.5 at December 31, 2025 and 2024, respectively) May 2026 586.5 584.2 518.6 505.8 5.050 % Senior Notes (plus unamortized premium of $ 1.2 and $ 2.2 at December 31, 2025 and 2024, respectively) April 2027 701.2 709.8 702.2 706.1 Floating Rate Senior Notes (less unamortized discount of nil at December 31, 2025) November 2027 500.0 501.0 — — 3.800 % Senior Notes (less unamortized discount of $ 0.5 at December 31, 2025) November 2027 749.5 749.5 — — 4.375 % Senior Notes (less unamortized discount of $ 0.5 at December 31, 2025) June 2028 749.5 757.5 — — 2.000 % Euro Senior Notes (less unamortized discount of $ 0.8 and $ 1.1 at December 31, 2025 and 2024, respectively) October 2028 585.8 578.2 518.2 505.9 3.900 % Senior Notes (less unamortized discount of $ 0.8 at December 31, 2025) November 2028 749.2 747.7 — — 5.050 % Senior Notes (less unamortized discount of $ 0.3 and $ 0.4 at December 31, 2025 and 2024, respectively) April 2029 449.7 463.0 449.6 452.4 4.350 % Senior Notes (less unamortized discount of $ 0.2 and $ 0.2 at December 31, 2025 and 2024, respectively) June 2029 499.8 502.4 499.8 489.1 2.800 % Senior Notes (less unamortized discount of $ 0.3 and $ 0.4 at December 31, 2025 and 2024, respectively) February 2030 899.7 853.9 899.6 814.1 4.125 % Senior Notes (less unamortized discount of $ 1.0 at December 31, 2025) November 2030 999.0 993.8 — — 2.200 % Senior Notes (less unamortized discount of $ 1.6 and $ 1.8 at December 31, 2025 and 2024, respectively) September 2031 748.4 669.4 748.2 624.9 3.125 % Euro Senior Notes (less unamortized discount of $ 4.9 at December 31, 2025) June 2032 699.1 697.2 — — 4.400 % Senior Notes (less unamortized discount of $ 1.5 at December 31, 2025) February 2033 1,248.5 1,236.4 — — 5.250 % Senior Notes (less unamortized discount of $ 0.5 and $ 0.6 at December 31, 2025 and 2024, respectively) April 2034 599.5 623.0 599.4 601.0 5.000 % Senior Notes (less unamortized discount of $ 3.3 and $ 3.7 at December 31, 2025 and 2024, respectively) January 2035 746.7 762.9 746.3 731.3 4.625 % Senior Notes (less unamortized discount of $ 1.7 at December 31, 2025) February 2036 1,598.3 1,569.1 — — 5.375 % Senior Notes (less unamortized discount of $ 7.5 and $ 7.8 at December 31, 2025 and 2024, respectively) November 2054 492.5 485.8 492.2 476.1 5.300 % Senior Notes (less unamortized discount of $ 2.7 at December 31, 2025) November 2055 1,647.3 1,575.4 — — Other debt 2026-2032 1.8 1.8 4.3 4.3 Less: unamortized deferred debt issuance costs ( 99.9 ) — ( 41.8 ) — Total debt 15,502.0 15,412.8 6,886.1 6,659.0 Less: current portion 937.2 935.8 401.7 399.7 Total long-term debt $ 14,564.8 $ 14,477.0 $ 6,484.4 $ 6,259.3
+[END TABLE 078]
+
+[TABLE 079]
+(1) The fair value of each series of the Company’s Senior Notes is based on recent bid prices in an active market and is therefore classified as Level 1 in the fair value hierarchy (Note 5).
+[END TABLE 079]
+
+[TABLE 080]
+2026 $ 937.2 2027 1,950.9 2028 2,084.6 2029 949.6 2030 1,898.7 Thereafter 7,780.9 $ 15,601.9
+[END TABLE 080]
+
+[TABLE 081]
+Fair Value Measurements Quoted Prices in Significant Significant Active Markets Observable Unobservable for Identical Inputs Inputs 2025 Total Assets (Level 1) (Level 2) (Level 3) Short-term investments $ 303.6 $ — $ 303.6 $ — Long-term investments 0.2 — 0.2 — Forward contracts 0.3 — 0.3 — Redeemable noncontrolling interests ( 9.3 ) — — ( 9.3 ) Total $ 294.8 $ — $ 304.1 $ ( 9.3 ) 2024 Short-term investments $ 18.4 $ — $ 18.4 $ — Long-term investments 0.3 — 0.3 — Forward contracts ( 1.1 ) — ( 1.1 ) — Redeemable noncontrolling interests ( 8.7 ) — — ( 8.7 ) Total $ 8.9 $ — $ 17.6 $ ( 8.7 )
+[END TABLE 081]
+
+[TABLE 082]
+Year Ended December 31, 2025 2024 2023 Income before income taxes: United States $ 996.2 $ 462.0 $ 521.9 Foreign 4,604.5 2,549.9 1,932.9 $ 5,600.7 $ 3,011.9 $ 2,454.8 Current tax provision (benefit): United States - Federal $ 179.4 $ 22.8 $ 45.8 United States - State, net 32.4 ( 3.8 ) 9.3 Foreign 1,149.2 634.1 513.0 1,361.0 653.1 568.1 Deferred tax provision (benefit): United States - Federal ( 152.3 ) ( 53.9 ) ( 4.6 ) United States - State, net ( 12.8 ) ( 2.3 ) ( 5.4 ) Foreign 99.5 ( 26.6 ) ( 48.8 ) ( 65.6 ) ( 82.8 ) ( 58.8 ) Total provision for income taxes $ 1,295.4 $ 570.3 $ 509.3
+[END TABLE 082]
+
+[TABLE 083]
+Year Ended Payments, net of refunds: December 31, 2025 United States, federal $ 134.3 United States, state and local 30.6 China 579.5 Canada 84.0 Other foreign jurisdictions 255.7 Cash paid for income taxes, net $ 1,084.1
+[END TABLE 083]
+
+[TABLE 084]
+Year Ended December 31, 2025 Amount Percent U.S. statutory federal tax rate $ 1,176.1 21.0 % State and local income taxes, net of federal income tax benefit (1) 17.6 0.3 Foreign tax effects China Federal statutory tax rate difference 4.0 0.1 Effect of cross-border tax laws 151.6 2.7 Other ( 43.7 ) ( 0.8 ) Other foreign jurisdictions 70.1 1.3 Effect of changes in tax laws or rates enacted in current period — — Effect of cross-border tax laws 45.5 0.8 Tax credits ( 19.3 ) ( 0.3 ) Changes in valuation allowances — — Nontaxable or nondeductible items Equity compensation ( 205.9 ) ( 3.7 ) Other nontaxable or nondeductible items 13.2 0.2 Changes in unrecognized tax benefits 96.9 1.7 Other, net ( 10.7 ) ( 0.2 ) Effective tax rate $ 1,295.4 23.1 %
+[END TABLE 084]
+
+[TABLE 085]
+(1) State taxes in Illinois and California accounted for greater than 50% of the tax effect in this category.
+[END TABLE 085]
+
+[TABLE 086]
+Year Ended December 31, 2024 2023 U.S. statutory federal tax rate 21.0 % 21.0 % State and local taxes, net 0.6 0.6 Foreign earnings and dividends taxed at different rates 1.9 2.2 U.S. tax on foreign income ( 0.1 ) — Excess tax benefits related to stock-based compensation ( 4.7 ) ( 3.4 ) Other, net 0.2 0.3 Effective tax rate 18.9 % 20.7 %
+[END TABLE 086]
+
+[TABLE 087]
+December 31, 2025 2024 Deferred tax assets relating to: Accrued liabilities and reserves $ 204.4 $ 115.7 Operating lease liabilities 121.5 86.2 Operating loss, interest, and tax credit carryforwards 143.9 114.8 Pensions 6.9 10.2 Inventories 138.4 112.0 Deferred revenue 63.8 — Employee benefits 56.4 49.5 Total deferred tax assets 735.3 488.4 Valuation allowances ( 87.6 ) ( 73.6 ) Total deferred tax assets, net of valuation allowances 647.7 414.8 Deferred tax liabilities relating to: Goodwill 343.1 307.2 Depreciation and amortization 168.3 144.1 Operating lease right-of-use assets 121.5 86.2 Unremitted foreign earnings 266.1 125.3 Total deferred tax liabilities 899.0 662.8 Net deferred tax liability $ 251.3 $ 248.0 Classification of deferred tax assets and liabilities, as reflected on the Consolidated Balance Sheets: Other long-term assets $ 181.6 $ 128.7 Deferred income taxes 432.9 376.7 Net deferred tax liability, long-term $ 251.3 $ 248.0
+[END TABLE 087]
+
+[TABLE 088]
+2025 2024 2023 Unrecognized tax benefits as of January 1 $ 176.8 $ 174.2 $ 164.1 Gross increases for tax positions in prior periods 84.4 15.2 3.8 Gross increases for tax positions in current period 27.0 21.1 8.4 Settlements — ( 6.1 ) ( 1.0 ) Lapse of statutes of limitations ( 8.6 ) ( 27.6 ) ( 1.1 ) Unrecognized tax benefits as of December 31 $ 279.6 $ 176.8 $ 174.2
+[END TABLE 088]
+
+[TABLE 089]
+Weighted Average Aggregate Weighted Remaining Intrinsic Average Contractual Value Options Exercise Price Term (in years) (in millions) Options outstanding at January 1, 2023 132,270,074 $ 22.78 6.03 Options granted 12,131,028 37.99 Options exercised ( 22,506,662 ) 17.55 Options forfeited ( 1,114,116 ) 29.16 Options outstanding at December 31, 2023 120,780,324 25.23 5.81 Options granted 8,075,819 65.67 Options exercised ( 22,523,753 ) 19.83 Options forfeited ( 628,199 ) 36.21 Options outstanding at December 31, 2024 105,704,191 29.40 5.53 Options granted 8,539,031 85.98 Options exercised ( 24,655,244 ) 22.41 Options forfeited ( 766,857 ) 47.92 Options outstanding at December 31, 2025 88,821,121 $ 36.62 5.43 $ 8,753.6 Vested and non-vested options expected to vest at December 31, 2025 86,782,652 $ 36.14 5.38 $ 8,591.3 Exercisable options at December 31, 2025 59,421,185 $ 26.75 4.27 $ 6,440.4
+[END TABLE 089]
+
+[TABLE 090]
+Weighted Average Fair Value Options at Grant Date Non-vested options at January 1, 2025 35,547,254 $ 10.66 Options granted 8,539,031 24.12 Options vested ( 13,897,292 ) 8.36 Options forfeited ( 762,057 ) 13.17 Non-vested options at December 31, 2025 29,426,936 $ 15.58
+[END TABLE 090]
+
+[TABLE 091]
+2025 2024 2023 Total intrinsic value of stock options exercised $ 1,813.5 $ 980.3 $ 559.6 Total fair value of stock options vested 116.1 99.7 90.0
+[END TABLE 091]
+
+[TABLE 092]
+2025 2024 2023 Risk free interest rate 4.1 % 4.4 % 3.8 % Expected life 4.9 years 4.9 years 4.9 years Expected volatility 27.1 % 28.0 % 28.0 % Expected dividend yield 1.0 % 1.0 % 1.0 %
+[END TABLE 092]
+
+[TABLE 093]
+Weighted Average Fair Value Remaining Restricted at Grant Amortization Shares Date Term (in years) Restricted shares outstanding at January 1, 2023 42,624 $ 33.80 0.37 Restricted shares granted — — Shares vested and issued ( 42,624 ) 33.80 Restricted shares outstanding at December 31, 2023 — — Restricted shares granted 21,840 65.96 Shares vested and issued — — Restricted shares outstanding at December 31, 2024 21,840 65.96 0.36 Restricted shares granted 16,520 86.88 Shares vested and issued ( 21,840 ) 65.96 Restricted shares outstanding at December 31, 2025 16,520 $ 86.88 0.37
+[END TABLE 093]
+
+[TABLE 094]
+2025 2024 2023 First Quarter $ 0.165 $ 0.11 $ 0.105 Second Quarter 0.165 0.11 0.105 Third Quarter 0.165 0.165 0.105 Fourth Quarter 0.25 0.165 0.11 Total $ 0.745 $ 0.55 $ 0.425
+[END TABLE 094]
+
+[TABLE 095]
+2025 2024 2023 Dividends declared $ 909.3 $ 662.9 $ 507.4 Dividends paid (including those declared in the prior year) 802.2 595.1 500.6
+[END TABLE 095]
+
+[TABLE 096]
+Foreign Unrealized Pension and Accumulated Currency Gain (Loss) Postretirement Other Translation on Hedging Benefit Plan Comprehensive Adjustments Activities Adjustment (Loss) Income Balance at January 1, 2023 $ ( 413.0 ) $ — $ ( 122.0 ) $ ( 535.0 ) Other comprehensive income (loss) before reclassifications, net of tax of nil , nil and $ 1.1 , respectively 0.3 — ( 2.0 ) ( 1.7 ) Amounts reclassified from Accumulated other comprehensive income (loss) to earnings, net of tax of ($ 1.0 ) — — 3.1 3.1 Balance at December 31, 2023 ( 412.7 ) — ( 120.9 ) ( 533.6 ) Other comprehensive income (loss) before reclassifications, net of tax of nil , nil and ($ 5.2 ), respectively ( 199.3 ) — 13.1 ( 186.2 ) Amounts reclassified from Accumulated other comprehensive income (loss) to earnings, net of tax of ($ 1.1 ) — — 3.5 3.5 Balance at December 31, 2024 ( 612.0 ) — ( 104.3 ) ( 716.3 ) Other comprehensive income (loss) before reclassifications, net of tax of nil , ($ 20.6 ) and ($ 4.5 ), respectively 285.4 ( 67.4 ) 14.6 232.6 Amounts reclassified from Accumulated other comprehensive income (loss) to earnings, net of tax of $ 0.2 and ($ 1.1 ), respectively — 0.7 3.5 4.2 Balance at December 31, 2025 $ ( 326.6 ) $ ( 66.7 ) $ ( 86.2 ) $ ( 479.5 )
+[END TABLE 096]
+
+[TABLE 097]
+(dollars and shares in millions, except per share data) 2025 2024 2023 Net income attributable to Amphenol Corporation stockholders $ 4,270.3 $ 2,424.0 $ 1,928.0 Weighted average common shares outstanding — Basic 1,218.2 1,203.8 1,193.0 Effect of dilutive stock options 59.3 59.8 48.2 Weighted average common shares outstanding — Diluted 1,277.5 1,263.6 1,241.2 Net income attributable to Amphenol Corporation per common share — Basic $ 3.51 $ 2.01 $ 1.62 Net income attributable to Amphenol Corporation per common share — Diluted $ 3.34 $ 1.92 $ 1.55
+[END TABLE 097]
+
+[TABLE 098]
+U.S. Plans Foreign Plans Total 2025 2024 2025 2024 2025 2024 Change in projected benefit obligation : Projected benefit obligation at beginning of year $ 341.4 $ 388.5 $ 154.0 $ 173.3 $ 495.4 $ 561.8 Service cost 1.8 2.2 1.3 1.5 3.1 3.7 Interest cost 17.0 17.8 6.4 6.3 23.4 24.1 Plan amendments 2.0 0.2 — — 2.0 0.2 Actuarial loss (gain) 3.6 ( 20.8 ) ( 13.2 ) ( 11.3 ) ( 9.6 ) ( 32.1 ) Foreign exchange translation and other — — 15.2 ( 8.8 ) 15.2 ( 8.8 ) Benefits paid ( 28.3 ) ( 46.5 ) ( 8.0 ) ( 7.0 ) ( 36.3 ) ( 53.5 ) Projected benefit obligation at end of year 337.5 341.4 155.7 154.0 493.2 495.4 Change in plan assets : Fair value of plan assets at beginning of year 359.1 395.6 85.4 86.0 444.5 481.6 Actual return on plan assets 32.8 8.9 4.7 6.8 37.5 15.7 Employer contributions 1.1 1.1 3.7 3.8 4.8 4.9 Foreign exchange translation and other — — 6.5 ( 4.2 ) 6.5 ( 4.2 ) Benefits paid ( 28.3 ) ( 46.5 ) ( 8.0 ) ( 7.0 ) ( 36.3 ) ( 53.5 ) Fair value of plan assets at end of year 364.7 359.1 92.3 85.4 457.0 444.5 Over (under) funded status at end of year $ 27.2 $ 17.7 $ ( 63.4 ) $ ( 68.6 ) $ ( 36.2 ) $ ( 50.9 ) Amounts recognized on the balance sheet as of December 31: Other long-term assets $ 40.5 $ 31.2 $ 7.6 $ 3.6 $ 48.1 $ 34.8 Other accrued expenses 1.2 1.2 3.1 2.7 4.3 3.9 Accrued pension and postretirement benefit obligations 12.1 12.3 67.9 69.5 80.0 81.8 Over (under) funded status at end of year $ 27.2 $ 17.7 $ ( 63.4 ) $ ( 68.6 ) $ ( 36.2 ) $ ( 50.9 ) Accumulated other comprehensive (loss) income, net $ ( 89.4 ) $ ( 96.8 ) $ 1.2 $ ( 9.6 ) $ ( 88.2 ) $ ( 106.4 ) Weighted average assumptions used to determine projected benefit obligations: Discount rate 5.28 % 5.53 % 4.60 % 4.13 % Rate of compensation increase 2.40 % 2.40 % 1.89 % 1.91 %
+[END TABLE 098]
+
+[TABLE 099]
+U.S. Plans Foreign Plans 2025 2024 2025 2024 Accumulated benefit obligation $ 22.0 $ 22.1 $ 88.0 $ 88.3 Fair value of plan assets 8.7 8.6 18.3 17.7
+[END TABLE 099]
+
+[TABLE 100]
+U.S. Plans Foreign Plans 2025 2024 2025 2024 Projected benefit obligation $ 22.0 $ 22.1 $ 89.3 $ 90.0 Fair value of plan assets 8.7 8.6 18.3 17.7
+[END TABLE 100]
+
+[TABLE 101]
+U.S. Plans Foreign Plans Total 2025 2024 2025 2024 2025 2024 Actuarial losses (gains), net $ 112.2 $ 122.7 $ ( 12.0 ) $ 1.4 $ 100.2 $ 124.1 Prior service cost 4.5 3.7 0.4 0.4 4.9 4.1
+[END TABLE 101]
+
+[TABLE 102]
+U.S. Plans Foreign Plans Total 2025 2024 2023 2025 2024 2023 2025 2024 2023 Components of net pension expense : Service cost $ 1.8 $ 2.2 $ 2.5 $ 1.3 $ 1.5 $ 1.3 $ 3.1 $ 3.7 $ 3.8 Interest cost 17.0 17.8 18.6 6.4 6.3 6.8 23.4 24.1 25.4 Expected return on plan assets ( 21.9 ) ( 24.1 ) ( 24.6 ) ( 4.6 ) ( 4.6 ) ( 4.5 ) ( 26.5 ) ( 28.7 ) ( 29.1 ) Amortization of prior service cost 1.2 1.3 1.7 — — 0.1 1.2 1.3 1.8 Amortization of actuarial losses 3.3 2.7 1.6 — 0.5 0.7 3.3 3.2 2.3 Net pension (income) expense $ 1.4 $ ( 0.1 ) $ ( 0.2 ) $ 3.1 $ 3.7 $ 4.4 $ 4.5 $ 3.6 $ 4.2 Weighted average assumptions used to determine net periodic benefit cost: Discount rate 5.53 % 4.97 % 5.18 % 4.13 % 3.72 % 4.20 % Expected long-term return on assets 5.50 % 5.50 % 5.50 % 5.39 % 5.45 % 5.45 % Rate of compensation increase 2.40 % 2.40 % 2.40 % 1.91 % 1.89 % 1.93 %
+[END TABLE 102]
+
+[TABLE 103]
+Assets Measured at Asset Category Total Level 1 Level 2 Level 3 Net Asset Value (1) December 31, 2025 Equity securities: U.S. equities — large cap $ 25.8 $ — $ 25.8 $ — $ — U.S. equities — small/mid cap and other 8.0 — 8.0 — — International equities — growth 11.2 11.2 — — — International equities — other 41.9 — 41.9 — — Alternative investment funds 0.6 — — — 0.6 Fixed income securities: U.S. fixed income securities — intermediate term 122.7 — 122.7 — — U.S. fixed income securities — long-term 180.2 — 180.2 — — International fixed income securities — other 43.2 — 43.2 — — Insurance contracts 18.3 — — 18.3 — Cash and cash equivalents 5.1 5.1 — — — Total $ 457.0 $ 16.3 $ 421.8 $ 18.3 $ 0.6 December 31, 2024 Equity securities: U.S. equities — large cap $ 26.8 $ — $ 26.8 $ — $ — U.S. equities — small/mid cap and other 7.2 — 7.2 — — International equities — growth 10.3 10.3 — — — International equities — other 40.9 — 40.9 — — Alternative investment funds 1.1 — — — 1.1 Fixed income securities: U.S. fixed income securities — intermediate term 131.1 — 131.1 — — U.S. fixed income securities — long-term 170.6 — 170.6 — — International fixed income securities — other 36.0 — 36.0 — — Insurance contracts 17.8 — — 17.8 — Cash and cash equivalents 2.7 2.7 — — — Total $ 444.5 $ 13.0 $ 412.6 $ 17.8 $ 1.1
+[END TABLE 103]
+
+[TABLE 104]
+2025 2024 Balance on January 1 $ 17.8 $ 19.5 Unrealized (losses) gains, net ( 0.5 ) 0.6 Purchases, sales and settlements, net ( 1.2 ) ( 1.1 ) Foreign currency translation 2.2 ( 1.2 ) Balance on December 31 $ 18.3 $ 17.8
+[END TABLE 104]
+
+[TABLE 105]
+U.S. Foreign Year Plans Plans Total 2026 $ 33.2 $ 8.2 $ 41.4 2027 28.0 8.6 36.6 2028 28.0 8.9 36.9 2029 27.8 9.2 37.0 2030 27.5 9.6 37.1 2031-2035 128.7 49.2 177.9
+[END TABLE 105]
+
+[TABLE 106]
+Year Ending December 31, 2026 $ 161.4 2027 128.5 2028 98.9 2029 72.6 2030 49.2 Thereafter 138.7 Total future minimum lease payments $ 649.3 Less imputed interest ( 83.6 ) Total present value of future minimum lease payments $ 565.7
+[END TABLE 106]
+
+[TABLE 107]
+2025 2024 Operating lease right-of-use assets (included in Other long-term assets) $ 559.0 $ 384.4 Other accrued expenses $ 141.1 $ 108.5 Other long-term liabilities 424.6 285.6 Total operating lease liabilities $ 565.7 $ 394.1
+[END TABLE 107]
+
+[TABLE 108]
+Year Ended December 31 : 2025 2024 2023 Supplemental Cash Flow Information: Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases $ 177.0 $ 141.0 $ 114.3 Right-of-use assets obtained in exchange for lease liabilities $ 321.6 $ 227.6 $ 115.2 As of December 31 : Weighted Average Remaining Lease Term 6 years 6 years 5 years Weighted Average Discount Rate 4.5 % 4.3 % 3.6 %
+[END TABLE 108]
+
+[TABLE 109]
+Harsh Interconnect Communications Environment and Sensor Solutions Solutions Systems Total Goodwill at December 31, 2023 $ 2,977.5 $ 2,009.3 $ 2,105.6 $ 7,092.4 Acquisition-related ( 4.5 ) 1,192.3 58.9 1,246.7 Foreign currency translation ( 21.5 ) ( 21.6 ) ( 59.8 ) ( 102.9 ) Goodwill at December 31, 2024 2,951.5 $ 3,180.0 2,104.7 8,236.2 Acquisition-related 872.4 1,052.6 236.6 2,161.6 Foreign currency translation 34.7 37.6 105.3 177.6 Goodwill at December 31, 2025 $ 3,858.6 $ 4,270.2 $ 2,446.6 $ 10,575.4
+[END TABLE 109]
+
+[TABLE 110]
+December 31, 2025 December 31, 2024 Weighted Gross Net Gross Net Average Carrying Accumulated Carrying Carrying Accumulated Carrying Life (years) Amount Amortization Amount Amount Amortization Amount Customer relationships 12 $ 1,841.2 $ 635.1 $ 1,206.1 $ 1,296.4 $ 519.8 $ 776.6 Proprietary technology 13 963.9 230.2 733.7 350.3 170.9 179.4 Backlog and other 1 216.4 183.9 32.5 154.1 154.1 — Total intangible assets (definite-lived) 12 3,021.5 1,049.2 1,972.3 1,800.8 844.8 956.0 Trade names (indefinite-lived) 269.1 269.1 269.1 269.1 Total $ 3,290.6 $ 1,049.2 $ 2,241.4 $ 2,069.9 $ 844.8 $ 1,225.1
+[END TABLE 110]
+
+[TABLE 111]
+Communications Solutions Harsh Environment Solutions Interconnect and Sensor Systems Total 2025 Total sales $ 12,160.6 $ 6,001.9 $ 5,216.1 $ 23,378.6 Less: Intersegment sales 104.6 120.2 59.1 283.9 External net sales 12,056.0 5,881.7 5,157.0 23,094.7 Less: Segment operating expenses (1) 8,309.4 4,340.3 4,151.9 16,801.6 Segment operating income $ 3,746.6 $ 1,541.4 $ 1,005.1 $ 6,293.1 2024 Total sales $ 6,375.6 $ 4,508.6 $ 4,510.6 $ 15,394.8 Less: Intersegment sales 51.8 91.2 29.1 172.1 External net sales 6,323.8 4,417.4 4,481.5 15,222.7 Less: Segment operating expenses (1) 4,754.2 3,324.2 3,655.6 11,734.0 Segment operating income $ 1,569.6 $ 1,093.2 $ 825.9 $ 3,488.7 2023 Total sales $ 4,963.0 $ 3,621.6 $ 4,129.3 $ 12,713.9 Less: Intersegment sales 50.2 90.8 18.2 159.2 External net sales 4,912.8 3,530.8 4,111.1 12,554.7 Less: Segment operating expenses (1) 3,849.3 2,586.9 3,357.4 9,793.6 Segment operating income $ 1,063.5 $ 943.9 $ 753.7 $ 2,761.1
+[END TABLE 111]
+
+[TABLE 112]
+(1) The aggregated amount is comprised of cost of sales, selling, general and administrative expenses, and other segment related expenses.
+[END TABLE 112]
+
+[TABLE 113]
+2025 2024 2023 Total segment operating income $ 6,293.1 $ 3,488.7 $ 2,761.1 Corporate / Other: Stock-based compensation expense ( 135.4 ) ( 109.5 ) ( 99.0 ) Amortization of acquisition-related inventory step-up costs ( 77.8 ) ( 18.2 ) — Acquisition-related expenses ( 103.4 ) ( 127.4 ) ( 34.6 ) Other operating expenses ( 107.9 ) ( 76.7 ) ( 67.9 ) Operating income 5,868.6 3,156.9 2,559.6 Interest expense ( 367.8 ) ( 217.0 ) ( 139.5 ) Gain on bargain purchase acquisition — — 5.4 Other income (expense), net 99.9 72.0 29.3 Income before income taxes $ 5,600.7 $ 3,011.9 $ 2,454.8
+[END TABLE 113]
+
+[TABLE 114]
+2025 2024 2023 Communications Solutions $ 486.9 $ 226.5 $ 177.0 Harsh Environment Solutions 166.5 126.7 91.0 Interconnect and Sensor Systems 150.0 136.6 131.1 Corporate / Other (1) 119.0 82.7 7.3 Total $ 922.4 $ 572.5 $ 406.4
+[END TABLE 114]
+
+[TABLE 115]
+(1) Amortization of acquired backlog associated with acquisitions for the years ended December 31, 2025 and 2024 is reported under “Corporate / Other”.
+[END TABLE 115]
+
+[TABLE 116]
+2025 2024 2023 Net sales United States $ 7,987.7 $ 5,272.3 $ 4,405.4 China 3,673.1 3,399.9 2,884.0 Other foreign locations 11,433.9 6,550.5 5,265.3 Total $ 23,094.7 $ 15,222.7 $ 12,554.7 Long-lived assets (1) United States $ 598.8 $ 576.4 $ 442.6 China 1,050.4 617.9 455.5 Other foreign locations 1,215.4 901.9 718.1 Total $ 2,864.6 $ 2,096.2 $ 1,616.2
+[END TABLE 116]
+
+[TABLE 117]
+(1) Long-lived assets included in this table are comprised of property, plant and equipment, net, and operating lease right-of-use assets for all years presented.
+[END TABLE 117]
+
+[TABLE 118]
+Net sales by sales channel : 2025 2024 2023 End customers and contract manufacturers : Communications Solutions $ 9,545.8 $ 4,960.9 $ 3,933.2 Harsh Environment Solutions 4,285.9 3,172.6 2,581.6 Interconnect and Sensor Systems 4,965.8 4,311.0 3,947.4 18,797.5 12,444.5 10,462.2 Distributors and resellers : Communications Solutions 2,510.2 1,362.9 979.6 Harsh Environment Solutions 1,595.8 1,244.8 949.2 Interconnect and Sensor Systems 191.2 170.5 163.7 4,297.2 2,778.2 2,092.5 Total Net sales $ 23,094.7 $ 15,222.7 $ 12,554.7
+[END TABLE 118]
+
+[TABLE 119]
+Net sales by geography : 2025 2024 2023 United States : Communications Solutions $ 3,215.6 $ 1,582.3 $ 1,395.8 Harsh Environment Solutions 3,211.0 2,384.7 1,790.5 Interconnect and Sensor Systems 1,561.1 1,305.3 1,219.1 7,987.7 5,272.3 4,405.4 China : Communications Solutions 2,205.2 2,011.6 1,669.4 Harsh Environment Solutions 508.5 402.3 351.2 Interconnect and Sensor Systems 959.4 986.0 863.4 3,673.1 3,399.9 2,884.0 Other foreign locations : Communications Solutions 6,635.2 2,729.9 1,847.6 Harsh Environment Solutions 2,162.2 1,630.4 1,389.1 Interconnect and Sensor Systems 2,636.5 2,190.2 2,028.6 11,433.9 6,550.5 5,265.3 Total Net sales $ 23,094.7 $ 15,222.7 $ 12,554.7
+[END TABLE 119]
+
+[TABLE 120]
+Equity Compensation Plan Information Number of Weighted Number of securities remaining securities to be issued average exercise available for future issuance upon exercise of price of outstanding under equity compensation outstanding options, options, warrants plans (excluding shares Plan category warrants and rights and rights reflected in column (a)) (a) (b) (c) Equity compensation plans approved by security holders 88,821,121 $ 36.62 47,388,446 Equity compensation plans not approved by security holders — — — Total 88,821,121 $ 36.62 47,388,446
+[END TABLE 120]
+
+[TABLE 121]
+Page Report of Independent Registered Public Accounting Firm (PCAOB ID No. 34 ) 53 Consolidated Statements of Income—Years Ended December 31, 2025, 2024 and 2023 55 Consolidated Statements of Comprehensive Income—Years Ended December 31, 2025, 2024 and 2023 56 Consolidated Balance Sheets—December 31, 2025 and 2024 57 Consolidated Statements of Changes in Equity—Years Ended December 31, 2025, 2024 and 2023 58 Consolidated Statements of Cash Flow—Years Ended December 31, 2025, 2024 and 2023 59 Notes to Consolidated Financial Statements 60 Management Report on Internal Control 101 (a)(2) Financial Statement Schedules for the Three Years Ended December 31, 2025 Schedule II—Valuation and Qualifying Accounts for the years ended December 31, 2025, 2024 and 2023 108
+[END TABLE 121]
+
+[TABLE 122]
+3.1 Restated Certificate of Incorporation of Amphenol Corporation, dated May 19, 2021 (filed as Exhibit 3.1 to the June 30, 2021 Form 10-Q).* 3.2 Certificate of Amendment to the Restated Certificate of Incorporation of Amphenol Corporation, dated May 16, 2024 (filed as Exhibit 3.1 to the Form 8-K filed on May 16, 2024).* 3.3 Certificate of Amendment to the Restated Certificate of Incorporation of Amphenol Corporation, dated May 15, 2025 (filed as Exhibit 3.1 to the Form 8-K filed on May 16, 2025).* 3.4 Amphenol Corporation, Fifth Amended and Restated By-laws dated August 3, 2023 (filed as Exhibit 3.1 to the Form 8-K filed on August 4, 2023).* 4.1 Indenture, dated as of November 5, 2009, between Amphenol Corporation and The Bank of New York Mellon, as trustee (filed as Exhibit 4.1 to the Form 8-K filed on November 5, 2009).* 4.2 Indenture, dated as of October 8, 2018, between Amphenol Technologies Holding GmbH, Amphenol Corporation and The Bank of New York Mellon, as trustee (filed as Exhibit 4.1 to the Form 8-K filed on October 9, 2018).* 4.3 Indenture, dated as of May 4, 2020, between Amphenol Technologies Holding GmbH, Amphenol Corporation and The Bank of New York Mellon, as trustee (filed as Exhibit 4.1 to the Form 8-K filed on May 5, 2020).* 4.4 Indenture, dated as of March 16, 2023, between Amphenol Corporation and U.S. Bank Trust Company, National Association, as trustee (filed as Exhibit 4.1 to the Company’s Registration Statement on Form S-3 filed on March 16, 2023).* 4.5 Officer’s Certificate, dated January 9, 2019, establishing the 4.350% Senior Notes due 2029 pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on January 10, 2019).* 4.6 Officer’s Certificate, dated September 10, 2019, establishing the 2.800% Senior Notes due 2030 pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on September 10, 2019).* 4.7 Officer’s Certificate, dated September 14, 2021, establishing the 2.200% Senior Notes due 2031 pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on September 14, 2021).* 4.8 Officer’s Certificate, dated March 30, 2023, establishing the 4.750% Senior Notes due 2026 pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on March 30, 2023).* 4.9 Officer’s Certificate, dated April 5, 2024, establishing the 5.050% Senior Notes due 2027, 5.050% Senior Notes due 2029, and 5.250% Senior Notes due 2034, pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on April 5, 2024).* 4.10 Officer’s Certificate, dated October 31, 2024, establishing the 5.000% Senior Notes due 2035 and 5.375% Senior Notes due 2054, pursuant to the Indenture (filed as Exhibit 4.3 to the Form 8-K filed on October 31, 2024).* 4.11 Officers’ Certificate, dated June 12, 2025, establishing the 4.375% Senior Notes due 2028, pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on June 12, 2025).* 4.12 Officers’ Certificate, dated June 16, 2025, establishing the 3.125% Senior Notes due 2032, pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on June 16, 2025).* 4.13 Officers’ Certificate, dated November 10, 2025, establishing the Floating Rate Senior Notes due 2027, 3.800% Senior Notes due 2027, 3.900% Senior Notes due 2028, 4.125% Senior Notes due 2030, 4.400% Senior Notes due 2033, 4.625% Senior Notes due 2036 and 5.300% Senior Notes due 2055, pursuant to the Indenture (filed as Exhibit 4.2 to the Form 8-K filed on November 10, 2025).* 4.14 Description of the Registrant’s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934.** 10.1 Amended and Restated 2017 Stock Purchase and Option Plan for Key Employees of Amphenol and Subsidiaries (filed as Annex A to the Company’s Definitive Proxy Statement on Schedule 14A for its 2021 Annual Meeting of Stockholders, filed on April 12, 2021). † * 10.2 Form of 2017 Stock Option Agreement (filed as Exhibit 10.1 to the Form 8-K filed on May 19, 2017). † * 10.3 2009 Stock Purchase and Option Plan for Key Employees of Amphenol and Subsidiaries (filed as Exhibit 10.7 to the June 30, 2009 Form 10-Q). † * 10.4 The First Amendment to the 2009 Stock Purchase and Option Plan for Key Employees of Amphenol and Subsidiaries (filed as Exhibit 10.2 to the Form 8-K filed on May 23, 2014). † * 10.5 Form of 2009 Non-Qualified Stock Option Grant Agreement dated as of May 20, 2009 (filed as Exhibit 10.8 to the June 30, 2009 Form 10-Q). † * 10.6 Form of 2009 Management Stockholders’ Agreement dated as of May 20, 2009 (filed as Exhibit 10.9 to the June 30, 2009 Form 10-Q). † * 10.7 Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016 (filed as Exhibit 10.6 to the December 31, 2016 Form 10-K). † *
+[END TABLE 122]
+
+[TABLE 123]
+10.8 First Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated November 10, 2016 (filed as Exhibit 10.7 to the December 31, 2016 Form 10-K). † * 10.9 Second Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated October 1, 2016 (filed as Exhibit 10.8 to the December 31, 2016 Form 10-K). † * 10.10 Third Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 13, 2016 (filed as Exhibit 10.9 to the December 31, 2016 Form 10-K). † * 10.11 Fourth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated May 2, 2017 (filed as Exhibit 10.12 to the June 30, 2017 Form 10-Q). † * 10.12 Fifth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated October 29, 2018 (filed as Exhibit 10.12 to the December 31, 2018 Form 10-K). † * 10.13 Sixth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated October 4, 2019 (filed as Exhibit 10.13 to the December 31, 2019 Form 10-K). † * 10.14 Seventh Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 2, 2019 (filed as Exhibit 10.14 to the December 31, 2019 Form 10-K). † * 10.15 Eighth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 9, 2021 (filed as Exhibit 10.15 to the December 31, 2021 Form 10-K). †* 10.16 Ninth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 1, 2022 (filed as Exhibit 10.16 to the December 31, 2022 Form 10-K).†* 10.17 Tenth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated August 28, 2023 (filed as Exhibit 10.17 to the September 30, 2023 Form 10-Q).†* 10.18 Eleventh Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 19, 2024 (filed as Exhibit 10.18 to the December 31, 2024 Form 10-K).†* 10.19 Twelfth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 19, 2024 (filed as Exhibit 10.19 to the December 31, 2024 Form 10-K).†* 10.20 Thirteenth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 22, 2025. †** 10.21 Fourteenth Amendment to Pension Plan for Employees of Amphenol Corporation, as amended and restated effective January 1, 2016, dated December 22, 2025. †** 10.22 Amended and Restated Amphenol Corporation Supplemental Employee Retirement Plan (filed as Exhibit 10.24 to the December 31, 2008 Form 10-K). † * 10.23 First Amendment to the Amended and Restated Amphenol Corporation Supplemental Employee Retirement Plan, dated October 29, 2018 (filed as Exhibit 10.14 to the December 31, 2018 Form 10-K). † * 10.24 The 2024 Restricted Stock Plan for Directors of Amphenol Corporation (filed as Annex A to the Company’s Definitive Proxy Statement on Schedule 14A for its 2024 Annual Meeting of Stockholders, filed on April 8, 2024).†* 10.25 2024 Restricted Stock Plan for Directors of Amphenol Corporation Restricted Share Award Agreement (filed as Exhibit A of Annex A to the Company’s Definitive Proxy Statement on Schedule 14A for its 2024 Annual Meeting of Stockholders, filed on April 8, 2024).†* 10.26 2026 Amphenol Corporation Management Incentive Plan.†** 10.27 Third Amended and Restated Credit Agreement, dated March 21, 2024, among the Company, certain subsidiaries of the Company, a syndicate of financial institutions and JPMorgan Chase Bank, N.A., acting as the administrative agent (filed as Exhibit 10.1 to the Form 8-K filed on March 22, 2024).* 10.28 The Amphenol Corporation Employee Savings/401(K) Plan Adoption Agreement as amended and restated effective April 5, 2022, dated April 18, 2022 (filed as Exhibit 10.23 to the June 30, 2022 Form 10-Q). †* 10.29 Amendment to The Amphenol Corporation Employee Savings/401(K) Plan Adoption Agreement, effective January 1, 2023, dated December 19, 2022 (filed as Exhibit 10.25 to the December 31, 2022 Form 10-K).†* 10.30 Amendment to The Amphenol Corporation Employee Savings/401(K) Plan Adoption Agreement, effective January 1, 2024, dated November 30, 2023 (filed as Exhibit 10.28 to the December 31, 2023 Form 10-K).†* 10.31 Amendment to The Amphenol Corporation Employee Savings/401(K) Plan Adoption Agreement, effective January 1, 2025, dated November 21, 2024 (filed as Exhibit 10.29 to the December 31, 2024 Form 10-K).†* 10.32 Amendment to The Amphenol Corporation Employee Savings/401(K) Plan Adoption Agreement, effective January 1, 2026, dated December 23, 2025.†** 10.33 Amended and Restated Amphenol Corporation Supplemental Defined Contribution Plan (filed as Exhibit 10.30 to the September 30, 2011 Form 10-Q). † * 10.34 Amphenol Corporation Supplemental Defined Contribution Plan as amended effective January 1, 2012 (filed as Exhibit 10.34 to the December 31, 2011 Form 10-K). † *
+[END TABLE 123]
+
+[TABLE 124]
+10.35 Amphenol Corporation Supplemental Defined Contribution Plan as amended effective January 1, 2019 (filed as Exhibit 10.28 to the December 31, 2018 Form 10-K). † * 10.36 Commercial Paper Program form of Dealer Agreement dated as of August 29, 2014 between the Company, Citibank Global Markets and JP Morgan Securities LLC (filed as Exhibit 10.1 to the Form 8-K filed on September 5, 2014).* 10.37 Commercial Paper Program Dealer Agreement dated as of July 10, 2018 between Amphenol Technologies Holding GmbH (as issuer), Amphenol Corporation (as guarantor), Barclays Bank PLC (as Arranger), and Barclays Bank PLC and Commerzbank Aktiengesellschaft (as Original Dealers) (filed as Exhibit 10.1 to the Form 8-K filed on July 11, 2018).* 10.38 Three-Year Term Loan Credit Agreement dated August 22, 2025, among the Company, certain subsidiaries of the Company, a syndicate of financial institutions and JPMorgan Chase Bank, N.A., acting as the administrative agent (filed as Exhibit 10.1 to the Form 8-K filed on August 25, 2025).* ˄ 10.39 364-Day Term Loan Credit Agreement dated August 22, 2025, among the Company, certain subsidiaries of the Company, a syndicate of financial institutions and JPMorgan Chase Bank, N.A., acting as the administrative agent (filed as Exhibit 10.2 to the Form 8-K filed on August 25, 2025).* ˄ 10.40 Form of Indemnification Agreement for Directors and Executive Officers (filed as Exhibit 10.27 to the December 31, 2016 Form 10-K). † * 19.1 Amphenol Corporation Insider Trading Compliance Policy (filed as Exhibit 19.1 to the December 31, 2024 Form 10-K).* 21.1 Subsidiaries of the Company.** 23.1 Consent of Deloitte & Touche LLP.** 31.1 Certification pursuant to Exchange Act Rules 13a-14 and 15d-14, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.** 31.2 Certification pursuant to Exchange Act Rules 13a-14 and 15d-14, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.** 32.1 Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*** 32.2 Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*** 97.1 Amphenol Corporation Policy for Recovery of Erroneously Awarded Compensation (filed as Exhibit 97.1 to the December 31, 2023 Form 10-K).* 101.INS Inline XBRL Instance Document – the Instance Document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.** 101.SCH Inline XBRL Taxonomy Extension Schema Document.** 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document.** 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document.** 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document.** 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document.** 104 Cover Page Interactive Data File – the cover page XBRL tags are embedded within the Inline XBRL document (included in Exhibit 101).**
+[END TABLE 124]
+
+[TABLE 125]
+Balance at Charged to Balance at beginning cost and Additions end of of period expenses (Deductions) period Allowance for doubtful accounts: Year ended December 31, 2025 $ 66.5 $ 35.4 $ ( 2.6 ) $ 99.3 Year ended December 31, 2024 68.4 2.6 ( 4.5 ) 66.5 Year ended December 31, 2023 63.9 13.4 ( 8.9 ) 68.4 Valuation allowance on deferred tax assets: Year ended December 31, 2025 $ 73.6 $ 2.6 $ 11.4 $ 87.6 Year ended December 31, 2024 46.6 10.8 16.2 73.6 Year ended December 31, 2023 42.2 3.4 1.0 46.6
+[END TABLE 125]
+
+[TABLE 126]
+AMPHENOL CORPORATION /s/ R. Adam Norwitt R. Adam Norwitt President and Chief Executive Officer
+[END TABLE 126]
+
+[TABLE 127]
+Signature Title Date /s/ R. Adam Norwitt President, Chief Executive Officer and Director February 11, 2026 R. Adam Norwitt (Principal Executive Officer) /s/ Craig A. Lampo Executive Vice President and Chief Financial Officer February 11, 2026 Craig A. Lampo (Principal Financial Officer) /s/ Michael R. Ivas Senior Vice President and Corporate Controller February 11, 2026 Michael R. Ivas (Principal Accounting Officer) /s/ Martin H. Loeffler Chairman of the Board of Directors February 11, 2026 Martin H. Loeffler /s/ David P. Falck Presiding Director February 11, 2026 David P. Falck /s/ Nancy A. Altobello Director February 11, 2026 Nancy A. Altobello /s/ Rita S. Lane Director February 11, 2026 Rita S. Lane /s/ Robert A. Livingston Director February 11, 2026 Robert A. Livingston /s/ Prahlad Singh Director February 11, 2026 Prahlad Singh /s/ Anne Clarke Wolff Director February 11, 2026 Anne Clarke Wolff
+[END TABLE 127]

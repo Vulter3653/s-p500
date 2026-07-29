@@ -43,3 +43,24 @@ eligible for exponential-backoff retry.
 
 HTML collection is complete. No HTML parsing, body-text extraction, NLP,
 language-variable measurement, or substantive analysis has been performed.
+
+## Analysis-ready text
+
+Following the general cleaning sequence in Cooper, Ewing, and Mishra (2022),
+modern SEC inline-XBRL HTML is parsed as visible text. Script, style, hidden
+content, XBRL metadata, navigation markup, comments, standalone page numbers,
+and repeated consecutive blocks are removed. Unicode and HTML entities are
+normalized without stemming, lemmatization, spelling correction, stopword
+removal, or case folding.
+
+Tables are excluded from the primary language-analysis text but retained in
+separate table-text files, with removal markers in the structure-preserved
+version. Paragraph, sentence, and major Item boundaries retain company, CIK,
+and accession lineage. Missing optional sections are recorded as
+`not_present`, not as extraction failures.
+
+Five companies were reviewed at document start, Items 1A/7/8, and document
+end. WFC showed likely material narrative loss from a table-based layout; D
+did not yield an Item 7 boundary; and ETR's detected Item 7 was a short
+cross-reference. These remain explicit warnings. Language variables and AI
+classification have not been calculated.

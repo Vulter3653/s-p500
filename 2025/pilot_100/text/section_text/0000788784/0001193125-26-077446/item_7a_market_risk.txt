@@ -1,0 +1,39 @@
+ITEM 7A. QUANTITATIVE AND Q UALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The risk inherent in our market-risk sensitive instruments and positions is the potential loss arising from adverse changes in commodity prices, equity security prices and interest rates as discussed in the Notes to Consolidated Financial Statements. It is our policy to use derivatives to manage risk consistent with business plans and prudent practices. We have a Risk Management Committee comprised of executive officers who utilize a risk oversight function to ensure compliance with our corporate policies and risk management practices.
+
+Additionally, we are exposed to counterparty credit losses in the event of non-performance or non-payment. We have a credit management process, which is used to assess, monitor and mitigate counterparty exposure. In the event of non-performance or non-payment by a major counterparty, there may be a material adverse impact on our financial condition, results of operations or net cash flows.
+
+Commodity Contracts
+
+The availability and price of energy-related commodities are subject to fluctuations from factors such as weather, environmental policies, changes in supply and demand, state and federal regulatory policies, market rules and other events. To reduce price risk caused by market fluctuations, we enter into supply contracts and derivative contracts, including forwards, futures, swaps, and options with approved counterparties. These contracts, in conjunction with physical sales and other services, help reduce risk and optimize the value of owned electric generation capacity.
+
+Value-at-Risk (VaR) Models
+
+VaR represents the potential losses, under normal market conditions, for instruments or portfolios due to changes in market factors, for a specified time period and confidence level. We estimate VaR across our commodity businesses.
+
+MTM VaR consists of MTM derivatives that are economic hedges. The calculation does not include market risks associated with activities that are subject to accrual accounting, primarily our generating facilities and some load-serving activities.
+
+The VaR models used are variance/covariance models adjusted for the change of positions with 95% and 99.5% confidence levels and a one-day holding period for the MTM activities. The models assume no new positions throughout the holding periods; however, we actively manage our portfolio.
+
+See Item 8. Note 15. Financial Risk Management Activities for a discussion of credit risk.
+
+Interest Rates
+
+PSEG, PSE&G and PSEG Power are subject to the risk of fluctuating interest rates in the normal course of business. Exposure to this risk is managed by targeting a balanced debt maturity profile which limits refinancing in any given period or interest rate environment. PSEG, PSE&G and PSEG Power may also use a mix of fixed and floating rate debt and interest rate hedges.
+
+As of December 31, 2025, a hypothetical 10% increase in market interest rates would result in an additional $1 million in pre-tax annual interest costs related to either the current or the long-term portion of long-term debt, and term loan agreements.
+
+Debt and Equity Securities
+
+As of December 31, 2025, we had $4.8 billion of net assets in trust for our pension and OPEB plans. Although fluctuations in market prices of securities within this portfolio do not directly affect our earnings in the current period, changes in the value of these investments could affect
+
+our future contributions to these plans,
+
+our financial position if our accumulated benefit obligation under our pension plans exceeds the fair value of the pension trust funds, and
+
+future earnings, as we could be required to adjust pension expense and the assumed rate of return.
+
+The NDT Fund is comprised primarily of fixed income and equity securities. As of December 31, 2025, the portfolio included $1.5 billion of equity securities inclusive of $0.3 billion of investments in listed real assets, and $1.4 billion in fixed income securities. The fair market value of the assets in the NDT Fund will fluctuate primarily depending upon the performance of equity markets. As of December 31, 2025, a hypothetical 10% change in the equity market would impact the value of the equity securities in the NDT Fund by approximately $155 million.
+
+We use duration to measure the interest rate sensitivity of the fixed income portfolio. Duration is a summary statistic of the effective average maturity of the fixed income portfolio. The benchmark for the fixed income component of the NDT Fund currently has a duration of 5.98 years and a yield of 4.32%. The portfolio’s value will appreciate or depreciate by the duration with a 1% change in interest rates. As of December 31, 2025, a hypothetical 1% increase in interest rates would result in a decline in the market value for the fixed income portfolio of approximately $81 million.

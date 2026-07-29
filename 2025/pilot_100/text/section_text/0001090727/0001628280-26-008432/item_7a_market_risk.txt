@@ -1,0 +1,39 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+We are exposed to market risk from changes in certain commodity prices, foreign currency exchange rates, interest rates and equity prices. All of these market risks arise in the normal course of business, as we do not engage in speculative trading activities. In order to manage the risk arising from these exposures, we may utilize a variety of commodity, foreign currency exchange rate and interest rate forward contracts, options and swaps. A discussion of our accounting policy for derivative instruments is provided in note 1 to the audited, consolidated financial statements.
+
+Commodity Price Risk
+
+We are exposed to changes in the prices of refined fuels, principally jet-A, diesel and unleaded gasoline, as well as changes in the price of natural gas and other alternative fuels. Currently, the fuel surcharges that we apply to our domestic and international package services are the primary means of reducing the risk of adverse fuel price changes. In order to mitigate the impact of fuel surcharges imposed on us by outside carriers, we regularly adjust the rates we charge for our freight brokerage services. The majority of our fuel purchases utilize index-based pricing formulas plus or minus a fixed locational/supplier differential. While many of the indices are correlated, each index may respond differently to changes in underlying prices, which in turn can drive variability in our costs. Because of this, our operating results may be affected should the market price of fuel suddenly change by a significant amount or change by amounts that do not result in an adjustment in our fuel surcharges, which can significantly affect our results either positively or negatively in the short-term. As of December 31, 2025 and 2024, we had no commodity contracts outstanding.
+
+Foreign Currency Exchange Rate Risk
+
+We have foreign currency exchange risks related to our revenue, operating expenses and financing transactions in currencies other than the local currencies in which we operate. We are exposed to currency risk from the potential changes in functional currency values of our foreign currency-denominated assets, liabilities and cash flows. Our most significant foreign currency exchange exposures relate to the Euro, British Pound Sterling, Canadian Dollar, Chinese Renminbi and Hong Kong Dollar. We may use forward contracts as well as a combination of purchased and written options to hedge forecasted cash flow currency exposures. These derivative instruments generally cover forecasted foreign currency exchange exposures for periods of 3 to 36 months. We may also utilize forward contracts to hedge portions of our anticipated cash settlements of intercompany transactions and interest payments on certain debt subject to foreign currency remeasurement.
+
+Interest Rate Risk
+
+We have issued debt instruments and have debt associated with finance leases that accrue expense at fixed and floating rates of interest. We may use interest rate swaps as part of our program to manage the fixed and floating interest rate mix of our total debt portfolio and related overall cost of borrowing. We may also utilize forward starting swaps and similar instruments to lock in all or a portion of the borrowing cost of anticipated debt issuances. These instruments subject us to risk resulting from changes in short-term interest rates.
+
+We are also subject to interest rate risk with respect to our defined benefit pension and postretirement medical benefit plans, as changes in interest rates will effectively increase or decrease the associated plan obligations and assets. This will result in changes to the amount of pension and postretirement benefit expense recognized in future periods and may also result in us being required to make contributions to the plans.
+
+We may hold investments in debt securities, as well as cash-equivalent instruments, some of which accrue income at variable rates of interest.
+
+Sensitivity Analysis
+
+The following analysis provides quantitative information regarding our exposure to foreign currency exchange rate risk, and interest rate risk embedded in our existing financial instruments. We utilize valuation models to evaluate the sensitivity of the fair value of financial instruments with exposure to market risk that assume instantaneous, parallel shifts in exchange rates, interest rate yield curves and commodity prices. For options and instruments with non-linear returns, models appropriate to the instrument are utilized to determine the impact of market shifts.
+
+There are certain limitations inherent in the sensitivity analyses presented, primarily due to the assumption that foreign currency exchange rates change in a parallel fashion and that interest rates change instantaneously. In addition, the analyses are
+
+UNITED PARCEL SERVICE, INC. AND SUBSIDIARIES
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+unable to reflect the complex market reactions that normally would arise from the market shifts modeled. While this is our best estimate of the impact of the specified scenarios, these estimates should not be viewed as forecasts. We adjust the fixed and floating interest rate mix of our interest-rate-sensitive assets and liabilities in response to changes in market conditions. Additionally, changes in the fair value of foreign currency derivatives and commodity derivatives are offset by changes in the cash flows of the underlying hedged foreign currency and commodity transactions. The following table shows the shock-test results as of December 31, 2025 and 2024 (in millions):
+
+(1) The potential change in fair value from a hypothetical 10% weakening of the U.S. Dollar against foreign currency exchange rates across all maturities.
+
+(2) The potential change in annual interest expense resulting from a hypothetical 100 basis point increase in short-term interest rates, applied to our variable-rate debt.
+
+The sensitivity of our defined benefit pension and postretirement benefit plan obligations to changes in interest rates is discussed in "Critical Accounting Estimates - Pension and Other Postretirement Medical Benefits".

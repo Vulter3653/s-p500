@@ -1,0 +1,149 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(Mark One)
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED December 31 , 2025
+
+OR
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE TRANSITION PERIOD FROM TO
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark whether each registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+Indicate by check mark if each of the registrants is not required to file reports pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. ☐ Yes ☒ No
+
+Indicate by check mark whether each of the registrants (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrants were required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. ☒ Yes ☐ No
+
+(Cover continued on next page)
+
+(Cover continued from previous page)
+
+Indicate by check mark whether the registrants have submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrants were required to submit such files). ☒ Yes ☐ No
+
+Indicate by check mark whether each registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If any of the registrants is an emerging growth company, indicate by check mark if such registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether each of the registrants has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 726(b)) by the registered public accounting firm that prepared and issued its audit report.
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrants included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrants’ executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether any of the registrants is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+☐ Yes ☒ No
+
+The aggregate market value of the Common Stock of Public Service Enterprise Group Incorporated held by non-affiliates as of June 30, 2025 was $ 41,911,658,020 based upon the New York Stock Exchange Composite Transaction closing price.
+
+The number of shares outstanding of Public Service Enterprise Group Incorporated’s sole class of Common Stock as of February 20, 2026 was 498,739,910 .
+
+As of February 20, 2026, Public Service Electric and Gas Company had issued and outstanding 132,450,344 shares of Common Stock, without nominal or par value, all of which were held, beneficially and of record, by Public Service Enterprise Group Incorporated.
+
+Public Service Electric and Gas Company is a wholly owned subsidiary of Public Service Enterprise Group Incorporated and meets the conditions set forth in General Instruction I(1)(a) and (b) of Form 10-K. Public Service Electric and Gas Company is filing its Annual Report on Form 10-K with the reduced disclosure format authorized by General Instruction I.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+TABLE OF C ONTENTS
+
+i
+
+TABLE OF CONTENTS (continued)
+
+ii
+
+FORWARD-LOOKI NG STATEMENTS
+
+Certain of the matters discussed in this report about our and our subsidiaries’ future performance, including, without limitation, future revenues, earnings, strategies, prospects, consequences and all other statements that are not purely historical constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are subject to risks and uncertainties, which could cause actual results to differ materially from those anticipated. Such statements are based on management’s beliefs as well as assumptions made by and information currently available to management. When used herein, the words “anticipate,” “intend,” “estimate,” “believe,” “expect,” “plan,” “should,” “hypothetical,” “potential,” “forecast,” “project,” variations of such words and similar expressions are intended to identify forward-looking statements. Factors that may cause actual results to differ are often presented with the forward-looking statements themselves. Other factors that could cause actual results to differ materially from those contemplated in any forward-looking statements made by us herein are discussed in Item 1A. Risk Factors, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A), Item 8. Financial Statements and Supplementary Data—Note 12. Commitments and Contingent Liabilities, and other filings we make with the United States Securities and Exchange Commission (SEC), including our subsequent reports on Form 10-Q and Form 8-K. These factors include, but are not limited to:
+
+any inability to successfully develop, obtain regulatory approval for, or construct transmission and distribution, and our nuclear generation projects;
+
+significant resource adequacy challenges that present affordability and reliability concerns and that could cause policymakers to implement responsive measures that could have a material, adverse impact on our business, strategy, growth rates, cash flows, results of operation, and financial condition and increase regulatory uncertainty for utility investment initiatives and programs;
+
+the physical, financial and transition risks related to climate change, including risks relating to potentially increased legislative and regulatory burdens, changing customer preferences and lawsuits;
+
+any equipment failures, gas explosions, accidents, critical operating technology or business system failures, natural disasters, severe weather events, acts of war, terrorism or other acts of violence, sabotage, physical attacks or security breaches, cyberattacks or other incidents that may impact our ability to provide safe and reliable service to our customers;
+
+any inability to recover the carrying amount of our long-lived assets;
+
+disruptions or cost increases in our supply chain, including labor shortages;
+
+any inability to maintain sufficient liquidity or access sufficient capital on commercially reasonable terms;
+
+the impact of cybersecurity attacks or intrusions or other disruptions to our information technology, operational or other systems;
+
+failure to attract and retain a qualified workforce;
+
+increases in the costs of equipment, materials, fuel, services and labor;
+
+the impact of our covenants in our debt instruments and credit agreements on our business;
+
+adverse performance of our defined benefit plan trust funds and Nuclear Decommissioning Trust Fund and increases in funding requirements;
+
+any inability to enter into or extend certain significant contracts;
+
+development, adoption and use of Artificial Intelligence by us and our third-party vendors;
+
+fluctuations in, or third-party default risk in wholesale power and natural gas markets, including the potential impacts on the economic viability of our generation units;
+
+our ability to obtain adequate nuclear fuel supply;
+
+iii
+
+changes in technology related to energy generation, distribution and consumption and changes in customer usage patterns;
+
+third-party credit risk relating to our sale of nuclear generation output and purchase of nuclear fuel;
+
+any inability to meet our commitments under forward sale obligations and Regional Transmission Organization rules;
+
+risks associated with generation activities at, and operation of, the Peach Bottom plants, which are similar to those to which nuclear generation plants that we operate are subject;
+
+the impact of changes in state and federal legislation and regulations on our business, including PSE&G’s ability to recover costs and earn returns on authorized investments;
+
+PSE&G’s proposed investment projects or programs may not be fully approved by regulators and its capital investment may be lower than planned;
+
+our ability to receive sufficient financial support for our New Jersey nuclear plants from the markets, and/or production tax credits;
+
+adverse changes in and non-compliance with energy industry laws, policies, regulations and standards, including market structures and transmission planning and transmission returns;
+
+risks associated with our ownership and operation of nuclear facilities, including increased nuclear fuel storage costs, regulatory risks, such as compliance with the Atomic Energy Act and trade control, environmental and other regulations, as well as operational, financial, environmental and health and safety risks;
+
+changes in or violation of federal, state and local environmental laws and regulations and enforcement;
+
+delays in receipt of, or an inability to receive, necessary licenses and permits and siting approvals; and
+
+changes in tax laws and regulations.
+
+All of the forward-looking statements made in this report are qualified by these cautionary statements and we cannot assure you that the results or developments anticipated by management will be realized or even if realized, will have the expected consequences to, or effects on, us or our business, prospects, financial condition, results of operations or cash flows. Readers are cautioned not to place undue reliance on these forward-looking statements in making any investment decision. Forward-looking statements made in this report apply only as of the date of this report. While we may elect to update forward-looking statements from time to time, we specifically disclaim any obligation to do so, even in light of new information or future events, unless otherwise required by applicable securities laws.
+
+The forward-looking statements contained in this report are intended to qualify for the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+
+From time to time, PSEG and PSE&G release important information via postings on their corporate Investor Relations website at https://investor.pseg.com. Investors and other interested parties are encouraged to visit the Investor Relations website to review new postings. You can sign up for automatic email alerts regarding new postings at the bottom of the webpage at https://investor.pseg.com or by navigating to the Email Alerts webpage at https://investor.pseg.com/resources/email-alerts/default.aspx. The information on https://investor.pseg.com and https://investor.pseg.com/resources/email-alerts/default.aspx is not incorporated herein and is not part of this Form 10-K.
+
+iv
+
+FILING F ORMAT
+
+This combined Annual Report on Form 10-K is separately filed by Public Service Enterprise Group Incorporated (PSEG) and Public Service Electric and Gas Company (PSE&G). Information relating to any individual company is filed by such company on its own behalf. PSE&G is only responsible for information about itself and its subsidiaries.
+
+Discussions throughout the document refer to PSEG and its direct operating subsidiaries. Depending on the context of each section, references to “we,” “us,” and “our” relate to PSEG or to the specific company or companies being discussed.
+
+WHERE TO FIND MORE INFORMATION
+
+We file annual, quarterly and current reports, proxy statements and other information with the SEC. You may obtain our filed documents from commercial document retrieval services, the SEC’s internet website at www.sec.gov or our website at https://investor.pseg.com. Information on our website should not be deemed incorporated into or as a part of this report. Our Common Stock is listed on the New York Stock Exchange under the trading symbol PEG. You can obtain information about us at the offices of the New York Stock Exchange, Inc., 11 Wall Street, New York, New York 10005.
+
+PA RT I

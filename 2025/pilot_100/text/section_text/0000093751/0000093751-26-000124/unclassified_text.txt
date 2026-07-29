@@ -1,0 +1,163 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+Form 10-K
+
+For the fiscal year ended December 31 , 2025
+
+OR
+
+For the transition period from to
+
+Commission File No. 001-07511
+
+STATE STREET CORPORATION
+
+(Exact name of Registrant as Specified in its Charter)
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ̈
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to § 240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). ☐ Yes ☒ No
+
+The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the per share price ($106.34) at which the common equity was last sold as of the last business day of the registrant’s most recently completed second fiscal quarter (June 30, 2025) was approximately $ 30.31 billion.
+
+The number of shares of the registrant’s common stock outstanding as of January 30, 2026 was 278,728,211 .
+
+Portions of the following documents are incorporated by reference into Parts of this Report on Form 10-K, to the extent noted in such Parts, as indicated below:
+
+(1) The registrant’s definitive Proxy Statement for the 2026 Annual Meeting of Shareholders to be filed pursuant to Regulation 14A on or before April 30, 2026 (Part III).
+
+STATE STREET CORPORATION
+
+ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDED
+
+December 31, 2025
+
+State Street Corporation | 2
+
+State Street Corporation | 3
+
+Forward-Looking Statements
+
+This Form 10-K, as well as other reports and proxy materials submitted by us under the Securities Exchange Act of 1934, registration statements filed by us under the Securities Act of 1933, our annual report to shareholders and other public statements we may make, may contain statements (including statements in our Management’s Discussion and Analysis included in such reports, as applicable) that are considered “forward-looking statements” within the meaning of U.S. securities laws, including statements about our goals and expectations regarding our business, financial and capital condition, results of operations, strategies, cost savings and transformation initiatives, investment portfolio performance, dividend and stock purchase programs, acquisitions, outcomes of legal proceedings, market growth, joint ventures and divestitures, client growth, new technologies, services and opportunities, sustainability and impact, human capital and climate, as well as industry, governmental, regulatory, economic and market trends, initiatives and developments, the business environment and other matters that do not relate strictly to historical facts.
+
+Terminology such as “expect,” “outlook,” “will,” “goal,” “target,” “strategy” “may,” “estimate,” “plan,” “intend,” “objective,” “forecast,” “believe,” “priority,” “anticipate,” “seek,” and “trend,” or similar statements or variations of such terms, are intended to identify forward-looking statements, although not all forward-looking statements contain such terms.
+
+Forward-looking statements are subject to various risks and uncertainties, which change over time, are based on management’s expectations and assumptions at the time the statements are made and are not guarantees of future results. Management’s expectations and assumptions, and the continued validity of the forward-looking statements, are subject to change due to a broad range of factors affecting the U.S. and global economies, regulatory environment and the equity, debt, currency and other financial markets, as well as factors specific to State Street and its subsidiaries, including State Street Bank. Factors that could cause changes in the expectations or assumptions on which forward-looking statements are based cannot be foreseen with certainty and include the factors described under the headings “Risk Factors Summary” and “Risk Factors” and elsewhere in this Form 10-K, including under “Management’s Discussion and Analysis.”
+
+Actual outcomes and results may differ materially from what is expressed in our forward-looking statements and from our historical financial results due to the factors discussed in this section and elsewhere in this Form 10-K or disclosed in our other SEC filings. Forward-looking statements in this Form 10-K should not be relied on as representing our expectations or assumptions as of any time
+
+subsequent to the time this Form 10-K is filed with the SEC. We undertake no obligation to revise our forward-looking statements after the time they are made. The factors discussed herein are not intended to be a complete statement of all risks and uncertainties that may affect our businesses. We cannot anticipate all developments that may adversely affect our business or operations or our consolidated results of operations, financial condition or cash flows.
+
+Forward-looking statements should not be viewed as predictions and should not be the primary basis on which investors evaluate State Street. Any investor in State Street should consider all risks and uncertainties disclosed in our SEC filings, including our filings under the Securities Exchange Act of 1934, in particular our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K, or registration statements filed under the Securities Act of 1933, all of which are accessible on the SEC’s website at www.sec.gov or on the “Filings & reports” tab of our website at investors.statestreet.com .
+
+Risk Factors Summary
+
+The following is a summary of material risks we are exposed to in the course of our business activities and which could have an adverse effect on our business or consolidated results of operations or financial condition. It does not contain all of the information that may be important to you and should be read together with the more detailed discussion of risks under the heading “Risk Factors,” as well as elsewhere in this Form 10-K under the heading “Management’s Discussion and Analysis.”
+
+Strategic Risks
+
+• We are subject to intense competition, which could negatively affect our profitability;
+
+• We are subject to significant pricing pressure and variability in our financial results and our AUC/A and AUM;
+
+• Our development and completion of new products and services, including State Street Alpha ® and those related to wealth servicing, alternative investment management or digital assets or incorporating artificial intelligence, may impose costs on us, involve dependencies on third parties and may expose us to increased risks;
+
+• Acquisitions, strategic alliances, joint ventures and divestitures, and the integration, retention and development of the benefits of these transactions, pose risks for our business; and
+
+State Street Corporation | 4
+
+• Competition for qualified members of our workforce is intense, and we may not be able to attract and retain the highly skilled people we need to support our business.
+
+Financial Market Risks
+
+• We could be adversely affected by political, geopolitical, economic and market conditions including, for example, as a result of liquidity or capital deficiencies (actual or perceived) by other financial institutions and related market and government actions, changes in U.S. trade or other policies or those policies of other nations, the ongoing conflicts in Ukraine and in the Middle East, major political shifts domestically or internationally, (including the potential for retaliatory actions by governments, market participants or clients based on diverging perspectives or otherwise and, separately, the recent shutdown of the U.S. federal government), actions taken by central banks in an attempt to address prevailing economic conditions, changes in monetary policy or periods of significant volatility in the markets for equity, fixed income and other asset classes globally or within specific markets;
+
+• Our investment securities portfolio, consolidated financial condition and consolidated results of operations could be adversely affected by changes in the financial markets, governmental action or monetary policy. For example, among other risks, changes in prevailing interest rates or market conditions have led, and were they to persist or occur in the future could further lead, to decreases in our NII or to portfolio management decisions resulting in reductions in our capital or liquidity ratios;
+
+• Our business activities expose us to interest rate risk;
+
+• We assume significant credit risk of counterparties, who may also have substantial financial dependencies on other financial institutions, and these credit exposures and concentrations could expose us to financial loss;
+
+• Our fee revenue represents a significant portion of our revenue and is subject to and may decline based on, among other factors, market and currency declines, investment activities and preferences of our clients and their business mix, as well as the timing of new business onboarding;
+
+• If we are unable to effectively manage our capital and liquidity, our financial condition, capital ratios, results of operations and business prospects could be adversely affected;
+
+• Our return of capital to shareholders through common share repurchases and common stock dividends may be variable and is subject to various business and financial factors and regulatory requirements and approvals of our Board of Directors;
+
+• We may need to raise additional capital or debt in the future, which may not be available to us or may only be available on unfavorable terms;
+
+• Our calculations of risk exposures, total RWA and capital ratios depend on data inputs, formulae, models, correlations and assumptions that are subject to change, which could materially impact our risk exposures, our total RWA and our capital ratios from period to period; and
+
+• If we experience a downgrade in our credit ratings, or an actual or perceived reduction in our financial strength, our borrowing and capital costs, liquidity and reputation could be adversely affected.
+
+Compliance and Regulatory Risks
+
+• Our business and capital-related activities, including common share repurchases, may be adversely affected by regulatory requirements and considerations, including capital, credit and liquidity;
+
+• We face extensive and changing government regulation and supervision in the U.S. and non-U.S. jurisdictions in which we operate, which may increase our costs and compliance risks and may affect our business activities and strategies;
+
+• Our businesses may be adversely affected by government enforcement and litigation;
+
+• Our businesses may be adversely affected by increased and conflicting political, regulatory and client scrutiny of investment management, stewardship and sustainable investment strategies and services offered;
+
+• Any misappropriation of the confidential information we possess could have an adverse impact on our business and could subject us to regulatory actions, litigation and other adverse effects;
+
+• Changes in accounting standards may adversely affect our consolidated results of operations and financial condition;
+
+• Changes in tax laws, rules or regulations, challenges to our tax positions and changes in the composition of our pre-tax earnings may increase our effective tax rate;
+
+• We could face liabilities for withholding and other non-income taxes, including in
+
+State Street Corporation | 5
+
+connection with our services to clients, as a result of tax authority examinations; and
+
+• Our businesses may be negatively affected by adverse publicity or other reputational harm.
+
+Operational, Cyber and Technology Risks
+
+• Attacks or unauthorized access to our or our business partners’ or clients’ information technology systems or facilities, such as cyber-attacks or other disruptions to our or their operations, could result in significant costs, reputational damage and impacts on our business activities;
+
+• Our business may be negatively affected by risks associated with strategic initiatives we are undertaking to enhance the effectiveness, including the adoption or integration of new technologies such as artificial intelligence, and efficiency of our operations and of our cybersecurity and technology infrastructure or by our failure to meet the related, resiliency or other expectations of our clients and regulators, or as a result of a cyber-attack or similar vulnerability in our or business partners' infrastructure;
+
+• Our risk management framework, models and processes may not be effective in identifying or mitigating risk and reducing the potential for related losses, and a failure or circumvention of our controls and procedures, or errors or delays in our operational and transaction processing, or those of third parties, could have an adverse effect on our business, financial condition, operating results and reputation;
+
+• Shifting and maintaining operational activities to non-U.S. jurisdictions, changing our operating model, and outsourcing to, or insourcing from, third parties expose us to increased operational risk, geopolitical risk and reputational harm and may not result in expected cost savings or operational improvements;
+
+• Long-term contracts and customizing service delivery for clients expose us to increased operational risk, pricing and performance risk;
+
+• The quantitative models we use to manage our business may contain errors that could adversely impact our business, financial condition, operating results and regulatory compliance, and lapses in disclosure controls and procedures or internal control over financial reporting could occur, any of which could result in material harm;
+
+• We may not be able to protect our intellectual property or may infringe upon the rights of third parties;
+
+• Our reputation and business prospects may be damaged if investors in the collective investment pools we sponsor or manage incur substantial losses in these investment pools or are restricted in redeeming their interests in these investment pools;
+
+• The impacts of global regulatory requirements and expectations, shifting client preferences, and disclosure requirements related to climate risks and sustainability standards could adversely affect us; and
+
+• We may incur losses or face negative impacts on our business as a result of unforeseen events, including terrorist attacks, geopolitical events, acute or chronic physical risk events, including natural disasters, pandemics, global conflicts, or a banking crisis, which may have a negative impact on our business and operations.
+
+PART I

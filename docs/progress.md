@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 2025 파일럿 분석용 텍스트 생성
+
+- 추출: SEC 원본 HTML 100개의 SHA를 재검증하고 Cooper et al. (2022)을 참고한 inline XBRL parser로 언어 분석용 본문, 원문 구조 보존 텍스트, 표 텍스트 및 주요 Item 파일을 생성했다. (codex)
+- 규모: 분석 단어 6,172,973개, 문단 141,796행, 문장 298,250행이며 100개 기업 연결과 모든 출력 SHA가 일치한다. (codex)
+- 품질: 빈 본문·HTML 태그·script/style·XBRL namespace·깨진 문자·3회 실패는 0이다. 핵심 section 경계 warning은 41개 기업에 보존했다. (codex)
+- 수동검토: 크기·단어 수 극단값과 고정 seed 표본 5개를 검토해 NVR·CPRT는 pass, WFC·D·ETR은 layout 또는 Item 7 경계 warning으로 기록했다. (codex)
+- 재실행: parser `1.0.3` 산출물의 SHA 일치 재실행에서 100개 모두 skip했다. (codex)
+- 범위: AI 여부, AI 문장, 구체성, 시제, 불확실성, 수동태, Fog, 감성 및 통제변수는 계산하지 않았다. 다음 단계는 3-5개 기업 언어 변수 smoke test다. (codex)
+
 ## 2026-07-29 - 2025 파일럿 SEC 10-K HTML 수집 완료
 
 - 수집: 유일한 입력 `final_analysis_sample_100.csv`의 100개 accession과 primary document를 SEC Archives에서 최대 초당 1회로 다운로드했다. (codex)

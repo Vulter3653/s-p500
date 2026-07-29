@@ -1,0 +1,241 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read in conjunction with the consolidated financial statements and related notes included elsewhere in this report. Refer to Part II, Item 7 in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 (filed with the SEC on February 5, 2025) for additional discussion of our financial condition and results of operations for the year ended December 31, 2023, as well as our financial condition and results of operations for the year ended December 31, 2024 compared to the year ended December 31, 2023.
+
+Overview
+
+Regeneron Pharmaceuticals, Inc. is a fully integrated biotechnology company that invents, develops, manufactures, and commercializes medicines for people with serious diseases. Our research and development efforts have led to numerous products that have received marketing approval and approximately 45 product candidates currently in clinical development (including a number of marketed products for which we are investigating additional indications), most of which were homegrown in our laboratories.
+
+Our ability to generate profits and to generate positive cash flow from operations over the next several years depends significantly on the success in commercializing our products, including EYLEA HD and Dupixent. We expect to continue to incur substantial expenses related to our research and development activities, and our research and development activities and related costs which are not reimbursed by collaborators are expected to expand and require additional resources. We also expect to incur substantial costs related to the commercialization of our marketed products. Our financial results may fluctuate from quarter to quarter and will depend on, among other factors, the net sales of our products; the scope and progress of our research and development efforts; the timing of certain expenses; the continuation of our collaborations, in particular with Sanofi and Bayer, including our share of collaboration profits from sales of commercialized products and the amount of reimbursement of our research and development expenses that we receive from collaborators; and the amount of income tax expense we incur, which is partly dependent on the profits or losses we earn in each of the countries in which we operate. There is uncertainty surrounding whether or when new products or new indications for marketed products will receive regulatory approval or, if any such approval is received, whether we will be able to successfully commercialize such products and whether or when they may become profitable.
+
+Critical Accounting Estimates
+
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America ("GAAP") requires management to make estimates and assumptions that affect reported amounts and related disclosures in the financial statements. Critical accounting estimates are those estimates made in accordance with GAAP that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our results of operations or financial condition.
+
+Management believes the current assumptions used to estimate amounts reflected in our Consolidated Financial Statements are appropriate. However, if actual experience differs from the assumptions used in estimating amounts reflected in our Consolidated Financial Statements, the resulting changes could have a material adverse effect on our results of operations, and, in certain situations, could have a material adverse effect on our liquidity and financial condition. The critical accounting estimates that impact our Consolidated Financial Statements are described below.
+
+Product Revenue
+
+We recognize revenue from product sales at a point in time when our customer is deemed to have obtained control of the product, which generally occurs upon receipt or acceptance by our customer. The amount of revenue we recognize from product sales may vary due to rebates, chargebacks, and discounts provided under governmental and other programs, distribution-related fees, and other sales-related deductions. In order to determine the transaction price, we estimate, utilizing the expected value method, the amount of variable consideration to which we will be entitled. This estimate is based upon contracts with customers, healthcare providers, payors and government agencies, statutorily-defined discounts applicable to government-funded programs, historical experience, estimated payor mix, and other relevant factors. Calculating these provisions involves estimates and judgments. We review our estimates of rebates, chargebacks, and other applicable provisions each period and record any necessary adjustments in the current period's net product sales. Refer to the "Results of Operations - Revenues - Net Product Sales" section below for further details regarding our provisions, and credits/payments, for sales-related deductions.
+
+Collaborative Arrangements
+
+We have entered into various collaborative arrangements to research, develop, manufacture, and commercialize products and/or product candidates. Our collaboration agreements may require us to deliver various rights, services, and/or goods across the entire
+
+life cycle of a product or product candidate. In agreements involving multiple goods or services promised to be transferred to our collaborator, we assess, at the inception of the contract, whether each promise represents a separate obligation (i.e., is "distinct"), or whether such promises should be combined as a single unit of account.
+
+If our collaborator performs research and development work or commercialization-related activities and the parties share the related costs, we also recognize, as expense (e.g., research and development expense or selling, general and administrative expense, as applicable) in the period when our collaborator incurs such expenses, the portion of the collaborator's expenses that we are obligated to reimburse. Our collaborators provide us with estimated expenses for the most recent fiscal quarter. The estimates are revised, if necessary, in subsequent periods if actual expenses differ from those estimates.
+
+Under certain of the Company's collaboration agreements, product sales and cost of sales may be recorded by the Company's collaborators as they are deemed to be the principal in the transaction. In arrangements where we:
+
+• supply commercial product to our collaborator, we may be reimbursed for our manufacturing costs as commercial product is shipped to the collaborator (however, recognition of such cost reimbursements may be deferred until the product is sold by our collaborator to third-party customers);
+
+• share in any profits or losses arising from the commercialization of such products, we record our share of the variable consideration, representing net product sales less cost of goods sold and shared commercialization and other expenses, in the period in which such underlying sales occur and costs are incurred by the collaborator; and
+
+• receive royalties and/or sales-based milestone payments from our collaborator, we recognize such amounts in the period earned.
+
+Our collaborators provide us with estimates of product sales and our share of profits or losses, as applicable, for each quarter. The estimates are revised, if necessary, in subsequent periods if our actual share of profits or losses differ from those estimates.
+
+Stock-based Compensation
+
+We recognize stock-based compensation expense for equity grants under our long-term incentive plans to employees and non-employee members of our board of directors based on the grant-date fair value of those awards. The grant-date fair value of an award is generally recognized as compensation expense over the award's requisite service period. Stock-based compensation expense also includes an estimate, which is made at the time of grant, of the number of awards that are expected to be forfeited. The forfeiture rate estimate is calculated by considering both historical forfeiture experience and an estimate of expected future forfeitures for currently outstanding unvested awards. This estimate is reviewed at least annually and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates. The assumptions used in computing the fair value of equity awards reflect our best estimates but involve uncertainties related to market and other conditions, many of which are outside our control. Changes in any of these assumptions may materially affect the fair value of awards granted and the amount of stock-based compensation recognized in future periods.
+
+We use the Black-Scholes model to compute the estimated fair value of stock option awards. Using this model, fair value is calculated based on assumptions with respect to (i) expected volatility of our Common Stock price, (ii) the periods of time over which employees and members of our board of directors are expected to hold their options prior to exercise (expected lives), (iii) expected dividend yield on our Common Stock, which is based on our historical practice and expectation of future dividend payments, and (iv) risk-free interest rates, which are based on quoted U.S. Treasury rates for securities with maturities approximating the options' expected lives. Expected volatility is estimated based on actual movements in our stock price over the most recent historical periods equivalent to the options' expected lives. Expected lives are principally based on our historical exercise experience with previously issued employee and board of director option grants.
+
+We use a Monte Carlo simulation to compute the estimated fair value of performance-based restricted stock units that are subject to vesting based on the Company's attainment of pre-established criteria that include a market condition.
+
+For performance-based restricted stock units that contain a performance condition, we recognize stock-based compensation expense if and when we determine that it is probable the performance condition will be achieved (based on the number of shares expected to be vested and issued). We reassess the probability of achievement at each reporting period and adjust compensation cost, as necessary. If there are any changes in our probability assessment, we recognize a cumulative catch-up adjustment in the period of the change in estimate, with the remaining unrecognized expense recognized prospectively over the remaining requisite service period. If we subsequently determine that the performance criteria are not met or are not expected to be met, any amounts previously recognized as compensation expense are reversed in the period when such determination is made.
+
+See Note 13 to our Consolidated Financial Statements for stock-based compensation expense and related assumptions used in determining the fair value of our awards.
+
+Income Taxes
+
+We recognize deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the financial statements or tax returns, including deferred tax assets and liabilities for expected amounts of Net CFC Tested Income (“NCTI”) (formerly known as global intangible low-taxed income ("GILTI")) inclusions. Deferred tax assets and liabilities are determined as the difference between the tax basis of assets and liabilities and their respective financial reporting amounts ("temporary differences") at enacted tax rates in effect for the years in which the differences are expected to reverse. A valuation allowance is established for deferred tax assets for which it is more likely than not that some portion or all of the deferred tax assets will not be realized. We periodically re-assess the need for a valuation allowance against our deferred tax assets based on all available evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies, results of recent operations, and our historical earnings experience by taxing jurisdiction. Significant judgment is required in making this assessment.
+
+We recognize the financial statement effects of a tax position when our assessment is that there is more than a 50% probability that the position will be sustained upon examination by a taxing authority based upon its technical merits. Uncertain tax positions are recorded based upon certain recognition and measurement criteria. Significant judgment is required in making this assessment, and, therefore, we re-evaluate uncertain tax positions and consider various factors, including, but not limited to, changes in tax law, the measurement of tax positions taken or expected to be taken in tax returns, the effective settlement of matters subject to audit, information obtained during in-process audit activities, and changes in facts or circumstances related to a tax position. We adjust the amount of the liability to reflect any subsequent changes in the relevant facts and circumstances surrounding the uncertain tax positions.
+
+Inventories
+
+We capitalize inventory costs associated with our products prior to regulatory approval when, based on management's judgment, future commercialization is considered probable and future economic benefit is expected to be realized; otherwise, such costs are expensed. The determination to capitalize inventory costs is based on various factors, including status and expectations of the regulatory approval process, any known safety or efficacy concerns, potential labeling restrictions, and any other impediments to obtaining regulatory approval.
+
+We periodically analyze our inventory levels to identify inventory that may expire prior to expected sale or has a cost basis in excess of its estimated realizable value. In addition, our products are subject to strict quality control and monitoring which we perform throughout the manufacturing process. If certain batches or units of product no longer meet quality specifications or become obsolete due to expiration, we record a charge to write down such inventory to its estimated realizable value.
+
+Acquisitions
+
+We make certain judgments to determine whether a transaction should be accounted for as a business combination or as an asset acquisition.
+
+In a business combination, the acquisition method of accounting generally requires that the assets acquired and liabilities assumed be recorded as of the date of the acquisition at their respective fair values. There can be significant judgment involved in determining the estimated fair values of such assets and liabilities. Amounts allocated to acquired in-process research and development are capitalized as indefinite-lived intangible assets. Any excess of the purchase price (consideration transferred) over the fair values of net assets acquired is recorded as goodwill. Contingent consideration obligations are recorded at fair value as of the acquisition date and remeasured each subsequent reporting period until the contingencies have been resolved. The fair value of contingent consideration liabilities is determined using inputs that may include the probability of achieving certain milestones and estimated discount rates.
+
+If it is determined that the assets acquired do not meet the definition of a business, or if substantially all of the fair value of the assets acquired are concentrated in a single identifiable asset, then the transaction is accounted for as an asset acquisition rather than a business combination. In an asset acquisition, assets acquired are recorded at cost, goodwill is not recorded, and acquired in-process research and development with no alternative future use is charged to expense.
+
+Intangible Assets
+
+Intangible assets acquired in a business combination are recorded at fair value, while intangible assets acquired in connection with an asset acquisition are recorded at cost.
+
+Payments to acquire intangible assets in an asset acquisition may include up-front payments and contingent consideration. With regard to contingent consideration in an asset acquisition, the Company recognizes regulatory milestones upon achievement, royalties in the period in which the underlying sales occur, and sales-based milestones when the milestone is deemed probable by
+
+the Company of being achieved. If contingent consideration is recognized subsequent to the acquisition date in an asset acquisition, the amount of such consideration is recorded as an addition to the cost basis of the intangible asset with a cumulative catch-up adjustment for amortization expense as if the additional amount of consideration had been accrued from the outset of the acquisition.
+
+Indefinite-lived intangible assets are subject to impairment testing until completion or abandonment of the associated research and development efforts. Definite-lived intangible assets are amortized over the estimated useful lives of the assets based on the pattern in which the economic benefits of the intangible assets are consumed; if that pattern cannot be reliably determined, a straight-line basis is used.
+
+Intangible assets are reviewed for recoverability whenever events or changes in circumstances (e.g., changes in economic, regulatory, or legal conditions) indicate that the carrying amount of the asset may not be recoverable. If an indicator of impairment exists, we compare the projected undiscounted cash flows to be generated by the asset to the intangible asset's carrying amount. If the projected undiscounted cash flows of the intangible asset are less than the carrying amount, the intangible asset is written down to its fair value in the period in which the impairment occurs.
+
+Contingencies
+
+We accrue, based on management's judgment, for an estimated loss when the potential loss from claims or legal proceedings is considered probable and the amount can be reasonably estimated. As additional information becomes available, or, based on specific events such as the outcome of litigation or settlement of claims, we reassess the potential liability related to pending claims and litigation, and may change our estimates.
+
+Results of Operations
+
+Net Income
+
+Revenues
+
+Net Product Sales
+
+Net product sales of EYLEA HD increased in 2025 compared to 2024, due to higher sales volumes, partly offset by a lower net selling price. EYLEA HD was approved by the FDA in August 2023.
+
+Net product sales of EYLEA decreased in 2025 compared to 2024, due to (i) lower sales volumes as a result of continued competitive pressures (as described below), loss in market share to compounded bevacizumab due to patient affordability constraints, and the continued transition of patients to EYLEA HD, and (ii) a lower net selling price.
+
+EYLEA net product sales have been, and are likely to continue to be, negatively impacted by increased competition from other anti-VEGF products, including biosimilars, as well as the transition of patients from EYLEA to EYLEA HD. The magnitude and duration of such impact is presently unknown. For more information, see Part I, Item 1A. "Risk Factors - Risks Related to Commercialization of Our Marketed Products, Product Candidates, and New Indications for Our Marketed Products - We are substantially dependent on the success of EYLEA HD, EYLEA, and Dupixent" and "The commercial success of our products and product candidates is subject to significant competition - Marketed Products." In addition, if independent not-for-profit patient assistance funds that provide copay assistance are unable to support eligible patients, this will likely have a continued negative impact on patient affordability resulting in lower utilization of higher-cost anti-VEGF agents.
+
+Revenue from product sales is recorded net of applicable provisions for rebates, chargebacks, and discounts; distribution-related fees; and other sales-related deductions. The following table summarizes the provisions, and credits/payments, for sales-related deductions:
+
+Sanofi Collaboration Revenue
+
+Global net product sales of Dupixent and Kevzara are recorded by Sanofi, and we and Sanofi share profits on such sales.
+
+Regeneron's share of profits in connection with the commercialization of Dupixent and Kevzara is summarized below:
+
+The increase in our share of profits during the year ended December 31, 2025, compared to 2024, was driven by higher profits primarily associated with an increase in Dupixent sales.
+
+Bayer Collaboration Revenue
+
+Bayer records net product sales of EYLEA 8 mg and EYLEA outside the United States, and we and Bayer share profits on such sales.
+
+Regeneron's share of profits in connection with commercialization of EYLEA 8 mg and EYLEA outside the United States is summarized below:
+
+The decrease in our share of profits for the year ended December 31, 2025, compared to the same period in 2024, was primarily driven by lower profits associated with a decrease in EYLEA sales outside the United States.
+
+Roche Collaboration Revenue
+
+Under the terms of the Roche collaboration, Roche distributed and recorded net product sales of Ronapreve TM outside the United States, and the parties shared gross profits from sales based on a pre-specified formula. In 2023, total Roche collaboration revenue was $211.0 million. Net product sales of Ronapreve outside the United States declined as a result of new variants of the SARS-CoV-2 virus emerging that are not susceptible to the treatment.
+
+Other Revenue
+
+Operating Expenses
+
+Operating expenses in 2025 and 2024 included stock-based compensation expense of $993.7 million and $982.8 million, respectively. As of December 31, 2025, unrecognized stock-based compensation expense related to unvested stock options and unvested restricted stock was $385.8 million and $1.493 billion, respectively. We expect to recognize this stock-based compensation expense related to stock options and restricted stock over weighted-average periods of 1.7 years and 2.3 years, respectively.
+
+Research and Development Expenses
+
+The following table summarizes our direct research and development expenses by clinical development program and other significant categories of research and development expenses. Direct research and development expenses are comprised primarily of costs paid to third parties for clinical and product development activities, including costs related to preclinical research activities, clinical trials, and the portion of research and development expenses incurred by our collaborators that we are obligated to reimburse. Indirect research and development expenses have not been allocated directly to each program, and primarily consist of costs to compensate personnel, overhead and infrastructure costs to maintain our facilities, and other costs related to activities that benefit multiple projects. Clinical manufacturing costs primarily consist of costs to manufacture bulk drug product for clinical development purposes as well as related drug filling, packaging, and labeling costs. Clinical manufacturing costs also include pre-launch commercial supplies which did not meet the criteria to be capitalized as inventory (see "Critical Accounting Estimates - Inventories" above). The table below also includes reimbursements of research and development expenses by collaborators, as when we are entitled to reimbursement of all or a portion of such expenses that we incur under a collaboration, we record those reimbursable amounts in the period in which such costs are incurred.
+
+Research and development expenses included stock-based compensation expense of $545.4 million and $543.8 million in 2025 and 2024, respectively. Research and development expenses in 2025 included $155.0 million related to an FDA Rare Pediatric Disease Priority Review Voucher ("PRV"). During the fourth quarter of 2025, we made the decision to utilize the PRV for a regulatory submission; this PRV was purchased by us, and capitalized as an intangible asset, in the second quarter of 2025.
+
+There are numerous uncertainties associated with drug development, including uncertainties related to safety and efficacy data from each phase of drug development, uncertainties related to the enrollment and performance of clinical trials, changes in regulatory requirements, changes in the competitive landscape affecting a product candidate, and other risks and uncertainties described in Part I, Item 1A. "Risk Factors." There is also variability in the duration and costs necessary to develop a product candidate, potential opportunities and/or uncertainties related to future indications to be studied, and the estimated cost and scope of the projects. The lengthy process of seeking FDA and other applicable approvals, and subsequent compliance with applicable statutes and regulations, require the expenditure of substantial resources. Any failure by us to obtain, or delay in obtaining, regulatory approvals could materially adversely affect our business. We are unable to reasonably estimate if our product candidates in clinical development will generate material product revenues and net cash inflows.
+
+Acquired In-Process Research and Development ("IPR&D") Expenses
+
+Acquired IPR&D expenses in 2025 included an $80.0 million up-front payment in connection with our license agreement with Hansoh Pharmaceuticals Group Company Limited.
+
+Acquired IPR&D expenses in 2024 included a $45.0 million development milestone in connection with our collaboration agreement with Sonoma Biotherapeutics, Inc.
+
+Selling, General, and Administrative Expenses
+
+Selling, general, and administrative expenses decreased in 2025, compared to 2024, primarily due to lower charitable contributions to Good Days, an independent non-profit patient assistance organization with a Retinal Vascular and Neovascular Disease Fund (the "Fund"). In July 2025, we launched a matching program for donations made to the Fund and committed to quarterly matching donations through the end of 2025. During the fourth quarter of 2025, we recognized approximately $60 million in connection with matching donations made to the Fund. We have also recently committed to matching donations for up to a total of $200 million during 2026.
+
+Selling, general, and administrative expenses included stock-based compensation expense of $362.9 million and $355.0 million in 2025 and 2024, respectively.
+
+Cost of Goods Sold
+
+Gross margin on net product sales decreased in 2025, compared to 2024, partly due to ongoing investments to support our manufacturing operations and higher inventory write-offs and reserves. In addition, gross margin on net product sales decreased due to higher amortization expense associated with our Libtayo intangible asset as each quarter we record additions to the intangible asset related to royalties due to Sanofi.
+
+Other Operating (Income) Expense
+
+Other operating (income) expense, net, in 2024 reflected a charge of $53.4 million related to the increase in the estimated fair value of the contingent consideration liability recognized in connection with our 2023 acquisition of Decibel Therapeutics, Inc.
+
+Other Income (Expense)
+
+Income Taxes
+
+On July 4, 2025, bill H.R. 1, commonly referred to as the "One Big Beautiful Bill Act" or "OBBBA," was signed into law, with certain provisions effective in 2025 and other provisions becoming effective in 2026. The OBBBA significantly revises U.S. corporate income tax laws by, among other things, restoring the option for immediate expense recognition for U.S.-based research and development expenditures and making permanent the ability to claim first-year bonus depreciation on qualified property. The OBBBA also modifies U.S. taxation on foreign earnings by, among other things, changing the tax rates for global intangible low-taxed income (now known as Net CFC Tested Income) and foreign-derived intangible income (now known as foreign-derived deduction eligible income), modifying the allocation of expenses in calculating foreign tax credits, as well as changing foreign tax credit limitations. As a result of the OBBBA being signed into law, we recognized a charge of $44.5 million in the third quarter of 2025 related to the re-measurement of our U.S. net deferred tax assets.
+
+Our effective tax rate for 2025 was positively impacted, compared to the U.S. federal statutory rate, primarily by income earned in foreign jurisdictions with tax rates lower than the U.S. federal statutory rate and federal tax credits for research activities, partially offset by the impact of the OBBBA being signed into law. In addition, our effective tax rate for 2025 was positively impacted by the release of liabilities for uncertain tax positions recognized upon the effective settlement of the IRS audit of our 2017 and 2018 federal income tax returns.
+
+Our effective tax rate for 2025, compared to 2024, included a lower benefit from stock-based compensation.
+
+Our effective tax rate for 2024 was positively impacted, compared to the U.S. federal statutory rate, primarily by stock-based compensation, income earned in foreign jurisdictions with tax rates lower than the U.S. federal statutory rate, and federal tax credits for research activities.
+
+Liquidity and Capital Resources
+
+Our financial condition is summarized as follows:
+
+As of December 31, 2025, we also had borrowing availability of $750.0 million under a revolving credit facility (see further description under " Credit Facility " below).
+
+Sources and Uses of Cash
+
+Cash Flows from Operating Activities
+
+In 2025, Other, net included a $155.0 million charge in connection with a fourth quarter 2025 decision to utilize a PRV for a regulatory submission; such amount was previously capitalized as an intangible asset as described in the " Cash Flows from Investing Activities " section below.
+
+Cash Flows from Investing Activities
+
+Capital expenditures in 2025 primarily included costs incurred in connection with the expansion of our research, preclinical manufacturing, and support facilities at our Tarrytown, New York corporate headquarters, as well as costs associated with the expansion of our manufacturing facilities. We expect to incur capital expenditures of $1.100 billion to $1.300 billion in 2026, including in connection with the continued expansion of our facilities in Tarrytown, New York and developing our property in Saratoga Springs, New York for production support activities and additional manufacturing capacity. We expect continued significant capital expenditures over the next several years related to these expansion projects.
+
+In 2025, payments for intangible assets included $155.0 million related to a second quarter 2025 purchase of a PRV from a third party. In addition, payments for intangible assets in 2025, 2024, and 2023 included $160.3 million, $125.7 million, and $207.8 million, respectively, for contingent consideration paid to Sanofi in connection with our acquisition of worldwide rights to Libtayo in 2022.
+
+Cash Flows from Financing Activities
+
+Proceeds from issuances of Common Stock, in connection with exercises of employee stock options, were $635.9 million during 2025, compared to $1.465 billion during 2024 and $1.146 billion during 2023. In addition, payments in connection with Common Stock tendered for employee tax obligations were $532.1 million during 2025, compared to $1.029 billion during 2024 and $700.6 million during 2023. For information related to repurchases of Common Stock, see "Share Repurchase Programs" section below.
+
+Credit Facility
+
+The Company is party to an agreement with a syndicate of lenders (the "Credit Agreement") which provides for a $750.0 million senior unsecured five-year revolving credit facility (the "Credit Facility"). The Credit Agreement includes an option for the Company to elect to increase the commitments under the Credit Facility and/or to enter into one or more tranches of term loans in the aggregate principal amount of up to $500.0 million, subject to the consent of the lenders providing the additional commitments or term loans, as applicable, and certain other conditions. The Credit Agreement also provides a $50.0 million sublimit for letters of credit.
+
+Proceeds of the loans under the Credit Facility may be used to finance working capital needs, and for general corporate or other lawful purposes, of Regeneron and its subsidiaries. Regeneron Pharmaceuticals, Inc. has guaranteed all obligations under the Credit Facility. The Credit Agreement includes an option for us to elect to extend the maturity date of the Credit Facility beyond December 2027, subject to the consent of the extending lenders and certain other conditions. Amounts borrowed under the Credit Facility may be prepaid, and the commitments under the Credit Facility may be terminated, at any time without premium or penalty.
+
+We had no borrowings outstanding under the Credit Facility as of December 31, 2025.
+
+The Credit Agreement contains operating covenants and a maximum total leverage ratio financial covenant. We were in compliance with all covenants of the Credit Agreement as of December 31, 2025.
+
+Share Repurchase Programs
+
+Our board of directors has authorized share repurchase programs, including a share repurchase program for up to $3.0 billion of our Common Stock which was authorized in February 2025. The share repurchase programs permit the Company to make repurchases through a variety of methods, including open-market transactions (including pursuant to a trading plan adopted in accordance with Rule 10b5-1 of the Exchange Act), privately negotiated transactions, accelerated share repurchases, block trades, and other transactions in compliance with Rule 10b-18 of the Exchange Act. Repurchases may be made from time to time at management's discretion, and the timing and amount of any such repurchases will be determined based on share price, market conditions, legal requirements, and other relevant factors. The programs have no time limit and can be discontinued at any time. There can be no assurance as to the timing or number of shares of any repurchases in the future. As of December 31, 2025, $1.486 billion remained available for share repurchases under our share repurchase programs.
+
+Dividends
+
+In 2025, our board of directors declared quarterly cash dividends of $0.88 per share on our Common Stock and Class A Stock. Each quarterly dividend was paid to our shareholders in the quarter in which the dividend was declared.
+
+Additionally, in January 2026, our board of directors declared a cash dividend of $0.94 per share on our Common Stock and Class A Stock. The dividend will be payable on March 5, 2026 to our shareholders of record as of February 20, 2026.
+
+We currently intend to continue to pay a quarterly cash dividend on our outstanding Common Stock and Class A Stock. Amounts and timing of any future cash dividends are subject to authorization by our board of directors in its sole discretion, after taking into consideration our financial condition and other relevant factors described under " There can be no assurance that we will continue to repurchase shares of our Common Stock or continue to declare cash dividends " in Part I, Item 1A. "Risk Factors."
+
+Tarrytown, New York Corporate Headquarters Lease
+
+We lease laboratory and office facilities for our corporate headquarters in Tarrytown, New York (the "Facility") under the Third Amended and Restated Lease and Remedies Agreement (the "Lease") with BA Leasing BSC, LLC, an affiliate of Banc of America Leasing & Capital, LLC ("BAL"), as lessor, and the Third Amended and Restated Participation Agreement (the "Participation Agreement") with Bank of America, N.A., as administrative agent, and a syndicate of lenders (collectively with BAL, the "Participants"), as rent assignees. The Lease, Participation Agreement, and certain related agreements provide for $720.0 million of lease financing (previously advanced by the Participants in March 2017 in connection with the acquisition by BAL of the Facility and our lease of the Facility from BAL), which matures when the term of the Lease expires in March 2027, at which time all amounts outstanding thereunder will become payable in full. We have the option to further extend the maturity date of the Participation Agreement and the term of the Lease for an additional five-year period, subject to the consent of the Participants and certain other conditions. We also have the option to (a) purchase the Facility by paying an amount equal to the outstanding principal amount of the Participants' advances under the Participation Agreement, all accrued and unpaid yield thereon, and all other outstanding amounts under the Participation Agreement, Lease, and certain related documents or (b) sell the Facility to a third party on behalf of BAL.
+
+Pursuant to the Lease, we pay all maintenance, insurance, taxes, and other costs arising out of the use of the Facility. We are also required to make monthly payments of basic rent to satisfy the yield payable to the Participants on their outstanding advances under the Participation Agreement. Such advances accrue yield at a variable rate per annum based on the one-month forward-looking Secured Overnight Financing Rate ("SOFR") term rate, plus a spread adjustment, plus an applicable margin that varies with our debt rating and total leverage ratio.
+
+The agreements governing the Lease financing contain financial and operating covenants. Such financial covenants and certain of the operating covenants are substantially similar to the covenants set forth in our Credit Agreement. We were in compliance with all such covenants as of December 31, 2025.
+
+Additional Funding Requirements
+
+The amount required to fund operations will depend on various factors, including the potential regulatory approval and commercialization of our product candidates and the timing thereof and the extent and cost of our research and development programs. We believe that our existing capital resources, borrowing availability under the Credit Facility, funds generated by anticipated product sales, and funding for reimbursement of research and development expenses that we are entitled to receive under our collaboration agreements, will enable us to meet our anticipated operating needs for the foreseeable future.
+
+We expect to continue to incur significant costs in connection with our research and development activities. The amount of funding that will be required depends upon the results of our research and preclinical programs and early-stage clinical trials, regulatory requirements, the duration and results of clinical trials underway and of additional clinical trials that we decide to initiate, and the various factors that affect the cost of each trial, including the size of trials, fees charged for services provided by clinical trial investigators and other third parties, the costs for manufacturing the product candidate for use in the trials, and other expenses.
+
+We also anticipate continuing to incur substantial commercialization costs for our marketed products. Commercialization costs over the next few years will depend on, among other things, the market potential for product candidates, whether commercialization costs are shared with a collaborator, and regulatory approval of additional product candidates.
+
+We expect that expenses related to the filing, prosecution, defense, and enforcement of patents and other intellectual property will be substantial.
+
+Liabilities for unrecognized tax benefits totaled $1.578 billion as of December 31, 2025. Due to their nature, there is a high degree of uncertainty regarding the period and amounts of potential future cash settlement with tax authorities. See Note 15 to our Consolidated Financial Statements.
+
+We enter into collaboration and licensing agreements that may require us to pay (i) amounts contingent upon the occurrence of various future events (e.g., upon the achievement of various development and commercial milestones), which, in the aggregate,
+
+could be significant, and/or (ii) royalties calculated based on a percentage of net product sales. The specific timing of these contingent payments cannot be predicted. See Note 3 to our Consolidated Financial Statements.
+
+As described in Part I, Item 1. "Collaboration, License, and Other Agreements," under our collaborations with Sanofi and Bayer, we and our collaborator share profits in connection with commercialization of drug products. If the applicable collaboration is profitable, we have contingent contractual obligations to reimburse Sanofi and Bayer for a defined percentage (generally 50%) of agreed-upon development expenses funded by Sanofi and Bayer (i.e., "development balance"). These reimbursements are deducted each quarter, in accordance with a formula, from our share of the collaboration profits otherwise payable to us, unless, in the case of Bayer, we elect to reimburse these expenses at a faster rate. As of December 31, 2025, our contingent reimbursement obligation to Sanofi in connection with the development balance was approximately $595 million and our contingent reimbursement obligation to Bayer was approximately $296 million. Therefore, we continue to expect that a portion of our share of profits from sales under our collaborations with Sanofi and Bayer will be used to reimburse our collaborators for these obligations.
+
+Future Impact of Recently Issued Accounting Standards
+
+See Note 1 to our Consolidated Financial Statements for a description of recently issued accounting standards.

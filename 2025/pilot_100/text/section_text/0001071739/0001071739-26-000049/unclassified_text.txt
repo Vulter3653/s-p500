@@ -1,0 +1,257 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 10-K
+
+(Mark One)
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31 , 2025
+
+or
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission file number: 001-31826
+
+Centene Corporation
+
+(Exact name of registrant as specified in its charter)
+
+Registrant's telephone number, including area code: ( 314 ) 725-4477
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+None
+
+(Title of Class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statement of the registrant included in the filing reflect the correction of an error to the previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's executive officers during the relevant recovery period pursuant to §240.10D-1(b) ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+
+The aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant, based upon the last reported sale price of the common stock on the New York Stock Exchange on June 30, 2025, was $ 26.7 billion.
+
+As of February 13, 2026, the registrant had 491,771 thousand shares of common stock issued and outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Proxy Statement for the registrant's 2026 annual meeting of stockholders are incorporated by reference in Part III, Items 10, 11, 12, 13 and 14.
+
+CENTENE CORPORATION
+
+ANNUAL REPORT ON FORM 10-K
+
+CAUTIONARY STATEMENT ON FORWARD-LOOKING STATEMENTS
+
+All statements, other than statements of current or historical fact, contained in this filing are forward-looking statements. Without limiting the foregoing, forward-looking statements often use words such as "believe," "anticipate," "plan," "expect," "estimate," "predict," "intend," "seek," "target," "goal," "potential," "may," "will," "would," "could," "should," "can," "continue" and other similar words or expressions (and the negative thereof). Centene Corporation and its subsidiaries (Centene, the Company, our or we) intends such forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, and we are including this statement for purposes of complying with these safe-harbor provisions. In particular, these statements include, without limitation, statements about our expected future operating or financial performance, changes in laws and regulations, market opportunity, expectations concerning pricing actions, competition, expected contract start dates and terms, expected activities in connection with completed and future acquisitions and dispositions, our investments and the adequacy of our available cash resources. These statements may be found in the various sections of this filing, such as Part I, Item 1. "Business," Part I, Item 1A "Risk Factors," Part I, Item 3. "Legal Proceedings," and Part II, Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations."
+
+These forward-looking statements reflect our current views with respect to future events and are based on numerous assumptions and assessments made by us in light of our experience and perception of historical trends, current conditions, business strategies, operating environments, future developments and other factors we believe appropriate. By their nature, forward-looking statements involve known and unknown risks and uncertainties and are subject to change because they relate to events and depend on circumstances that will occur in the future, including economic, regulatory, competitive and other factors that may cause our or our industry's actual results, performance or achievements to be materially different from any future results, performance, or achievements expressed or implied by these forward-looking statements. These statements are not guarantees of future performance and are subject to risks, uncertainties and assumptions.
+
+All forward-looking statements included in this filing are based on information available to us on the date of this filing. Except as may be otherwise required by law, we undertake no obligation to update or revise the forward-looking statements included in this filing, whether as a result of new information, future events, or otherwise, after the date of this filing. You should not place undue reliance on any forward-looking statements, as actual results may differ materially from projections, estimates, or other forward-looking statements due to a variety of important factors, variables and events including, but not limited to:
+
+• our ability to design and price products that are competitive and/or actuarially sound;
+
+• our ability to accurately predict and effectively manage health benefits and other operating expenses and reserves, including fluctuations in medical costs;
+
+• rate cuts, insufficient rate changes or other payment reductions or delays by government payors affecting our government businesses;
+
+• the effect of social, economic, and political conditions, geopolitical events and state and federal policies, including the amount and terms of state and federal funding for government-sponsored healthcare programs, including as a result of changes in U.S. presidential administrations or Congress;
+
+• changes in federal or state laws or regulations, including changes with respect to income tax reform or government healthcare programs as well as changes with respect to the Patient Protection and Affordable Care Act and the Health Care and Education Affordability Reconciliation Act (collectively referred to as the ACA) and any regulations enacted thereunder, including the timing and terms of renewal or modification of the enhanced advance premium tax credits or program integrity initiatives that could have the effect of reducing membership or profitability of our products;
+
+• unanticipated increased healthcare costs, including due to changes in consumer and provider behaviors, inflation and tariffs;
+
+• our ability to maintain or achieve improvement in the Centers for Medicare and Medicaid Services (CMS) Star ratings and maintain or achieve improvement in other quality scores in each case that could impact revenue and future growth;
+
+• competition, including for providers, broker distribution networks, contract reprocurements and organic growth;
+
+• our ability to adequately anticipate demand and timely provide for operational resources to maintain service level requirements in compliance with the terms of our contracts and state and federal regulations;
+
+• our ability to comply with the terms of our contracts and state and federal regulations and our ability to effectively oversee our third-party vendors to comply with the terms of their contracts with us and state and federal regulations;
+
+• our ability to manage our information systems effectively;
+
+• disruption, unexpected costs, or similar risks from business transactions, including acquisitions, divestitures, and changes in our relationships with third-party vendors;
+
+• impairments to real estate, investments, goodwill and intangible assets;
+
+• changes in senior management, loss of one or more key personnel or an inability to attract, hire, integrate and retain skilled personnel;
+
+• membership and revenue declines or unexpected trends;
+
+• changes in healthcare practices, new technologies, and advances in medicine;
+
+• our ability to effectively and ethically use artificial intelligence and machine learning in compliance with applicable laws;
+
+• changes in macroeconomic conditions, including inflation, interest rates and volatility in the financial markets;
+
+• negative public perception of the Company and the managed care industry;
+
+• uncertainty concerning government shutdowns, debt ceilings or funding;
+
+• tax matters;
+
+• disasters, climate-related incidents, acts of war or aggression or major epidemics;
+
+• changes in expected contract start dates and terms;
+
+• changes in provider, broker, vendor, state federal and other contracts and delays in the timing of regulatory approval of contracts, including due to protests and our ability to timely comply with any such changes to our contractual requirements or manage any unexpected delays in regulatory approval of contracts;
+
+• the expiration, suspension, or termination of our contracts with federal or state governments (including, but not limited to, Medicaid, Medicare or other customers);
+
+• the difficulty of predicting the timing or outcome of legal or regulatory audits, investigations, proceedings or matters including, but not limited to, our ability to resolve claims and/or allegations on acceptable terms, or at all, or whether additional claims, reviews or investigations will be brought;
+
+• challenges to our contract awards;
+
+• cyber-attacks or other data security incidents or our failure to comply with applicable privacy, data or security laws and regulations;
+
+• the exertion of management's time and our resources, and other expenses incurred and business changes required in connection with complying with the terms of our contracts and the undertakings in connection with any regulatory, governmental, or third-party consents or approvals for acquisitions or dispositions;
+
+• any changes in expected closing dates, estimated purchase price, or accretion for acquisitions or dispositions;
+
+• losses in our investment portfolio;
+
+• restrictions and limitations in connection with our indebtedness;
+
+• a downgrade of our corporate family rating, issuer rating or credit rating of our indebtedness; and
+
+• the availability of debt and equity financing on terms that are favorable to us.
+
+This list of important factors is not intended to be exhaustive. We discuss certain of these matters more fully, as well as certain other factors that may affect our business operations, financial condition, and results of operations, in our filings with the Securities and Exchange Commission (SEC), including our quarterly reports on Form 10-Q and current reports on Form 8-K. Due to these important factors and risks, we cannot give assurances with respect to our future performance, including without limitation our ability to maintain adequate premium levels or our ability to control our future medical and selling, general and administrative costs.
+
+SUMMARY OF RISK FACTORS
+
+Our business is subject to numerous risks and uncertainties that you should be aware of in evaluating our business, including risks that may prevent us from achieving our business objectives or may adversely affect our business, financial condition, results of operations, cash flows and prospects. These risks include, but are not limited to, the following, all of which are more fully described in Part 1, Item 1A "Risk Factors". This summary should be read in conjunction with the Risk Factors section and should not be relied upon as an exhaustive summary of the material risks facing our business.
+
+Risks Relating to Our Business
+
+• Failure to timely and effectively identify and mitigate medical cost trends and receive adequate rate adjustments to account for increased acuity could have a material adverse effect on our business;
+
+• Any failure to adequately and timely price or anticipate demand for products offered, anticipate changes to the competitive landscape or any reduction in products offered for Medicare and in the Health Insurance Marketplace may have a material adverse effect on our business;
+
+• Our Medicare programs are subject to a variety of unique risks that could adversely impact our financial results;
+
+• Risk-adjustment payment systems make our revenue and results of operations more difficult to estimate and could result in retroactive adjustments that have a material adverse effect on our business;
+
+• If we are not successful in procuring new government contracts or renewing existing government contracts, or if we receive an adverse finding or review resulting from an audit or investigation, our business may be adversely affected;
+
+• We derive a portion of our cash flow and gross margin from our prescription drug plan (PDP) operations, for which we submit annual bids for participation. The results of our bids and the design of the risk-sharing program could have a material adverse effect on our business;
+
+• Increases in our pharmaceutical costs could have a material adverse effect on the level of our medical costs and our results of operations;
+
+• Ineffectiveness of state-operated systems and subcontractors could adversely affect our business;
+
+• Our encounter data may be inaccurate or incomplete, which could have a material adverse effect on our business and ability to bid for, and continue to participate in, certain programs;
+
+• If state regulators do not approve payments of dividends and distributions by our subsidiaries to us, we may not have sufficient funds to implement our business strategy;
+
+• We derive a significant portion of our premium revenues from operations in a number of states, and our business could be materially adversely affected by a decrease in premium revenues or profitability in any one of those states;
+
+• Competition may limit our ability to increase penetration of the markets that we serve;
+
+• We operate in a highly competitive, dynamic and rapidly evolving industry and our failure to adapt could negatively impact our business;
+
+• If we are unable to maintain relationships with our provider networks and timely update our provider directories, our profitability may be materially adversely affected;
+
+• If our third-party vendors fail to meet their contractual obligations to us or fail to comply with applicable laws or regulations, our results of operations may be adversely affected and we may be exposed to brand and reputational harm, litigation and/or regulatory action;
+
+• If we or our third-party vendors are unable to integrate and manage information systems and networks effectively, our operations could be disrupted;
+
+• A failure in or breach of our operational or security systems, networks or infrastructure, or those of third-party vendors with which we do business, including as a result of cyber-attacks and other data security incidents, could have a material adverse effect on our business;
+
+• We may be unable to attract, retain or effectively manage the succession of key personnel;
+
+• An impairment charge with respect to our recorded goodwill, intangible assets and real estate portfolio could have a material impact on our results of operations and shareholders' equity;
+
+Risks Relating to Regulatory and Legal Matters
+
+• Reductions or delays in funding of, changes to eligibility requirements for, government-sponsored healthcare programs in which we participate, and any inability on our part to effectively adapt to changes to these programs could have a material adverse effect on our business;
+
+• Significant changes to the ACA and the other government-sponsored healthcare programs in which we participate could materially and adversely affect our business;
+
+• Negative public perception of the managed care industry, including industry practices, could adversely affect our business, operating results, cash flows and prospects;
+
+• Our business activities are highly regulated and new laws or regulations or changes in existing laws or regulations or their enforcement or application could force us to change how we operate and could harm our reputation and business;
+
+• Our ability to provide services and support to manage our members' pharmacy benefits face regulatory risks and uncertainties which could materially and adversely affect our business;
+
+• We have been and may from time to time become involved in costly and time-consuming litigation and other regulatory proceedings, which require significant attention from our management and could adversely affect our business;
+
+• If we fail to comply with applicable data privacy and security laws, regulations, rules, standards and contractual obligations, including with respect to third-party vendors that utilize sensitive personal information on our behalf, our business could be materially and adversely affected;
+
+• If we fail to comply with the extensive federal and state fraud, waste and abuse laws, our business could be materially and adversely affected;
+
+• We might be adversely impacted by tax legislation or challenges to our tax positions;
+
+Risks Relating to Conditions in the Financial Markets and Economy
+
+• Our investment portfolio may suffer losses which could materially and adversely affect our results of operations or liquidity;
+
+• Adverse credit market conditions may have a material adverse effect on our liquidity or our ability to obtain credit on acceptable terms;
+
+• We have substantial indebtedness outstanding and may incur additional indebtedness in the future. Such indebtedness could reduce our agility and may adversely affect our financial condition;
+
+Risks Associated with Mergers, Acquisitions, and Divestitures
+
+• Our business and results of operations may be materially adversely affected if we fail to manage and complete divestitures;
+
+• Previous or future acquisitions may not perform as expected and we may not realize the financial results expected from acquisitions or divestitures; and
+
+• We may be unable to successfully integrate our existing business with acquired businesses and realize the anticipated benefits of such acquisitions.
+
+Non-GAAP Financial Presentation
+
+The Company is providing certain non-GAAP financial measures in this report as the Company believes that these figures are helpful in allowing investors to more accurately assess the ongoing nature of the Company's operations and measure the Company's performance more consistently across periods. The Company uses the presented non-GAAP financial measures internally in evaluating the Company's performance and for planning purposes, by allowing management to focus on period-to-period changes in the Company's core business operations, and in determining employee incentive compensation. Therefore, the Company believes that this information is meaningful in addition to the information contained in the GAAP presentation of financial information. The Company strongly encourages investors to review its consolidated financial statements and publicly filed reports in their entirety and cautions investors that the non-GAAP financial measures used by the Company may differ from similar measures used by other companies, even when similar terms are used to identify such measures. The presentation of non-GAAP financial measures is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with GAAP.
+
+Specifically, the Company believes the presentation of non-GAAP financial measures that excludes amortization of acquired intangible assets, acquisition and divestiture related expenses, as well as other items, allows investors to develop a more meaningful understanding of the Company's core performance over time.
+
+The tables below provide reconciliations of non-GAAP items ($ in millions, except per share data):
+
+(1) Other adjustments include the following pre-tax items:
+
+2025 :
+
+(a) goodwill impairment of $6,723 million, or $13.63 per share ($13.62 after-tax), Magellan Health, Inc. (Magellan Health) impairment of $513 million, or $1.04 per share ($0.79 after-tax), intangible asset impairment related to the wind-down of certain contracts in the Other segment of $55 million, or $0.11 per share ($0.08 after-tax), exit costs related to the wind-down of certain contracts in the Other segment of $22 million, or $0.04 per share ($0.03 after-tax), a net loss on real estate transactions of $18 million, or $0.04 per share ($0.03 after-tax), a favorable adjustment to the gain on sale of Magellan Rx of $2 million, or $0.00 per share ($0.00 after-tax), and net gain on debt extinguishment of $1 million, or $0.00 per share ($0.00 after-tax).
+
+i
+
+2024 :
+
+(b) net gain on the previously reported divestiture of Magellan Specialty Health due to the achievement of contingent consideration and finalization of working capital adjustments of $83 million, or $0.16 per share ($0.12 after-tax), net gain on the sale of property of $24 million, or $0.04 per share ($0.03 after-tax), gain on the previously reported divestiture of Circle Health Group (Circle Health) of $20 million, or $0.04 per share ($0.12 after-tax), gain on the sale of Collaborative Health Systems (CHS) of $17 million, or $0.03 per share ($0.02 after-tax), Health Net Federal Services asset impairment due to the 2024 final ruling on the TRICARE Managed Care Support Contract of $14 million, or $0.03 per share ($0.02 after-tax), severance costs due to a restructuring of $13 million, or $0.02 per share ($0.01 after-tax), an additional loss on the divestiture of our Spanish and Central European businesses of $7 million, or $0.01 per share ($0.01 after-tax) and gain on the previously reported divestiture of HealthSmart due to the finalization of working capital adjustments of $7 million, or $0.01 per share ($0.01 after-tax).
+
+2023 :
+
+(c) Circle Health impairment of $292 million, or $0.53 per share ($0.47 after-tax), Operose Health Group (Operose Health) impairment of $140 million, or $0.26 per share ($0.24 after-tax), real estate impairments of $105 million, or $0.19 per share ($0.16 after-tax), gain on the sale of Apixio of $93 million, or $0.17 per share ($0.12 after-tax), severance costs due to a restructuring of $79 million, or $0.15 per share ($0.11 after-tax), gain on the sale of Magellan Specialty Health of $79 million, or $0.14 per share ($0.11 after-tax), a reduction to the previously reported gain on the sale of Magellan Rx of $22 million, or $0.04 per share ($0.02 after-tax), gain on the previously reported divestiture of Centurion of $15 million, or $0.03 per share ($0.02 after-tax) and an additional loss on the divestiture of our Spanish and Central European businesses of $13 million, or $0.02 per share ($0.01 after-tax).
+
+(2) The income tax effects of adjustments are based on the effective income tax rates applicable to each adjustment. In addition, the year ended December 31, 2025, includes a tax benefit of $4 million, or $0.01 per share, related to tax adjustments on previously reported divestitures and impacts of the One Big Beautiful Bill Act (OBBBA). The year ended December 31, 2024, includes a tax benefit of $1 million, or $0.00 per share, related to tax adjustments on previously reported divestitures. The year ended December 31, 2023, includes a one-time income tax benefit of $69 million, or $0.13 per share, resulting from the distribution of long-term stock awards to the estate of the Company's former CEO and tax expense of $3 million, or $0.01 per share, related to tax adjustments on previously reported divestitures.
+
+(3) Reflects the $0.01 impact of using 494,502 thousand shares in the calculation of adjusted diluted EPS for the year ended December 31, 2025. The additional 1,386 thousand shares for the year ended December 31, 2025 were excluded from the calculation of the GAAP net loss per share and related adjustments due to their anti-dilutive effect.
+
+ii
+
+PART I

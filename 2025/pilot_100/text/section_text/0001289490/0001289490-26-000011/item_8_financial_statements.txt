@@ -1,0 +1,871 @@
+Item 8. Financial Statements and Supplementary Data
+
+EXTRA SPACE STORAGE INC.
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+All other schedules have been omitted since the required information is not present or not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements or notes thereto.
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Extra Space Storage Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Extra Space Storage Inc. (the Company) as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and financial statement schedule listed in the Index at Item 8 (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 20, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 2005.
+
+Salt Lake City, Utah
+
+February 20, 2026
+
+Extra Space Storage Inc.
+
+Consolidated Balance Sheets
+
+(amounts in thousands, except share data)
+
+See notes to consolidated financial statements.
+
+Extra Space Storage Inc.
+
+Consolidated Statements of Operations
+
+(amounts in thousands, except share data)
+
+See notes to consolidated financial statements.
+
+Extra Space Storage Inc.
+
+Consolidated Statements of Comprehensive Income
+
+(amounts in thousands)
+
+See notes to consolidated financial statements.
+
+Extra Space Storage Inc.
+
+Consolidated Statements of Stockholders’ Equity
+
+(amounts in thousands, except share data)
+
+Extra Space Storage Inc.
+
+Consolidated Statements of Stockholders’ Equity
+
+(amounts in thousands, except share data)
+
+Extra Space Storage Inc.
+
+Consolidated Statements of Stockholders’ Equity
+
+(amounts in thousands, except share data)
+
+See notes to consolidated financial statements.
+
+Extra Space Storage Inc.
+
+Consolidated Statements of Cash Flows
+
+(amounts in thousands)
+
+See notes to consolidated financial statements.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+1. DESCRIPTION OF BUSINESS
+
+Extra Space Storage Inc. (the “Company”) is a fully integrated, self-administered and self-managed real estate investment trust (“REIT”), formed as a Maryland corporation on April 30, 2004 to own, operate, manage, acquire, develop and redevelop self-storage properties (“stores”) and provide lending to owners of stores located throughout the United States. The Company was formed to continue the business of Extra Space Storage LLC and its subsidiaries, which had engaged in the self-storage business since 1977. The Company’s interest in its stores is held through its operating partnership, Extra Space Storage LP (the “Operating Partnership”), which was formed on May 5, 2004. The Company’s primary assets are general partner and limited partner interests in the Operating Partnership, which meets the definition of a variable interest entity and is consolidated. This structure is commonly referred to as an umbrella partnership REIT, or UPREIT.
+
+The Company invests in stores by acquiring wholly-owned stores or by acquiring an equity interest in real estate entities. At December 31, 2025, the Company had direct and indirect equity interests in 2,425 stores. In addition, the Company managed 1,856 stores for third parties bringing the total number of stores which it owns and/or manages to 4,281 . These stores are located in 43 states and Washington, D.C. The Company offers tenant reinsurance at its owned and managed stores that insures the value of goods in the storage units and also offers bridge loan financing to certain third-party self-storage owners for whom it manages properties.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Basis of Presentation
+
+The consolidated financial statements are presented on the accrual basis of accounting in accordance with U.S. generally accepted accounting principles (“GAAP”) and include the accounts of the Company and its wholly- or majority-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation .
+
+Principles of Consolidation
+
+The Company accounts for arrangements that are not controlled through voting or similar rights as variable interest entities (“VIEs”). An enterprise is required to consolidate a VIE if it is the primary beneficiary of the VIE. A VIE is created when (i) the equity investment at risk is not sufficient to permit the entity to finance its activities without additional subordinated financial support from other parties, or (ii) the entity’s equity holders as a group either: (a) lack the power, through voting or similar rights, to direct the activities of the entity that most significantly impact the entity’s economic performance, (b) are not obligated to absorb expected losses of the entity if they occur, or (c) do not have the right to receive expected residual returns of the entity if they occur. If an entity is deemed to be a VIE, the enterprise that is deemed to have a variable interest, or combination of variable interests, that provides the enterprise with a controlling financial interest in the VIE, is considered the primary beneficiary and must consolidate the VIE.
+
+The Company has concluded that under certain circumstances when the Company enters into arrangements for the formation of joint ventures or when entering into a new bridge loan agreement, a VIE may be created under condition (i), (ii), (b) or (c) of the previous paragraph. For each VIE created, the Company has performed a qualitative analysis, including considering which party, if any, has the power to direct the activities most significant to the economic performance of each VIE and whether that party has the obligation to absorb losses of the VIE or the right to receive benefits from the VIE that could be significant to the VIE. If the Company is determined to be the primary beneficiary of the VIE, the assets, liabilities and operations of the VIE are consolidated with the Company’s financial statements.
+
+The Company determined that its operating partnership met the definition of a VIE and is consolidated. Additionally, as of December 31, 2025 the Company determined that in addition to its operating partnership it had one consolidated joint venture VIE, consisting of one store.
+
+Substantially all of the assets and liabilities of the Company are related to the operating partnership VIE. The assets and credit of the VIE can only be used to satisfy the VIE’s own contractual obligations, and the VIE’s creditors have no recourse to the general credit of the Company.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+The Company’s investments in real estate joint ventures, where the Company has significant influence, but not control, and joint ventures which are VIEs in which the Company is not the primary beneficiary, are recorded under the equity method of accounting on the accompanying consolidated financial statements.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+Fair Value Disclosures
+
+Derivative financial instruments
+
+Currently, the Company uses interest rate swaps to manage its interest rate risk. The valuation of these instruments is determined using widely accepted valuation techniques including discounted cash flow analysis on the expected cash flows of each derivative. This analysis reflects the contractual terms of the derivatives, including the period to maturity, and uses observable market-based inputs, including interest rate curves. The fair values of interest rate swaps are determined using the market standard methodology of netting the discounted future fixed cash payments and the discounted expected variable cash receipts. The variable cash receipts are based on an expectation of future interest rates (forward curves) derived from observable market interest rate forward curves.
+
+The Company incorporates credit valuation adjustments to appropriately reflect both its own nonperformance risk and the respective counterparty’s nonperformance risk in the fair value measurements. In adjusting the fair value of its derivative contracts for the effect of nonperformance risk, the Company has considered the impact of netting and any applicable credit enhancements, such as collateral postings, thresholds, mutual puts, and guarantees. In conjunction with the fair value measurement guidance by the Financial Accounting Standard Board (the “FASB”), the Company made an accounting policy election to measure the credit risk of its derivative financial instruments that are subject to master netting agreements on a net basis by counterparty portfolio.
+
+Although the Company has determined that the majority of the inputs used to value its derivatives fall within Level 2 of the fair value hierarchy, the credit valuation adjustments associated with its derivatives utilize Level 3 inputs, such as estimates of current credit spreads to evaluate the likelihood of default by itself and its counterparties. However, as of December 31, 2025, the Company has assessed the significance of the impact of the credit valuation adjustments on the overall valuation of its derivative positions and has determined that the credit valuation adjustments are not significant to the overall valuation of its derivatives. As a result, the Company has determined that its derivative valuations in their entirety are classified in Level 2 of the fair value hierarchy.
+
+The table below presents the Company’s assets and liabilities measured at fair value on a recurring basis as of December 31, 2025, aggregated by the level in the fair value hierarchy within which those measurements fall:
+
+There were no transfers of assets and liabilities between Level 1 and Level 2 during the year ended December 31, 2025. The Company did not have any significant assets or liabilities that are re-measured on a recurring basis using significant unobservable inputs as of December 31, 2025 or 2024.
+
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+
+Long-lived assets held for use are evaluated for impairment when events or circumstances, including the Company’s
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+assumptions about the use of the asset, indicate there may be impairment. The Company reviews each store at least annually to determine if any such events or circumstances have occurred or exist. The Company focuses on stores that do not have positive net operating cash flows. For these stores, the Company determines whether the decrease is temporary or permanent, and whether the store will likely generate positive net operating cash flows in the short term.
+
+When the Company determines that an event that may indicate impairment has occurred, the Company compares the carrying value of the related long-lived assets to the undiscounted future net operating cash flows attributable to the assets. An impairment loss is recorded if the net carrying value of the assets exceeds the undiscounted future net operating cash flows attributable to the assets. The impairment loss recognized equals the excess of net carrying value over the related fair value of the assets.
+
+When real estate assets are identified by management as held for sale, the Company discontinues depreciating the assets and estimates the fair value of the assets, net of selling costs. The Company compares the carrying value of the related long-lived assets to its estimated fair value, supported by current third-party appraisal or broker market data (categorized within Level 3 of the fair value hierarchy). If the estimated fair value, net of selling costs, is less than the net carrying value of the assets, the Company would recognize a loss on the assets held for sale. The operations of assets held for sale or sold during the period are presented as part of normal operations. As of December 31, 2025, the Company had five stores classified as held for sale which are included in real estate assets, net . Refer to note 5 for additional details on disposition and held for sale activity.
+
+The Company assesses annually whether there are any indicators that the value of the Company’s investments in unconsolidated real estate entities may be impaired and when events or circumstances indicate that there may be impairment. An investment is impaired if management’s estimate of the fair value of the investment is less than its carrying value. To the extent impairment has occurred, and is considered to be other than temporary, the loss is measured as the excess of the carrying amount of the investment over the fair value of the investment.
+
+The Company evaluates goodwill for impairment at least annually and whenever events, circumstances, and other related factors indicate that fair value of the related reporting unit may be less than the carrying value. If the fair value of the reporting unit is determined to exceed the aggregate carrying amount, no impairment charge is recorded. Otherwise, an impairment charge is recorded for the amount in which the carrying value of the reporting unit exceeds the fair value. No impairments of goodwill were recorded for any period presented herein.
+
+As of December 31, 2025 and 2024, the Company did not have any assets or liabilities measured at fair value on a nonrecurring basis.
+
+Fair Value of Financial Instruments
+
+The carrying values of cash and cash equivalents, restricted cash, receivables, investments in debt securities and notes receivable, accounts payable and accrued expenses, variable-rate notes payable, revolving lines of credit and commercial paper and other liabilities reflected in the consolidated balance sheets at December 31, 2025 and 2024 approximate fair value. Restricted cash is comprised of funds deposited with financial institutions located throughout the United States and the Cayman Islands, primarily relating to operating cash reserve for the Company’s captive insurance subsidiary and earnest money deposits on potential acquisitions.
+
+The fair value of the Company’s note receivable from a Common Operating Partnership unit holder was based on the discounted estimated future cash flow of the note (categorized within Level 3 of the fair value hierarchy). The discount rate used approximated the current market rate for loans with similar maturities and credit quality. The fair values of the Company’s fixed rate notes payable were estimated using the discounted estimated future cash payments to be made on such debt (categorized within Level 3 of the fair value hierarchy). The discount rates used approximated current market rates for loans, or groups of loans, with similar maturities and credit quality.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Real Estate Assets
+
+Real estate assets are stated at cost, less accumulated depreciation. Direct and allowable internal costs associated with the development, construction, renovation, and improvement of real estate assets are capitalized. Interest, property taxes, and other costs associated with development incurred during the construction period are capitalized. The construction period begins when expenditures for the real estate assets have been made and activities that are necessary to prepare the asset for its intended use are in progress. The construction period ends when the asset is substantially complete and ready for its intended use.
+
+Expenditures for maintenance and repairs are charged to expense as incurred. Major replacements and betterments that improve or extend the life of the asset are capitalized and depreciated over their estimated useful lives. Depreciation is computed using the straight-line method over the estimated useful lives of the buildings and improvements, which are generally between five and 39 years.
+
+The purchase of stores is considered an asset acquisition. As such, the purchase price is allocated to the real estate assets acquired based on their relative fair values, which are estimated using significant unobservable inputs. The value of the tangible assets, consisting of land and buildings, is determined as if vacant. Intangible assets, which represent the value of existing tenant relationships, are recorded at their relative fair values based on the avoided cost to replace the current leases. The Company measures the value of tenant relationships based on the rent lost due to the amount of time required to replace existing customers, which is based on the Company’s historical experience with turnover in its stores. Any debt assumed as part of the acquisition is recorded at fair value based on current interest rates compared to contractual rates. Acquisition-related transaction costs are capitalized as part of the purchase price.
+
+Intangible lease rights represent intangibles related to ground leases on 10 stores where the leases were assumed by the Company at rates that were lower than the current market rates for similar leases. The values associated with these assumed leases were recorded as intangibles, which will be amortized over the lease terms.
+
+Real Estate Sales
+
+In general, sales of real estate and related profits/losses are recognized when all consideration has changed hands and risks and rewards of ownership have been transferred. Certain types of continuing involvement preclude sale treatment and related profit recognition; other forms of continuing involvement allow for sale recognition but require deferral of profit recognition.
+
+Investments in Unconsolidated Real Estate Entities
+
+Investments in unconsolidated real estate entities and cash distributions in unconsolidated real estate ventures represent the Company’s interest in preferred stock of SmartStop Self Storage REIT, Inc. (“SmartStop”), Strategic Storage Trust VI, Inc. and Strategic Storage Growth Trust III, Inc. (collectively, “Strategic Storage”), affiliates of SmartStop, and the Company’s noncontrolling interest in real estate joint ventures. The Company’s investments in real estate joint ventures, where the Company has significant influence, but not control and joint ventures which are VIEs in which the Company is not the primary beneficiary, are recorded under the equity method of accounting in the accompanying consolidated financial statements.
+
+Under the equity method, the Company’s investment in real estate ventures is stated at cost and adjusted for the Company’s share of net earnings or losses and reduced by distributions. Equity in earnings of real estate ventures is generally recognized based on the Company’s ownership interest in the earnings of each of the unconsolidated real estate ventures. For the purposes of presentation in the statement of cash flows, the Company follows the “nature of distribution” approach for
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+classification of distributions from joint ventures. Under this approach, cash flows are classified on the basis of the nature of the activity or activities of the investee that generated the distribution as either a return on investment (classified as a cash inflow from operating activities) or a return of investment (classified as a cash inflow from investing activities).
+
+The Company evaluated its investment in preferred stock of non-public real estate entities and determined it did not have significant influence over the entities, and the investments do not have a readily determinable fair value and therefore have been recorded at the transaction price. The Company periodically evaluates the investments for impairment. No impairments were recorded in our evaluations for any period presented herein.
+
+Investments in Debt Securities and Notes Receivable
+
+The Company accounts for its investment in debt securities and loans receivable at amortized cost. The Company recognizes interest income related to the debt securities and notes receivable using the effective interest method, with deferred fees and costs amortized over the lives of the related loans as yield adjustment.
+
+Cash and Cash Equivalents
+
+The Company’s cash is deposited with financial institutions located throughout the United States and at times may exceed federally insured limits. The Company considers all highly liquid debt instruments with a maturity date of three months or less to be cash equivalents.
+
+Derivative Instruments and Hedging Activities
+
+The Company records all derivatives on the balance sheet at fair value. The accounting for changes in the fair value of derivatives depends on the intended use of the derivative, whether the Company has elected to designate a derivative in a hedging relationship and apply hedge accounting and whether the hedging relationship has satisfied the criteria necessary to apply hedge accounting. Derivatives designated and qualifying as a hedge of the exposure to changes in the fair value of an asset, liability or firm commitment attributable to a particular risk are considered fair value hedges. Derivatives designated and qualifying as a hedge of the exposure to variability in expected future cash flows, such as those subject to interest rate risk, or other types of forecasted transactions, are considered cash flow hedges. Hedge accounting generally provides for the matching of the timing of gain or loss recognition on the hedging instrument with the recognition of the changes in the fair value of the hedged asset or liability that are attributable to the hedged risk in a fair value hedge or the earnings effect of the hedged forecasted transactions in a cash flow hedge. The Company may enter into derivative contracts that are intended to economically hedge certain of its risk, even though hedge accounting does not apply or the Company elects not to apply hedge accounting. The Company made an accounting policy election to measure the credit risk of its derivative financial instruments that are subject to master netting agreements on a net basis by counterparty portfolio. Refer to note 9 for further information regarding the Company’s derivative instruments and hedging activities.
+
+Risk Management and Use of Financial Instruments
+
+In the normal course of its ongoing business operations, the Company encounters economic risk. There are three main components of economic risk: interest rate risk, credit risk and market risk. The Company is subject to interest rate risk on its interest-bearing liabilities. Credit risk is the risk of inability or unwillingness of tenants or bridge loan borrowers to make contractually required payments. Market risk is the risk of declines in the value of stores due to changes in rental rates, interest rates or other market factors affecting the value of stores held by the Company. The Company has entered into interest rate swap agreements and issued variable-rate bridge loans to manage a portion of its interest rate risk.
+
+Redemption of Common Operating Partnership Units
+
+The Company has the option to redeem common Operating Partnership Units in cash or shares of common stock. Redemption of common Operating Partnership units for shares of common stock, when redeemed under the original provisions of the Operating Partnership agreement, is accounted for by reclassifying the underlying net book value of the units from noncontrolling interest to the Company’s equity. Redemption of common Operating Partnership units for cash is accounted for by reducing the underlying net book value of the units from noncontrolling interest.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Revenue and Expense Recognition
+
+Rental revenues are recognized as earned based upon amounts that are currently due from tenants. Leases are generally on month-to-month terms. Prepaid rents are recognized on a straight-line basis over the term of the leases. Promotional discounts are recognized as a reduction to rental income over the promotional period. Late charges, administrative fees and merchandise sales are recognized as income when earned.
+
+The Company’s management fees are earned subject to the terms of the related management services agreements (“MSAs”). These MSAs provide that the Company will perform management services, which include leasing and operating the property and providing accounting, marketing, banking, maintenance and other services. These services are provided in exchange for monthly management fees, which are based on a percentage of revenues collected from stores owned by third parties and unconsolidated joint ventures. MSAs generally have original terms from three to five years . Management fees are due on the last day of each calendar month that management services are provided.
+
+The Company accounts for the management services provided to a customer as a single performance obligation which are rendered over time each month. The total amount of consideration from the contract is variable as it is based on monthly revenues, which are influenced by multiple factors, some of which are outside the Company’s control. Therefore, the Company recognizes the revenue at the end of each month once the uncertainty is resolved. Due to the standardized terms of the MSAs, the Company accounts for all MSAs in a similar, consistent manner. Therefore, no disaggregated information relating to MSAs is presented.
+
+Property expenses, including utilities, property taxes, repairs and maintenance and other costs to manage the facilities are recognized as incurred. The Company accrues for property tax expense based upon invoice amounts and estimates. If these estimates are incorrect, the timing of expense recognition could be affected.
+
+Tenant reinsurance premiums are recognized as revenue over the period of insurance coverage. Each tenant chooses the amount of insurance coverage they want through the tenant reinsurance program. Tenants can purchase policies in amounts up to ten thousand dollars of insurance coverage in exchange for a monthly fee. As of December 31, 2025, the total number of tenant insurance policies was approximately 1.8 million, which was an aggregate coverage of approximately $ 5.7 billion. The Company’s exposure per claim is limited by the maximum amount of coverage chosen by each tenant.
+
+Advertising Costs
+
+The Company incurs advertising costs primarily attributable to digital and other advertising. These costs are expensed as incurred. The Company recognized $ 56,181 , $ 50,519 and $ 32,795 in advertising expense for the years ended December 31, 2025, 2024 and 2023, respectively, which are included in property operating expenses on the Company’s consolidated statements of operations.
+
+Income Taxes
+
+The Company has elected to be treated as a REIT under Sections 856 through 860 of the Internal Revenue Code of 1986, as amended (the “Internal Revenue Code”). In order to maintain its qualification as a REIT, among other requirements, the Company is required to distribute annually at least 90% of its REIT taxable income to its stockholders and meet certain tests regarding the nature of its income and assets. As a REIT, the Company is not subject to U.S. federal income tax with respect to that portion of its income which meets certain criteria and is distributed annually to stockholders. The Company plans to continue to operate so that it meets the requirements for taxation as a REIT. Many of these requirements, however, are highly technical and complex. For any taxable year that the Company fails to qualify as a REIT and for which applicable statutory relief provisions did not apply, the Company would be subject to U.S. federal corporate income tax on all of its taxable income for at least that year and the ensuing four years. The Company is subject to certain state and local taxes. Provision for such taxes has been included in income tax expense on the Company’s consolidated statements of operations. For the year ended December 31, 2025, 0 % (unaudited) of all distributions to stockholders qualified as a return of capital.
+
+The Company owns and may acquire direct or indirect interests in entities that have elected or will elect to be taxed as REITs under the Internal Revenue Code (each, a “Subsidiary REIT”). A Subsidiary REIT is subject to the various REIT qualification requirements and other limitations described herein that are applicable to the Company. If a Subsidiary REIT were to fail to qualify as a REIT, then (i) that Subsidiary REIT would become subject to U.S. federal income tax, (ii) shares in such
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Subsidiary REIT would cease to be qualifying assets for purposes of the asset tests applicable to REITs, and (iii) it is possible that the Company would fail certain of the asset tests applicable to REITs, in which event the Company would fail to qualify as a REIT unless it could avail itself of certain relief provisions.
+
+The Company has elected to treat certain corporate subsidiaries, including Extra Space Management, Inc. (“ESMI”), as a taxable REIT subsidiary (“TRS”). In general, a TRS may perform additional services for tenants and may engage in any real estate or non-real estate related business. A TRS is subject to U.S. federal corporate income tax and may also be subject to state and local income taxes. ESM Reinsurance Limited, a wholly-owned subsidiary of ESMI, generates income from insurance premiums that is subject to U.S. federal corporate income tax and state insurance premiums tax and pays certain insurance royalties to the Company.
+
+Deferred tax assets and liabilities are determined based on differences between financial reporting and tax bases of assets and liabilities. At December 31, 2025 and 2024, there were no material unrecognized tax benefits. Interest and penalties relating to uncertain tax positions will be recognized in income tax expense when incurred. As of December 31, 2025 and 2024, the Company had no interest or penalties related to uncertain tax positions.
+
+Stock-Based Compensation
+
+The measurement and recognition of compensation expense for all share-based payment awards to employees and directors are based on estimated fair values. Awards granted are valued at fair value, and any compensation expense is recognized over the service and/or performance periods of each award.
+
+Earnings Per Common Share
+
+Basic earnings per common share is computed using the two-class method by dividing net income attributable to common stockholders by the weighted average number of common shares outstanding during the period. All outstanding unvested restricted stock awards contain rights to non-forfeitable dividends and participate in undistributed earnings with common stockholders; accordingly, they are considered participating securities that are included in the two-class method. Diluted earnings per common share measures the performance of the Company over the reporting period while giving effect to all potential common shares that were dilutive and outstanding during the period. The denominator includes the weighted average number of basic shares and the number of additional common shares that would have been outstanding if the potential common shares that were dilutive had been issued, and is calculated using the two-class, treasury stock or if-converted method, whichever is most dilutive. Potential common shares are securities (such as options, Series B Redeemable Preferred Units (“Series B Units”), Series D Redeemable Preferred Units (“Series D Units”) and together with the Series B Units, the (“Preferred OP Units"), and common Operating Partnership units (“OP Units”)) that do not have a current right to participate in earnings of the Company but could do so in the future by virtue of their redemption right.
+
+For the purposes of computing the diluted impact of the potential exchange of the Preferred OP Units for common shares upon redemption, where the Company has the option to redeem in cash or shares and where the Company has stated the intent and ability to settle the redemption in shares, the Company divided the total liquidation value of the Preferred OP Units by the average share price of $ 144.15 for the year ended December 31, 2025.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Recently Issued Accounting Standards
+
+In November 2024, the FASB issued ASU No. 2024-03 – “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40).” The new standard requires the disclosure of additional information related to certain costs and expenses, including amounts of inventory purchases, employee compensation, and depreciation and amortization included in each income statement line item. For any remaining items within each relevant expense caption, entities must provide a qualitative description of the nature of those expenses. The guidance also requires disclosure of the total amount of selling expenses and the entity’s definition of selling expenses. The new standard does not change the requirements for the presentation of expenses on the face of the statement of operations. The guidance is effective for annual periods beginning after December 15, 2026 and interim periods within fiscal years beginning after December 15, 2027; therefore, compliance with this ASU will be required beginning with the Company’s annual report on Form 10-K for the year ending December 31, 2027. The guidance may be applied prospectively or retrospectively, and early adoption is permitted. Although the adoption is not expected to have an impact on the Company’s financial statements, it is expected to result in incremental disclosures within the footnotes to the consolidated financial statements.
+
+In December 2023, the FASB issued ASU No. 2023-09 – “Income Taxes (Topic 740): Improvements to Income Tax Disclosures.” The amended guidance focuses on providing more transparency about income tax information through improvements to income tax disclosures primarily related to the rate reconciliation and income taxes paid information. Pursuant to this ASU, the footnotes to the Company’s consolidated financial statements include incremental disclosures related to income taxes. The Company has adopted this standard as of December 31, 2025. Refer to note 16 for further discussion of the Company’s accounting for income taxes and related disclosures.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+3. REAL ESTATE ASSETS
+
+In September 2024, the Company amended existing triple-net lease agreements for land and buildings related to 27 stores that had initially been entered into in June and August 2019. The Company also entered into new triple-net lease agreements for land and buildings related to 12 additional stores. Both the initial 27 stores and the additional 12 stores added to the triple net lease structure are categorized as operating leases and have been presented in real estate assets - operating lease right-of-use assets and operating lease liabilities on the Company’s consolidated balance sheets.
+
+The Company amortizes to expense intangible assets—tenant relationships on a straight-line basis over the average period that a tenant is expected to utilize the facility (currently estimated at 18 months). The Company amortizes to expense the intangible lease rights over the terms of the related leases. Amortization related to the tenant relationships and lease rights was $ 21,183 , $ 114,614 , and $ 59,807 for the years ended December 31, 2025, 2024 and 2023, respectively. The remaining balance of the unamortized lease rights will be amortized over the next three to 39 years. Accumulated amortization related to intangibles was $ 404,709 and $ 363,916 as of December 31, 2025 and 2024, respectively.
+
+4. OTHER ASSETS
+
+The components of other assets are summarized as follows:
+
+Depreciation of equipment and fixtures is computed on a straight-line basis over three to five years . The Company capitalizes certain costs during the application development stage when developing software for internal use. As of December 31, 2025 and 2024, unamortized software costs were $ 25,294 and $ 16,254 . During the years ended December 31, 2025, 2024 and 2023, the Company recorded amortization expense of $ 4,240 , $ 5,307 and $ 5,377 , respectively, relating to capitalized software costs.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+5. PROPERTY ACQUISITIONS AND DISPOSITIONS
+
+The Life Storage Merger
+
+On July 20, 2023, the Company closed its merger with Life Storage (the “Life Storage Merger”), which included 757 wholly-owned stores and one consolidated joint venture store. Under the terms of the Life Storage Merger, Life Storage stockholders and holders of units of the Life Storage operating partnership received 0.895 of a share of common stock (or OP Unit, as applicable) of the Company for each issued and outstanding share (or operating partnership unit) of Life Storage they owned for total equity consideration of $ 11,602,808 , based on the Company’s closing share price on July 19, 2023. At closing, the Company retired $ 1,160,000 in balances on Life Storage’s line of credit which included $ 375,000 that Life Storage used to pay off its private placement notes in connection with the closing of the Life Storage Merger. The Company also paid off $ 32,000 in secured loans. On July 25, 2023, the Company completed obligor exchange offers and consent solicitations (together the “Exchange Offers”) related to Life Storage’s various senior notes. Upon the closing of the Exchange Offers, a total of $ 2,351,100 of Life Storage’s senior notes were exchanged for senior notes of the same tenor of Extra Space Storage L.P. The remaining Life Storage senior note balances which were not exchanged total $ 48,900 and no longer have any financial reporting requirements or covenants.
+
+Consideration and Purchase Price Allocation
+
+The Life Storage Merger was accounted for as an asset acquisition in accordance with ASC Topic 805 which requires that the cost of an acquisition be allocated on a relative fair value basis to the assets acquired and the liabilities assumed. The following table summarizes the fair value of total consideration transferred in the Life Storage Merger:
+
+The following table summarizes the estimated fair values assigned to the assets acquired and liabilities assumed:
+
+Fair Value Measurement
+
+The estimated fair values of assets acquired and liabilities assumed were primarily based on information that was available as of the closing date of the Life Storage Merger. The methodology used to estimate the fair values to apply purchase accounting and the ongoing financial statement impact, if any, are summarized below:
+
+• Real estate assets – Real estate assets acquired were recorded at fair value using standard valuation methodologies, including the cost and market approaches. The remaining useful lives for real estate assets, excluding land, were reset to 39 years. Tenant relationships for storage leases were recorded at fair value based on estimated costs the Company
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+avoided to replace them. Tenant relationships are amortized to expense over 18 months, which is based on the Company’s historical experience with turnover in its stores.
+
+• Equity investment in joint venture partnerships - Equity investment in joint venture partnerships were recorded at fair value based on a direct capitalization of net operating income.
+
+• Intangible assets - other – Customer relationships relating to tenant reinsurance contracts were recorded at fair value based on the income approach which estimates the potential revenue loss the Company avoided to replace them. These assets are amortized to expense over 36 months, which is based on the Company’s historical experience with average length of stay for tenants.
+
+• Trade name – Trade names were recorded at fair value based on royalty payments avoided had the trade name been owned by a third party. This is determined using market royalty rates and a discounted cash flow analysis under the relief-from-royalty method. This method incorporates various assumptions, including projected revenue growth rates, the terminal growth rate, the royalty rate to be applied, and the discount rate utilized. The trade name is an indefinite lived asset and as such is not amortized. During the year ended December 31, 2024, the Company decided to operate all stores under a single brand. As a result of that decision, the Company deemed the Life Storage trade name intangible asset to be impaired and recognized a loss for the full value of the asset. Intangible assets are included in the self-storage operations segment of the Company’s segment information.
+
+• Unsecured senior notes – Unsecured senior notes were recorded at fair value using readily available market data. The below-market value of debt is recorded as a debt discount and reported as a reduction of the unsecured senior notes, net balance on the consolidated balance sheets. The discount is amortized using the effective interest method as an increase to interest expense over the remaining terms of the unsecured senior notes.
+
+• Other assets and liabilities – The carrying values of cash, accounts receivable, prepaids and other assets, accounts payable, accrued expenses and other liabilities represented the fair values.
+
+The Company amortizes to expense intangible assets - other on a straight-line basis. The following table summarizes the accumulated amortization related to intangible assets - other:
+
+Store Acquisitions
+
+The following table shows the Company’s acquisitions of stores for the years ended December 31, 2025 and 2024. The table excludes purchases of raw land and improvements made to existing assets. All store acquisitions are considered asset acquisitions under ASU 2017-01, “ Business Combinations (Topic 805): Clarifying the Definition of a Business .”
+
+On April 30, 2025, the Company acquired all of its partners’ membership interests in the ESS-NYFL JV LP and ESS CA-TIVS JV LP joint ventures. The total value of the real estate was recorded at $ 436,797 , which included $ 258,000 of assumed debt. The Company now owns 100 % of the 27 properties that were held in the two joint ventures.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+On March 31, 2025, the Company closed on the transfer and distribution of membership interests in its PR II EXR JV LLC joint venture. The Company exchanged its 25 % ownership interest in 17 properties for its partner’s 75 % ownership interest in six properties. The portfolio consisted of 23 properties; therefore, the Company now owns 100 % of the six properties, and its partner now owns 100 % of the 17 properties, which the Company will continue to manage.
+
+Disposition and Held for Sale Activity
+
+The following table presents the Company’s disposition and held for sale activity for the periods indicated:
+
+The net losses are shown on the Company’s consolidated statements of operations for the years ended December 31, 2025 and 2024 as loss on real estate assets held for sale and sold, net. Assets held for sale are included in real estate assets, net , as well as in the self-storage operations segment of the Company’s segment information.
+
+6. INVESTMENTS IN UNCONSOLIDATED REAL ESTATE ENTITIES
+
+Investments in unconsolidated real estate entities and cash distributions in unconsolidated real estate ventures represent the Company’s interest in preferred stock of SmartStop and Strategic Storage, an affiliate of SmartStop, and the Company’s noncontrolling interest in real estate joint ventures. The Company accounts for its investments in SmartStop and Strategic
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Storage preferred stock, which do not have a readily determinable fair value, at the transaction price less impairment, if any. The Company accounts for its investments in joint ventures using the equity method of accounting. The Company initially records these investments at cost and subsequently adjusts for cash contributions, distributions and net equity in income or loss, which is allocated in accordance with the provisions of the applicable partnership or joint venture agreement.
+
+In these joint ventures, the Company and the joint venture partner generally receive a preferred return on their invested capital. To the extent that cash or profits in excess of these preferred returns are generated through operations or capital transactions, the Company would receive a higher percentage of the excess cash or profits, as applicable, than its equity interest.
+
+The Company separately reports investments with net equity less than zero in cash distributions in unconsolidated real estate ventures in the consolidated balance sheets. The net equity of certain joint ventures is less than zero because distributions have exceeded the Company’s investment in and share of income from these joint ventures. This is generally the result of financing distributions, capital events or operating distributions that are usually greater than net income, as net income includes non-cash charges for depreciation and amortization while distributions do not.
+
+(1) Includes pro-rata equity ownership share and promoted interest.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+(2) On October 31, 2025, the Company sold its membership interest in the Extra Space Northern Properties VI LLC joint venture, which held 10 properties. The Company acquired one property from the joint venture, and the joint venture partner acquired the remaining nine properties. The sale resulted in a net gain of $ 45,167 which has been included in the equity in earnings of unconsolidated real estate ventures - gain on sale of real estate assets and sale of a joint venture interest line on the Company’s consolidated statements of operations.
+
+(3) On July 8, 2025, the Company sold its membership interest in the Life Storage Spacemax LLC joint venture, which held six properties. The sale resulted in a net gain of $ 9,354 , which has been included in the equity in earnings of unconsolidated real estate ventures - gain on sale of real estate assets and sale of a joint venture interest line on the Company’s consolidated statements of operations.
+
+(4) On April 30, 2025, the Company acquired all of its partners’ membership interests in the ESS-NYFL JV LP and ESS CA-TIVS JV LP joint ventures. The total value of the real estate was recorded at $ 436,797 , which included $ 258,000 of assumed debt. The Company now owns 100 % of the 27 properties that were held in the two joint ventures.
+
+(5) On March 31, 2025, the Company closed on the transfer and distribution of membership interests in its PR II EXR JV LLC joint venture. The Company exchanged its 25 % ownership interest in 17 properties for its partner’s 75 % ownership interest in six properties. The portfolio consisted of 23 properties; therefore, the Company now owns 100 % of the six properties, and its partner now owns 100 % of the 17 properties.
+
+(6) On February 4, 2025, the Company invested $ 100,000 in shares of newly issued convertible preferred stock of Strategic Storage Growth Trust III, Inc., an affiliate of SmartStop. The dividend rate for the preferred shares is 8.85 % per annum, subject to increase after five years . The preferred shares are generally not redeemable for five years , except in the case of a change of control or initial listing, and are redeemable thereafter subject to a redemption premium. Dividend income from this investment is included in the equity in earnings and dividend income from unconsolidated real estate entities line on the Company’s consolidated statements of operations.
+
+(7) In May 2023, the Company invested $ 150,000 in shares of convertible preferred stock of Strategic Storage Trust VI, Inc. with a dividend rate of 8.35 % per annum, subject to increase after five years . The preferred shares are generally not redeemable for three years , except in the case of a change of control or initial listing of Strategic Storage. Dividend income from this investment is included in the equity in earnings and dividend income from unconsolidated real estate entities on the Company’s consolidated statements of operations.
+
+(8) In October 2019, the Company invested $ 200,000 in shares of convertible preferred stock of SmartStop with a dividend rate of 7.00 % per annum as of November 2024. Dividend income from this investment is included in the equity in earnings and dividend income from unconsolidated real estate entities line on the Company’s consolidated statements of operations. On April 4, 2025, the Company was repaid its $ 200,000 preferred equity investment in SmartStop.
+
+In accordance with ASC 810, the Company reviews all of its joint venture relationships annually to ensure that there are no entities that require consolidation. As of December 31, 2025, there were no previously unconsolidated entities that were required to be consolidated as a result of this review. The Company accounts for its investments in unconsolidated joint ventures under the equity method of accounting.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+(1) For the year ended December 31, 2023, the earnings of the 16 joint ventures from the Life Storage Merger are from the close of acquisition on July 20, 2023.
+
+(2) In November 2024, the Company acquired additional ownership interest in HF1 Sovran HHF Storage Holdings LLC and HF2 Sovran HHF Storage Holdings II LLC from its partner in the unconsolidated joint ventures for cash consideration of $ 251,235 . The transaction increased the Company’s equity ownership percentages from 20 % and 15 %, respectively, to 49 % in each unconsolidated joint venture.
+
+Equity in earnings of certain of our joint ventures includes the amortization of the Company’s excess purchase price of $ 59,858 of these equity investments over its original basis. The excess basis is amortized over 39 years.
+
+The Company provides management services to joint ventures for a fee. Management fee revenues for affiliated real estate joint ventures for the years ended December 31, 2025, 2024 and 2023 were $ 33,964 , $ 38,940 and $ 31,755 , respectively.
+
+7. INVESTMENTS IN DEBT SECURITIES AND NOTES RECEIVABLE
+
+Investments in debt securities and notes receivable consists of the Company’s investment in mandatorily redeemable preferred stock of Jernigan Capital, Inc. (“JCAP”) in connection with JCAP’s acquisition by affiliates of NexPoint Advisors, L.P. (“NexPoint”) and receivables due to the Company under its bridge loan program. Information about these balances is as follows:
+
+In November 2020, the Company invested $ 300,000 in the preferred stock of JCAP in connection with the acquisition of JCAP by NexPoint. This investment consisted of 200,000 Series A Preferred Shares valued at a total of $ 200,000 , and 100,000 Series B Preferred Shares valued at a total of $ 100,000 . In December 2022, the Company completed a modification with NexPoint Storage Partners (as successor in interest to JCAP) that exchanged the Series A and Series B Preferred Shares for
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+300,000 Series D Preferred Shares, valued at a total of $ 300,000 . The Series D Preferred Shares are mandatorily redeemable after six years from the modification in December 2022, with two one-year extension options. NexPoint may redeem the Series D Preferred Shares at any time, subject to certain prepayment penalties. The Company accounts for the Series D Preferred Shares as a held to maturity debt security at amortized cost and evaluates whether the fair value is below the amortized cost basis at each reporting period. The Series D Preferred Shares have an initial dividend rate of 8.5 %. If the investment is not retired after six years , the preferred dividends increase annually.
+
+The Company offers bridge loan financing to certain third-party self-storage owners for whom it manages
+
+properties. These notes receivable consist of mortgage loans receivable, which are collateralized by self-storage properties that the Company manages, and mezzanine loans receivable, which are secured by equity interest pledges. As of December 31, 2025, 80 % of the notes held are mortgage receivables. The Company may sell a portion of the mortgage receivables. These notes receivable typically have a term of three years with two one-year extensions and have variable interest rates. During the year ended December 31, 2025, the Company sold a total principal amount of $ 112,564 of its mortgage bridge loans receivable to third parties for par, closed on $ 406,644 in initial loan draws, and recorded $ 42,275 of draws for interest payments.
+
+The bridge loans typically have a loan to value ratio between 70 % and 80 % at origination. As of December 31, 2025, none of the notes receivable are in nonaccrual status, and any notes receivable where the monthly payments are delinquent are immaterial and less than 90 days past due. The allowance for potential credit losses is immaterial.
+
+8. DEBT
+
+The components of term debt are summarized as follows:
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+The following table summarizes the scheduled maturities of term debt, excluding available extensions, at December 31, 2025:
+
+In November 2024, the Company established a commercial paper note program. Under the terms of the program, the Company may issue up to $ 1,000,000 of unsecured commercial paper notes that bear interest at variable rates and have varying maturities (generally 30 days or less, with a maximum of 397 days). The commercial paper notes are issued under customary terms in the commercial paper market and are issued at a discount from par or, alternatively, can be issued at par and bear varying interest rates on a fixed or floating basis. The net proceeds from the issuances of the notes are used for general working capital and other general corporate purposes. General corporate purposes may include, but are not limited to, the repayment of other debt and selective development, redevelopment, or acquisition of properties. Outstanding commercial paper notes have been included in revolving lines of credit and commercial paper on the Company’s consolidated balance sheets. At December 31, 2025, there were $ 680,000 in issuances outstanding under the commercial paper program with a weighted-average maturity of 21 days.
+
+All of the Company’s lines of credit and commercial paper are guaranteed by the Company. The following table presents information on the Company’s lines of credit and commercial paper:
+
+On August 21, 2025, the Company entered into the Fourth Amended and Restated Credit Agreement (the “Credit Agreement”), which increased the commitment under the revolving credit facility to $ 3,000,000 , extended the maturity of the credit facility to August 2029, and reduced the interest rate by 10 basis points. In connection with the amendment, the Company also paid off term loans within the credit facility in the amount of $ 655,000 and increased other term loans within the credit facility by $ 200,000 . The Credit Agreement is guaranteed by the Company and is not secured by any assets of the Company. The Company’s unsecured debt is subject to certain financial covenants. As of December 31, 2025, the Company was in compliance with all of its financial covenants.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+As of December 31, 2025, the Company’s percentage of fixed-rate debt to total debt was 82.1 %. The weighted average interest rates of the Company’s fixed and variable-rate debt were 4.2 % and 4.8 %, respectively. The combined weighted average interest rate was 4.3 %.
+
+9. DERIVATIVES
+
+The Company is exposed to certain risk arising from both its business operations and economic conditions. The Company principally manages its exposures to a wide variety of business and operational risks through management of its core business activities. The Company manages economic risks, including interest rate, liquidity and credit risk, primarily by managing the amount, sources and duration of its debt funding and the use of derivative financial instruments. Specifically, the Company enters into derivative financial instruments to manage exposures that arise from business activities that result in the receipt or payment of future known and uncertain cash amounts, the value of which are determined by interest rates. The Company’s derivative financial instruments are used to manage differences in the amount, timing and duration of the Company’s known or expected cash payments principally related to the Company’s borrowings.
+
+Cash Flow Hedges of Interest Rate Risk
+
+The Company’s objectives in using interest rate derivatives are to add stability to interest expense and to manage its exposure to interest rate movements. To accomplish these objectives, the Company primarily uses interest rate swaps as part of its interest rate risk management strategy. Interest rate swaps designated as cash flow hedges involve the receipt of variable amounts from a counterparty in exchange for the Company making fixed-rate payments over the life of the agreements without exchange of the underlying notional amount.
+
+The effective portion of changes in the fair value of derivatives designated and that qualify as cash flow hedges is recorded in accumulated other comprehensive income (“OCI”) and is subsequently reclassified into earnings in the period that the hedged forecasted transaction affects earnings. A portion of these changes is excluded from accumulated other comprehensive income as it is allocated to noncontrolling interests. During the years ended December 31, 2025, 2024 and 2023, such derivatives were used to hedge the variable cash flows associated with existing variable-rate debt. During 2026, the Company estimates that $ 749 will be reclassified as an increase to interest income.
+
+The following table summarizes the terms of the Company’s eight active derivative financial instruments, which had a total current notional amount of $ 952,000 as of December 31, 2025.
+
+Fair Values of Derivative Instruments
+
+Effect of Derivative Instruments
+
+The table below presents the effect of the Company’s derivative financial instruments on the consolidated statements of operations for the years presented. No tax effect has been presented as the derivative instruments are held by the Company:
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Credit-Risk-Related Contingent Features
+
+The Company has agreements with some of its derivative counterparties that contain provisions pursuant to which the Company could be declared in default of its derivative obligations if the Company defaults on any of its indebtedness, including default where repayment of the indebtedness has not been accelerated by the lender.
+
+The Company also has an agreement with some of its derivative counterparties that incorporates the loan covenant provisions of the Company’s indebtedness with a lender affiliate of the derivative counterparty. Failure to comply with the loan covenant provisions would result in the Company being in default on any derivative instrument obligations covered by the agreement.
+
+As of December 31, 2025, the Company had not posted any collateral related to these agreements. If the Company had breached any of these provisions as of December 31, 2025, it could have been required to cash settle its obligations under these agreements at their termination value. Refer to note 2 for further information regarding the Company’s derivative instruments and hedging activities.
+
+10. STOCKHOLDERS’ EQUITY
+
+The Company’s charter provides that it can issue up to 500,000,000 shares of common stock, $ 0.01 par value per share and 50,000,000 shares of preferred stock, $ 0.01 par value per share. As of December 31, 2025, 211,155,322 shares of common stock were issued and outstanding, and no shares of preferred stock were issued or outstanding.
+
+All holders of the Company’s common stock are entitled to receive dividends and to one vote on all matters submitted to a vote of stockholders. The transfer agent and registrar for the Company’s common stock is Broadridge Corporate Issuer Solutions, LLC.
+
+During the year ended December 31, 2025, the Company sold no shares of common stock.
+
+On April 15, 2024, the Company filed its $ 800,000 “at the market” equity program with the Securities and Exchange Commission (the “SEC”) using a shelf registration statement on Form S-3, and entered into an equity distribution agreement with nine sales agents. No shares have been sold under the current “at the market” equity program, and no shares were sold under the previous “at the market” equity program, which spanned from August 9, 2021 through April 14, 2024.
+
+On November 13, 2023, the Company’s board of directors authorized a share repurchase program allowing for the repurchase of shares with an aggregate value up to $ 500,000 . During the year ended December 31, 2024, no shares were repurchased. During the year ended December 31, 2025, the Company repurchased 1,158,244 shares at an average price of $ 129.10 per share, paying a total of $ 149,525 . As of December 31, 2025, the Company had remaining authorization to repurchase shares with an aggregate value up to $ 350,475 .
+
+On July 20, 2023, the Company issued 76,217,359 shares of its common stock at $ 148.96 for a total value of $ 11,353,338 as part of the Life Storage Merger. See Property Acquisitions and Dispositions note above.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+11. NONCONTROLLING INTEREST REPRESENTED BY PREFERRED OPERATING PARTNERSHIP UNITS
+
+Classification of Noncontrolling Interests
+
+GAAP requires a company to present ownership interests in subsidiaries held by parties other than the company in the consolidated financial statements within the equity section, but separate from the Company’s equity. It also requires the amount of consolidated net income attributable to the parent and to the noncontrolling interest to be clearly identified and presented on the face of the consolidated statement of operations and requires changes in ownership interest to be accounted for similarly as equity transactions. If noncontrolling interests are determined to be redeemable, they are to be carried at their redemption value as of the balance sheet date and reported as temporary equity.
+
+The Company has evaluated the terms of the Operating Partnership’s preferred units and classifies the noncontrolling interest represented by such preferred units as stockholders’ equity in the accompanying consolidated balance sheets. The Company will periodically evaluate individual noncontrolling interests for the ability to continue to recognize the noncontrolling interest as permanent equity in the consolidated balance sheets. Any noncontrolling interests that fail to qualify as permanent equity will be reclassified as temporary equity and adjusted to the greater of (1) the carrying amount, or (2) its redemption value as of the end of the period in which the determination is made.
+
+At December 31, 2025 and December 31, 2024, the noncontrolling interests represented by the Preferred OP Units qualified for classification as permanent equity on the Company’s consolidated balance sheets. The partnership agreement of the Operating Partnership (as amended, the “Partnership Agreement”) provides for the designation and issuance of the OP Units. The balances for each of the specific Preferred OP Units as presented in the Statement of Noncontrolling Interests and Equity as of the years indicated are as follows:
+
+Series A Participating Redeemable Preferred Units
+
+The Partnership Agreement provides for the designation and issuance of the Series A Units. The Series A Units have priority over all other partnership interests of the Operating Partnership with respect to distributions and liquidation. As of December 31, 2025 and December 31, 2024, there were no outstanding Series A Units.
+
+Series B Redeemable Preferred Units
+
+The Partnership Agreement provides for the designation and issuance of the Series B Units. The Series B Units rank junior to the Series A Units, on parity with the Series C Units (defined below) and Series D Units, and senior to all other partnership interests of the Operating Partnership with respect to distributions and liquidation.
+
+The Series B Units were issued in 2013 and 2014. The Series B Units have a liquidation value of $ 25.00 per unit for a fixed liquidation value of $ 33,567 which represents 1,342,727 Series B Units outstanding at December 31, 2025. Holders of the Series B Units receive distributions at an annual rate of 6.0 %. These distributions are cumulative. The Series B Units become redeemable at the option of the holder on the first anniversary of the date of issuance, which redemption obligation may be satisfied at the Company’s option in cash or shares of its common stock.
+
+Series C Redeemable Preferred Units
+
+The Partnership Agreement provides for the designation and issuance of the Series C Units. The Series C Units ranked
+
+junior to the Series A Units, on parity with the Series B Units and Series D Units, and senior to all other partnership interests of
+
+the Operating Partnership with respect to distributions and liquidation. As of December 31, 2025 and December 31, 2024, there were no outstanding Series C Units.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Series D Redeemable Preferred Units
+
+The Partnership Agreement provides for the designation and issuance of the Series D Units. The Series D Units rank junior to the Series A Units, on parity with the Series B Units and Series C Units, and senior to all other partnership interests of the Operating Partnership with respect to distributions and liquidation.
+
+The Series D Units have a liquidation value of $ 25.00 per unit, for a fixed liquidation value of $ 20,260 , which represents 810,395 Series D Units outstanding at December 31, 2025. Holders of the Series D Units receive distributions at an annual rate between 3.0 % and 5.0 %. These distributions are cumulative. The Series D Units become redeemable at the option of the holder on the first anniversary of the date of issuance, which redemption obligation may be satisfied at the Company’s option in cash or shares of its common stock. In addition, certain of the Series D Units are exchangeable for OP Units at the option of the holder until the tenth anniversary of the date of issuance, with the number of OP Units to be issued equal to $ 25.00 per Series D Unit, divided by the value of a share of common stock as of the exchange date.
+
+During the year ended December 31, 2025, 890,594 Series D Units were redeemed for 143,830 shares of common stock.
+
+On October 1, 2024, 3,507,844 Series D Units were liquidated and returned to the Company. In exchange, the former holders of the Series D Units were issued notes totaling $ 87,696 , which represented the total liquidation value of the Units, due on January 1, 2050. Interest is paid to the former Unit holders quarterly, effective December 31, 2024, at the existing rate of 3.35 %. The full liquidation value was reclassified from noncontrolling interest represented by preferred operating partnership units to other liabilities on the Company’s consolidated balance sheets.
+
+On December 27, 2024, 1,100,734 Series D Units were converted to 183,398 Common OP Units. As a result $ 27,518 was moved from noncontrolling interest represented by preferred operating partnership units to noncontrolling interests in operating partnership, net and other noncontrolling interests on the Company’s consolidated balance sheets.
+
+In January 2023, 890,594 Series D units were redeemed for 154,307 shares of common stock. In November 2023, 15,093 Series D units were redeemed for cash of $ 377 .
+
+12. NONCONTROLLING INTEREST IN OPERATING PARTNERSHIP AND OTHER NONCONTROLLING INTERESTS
+
+Noncontrolling Interest in Operating Partnership
+
+The Company’s interest in its stores is held through the Operating Partnership. Between its general partner and limited partner interests, the Company held a 95.6 % ownership interest in the Operating Partnership as of December 31, 2025. The remaining ownership interests in the Operating Partnership (including Preferred OP Units) of 4.4 % are held by certain former owners of assets acquired by the Operating Partnership. As of December 31, 2025, the noncontrolling interest in the Operating Partnership is shown on the balance sheet net of a note receivable of $ 50,000 because a borrower under the note receivable is also a holder of OP Units. This note receivable originated in December 2024, bears interest at 10 % per annum and matures on June 30, 2026.
+
+The noncontrolling interest in the Operating Partnership represents OP Units that are not owned by the Company. OP Units are redeemable at the option of the holder, which redemption may be satisfied at the Company’s option in cash, based upon the fair market value of an equivalent number of shares of the Company’s common stock (based on the ten-day average trading price) at the time of the redemption, or shares of the Company’s common stock on a one -for-one basis, subject to anti-dilution adjustments provided in the Operating Partnership Agreement. As of December 31, 2025, the ten-day average closing price of the Company’s common stock was $ 130.66 and there were 9,432,990 OP Units outstanding. Assuming that all of the OP Unit holders exercised their right to redeem all of their OP Units on December 31, 2025 and the Company elected to pay the OP Unit holders cash, the Company would have paid $ 1,232,514 in cash consideration to redeem the units.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+GAAP requires a company to present ownership interests in subsidiaries held by parties other than the company in the consolidated financial statements within the equity section but separate from the Company’s equity. It also requires the amount of consolidated net income attributable to the parent and to the noncontrolling interest to be clearly identified and presented on the face of the consolidated statement of operations and requires changes in ownership interest to be accounted for similarly as equity transactions. If noncontrolling interests are determined to be redeemable, they are to be carried at their redemption value as of the balance sheet date and reported as temporary equity.
+
+The Company has evaluated the terms of the OP Units and classifies the noncontrolling interest represented by the OP Units as stockholders’ equity in the accompanying consolidated balance sheets. The Company will periodically evaluate individual noncontrolling interests for the ability to continue to recognize the noncontrolling amount as permanent equity in the consolidated balance sheets. Any noncontrolling interests that fail to qualify as permanent equity will be reclassified as temporary equity and adjusted to the greater of (1) the carrying amount, or (2) its redemption value as of the end of the period in which the determination is made.
+
+Other Noncontrolling Interests
+
+Other noncontrolling interests represent the ownership interest of partners in 12 consolidated joint ventures as of December 31, 2025. There are a total of 16 stores in consolidated joint ventures, 11 of which are operating and five of which are under development. The voting interests of the partners are 25.0 % or less.
+
+Based on the facts and circumstances of each of the Company’s joint ventures, the Company has determined that one of the joint ventures at December 31, 2025 was a variable interest entity (“VIE”) in accordance with ASC 810, “Consolidation.” The Company has consolidated that joint venture as it was determined that the Company has the power to direct the activities of the joint venture and is the primary beneficiary of the joint venture.
+
+13. LEASES
+
+Lessee Accounting
+
+The Company accounts for leases under ASC 842, “ Leases. ” Right-of-use assets associated with operating leases are included in real estate assets - operating lease right-of-use assets and operating lease liabilities are included in operating lease liabilities on the Company’s consolidated balance sheets. Right-of-use assets associated with finance leases are included in real estate assets, net and finance lease liabilities are included in other liabilities on the Company’s consolidated balance sheets.
+
+During the year ended December 31, 2025, the Company recorded new finance lease right-of-use assets and finance lease liabilities totaling $ 934 associated with one store with a land lease.
+
+The Company is lessee under several types of lease agreements. Generally, these leases fall into the following categories:
+
+• Leases of real estate at 84 stores classified as wholly-owned or in consolidated joint ventures. These leases generally have original lease terms between 10 - 99 years. Under these leases, the Company typically has the option to extend the lease term for additional terms of 5 - 35 years.
+
+• Leases of its corporate offices and call center. These leases have original lease terms between five and 14 years, with the option to extend up to five years .
+
+• Leases of 23 regional offices. These leases have original lease terms between two and five years . The Company has the option on certain of these leases to extend the lease term for up to three additional years.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+• Leases of small district offices. These leases generally have terms of 12 months or less. The Company has made an election to account for these under the short-term lease exception outlined under ASC 842. Therefore, no lease assets or liabilities are recorded related to these leases.
+
+The Company has included lease extension options in the lease term for calculations of its right-of-use assets and liabilities related to the real estate asset leases at its stores when it is reasonably certain that the Company plans to extend the lease terms as the options arise.
+
+Several of the leases of real estate at the Company’s stores include escalation clauses based on an index or rate, such as the Consumer Price Index (CPI). The Company included these lease payments in its calculations of right-of-use assets and liabilities based on the prevailing index or rate as of the adoption date. The Company will recognize changes to these variable lease payments in earnings in the period of change.
+
+One of the real estate leases includes variable lease payments that are based upon a percentage of gross revenues. Certain other leases include additional variable payments relating to a percentage of sales in excess of a specified amount, common area maintenance, property taxes, and similar items. These payments are variable lease payments that do not depend on an index or rate and are excluded from the measurement of the lease liabilities and right-of-use-assets for these leases. The Company will recognize costs from these variable lease payments in the period in which the obligation for those payments is incurred.
+
+As the Company’s leases do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available surrounding the Company’s unsecured borrowing rates and implied secured spread at the lease commencement date in determining the present value of lease payments. These discount rates vary depending on the term of the specific leases.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Lessor Accounting
+
+The Company’s property rental revenue is primarily related to rents received from tenants at its operating stores. The Company’s leases with its self-storage tenants are generally on month-to-month terms, include automatic monthly renewals, allow flexibility to increase rental rates over time as market conditions permit, and provide for the collection of contingent fees such as late fees. These leases do not include any terms or conditions that allow the tenants to purchase the leased space. All self-storage leases for which the Company acts as lessor have been classified as operating leases. The real estate assets related to the Company’s stores are included in real estate assets, net on the Company’s consolidated balance sheets and are presented at historical cost less accumulated depreciation and impairment, if any. Rental income related to these operating leases is included in property rental revenue on the Company’s consolidated statements of operations and is recognized each month as part of the month-to-month terms at the rental rate in place during each month.
+
+14. STOCK-BASED COMPENSATION
+
+As of December 31, 2025 , 6,472,477 shares were available for issu ance under the Company’s 2015 Incentive Award Plan (the “Plan”). The Company added shares to the plan through an S-8 filed with the SEC on August 1, 2025.
+
+Options are exercisable once vested. Options are exercisable at such times and subject to such terms as deter mined by the Compensation Committee, but under no circumstances may be exercised if such exercise would cause a violation of the ownership limit in the Company’s charter. Options expire 10 years from the date of grant. All of the Company’s remaining outstanding options were exercised during the year ended December 31, 2024.
+
+As defined under the terms of the Plan, restricted stock grants may be awarded. The stock grants are subject to a vesting period over which the restrictions are released and the stock certificates are given to the grantee. During the vesting period, the grantee is not permitted to sell, transfer, pledge, encumber or assign shares of restricted stock granted under the Plan; however, the grantee has the ability to vote the shares and receive nonforfeitable dividends paid on shares. Unless otherwise determined by the Compensation Committee at the time of grant, the forfeiture and transfer restrictions on the shares lapse over a one-year period or a four-year period beginning on the date of grant.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+Option Grants
+
+The total intrinsic value of options exercised for the years ended December 31, 2025, 2024 and 2023 was $ 0 , $ 798 and $ 0 , respectively.
+
+There have been no options granted since 2016. The Company recorded no compensation expense relating to outstanding options in general and administrative expense for the years ended December 31, 2025, 2024 and 2023. Net proceeds received for the years ended December 31, 2025, 2024 and 2023, related to option exercises was $ 0 , $ 765 and $ 0 , respectively. At December 31, 2025, there was no unrecognized compensation expense related to non-vested stock options under the Plan.
+
+Common Stock Granted to Employees and Directors
+
+The Company recorded $ 20,620 , $ 16,808 and $ 14,205 of expense in general and administrative expense in its statement of operations related to restricted stock awards granted to employees and directors for the years ended December 31, 2025, 2024 and 2023, respectively. The forfeiture rate, which is estimated at a weighted-average of 5.2 % of unvested awards outstanding as of December 31, 2025, is adjusted periodically based on the extent to which actual forfeitures differ, or are expected to differ, from the previous estimates. At December 31, 2025 there was $ 24,944 of total unrecognized compensation expense related to non-vested restricted stock awards under the Plan. That cost is expected to be recognized over a weighted-average period of 2.18 years. The fair value of common stock awards is determined based on the closing trading price of the Company’s common stock on the grant date.
+
+Performance-based Stock Units
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+The performance-based stock units (the “ PSUs ” ) granted to executives represent the right to earn shares of the Company’s common stock. These awards have two financial performance components: (1) the Company’s core FFO performance ( “ FFO Target ” ), and (2) the Company’s total stockholder return relative to the performance of a defined group of peers ( “ TSR Target ” ). Each of these performance components are weighted 50 % and are measured over the performance period, which is defined as the three-year period ending December 31 from the year of grant. At the end of the performance period, the financial performance components are reviewed to determine the number of shares actually granted to executives, which can be as low as zero shares and up to a maximum of 2.25 shares issued for each PSU. A summary of the PSU activity is as follows:
+
+The Company recorded $ 14,418 , $ 12,183 and $ 12,433 of expense in general and administrative expense in its statement of operations related to PSUs granted to executives for the years ended December 31, 2025, 2024 and 2023, respectively. The Company estimated the fair value of the PSUs as of the grant date, using the closing trading price of the Company’s common stock on the grant date to value the FFO Target portion. A Monte Carlo simulation model was used to calculate the fair value of the TSR Target portion of the PSUs, using the following assumptions:
+
+Under the terms of the PSUs, dividends for the entire measurement period are paid in cash when the shares are released, therefore, a dividend yield of zero was used. The valuation model applied in this calculation utilizes subjective assumptions that could potentially change over time, including the probabilities associated with achieving the FFO Targets (categorized within Level 3 of the fair value hierarchy). Therefore, the amount of unrecognized compensation expense at December 31, 2025 noted above does not necessarily represent the expense that will ultimately be realized by the Company in the statement of operations.
+
+15. EMPLOYEE BENEFIT PLAN
+
+The Company has a retirement savings plan under Section 401(k) of the Internal Revenue Code under which eligible employees can contribute up to 60 % of their annual salary, subject to a statutory prescribed annual limit. For the years ended December 31, 2025, 2024 and 2023, the Company made matching contributions to the plan of $ 9,018 , $ 8,145 , and $ 6,576 respectively, based on 100 % of the first 3 % and up to 50 % of the next 2 % of an employee’s compensation.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+16. INCOME TAXES
+
+As a REIT, the Company is generally not subject to U.S. federal income tax with respect to that portion of its income which is distributed annually to its stockholders. However, the Company has elected to treat certain of its corporate subsidiaries, including Extra Space Management, Inc., as a TRS. In general, a TRS may perform additional services for tenants and generally may engage in any real estate or non-real estate related business. A TRS is subject to U.S. federal corporate income tax and may be subject to state and local income taxes. The Company accounts for income taxes in accordance with the provisions of ASC 740, “Income Taxes.” Deferred tax assets and liabilities are determined based on differences between financial reporting and tax bases of assets and liabilities. The Company has elected to use the Tax-Law-Ordering approach to determine when excess tax benefits will be realized.
+
+On July 4, 2025, the One Big Beautiful Bill Act (the “OBBBA”) was enacted into law, which included certain modifications to U.S. tax law, including certain provisions that affect the taxation of REITs and their investors. The OBBBA permanently extended certain provisions that were enacted in the Tax Cuts and Jobs Act of 2017. Such extensions included the permanent extension of the 20% deduction for “qualified REIT dividends” for individuals and other non-corporate taxpayers. The OBBBA also increased the percentage limit under the REIT asset test applicable to taxable REIT subsidiaries (the permissible maximum value of taxable REIT subsidiary securities that a REIT may hold, as a percentage of the value of the REIT’s total assets) from 20% to 25% for taxable years beginning after December 31, 2025. The Company is still evaluating the provisions of the OBBBA and expects the OBBBA to have an impact on its financial position and results of operations by increasing its federal tax expense due to the expiration of solar tax credits in the coming years and changes to Section 162(m) of the Internal Revenue Code related to executive compensation.
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+A reconciliation of the statutory income tax provisions to the effective income tax provisions for the years indicated is as follows:
+
+A disaggregation of categories of income taxes paid by jurisdiction for the years indicated is as follows:
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+The state income tax net operating losses expire between 2026 and 2045. The tax years 2021 through 2024 remain open related to the state returns, and 2022 through 2024 for the federal returns.
+
+17. SEGMENT INFORMATION
+
+The Company’s segment disclosures present the measure used by the chief operating decision maker (“CODM”) for purposes of assessing each segment’s performance. The Company’s CODM is its Executive Committee (“EC”), which uses net operating income (“NOI”) to assess the performance of the business for the Company’s reportable operating segments. The EC is comprised of the Chief Executive Officer, Chief Financial Officer, Chief Investment Officer, Chief Digital Officer, Chief Strategy and Partnership Officer, Chief Operations Officer, and Chief Legal Officer. The Company’s segments are comprised of two reportable segments: (1) self-storage operations and (2) tenant reinsurance. NOI for the Company’s self-storage operations represents total property revenue less direct property operating expenses. NOI for the Company’s tenant reinsurance segment represents tenant reinsurance revenue less tenant reinsurance expenses.
+
+The Company’s consolidated revenues equal total segment revenues plus management fees and other income. The self-storage operations activities include rental operations of stores that are wholly-owned and in consolidated joint ventures. Tenant reinsurance activities include the reinsurance of risks relating to the loss of goods stored by tenants in the stores operated by the Company. Management fees and other income is excluded from segment revenues and net operating income.
+
+The CODM regularly reviews NOI to assess the performance of each segment and makes decisions about resources to be allocated to each segment. As part of this process, the CODM approves each operating segment’s budget, determines allocation of funds for capital expenditures, and reviews discrete financial information on a quarterly basis. Based on each segment’s budgeted operating revenues and expenses, resources are allocated to each segment, and these budgeted amounts comprising NOI are compared against actual segment performance.
+
+For all years presented, substantially all of the Company’s real estate assets, intangible assets, other assets, and accrued and other liabilities are associated with the self-storage operations segment. Financial information for the Company’s business segments is set forth below:
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+EXTRA SPACE STORAGE INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (continued)
+
+Amounts in thousands, except store and share data, unless otherwise stated
+
+18. COMMITMENTS AND CONTINGENCIES
+
+As of December 31, 2025, the Company was under agreement to acquire one store at a total purchase price of $ 12,500 , which is scheduled to close in 2026.
+
+As of December 31, 2025, the Company was under agreement to originate $ 57,700 in bridge loans in 2026.
+
+As of December 31, 2025, the Company was involved in various legal proceedings and was subject to various claims and complaints arising in the ordinary course of business. Because litigation is inherently unpredictable, the outcome of these matters cannot presently be determined with any degree of certainty. In accordance with applicable accounting guidance, management establishes an accrued liability for litigation when those matters present loss contingencies that are both probable and reasonably estimable. In such cases, there may be an exposure to loss in excess of any amounts accrued. The estimated loss, if any, is based upon currently available information and is subject to significant judgment, a variety of assumptions, and known and unknown uncertainties. The Company could incur judgments or enter into settlements of claims in the future that could have a material adverse effect on its results of operations in any particular period, notwithstanding the fact that the Company is currently vigorously defending any legal proceedings against it. In the opinion of management, such litigation, claims and complaints are not expected to have a material adverse effect on the Company’s financial condition or results of operations.
+
+Although there can be no assurance, the Company is not aware of any material environmental liability, for which it believes it will be ultimately responsible, that could have a material adverse effect on its financial condition or results of operations. However, changes in applicable environmental laws and regulations, the uses and conditions of properties in the vicinity of the Company’s properties, the activities of its tenants and other environmental conditions of which the Company is unaware with respect to its properties could result in future material environmental liabilities.
+
+Extra Space Storage Inc.
+
+Schedule III
+
+Real Estate and Accumulated Depreciation
+
+(Dollars in thousands)
+
+As of December 31, 2025
+
+(1) No right-of-use assets related to operating leases are included in the ending net real estate assets information above.
+
+Extra Space Storage Inc. Schedule III (continued)
+
+(1) No right-of-use assets related to operating leases are included in the ending net real estate assets information above.
+
+As of December 31, 2025, the aggregate cost of real estate for U.S. federal income tax purposes was $ 19,707,569 .
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+(i) Disclosure Controls and Procedures
+
+We maintain disclosure controls and procedures to ensure that information required to be disclosed in the reports we file pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure based on the definition of “disclosure controls and procedures” in Rule 13a-15(e) of the Exchange Act. In designing and evaluating the disclosure controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can only provide reasonable assurance of achieving the desired control objectives, and in reaching a reasonable level of assurance, management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+
+We have a disclosure committee that is responsible for considering the materiality of information and determining the disclosure obligations of the Company on a timely basis. The disclosure committee meets quarterly and reports directly to our Chief Executive Officer and Chief Financial Officer.
+
+We carried out an evaluation, under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered by this Annual Report. Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of the end of the period covered by this report.
+
+(ii) Internal Control over Financial Reporting
+
+1. Management’s Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) of the Exchange Act. Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on our evaluation, our management concluded that our internal control over financial reporting was effective as of December 31, 2025. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Our independent registered public accounting firm, Ernst & Young LLP, has issued the following attestation report over our internal control over financial reporting.
+
+(b) Attestation Report of the Registered Public Accounting Firm
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Extra Space Storage Inc.
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Extra Space Storage Inc.’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Extra Space Storage Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and financial statement schedule listed in the Index at Item 8 and our report dated February 20, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+Salt Lake City, Utah
+
+February 20, 2026
+
+(c) Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting (as such term is defined in Exchange Act Rule 13a-15(f)) that occurred during our most recent quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Item 9B. Other Information
+
+During the three months ended December 31, 2025, none of our officers or directors adopted , modified or terminated any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non Rule 10b5-1 trading arrangement,” except as follows:
+
+On December 12, 2025 , Joseph D. Margolis , our Chief Executive Officer and Director , modified his trading plan adopted pursuant to Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended (the “10b5-1 Plan”). The 10b5-1 Plan was adopted on February 28, 2025, and up to 30,000 shares of our common stock, par value $0.01 per share (“Common Stock”), could have been sold pursuant to the 10b5-1 Plan. Prior to the modification of the 10b5-1 Plan, a total of 15,000 shares of Common Stock were sold thereunder. The modification of the 10b5-1 Plan now allows for the sale of up to 7,500 shares of Common Stock from March 13, 2026 through March 17, 2026 subject to a limit price of $140.00 per share.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+None.
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Information required by this item is incorporated by reference to the information set forth under the captions “Executive Officers” and “Information About the Board of Directors and its Committees” in our definitive Proxy Statement to be filed with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days after December 31, 2025.
+
+We have adopted a Code of Business Conduct and Ethics in compliance with rules of the SEC that applies to all of our personnel, including our board of directors, Chief Executive Officer, Chief Financial Officer and Chief Accounting Officer. The Code of Business Conduct and Ethics is available free of charge on the “Investor Relations—Governance” section of our web site at www.extraspace.com. We intend to satisfy any disclosure requirements under Item 5.05 of Form 8-K regarding amendment to, or waiver from, a provision of this Code of Business Conduct and Ethics by posting such information on our web site at the address and location specified above.
+
+The board of directors has adopted Corporate Governance Guidelines and charters for our Audit Committee, Compensation Committee and Nominating, Governance and Corporate Responsibility Committee, each of which is posted on our website at the address and location specified above. Investors may obtain a free copy of the Code of Business Conduct and Ethics, the Corporate Governance Guidelines and the committee charters by contacting the Investor Relations Department at 2795 East Cottonwood Parkway, Suite 300, Salt Lake City, Utah 84121, Attn: Jared Conley or by telephoning (801) 365-4600.
+
+We have adopted an insider trading policy and procedures governing the purchase, sale, and/or other dispositions of our securities by our directors, officers, employees and other covered persons that are designed to promote compliance with insider trading laws, rules and regulations, and the New York Stock Exchange listing requirements, as applicable. A copy of our Insider Trading Compliance Program is incorporated by reference as Exhibit 19.1 to this annual report on Form 10-K. It is our policy to comply with U.S. insider trading laws and regulations, including with respect to transactions in our own securities.
+
+Item 11. Executive Compensation
+
+Information with respect to executive compensation is incorporated by reference to the information set forth under the caption “Executive Compensation” in our definitive Proxy Statement to be filed with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days after December 31, 2025.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Information with respect to security ownership of certain beneficial owners and management and related stockholder matters is incorporated by reference to the information set forth under the captions “Executive Compensation” and “Security Ownership of Directors and Officers” in our definitive Proxy Statement to be filed with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days after December 31, 2025.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+Information with respect to certain relationships and related transactions is incorporated by reference to the information set forth under the captions “Information about the Board of Directors and its Committees” and “Review and Approval of Related Party Transactions” in our Proxy Statement to be filed with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days after December 31, 2025.
+
+Item 14. Principal Accounting Fees and Services
+
+Information with respect to principal accounting fees and services is incorporated by reference to the information set forth under the caption “Ratification of the Engagement of Ernst & Young LLP as the Company’s Independent Registered Public Accounting Firm for 2026” in our Proxy Statement to be filed with the Securities and Exchange Commission pursuant to Regulation 14A within 120 days after December 31, 2025.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a) Documents filed as part of this report:
+
+(1) and (2). All Financial Statements and Financial Statement Schedules filed as part of this Annual Report on 10-K are included in Item 8—“Financial Statements and Supplementary Data” of this Annual Report on 10-K and reference is made thereto.
+
+(3) The following documents are filed or incorporated by references as exhibits to this report:
+
+* Management compensatory plan or arrangement
+
+Item 16. Form 10-K Summary
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.

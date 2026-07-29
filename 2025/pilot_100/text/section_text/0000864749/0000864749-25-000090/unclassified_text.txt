@@ -1,0 +1,109 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+Commission File Number: 001-14845
+
+TRIMBLE INC.
+
+(Exact name of Registrant as specified in its charter)
+
+10368 Westmoor Drive , Westminster , CO 80021
+
+(Address of principal executive offices) (Zip Code)
+
+( 720 ) 887-6100
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+As of June 28, 2024, the aggregate market value of the common stock held by non-affiliates of the registrant was approximately $ 13.7 billion based on the closing price as reported on the NASDAQ Global Select Market. Shares of common stock held by each officer and director of the registrant have been excluded in that such person may be deemed to be an affiliate. This determination of affiliate status is not necessarily a conclusive determination for any other purpose.
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Some of the information required by Part III of this report is incorporated by reference from the proxy statement relating to the registrant’s 2025 annual meeting of stockholders (the “Proxy Statement”), to be filed with the Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
+
+SPECIAL NOTE ON FORWARD-LOOKING STATEMENTS
+
+This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections. These statements include, among other things:
+
+• general global macroeconomic outlook, including slowing growth, inflationary pressures, and increases in interest rates as well as trade policy including the implementation of global tariffs;
+
+• economic disruptions caused by the potential impact of volatility and conflict in the political and economic environment, including developments in the conflict between Russia and Ukraine;
+
+• fluctuations in foreign currency exchange rates;
+
+• our ability to convert backlog to revenue;
+
+• the cyclical nature of our hardware revenue;
+
+• the portion of our revenue expected to come from sales to customers located in countries outside of the U.S.;
+
+• our plans to continue to invest in research and development for the active development and introduction of new products and to deliver targeted solutions to the markets we serve;
+
+• our shift towards a more significant mix of recurring revenue;
+
+• our belief that increases in recurring revenue will provide us with enhanced business visibility over time;
+
+• risks associated with our growth strategy, focusing on historically underserved large markets;
+
+• our expectations regarding the execution and impact of the Connect & Scale strategy;
+
+• any anticipated benefits or impact to our results of operations and financial conditions from our acquisitions and our ability to successfully integrate the acquired businesses;
+
+• any anticipated benefits associated with the sale of our global transportation telematics business (“Mobility”) to Platform Science, Inc. (“Platform Science”) and our associated investment;
+
+• any anticipated benefits associated with the contribution of our precision agriculture business (“Ag”), excluding Global Navigation Satellite System (“GNSS”) and guidance technologies, to a newly formed joint venture, PTx Trimble, and the sale of the majority interest in PTx Trimble to AGCO Corporation (“AGCO”);
+
+• our expectation to use a majority of the remaining proceeds from the Ag divestiture, after tax, to repurchase stock;
+
+• our ability to conduct, suspend, or discontinue our stock repurchase program subject to the discretion of our management;
+
+• our belief that our cash and cash equivalents and borrowings, along with cash provided by operations, will be sufficient in the foreseeable future to meet our anticipated operating cash needs, including expenditures related to our Connect & Scale strategy, debt service, stock repurchases, and any acquisitions;
+
+• our belief that our gross unrecognized tax benefits will not materially change in the next twelve months;
+
+• our commitments to sustainability matters; and
+
+• our ability to maintain effective internal controls over financial reporting, including our ability to remediate our material weaknesses in our internal control over financial reporting.
+
+The forward-looking statements regarding future events and the future results of Trimble Inc. (“Trimble,” the “Company,” or “we,” or “our,” or “us”) are based on current expectations and the beliefs and assumptions of our management that are subject to risks and uncertainties. Discussions containing such forward-looking statements may be found in Item 1A “Risk Factors” and Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section of this report. Forward-looking statements generally can be identified by words such as “may,” “will,” “should,” “could,” “predicts,” “potential,” “continue,” “expects,” “anticipates,” “future,” “intends,” “plans,” “believes,” “estimates,” and similar expressions. These forward-looking statements involve certain risks and uncertainties that could cause actual results, levels of activity, performance, achievements, and events to differ materially from those implied by such forward-looking statements, including but not limited to, those discussed in this report under the section entitled “Risk Factors” and elsewhere, and in other reports we file with the Securities and Exchange Commission (the “SEC”), specifically the most recent reports on Form 8-K and Form 10-Q, each as it may be amended from time to time. These forward-looking statements are made as of the date of this report. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+i
+
+TRIMBLE INC.
+
+2024 FORM 10-K ANNUAL REPORT
+
+ii
+
+PART I

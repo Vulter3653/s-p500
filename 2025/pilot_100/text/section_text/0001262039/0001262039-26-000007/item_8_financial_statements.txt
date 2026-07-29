@@ -1,0 +1,817 @@
+ITEM 8. Financial Statements and Supplementary Data
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the stockholders and the Board of Directors of Fortinet, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Fortinet, Inc. and subsidiaries (the “Company”) as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, stockholders’ equity (deficit), and cash flows, for each of the three years in the period ended December 31, 2025, and the related notes (collectively referred to as the “financial statements”). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with accounting principles generally accepted in the United States of America.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission and our report dated February 24, 2026, expressed an unqualified opinion on the Company’s internal control over financial reporting.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matters communicated below are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+Revenue – Refer to Note 1 and Note 2 to the Financial Statements
+
+Critical Audit Matter Description
+
+The Company’s contracts with customers often include multiple performance obligations, such as hardware, software license, security subscription, technical support services, cloud and other services, which are generally capable of being distinct and accounted for as separate performance obligations. Pursuant to accounting principles generally accepted in the United States of America, the Company is required to evaluate whether each performance obligation represents goods and services that are distinct for purposes of determining the amount and timing of revenue recognition. A good or service is distinct where the customer can benefit from the product without the services and the services are separately identifiable within a contract, and the transfer of the good or service is separately identifiable from other promises in the contract. The evaluation of performance obligations can require significant judgment in certain contracts and could change the amount of revenue recognized in a given period.
+
+We identified the evaluation of performance obligations in certain contracts as a critical audit matter because of the significant judgment management makes in evaluating such contracts and the impact of such judgment on the amount of revenue recognized in a particular period. This required a high degree of auditor judgment and an increased extent of testing.
+
+How the Critical Audit Matter Was Addressed in the Audit
+
+Our audit procedures related to the Company's identification and evaluation of performance obligations within certain contracts and the resulting impact on the pattern and timing of revenue recognition included the following, among others:
+
+• We assessed management’s significant accounting policies related to revenue recognition for compliance with Accounting Standards Codification 606, Revenue from Contracts with Customers.
+
+• We evaluated the design and tested the operating effectiveness of internal controls over review of contracts, including those over the identification and evaluation of contract terms and conditions and the resulting impact on revenue recognition.
+
+• We selected a sample of certain contracts and performed the following:
+
+• Obtained and read the related contract documents and evaluated whether management had properly identified the performance obligations.
+
+• Assessed management’s evaluation of the impact of the performance obligations on the pattern and timing of revenue recognition.
+
+/s/ DELOITTE & TOUCHE LLP
+
+San Jose, California
+
+February 24, 2026
+
+We have served as the Company’s auditor since 2002.
+
+FORTINET, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(in millions, except per share amounts)
+
+FORTINET, INC.
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+(in millions, except per share amounts)
+
+See notes to consolidated financial statements.
+
+FORTINET, INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(in millions)
+
+See notes to consolidated financial statements.
+
+FORTINET, INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (DEFICIT)
+
+(in millions)
+
+See notes to consolidated financial statements.
+
+FORTINET, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in millions)
+
+See notes to consolidated financial statements.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. THE COMPANY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Business —Fortinet, Inc. (“Fortinet”) was incorporated in Delaware in 2000 and is a global leader in broad, integrated and automated cybersecurity solutions. Fortinet provides high performance cybersecurity solutions to a wide variety of businesses, such as large enterprises, communication service providers, government organizations and small to medium-sized enterprises. Fortinet’s cybersecurity solutions are designed to provide broad visibility and segmentation of the digital attack surface, through our integrated cybersecurity platform (the “Fortinet Security Fabric”) with automated protection, detection and response.
+
+Basis of Presentation and Preparation —The consolidated financial statements of Fortinet and its subsidiaries (collectively, “we,” “us”, or “our”) have been prepared in accordance with generally accepted accounting principles in the United States (“GAAP”). We consolidate all legal entities in which we have an absolute controlling financial interest. All intercompany transactions and balances have been eliminated in consolidation.
+
+Amounts previously reported as marketable equity securities are included in short-term investments in prior periods to conform with current period presentation in our consolidated balance sheets. Amounts previously reported as gain on bargain purchase are included in other income (expense) —net in prior periods to conform with current period presentation in our consolidated statements of income. Amounts previously reported as loss from equity method investments and gain on bargain purchase are included in other in prior periods to conform with current period presentation in section of net cash provided by operating activities in our consolidated statements of cash flows. The reclassification had no impact on our previously reported total assets, net income or cash flows from operating or investing activities and did not result in a restatement of prior period consolidated financial statements.
+
+Use of Estimates —The preparation of consolidated financial statements in accordance with GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Such management estimates include, but are not limited to, the determination of contingent liabilities, the standalone selling price for our products and services, the period of benefit for deferred contract costs for commissions, stock-based compensation, inventory valuation and liability for non-cancellable inventory purchase commitments with contract manufacturers and component suppliers, the fair value of tangible and intangible assets acquired and liabilities assumed in business combinations, the measurement of liabilities for uncertain tax positions and deferred tax assets and liabilities, the assessment of recoverability of our goodwill and other long-lived assets. We base our estimates on historical experience and also on assumptions that we believe are reasonable. Actual results could differ materially from those estimates.
+
+Concentration Risk —Financial instruments that subject us to concentrations of credit risk consist primarily of cash, cash equivalents, short-term and long-term investments, marketable equity securities and accounts receivable. Our cash balances are maintained as deposits with various large financial institutions in the United States and around the world. Balances in the United States typically exceed the amount of insurance provided on such deposits. We maintain our cash equivalents and investments in money market funds, corporate debt securities, U.S. government and agency securities, commercial paper and certificates of deposit and term deposits with major financial institutions that our management believes are financially sound.
+
+Our accounts receivable are derived from our customers in various geographic locations. We perform ongoing credit evaluations of our customers. We generally do not require collateral on accounts receivable, and we maintain reserves for estimated credit losses. See Note 15. Segment Information for distributor customers accounted for 10% or more of our revenue or net accounts receivable.
+
+We rely on a small number of manufacturing partners, with the majority of manufacturing in Taiwan and U.S., to manufacture our products, and some of the chips and other components of our products used by the contract manufacturers are available from limited or sole sources of supply. We do not own manufacturing activities in China. Our proprietary Application-Specific Integrated Circuits are built by contract manufacturers located in Japan and Taiwan; other integrated circuits are provided by other chip manufacturers.
+
+Financial Instruments and Fair Value —We define fair value as the price that would be received from selling an asset, or paid to transfer a liability, in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities which are required to be recorded at fair value, we consider the principal or most advantageous market in which to transact and the market-based risk. We apply fair value accounting for all financial assets and liabilities and non-financial assets and liabilities that are recognized or disclosed at fair value in the
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+financial statements on a recurring basis. Due to their short-term nature, the carrying amounts reported in the consolidated financial statements approximate the fair value for cash and cash equivalents, accounts receivable, accounts payable, accrued liabilities, and accrued payroll and compensation.
+
+Comprehensive Income —Comprehensive income includes certain changes in equity from non-owner sources that are excluded from net income, specifically, cumulative foreign currency translation adjustments, unrealized gains and losses on available-for-sale investments and the related tax impacts.
+
+Foreign Currency and Transaction Gains and Losses —The functional currency for most of our foreign subsidiaries is the U.S. dollar. For our international subsidiary whose functional currency is the local currency, we translate the financial statements of this subsidiary to U.S. dollars using the exchange rates in effect at the balance sheet dates for assets and liabilities, and average monthly exchange rates for revenues, costs, and expenses. We record translation gains and losses in accumulated other comprehensive income as a component of stockholders’ equity (deficit). We reflect net forei gn exchange transaction gains and losses resulting from the conversion of the transaction currency to functional currency as a component of foreign currency exchange gain (loss) in other income (expense)—net. We recognized a foreign currency loss of $ 4.9 million, $ 16.9 million and $ 7.0 million in other income (expense)—net, for 2025, 2024, and 2023, respectively.
+
+Cash and Cash Equivalents —We consider all highly liquid investments, purchased with original maturities of three months or less, to be cash equivalents. Cash and cash equivalents consist of balances with banks and highly liquid investments in commercial paper, corporate debt, U.S. government and agency securities, term deposits and money market funds.
+
+Available-for-Sale Investments —We hold investment grade securities consisting of corporate debt securities, U.S. government and agency securities, commercial paper and certificates of deposit and term deposits. We classify our investments as available-for-sale (“AFS”) at the time of purchase, since it is our intent that these investments are available for current operations. Investments with original maturities greater than three months with a remaining maturity of less than one year from the consolidated balance sheet date are classified as short-term investments. Investments with remaining maturities greater than one year from the consolidated balance sheet date are classified as long-term investments.
+
+Our AFS investments in debt securities are carried at estimated fair value with any unrealized gains and losses, net of taxes, included in accumulated other comprehensive income (loss) in the consolidated statements of stockholders’ equity (deficit). AFS debt securities with an amortized cost basis in excess of estimated fair value are assessed to determine what amount of that difference, if any, is caused by expected credit losses. An investment is impaired if the fair value of the investment is less than its cost. If the fair value of an investment is less than its amortized cost basis at the balance sheet date and if we do not intend to sell the investment, we consider available evidence to assess whether it is more likely than not that we will be required to sell the investment before the recovery of its amortized cost basis. We consider relevant quantitative and qualitative information, including general market conditions and the duration of the unrealized loss, in assessing whether a decline in fair value below amortized cost is attributable to credit related factors and whether we intend to sell, or will be required to sell, the security before recovery of its amortized cost basis. Once an impairment is determined to be attributable to credit-related factors, allowance for credit losses (i.e., the credit loss component) on AFS debt securities is recognized as credit loss expense, a charge in other income (expense)—net, on our consolidated statements of income, and any remaining unrealized losses (i.e., the non-credit loss component), net of taxes, are included in accumulated other comprehensive income (loss) on our consolidated statements of stockholders’ equity (deficit).
+
+We consider whether unrealized losses have resulted from a credit loss or other factors. The unrealized losses on our AFS debt securities as of December 31, 2025, 2024 and 2023 were caused by fluctuations in market value and interest rates as a result of the market conditions. We concluded that an allowance for credit losses was unnecessary as of December 31, 2025, 2024 and 2023 because (i) the decline in market value was attributable to changes in market conditions and not credit quality, and (ii) we concluded that neither do we intend to sell nor is it more likely than not that we will be required to sell these investments prior to recovery of their amortized cost basis. As a result, we had no credit losses recorded for the years ended December 31, 2025, 2024 and 2023.
+
+We determine realized gains or losses on sale of AFS debt securities using the specific identification method to determine the cost basis of investments sold and record such gains or losses as other income (expense)—net on the consolidated statements of income. We have elected to not record an allowance for credit losses for accrued interest for AFS investments in debt securities and will reverse the accrued interest against interest income in the period in which we determine the accrued interest to be uncollectible.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Marketable Equity Securities —Our marketable equity investments with readily determinable fair values are accounted for at fair value through net income. Realized gains and losses as well as changes in fair value of these securities are recognized and reported in other income (expense)—net, and are determined using the specific identification method.
+
+Investments in privately held companies —Our investments in privately held companies consist of investments in common stock or in-substance common stock. Our equity method investments provide us with the ability to exercise significant influence over the investees, but not an absolute controlling financial interest. These investments are accounted for under the equity method of accounting and were initially recorded at cost. Subsequently, we recognize our proportionate share of the entity’s net profit or loss, the amortization of any basis differences, as well as any other-than-temporary impairment (“OTTI”) as gain or loss from these equity method investments in the consolidated statements of income and as an adjustment to the investment balance. We record our proportionate share of the results of these equity method investments on a three-month lag basis. We evaluate whether there are material transactions or events that occur during the intervening period that materially affect the financial position or results of operations. As of December 31, 2025, we had one equity method investment, and as of December 31, 2024, we had two equity method investments, including the investment in Linksys Holdings, Inc. (“Linksys”). As of December 31, 2025 and 2024, our equity method investments were recorded in other assets. Our remaining investments in privately held companies are recorded at cost and as of December 31, 2025 and 2024 were not material.
+
+We evaluate our equity method investments at the end of each reporting period to determine whether events or changes in business circumstances indicate that the carrying value of the investments may not be recoverable. Evidence of a loss in value might include, but would not necessarily be limited to, absence of an ability to recover the carrying amount of the investments or inability of the investee to sustain an earnings capacity that would justify the carrying amount of the investments. This evaluation consists of several qualitative and quantitative factors including recent financial results, projected financial results and operating trends of the investees and other publicly available information that may affect the value of our investments.
+
+Accounts receivable —Trade accounts receivable are recorded at the invoiced amount. Our accounts receivable balance is reduced by an allowance for expected credit losses. We measure expected credit losses of accounts receivable on a collective (pooled) basis, aggregating accounts receivable that are either current or no more than 60 days past due, and aggregating accounts receivable that are more than 60 days past due. We apply a credit-loss percentage to each of the pools that is based on our historical credit losses. We review whether each of our significant accounts receivable that is more than 60 days past due continues to exhibit similar risk characteristics with the other accounts receivable in the pool. If we determine that it does not, we evaluate it for expected credit losses on an individual basis.
+
+We further consider collectability trends for the allowance for credit losses based on our assessment of various factors, including credit quality of our customers, current economic conditions, reasonable and supportable forecasts of future economic conditions, and other factors that may affect our ability to collect from our customers. Expected credit losses are recorded as general and administrative expenses on our consolidated statements of income. The allowance for credit losses was $ 7.4 million and $ 5.9 million as of December 31, 2025 and 2024, respectively. Provisions, write-offs and recoveries were not material during the years ended December 31, 2025, 2024 and 2023.
+
+Inventory —Inventory is recorded at the lower of cost or net realizable value. Cost is computed using the first-in, first-out method. Inventory costs comprise primarily of the cost of materials and other component parts, as well as overhead costs. In assessing the ultimate recoverability of inventory, we make estimates regarding future customer demand, the timing of new product introductions, economic trends and market conditions. A write-down of inventory and a corresponding charge to cost of product revenue is recorded when inventory is determined to be in excess of anticipated demand or considered obsolete. At the point of the write-down loss recognition, a new, lower cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. In addition, we record a liability for non-cancelable inventory purchase commitments with contract manufacturers and suppliers for quantities in excess of our future estimated demand forecasts. The expense related to such accrued liability for inventory purchase commitments is recorded in cost of product revenue on the consolidated statements of income.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Property and Equipment —Property and equipment are stated at cost less accumulated depreciation. We do not depreciate the allocated cost of land. Depreciation is computed using the straight-line method over the estimated useful lives of the assets:
+
+Business Combinations —We include the results of operations of the businesses that we acquire as of the respective dates of acquisition. We allocate the fair value of the purchase price of our business acquisitions to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. The excess of the purchase price over the fair values of these identifiable assets and liabilities is recorded as goodwill. The excess of the fair values of the net assets acquired over the net purchase consideration is recorded as a gain on bargain purchase within other income (expense) —net on the consolidated statements of income. We often continue to gather additional information throughout the measurement period, not to exceed one year from the acquisition date. Measurement period adjustments that relate to facts and circumstances that existed as of the acquisition date are generally recorded with a corresponding adjustment to goodwill, as if the accounting had been completed at the acquisition date. Adjustments identified after the measurement period are recognized in the consolidated statements of income in the period identified.
+
+Impairment of Long-Lived Assets —We evaluate events and changes in circumstances that could indicate carrying amounts of long-lived assets, including intangible assets, may not be recoverable. When such events or changes in circumstances occur, we assess the recoverability of long-lived assets by determining whether the carrying value of such assets will be recovered through undiscounted expected future cash flows. If the total of the future undiscounted cash flows is less than the carrying amount of those assets, we record an impairment charge in the period in which we make the determination. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets. There were no impairments of long-lived assets in 2025, 2024 and 2023.
+
+Goodwill —Goodwill represents the excess of purchase consideration over the estimated fair value of net assets of businesses acquired in a business combination. Goodwill acquired in a business combination is not amortized, but instead tested for impairment at least annually during the fourth quarter, or sooner when circumstances indicate an impairment may exist. We perform a qualitative assessment in the fourth quarter of each year, or more frequently if indicators of potential impairment exist, to determine if any events or circumstances exist, such as an adverse change in business climate or a decline in the overall industry that would indicate that it would more likely than not reduce the fair value of a reporting unit below its carrying amount, including goodwill. If such evaluation indicates that it is more likely than not that the fair value of a reporting unit is less that its carrying amount, then the quantitative impairment test will be performed. Under the quantitative impairment test, if the carrying amount of a reporting unit exceeds its fair value, any excess is recognized as an impairment loss in goodwill, limited to the total amount of goodwill allocated to that reporting unit.
+
+We performed our annual goodwill impairment assessment and did not identify any impairment indicators as a result of the review. As of December 31, 2025 and 2024, we h ad one reporti ng unit.
+
+Other Intangible Assets —Intangible assets with finite lives are carried at cost, less accumulated amortization. Amortization is computed using the straight-line or accelerated method over the estimated economic lives of the assets, which range from one to ten years .
+
+Income Taxes —We record income taxes using the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in our financial statements or tax returns. In addition, deferred tax assets are recorded for the future benefit of utilizing net operating losses and research and development credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates that apply to taxable income in effect for the years in which those tax assets and liabilities are expected to be realized or settled. Valuation allowances are provided when necessary to reduce deferred tax assets to the amount expected to be realized.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+As part of the process of preparing our consolidated financial statements, we are required to estimate our taxes in each of the jurisdictions in which we operate. We estimate actual current tax exposure together with assessing temporary differences resulting from differing treatment of items, such as accruals and allowances not currently deductible for tax purposes. These differences result in deferred tax assets, which are included in our consolidated balance sheets. In general, deferred tax assets represent future tax benefits to be received when certain expenses previously recognized in our consolidated statements of income become deductible expenses under applicable income tax laws, or loss or credit carryforwards are utilized.
+
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. We continue to assess the need for a valuation allowance on the deferred tax assets by evaluating both positive and negative evidence that may exist. Any adjustment to the valuation allowance on deferred tax assets would be recorded in the consolidated statements of income for the period that the adjustment is determined to be required.
+
+We recognize tax benefits from an uncertain tax position only if it is more likely than not, based on the technical merits of the position, that the tax position will be sustained on examination by the tax authorities. The tax benefits recognized in the financial statements from such positions are then measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement.
+
+We have elected to account for the tax effect of the GILTI as a current period expense.
+
+On July 4, 2025, H.R. 1, an Act to Provide for Reconciliation Pursuant to Title II of House Concurrent Resolution 14 (the “Act”) commonly referred to as the One Big Beautiful Bill Act, was enacted. The Act makes permanent certain elements of the Tax Cuts and Jobs Act, including immediate expensing of U.S. research and development expenditures, immediate expensing of certain eligible assets, and various modifications to the international tax framework. As a result of the Act, our income tax liability in 2025 decreased by $ 120.0 million and our GAAP effective tax rate for 2025 increased by one percentage point.
+
+Stock-Based Compensation —The fair value of restricted stock units (“RSUs”) is based on the closing market price of our common stock on the date of grant. We have elected to use the Black-Scholes-Merton (“Black-Scholes”) pricing model to determine the fair value of our stock options and the Monte Carlo simulation pricing model to determine the fair value of our performance stock units (“PSUs”). Stock-based compensation expense of our RSUs and options is amortized on a straight-line basis over the service period and stock-based compensation expense of our PSUs is amortized using a graded vesting method over the vesting period. We account for forfeitures of all stock-based payment awards when they occur.
+
+Leases —We determine if an arrangement is a lease at inception. We evaluate the classification of leases at commencement and, as necessary, at modification. The right-of-use (“ROU”) assets and the short- and long-term lease liabilities from our operating leases are included in other assets, accrued liabilities and other liabilities in our consolidated balance sheets, respectively. The corresponding assets and, the short- and long-term lease liabilities from our finance leases are included in property and equipment, accrued liabilities and other liabilities in our consolidated balance sheets, respectively.
+
+The ROU assets represent our right to use an underlying asset for the lease term. Lease liabilities represent our obligation to make lease payments under the lease. Operating lease ROU assets and liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term. The implicit rate within our operating leases is generally not determinable and therefore we use our incremental borrowing rate at the lease commencement date to determine the present value of lease payments. The determination of our incremental borrowing rate requires judgment. We determine our incremental borrowing rate for each lease using indicative bank borrowing rates, adjusted for various factors including level of collateralization, term and currency to align with the terms of a lease. The operating lease ROU asset also includes any lease prepayments and initial direct costs, net of lease incentives. Certain leases include options to extend or terminate the lease. An option to extend the lease is considered in connection with determining the ROU asset and lease liability when it is reasonably certain we will exercise that option. An option to terminate is considered unless it is reasonably certain we will not exercise the option.
+
+We do not recognize lease liabilities or ROU assets for short-term leases (leases that, at the commencement date, have a lease term of 12 months or less and do not include an option to purchase the underlying asset that we are reasonably certain to exercise). We do not allocate the contract consideration for operating lease contracts with lease and non-lease components, and account for the lease and non-lease components as a single lease component.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Payments under our lease arrangements are primarily fixed; however, certain lease agreements contain variable payments, which are expensed as incurred and not included in the operating lease ROU assets and liabilities. Variable lease payments primarily include common area maintenance charges, real estate taxes, certain parking expense, utilities based on actual usage, and insurance costs. Lease expense for lease payments for our operating leases is recognized on a straight-line basis over the term of the lease. We begin recognizing rent expense on the date that a lessor makes an underlying asset that is subject to the lease available for our use. For our finance leases, we recognize amortization expense from the amortization of the corresponding assets and interest expense on the related lease liabilities.
+
+Advertising Expense —Advertising costs are expensed when incurred and are included in operating expenses in the accompanying consolidated statements of income. Our advertising expenses were not material for any periods presented.
+
+Research and Development Costs —Research and development costs are expensed as incurred, and primarily consist of personnel costs. Research and development costs also include ASIC and system prototype and certification-related expenses, depreciation of property and equipment and facility-related expenses. The majority of our research and development is focused on software and hardware development.
+
+Software Development Costs —The costs to develop software that is marketed have not been capitalized as we believe our current software development process is essentially completed concurrently with the establishment of technological feasibility. Such costs are expensed as incurred and included in research and development in our consolidated statements of income.
+
+The costs to develop software for internal use are capitalized based on qualifying criteria. These costs consist of internal compensation related costs and external direct costs incurred during the application development stage. Such costs are amortized over the software’s estimated useful life. Internal use software development costs capitalized were not material for any periods presented.
+
+Deferred Contract Costs and Commission Expense —Sales commissions earned by our sales force are considered incremental and recoverable costs of obtaining a contract with a customer. We recognize sales commissions expenses related to product sales upfront while sales commissions expenses for service contracts are deferred as deferred contract costs in the consolidated balance sheets and amortized over the applicable amortization period. Commission costs for initial contracts that are not commensurate with commissions on renewal contracts are amortized on a straight-line basis over the period of benefit, which we have determined to be five years and which is typically longer than the initial contract term. The amortization of deferred contract costs is included in sales and marketing expenses in our consolidated statements of income. Amortization of deferred contract costs during 2025, 2024 and 2023 was $ 336.3 million, $ 293.7 million and $ 266.3 million, respectively. No impairment loss of deferred contract costs asset was recognized during 2025, 2024 and 2023.
+
+Deferred Revenue —Deferred revenue consists of amounts that have been invoiced but that have not yet been recognized as revenue. Deferred revenue that will be recognized during the succeeding 12-month period is recorded as current deferred revenue and the remaining portion is recorded as non-current deferred revenue. The majority of deferred revenue is comprised of security subscription and technical support services which are invoiced upfront and delivered over 12 months or longer.
+
+Revenue Recognition —Our revenue consists of product and service revenue. Revenues are recognized when control of these goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services. We determine revenue recognition through the following steps:
+
+• identification of a contract or contracts with a customer;
+
+• identification of the performance obligations in a contract, including evaluation of performance obligations and evaluating the distinct goods or services in a contract;
+
+• determination of a transaction price;
+
+• allocation of a transaction price to the performance obligations in a contract; and
+
+• recognition of revenue when, or as, we satisfy a performance obligation.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+We derive a significant amount of product sales from FortiGate, a secure networking hardware which include a broad set of built-in security and networking features and functionalities, including firewall, next-generation firewall, secure web gateway, SSL inspection, software-defined wide-area network, intrusion prevention, SSL data leak prevention, virtual private network, switch and wireless controller and wide area network edge.
+
+We recognize product revenue upon shipment when control of the promised goods is transferred to the customer. Our term-based software licenses represent multiple performance obligations, which include software licenses and software support services where the software licenses are recognized upfront within product revenue upon transfer of control, and the associated software support services are recognized ratably over the service term as service revenue.
+
+Service revenue relates to sales of our FortiGuard and other security subscriptions, FortiCare technical support services and other services. Our typical subscription and support term is one to five years . We generally recognize revenue from these services ratably over the service term because of continuous transfer of control to the customer. We also generate a portion of our revenue from other services consisting of professional services and training. Security subscription include SaaS which is either hosted by us or provided through cloud providers. We recognize revenue from professional and training services as the services are provided. We recognize revenue from SaaS as the subscription service is delivered over the term, or on a monthly usage basis.
+
+Our sales contracts typically contain performance obligations, such as hardware, software license, security subscription, technical support services, SaaS and other services, which are generally capable of being distinct and accounted for as separate performance obligations. Our hardware and software licenses have significant standalone functionalities and capabilities. Accordingly, the hardware and software licenses are distinct from the security subscription and technical support services, as a customer can benefit from the product without the services and the services are separately identifiable within a contract. We allocate the transaction price to each performance obligation based on relative standalone selling price. We establish standalone selling price using the prices charged for a deliverable when sold separately. If not observable through past transactions, we determine standalone selling price by considering multiple historical factors including, but not limited to, cost of products, gross margin objectives, pricing practices, geographies and the term of a service contract. Revenue is reported net of sales tax.
+
+In certain circumstances, our contracts include provisions for sales rebates and other customer incentive programs. Additionally, in limited circumstances, we may permit end-customers, distributors and resellers to return our products, subject to varying limitations, for a refund within a reasonably short period from the date of purchase. These amounts are accounted for as variable consideration that can decrease the transaction price. We estimate variable consideration using the expected-value method based on the most likely amounts to which we expect our customers to be entitled. We include estimated amounts in the transaction price to the extent that it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved. Our estimate for refund liabilities, which include sales returns reserve and customer rebates, was $ 52.0 million and $ 71.8 million as of December 31, 2025 and 2024, respectively, and is included in accrued liabilities in our consolidated balance sheet.
+
+We generally invoice at the time of our sale for the total price of the hardware, software licenses, security subscription and technical support and other services. Standard payment terms are generally no more than 60 days, though we continue to offer extended payment terms to certain distributors. Amounts billed and due from our customers are classified as receivables on the balance sheet and do not bear interest.
+
+Shipping and handling fees charged to our customers are recognized as revenue in the period shipped and the related costs for providing these services are recorded in cost of revenue. Shipping and handling fees recognized were not material during 2025, 2024 and 2023.
+
+Warranties —We generally provide a one-year warranty for most hardware products and a 90 -day warranty for software. We also provide extended warranties under the terms of our support agreements. A provision for estimated future costs related to warranty activities in the first year after product sale is recorded as a component of cost of product revenues when the product revenue is recognized, based upon historical product failure rates and historical costs incurred in correcting product failures. Warranty costs related to extended warranties sold under support agreements are recognized as cost of service revenue as incurred. Accrued warranty liability was not material as of December 31, 2025 and 2024.
+
+Contingent Liabilities —From time to time, we are involved in disputes, litigation, and other legal actions. There are many uncertainties associated with any disputes, litigation and other legal actions, and these actions or other third-party claims
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+against us may cause us to incur costly litigation fees, costs and substantial settlement charges, and possibly subject us to damages and other penalties, which are inherently difficult to estimate and could adversely affect our results of operations. In addition, the resolution of any IP litigation may require us to make royalty payments, which could adversely affect our gross margins in future periods. We periodically review significant claims and litigation matters for the probability of an adverse outcome. Estimates can change as individual claims develop. The actual liability in any such matters may be materially different from our estimates, which could result in the need to adjust our liability and record additional expenses, which may be material.
+
+Recently Adopted Accounting Standards
+
+Income Taxes
+
+In December 2023, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update (“ASU”) 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which includes amendments that further enhance income tax disclosures, primarily through standardization and disaggregation of rate reconciliation categories and income taxes paid by jurisdiction. We adopted ASU 2023-09 for our annual period beginning fiscal year 2025 on a prospective basis. Refer to Note 13. Income Taxes.
+
+Recent Accounting Standards Not Yet Effective
+
+Expense Disaggregation Disclosures
+
+In November 2024, the FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses (“ASU 2024-03”), and in January 2025, the FASB issued ASU No. 2025-01, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date, which clarified the effective date of ASU 2024-03. ASU 2024-03 enhances the disclosures required for expense disaggregation in our annual and interim consolidated financial statements. The amendments are effective for our annual reporting period beginning fiscal 2027, with early adoption permitted, and can be applied prospectively or retrospectively. We are currently evaluating the ASU to determine its impact on our disclosures.
+
+Credit Losses
+
+In July 2025, the FASB issued ASU 2025-05—Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets (“ASU 2025-05”), which provides a practical expedient for estimating expected credit losses for current accounts receivable and current contract assets that arise from transactions accounted for under Revenue from Contracts with Customers (Topic 606). The amendments are effective for our annual reporting period beginning with fiscal year 2026 and interim reporting periods within those annual reporting periods on a prospective basis, with early adoption permitted. We are currently evaluating ASU 2025-05 to determine its impact on our consolidated financial statements and related disclosures.
+
+Internal-Use Software
+
+In September 2025, the FASB issued ASU 2025-06, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software (“ASU 2025-06”), which amends the cost capitalization criteria for internal-use software development costs by removing all references to prescriptive and sequential software project development stages and providing new guidance on how to evaluate whether the probable-to-complete recognition threshold has been met. The amendments are effective for our annual period beginning fiscal year 2028 and interim reporting periods within those annual reporting periods and can be applied prospectively, retrospectively, or via a modified prospective transition method, with early adoption permitted. We are currently assessing adoption timing and the method of adoption.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+2. REVENUE RECOGNITION
+
+Disaggregation of Revenue
+
+The following table presents our revenue disaggregated by major product and service lines (in millions):
+
+Deferred Revenue
+
+During 2025 and 2024, we recognized $ 3.26 billion and $ 2.84 billion in revenue that was included in the deferred revenue balance as of December 31, 2024 and 2023, respectively.
+
+Transaction Price Allocated to the Remaining Performance Obligations
+
+As of December 31, 2025, the aggregate amount of the transaction price allocated to remaining performance obligations was $ 7.18 billion, which was substantially comprised of deferred security subscription and technical support services revenue as well as unbilled contract revenue from non-cancellable contracts that will be recognized in future periods. We expect to recognize approximately $ 3.66 billion as revenue over the next 12 months, $ 2.80 billion in years two and three, and the remainder thereafter.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+3. FINANCIAL INSTRUMENTS AND FAIR VALUE
+
+Short-Term and Long-Term Investments
+
+Our short-term and long-term investments comprised of available-for-sale investments and marketable equity securities. The following tables summarize our short-term and long-term investments (in millions):
+
+The following tables show the gross unrealized losses and the related fair values of our available-for-sale investments that have been in a continuous unrealized loss position (in millions):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The contractual maturities of our available-for-sale investments were (in millions):
+
+We do not intend to sell any of the securities in an unrealized loss position and it is not more likely than not that we would be required to sell these securities before recovery of their amortized cost basis, which may be at maturity.
+
+Realized gains and losses on available-for-sale investments were insignificant in the periods presented.
+
+The changes in fair value of our marketable equity securities are recorded in other income (expense)—net on the consolidated statements of income. We recognized $ 10.8 million and $ 26.4 million gain and $ 4.4 million loss in 2025, 2024 and 2023, respectively.
+
+Fair Value of Financial Instruments
+
+Fair Value Accounting—We apply the following fair value hierarchy for disclosure of the inputs used to measure fair value. This hierarchy prioritizes the inputs into three broad levels:
+
+Level 1—Inputs are unadjusted quoted prices in active markets for identical assets or liabilities.
+
+Level 2—Inputs are quoted prices for similar assets and liabilities in active markets or inputs that are observable for the assets or liabilities, either directly or indirectly through market corroboration, for substantially the full term of the financial instruments.
+
+Level 3—Unobservable inputs based on our own assumptions used to measure assets and liabilities at fair value. The inputs require significant management judgment or estimation.
+
+We measure the fair value of money market funds, certain U.S. government and agency securities and marketable equity securities using quoted prices in active markets for identical assets. The fair value of all other financial instruments was based on quoted prices for similar assets in active markets, or model-driven valuations using significant inputs derived from or corroborated by observable market data.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Assets Measured at Fair Value on a Recurring Basis
+
+The following table presents the fair value of our financial assets measured at fair value on a recurring basis (in millions):
+
+There were no transfers between Level 1 and Level 2 of the fair value hierarchy during the years ended December 31, 2025 and December 31, 2024.
+
+4. INVENTORY
+
+Inventory, net of reserves, consisted of (in millions):
+
+The excess and obsolete inventory reserve was $ 137.5 million and $ 144.8 million as of December 31, 2025 and 2024, respectively. Inventory write-downs related to excess and obsolete inventory were not material for the year ended December 31, 2025, and were $ 37.1 million and $ 35.8 million for the years ended December 31, 2024 and 2023 respectively. These were recorded in cost of product revenue on the consolidated statements of income.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+5. PROPERTY AND EQUIPMENT—Net
+
+Property and equipment—net consisted of (in millions):
+
+During 2025, we purchased certain real estate properties in California, United States; Burnaby, Canada; Frankfurt, Germany; Almere, the Netherlands; and London, the United Kingdom, totaling $ 255.8 million. The purchases were accounted for under the asset acquisition method. The costs of the assets allocated to land and buildings and improvements were $ 97.3 million and $ 158.5 million, respectively, based on their relative fair values.
+
+During 2024, we purchased certain real estate in California, Georgia and New York, United States, and Alberta, Canada, totaling $ 295.8 million. The purchases were accounted for under the asset acquisition method. The costs of the assets allocated to land, buildings and improvements and furniture and fixtures were $ 149.0 million, $ 145.7 million and $ 1.1 million, respectively, based on their relative fair values.
+
+Depreciation expense was $ 101.3 million, $ 99.7 million and $ 94.5 million in 2025, 2024 and 2023, respectively.
+
+6. BUSINESS COMBINATIONS
+
+2025 Acquisitions
+
+Linksys Holdings, Inc.
+
+In 2021, we invested $ 160.0 million in cash for shares of the Series A Preferred Stock of Linksys for a 50.8 % ownership interest in the outstanding equity of Linksys. On January 31, 2025 ( “ Linksys Acquisition Date ”) , we acquired all of the remaining outstanding Series A Preferred Stock of Linksys for $ 20.8 million in cash and now own 100 % of the outstanding equity of Linksys. Our pre-existing equity method investment in Linksys of 50.8 % ownership interest was remeasured to the fair value of $ 21.5 million at the Linksys Acquisition Date, which resulted in a $ 10.8 million gain recorded in gain (loss) from equity method investments on the consolidated statements of income. Therefore, the aggregate purchase consideration for Linksys’ equity equaling the fair value of the previously owned stock and the purchase price for the remaining stock acquired was $ 42.3 million.
+
+This acquisition was accounted for as a business combination using the acquisition method of accounting. Of the aggregate purchase price, $ 17.5 million was allocated to identifiable intangible assets acquired and $ 64.7 million was allocated to other net assets acquired which predominantly included deferred tax asset of $ 45.8 million, inventory of $ 21.4 million and cash of $ 8.8 million, offset by $ 11.3 million of net other assets and liabilities assumed. The excess of the fair values of the net assets acquired over the net purchase consideration was recorded as a gain on bargain purchase of $ 39.9 million within other income (expense) — net on the consolidated statements of income. The gain on bargain purchase occurred primarily due to the recognition of the deferred tax assets, which were comprised primarily of pre-acquisition federal net operating loss carryforwards with an indefinite carryforward period. In addition, we had previously recorded a deferred tax asset of $ 30.6 million for an outside basis difference in our investment in Linksys when it was accounted for under the equity method. As a result of the acquisition of the remaining shares, we now account for our investment in Linksys under the consolidation method, and therefore we have derecognized this deferred tax asset. The charge is included in the provision for income taxes on the consolidated statements of income. Acquisition-related costs related to this acquisition were not material and were recorded as general and administrative expenses.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Other Acquisitions
+
+In 2025 , we completed other acquisitions for total purchase consideration of $ 38.3 million in cash. We have accounted for the transactions as business combinations and recorded goodwill of $ 21.9 million, among which $ 8.6 million of goodwill is expected to be deductible and $ 13.3 million of goodwill is not deductible for income tax purposes. Acquisition-related costs were not material and were recorded as general and administrative expenses.
+
+2024 Acquisitions
+
+Perception Point Ltd.
+
+On December 5, 2024, we acquired certain assets and liabilities of Perception Point Ltd., a business specializing in advanced collaboration and email security, for which we paid in cash. This acquisition was accounted for as a business combination using the acquisition method of accounting. Of the $ 33.7 million purchase price, $ 24.5 million was allocated to goodwill, $ 9.5 million was allocated to developed technology intangible asset, $ 6.5 million was allocated to customer relationships intangible asset and $ 6.8 million was allocated to other net liabilities assumed, which predominantly include deferred revenue. Goodwill recorded in connection with this acquisition is primarily attributable to the assembled workforce acquired and the anticipated operational synergies. All acquired goodwill is deductible for U.S. tax purposes. Acquisition-related costs were not material and were recorded as general and administrative expenses.
+
+Next DLP Holdings Limited
+
+On August 5, 2024, we acquired Next DLP Holdings Limited (“Next DLP”), a privately held insider risk and data loss prevention (“DLP”) company, for approximately $ 105.0 million in cash. We acquired Next DLP in an effort to improve our position in the standalone enterprise DLP market and strengthen our leadership in integrated DLP markets within endpoint and unified Secure Access Service Edge (“SASE”) .
+
+This acquisition was accounted for as a business combination using the acquisition method of accounting. T he total purchase price was allocated to Next DLP’s identifiable tangible and intangible assets acquired and liabilities assumed based on their estimated fair values using management’s best estimates and assumptions to assign fair value as of the acquisition date. Of the total purchase price, $ 82.6 million was allocated to goodwill, $ 13.5 million was allocated to developed technology intangible asset, $ 10.5 million was allocated to customer relationships intangible asset, offset by $ 1.6 million of net liabilities assumed, which predominantly included deferred revenue and deferred tax liabilities. Goodwill recorded in connection with this acquisition represents the value we expect to be created through expansion into markets within our existing business and the anticipated operational synergies. The goodwill is deductible for U.S. tax purposes. Acquisition-related costs related to this acquisition were not material and were recorded as general and administrative expenses.
+
+Lacework Inc.
+
+On August 1, 2024 ( “Lacework Acquisition Date ”), we acquired Lacework Inc. (“Lacework”), a privately held data-driven cloud security company, for $ 152.3 million in cash. We acquired Lacework with a goal of offering its Cloud-Native Application Protection Platform solution separately as well as integrated with our existing portfolio, forming a comprehensive, AI-driven cloud security platform available from a single vendor, which will help customers identify, prioritize and remediate risks and threats in complex cloud-native infrastructure from code to cloud.
+
+This acquisition was accounted for as a business combination using the acquisition method of accounting. T he total purchase price was allocated to Lacework’s identifiable tangible and intangible assets acquired and liabilities assumed based on their estimated fair values using management’s best estimates and assumptions to assign fair value as of the acquisition date. Of the total purchase price, $ 244.4 million was allocated to deferred tax assets, $ 61.3 million allocation to identifiable intangible assets, and $ 6.2 million cash, offset by net other assets and liabilities assumed of $ 53.3 million, which predominantly included deferred revenue and other current liabilities. The excess of the fair values of the net assets acquired over the net purchase consideration was recorded as a gain on bargain purchase of $ 106.3 million within other income (expense) — net on the consolidated statements of income. The gain on bargain purchase occurred primarily due to the recognition of the deferred tax assets. The deferred tax assets were comprised primarily of pre-acquisition federal net operating loss carryforwards with an indefinite carryforward period .
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Of the total identified intangible assets acquired $ 39.5 million was developed technology, $ 10.0 million was backlog, $ 7.5 million was customer relationships and $ 4.3 million was trade name.
+
+The operating results of the acquired company were included in our consolidated financial statements from the date of acquisition, which was August 1, 2024. For the period from August 2, 2024 through December 31, 2024 , Lacework contributed $ 31.1 million of revenue and $ 45.8 million of a net loss. Acquisit ion-related costs related to this acquisition were not material and were recorded as general and administrative expenses.
+
+Pro Forma Financial Information
+
+The following unaudited pro forma financial information presents the combined results of operations of Fortinet, Inc., Lacework and Next DLP, as if Lacework and Next DLP had been acquired as of the beginning of business on January 1, 2023. The unaudited pro forma financial information is presented for informational purposes only and is not necessarily indicative of our consolidated results of operations of the combined business that would have been achieved if the acquisitions had taken place at the beginning of business on January 1, 2023, or of the results of our future operations of the combined business. The following unaudited pro forma financial information for all periods presented includes purchase accounting adjustments for amortization of acquired intangible assets, the gain on bargain purchase, and various related tax impacts (in millions):
+
+Additional Acquisition-Related Information
+
+The operating results of the acquired companies are included in our consolidated statements of income from the respective dates of acquisition. Acquisition-related costs related to each acquisition were not material. The operating results of the acquired companies were not material in the years of acquisition, except for Lacework as disclosed above. Pro forma information has not been presented, except for Lacework and Next DLP as disclosed above, as the impact of these acquisitions, individually and in the aggregate, in each year were not material to our consolidated financial statements.
+
+7. GOODWILL AND OTHER INTANGIBLE ASSETS—Net
+
+Goodwill
+
+The following table presents the changes in the carrying amount of goodwill (in millions):
+
+There were no impairments to goodwill during 2025, 2024 and 2023 or any previous periods.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Other Intangible Assets—Net
+
+The following tables present other intangible assets—net (in millions, except years):
+
+Amortization expense of finite-lived intangible assets was $ 50.7 million, $ 23.1 million and $ 18.9 million in 2025, 2024, and 2023, respectively.
+
+The following table summarizes estimated future amortization expense of finite-lived intangible assets—net (in millions):
+
+8. NET INCOME PER SHARE
+
+Basic net income per share is computed by dividing net income by the weighted-average number of shares of common stock outstanding during the period. Diluted net income per share is computed by dividing net income by the weighted-average number of shares of common stock outstanding during the period, plus the dilutive effects of restricted stock units RSUs, stock options and PSUs. Dilutive shares of common stock are determined by applying the treasury stock method.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+A reconciliation of the numerator and denominator used in the calculation of basic and diluted net income per share is (in millions, except per share amounts):
+
+The following weighted-average shares of common stock were excluded from the computation of diluted net income per share for the periods presented, as their effect would have been antidilutive (in millions):
+
+9. LEASES
+
+We have operating leases for offices, research and development facilities and data centers. Our leases have remaining terms that range from less than one year to approximately four years , some of which include one or more options to renew, with renewal terms of up to six years . Unless and until we are reasonably certain we will exercise these renewal options, we do not include renewal options in our lease terms for calculating our lease liability, as the renewal options allow us to maintain operational flexibility. Our finance leases were not material to our consolidated financial statements.
+
+The components of lease expense were (in millions):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Supplemental balance sheet information related to our operating leases was (in millions, except lease term and discount rate):
+
+Supplemental cash flow information related to leases was (in millions):
+
+Maturities of operating lease liabilities as of December 31, 2025 were (in millions):
+
+As of December 31, 2025, our operating leases that had been signed but had not yet commenced were not material.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+10. DEBT
+
+2026 and 2031 Senior Notes
+
+On March 5, 2021, we issued $ 1.0 billion aggregate principal amount of senior notes (collectively, the “Senior Notes”), consisting of $ 500.0 million aggregate principal amount of 1.0 % notes due March 15, 2026 (the “2026 Senior Notes”) and $ 500.0 million aggregate principal amount of 2.2 % notes due March 15, 2031 (the “2031 Senior Notes”), in an underwritten registered public offering. The Senior Notes are senior unsecured obligations and rank equally with each other in right of payment and with our other outstanding obligations. We may redeem the Senior Notes at any time in whole or in part for cash, at specified redemption prices that include accrued and unpaid interest, if any, and a make-whole premium. However, no make-whole premium will be paid for redemptions of the 2026 Senior Notes on or after February 15, 2026, or the 2031 Senior Notes on or after December 15, 2030. Interest on the Senior Notes is payable on March 15 and September 15 of each year, beginning on September 15, 2021. The 2026 Senior Notes were recorded as current portion of long-term debt and the 2031 Senior Notes were recorded as long-term debt as of December 31, 2025 and both of the Senior Notes were recorded as long-term debt as of December 31, 2024, net of discount and issuance costs, which are amortized to interest expense over the respective contractual terms of these notes using the effective interest method.
+
+The total outstanding debt is summarized below (in millions, except percentages):
+
+As of December 31, 2025 and 2024, we accrued interest payable of $ 4.7 million, and there are no financial covenants with which we must comply. In 2025, 2024 and 2023 we recorded $ 18.0 million, $ 18.0 million and $ 17.9 million of total interest expense in relation to these Senior Notes and repaid $ 16.0 million of interest in cash, respectively. No interest costs were capitalized in 2025, 2024 and 2023, as the costs that qualified for capitalization were not material.
+
+The total estimated fair value of the outstanding Senior Notes was approximately $ 950.1 million, including accrued and unpaid interest, as of December 31, 2025. The fair value was determined based on observable market prices of identical instruments in less active markets. The estimated fair values are based on Level 2 inputs.
+
+11. COMMITMENTS AND CONTINGENCIES
+
+The following table summarizes our inventory purchase commitments as of December 31, 2025 (in millions):
+
+Inventory Purchase Commitments —We purchase components of our inventory from certain suppliers and use several independent contract manufacturers to provide manufacturing services for our products. During the normal course of business, in order to manage manufacturing lead times and help ensure adequate component supply, we enter into agreements with contract manufacturers and suppliers that allow them to procure inventory based upon criteria as defined by us or establish the parameters defining our requirements. A significant portion of our reported purchase commitments arising from these agreements consists of firm, non-cancelable and unconditional commitments. Certain of these inventory purchase commitments with contract manufacturers and suppliers relate to arrangements to secure supply and pricing for certain product components for multi-year periods. In certain instances, these agreements allow us the option to reschedule and adjust our requirements based on our business needs prior to firm orders being placed.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+As of December 31, 2025, we had $ 810.6 million of non-cancelable inventory purchase commitments with our independent contract manufacturers. We recorded a liability for these purchase commitments for quantities in excess of our future estimated demand forecasts, consistent with the valuation of our excess and obsolete inventory. As of December 31, 2025 and December 31, 2024, the liability for these inventory purchase commitments was $ 26.7 million and $ 54.0 million, respectively, and was recorded in accrued liabilities on our consolidated balance sheets. The expense related to such accrued liability for inventory purchase commitments were not material for the year ended December 31, 2025 and 2024, respectively, and $ 85.9 million for the year ended December 31, 2023, and was recorded in cost of product revenue on the consolidated statements of income.
+
+Other Contractual Commitments and Open Purchase Orders —In addition to commitments with contract manufacturers, we have open purchase orders and contractual obligations in the ordinary course of business for which we have not received goods or services. A significant portion of our reported purchase commitments consist of non-cancelable commitments. In certain instances, contractual commitments allow us the option to cancel, reschedule and adjust our requirements based on our business needs prior to firm orders being placed. As of December 31, 2025, we had $ 118.3 million in other contractual commitments having a remaining term in excess of one year that are non-cancelable.
+
+Litigation —We are subject to legal proceedings arising in the ordinary course of business. We record accruals for litigation contingencies when a loss is probable and reasonably estimable, based on management’s assessment of the expected outcome and currently available information. As of December 31, 2025 and 2024, litigation loss contingency accruals associated with outstanding matters were not material.
+
+On September 22, 2025, a securities class action was filed against us, our chief executive officer, our chief technology officer, our current chief financial officer and our former chief financial officer in the United States District Court, Northern District of California, captioned Oklahoma Firefighters Pension and Retirement System v. Fortinet, Inc., et al., Case No. 5:25-cv-08037. On October 16, 2025, a securities class action was filed against us, our chief executive Officer, our current chief financial officer and our former chief financial officer in the same court, captioned State of Rhode Island Office of the General Treasurer v. Fortinet, Inc., et al., Case No. 3:25-cv-08888. These suits are brought on behalf of an alleged class of stockholders who purchased or acquired shares of our common stock between November 8, 2024 through August 6, 2025. The complaints allege that defendants made false or misleading statements about our business, operations and prospects, including regarding the 2026 firewall refresh cycle, and purport to assert claims under Sections 10(b) and 20(a) of the Exchange Act. These suits seek damages, attorneys fees and costs, and other relief that the court may deem appropriate. The time to respond to the complaints has not yet passed. We believe these cases are without merit and defendants intend to defend the suits vigorously. Based on the preliminary nature of the proceedings in these cases, the outcome of these matters remains uncertain and we cannot estimate the potential impact, if any, on its business or financial statements at this time. Accordingly, no loss accrual was recorded as of December 31, 2025 related to these litigations.
+
+On October 8, 2025, Plaintiff Jack Pittrof filed a stockholder derivative complaint against us as a nominal defendant and certain of our current and former directors and officers in the United States District Court for the Northern District of California, captioned Pittrof v. Xie, et al., Case No. 3:2025-cv-08592 (“Pittrof”). The complaint alleges claims based on events similar to those in the securities class action and asserts causes of action against the individual defendants for breach of fiduciary duty, aiding and abetting breach of fiduciary duty, unjust enrichment, waste of corporate assets, and for violations of Section 10(b) of the Exchange Act. The time to respond to the complaint has not yet passed. On November 5, 2025, Plaintiff Michael J. Marrinan filed a stockholder derivative complaint against us as a nominal defendant and certain of our current and former directors and officers in the United States District Court for the Northern District of California, captioned Marrinan v. Xie, et al., Case No. 3:25-cv-09546 (“Marrinan”). The complaint alleges claims based on events similar to those in the securities class action and asserts causes of action against the individual defendants for breach of fiduciary duty, unjust enrichment, insider trading, gross mismanagement, waste of corporate assets, violations of California Corporations Code §§ 24400, 25500, et. seq., and violations of Section 10(b) of the Exchange Act. The time to respond to the complaint has not yet passed. On November 6, 2025, Plaintiff Bryan Foster filed a stockholder derivative complaint against us as a nominal defendant and certain of our current and former directors and officers in the United States District Court for the Northern District of California, captioned Foster v. Xie, et al., Case No. 3:25-cv-09611 (“Foster”). The complaint alleges claims based on events similar to those in the securities class action and asserts causes of action against the individual defendants for breach of fiduciary duty, unjust enrichment, abuse of control, gross mismanagement, waste of corporate assets, for violations of Section 10(b), 14(a), and 20(a) of the Exchange Act, and for contribution under Section 21D of the Exchange Act. The time to respond to the complaint has not yet passed. On December 2, 2025, Plaintiff LR Trust filed a stockholder derivative complaint against us as a nominal defendant and certain of our current and former directors and officers in the United States District Court for the Northern District of California, captioned LR Trust v. Xie, et al., Case No. 3:25-cv-10350 (“LR Trust,” together with Pittrof, Marrinan, and Foster, the “Derivative Actions”). The complaint alleges claims based on events similar to those in the securities class action and asserts causes of action against the individual defendants for breach of fiduciary duty, unjust enrichment, insider trading, aiding and abetting, violations of Sections 10(b) and 14(a) of the Exchange Act, and for contribution under
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Section 21D of the Exchange Act. The time to respond to the complaint has not yet passed. On behalf of the Company, the Derivative Actions seek damages, disgorgement, remedial actions, restitution, and attorneys’ fees and costs.
+
+On March 21, 2019, we were sued by Alorica Inc. (“Alorica”) in Santa Clara County Superior Court in California. Alorica alleged breach of warranty and misrepresentation claims, which we denied. After trial, a jury returned a verdict fully in favor of us and against Alorica on October 4, 2024. Alorica has filed a notice of appeal. We believe that the ultimate outcome of this matter will not materially impact our financial position, results of operations or cash flows. However, any further legal proceedings, including Alorica’s appeal, would be subject to inherent uncertainties, and a future unfavorable ruling could occur. No loss accrual had been recorded as of December 31, 2025 related to this litigation.
+
+Indemnification and Other Matters —We enter into indemnification provisions in the ordinary course of business with other companies such as partners, customers, and vendors, where we agree to indemnify, hold harmless, and reimburse the indemnified party for certain losses suffered or incurred by the indemnified party as a result of our activities, including defending against third-party claims asserting various allegations such as product defects, breach of representations or covenants, and infringement of certain IP rights, which may include patents, copyrights, trademarks or trade secrets, and to pay judgments entered on such claims. In some contracts, our exposure under these indemnification provisions is limited by the terms of the contracts to certain defined limits, such as the total amount paid by our customer under the agreement. However, certain agreements include covenants, penalties and indemnification provisions including and beyond indemnification for third-party claims of IP infringement that could potentially expose us to losses in excess of the amount received under the agreement, and in some instances to potential liability that is not contractually limited. Although from time to time there are indemnification claims asserted against us and currently there are pending indemnification claims, to date there have been no material awards under such indemnification provisions.
+
+Similar to other security companies and companies in other industries, we have experienced and may experience in the future, cybersecurity threats, malicious activity directed against our information technology infrastructure or unauthorized attempts to gain access to our and our customers’ sensitive information and systems. We currently are unaware of any claims or proceedings related to these types of matters that we believe are likely to have a material adverse effect on our financial position.
+
+12. EQUITY PLANS AND SHARE REPURCHASE PROGRAM
+
+Stock-Based Compensation Plans
+
+We have one primary stock incentive plan, the 2009 EIP, under which we have granted RSUs, stock options and PSUs.
+
+Our board of directors approved the 2009 EIP in 2009 and amended the plan in 2019. The maximum aggregate number of shares that may be issued under the 2009 EIP is 239,367,655 shares; provided, however, that only 67,500,000 shares may be issued or transferred pursuant to new awards granted on or following the effective date of the 2009 EIP. We may grant awards to employees, directors and other service providers. In the case of an incentive stock option granted to an employee who, at the time of the grant, owns stock representing more than 10 % of the voting power of all classes of stock, the exercise price shall be no less than 110 % of the fair market value per share on the date of grant and expire no more than five years from the date of grant, and options granted to any other employee, the per share exercise price shall be no less than 100 % of the closing stock price on the date of grant. In the case of a non-statutory stock option and options granted to other service providers, the per share exercise price shall be no less than 100 % of the fair market value per share on the date of grant. Options granted to individuals owning less than 10 % of the total combined voting power of all classes of stock generally have a contractual term of no more than ten years and options generally vest over four years .
+
+As of December 31, 2025, there were a total of 48.1 million shares of common stock available for grant under the 2009 EIP.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Restricted Stock Units
+
+The following table summarizes the activity and related information for RSUs for the periods presented below (in millions, except per share amounts):
+
+Stock compensation expense is recognized on a straight-line basis over the vesting period of each RSU. As of December 31, 2025, total compensation expense related to unvested RSUs granted to employees and non-employees under the 2009 EIP, but not yet recognized, was $ 537.2 million, with a weighted-average remaining vesting period of 2.7 years.
+
+Market/Performance-Based PSUs
+
+We grant market/performance-based PSUs under the 2009 EIP to certain of our executives. Based on the achievement of the market/performance-based vesting conditions during the performance period, the final settlement of the PSUs will range between 0 % and 200 % of the target shares underlying the PSUs based on the percentile ranking of our total stockholder return over one -, two -, three - and four-year periods among companies included in the S&P 500 Index. 20 %, 20 %, 20 % and 40 % of the PSUs vest over one -, two -, three - and four-year service periods, respectively.
+
+The following table summarizes the weighted-average assumptions relating to our PSUs:
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The following table summarizes the activity and related information for PSUs for the periods presented below (in millions, except per share amounts):
+
+As of December 31, 2025, total compensation expense related to unvested PSUs that were granted to certain of our executives, but not yet recognized, was $ 21.2 million. This expense is expected to be amortized on a graded vesting method over a weighted-average vesting period of 2.1 years.
+
+RSUs and PSUs settle into shares of common stock upon vesting. Upon the vesting of the RSUs and PSUs, we net-settle the RSUs and PSUs and withhold a portion of the shares to satisfy employee withholding tax requirements. The payment of the withheld taxes to the tax authorities is reflected as a financing activity within the consolidated statements of cash flows.
+
+The following summarizes the number and value of the shares withheld for employee taxes (in millions):
+
+Stock Options
+
+In determining the fair value of our stock options, we use the Black-Scholes model, which employs the following assumptions.
+
+Expected Term —The expected term represents the period that our stock-based awards are expected to be outstanding. We believe that we have sufficient historical experience for determining the expected term of the stock option award, and therefore, we calculated our expected term based on historical experience instead of using the simplified method.
+
+Expected Volatility —The expected volatility of our common stock is based on our weighted-average implied and historical volatility.
+
+Fair Value of Common Stock —The fair value of our common stock is the closing sales price of the common stock effective on the date of grant.
+
+Risk-Free Interest Rate —We base the risk-free interest rate on the implied yield available on U.S. Treasury zero-coupon issues with an equivalent remaining term.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Expected Dividend —The expected dividend weighted-average assumption is zero .
+
+The following table summarizes the weighted-average assumptions relating to our stock options:
+
+The following table summarizes the stock option activity and related information for the periods presented below (in millions, except exercise prices and contractual life):
+
+The aggregate intrinsic value represents the difference between the exercise price of stock options and the quoted market price of our common stock at the date of the balance sheet for all in-the-money stock options. Stock compensation expense is recognized on a straight-line basis over the vesting period of each stock option. As of December 31, 2025, total compensation expense related to unvested stock options granted to employees but not yet recognized was $ 50.6 million, with a weighted-average remaining vesting period of 2.6 years.
+
+Additional information related to our stock options is summarized below (in millions, except per share amounts):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The following table summarizes information about outstanding and exercisable stock options as of December 31, 2025, (in millions, except exercise prices and contractual life):
+
+Shares Reserved for Future Issuances
+
+The following table presents the common stock reserved for future issuance (in millions):
+
+Stock-Based Compensation Expense
+
+Stock-based compensation expense, including stock-based compensation expense related to awards classified as liabilities, is included in costs and expenses (in millions):
+
+The following table summarizes stock-based compensation expense, including stock-based compensation expense related to awards classified as liabilities, by award type (in millions):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Total income tax benefit associated with stock-based compensation that is recognized in the consolidated statements of income is (in millions):
+
+Share Repurchase Program
+
+In January 2016, our board of directors approved the Repurchase Program, which authorized the repurchase of up to $ 200.0 million of our outstanding common stock through December 31, 2017. From 2016 through 2024, our board of directors approved increases to our Repurchase Program by various amounts and extended the term of the Repurchase Program to February 28, 2026. In August 2025, our board of directors approved a $ 1.0 billion increase in the authorized stock repurchase amount under the Repurchase Program and extended the term of the Repurchase Program to February 28, 2027, bringing the aggregate amount authorized for repurchases to $ 9.25 billion of our outstanding common stock through February 28, 2027. Under the Repurchase Program, we may repurchase common stock from time to time in privately negotiated transactions or in open market transactions. The Repurchase Program does not require us to purchase a minimum number of shares, and may be suspended, modified or discontinued at any time without prior notice. Refer to Note 16 , Subsequent Events, for information regarding the approved $ 1.0 billion increase in the authorized stock repurchase amount under the Repurchase Program in January 2026.
+
+In 2025, we repurchased 28.7 million shares of common stock under the Repurchase Program in open market transactions for an aggregate purchase price of $ 2.29 billion, which excludes an $ 18.3 million accrual related to the 1% excise tax imposed by the Inflation Reduction Act of 2022. As of December 31, 2025, $ 738.6 million remained available for future share repurchases under the Repurchase Program.
+
+13. INCOME TAXES
+
+Income before income taxes and loss from equity method investments consisted of (in millions):
+
+The provision for (benefit from) income taxes consisted of (in millions):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The foreign tax provision included the tax impacts from U.S. GAAP to local tax return book to tax differences that create a permanent addback including but not limited to stock compensation, meals and entertainment, and settlement of prior year tax audits with foreign jurisdiction adjustments.
+
+We adopted ASU 2023-09 “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” on a prospective basis beginning with the year ended December 31, 2025. The following table reconciles the U.S. federal statutory tax amount and rate to our actual global effective amount and rate for the year ended December 31, 2025 (in millions, except percentages):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The following represents the required disclosures prior to our adoption of ASU 2023-09 and reconciles the U.S. federal statutory income tax rate to the actual global effective tax rate for the years ended December 31, 2024 and 2023 (in millions):
+
+On January 4, 2022, the U.S. Treasury published another tranche of final regulations regarding the foreign tax credit. These final regulations impose new requirements that a foreign tax must meet in order to be creditable against U.S. income taxes, and generally apply to tax years beginning on or after December 28, 2021. On July 26, 2022, the U.S. Treasury released corrections to the final regulations. On July 21, 2023, the IRS released a notice that suspended the application of significant portions of the final regulations regarding the foreign tax credit for tax years 2022 and 2023. The notice released in July 2023 favorably impacted our ability to claim foreign tax credits in the United States for certain taxes imposed by certain foreign jurisdictions. On December 11, 2023, the IRS released a notice that extended the suspension of significant portions of the final regulations beyond December 31, 2023, until further guidance is issued.
+
+In December 2021, the Organisation for Economic Co-operation and Development enacted model rules for a new global minimum tax framework (“BEPS Pillar Two”), and various governments around the world have enacted, or are in the process of enacting, legislation on this. For the tax year 2025, BEPS Pillar Two has no impact to our effective tax rate or cash flows. We will continue to evaluate the impact of these tax law changes for future periods.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The tax effects of temporary differences that give rise to significant portions of the deferred tax assets as of the years ended are presented below (in millions):
+
+In assessing the realizability of deferred tax assets, we considered whether it is more likely than not that some portion or all of our deferred tax assets will be realized. This realization is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. We concluded that it is more likely than not that we will be able to realize the benefits of our deferred tax assets in the future except for our California research and development credits carryforward, certain impairment losses in business investments and certain tax attributes from business acquisitions. As of December 31, 2025, we had a valuation allowance of $ 71.8 million against those items.
+
+As of December 31, 2025, our federal and California net operating loss carryforwards for income tax purposes were $ 1.22 billion and $ 32.7 million, respectively. All the net operating loss carryforwards were from acquisitions which were limited by Section 382 of the Internal Revenue Code. If not utilized, the federal net operating loss carryforwards will begin to expire in 2028, and California net operating loss carryforwards will begin to expire in 2034.
+
+As of December 31, 2025, we had state tax credit carryforwards of $ 60.0 million. The state credits can be carried forward indefinitely.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+The aggregate changes in the balance of unrecognized tax benefits are (in millions):
+
+As of December 31, 2025, we had $ 90.4 million of unrecognized tax benefits, of which, if recognized, $ 74.1 million would favorably affect our effective tax rate. Our gross unrecognized tax benefits increased approximately $ 14.5 million during the year ended December 31, 2025. The net increase was primarily due to the normal buildup of reserves related to the Federal Research & Development credit and transfer pricing. Our policy is to include accrued interest and penalties related to uncertain tax benefits in income tax expense. As of December 31, 2025, 2024 and 2023, accrued interest and penalties were $ 12.5 million, $ 8.8 million and $ 6.4 million, respectively.
+
+We file income tax returns in the U.S. federal jurisdiction and in various U.S. state and foreign jurisdictions. Generally, we are no longer subject to examination by U.S. federal income tax authorities for tax years prior to 2020 and by U.S. state and foreign tax authorities in our significant jurisdictions for tax years prior to 2016. We currently have ongoing tax audits in the United Kingdom, Canada, Germany and several other foreign jurisdictions. The focus of these audits is the inter-company profit allocation.
+
+The Act makes permanent certain elements of the Tax Cuts and Jobs Act, including immediate expensing of U.S. research and development expenditures, immediate expensing of certain eligible assets, and various modifications to the international tax framework. The income tax effects of the Act have been recognized in our provision for income taxes as of December 31, 2025. As a result of the Act, our income tax liability in 2025 decreased by $ 120.0 million and our GAAP effective tax rate for 2025 increased by one percentage point.
+
+We adopted ASU 2023-09 on a prospective basis for the year ended December 31, 2025 and have included the following table as a result of our adoption, which presents income taxes paid (net of refunds received) for the year ended December 31, 2025 (in millions):
+
+14. DEFINED CONTRIBUTION PLANS
+
+Our tax-deferred savings plan under our 401(k) Plan permits participating U.S. employees to contribute a portion of their pre-tax or after-tax earnings. In Canada, we have a Group Registered Retirement Savings Plan Program (the “RRSP”), which permits participants to make pre-tax contributions. Our board of directors approved 50 % matching contributions on employee contributions up to 4 % of each employee’s eligible earnings. Our matching contributions to our 401(k) Plan and the RRSP for 2025, 2024 and 2023 were $ 20.6 million, $ 19.3 million and $ 17.1 million, respectively.
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+15. SEGMENT INFORMATION
+
+Operating segments are determined based on the financial information that is regularly reviewed by the Chief Operating Decision Maker (“CODM”) to allocate resources and assess performance. The Company’s Chief Operating Decision Maker is our Chief Executive Officer, who reviews financial information presented on a consolidated basis, accompanied by information about revenue by geographic region. We have one operating and reportable segment. Our CODM uses consolidated net income as a measure to monitor actual results versus budget and historical performance of our reportable segment. The measure of the segment assets is reported on the consolidated balance sheets as total consolidated assets.
+
+The following table reflects certain financial data for our reportable segment (in millions):
+
+The following table presents other segment information (in millions):
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+Revenue by geographic region is based on the billing address of our customers. The following tables set forth revenue and property and equipment—net by geographic region (in millions):
+
+The following distributor customers accounted for 10% or more of our revenue:
+
+The following distributor customers accounted for 10% or more of net accounts receivable:
+
+16. SUBSEQUENT EVENTS
+
+Share repurchase program
+
+In January 2026, our board of directors approved a $ 1.0 billion increase in the authorized stock repurchase amount under the Repurchase Program, bringing the aggregate amount authorized to be repurchased to $ 10.25 billion of our outstanding common stock through February 28, 2027.
+
+Subsequent to December 31, 2025 and through the filing of this Annual Report on Form 10-K, we repurchased 6.1 million shares of our common stock at an average price of $ 76.68 per share, for an aggregate purchase price of
+
+FORTINET, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+
+$ 470.5 million, under the Repurchase Program. As of the filing of this Annual Report on Form 10-K, approximately $ 1.27 billion remained available for future share repurchases through February 28, 2027 under the Repurchase Program.
+
+Real Property Purchases
+
+In January 2026, we signed a definitive agreement to purchase real property in Sunnyvale, California, totaling approximately 5.3 acres for $ 47.0 million in cash, excluding acquisition costs.
+
+ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+ITEM 9A. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) or 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”)) as of the end of the period covered by this Annual Report on Form 10-K. In designing and evaluating the disclosure controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+Based on that evaluation, our chief executive officer and chief financial officer concluded that our disclosure controls and procedures were effective as of December 31, 2025 to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Management ’ s Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act. Management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control—Integrated Framework (2013) set forth by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+Based on this evaluation, management concluded that our internal control over financial reporting was effective as of December 31, 2025. Management reviewed the results of its assessment with our Audit Committee. The effectiveness of our internal control over financial reporting as of December 31, 2025 has been audited by Deloitte & Touche LLP, an independent registered public accounting firm, as stated in its report, which appears in this Item under the heading “Report of Independent Registered Public Accounting Firm.”
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal controls over financial reporting (as defined in Rules 13a-15(f) or 15d-15(f) under the Exchange Act) during 2025 that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting.
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the stockholders and the Board of Directors of Fortinet, Inc.
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited the internal control over financial reporting of Fortinet, Inc. and subsidiaries (the “Company”) as of December 31, 2025, based on criteria established in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control – Integrated Framework (2013) issued by COSO.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2025, of the Company and our report dated February 24, 2026, expressed an unqualified opinion on those financial statements.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ DELOITTE & TOUCHE LLP
+
+San Jose, California
+
+February 24, 2026
+
+ITEM 9B. Other Information
+
+Rule 10b5-1 Trading Plans
+
+No director or Section 16 officer of the Company adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K, during the three months ended December 31, 2025.
+
+ITEM 9C. Disclosure Regarding Foreign Jurisdictions that Prevents Inspections
+
+Not applicable.
+
+Part III
+
+ITEM 10. Directors, Executive Officers and Corporate Governance
+
+Information responsive to this item is incorporated herein by reference to our definitive proxy statement with respect to our 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+
+As part of our system of corporate governance, our board of directors has adopted a code of business conduct and ethics. The code applies to all of our employees, officers (including our principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions), agents and representatives, including our independent directors and consultants, who are not our employees, with regard to their Fortinet-related activities. Our code of business conduct and ethics is available on our website at www.fortinet.com under “Corporate—Investor Relations—Corporate Governance.” We will post on this section of our website any amendment to our code of business conduct and ethics, as well as any waivers of our code of business conduct and ethics, which are required to be disclosed by the rules of the SEC or the Nasdaq Stock Market.
+
+Insider Trading Policy
+
+We have adopted an Insider Trading Policy that governs the purchase, sale and/or other dispositions of our securities by directors, officers and employees. Our Insider Trading Policy also provides that we will not transact in any of our own securities unless in compliance with U.S. securities laws. We believe that our Insider Trading Policy is reasonably designed to promote compliance with insider trading laws, rules and regulations, and the Nasdaq listing standards applicable to us. A copy of our Insider Trading Policy is filed as Exhibit 19.1 to this Annual Report on Form 10-K.
+
+ITEM 11. Executive Compensation
+
+Information responsive to this item is incorporated herein by reference to our definitive proxy statement with respect to our 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+Information responsive to this item is incorporated herein by reference to our definitive proxy statement with respect to our 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+
+ITEM 13. Certain Relationships and Related Transactions, and Director Independence
+
+Information responsive to this item is incorporated herein by reference to our definitive proxy statement with respect to our 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+
+ITEM 14. Principal Accounting Fees and Services
+
+Information responsive to this item is incorporated herein by reference to our definitive proxy statement with respect to our 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K.
+
+Part IV
+
+ITEM 15. Exhibits and Financial Statement Schedules
+
+(a) The following documents are filed as part of this Annual Report on Form 10-K:
+
+1. Financial Statements: The information concerning Fortinet’s financial statements and the Report of Independent Registered Public Accounting Firm required by this Item 15(a)(1) is incorporated by reference herein to the section of this Annual Report on Form 10-K in Part II, Item 8, titled “Financial Statements and Supplementary Data.”
+
+2. Financial Statement Schedule: Financial statement schedules have been omitted because they are not applicable or are not required or the information required to be set forth therein is included in the consolidated financial statements or notes thereto.
+
+3. Exhibits : See Item 15(b) below. We have filed, or incorporated into this Annual Report on Form 10-K by reference, the exhibits listed on the accompanying Exhibit Index immediately preceding the signature page of this Annual Report on Form 10-K.
+
+(b) Exhibits:
+
+The exhibits listed on the Exhibit Index immediately preceding the signature page of this Annual Report on Form 10-K is incorporated herein by reference as the list of exhibits required by this Item 15(b).
+
+(c) Financial Statement Schedules: See Item 15(a) above.
+
+EXHIBIT INDEX
+
+________________________________
+
+† Indicates management compensatory plan, contract or arrangement.
+
+* Filed herewith.
+
+** Furnished herewith. This certification is deemed not filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act.
+
+ITEM 16. Form 10-K summary
+
+None.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Ken Xie and Christiane Ohlgart, jointly and severally, his or her attorney-in-fact, with the power of substitution, for him or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.

@@ -1,0 +1,35 @@
+Item 1C. Cybersecurity
+
+PPG’s cybersecurity program is designed to protect and preserve the confidentiality, integrity and availability of our networks and systems as well as information that we own or is in our care through a risk-based approach. The Company’s program is based on the U.S. National Institute for Standards and Technology (NIST) cybersecurity framework and other applicable industry frameworks.
+
+Our cybersecurity program includes:
+
+• ongoing employee cybersecurity awareness and training activities, which include frequent phishing testing;
+
+• access management and access controls intended to implement Principle of Least Privilege (PoLP) access;
+
+• protection of certain data through encryption at rest and in transit;
+
+• monitoring and protection software;
+
+• a vulnerability management program that includes managing the risk of third-party software ;
+
+• a cyber incident response plan that provides controls and procedures to support appropriate containment, response, investigation, reporting and recovery of cybersecurity incidents;
+
+2025 PPG ANNUAL REPORT AND FORM 10-K 14
+
+• periodic testing of our cybersecurity posture, including by independent third-party consultants ; and
+
+• integrating cybersecurity requirements and other provisions into various contracts .
+
+PPG has continued to invest in cybersecurity to evolve and improve its program. PPG regularly assesses and measures itself against industry practices to identify opportunities to improve its people, processes and technology used to identify, prevent, detect, respond and recover from cybersecurity incidents. When such improvements are identified and validated as appropriate in PPG’s business context, they are incorporated in the roadmap for implementation.
+
+To date, the risks from cybersecurity threats have not materially affected the Company. We have significantly increased our cybersecurity investments over the last five years and have implemented cybersecurity safeguards designed to detect and prevent cybersecurity events that may have a material adverse effect on the Company. Notwithstanding our increased cybersecurity investments and preparedness activities, sophisticated and targeted computer crime perpetrated by threat actors internal or external to the Company poses a risk to the security of our systems, facilities, and networks and to the confidentiality, availability and integrity of our data, including but not limited to intellectual property and confidential and personal data. This could lead to negative publicity, theft or other financial loss, modification or destruction of proprietary information or key information, manufacture of defective products, production downtimes and operational disruptions, which could materially and adversely affect our reputation, competitiveness and results of operations. Refer to the risk factor titled “ The security of our information technology systems could be compromised which could adversely affect our operations or reputations” in Item 1A of this Form 10-K for further detail regarding cybersecurity risks that could affect PPG’s operations. We maintain insurance covering certain costs that we may incur in connection with cybersecurity incidents, which we believe is commensurate with the size and the nature of our operations. However, the Company may incur expenses and losses related to a cyber incident that are not covered by insurance or are in excess of our insurance coverage.
+
+The PPG Board of Directors (the “Board”) has overall responsibility for the oversight of risk management at PPG, which includes cybersecurity risks. The Audit Committee of the Board (the “Audit Committee”), is responsible for oversight of the Company’s enterprise risk management (“ERM”) program which provides oversight and governance of all of the Company’s operational and financial risks, including risks from cybersecurity threats to the Company. The Audit Committee receives bi-annual reports and periodic briefings on cybersecurity matters, including key risks to the Company, recent developments, and risk mitigation activities from our Vice President and Chief Information Officer (“CIO”) and our Chief Information Security Officer (“CISO"), who are both responsible for overseeing our cybersecurity program. In addition, the full Board receives bi-annual briefings from our CIO on our cybersecurity program. The Board and the Audit Committee also periodically review the results of exercises performed by our advisors as part of an independent assessment of PPG’s cybersecurity program and internal preparedness.
+
+In addition, the Enterprise Risk Committee, a committee of senior executives who identify and monitor the risks to PPG and are responsible for our ERM program, receives updated information on cybersecurity risks at each of its meetings.
+
+As part of their oversight of our cybersecurity program, our CIO and our CISO oversee a team of cybersecurity professionals and are responsible for assessing and managing our material risks from cybersecurity threats. Our CIO and CISO are trained information technology professionals, each of whom has earned degrees in information systems and business administration and has many years of experience in or managing global enterprise information technology at various organizations.
+
+PPG maintains an internal communication hierarchy that is designed to communicate the occurrence of certain cybersecurity events and/or incidents into our systems to our CISO, our CIO, our company crisis response team, and, as appropriate, to certain members of senior management. This communication hierarchy includes protocols for informing the Audit Committee and the full Board of certain cybersecurity events or incidents and for determining the materiality thereof.

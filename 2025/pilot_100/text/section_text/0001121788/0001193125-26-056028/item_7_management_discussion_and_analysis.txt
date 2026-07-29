@@ -1,0 +1,163 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations focuses on and is intended to clarify the results of our operations, certain changes in our financial position, liquidity, capital structure and business developments during the fiscal years ended December 27, 2025 and December 28, 2024 and a year-to-year comparison of these two fiscal years. This discussion should be read in conjunction with, and is qualified by reference to, the other related information including, but not limited to, the audited consolidated financial statements (including the notes thereto), the description of our business, all as set forth in this Form 10-K, as well as the risk factors discussed above in Item 1A. Discussion regarding our results of operations for the fiscal year ended December 30, 2023 and a year-to-year comparison between the fiscal years ended December 28, 2024 and December 30, 2023 can be found in Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 28, 2024.
+
+As previously noted, the discussion set forth below, as well as other portions of this Form 10-K, contain statements concerning potential future events. Readers can identify these forward-looking statements by their use of such verbs as “expects,” “anticipates,” “believes”, or similar verbs or conjugations of such verbs. If any of our assumptions on which the statements are based prove incorrect or should unanticipated circumstances arise, our actual results could materially differ from those anticipated by such forward-looking statements. The differences could be caused by a number of factors or combination of factors including, but not limited to, those discussed above in Item 1A. Readers are strongly encouraged to consider those factors when evaluating any such forward-looking statement. Except as may be required by law, we do not undertake to update any forward-looking statements in this Form 10-K.
+
+Garmin’s fiscal year is based on a 52- or 53-week period ending on the last Saturday of the calendar year. Fiscal years 2025, 2024, and 2023 each contained 52 weeks. Unless otherwise stated, all years and dates refer to the Company’s fiscal year and fiscal periods. Unless the context otherwise requires, references in this document to “we”, “us”, “our”, “the Company” and similar terms refer to Garmin Ltd. and its subsidiaries.
+
+Unless otherwise indicated, dollar amounts set forth in the tables are in thousands, except per share data.
+
+Overview
+
+The Company is a leading worldwide producer of innovative products, many of which feature Global Positioning System (GPS) navigation, services and applications that are designed for people who live an active lifestyle. Garmin is organized in the five operating segments of fitness, outdoor, aviation, marine, and auto OEM, which represent the primary markets served by the Company. These operating segments also represent our reportable segments. The Company’s Chief Executive Officer, who has been identified as the Chief Operating Decision Maker (CODM), allocates resources and assesses performance of each operating segment individually.
+
+Critical Accounting Estimates
+
+General
+
+Our discussion and analysis of financial condition and results of operations are based upon the Company’s consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The presentation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to customer sales programs and incentives, product returns, bad debts, inventories, investments, goodwill, intangible assets, income taxes, warranty obligations, and contingencies and litigation. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. Refer to Note 1 – Summary of Significant Accounting Policies in the Notes to the Consolidated Financial Statements for our significant accounting policies related to our critical accounting estimates.
+
+Uncertain Tax Positions
+
+The Company recognizes liabilities associated with uncertain income tax positions, including those related to the application of transfer pricing rules to certain intercompany transactions, based on our estimate of whether, and the extent to which, additional taxes will be due. The Company recognizes the tax benefits from an uncertain tax position only if payment of those amounts ultimately proves to be not required or it is more likely than not that the tax position will be sustained upon examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are measured based on the largest amount of benefit that is more likely than not to be realized upon ultimate settlement.
+
+Assessing uncertain tax positions requires significant judgment, including the evaluation of unique facts and circumstances and the interpretation of laws and regulations, especially the assessment of pricing analyses that may produce various ranges of outcomes. Variations in the actual outcome of these future tax consequences could materially impact our consolidated financial statements.
+
+Accounting Terms and Characteristics
+
+Net Sales
+
+Our net sales are primarily generated through retail partners, a dealer and distributor network, installation and repair shops, original equipment manufacturers (OEMs), our online webshop (garmin.com), subscriptions for connected services, and our own retail stores. Refer to the Revenue Recognition discussion in Note 1 – Summary of Significant Accounting Policies of the Notes to Consolidated Financial Statements for additional information regarding our revenue recognition policies.
+
+Certain arrangements with OEM customers are entered into at the beginning of an aircraft, boat, or vehicle life cycle with the intent to fulfill customer purchasing requirements for the entire production life, although there are generally no firm volume commitments, and sales are therefore generated on an order-by-order basis. Orders from dealer and distributor customers for Garmin’s consumer products are typically subject to certain fulfillment requirements and placed with short lead times. As a result, we do not believe backlog information is material to the understanding of our business.
+
+Net sales are subject to seasonal fluctuation. Typically, sales of our consumer products are highest in the fourth quarter due to increased demand during the holiday buying season, and many marine products experience increased demand in the first and second quarters in advance of the summer boating season. Sales of our consumer products are also influenced by the timing of the release of new products. Our aviation and auto OEM products do not experience much seasonal variation but are more influenced by the timing of aircraft certifications, regulatory mandates, auto program manufacturing, and the release of new products when the initial demand is typically the strongest.
+
+Cost of Goods Sold and Gross Profit
+
+Raw materials are our most significant component of cost of goods sold. Our existing practice of performing the design and manufacture of the majority of our products in-house has enabled us to source components from different suppliers and, where possible, to redesign our products to leverage lower-cost or more readily available components.
+
+We believe that our flexible production model allows our factories to experience relatively low costs of manufacturing. In general, products manufactured in Taiwan have been our highest volume products. Our manufacturing labor costs historically have been lower in Taiwan than in most other locations.
+
+Shipping and handling costs associated with the transportation and delivery of our products are included in cost of goods sold. Such costs fluctuate due to a number of factors, including freight market pricing and the mix of modes of transportation we utilize.
+
+Sales price variability, including that which is associated with foreign currency fluctuations, has had and can be expected to have an effect on our gross profit. Our consolidated gross margin, representing gross profit as a percentage of net sales, is also dependent on segment mix and product mix within each segment.
+
+Research and Development
+
+The majority of our research and development costs represent engineering personnel costs, costs of test equipment and components used in product and prototype development, and outside product development costs.
+
+We are committed to increasing the level of innovative design and development of new products as we strive to expand our ability to serve our existing consumer and aviation markets as well as new auto OEM programs and new markets for active lifestyle products.
+
+Selling, General and Administrative Expenses
+
+Our selling, general and administrative expenses consist primarily of:
+
+advertising costs associated primarily with media advertising, cooperative advertising with our retail partners, point of sale displays, and sponsorships;
+
+information technology costs;
+
+salaries for sales, marketing and product support personnel;
+
+salaries and related costs for executives and administrative personnel;
+
+marketing, and other brand building costs;
+
+finance and legal costs;
+
+human resource costs;
+
+travel and related costs; and
+
+occupancy and other overhead costs.
+
+Results of Operations
+
+As previously announced, beginning in the first quarter of fiscal 2024, the Company changed the presentation of operating expense to include advertising expense within selling, general and administrative expenses on the Company’s consolidated statements of income, which management believes to be a more meaningful presentation. The Company continued this presentation of operating expense in the current period. Results for the 52-week period ended December 30, 2023 were recast to conform to this presentation. This change had no effect on the Company’s consolidated operating or net income.
+
+The following table sets forth our results of operations as a percentage of net sales during the periods shown (the table may not foot due to rounding):
+
+The table below sets forth the results of operations through operating income (loss) for each of our five reportable segments. Operating income (loss) represents net sales less costs of goods sold and operating expenses. Net sales are directly attributed to each segment. Most costs of goods sold and the majority of operating expenses are also directly attributed to each segment, while certain other costs of goods sold and operating expenses are allocated to the segments in a reasonable manner considering the specific facts and circumstances of the expenses being allocated. For each line item in the table below, the total of the reportable segments’ amounts equals the amount in the accompanying consolidated statements of income.
+
+Net Sales
+
+Net sales increased 15% in fiscal year 2025 when compared to the year-ago period. Total unit sales increased approximately 11% to 20.7 million units in 2025 from 18.6 million units in 2024. The increase in net sales differs from the increase in total unit sales primarily due to shifts in segment and product mix. Fitness revenue was the largest portion of our revenue mix at 33% in 2025, while outdoor was the largest portion of our revenue mix in 2024 at 31%.
+
+The increase in fitness revenue was primarily driven by strong demand for wearables. Outdoor revenue increased primarily due to sales growth in adventure watches. The increase in aviation revenue was driven by sales growth in OEM and aftermarket product categories. The increase in marine revenue was driven by sales growth across multiple product categories, led by chartplotters. Auto OEM revenue increased primarily due to sales growth in domain controllers.
+
+Gross Profit
+
+Gross profit dollars in fiscal year 2025 increased 15%, primarily due to the increase in net sales compared to the year-ago period as described above. Consolidated gross margin was flat when compared to the year-ago period.
+
+The fitness gross margin increase of 130 basis points compared to the year-ago period was primarily attributable favorable product mix. Gross margin remained relatively flat within the outdoor, aviation, marine, and auto OEM segments when compared to the year-ago period.
+
+Operating Expense
+
+Total operating expense increased 13% in absolute dollars and was relatively flat as a percent of revenue in fiscal year 2025 compared to fiscal year 2024. Operating expense, as a percent of segment net sales, decreased in the fitness and aviation segments by 220 basis points and 170 basis points, respectively, when compared to the year-ago period due to increased sales and greater leverage of expenses. Operating expense, as a percent of segment net sales, increased in the outdoor segment by 140 basis points over the year-ago period, as the year-over-year increase of operating expense was greater than that of net sales. Operating expense, as a percent of segment net sales, was relatively flat in the marine and auto OEM segments when compared to the year-ago period.
+
+Research and development expense increased 13% in absolute dollars and remained relatively flat as a percent of revenue compared to the year-ago period. The absolute dollar increase was primarily due to higher engineering personnel-related expenses.
+
+Selling, general and administrative expense increased 13% in absolute dollars and remained relatively flat as a percent of revenue when compared to the year-ago period. The absolute dollar increase was primarily due to higher personnel-related expenses and advertising.
+
+Operating Income
+
+NM - Represents that the percentage change is not meaningful.
+
+Total operating income increased 18% in absolute dollars and remained relatively flat as a percent of revenue in fiscal year 2025 compared to fiscal year 2024. The improved operating income dollar performance in fitness, aviation, and marine was partially offset by decreases in outdoor and auto OEM.
+
+Other Income (Expense)
+
+The average interest rate return on cash and investments during the 52-weeks ended December 27, 2025 was 3.3%, and remained relatively flat compared to 3.3% during the 52-weeks ended December 28, 2024. Interest income increased primarily due to higher balances of cash and investments.
+
+Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar, Polish Zloty, and Swiss Franc. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash, receivables and payables held in a currency other than the functional currency at a given legal entity.
+
+The $7.8 million currency gain recognized in fiscal 2025 was primarily due to the U.S. Dollar weakening against the Euro and Polish Zloty, partially offset by the U.S. Dollar weakening against the Swiss Franc and Taiwan Dollar. During this period, the U.S. Dollar weakened 12.9% against the Euro and 14.3% against the Polish Zloty, resulting in gains of $49.2 million and $8.1 million, respectively, partially offset by the U.S. Dollar weakening 14.1% against the Swiss Franc and 4.6% against the Taiwan Dollar, resulting in losses of $36.9 million and $16.8 million, respectively. The remaining net currency gain of $4.2 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+The $20.6 million currency loss recognized in fiscal 2024 was primarily due to the U.S. Dollar strengthening against the Euro, Polish Zloty, and Australian Dollar, partially offset by the U.S. Dollar strengthening against the Taiwan Dollar. During this period, the U.S. Dollar strengthened 5.5% against the Euro, 4.1% against the Polish Zloty, and 8.9% against the Australian Dollar, resulting in losses of $27.1 million, $11.3 million, and $8.7 million, respectively, partially offset by the U.S. Dollar strengthening 6.5% against the Taiwan Dollar, resulting in a gain of $36.4 million. The remaining net currency loss of $9.9 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+Income Tax Provision (Benefit)
+
+The Company recorded income tax expense of $350.6 million, an effective tax rate of 17.4%, for the fiscal year ended December 27, 2025. The Company recorded income tax expense of $284.0 million, an effective tax rate of 16.7%, for the fiscal year ended December 28, 2024. The increase in effective tax rate when compared to the year-ago period was primarily driven by the U.S. tax legislation enacted in 2025, which, among other things, changed capitalization requirements of certain research and development costs, resulting in a decrease of certain U.S. tax deductions and credits. Certain provisions of the U.S. tax legislation enacted in 2025 become effective in 2026, which the Company anticipates will increase certain U.S. tax deductions and result in a lower effective tax rate in 2026 as compared to 2025.
+
+Global taxing standards continue to evolve as a result of the Organization for Economic Co-Operation and Development (OECD) recommendations aimed at preventing perceived base erosion and profit shifting (BEPS) by multinational corporations, including the establishment of a global minimum tax rate of 15% under the “Pillar Two” framework. Many countries in which Garmin operates have implemented, or are in the process of implementing, global minimum tax legislation. Additionally, the Swiss canton of Schaffhausen passed legislation in 2023 that increased the cantonal corporate tax rate in 2024, resulting in a combined federal and cantonal statutory tax rate of approximately 15% in Switzerland.
+
+Partially to respond to changes to global tax standards, we initiated an intercompany transaction in 2020 which migrates ownership of certain intellectual property from Switzerland to the United States, which is the Company’s primary location for research, development and executive management. At the end of this migration, a higher percentage of income will be recognized in the U.S. Due to the subjectivity inherent in transfer pricing associated with this intercompany transaction, we have obtained advanced pricing agreements with the relevant jurisdictions.
+
+Net Income
+
+As a result of the various factors noted above net income increased 18% to $1,663.9 million from $1,411.4 million in the prior year.
+
+Liquidity and Capital Resources
+
+We primarily use cash flow from operations, and expect that future cash requirements may be used, to fund our capital expenditures, support our working capital requirements, pay dividends, fund share repurchases, and fund strategic acquisitions. We believe that our existing cash balances and cash flow from operations will be sufficient to meet our short- and long-term projected working capital needs, capital expenditures, and other cash requirements.
+
+Cash, Cash Equivalents, and Marketable Securities
+
+As of December 27, 2025, we had approximately $4.1 billion of cash, cash equivalents and marketable securities. Management invests idle or surplus cash in accordance with the Company’s investment policy, which has been approved by Garmin’s Board of Directors. The investment policy’s primary objectives are to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. Garmin’s average interest rate returns on cash and investments during fiscal 2025 and 2024 were 3.3% and 3.3%, respectively. The fair value of our securities varies from period to period due to changes in interest rates, in the performance of the underlying collateral, and in the credit performance of the underlying issuer, among other factors. See Note 4 – Marketable Securities in the Notes to the Consolidated Financial Statements for additional information regarding marketable securities.
+
+Cash Flows
+
+Cash provided by operating activities totaled $1,633.4 million for fiscal 2025, compared to $1,432.5 million for fiscal 2024. The increase was primarily due to an increase in cash received from customers primarily driven by higher net sales, partially offset by increases in cash paid for cost of goods sold and operating expenses in fiscal 2025 when compared to fiscal 2024.
+
+Cash used in investing activities totaled $645.2 million for fiscal 2025, compared to $393.3 million for fiscal 2024. The increase was primarily due to an increase in cash used for acquisitions and an increase in purchases of property and equipment in fiscal 2025 compared to fiscal 2024.
+
+Cash used in financing activities totaled $844.1 million for fiscal 2025, compared to $626.9 million for fiscal 2024. This increase was primarily due to higher purchases of treasury shares under the share repurchase plan, higher cash dividend payments, and an increase in the purchase of treasury shares related to equity awards in fiscal 2025 compared to fiscal 2024.
+
+Uses of Cash
+
+Operating Leases
+
+The Company has lease arrangements for certain real estate properties, vehicles, and equipment. Leased real estate properties are typically used for office space, distribution, data centers, and retail. As of December 27, 2025, the Company had fixed lease payment obligations of $235.5 million, with $43.5 million payable within 12 months.
+
+Inventory Purchase Obligations
+
+The Company obtains various raw materials and components for its products from a variety of third party suppliers. The Company’s inventory purchase obligations are primarily noncancelable commitments. As of December 27, 2025, the Company had inventory purchase obligations of $1,030.6 million, with $801.7 million payable within 12 months.
+
+Other Purchase Obligations
+
+The Company’s other purchase obligations primarily consist of noncancelable commitments for indirect purchases in connection with conducting our business. As of December 27, 2025, the Company had other purchase obligations of $526.0 million, with $276.0 million payable within 12 months.
+
+Other Uses of Cash
+
+Net cash outlays for income taxes exceeded income tax expense in each of the 2024 and 2023 fiscal years, partially due to the provisions of the 2017 United States Tax Cuts and Jobs Act, which required us to capitalize certain research and development costs and amortize those costs on our U.S. tax returns over a period of five or fifteen years, depending on where the associated costs were incurred. Net cash outlays for income taxes were less than income tax expense in 2025, partially due to the provisions included in the U.S. tax legislation enacted in 2025 which, among other things, changed capitalization requirements of certain research and development costs. Due to the timing of tax payments, we expect net cash outlays for income taxes in fiscal 2026 to exceed income tax expense in fiscal 2026, and to increase as compared to fiscal 2025.

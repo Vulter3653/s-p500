@@ -1,0 +1,169 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+For the fiscal year ended December 31, 2025
+
+For the transition period from to
+
+Commission file number 000-30713
+
+Intuitive Surgical, Inc.
+
+1020 Kifer Road
+
+Sunnyvale , California 94086
+
+(Address of principal executive offices) (Zip Code)
+
+(408) 523-2100
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The aggregate market value of the voting and non-voting common equity held by non-affiliates on June 30, 2025, based upon the closing price of Common Stock on such date as reported on The Nasdaq Global Select Market, was approximately $ 193.9 billion. Shares of voting stock held by each officer and director have been excluded in that such persons may be deemed to be affiliates. This assumption regarding affiliate status is not necessarily a conclusive determination for other purposes.
+
+The number of outstanding shares of the registrant’s common stock as of January 28, 2026, was 355,130,237 .
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Part III incorporates information by reference to the definitive proxy statement for the Company’s Annual Meeting of Stockholders to be held on or about April 30, 2026, to be filed within 120 days of the registrant’s fiscal year ended December 31, 2025.
+
+INTUITIVE SURGICAL, INC.
+
+INDEX
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements relate to expectations concerning matters that are not historical facts. Statements using words such as “estimates,” “projects,” “believes,” “anticipates,” “plans,” “expects,” “intends,” “may,” “will,” “could,” “commit,” “ensure,” “promote,” “should,” “would,” “goals,” “seek,” “potential,” “targeted,” and similar words and expressions are intended to identify forward-looking statements. These forward-looking statements include, but are not limited to, statements related to future results of operations, future financial condition, our financing plans and future capital requirements, our potential tax assets or liabilities, and statements based on current expectations, estimates, forecasts, and projections about the economies and geographic markets in which we operate and our beliefs and assumptions regarding these economies and markets. These forward-looking statements are necessarily estimates reflecting the judgment of our management and involve a number of risks and uncertainties that could cause actual results to differ materially from those suggested by the forward-looking statements. These forward-looking statements should be considered in light of various important factors, including, but not limited to, the following: the overall macroeconomic environment, which may impact customer spending and our costs, including tariffs, the levels of inflation, and interest rates; the conflict between Ukraine and Russia; conflicts in the Middle East; disruption to our supply chain, including difficulties in obtaining a sufficient supply of materials; curtailed or delayed capital spending by hospitals; the impact of global and regional economic and credit market conditions on healthcare spending; delays in obtaining new product approvals, clearances, or certifications from the U.S. Food and Drug Administration (“FDA”), comparable regulatory authorities, or notified bodies; the risk of our inability to comply with complex FDA and other regulations, which may result in significant enforcement actions; regulatory approvals, clearances, certifications, and restrictions or any dispute that may occur with any regulatory body; healthcare reform legislation in the U.S. and its impact on hospital spending, reimbursement, and fees levied on certain medical device revenues; changes in hospital admissions and actions by payers to limit or manage surgical procedures; the timing and success of product development and customer acceptance of developed products; the results of any collaborations, in-licensing arrangements, joint ventures, strategic alliances, or partnerships, including the joint venture with Shanghai Fosun Pharmaceutical (Group) Co., Ltd.; our completion of and ability to successfully integrate acquisitions; intellectual property positions and litigation; risks associated with our operations and any expansion outside of the U.S.; unanticipated manufacturing disruptions or the inability to meet demand for products; our reliance on sole- and single-sourced suppliers; the results of legal proceedings to which we are or may become a party; adverse publicity regarding us and the safety of our products and adequacy of training; the impact of changes to tax legislation, guidance, and interpretations; changes in tariffs, trade barriers, and regulatory requirements (including changes to tariffs imposed by the U.S. on imports from various countries, including Mexico, where we currently manufacture a significant majority of our instruments and accessories, Germany, where we currently manufacture a majority of our endoscopes, and China, where we currently import certain materials); and other risks and uncertainties, including those listed under the caption “Risk Factors.” Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this report and which are based on current expectations and are subject to risks, uncertainties, and assumptions that are difficult to predict. Our actual results may differ materially and adversely from those expressed in any forward-looking statement, and we undertake no obligation to publicly update or release any revisions to these forward-looking statements, except as required by law. Additional risks are described throughout this report, particularly in Part I, “Item 1A. Risk Factors,” and include, but are not limited to, those summarized on the following pages.
+
+RISKS RELATING TO OUR BUSINESS
+
+• Our commercial landscape is highly competitive, and customers may choose our competitors’ products or services or may not accept robotic-assisted medical procedures, which could result in reduced revenue and loss of customers.
+
+• We are subject to a variety of risks due to our operations outside of the U.S.
+
+• We are subject to litigation, investigations, and other legal proceedings relating to our products, customers, competitors, and government regulators that may adversely affect our business, financial condition, or results of operations.
+
+• We offer usage-based arrangements, including alternative capital acquisition approaches; as a result, we are exposed to an increased risk of losses of revenue and increased credit risk, which could adversely affect our business, financial condition, or results of operations.
+
+• Our reliance on sole- and single-sourced suppliers and ability to purchase at acceptable prices a sufficient supply of materials could harm our ability to meet product demand in a timely manner or within budget.
+
+• New product developments and introductions may adversely affect our business, financial condition, or results of operations.
+
+• We may encounter manufacturing problems or delays that could result in lost revenue.
+
+• We expect gross profit margins to vary over time, and changes in our gross profit margins could adversely affect our business, financial condition, or results of operations.
+
+• Macroeconomic conditions could materially adversely affect our business, financial condition, or results of operations.
+
+• Information technology system failures, cyberattacks, or deficiencies in our cybersecurity could harm our business, customer relations, financial condition, or results of operations.
+
+• If our products do not achieve and maintain customer acceptance, we will not be able to generate the revenue necessary to support our business.
+
+• If hospitals are unable to obtain coverage and reimbursement for procedures using our products, if reimbursement is insufficient to cover the costs of purchasing our products, or if limitations are imposed by governments on the amount hospitals can charge for certain procedures, we may be unable to generate sufficient sales to support our business.
+
+• If our products contain defects or encounter performance problems, we may have to recall our products and our reputation may suffer.
+
+• We utilize distributors for a portion of our sales and service of our products in certain countries, which subjects us to a number of risks that could harm our business, financial condition, or results of operations.
+
+• The failure to attract and retain key personnel could harm our ability to compete, and changes in our existing labor relationships could materially adversely impact our business, financial condition, or results of operations.
+
+• Incorporating artificial intelligence technologies into our products, services, and operations may result in legal and regulatory risks or have other adverse consequences to our business, financial condition, or results of operations.
+
+• Negative publicity, whether accurate or inaccurate, concerning our products or our company could reduce acceptance of our products and could result in decreased product demand and reduced revenues.
+
+• We could be subject to significant, uninsured losses, which may have a material adverse impact on our business, financial condition, or results of operations.
+
+• We experience long and variable contracting cycles and seasonality in our business, which may cause fluctuations in our financial results.
+
+• Third parties may offer to sell remanufactured or unauthorized instruments and accessories to our customers or provide unauthorized service on our systems, which could adversely impact safety, our financial results, and our reputation.
+
+• Our business is subject to complex and evolving laws and regulations regarding data privacy, data protection, artificial intelligence, and responsible use of data, and any failure to comply may result in significant liability, negative publicity, and/or erosion of trust, which may adversely affect our business, financial condition, or results of operations.
+
+• Ongoing and future global conflicts could adversely affect our business, financial condition, or results of operations.
+
+• Disruptions at the FDA and other government agencies or notified bodies could prevent our products from being cleared, certified, approved, or commercialized in a timely manner or at all, or could hinder their ability to procure our products, which may adversely affect our business, financial condition, or results of operations.
+
+• Public health crises or epidemic diseases, or the perception of their effects, could materially adversely affect our business, financial condition, or results of operations.
+
+• If we do not successfully manage our collaboration, licensing, joint venture, strategic alliance, or partnership arrangements with third parties, we may not realize the expected benefits from such arrangements, which may have a
+
+material adverse effect on our business, financial condition, or results of operations.
+
+• If we fail to successfully acquire or integrate new businesses, products, and technology, we may not realize expected benefits, or our business may be harmed.
+
+• We are exposed to credit risk and fluctuations in the market value of our investments.
+
+• Changes in tax laws or exposure to additional tax liabilities may adversely affect our business, financial condition, or results of operations.
+
+• We are subject to risks associated with real estate construction and development.
+
+• Climate change, natural disasters, or other events beyond our control could disrupt our business, financial condition, or results of operations.
+
+• Consolidation in the healthcare industry could have an adverse effect on our business, financial condition, or results of operations.
+
+• We use estimates, make judgments, and apply certain methods in determining our financial results and in measuring the progress of our business. As these estimates, judgments, and methods change, our results of operations and our assessment of the progress of our business could vary.
+
+RISKS RELATING TO OUR REGULATORY ENVIRONMENT
+
+• Complying with FDA and foreign regulations is a complex process, and our failure to fully comply could subject us to significant enforcement actions.
+
+• Our products are subject to a lengthy and uncertain domestic regulatory review process. If we do not obtain and maintain the necessary domestic regulatory authorizations, we will not be able to sell our products in the U.S.
+
+• Our products may cause or contribute to adverse medical events or be subject to failures or malfunctions that we are required to report to the FDA and foreign regulatory authorities and, if we fail to do so, we would be subject to sanctions that could harm our reputation, business, financial condition, or results of operations.
+
+• If our manufacturing facilities do not continue to meet federal, state, or other manufacturing regulations and standards, we may be required to temporarily cease all or part of our manufacturing operations, import/export of our products, and/or recall some products, which could result in significant product delivery delays and lost revenue.
+
+• Our products are subject to international regulatory processes and approval or certification requirements. If we do not obtain and maintain the necessary regulatory requirements, we will not be able to sell our products in other countries.
+
+• Changes in healthcare legislation and policy may have an adverse effect on our business, financial condition, or results of operations.
+
+• We are subject to federal, state, and foreign laws governing our business practices, which, if violated, could result in substantial penalties. Additionally, challenges to, or investigation into, our practices could cause adverse publicity and be costly to respond to and, thus, could harm our business, financial condition, or results of operations.
+
+• If hospitals and other surgical facilities do not continue to meet federal, state, or other regulatory standards, they may be required to temporarily cease all or part of their system utilization.
+
+RISKS RELATING TO OUR INTELLECTUAL PROPERTY
+
+• If we are unable to fully protect and successfully defend our intellectual property from use by third parties, our ability to compete may be harmed.
+
+• Others may be successful in asserting that our products infringe their intellectual property rights, which may cause us to pay substantial damages and/or enjoin us from commercializing our products.
+
+• Our products may rely on licenses from third parties, which may not be available to us on commercially reasonable terms or at all. If we lose access to these technologies, our revenues could decline.
+
+GENERAL RISK FACTORS
+
+• Our future operating results may be below expectations, which could cause our stock price to decline.
+
+• Our stock price has been, and will likely continue to be, volatile.
+
+• Changes to financial accounting standards may affect our reported results of operations.
+
+The summary of material risk factors described above should be read together with the text of the full risk factors below in the section entitled “Item 1A. Risk Factors” and the other information set forth in this Annual Report on Form 10-K, including our Consolidated Financial Statements and the related notes, as well as other documents that we file with the U.S. Securities and Exchange Commission. The risks summarized above or described in full below are not the only risks that we face. Additional risks and uncertainties not precisely known to us or that we currently deem to be immaterial may also materially adversely affect our business, financial condition, or results of operations.
+
+PART I

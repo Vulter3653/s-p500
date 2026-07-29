@@ -1,0 +1,25 @@
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+As a result of our global operating, investment, acquisition, divestiture, and financing activities, we are exposed to market risk associated with changes in foreign currency exchange rates, commodity prices, and interest rates. To manage the volatility relating to these risks, we periodically purchase and/or sell derivative instruments including foreign currency forward and option contracts, commodity swap contracts, interest rate swap contracts, and Pre-issuance hedge contracts. We use derivative instruments to reduce earnings and cash flow volatility resulting from shifts in market rates, as well as to hedge economic exposures. We do not enter into derivative instruments for trading or speculative purposes.
+
+Foreign currency and commodity price risk
+
+Foreign currency derivative instruments are or may be used to hedge existing foreign currency denominated assets and liabilities, forecasted foreign currency denominated sales/purchases to/from third parties as well as intercompany sales/purchases, intercompany principal and interest payments, and in connection with investments, acquisitions, or divestitures outside the U.S. As of February 28, 2025, we had exposures to foreign currency risk primarily related to the Mexican peso, Canadian dollar, New Zealand dollar, and euro. Approximately 100% of our balance sheet exposures and 72% of our forecasted transactional exposures for the year ending February 28, 2026, were hedged as of February 28, 2025.
+
+Commodity derivative instruments are or may be used to hedge forecasted commodity purchases from third parties as either economic hedges or accounting hedges. As of February 28, 2025, exposures to commodity price risk which we are currently hedging include aluminum, corn, diesel fuel, and natural gas prices. Approximately 63% of our forecasted transactional exposures for the year ending February 28, 2026, were hedged as of February 28, 2025.
+
+We have performed a sensitivity analysis to estimate our exposure to market risk of foreign exchange rates and commodity prices reflecting the impact of a hypothetical 10% adverse change in the applicable market. The volatility of the applicable rates and prices is dependent on many factors which cannot be forecasted with reliable accuracy. Gains or losses from the revaluation or settlement of the related underlying positions would substantially offset such gains or losses on the derivative instruments. The aggregate notional value, estimated fair value, and sensitivity analysis for our open foreign currency and commodity derivative instruments are summarized as follows:
+
+Interest rate risk
+
+The estimated fair value of our fixed interest rate debt is subject to interest rate risk, credit risk, and foreign currency risk. In addition, we also have variable interest rate debt outstanding (primarily SOFR-based), certain of which includes a fixed margin subject to the same risks identified for our fixed interest rate debt.
+
+As of February 28, 2025, we had $275.0 million of outstanding cash flow designated, Pre-issuance hedge contracts designed to minimize interest rate volatility on our future debt issuances. There were no other cash flow designated or undesignated interest rate swap contracts or Pre-issuance hedge contracts outstanding as of February 28, 2025, or February 29, 2024.
+
+We have performed a sensitivity analysis to estimate our exposure to market risk of interest rates reflecting the impact of a hypothetical 1% increase in the prevailing interest rates. The volatility of the applicable rates is dependent on many factors which cannot be forecasted with reliable accuracy.
+
+The aggregate notional value, estimated fair value, and sensitivity analysis for our outstanding fixed-rate debt, including current maturities, are summarized as follows:
+
+A 1% hypothetical change in the prevailing interest rates would have increased interest expense on our variable interest rate debt by $5.3 million and $7.1 million for the years ended February 28, 2025, and February 29, 2024, respectively.
+
+For additional discussion on our market risk, refer to Notes 6 and 7.

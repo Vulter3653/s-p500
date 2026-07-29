@@ -1,0 +1,33 @@
+Item 1C. Cybersecurity.
+
+Risk Management and Strategy
+
+We have implemented systems and processes intended to secure our information technology systems and prevent unauthorized access to or loss of sensitive, confidential and personal data. These processes are implemented and overseen primarily by our Chief Information Officer (CIO) and Chief Information Security Officer (CISO) . Our CIO has over 35 years of experience and in his 21 years at NVR has been responsible for the implementation and modernization of many of our key technologies across the enterprise. Our CISO has over 25 years of experience in information technology architecture, including over 20 years with NVR in progressively more senior information security roles.
+
+Significant information technology processes that have been implemented include:
+
+- vulnerability management to help ensure security updates are effectively applied,
+
+- utilization of encryption and multi-factor authentication technologies to protect company data,
+
+- regular required training for all employees with systems access regarding matters such as cybersecurity threats and data protection, and utilization of simulated phishing tests to increase security awareness,
+
+- regular review of third-party service providers, including review of their system and organization controls (SOC) reports,
+
+- enhanced monitoring capabilities for early detection and rapid response to potential security incidents,
+
+- documented incident response readiness process updated annually,
+
+- completion of annual tabletop exercises on potential cybersecurity breaches with the assistance of a third-party cybersecurity consultant, and
+
+- annual review of information technology disaster recovery and business continuity processes to help ensure the ability to resume work after an incident.
+
+Review of these processes has been incorporated into our annual risk assessment and internal audits of controls performed by our Internal Audit department. Results of these audits are reported to the Audit Committee by our Vice President of Internal Audit and Corporate Governance.
+
+As previously discussed in Item 1A of this Form 10-K "Risk Factors", failure to maintain the security of the data we are required to protect could have a material adverse effect on our operations and financial results. As of the date of this Form 10-K, we have not had any known instances of material cybersecurity incidents, including third-party incidents, during any of the prior three fiscal years that have materially affected or are reasonably likely to materially affect the Company, including its business strategy, results of operations, or financial condition .
+
+Governance
+
+Our Audit Committee is required under its charter to periodically review our data privacy and information security programs. Our Audit Committee assists our Board in oversight and monitoring of our cybersecurity processes, including systems to collect and store confidential information, ongoing initiatives, current threats and our response readiness to cybersecurity attacks.
+
+Our CIO and CISO communicate directly with members of the Audit Committee and Board of Directors on cybersecurity matters. In 2025, our CIO and CISO presented updates on our cybersecurity initiatives quarterly; twice to our Audit Committee and twice to our full Board.

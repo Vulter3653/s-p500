@@ -1,0 +1,885 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+EXECUTIVE OVERVIEW
+
+Management believes the following sections provide an overview of several of the most relevant matters necessary for an understanding of the financial aspects of Regions' business, particularly regarding its 2025 results. Cross references to more detailed information regarding each topic within MD&A and the consolidated financial statements are included. The following information should be read in conjunction with the entire MD&A and accompanying consolidated financial statements and related notes, as well as the other sections of this Annual Report on Form 10-K.
+
+Economic Environment in Regions' Banking Markets
+
+After what is expected to be full-year 2025 growth of 2.2 percent, Regions' baseline forecast anticipates real GDP growth of 2.7 percent for 2026. The economic environment faces challenges such as lingering trade policy uncertainty, a weaker pace of hiring, and persistent inflation pressures; however, the economy is supported by ample liquidity in the household and corporate sectors, elevated profit margins, expansionary fiscal policy, accommodative financial conditions, and accelerating trend productivity growth.
+
+The pace of nonfarm job growth slowing has been a function of diminished hiring as opposed to a rising pace of layoffs. Lingering policy uncertainty, uncertainty around the economic outlook, and a drive for greater efficiency are likely weighing on hiring while a significant outflow of foreign born labor has left a gap in the supply of labor which is weighing on hiring. A slower pace of labor force growth will largely offset the slowing pace of job growth, leaving the unemployment rate little changed; the unemployment rate averaged 4.3 percent in 2025, which we expect will be the average for 2026 as well.
+
+Though growth in aggregate labor earnings is slowing, it continues to outpace inflation. Growth in consumer spending has slowed partially reflecting payback for purchases of consumer durable goods that were pulled forward in 2025 as consumers looked to avoid tariff-related price increases. After slowing mid-year, growth in spending on discretionary services firmed up in the fall, but a significant decline in equity prices would likely lead to a pronounced pullback in such spending. Additionally, flagging consumer sentiment and uncertainty about the path of the labor market may weigh on spending growth. That said, overall household financial conditions remain healthy, with elevated household net worth and still-low monthly debt service burdens. Moreover, changes in the tax code will lead to a significant boost to after-tax household income in the first quarter of 2026 that is expected to support spending amongst lower-to-middle income households.
+
+More favorable tax treatment seems to have bolstered business investment spending over recent months and the momentum is expected to carry forward in 2026. Corporate profit margins remain notably elevated, particularly relative to the years immediately prior to 2020, which has enabled firms to absorb some portion of the higher tariffs already put in place. However, there is some remaining uncertainty around how the costs of higher tariffs will impact longer-term decisions on capital spending, hiring, and pricing.
+
+While increased emphasis on the downside risks to the labor market led the FOMC to cut the Federal funds rate three times in 2025, most recently by twenty-five basis points at their December 2025 meeting, the extent of further cuts in 2026 remains unclear. Several Committee members remain focused on the upside risks to inflation. While this does not rule out additional Federal funds rate cuts, it likely limits the scope for further cuts barring a more pronounced deterioration in labor market conditions.
+
+Patterns of economic activity within the Regions footprint are expected to be broadly similar to those seen for the U.S. as a whole. As was the case nationally, the pace of job growth within the footprint slowed over the course of 2025, in part reflecting a slowing pace of net in-migration from the rest of the U.S. and abroad. Still, growth in nonfarm employment has continued to run ahead of the national average. Some of the metro areas which had seen the largest cumulative increases over the prior few years have begun to see house prices decline, but underlying demand, in part reflecting persistently above-average population growth, will help stem the extent of any such declines. Also, given the extent to which house prices have risen over recent years in these markets, the declines in house prices do not threaten to push large numbers of owners into negative equity positions.
+
+The economic environment, as described above, impacted Regions' forecast utilized in calculating the allowance as of December 31, 2025. See the "Allowance" section for further information.
+
+2025 Results
+
+Regions reported net income available to common shareholders of $2.1 billion or $2.30 per diluted share in 2025 compared to net income available to common shareholders of $1.8 billion or $1.93 per diluted share in 2024.
+
+Net interest income (taxable-equivalent basis) totaled $5.0 billion in 2025 compared to $4.9 billion in 2024. The net interest margin (taxable-equivalent basis) was 3.61 percent in 2025, reflecting a 7 basis point increase from 2024. The increases in net interest income and net interest margin were primarily driven by lower funding costs and hedge performance improvements as short-term interest rates declined. Net interest income and margin also benefitted from securities reinvestment
+
+activities, executed through multiple, distinct debt securities repositioning transactions. See Table 2 "Volume and Yield/Rate Variances" for further details.
+
+The provision for credit losses totaled $470 million in 2025 compared to $487 million in 2024. In 2025, net charge-offs exceeded the provision for credit losses by $43 million compared to 2024 when the provision for credit losses exceeded net charge-offs by $29 million. Refer to the "Allowance" section of Management's Discussion and Analysis for further detail.
+
+Non-interest income increased year-over-year, totaling $2.5 billion in 2025 compared to $2.3 billion 2024. The improvement was primarily driven by a decline in securities losses associated with less repositioning activity in 2025 compared to 2024. Additionally, most categories of non-interest income increased including investment management and trust fee income, investment services income, other miscellaneous income, and service charges on deposit accounts. See Table 3 "Non-Interest Income" for further details.
+
+Non-interest expense was $4.3 billion in 2025 and $4.2 billion in 2024. The slight increase was driven by an increase in salaries and benefits, other miscellaneous expenses, and professional, legal and regulatory expenses. The increases were partially offset by declines in FDIC insurance assessments and operational losses. See Table 4 "Non-Interest Expense" for further details.
+
+Regions' effective tax rate was 21.4 percent in 2025 compared to 19.6 percent in 2024. See the "Income Taxes" section for further details.
+
+For more information, refer to the following additional sections within this Form 10-K:
+
+• "Operating Results" section of MD&A
+
+• “Net Interest Income and Net Interest Margin” discussion within the “Operating Results” section of MD&A
+
+• “Interest Rate Risk” discussion within the “Risk Management” section of MD&A
+
+Capital
+
+Capital Actions
+
+As a Category IV bank, Regions was not required to participate in the 2025 stress test. Nonetheless, like other Category IV banking organizations, the Company did receive results from the Federal Reserve during the second quarter of 2025. From the fourth quarter of 2025 through the third quarter of 2026, the Company's SCB will remain floored at 2.5 percent. In February 2026, the Federal Reserve voted to maintain SCB requirements at current levels through the third quarter of 2027 to allow time for public feedback on proposed changes to supervisory stress testing models. As such, Regions' SCB will remain floored at 2.5 percent through the third quarter of 2027. See Note 14 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements for further details regarding CCAR results.
+
+On April 20, 2022, the Board authorized the repurchase of up to $2.5 billion of the Company's common stock, permitting purchases from the second quarter of 2022 through the fourth quarter of 2024, which was subsequently extended through the fourth quarter of 2025. As of December 31, 2025, Regions repurchased approximately 78 million shares of common stock under this program, which reduced shareholders' equity by $1.7 billion. On December 10, 2025, the Board authorized the repurchase of up to $3.0 billion of the Company's common stock for the period beginning January 1, 2026 and extending through December 31, 2027. This authorization supersedes the prior share repurchase program, which expired on December 31, 2025.
+
+For more information, refer to the following additional sections within this Form 10-K:
+
+• "Shareholders' Equity" discussion in MD&A
+
+• "Regulatory Requirements" section of MD&A
+
+• Note 14 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements
+
+Regulatory Capital
+
+Regions and Regions Bank are required to comply with regulatory capital requirements established by Federal and State banking agencies. Under the Basel III Rules, Regions is designated as a standardized approach bank. The Basel III Rules maintain the minimum guidelines for Regions to be considered well-capitalized for Tier 1 capital and Total capital at 6.0% and 10.0%, respectively. At December 31, 2025, Regions’ Tier 1 capital and Total capital ratios were 11.99% and 13.89%, respectively.
+
+The Basel III Rules also officially defined CET1. Regions' CET1 ratio at December 31, 2025 was estimated to be 10.89%.
+
+For more information, refer to the following additional sections within this Form 10-K:
+
+• “Supervision and Regulation” discussion within Item 1. Business
+
+• "Regulatory Requirements" section of MD&A
+
+• Note 12 "Regulatory Capital Requirements and Restrictions" to the consolidated financial statements
+
+Loan Portfolio and Credit
+
+During 2025, total loans decreased by $1.1 billion or 1.1 percent compared to 2024. The decrease was driven by a decline in the commercial portfolio of $947 million and the consumer portfolio of $539 million, partially offset by an increase in commercial investor real estate mortgage loans of $605 million. The decline in commercial loans, specifically commercial and industrial loans, was due to strategic runoff in leveraged lending, continued portfolio resolutions, and loans refinancing off the balance sheet through the debt capital markets. The decline in consumer loans was primarily related to a decrease in Regions' home improvement financing portfolio balances. The increase in commercial investor real estate mortgage loans was a result of increases in fundings and new term loans. Refer to the "Portfolio Characteristics" section for further discussion.
+
+Net charge-offs totaled $513 million, or 0.53 percent of average loans, in 2025, compared to $458 million, or 0.47 percent in 2024, driven by an increase in commercial and industrial and commercial investor real estate mortgage net charge-offs from resolutions within previously identified portfolios of interest with established reserves. The allowance was 1.76 percent of total loans, net of unearned income at December 31, 2025, a decrease from 1.79 percent at December 31, 2024. The coverage ratio of allowance to non-performing loans excluding loans held for sale was 242 percent at December 31, 2025, compared to 186 percent at December 31, 2024.
+
+For more information, refer to the following additional sections within this Form 10-K:
+
+• “Allowance” discussion within the “Critical Accounting Policies and Estimates” section of MD&A
+
+• “Provision for Credit Losses” discussion within the “Operating Results” section of MD&A
+
+• “Loans,” "Portfolio Characteristics", “Allowance,” and “Non-performing Assets” discussions within the “Balance Sheet Analysis” section of MD&A
+
+• Note 4 "Loans" to the consolidated financial statements
+
+• Note 5 "Allowance for Credit Losses" to the consolidated financial statements
+
+Liquidity
+
+At the end of 2025, Regions Bank had $7.8 billion in cash on deposit with the Federal Reserve Bank and the loan-to-deposit ratio was 73 percent. Cash and cash equivalents at the parent company totaled $726 million. Cash at the Federal Reserve was stable compared to December 31, 2024.
+
+At December 31, 2025, the Company’s borrowing capacity with the Federal Reserve was $22.8 billion based on available collateral. Borrowing availability with the FHLB was $11.1 billion based on available collateral at the same date. Regions also maintains a shelf registration statement with the SEC that can be utilized by the Company to issue various debt and/or equity securities. Additionally, Regions' Board has authorized Regions Bank to issue up to $10 billion in aggregate principal amount of bank notes outstanding at any one time.
+
+Regions is required to conduct liquidity stress testing and measure its available sources of liquidity against minimums as established by Regions' internal liquidity policy. Regions was fully compliant with those requirements as of year-end.
+
+For more information, refer to the following additional sections within this Form 10-K:
+
+• “Supervision and Regulation” discussion within Item 1. Business
+
+• “Borrowed Funds” discussion within the “Balance Sheet Analysis” section of MD&A
+
+• “Regulatory Requirements” section of MD&A
+
+• “Liquidity” discussion within the “Risk Management” section of MD&A
+
+• Note 11 "Borrowed Funds" to the consolidated financial statements
+
+GENERAL
+
+The following discussion and financial information is presented to aid in understanding Regions’ financial position and results of operations. The emphasis of this discussion will be on operations for the years 2025 and 2024; in addition, financial information for prior years will also be presented when appropriate.
+
+Regions’ profitability, like that of many other financial institutions, is dependent on its ability to generate revenue from net interest income as well as non-interest income sources. Net interest income is primarily the difference between the interest income Regions receives on interest-earning assets, such as loans, leases, investment securities and cash balances held at the Federal Reserve Bank, and the interest expense Regions pays on interest-bearing liabilities, principally deposits and borrowings. Regions’ net interest income is impacted by the size and mix of its balance sheet components and the interest rate spread between interest earned on its assets and interest paid on its liabilities. Non-interest income includes fees from service
+
+charges on deposit accounts, card and ATM fees, mortgage servicing and secondary marketing, investment management and trust activities, capital markets and other customer services which Regions provides. Results of operations are also affected by the provision for credit losses and non-interest expenses such as salaries and employee benefits, equipment and software expenses, occupancy, professional, legal and regulatory expenses, FDIC insurance assessments, and other operating expenses, as well as income taxes.
+
+Economic conditions, competition, new legislation and related rules impacting regulation of the financial services industry and the monetary and fiscal policies of the Federal government significantly affect most, if not all, financial institutions, including Regions. Lending and deposit activities and fee income generation are influenced by levels of business spending and investment, consumer income, consumer spending and savings, capital market activities, and competition among financial institutions, as well as customer preferences, interest rate conditions and prevailing market rates on competing products in Regions’ market areas.
+
+Regions’ business strategy is focused on providing a competitive mix of products and services, delivering quality customer service, and continuing to develop and optimize distribution channels that include a branch distribution network with offices in convenient locations, as well as electronic and mobile banking.
+
+Business Segments
+
+Regions provides traditional commercial, retail and mortgage banking services, as well as other financial services in the fields of asset management, wealth management, securities brokerage, and other specialty financing. Regions carries out its strategies and derives its profitability from three reportable segments: Corporate Bank, Consumer Bank, and Wealth Management, with the remainder in Other.
+
+See Note 22 "Business Segment Information" to the consolidated financial statements for further information on Regions’ business segments.
+
+CRITICAL ACCOUNTING ESTIMATES AND RELATED POLICIES
+
+In preparing financial information, management is required to make significant estimates and assumptions that affect the reported amounts of assets, liabilities, income and expenses for the periods shown. The accounting principles followed by Regions and the methods of applying these principles conform with GAAP, regulatory guidance, where applicable, and general banking practices. Estimates and assumptions most significant to Regions are related primarily to the allowance, fair value measurements, goodwill, residential MSRs, and income taxes, and are summarized in the following discussion and in the notes to the consolidated financial statements.
+
+Allowance
+
+The allowance consists of two components: the allowance for loan losses and the reserve for unfunded credit commitments. Unfunded credit commitments include items such as letters of credit, financial guarantees and binding unfunded loan commitments. Regions determines its allowance in accordance with GAAP and applicable regulatory guidance.
+
+See Note 1 "Summary of Significant Accounting Policies" and Note 5 "Allowance for Credit Losses" to the consolidated financial statements for information about areas of judgment and methodologies used in establishing the allowance.
+
+The allowance is sensitive to a number of internal factors, such as changes in the mix and level of loan balances outstanding, portfolio performance and assigned risk ratings. The allowance is also sensitive to external factors such as the general health of the economy, as evidenced by changes in interest rates, inflation, GDP, unemployment rates, changes in real estate demand and values, volatility in commodity prices, bankruptcy filings, and the effects of weather and natural disasters such as floods and hurricanes.
+
+Management considers these variables and all other available information when establishing the final level of the allowance. These variables and others have the ability to result in actual loan losses that differ from the originally estimated amounts.
+
+Changes in the factors used by management to determine the appropriateness of the allowance or the availability of new information could cause the allowance to be increased or decreased in future periods. In addition, bank regulatory agencies, as part of their examination process, may require changes in the level of allowance based on their judgments and estimates. Volatility in certain credit metrics is to be expected. Additionally, changes in circumstances related to individually large credits, commodity prices, or certain macroeconomic forecast assumptions may result in volatility. The scenarios discussed below, or other scenarios, have the ability to result in actual credit losses that differ, perhaps materially, from the originally estimated amounts. This analysis is not intended to estimate changes in the overall allowance, which would also be influenced by the judgment management applies to the modeled loss estimates to reflect uncertainty and imprecision based on then-current circumstances and conditions.
+
+It is difficult to estimate how potential changes in any one economic factor might affect the overall allowance because a wide variety of factors and inputs are considered in the allowance estimate. Changes in the factors and inputs may not occur at
+
+the same rate and may not be consistent across all product types. Additionally, changes in factors and inputs may be directionally inconsistent, such that improvement in one factor may offset deterioration in others. However, to consider the impact of a hypothetical alternate economic forecast, Regions estimated the allowance using a scenario that was one standard deviation unfavorable to the expected scenario for each macroeconomic variable. This unfavorable scenario resulted in an allowance approximately 15 percent higher than the allowance using the expected scenario.
+
+Similar to the scenario above, it is difficult to estimate how potential changes in credit risk factors might affect the overall allowance because of the wide variety of credit risk factors that are considered in estimating the allowance. Changes in risk ratings may not occur at the same rate and may not be consistent across product or industry types. Regions conducted a separate sensitivity analysis considering deteriorating conditions for commercial and investor real estate portfolio factors by stressing key portfolio drivers relative to the baseline portfolio conditions. Regions stressed risk ratings by one downgrade for commercial and investor real estate loans. This scenario resulted in an allowance approximately 20 percent higher for the commercial and investor real estate portfolios.
+
+Fair Value Measurements
+
+A portion of the Company’s assets and liabilities is carried at fair value, with changes in fair value recorded either in earnings or accumulated other comprehensive income (loss). The most significant of these include debt securities available for sale, mortgage loans held for sale, residential MSRs, and derivative assets and liabilities. From time to time, the estimation of fair value also affects other loans held for sale, which are recorded at the lower of cost or fair value. The determination of fair value also impacts certain other assets that are periodically evaluated for impairment using fair value estimates, including goodwill.
+
+Fair value is generally defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) as opposed to the price that would be paid to acquire the asset or received to assume the liability (an entry price), in an orderly transaction between market participants at the measurement date under current market conditions. While management uses judgment when determining the price at which willing market participants would transact when there has been a significant decrease in the volume or level of activity for the asset or liability in relation to “normal” market activity, management’s objective is to determine the point within the range of fair value estimates that is most representative of a sale to a third-party investor under current market conditions. The value to the Company if the asset or liability were held to maturity is not included in the fair value estimates.
+
+A fair value measure should reflect the assumptions that market participants would use in pricing the asset or liability, including the assumptions about the risk inherent in a particular valuation technique, the effect of a restriction on the sale or use of an asset and the risk of nonperformance. Fair value is measured based on a variety of inputs the Company utilizes. Fair value may be based on quoted market prices for identical assets or liabilities traded in active markets (Level 1 valuations). If market prices are not available, quoted market prices for similar instruments traded in active markets, quoted prices for identical or similar instruments in markets that are not active and model-based valuation techniques for which all significant assumptions are observable in the market are used (Level 2 valuations). Where observable market data is not available, the valuation is generated from model-based techniques that use significant assumptions not observable in the market, but observable based on Company-specific data (Level 3 valuations). These unobservable assumptions reflect the Company’s own estimates for assumptions that market participants would use in pricing the asset or liability. Valuation techniques typically include option pricing models, discounted cash flow models and similar techniques, but may also include the use of market prices of assets or liabilities that are not directly comparable to the subject asset or liability.
+
+See Note 1 "Summary of Significant Accounting Policies" to the consolidated financial statements for a detailed discussion of determining fair value, including pricing validation processes.
+
+Goodwill
+
+Goodwill consists of the excess of cost over the fair value of net assets of acquired businesses and totaled $5.7 billion at both December 31, 2025 and December 31, 2024. Goodwill is allocated to each of Regions’ reportable segments (each a reporting unit: Corporate Bank, Consumer Bank, and Wealth Management). Goodwill is tested for impairment on an annual basis as of October 1 or more often if events and circumstances indicate impairment may exist (refer to Note 1 "Summary of Significant Accounting Policies" to the consolidated financial statements for further discussion).
+
+The Company completed its annual goodwill impairment test as of October 1, 2025, by performing a qualitative assessment of goodwill at the reporting unit level to determine whether any indicators of impairment existed. In performing the qualitative assessment, the Company evaluated events and circumstances since the last impairment analysis, recent operating performance including reporting unit performance, changes in market capitalization, regulatory actions and assessments, changes in the business climate, company-specific factors, and trends in the banking industry. After assessing the totality of the events and circumstances, the Company determined that it is more likely than not that the fair value of the Corporate Bank, Consumer Bank, and Wealth Management reporting units exceed their respective carrying values. Therefore, a quantitative impairment test was not required. Refer to Note 9 "Goodwill and Other Intangible Assets" to the consolidated financial statements for additional discussion of goodwill.
+
+Specific factors as of the date of filing the consolidated financial statements that could negatively impact the assumptions used in assessing goodwill for impairment include: a protracted decline in the Company’s market capitalization; adverse business trends resulting from litigation and/or regulatory actions; higher loan losses; forecasts of high unemployment levels; future increased minimum regulatory capital requirements above current thresholds (refer to Note 12 "Regulatory Capital Requirements and Restrictions" in Item 8. “Financial Statements and Supplementary Data" for a discussion of current minimum regulatory requirements); future federal rules and regulations (e.g., such as those resulting from the Dodd-Frank Act); and/or significant volatility in interest rates.
+
+Residential Mortgage Servicing Rights
+
+Regions has elected to measure and report its residential MSRs using the fair value method. Although sales of residential MSRs do occur, residential MSRs do not trade in an active market with readily observable market prices and the exact terms and conditions of sales may not be readily available, and are therefore Level 3 valuations in the fair value hierarchy previously discussed in the "Fair Value Measurements" section. Specific characteristics of the underlying loans greatly impact the estimated value of the related residential MSRs. As a result, Regions stratifies its portfolios on the basis of certain risk characteristics, including loan type and contractual note rate, as applicable. Regions values its residential MSRs using discounted cash flow modeling techniques. These techniques require management to make estimates regarding future net servicing cash flows, taking into consideration historical and forecasted mortgage loan prepayment rates, discount rates, escrow balances and servicing costs. Changes in interest rates, prepayment speeds or other factors impact the fair value of residential MSRs which impacts earnings.
+
+Refer to Note 6 "Servicing of Financial Assets" to the consolidated financial statements for additional information including quantitative disclosures reflecting the effect that changes in management's assumptions would have on the fair value of residential MSRs.
+
+Income Taxes
+
+Accrued income taxes are reported as a component of either other assets or other liabilities, as appropriate, in the consolidated balance sheets and reflect management’s estimate of income taxes to be received or paid. The Company is subject to income tax in the U.S. and multiple state and local jurisdictions. The tax laws and regulations in each jurisdiction are complex and may be subject to different interpretations by the Company and the relevant government taxing authorities. Therefore, the Company is required to exercise judgment in determining tax accruals and evaluating the Company’s tax positions, including evaluating UTBs.
+
+Deferred income taxes represent the amount of future income taxes to be paid or received and are accounted for using the asset and liability method with the net balance reported in other assets or other liabilities, as appropriate, in the consolidated balance sheets. The Company determines the realization of deferred tax assets by considering all positive and negative evidence available, including the impact of recent operating results, future reversals of taxable temporary differences, future taxable income exclusive of reversing temporary differences and carryforwards and tax planning strategies. In projecting future taxable income, the Company utilizes forecasted pre-tax earnings, adjusts for the estimated temporary differences and incorporates assumptions, including the amounts of income allocable to taxing jurisdictions. Determining whether deferred tax assets are realizable is subjective and requires the use of significant judgment. A valuation allowance is provided when it is more-likely-than-not that some portion of the deferred tax asset will not be realized. The Company currently maintains a valuation allowance for certain state carryforwards.
+
+The Company’s estimate of accrued income taxes, deferred income taxes and income tax expense can also change in any period as a result of new legislative or judicial guidance impacting tax positions, as well as changes in income tax rates and changes in operating activities. Any changes, if they occur, can be significant to the Company’s consolidated financial position, results of operations or cash flows.
+
+See Note 1 "Summary of Significant Accounting Policies" and Note 19 "Income Taxes" to the consolidated financial statements for further details and discussion.
+
+OPERATING RESULTS
+
+NET INTEREST INCOME AND NET INTEREST MARGIN
+
+Table 1 "Consolidated Average Daily Balances and Yield/Rate Analysis" presents a detail of net interest income (on a taxable-equivalent basis), the net interest margin, and the net interest spread.
+
+Table 1—Consolidated Average Daily Balances and Yield/Rate Analysis
+
+_______
+
+(1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+
+(2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly.
+
+(3) Interest income on debt securities includes hedging income of $20 million and $7 million and hedging expense of $1 million for the years ended December 31, 2025, 2024, and 2023, respectively.
+
+(4) Loans, net of unearned income include non-accrual loans for all periods presented.
+
+(5) Interest income on loans, net of unearned income, includes hedging expense of $242 million, $420 million and $236 million for the years ended December 31, 2025, 2024, and 2023, respectively. Interest income on loans, net of unearned income, also includes net loan fees of $122 million, $142 million and $130 million for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+(6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits and equaled 1.37%, 1.56% and 0.99% for the years ended December 31, 2025, 2024, and 2023, respectively.
+
+(7) The computation of taxable-equivalent net interest income is based on the statutory federal income tax rate of 21%, adjusted for applicable state income taxes net of the related federal tax benefit.
+
+Table 2 "Volume and Yield/Rate Variances" provides additional information with which to analyze the changes in net interest income.
+
+Table 2— Volume and Yield/Rate Variances
+
+______
+
+Notes:
+
+• The change in interest not due solely to volume or yield/rate has been allocated to the volume column and yield/rate column in proportion to the relationship of the absolute dollar amounts of the change in each.
+
+• The computation of taxable-equivalent net interest income is based on the statutory federal income tax rate of 21%, adjusted for applicable state income taxes net of the related federal tax benefit.
+
+Net interest income is Regions’ principal source of income and is one of the most important elements of Regions’ ability to meet its overall performance goals. Annual changes in net interest income are due to changes in the interest rate environment, product pricing, balance sheet mix, and balance sheet growth.
+
+Over recent years, changes in the interest rate environment and the impact on product pricing and mix has been the primary contributor to changes in net interest income. Long-term and short-term rates were lower for most of 2025 compared to 2024 due to the Federal funds rate being cut several times late in 2024 and again in late 2025. In 2025 specifically, the FOMC decreased the Federal funds rate by 25 basis points at the September, October and December meetings, for a total decrease of 75 basis points. See the "Executive Overview" for a discussion of recent FOMC activity.
+
+Net interest income (taxable-equivalent basis) increased by $172 million in 2025 compared to 2024, and net interest margin increased by 7 basis points to 3.61 percent in 2025. The increases in net interest income and net interest margin were driven primarily by lower funding costs, which includes deposits and wholesale borrowings. Funding costs declined to 1.54 percent compared to 1.73 percent in 2024, driven by deposit cost reductions in a declining rate environment and deposit balance growth, creating a more optimal funding mix. Also contributing to the more optimal funding mix in 2025 was deposit remixing, as certain time deposits matured and were replaced with lower cost product types, money market in particular. Deposit costs decreased to 1.37 percent for 2025 compared to 1.56 percent for 2024.
+
+Also benefiting net interest income and net interest margin in 2025 were the Company's continued securities reinvestment activities, executed through multiple, distinct debt securities repositioning transactions. As a result, the debt securities yield increased to 3.47 percent in 2025 from 2.89 percent in 2024. See Table 5 for more information.
+
+Partially offsetting the decrease in funding costs were lower loan balances and lower loan yields. The Company's loan yields are primarily influenced by short-term interest rates such as 30-day term SOFR, which averaged 4.28 percent in 2025 compared to 5.19 percent in 2024. While floating-rate loan yields declined, the decline was mitigated by the Company's use of financial derivative instruments as hedges in order to provide interest income benefits in periods of lower interest rates. In addition, loan yields were also supported in 2025 from legacy fixed rate asset maturities and their replacement in the current elevated interest rate environment.
+
+Balance sheet growth, combined with the mix of earning assets and interest-bearing liabilities, are key drivers of changes to the interest rate spread. The interest rate spread increased by 22 basis points to 2.90 percent in 2025. Average earning assets in 2025 totaled $139.4 billion, an increase of $2.0 billion as compared to the prior year, primarily due to an increase in interest-bearing deposits in other banks and debt securities, partially offset by a decline in loans, net of unearned income. The net effect of the change in earning asset mix had a relatively neutral impact on spread. The mix of funding sources, both interest-bearing and non-interest bearing liabilities, can also affect the interest spread. In 2025 and 2024, the Company's total deposit balances grew while the mix remained relatively stable, with non-interest-bearing deposits comprising approximately 30 percent of deposits throughout the years. The changes to funding mix had a favorable impact on the interest rate spread. See the "Loans", "Debt Securities", and "Deposits" sections for further details.
+
+See also the "Market Risk-Interest Rate Risk" section in Management's Discussion and Analysis for additional information.
+
+PROVISION FOR CREDIT LOSSES
+
+The provision for credit losses is used to maintain the allowance for loan losses and the reserve for unfunded credit losses at a level that management determines is appropriate to absorb expected credit losses over the contractual life of the loan and credit commitment portfolio at the balance sheet date. In 2025, net charge-offs exceeded the provision for credit losses by $43 million compared to 2024 when the provision for credit losses exceeded net charge-offs by $29 million.
+
+For further discussion and analysis of the total allowance for credit losses, see the "Allowance for Credit Losses" and “Risk Management” sections found later in this report. See also Note 5 "Allowance for Credit Losses" to the consolidated financial statements.
+
+NON-INTEREST INCOME
+
+Table 3—Non-Interest Income
+
+Service Charges on Deposit Accounts
+
+Service charges on deposit accounts include overdraft fees, treasury management fees and other customer transaction-related service charges. Service charges increased modestly in 2025 compared to 2024, driven primarily by an increase in fees from treasury management services and overdraft fees.
+
+The Company continues to monitor and evaluate the potential impact of proposals to lower the maximum interchange fee that a large debit card issuer can receive for a debit card transaction, which remain subject to ongoing litigation.
+
+Capital Markets Income
+
+Capital markets income primarily relates to capital raising activities that include real estate placement, securities underwriting and placement, loan syndication, as well as foreign exchange, derivatives, merger and acquisition and other advisory services. Capital markets income was flat from 2024 to 2025 primarily due to increases in syndication revenue and commercial swap income being offset by declines in M&A fees and real estate revenue due to economic uncertainty early in 2025 affecting timing and volume of transactions.
+
+Mortgage Income
+
+Mortgage income is generated through the origination and servicing of residential mortgage loans for long-term investors and sales of residential mortgage loans in the secondary market. The increase in mortgage income in 2025 compared to 2024
+
+was due primarily to favorable mortgage servicing rights valuation adjustments, partially offset by negative pipeline valuation adjustments.
+
+Investment Services Fee Income
+
+Investment services fee income represents income earned from investment advisory services. Investment services fee income increased in 2025 compared to 2024 due primarily to strong advisor production.
+
+Market Value Adjustments on Employee Benefit Assets
+
+Market value adjustments on employee benefit assets are the reflection of market value variations related to assets held for certain employee benefits. The adjustments are offset in salaries and benefits and other non-interest expense.
+
+Securities Gains (Losses), Net
+
+Net securities gains (losses) primarily result from the Company's asset/liability and capital management processes. In both 2025 and 2024, the Company executed debt securities repositionings by selling debt securities and reinvesting the proceeds at higher current market yields. See Table 5 "Debt Securities" for more information.
+
+Other Miscellaneous Income
+
+Other miscellaneous income includes net revenue from affordable housing, income from SBIC investments, valuation adjustments to equity investments, commercial loan and leasing related income, fees from safe deposit boxes, check fees, and other miscellaneous income including unusual gains. Net revenue from affordable housing includes actual gains and losses resulting from the sale of affordable housing investments, cash distributions from the investments and any related impairment charges. Other miscellaneous income increased in 2025 compared to 2024 primarily due to increases in commercial leasing income and improvements in valuation adjustments on certain equity investments.
+
+NON-INTEREST EXPENSE
+
+Table 4—Non-Interest Expense
+
+NM - Not Meaningful
+
+Salaries and Employee Benefits
+
+Salaries and employee benefits consist of salaries, incentive compensation, long-term incentives, payroll taxes, and other employee benefits such as 401(k), pension, and medical, life and disability insurance, as well as, expenses from liabilities held for employee benefit purposes. Salaries and employee benefits increased in 2025 compared to 2024 primarily due to higher base salaries from annual merit increases, higher production-based incentives, and increases in other benefits expense driven by higher medical expenses due to inflation. Partially offsetting these increases were lower severance costs in 2025 as compared to 2024. Full-time equivalent headcount increased slightly to 19,969 at December 31, 2025 from 19,644 at December 31, 2024.
+
+Professional, Legal and Regulatory expenses
+
+Professional, legal, and regulatory expenses consist of amounts related to legal, consulting, other professional fees and regulatory charges. Professional, legal, and regulatory expenses increased in 2025 compared to 2024 primarily due to an increase in professional fees associated with core systems modernization.
+
+FDIC Insurance Assessments
+
+FDIC insurance assessments decreased in 2025 compared to 2024 primarily resulting from updates to the special assessment which was initially recorded in 2023 due to bank failures. In 2025, the Company reduced the special assessment accrual by $17 million based upon revised loss estimates related to the failures compared to an increase in the special assessment of $16 million in 2024. Also contributing to the decrease was a reduction of the base assessment primarily due to higher unsecured debt, lower concentration risk, and improved credit metrics.
+
+Operational Losses
+
+Operational losses include losses related to fraud, execution, delivery and process management, and damage to physical assets. Operational losses decreased in 2025 compared to 2024 primarily due to a reduction in check fraud during 2025 as a result of effective countermeasures.
+
+Visa Class B Shares Expense
+
+Visa class B shares expense is associated with previously sold shares. The Visa class B shares have restrictions tied to finalization of certain covered litigation. Visa class B shares expense was lower in 2025 primarily due to a share redemption in 2024 and lower escrow funding expense during 2025 for the Company's proportionate share related to the ongoing covered litigation.
+
+Branch Consolidation, Property and Equipment Charges
+
+Branch consolidation, property and equipment charges include valuation adjustments related to owned branches when the decision to close them is made. Accelerated depreciation and lease write-off charges are recorded for leased branches through and at the actual branch close date. Branch consolidation, property and equipment charges also include costs related to occupancy optimization initiatives. Branch consolidation, property and equipment charges in 2025 included a gain recognized on the disposition of a property in the third quarter of 2025.
+
+Other Miscellaneous Expenses
+
+Other miscellaneous expenses include expenses related to communications, postage, supplies, certain credit-related costs, foreclosed property expenses, mortgage repurchase costs, and other costs (benefits) related to employee benefit plans. Other miscellaneous expenses increased in 2025 compared to 2024 primarily due to a contingent reserve release in the second quarter of 2024 related to a prior acquisition, which did not repeat.
+
+INCOME TAXES
+
+The Company’s income tax expense for the year ended December 31, 2025 was $587 million compared to $461 million in 2024, resulting in effective tax rates of 21.4 percent and 19.6 percent, respectively. The increase in the effective tax rate in 2025 compared to 2024 is primarily driven by an increase in state income tax reserves.
+
+The effective tax rate is affected by many factors including, but not limited to, the level of pre-tax income, the mix of income between various tax jurisdictions with differing tax rates, enacted tax legislation, net tax benefits related to affordable housing investments, bank-owned life insurance income, tax-exempt interest and nondeductible expenses. In addition, the effective tax rate is affected by items that may occur in any given period but are not consistent from period-to-period, such as the termination of certain leveraged leases, share-based payments, valuation allowance changes and changes to UTBs. Accordingly, the comparability of the effective tax rate between periods may be impacted.
+
+At December 31, 2025, the Company reported a net deferred tax asset of $244 million compared to $775 million at December 31, 2024. The decrease in the net deferred tax position primarily reflects the deferred tax effects associated with decreases in unrealized losses on securities available for sale and derivative instruments recognized during the period.
+
+See Note 1 "Summary of Significant Accounting Policies" and Note 19 "Income Taxes" to the consolidated financial statements for additional information about income taxes.
+
+BALANCE SHEET ANALYSIS
+
+The following sections provide expanded discussion of significant changes in certain line items in asset, liability, and shareholders' equity categories.
+
+CASH AND CASH EQUIVALENTS
+
+Cash and cash equivalents increased approximately $195 million from December 31, 2024 to December 31, 2025 primarily due to an increase in deposits, partially offset by a decline in borrowed funds, a decrease in loans, securities purchases, and the redemption of Series D preferred stock. See the "Debt Securities", "Loans" "Deposits", "Borrowed Funds", and "Liquidity" sections for more information.
+
+DEBT SECURITIES
+
+The following table details the carrying values of debt securities, including both held to maturity and available for sale, as of December 31:
+
+Table 5—Debt Securities
+
+Debt securities, which comprise approximately 24 percent of earning assets, are an important tool used to manage interest rate sensitivity and provide a primary source of liquidity for the Company, as much of the portfolio is highly liquid. Regions’ investment policy emphasizes credit quality and liquidity, and as such Regions maintains a highly-rated debt securities portfolio consisting primarily of agency MBS. Debt securities backed by the U.S. Government and government sponsored agencies, both on a direct and indirect basis, represented approximately 99 percent of the investment portfolio at December 31, 2025. Additionally, some of the debt securities portfolio is eligible to be used as collateral for funding of various types of borrowings. See the "Liquidity" section for more information on these arrangements. Also see the "Market Risk-Interest Rate Risk" section for more information. See also Note 3 "Debt Securities" to the consolidated financial statements for additional information.
+
+Debt securities held to maturity constituted approximately 17 percent of the debt securities portfolio and debt securities available for sale constituted approximately 83 percent at December 31, 2025. In the first half of 2025, the Company reclassified debt securities with an amortized cost, excluding items recognized in OCI, of $2.0 billion from available for sale into held to maturity to reduce the volatility in AOCI in preparation for potential, upcoming changes to regulatory guidance as discussed in the "Regulatory Requirements" section.
+
+Debt securities increased $2.5 billion from December 31, 2024 to December 31, 2025 due to the addition of approximately $1.0 billion of residential agency MBS debt securities in the second quarter of 2025, lower market interest rates and tighter spreads resulting in lower unrealized holding losses, and AOCI amortization. Of note, the Company executed debt securities repositionings in the first and third quarters of 2025 involving the sale of shorter-duration commercial and residential agency MBS and replacement with residential agency MBS with favorable prepayment profiles. In total, the Company sold approximately $1.0 billion of debt securities available for sale and realized approximately $50 million in pre-tax losses. The intent was to maintain the debt securities portfolio duration that would otherwise shorten naturally while efficiently deploying capital. Proceeds from the sales were reinvested at higher market yields.
+
+The average life of the debt securities portfolio at December 31, 2025 was estimated to be 5.9 years, with a duration of approximately 3.9 years, inclusive of fair value hedges (see Table 26). These metrics compare with an estimated average life of 6.1 years and a duration of approximately 4.5 years for the portfolio at December 31, 2024.
+
+Table 6 "Relative Contractual Maturities" details the contractual maturities of debt securities, including held to maturity and available for sale, and the related weighted-average yields.
+
+Table 6— Relative Contractual Maturities
+
+_________
+
+(1) The weighted-average yields are calculated on the basis of the yield to maturity based on the carrying value of each debt security. The yields presented in Table 1 are calculated based on the amortized cost of each debt security and yields earned throughout each year. Yields are calculated based on whole dollar amounts.
+
+LOANS HELD FOR SALE
+
+The following table presents Regions’ loans held for sale by type as of December 31:
+
+Table 7—Loans Held for Sale
+
+Commercial loans held for sale include commercial mortgage loans originated for sale to third parties and commercial loans originally recorded as held for investment when management has the intent to sell. Levels of commercial loans held for sale fluctuate based on timing of sale to third parties. The levels of residential first mortgage loans held for sale that are part of the Company's mortgage originations fluctuate depending on the timing of origination and sale to third parties.
+
+LOANS
+
+GENERAL
+
+Loans, net of unearned income, represented 69 percent of interest-earning assets as of December 31, 2025 compared to 70 percent as of December 31, 2024. The following table illustrates a year-over-year comparison of loans, net of unearned income, by portfolio segment and class as of December 31:
+
+Table 8—Loan Portfolio
+
+_____
+
+(1) Starting in 2025, other consumer loans also includes exit portfolios, which were previously presented separately. The portfolio consists primarily of indirect auto loans, and presentation of prior periods has been conformed accordingly.
+
+The following table details the contractual maturities for loans as of December 31, 2025. In instances of contractual deferral, the new contractual maturity is used to determine maturity as outlined in the allowance section of Note 1 "Summary of Significant Accounting Policies" to the consolidated financial statements.
+
+Table 9— Loan Maturities
+
+The following table shows the distribution of those loans with maturities greater than one year between predetermined and variable interest rate loans as of December 31, 2025.
+
+Table 10- Loan Distribution by Rate Type
+
+_________
+
+(1) The lending reported in variable rate disclosure is based upon the rate in the underlying lending contracts. For some lending arrangements, Regions enters into hedges in the form of interest rate swap and floor agreements to manage overall cash flow changes related to interest rate risk exposure on variable rate loans. The agreements effectively modify the Company’s exposure to interest rate risk by utilizing receive fixed/pay variable interest rate swaps and interest rate floors. The impact of hedging is not considered within this disclosure.
+
+PORTFOLIO CHARACTERISTICS
+
+Loans, net of unearned income, decreased $1.1 billion from year-end 2024 due to a decline in commercial loans and declines across several consumer loan classes as discussed below. These declines were partially offset by an increase in investor real estate loans. Regions manages loan growth with a focus on risk management and risk-adjusted return on capital.
+
+The following sections describe the composition of the portfolio segments and classes disclosed in Table 8, explain changes in balances from year-end 2024 and highlight the related risk characteristics. Regions believes that its loan portfolio is well diversified by product, client, and geography throughout its footprint. However, the loan portfolio may be exposed to certain concentrations of credit risk which exist in relation to individual borrowers or groups of borrowers, certain types of collateral, certain types of industries, and certain loan products. See Note 4 "Loans" and Note 5 "Allowance for Credit Losses" to the consolidated financial statements for additional discussion.
+
+Commercial
+
+Over half of the Company’s total loans are included in the commercial portfolio segment. These balances are spread across numerous industries, as noted in Table 11. The Company manages the related risks to this portfolio by setting certain lending limits for each significant industry.
+
+The commercial portfolio segment includes commercial and industrial loans for use in customers' normal business operations to finance working capital needs, equipment purchases, expansion projects and acquisitions. Regions' commercial and industrial loans generally mature within a five-year period with applicable amortization based on the underlying collateral or financing purpose. Typical loan structures consist of revolving and non-revolving lines of credit, amortizing term loans, guidance facilities, and single-pay loans, further tailored to meet the specific needs of the customer. These loans frequently have a covenant package combination inclusive of applicable debt service coverage, leverage, and liquidity measurements.
+
+Underwriting of commercial and industrial loans includes the assessment of the financial performance and profile, management experience and capability, industry position and outlook, the applicability of the transactional structure, as well as the repayment enhancement provided by collateral, guarantees, and ownership or sponsorship. Any forward view of operating performance is tested against applicable stressors that may include revenue decline, margin compression, and interest rate hikes.
+
+Commercial and industrial loans decreased $881 million since year-end 2024 due to strategic runoff in leveraged lending, continued portfolio resolutions, and loans refinancing off the balance sheet through the debt capital markets. Throughout 2025, the decline in commercial and industrial loans was broad-based as shown in Table 11.
+
+The commercial portfolio also includes owner-occupied commercial real estate mortgage loans to operating businesses, which are loans for long-term financing on real estate assets, and are repaid by cash generated by business operations. Owner-occupied commercial real estate construction loans are made to commercial businesses for the development of land or construction of a building where the repayment is derived from revenues generated from the business of the borrower. These owner-occupied real estate and real estate construction loans generally mature within a 10 year period and with amortization
+
+periods reflecting the longer life of the underlying collateral. Typical structure is an amortizing term loan, though construction loans are short-term, monitored, non-revolving draw facilities. These loans frequently have a covenant package combination consistent with the underwriting of commercial loans, inclusive of applicable debt service coverage, leverage, and liquidity measurements.
+
+Underwriting for owner-occupied real estate and real estate construction loans is consistent with the underwriting of commercial loans, with particular attention to the enhancement provided by the underlying real estate collateral.
+
+Real estate appraisals, for both commercial and IRE loans, are performed in accordance with regulatory guidelines. In some cases, reports from automated valuation services are used or internal evaluations are performed. An appraisal is ordered and reviewed prior to loan closing, and a new appraisal or evaluation is generally ordered when market conditions indicate a potential decline in the value of the collateral, or when the loan is either modified, renewed, or deteriorates to a certain level of credit weaknesses.
+
+Investor Real Estate
+
+Loans for real estate development are repaid through cash flows related to the operation, sale or refinance of the property. This portfolio segment includes extensions of credit to real estate developers or investors where repayment is dependent on the sale of real estate or income generated from the real estate collateral. A portion of Regions’ IRE portfolio segment consists of loans secured by residential product types (land, single-family and condominium loans) within Regions’ markets. Additionally, this category includes loans made to finance income-producing properties such as apartment buildings, office and industrial buildings, and retail shopping centers. Total IRE loans increased $396 million in comparison to year-end 2024 balances due to increases in fundings to previously approved projects and new term loans for apartments, data centers and industrial properties.
+
+IRE loans generally mature within a three-to-seven-year period and consist of full, partial, and non-recourse guarantee structures. Typical term loan structures include annually testing operating covenants that require loan rebalancing based on minimum debt service coverage, debt yield, and/or LTV tests. Construction and land development loans generally mature in 12 to 24 months for acquisition and development, to 42 to 60 months for construction and contain full or partial recourse guarantee structures with 12 to 24 month extension options or roll-to-permanent financing options that often result in term loans.
+
+Underwriting on IRE properties is based on the economic viability of the project with significant consideration given to the creditworthiness and experience of the sponsor, who is responsible for managing the property. The Company generally requires that the owner, who provides the capital to purchase the property, infuse their equity prior to any advances. Re-margining requirements (e.g., required equity infusions upon a decline in value or cash flow of the collateral) are often included in the loan agreement along with required guarantees of the sponsor.
+
+The following tables provide detail of Regions' commercial and IRE lending balances in selected industries as of December 31:
+
+Table 11—Commercial and Investor Real Estate Industry Exposure
+
+_______
+
+(1) "Real estate" includes REITs, which are unsecured commercial and industrial products that are real estate related. This portfolio is well diversified, generally has low leverage with strong access to liquidity, and the REITs included in this portfolio are primarily investment or near investment grade.
+
+(2) "Other" contains balances related to non-classifiable and invalid business industry codes offset by payments in process and fee accounts that are not available at the loan level.
+
+(3) As customers' businesses evolve (e.g. up or down the vertical manufacturing chain), Regions may need to change the assigned business industry code used to define the customer relationship. When these changes occur, Regions does not recast the customer history for prior periods into the new classification because the business industry code used in the prior period was deemed appropriate. As a result, year over year changes may be impacted.
+
+The Company's total non-owner-occupied commercial real estate lending consists of both unsecured commercial and industrial loans that are real estate related (including REITs) and investor real estate loans and are considered to be well diversified across property types. The following tables provide detail of these loans as of December 31:
+
+Table 12— Unsecured Commercial Real Estate and Investor Real Estate Exposure
+
+_______
+
+(1) Amounts calculated based on whole dollar values.
+
+(2) Owner-occupied commercial real estate is not included as the principal source of repayment is individual businesses, which more closely aligns with the commercial portfolio credit performance.
+
+Portfolios that are experiencing higher risk due to conditions such as inflationary pressures, higher interest rates, and adverse underlying market fundamentals (identified as portfolios of interest) include business offices and trucking (included within transportation and warehousing) at December 31, 2025 within Table 11 above. Recent and potential future interest rate cuts should ease pressure on borrowers across the entire loan portfolio.
+
+The business offices portfolio remains a portfolio of interest due to low occupancy rates and reductions in net effective rents. The office portfolio totaled $1.0 billion and represented 1.1 percent of total loans at December 31, 2025. The office portfolio included non-performing loans of $117 million and had associated charge-offs of $54 million during the year ended December 31, 2025. Approximately 95 percent of the office portfolio was secured, with approximately 64 percent of secured balances located in the South region of the U.S, of which 81 percent were Class A properties. Approximately 59 percent of the office portfolio will mature in the next 12 months. Additionally, the IRE office portfolio had a weighted-average LTV of approximately 65 percent at December 31, 2025, based upon appraisal at origination or most recent received, and a stressed weighted-average LTV of approximately 85 percent as of January 7, 2026, based upon GreenStreet's Commercial Property Price Index. While the office portfolio remains stressed, well-located, highly amenitized properties are observing improvements to property fundamentals. No new loan originations are being contemplated in this portfolio.
+
+The trucking portfolio remains a portfolio of interest as trucking companies have been working through one of the most prolonged downturns in the U.S. domestic freight market. The industry has experienced modest improvement in 2025; however, trade uncertainty continues to mute demand. The trucking portfolio totaled $1.2 billion and represented 1.3 percent of total loans at December 31, 2025. The trucking portfolio included non-performing loans of $78 million and had associated charge-offs of $91 million during the year ended December 31, 2025. New originations in the sector have been curtailed and those that occur are secured or targeted towards larger companies.
+
+Residential First Mortgage
+
+Residential first mortgage loans represent loans to consumers to finance a residence. These loans are typically financed over a 15 to 30 year term and, in most cases, are extended to borrowers to finance their primary residence. Total residential first mortgage loans decreased $329 million in comparison to year-end 2024 balances as payoffs and paydowns outpaced production.
+
+Home Equity Lines
+
+Home equity lines are secured by a first or second mortgage on the borrower's residence and allow customers to borrow against the equity in their homes. Substantially all of this portfolio was originated through Regions' branch network.
+
+Since December 2016, home equity lines of credit are originated with a 10-year draw period and a 20-year repayment term. During the 10-year draw period customers do not have an interest-only payment option, except on a very limited basis. From May 2009 to December 2016, home equity lines of credit had a 10-year draw period and a 10-year repayment term. Prior to May 2009, the predominant structure was a 20-year draw period with a balloon payment upon maturity, which means there are no principal payments required until the balloon payment is due for interest-only lines of credit.
+
+The following table presents information regarding the future principal payment reset dates for the Company's home equity lines of credit as of December 31, 2025. The balances presented are based on maturity date for lines with a balloon payment and draw period expiration date for lines that convert to a repayment period.
+
+Table 13—Home Equity Lines of Credit - Future Principal Payment Resets
+
+Home Equity Loans
+
+Home equity loans are also secured by a first or second mortgage on the borrower's residence, are primarily originated as amortizing loans, and allow customers to borrow against the equity in their homes. Substantially all of this portfolio was originated through Regions’ branch network.
+
+Consumer Credit Quality Data
+
+The Company calculates an estimate of the current value of property secured as collateral for both residential first mortgage and home equity lending products (“current LTV”). The estimate is based on home price indices compiled by a third party that is updated typically every three months. The third party data indicates trends for MSAs. Regions uses the third party valuation trends from the MSAs in the Company's footprint in its estimate. The trend data is applied to the loan portfolios taking into account the age of the most recent valuation and geographic area.
+
+The following table presents current LTV data for components of the residential first mortgage, home equity lines and home equity loans classes of the consumer portfolio segment. Current LTV data for some loans in the portfolio is not available due to mergers and systems integrations. The amounts in the table represent the entire loan balance. For purposes of the table below, if the loan balance exceeds the current estimated collateral the entire balance is included in the “Above 100%” category, regardless of the amount of collateral available to partially offset the shortfall.
+
+Table 14—Estimated Current Loan to Value Ranges
+
+Consumer Credit Card
+
+Consumer credit card lending represents primarily open-ended variable interest rate consumer credit card loans.
+
+Other Consumer
+
+Other consumer loans primarily include indirect and direct consumer loans, overdrafts and other revolving loans. Other consumer loans decreased $300 million from year-end 2024 driven by a decline in consumer home improvement lending production.
+
+Regions considers factors such as periodic updates of FICO scores, accrual status, DPD status, unemployment rates, home prices, and geography as credit quality indicators for the consumer loan portfolio. FICO scores are obtained at origination and refreshed FICO scores are obtained by the Company quarterly for most consumer loans. For more information on credit quality indicators refer to Note 5 "Allowance for Credit Losses".
+
+ALLOWANCE
+
+The allowance represents management's best estimate of expected losses over the life of the loan and credit commitment portfolios and consists of two components: the allowance for loan losses and the reserve for unfunded credit commitments. Unfunded credit commitments includes items such as letters of credit, financial guarantees and binding unfunded loan commitments. The allowance totaled $1.7 billion at December 31, 2025, 2024, and 2023.
+
+Regions' allowance estimation process utilizes loss forecasting models for pooled loans, specific reserves for significant individually evaluated non-performing loans, and qualitative adjustments for items not captured by the models including specific adjustments and general imprecision. Key inputs to Regions' loss forecasting models include, but are not limited to, loan risk ratings (commercial and investor real estate loans), maturity date, days past due and FICO scores (consumer loans), collateral values securing loans, and Regions' internally prepared baseline economic forecast. Changes in any of these factors, assumptions, or the availability of new information, could require the allowance to be adjusted in future periods, perhaps materially. Outputs from the loss forecasting models, in combination with Regions' qualitative framework and other analyses, inform management in its estimation of Regions' expected credit losses to ensure the overall allowance estimate is appropriate from both a bottom-up and top-down perspective. Actual losses could vary, perhaps materially, from management’s estimates. See Note 1 "Summary of Significant Accounting Policies" for more information.
+
+Management reviews the allowance on a quarterly basis using updated information, including changes to economic conditions, the loan portfolio and credit information. Therefore, management believes the quarter-over-quarter change in the allowance is a more relevant review. The following table provides an analysis of the changes in the allowance for the three months ended December 31, 2025:
+
+Table 15 — Quarter-to-Date Allowance Analysis
+
+Economic forecast and qualitative adjustments
+
+Regions' internally-developed December baseline forecast anticipates real GDP growth of 2.1 percent for 2025 and 2.3 percent in 2026. Inflation as measured by CPI is expected to hover around 3.0 percent in 2026, above the FOMC's 2.0 percent target rate. During the fourth quarter, the FOMC cut the Federal funds rate by 50 basis points. Additional incoming labor market and inflation data will determine the extent of cuts in 2026. Regions' December 2025 baseline forecast remained stable compared to the September 2025 baseline forecast, which resulted in minimal impact to the allowance. The risks to the baseline forecast are weighted to the downside. Current prevailing economic uncertainty and the potential for further disruption could influence future levels of the allowance. See the Economic Environment in Regions' Banking Markets discussion in the "Executive Overview" section for additional information.
+
+Table 16 below reflects a range of macroeconomic factors utilized in the baseline economic forecast over the two-year R&S forecast period as of December 31, 2025. The unemployment rate is the most significant macroeconomic factor among the allowance models and was expected to remain relatively consistent over the forecast period.
+
+Table 16—Macroeconomic Factors in the Forecast
+
+While it is the intent of Regions' quantitative allowance methodologies to reflect all risk factors, including incremental risk in portfolios identified as under stress, any estimate involves assumptions and uncertainties resulting in some level of imprecision. Regions' qualitative framework has a general imprecision component which is meant to acknowledge that model and forecast errors are inherent in any modeling estimate. In the fourth quarter of 2025, the general imprecision component remained flat as model and economic imprecision risk remained consistent compared to the third quarter.
+
+The qualitative framework also has specific adjustment components which are reserves meant to capture specific issues or events that management believes are not adequately captured in the model outcomes. Specific qualitative adjustments for the fourth quarter of 2025 increased slightly compared to third quarter of 2025 levels due to identified risks not captured in the modeled calculations.
+
+Portfolio, credit metrics, and specific reserves
+
+In the fourth quarter of 2025, overall asset quality continued to improve. Commercial and investor real estate criticized balances decreased approximately $340 million from $3.7 billion in the third quarter to $3.3 billion in the fourth quarter of 2025. The decrease was due primarily to upgrades and significant payoffs during the quarter, which were fairly widespread across numerous industry portfolios. Non-performing loans, excluding held for sale, decreased approximately $60 million from $758 million in the third quarter to $698 million in the fourth quarter of 2025. See Table 20 for more details regarding non-performing assets. While the ratio of net charge-offs to average loans increased 4 basis points for the fourth quarter of 2025 compared to the third quarter of 2025, the majority of business services charge-offs related to previously identified portfolios of interest for which specific reserves had already been established. The combination of credit quality improvements and specific reserve releases due to charge-offs resulted in a decrease in the allowance during the fourth quarter.
+
+Overall allowance
+
+Based upon the factors discussed above, the December 31, 2025 allowance decreased $27 million compared to the third quarter of 2025. Allowance decreases resulting from overall credit quality improvement in the portfolio, including declines in criticized and non-performing loans, and continued resolutions of loans within previously identified portfolios of interest, were partially offset by an allowance increase resulting from changes in the economic forecast and qualitative adjustments.
+
+The following table provides an analysis of the drivers of the changes in the allowance for the year ended December 31, 2025:
+
+Table 17 — Year-to-Date Allowance Analysis
+
+The increase in the allowance related to economic and qualitative changes was driven by deterioration in the economic forecast combined with a net increase in qualitative adjustments. The baseline forecast deteriorated during 2025 as the result of a slight increase in the unemployment rate due to labor supply and continued uncertainty, and decreased GDP growth. While there was reduced risk in certain investor real estate portfolios which favorably impacted qualitative adjustments, this favorability was overshadowed by general uncertainty increasing during the year as a result of tariff and trade policy changes and the residual effects from the temporary government shutdown during the fourth quarter.
+
+The reduction in the allowance related to specific reserve and portfolio changes was driven primarily by broad-based improvements in credit quality and a decrease in loan balances during 2025. Commercial and investor real estate criticized
+
+balances decreased approximately $1.4 billion year-over-year, and non-performing loans, excluding held for sale, decreased $230 million year-over-year. These decreases related in part to charge-offs of loans within identified portfolios of interest that were previously reserved for, which resulted in specific reserve releases. As a result, the December 31, 2025 allowance decreased $43 million from year-end 2024.
+
+See Table 18 "Allowance Roll-forward" and Table 20 "Non-Performing Assets" for further information regarding charge-offs and non-performing loans, as well as Note 5 "Allowance for Credit Losses" to the consolidated financial statements for further information on criticized loans.
+
+Details regarding the allowance and net charge-offs activity are summarized as follows:
+
+_______
+
+(1) See Note 1 to the consolidated financial statements for additional information.
+
+(2) Amounts have been calculated using whole dollar values.
+
+Net charge-offs increased $55 million year-over-year, primarily driven by increases in commercial and industrial and commercial investor real estate mortgage net charge-offs, many of which related to resolutions within previously identified portfolios of interest that had been reserved for in prior periods. Economic trends such as interest rates, unemployment, volatility in commodity prices, collateral valuations and inflationary pressure will impact the future levels of net charge-offs and may result in volatility of certain credit metrics for 2026 and beyond.
+
+The following table summarizes the allocation of the allowance by portfolio segment and class as of December 31:
+
+Table 19—Allowance Allocation
+
+_____
+
+(1) Amounts have been calculated using whole dollar values.
+
+NON-PERFORMING ASSETS
+
+The following table presents non-performing assets as of December 31:
+
+Table 20—Non-Performing Assets
+
+_________
+
+(1) Excludes accruing loans 90+ days past due. There were no non-performing loans held for sale at both December 31, 2025 and 2024.
+
+(2) Excludes residential first mortgage loans that are 100% guaranteed by the FHA and all guaranteed loans sold to Ginnie Mae where Regions has the right but not the obligation to repurchase; however, includes Ginnie Mae repurchased loans with partial guarantees. Total 90+ days or more past due guaranteed loans excluded were $79 million at December 31, 2025 and $55 million at December 31, 2024.
+
+Non-performing loans (excluding loans held for sale) at December 31, 2025 decreased $230 million as compared to year-end 2024 levels primarily due to reductions in the business offices, healthcare, apartments and transportation and warehousing portfolios, which were partially offset by an increase in the manufacturing portfolio. The same economic trends that impact net charge-offs, as discussed above, will impact the future level of non-performing loans. Circumstances related to individually large credits could also result in volatility.
+
+The following table provide an analysis of non-accrual loans (excluding loans held for sale) by portfolio segment:
+
+________
+
+(1) All net activity within the consumer portfolio segment other than sales and transfers to held for sale (including related charge-offs) is included as a single net number within the net payments/other activity line.
+
+(2) Includes charge-offs on loans on non-accrual status and charge-offs taken upon sale and transfer of non-accrual loans to held for sale.
+
+(3) Transfers to held for sale are shown net of charge-offs recorded upon transfer.
+
+DEPOSITS
+
+Regions competes with other banking and financial services companies for a share of the deposit market. Regions’ ability to compete in the deposit market depends heavily on the pricing of its deposits and how effectively the Company meets customers’ needs. Regions employs various means to meet those needs and enhance competitiveness, such as providing a high level of customer service, competitive pricing and convenient branch locations for its customers. Regions also serves customers through providing centralized, high-quality banking services through the Company's digital channels and contact center.
+
+Deposits are Regions’ primary source of funds, providing funding for over 90 percent of average earning assets at both December 31, 2025 and 2024. The following table summarizes deposits by category and by segment as of December 31:
+
+Table 22—Deposits by Category and by Segment
+
+____
+
+(1) Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits). Other deposits include brokered deposits totaling $1.3 billion at December 31, 2025 and $2.2 billion at December 31, 2024.
+
+Total deposits at December 31, 2025 increased approximately $3.5 billion compared to year-end 2024 levels driven primarily by significant growth in money market accounts and, to a lesser degree, interest-bearing checking and non-interest-bearing deposits partially offset by a decline in time deposits. The increase in deposits reflects customer growth and preference for liquidity due to uncertainty in the economic environment. The mix of non-interest-bearing deposits, representing approximately 30 percent of total deposits at December 31, 2025, remained relatively stable in comparison to December 31, 2024.
+
+The decline in interest rates during 2025 drove a decrease in deposit costs to 137 basis points for 2025, compared to 156 basis points for 2024. The rate paid on interest-bearing deposits decreased to 197 basis points for 2025 compared to 228 basis points for 2024.
+
+Regions' deposits are granular and diversified including insured and collateralized deposits, with consumer deposits making up more than 60 percent of the total deposit base at both December 31, 2025 and 2024. Furthermore, corporate deposits include those that are operational in nature (where the primary use is certain operational services such as clearing, custody, payments or other cash management activities). A significant amount of the Company's deposit base is insured by the FDIC or collateralized, with approximately $11.4 billion in deposits collateralized in public funds or in trusts at December 31, 2025. The amount of estimated uninsured deposits totaled $52.3 billion at December 31, 2025, therefore approximately 60 percent of total deposits were insured by the FDIC. The granularity of the Company's deposits was also evidenced by an average deposit account balance of approximately $19 thousand at December 31, 2025. The estimates of uninsured deposits and average account size were based on methodologies used in the Company's Call Report, which is prepared on an unconsolidated bank basis.
+
+See the "Liquidity" and "Market Risk-Interest Rate Risk" sections for further discussion on liquidity and interest rates.
+
+Time deposit accounts with balances of $250,000 or more totaled $2.6 billion and $2.8 billion at December 31, 2025 and 2024, respectively.
+
+The following table shows scheduled maturities of estimated uninsured time deposits as of December 31, 2025:
+
+BORROWED FUNDS
+
+Total short-term borrowings increased from $500 million at December 31, 2024 to $750 million at December 31, 2025 due to the use of FHLB advances. The levels of these borrowings can fluctuate depending on the Company's funding needs and
+
+the sources utilized. Short-term secured borrowings, such as securities sold under agreements to repurchase and FHLB advances, are a portion of Regions' funding strategy. See the "Liquidity" section for further detail of Regions' borrowing capacity with the FHLB.
+
+Total long-term borrowings decreased approximately $1.9 billion to $4.1 billion at December 31, 2025 due to a decline in FHLB advances, the maturity of the Company's 2.25% senior notes, and the maturity of the Company's 6.75% subordinated notes.
+
+See Note 11 "Borrowed Funds" to the consolidated financial statements for further discussion of both short-term and long-term borrowings.
+
+RATINGS
+
+Table 24 "Credit Ratings" reflects the debt ratings information of Regions Financial Corporation and Regions Bank by S&P, Moody’s, Fitch and DBRS.
+
+Table 24—Credit Ratings
+
+____
+
+(1) As of March 31, 2024, DBRS withdrew their rating on Regions Financial Corporation's subordinated debt.
+
+On September 8, 2025, DBRS affirmed the Company's senior unsecured debt rating and revised its outlook to positive from stable citing Regions' strong deposit franchise and market share in the Southeastern region.
+
+In general, ratings agencies base their ratings on many quantitative and qualitative factors, including capital adequacy, liquidity, asset quality, business mix, probability of government support, and level and quality of earnings. Any downgrade in credit ratings by one or more ratings agencies may impact Regions in several ways, including, but not limited to, Regions’ access to the capital markets or short-term funding, borrowing cost and capacity, collateral requirements, and acceptability of its letters of credit, thereby potentially adversely impacting Regions’ financial condition and liquidity. See “Risk Factors” for more information.
+
+A security rating is not a recommendation to buy, sell or hold securities, and the ratings are subject to revision or withdrawal at any time by the assigning rating agency. Each rating should be evaluated independently of any other rating. Additional information on the credit rating ranking within the overall classification system is located on the website of each credit rating agency.
+
+SHAREHOLDERS' AND TOTAL EQUITY
+
+Shareholders’ equity was $19.0 billion at December 31, 2025 as compared to $17.9 billion at December 31, 2024. During 2025, net income increased shareholders' equity by $2.2 billion, dividends on common stock reduced shareholders' equity by $916 million, and dividends on preferred stock reduced shareholders' equity by $91 million. Changes in OCI increased shareholders' equity by $1.4 billion, primarily due to available for sale securities and derivative instruments as a result of changes in market interest rates during 2025. During the second quarter of 2025, the Company redeemed all of the outstanding shares of its Series D preferred stock, which decreased shareholders' equity by $350 million. Common stock repurchased during 2025 decreased shareholders' equity by $1.1 billion. These shares were immediately retired upon repurchase and therefore were not included in treasury stock.
+
+Total equity included noncontrolling interest of $60 million and $31 million at December 31, 2025 and December 31, 2024, respectively. The noncontrolling interest represents the unowned portion of a low income housing tax credit fund syndication, an unconsolidated VIE of which Regions held a significant interest at December 31, 2025 and 2024.
+
+Subsequent to December 31, 2025, the Company purchased 4.1 million shares for approximately $119 million through February 23, 2026. These shares were immediately retired upon repurchase and therefore were not included in treasury stock.
+
+See Note 14 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" section for additional information.
+
+REGULATORY REQUIREMENTS
+
+Regions and Regions Bank are required to comply with regulatory capital requirements established by Federal and State banking agencies. These regulatory capital requirements involve quantitative measures of the Company's assets, liabilities and selected off-balance sheet items, and also qualitative judgments by the regulators. Failure to meet minimum capital requirements can subject the Company to a series of increasingly restrictive regulatory actions. Under the Basel III Rules, Regions is designated as a standardized approach bank. Regions is a "Category IV" institution under the Federal Reserve's Tailoring Rules.
+
+Federal banking agencies allowed a phase-in of the impact of CECL on regulatory capital. At December 31, 2021, the add-back to regulatory capital was calculated as the impact of initial adoption, adjusted for 25 percent of subsequent changes in the allowance. The amount is phased-in over a three-year period beginning in 2022 and concluded in the first quarter of 2025. At December 31, 2024, the net impact of the addback on CET1 was approximately $102 million or approximately 8 basis points.
+
+Regions participates in supervisory stress testing conducted by the Federal Reserve and its SCB is currently floored at 2.5 percent. See Note 14 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements for further details regarding CCAR results.
+
+In the third quarter of 2023, proposals were issued by the U.S federal banking regulators that, if adopted, would impact the Company related to long-term debt requirements and U.S. implementation of capital requirements under Basel IV rules, more recently referred to as the Basel III Endgame. The Company is studying the proposals and evaluating their impacts. Additional discussion of the Basel III Rules, their applicability to Regions, recent proposals and final rules issued by the federal banking agencies and recent laws enacted that impact regulatory requirements is included in the "Supervision and Regulation" subsection of the "Business" section.
+
+Additional discussion and a tabular presentation of the applicable holding company and bank regulatory capital requirements is included in Note 12 "Regulatory Capital Requirements and Restrictions" in Item 8. “Financial Statements and Supplementary Data".
+
+Regions maintains a robust liquidity management framework designed to effectively manage liquidity risk in accordance with sound risk management principles and regulatory expectations. See the “Supervision and Regulation—Liquidity Requirements” subsection of the “Business” section, the "Risk Factors" section and the "Liquidity" section for more information.
+
+RISK MANAGEMENT
+
+Regions is exposed to various risks as part of the normal course of operations. The exposure to risk requires sound risk management practices that comprise an integrated and comprehensive set of programs and processes that apply to the entire Company. Accordingly, Regions has established a risk management framework to manage risks and provide reasonable assurance of the achievement of the Company’s strategic objectives.
+
+The primary risk exposures identified and managed through the Company’s risk management framework are market risk, liquidity risk, credit risk, operational risk, legal risk, compliance risk, reputational risk and strategic risk.
+
+• Market risk is the risk to the Company’s financial condition resulting from adverse movements in market rates or prices, such as interest rates, foreign exchange rates or equity prices.
+
+• Liquidity risk is the potential that the Company will be unable to meet its obligations as they come due because of an inability to liquidate assets or obtain adequate funding (referred to as "funding liquidity risk") or the potential that the Company cannot easily unwind or offset specific exposures without significantly lowering market prices because of inadequate market depth or market disruptions (referred to as "market liquidity risk").
+
+• Credit risk is the risk that arises from the potential that a borrower or counterparty will fail to perform on an obligation.
+
+• Operational risk is the risk of loss resulting from inadequate or failed internal processes, people, and systems or from external events.
+
+• Legal risk is defined as the risk associated with the failure to meet Regions' legal obligations from legislative, regulatory, or contractual perspectives.
+
+• Compliance risk is the risk to current or anticipated earnings or capital arising from violations of laws, rules, or regulations, or from non-conformance with prescribed practices, internal policies and procedures, or ethical standards.
+
+• Reputational risk is the potential that negative publicity regarding the Company’s business practices, whether true or not, will cause a decline in the customer base, costly litigation, or revenue reductions.
+
+• Strategic risk is the risk to current or projected financial condition and resilience from adverse business decisions, poor implementation of business decisions, or lack of responsiveness to changes in the banking industry and operating environment.
+
+Several of these primary risk exposures are expanded upon further within the remaining sections of Management's Discussion and Analysis.
+
+Regions’ risk management framework outlines the Company’s approach for managing risk that includes the following four components:
+
+• Collaborative Risk Culture - A strong, collaborative risk culture is fundamental to the Company's core values and operating principles. It ensures focus on risk in all activities and encourages the necessary mindset and behavior to enable effective risk management and promote sound risk-taking within the bounds of the Company’s risk appetite. The Company's risk culture requires that risks be promptly identified, escalated, and challenged; thereby, benefiting the overall performance of the Company. Sustaining a collaborative risk culture is critical to the Company's success and is a clear expectation of executive management and the Board.
+
+• Sound Risk Appetite - The Company's risk appetite statements define the types and levels of risk the Company is willing to take to achieve its objectives.
+
+• Sustainable Risk Processes - Effective risk management requires sustainable processes and tools to effectively identify, measure, mitigate, monitor, and report risk.
+
+• Responsible Risk Governance - Governance serves as the foundation for comprehensive management of risks facing the Company. It outlines clear responsibility and accountability for managing, monitoring, escalating, and reporting both existing and emerging risks.
+
+Clearly defined roles and responsibilities are critical to the effective management of risk and are central to the four components of the Company’s approach to risk management. Regions utilizes the Three Lines of Defense concept to clearly designate risk management activities within the Company.
+
+• 1st Line of Defense activities include the proactive identification, management (including mitigation and risk acceptance), and ownership of risks.
+
+• 2nd Line of Defense activities provide for objective oversight of the Company’s risk-taking activities and assessment of the Company’s aggregate risk levels.
+
+• 3rd Line of Defense activities provide for independent reviews and assessments of risk management practices across the Company.
+
+The Board provides the highest level of risk management governance. The principal risk management functions of the Board are to oversee processes for evaluating the adequacy of internal controls, risk management, financial reporting and compliance with laws and regulations. The Board has designated an Audit Committee of outside directors to focus on oversight of management's establishment and maintenance of appropriate disclosure controls and procedures over financial reporting. See the "Financial Disclosures and Internal Controls" section of Management's Discussion and Analysis for additional information. The Board has also designated a Risk Committee of outside directors to focus on Regions’ overall risk profile. The Risk Committee annually approves an Enterprise Risk Appetite Statement that reflects core business principles and strategic vision by including quantitative limits and qualitative statements that are organized by risk type. This statement is designed to be a high-level document that sets the tone for the Board’s risk appetite, which is the maximum amount of risk the Company is willing to accept in pursuit of its business objectives. By establishing boundaries around risk taking and business decisions, and by incorporating the needs and goals of its shareholders, regulators, customers and other stakeholders, the Company’s risk appetite is aligned with its strategic priorities and goals.
+
+The Risk Management Group, led by the Company’s Chief Risk Officer, ensures the consistent application of Regions’ risk management approach within the structure of the Company’s operating, capital and strategic plans. The primary activities of the Risk Management Group include:
+
+• Interpreting internal and external signals that point to possible risk issues for the Company;
+
+• Identifying risks and determining which Company areas and/or products will be affected;
+
+• Ensuring there are mechanisms in place to specifically determine how risks will affect the Company as a whole and the individual area and or product;
+
+• Assisting business groups in analyzing trends and ensuring Company areas have appropriate risk identification and mitigation processes in place; and
+
+• Reviewing the limits, parameters, policies, and procedures in place to ensure the continued appropriateness of risk controls.
+
+As part of its ongoing assessment process, the Risk Management Group makes recommendations to management and the Risk Committee of the Board regarding adjustments to these controls as conditions or risk tolerances change. In addition, the Internal Audit division provides an independent assessment of the Company’s internal control structure and related systems and processes.
+
+Management, with the assistance of the Risk Management Group, follows a formal process for identifying, measuring and documenting key risks facing each business group and determining how those risks can be controlled or mitigated, as well as how the controls can be monitored to ensure they are effective. The Risk Committee receives reports from management to ensure operations are within the limits established by the Enterprise Risk Appetite Statement.
+
+Some of the more significant processes used by management to manage and control risks are described in the remainder of this report. External factors beyond management’s control may result in losses despite the Risk Management Group’s efforts.
+
+EFFECTS OF INFLATION
+
+The majority of assets and liabilities of a financial institution are monetary in nature; therefore, a financial institution differs greatly from most commercial and industrial companies, which have significant investments in fixed assets or inventories that are greatly impacted by inflation. While the implications differ for a bank, inflation does have influence on the growth of total assets and deposits in the banking industry and the resulting level of profitability and capitalization. Inflation also affects the level of market interest rates, and therefore, the pricing of financial instruments.
+
+Management believes the most significant potential impact of inflation on financial results is a direct result of Regions’ ability to manage the impact of changes in interest rates. The Company’s interest rate risk positioning was mostly neutral as of December 31, 2025, and therefore, net interest income increases or declines only modestly from higher or lower interest rates. Hedging activity has reduced the exposure to net interest income late in the rising interest rate cycle as intended. Refer to Table 25 "Interest Rate Sensitivity" for additional details on Regions’ interest rate sensitivity.
+
+Additionally, inflation has the potential to impact credit risk. Periods of inflation could influence asset prices and business input costs which could affect the ability of borrowers to repay loans. The Company has sound credit risk management practices to maintain a credit portfolio through the economic cycle. Refer to the "Credit Risk" section for further details on Regions' credit risk management process.
+
+EFFECTS OF DEFLATION
+
+A period of deflation would affect all industries, including financial institutions. Deflation potentially could lead to lower profits, higher unemployment, lower production and deterioration in overall economic conditions. In addition, deflation could depress economic activity and impair bank earnings through reduced balance sheet growth and less favorable product pricing, as well as impairment in the ability of borrowers to repay loans.
+
+Management believes the most significant potential impact of deflation on financial results relates to Regions’ ability to maintain a sufficient amount of capital to cushion against future market and credit related losses. However, the Company can utilize certain risk management tools to help it maintain its balance sheet strength even if a deflationary scenario were to develop.
+
+MARKET RISK—INTEREST RATE RISK
+
+Regions’ primary market risk is interest rate risk. This includes uncertainty with respect to absolute interest rate levels as well as relative interest rate levels, which are impacted by both the shape and the slope of the various yield curves that affect the financial products and services that the Company offers. As its primary tool to analyze this risk, Regions measures the change in its net interest income in various interest rate scenarios compared to a base case scenario. Net interest income sensitivity to market rate movements is a useful short-term indicator of Regions’ interest rate risk.
+
+In addition to net interest income simulations, Regions also utilizes an EVE analysis as a measurement tool to estimate risk exposure over a longer-term horizon. EVE measures the extent to which the economic value of assets, liabilities and derivative instruments may change in response to fluctuations in interest rates. Importantly, EVE values only the current balance sheet, excluding the growth assumptions used in net interest income sensitivity analyses. Additionally, the results are highly dependent on assumptions for products with embedded prepay optionality and indeterminate maturities. The uncertainty surrounding important assumptions used in EVE analysis may limit its efficacy.
+
+Sensitivity Measurement —Financial simulation models are Regions’ primary tools used to measure interest rate exposure. Using a wide range of sophisticated simulation techniques provides management with extensive information on the potential impact to net interest income caused by changes in interest rates. Models are structured to simulate cash flows and accrual characteristics of Regions’ balance sheet. Assumptions are made about the direction and magnitude of interest rate movements, the slope of the yield curve, and the changing composition of the balance sheet that results from both strategic plans and customer behavior. Among the assumptions are expectations of balance sheet growth and composition, the pricing and maturity characteristics of existing business and the characteristics of future business. Interest rate-related risks are expressly considered,
+
+such as pricing spreads, the pricing of deposit accounts, prepayments and other option risks. Regions considers these factors, as well as the degree of certainty or uncertainty surrounding their future behavior.
+
+The primary objective of asset/liability management at Regions is to coordinate balance sheet composition with interest rate risk management to sustain reasonable and stable net interest income throughout various interest rate cycles. In computing interest rate sensitivity, Regions compares a set of alternative interest rate scenarios to the results of a base case scenario derived using “market forward rates.” The set of alternative interest rate scenarios includes instantaneous parallel rate shifts of various magnitudes. In addition to parallel rate shifts, multiple curve steepening and flattening scenarios are contemplated. Regions includes simulations of gradual interest rate movements phased in over a six-month period that may more realistically mimic the speed of potential interest rate changes.
+
+Exposure to Interest Rate Movements —Regions' balance sheet is naturally asset sensitive, with net interest income increasing with higher interest rates, and decreasing with lower interest rates. This is the result of approximately half of the loan portfolio floating contractually with market rate indices, and funding from a large, mostly stable retail deposit portfolio. Importantly, the stability and rate sensitivity of Regions' deposit portfolio has been proven over multiple interest rate cycles. With this natural balance sheet profile, the ability to utilize discretionary asset duration strategies within the investment portfolio and through derivatives is critical in mitigating the Bank’s naturally asset sensitive position.
+
+As of December 31, 2025, Regions evidenced a mostly balanced, or "neutral" asset/liability position, with asset and liability duration of approximately 2.7 years, using historically-informed approximations. Typically when the debt securities portfolio is recorded on the balance sheet at an unrealized loss, higher deposit values more than offset this loss. The additional value of deposits is realized in the form of lower-cost funding when compared with wholesale sources. While a balance sheet analysis, particularly EVE analysis, does contemplate the economic value of deposits, the estimated fair value of deposits is equal to their carrying value for certain financial statement footnote disclosures, consistent with industry practices. See Note 21 "Fair Value Measurements" to the consolidated financial statements for additional information.
+
+Recently, pay-fixed fair value hedges and debt securities transfers from available for sale to held to maturity classification have been used to reduce AOCI volatility associated with unrealized securities gains and losses. Inclusive of these activities, the total debt securities portfolio duration is 3.9 years, the available for sale securities portfolio duration is 3.5 years, and the held to maturity securities portfolio duration is 5.9 years. As pay-fixed fair value hedges are further utilized to manage AOCI volatility, receive-fixed cash flow hedges may be entered into as an offset to preserve the interest rate sensitivity of Regions' entire balance sheet.
+
+As of December 31, 2025, Regions' net interest income profile was mostly neutral to both gradual and instantaneous parallel yield curve shifts as compared to the base case for the 12-month measurement horizon ending December 2026. The estimated exposure associated with the rising and falling rate scenarios in Table 25 below reflects the combined impacts of movements in short-term and long-term interest rates. An increase or reduction in short-term interest rates (such as the Federal Funds rate, the interest rate on reserve balances, and SOFR) will drive the yield on assets and liabilities contractually tied to such rates higher or lower. In either scenario, it is expected that changes in funding costs and balance sheet hedging income will offset the change in asset yields, resulting in little change to net interest income.
+
+Net interest income remains exposed to intermediate and long-term yield curve tenors, though exposure has been partially reduced by receive-fixed swaps added in the fourth quarter of 2025 designed to hedge a portion of the company’s 2026 fixed-rate asset turnover. In the current higher interest rate environment, open exposure to fixed-rate asset turnover represents a tailwind to net interest income growth. Elevated, or increasing intermediate and long-term interest rates (such as intermediate to longer-term U.S. Treasuries, swaps and mortgage rates) will drive yields higher on certain fixed-rate, newly originated or renewed loans, and increase prospective yields on certain investment portfolio purchases. The opposite is true in an environment where intermediate and long-term interest rates fall. Additionally, shifts in the long end of the yield curve will impact securities prepayments and alter the amount of discount accretion and premium amortization in any given period.
+
+The interest rate sensitivity analysis presented below in Table 25 is informed by a variety of assumptions and estimates regarding the progression of the balance sheet in both the baseline scenario as well as the scenarios of instantaneous and gradual shifts in the yield curve. Though there are many assumptions which affect the estimates for net interest income, those pertaining to deposit pricing, deposit mix and overall balance sheet composition are particularly impactful. Given the uncertainties associated with monetary policy on industry liquidity levels and the cost of that liquidity, management evaluates the impacts from these key assumptions through sensitivity analysis. Sensitivity calculations are hypothetical and should not be considered predictive of future results.
+
+The Company’s baseline balance sheet assumptions include management's best estimate for balance sheet changes in the coming 12 months. A reduction in deposit balances of $1 billion when compared to the base case estimate would reduce net interest income by $16 million over 12 months in the parallel, instantaneous +100 basis point scenario in Table 25. Conversely, if an additional $1 billion are added, a positive benefit of $16 million would be expected over 12 months in the parallel, instantaneous +100 basis point scenario in Table 25.
+
+In rising rate scenarios only, management assumes that the mix of deposits will change versus the base case as informed by analyses of prior rate cycles. Currently, however, much of the anticipated mix shift has already occurred or is expected to occur within the baseline scenario, mitigating the amount of additional remixing in higher rate scenarios. The magnitude of the remixing shift is rate dependent and equates to an approximate $1.2 billion shift from non-interest bearing deposits into time deposits over 12 months in the parallel, instantaneous +100 basis point scenario in Table 25. Furthermore, over the 12 month horizon, an increase of $1 billion in deposit remixing would decrease net interest income by approximately $21 million, and a decrease of $1 billion in deposit remixing would increase net interest income by $21 million in the parallel, instantaneous +100 basis point scenario.
+
+The interest-bearing deposit beta is calibrated using the experience from prior rate cycles and is dynamic across both interest rate level and time. The parallel, instantaneous +100 basis point and -100 basis point shock scenarios in Table 25 both incorporate an incremental beta between 35 and 40 percent when compared to the base case scenario. Incremental deposit pricing outperformance or underperformance of 5 percent in a parallel, instantaneous 100 basis point shock would increase or decrease net interest income by approximately $46 million.
+
+The table below summarizes Regions' positioning over the next 12 months in various parallel yield curve shifts (i.e., all yield curve tenors move by the same magnitude). The scenarios are inclusive of all interest rate hedging activities. More information regarding hedges is disclosed in Table 26 and its accompanying description.
+
+Table 25—Interest Rate Sensitivity
+
+________
+
+(1) Disclosed interest rate sensitivity levels represent the 12-month forward looking net interest income changes as compared to market forward rate cases and include expected balance sheet growth and remixing.
+
+(2) Active hedges, including forward starting hedges, are included in the sensitivity analysis to the extent that they fall within the measurement horizon.
+
+While not depicted in the table above, interest rate movements may also have an impact on the value of Regions’ securities portfolio, which can directly impact the carrying value of shareholders’ equity.
+
+Derivatives —Regions uses financial derivative instruments for management of interest rate sensitivity. ALCO, which consists of members of Regions’ senior management team, in its oversight role for the management of interest rate sensitivity, approves the use of derivatives in balance sheet hedging strategies. Derivatives are also used to offset the risks associated with customer derivatives, which include interest rate, credit, and foreign exchange risks. The most common derivatives Regions employs are forward rate contracts, forward sale commitments, futures contracts, interest rate swaps, interest rate options (caps, floors and collars), and contracts with a combination of these instruments.
+
+Forward rate contracts are commitments to buy or sell financial instruments at a future date at a specified price or yield. Futures contracts subject Regions to market risk associated with changes in interest rates. Because futures contracts are cash settled daily, there is minimal credit risk associated with futures. Interest rate swaps are contractual agreements typically entered into to exchange fixed for variable (or vice versa) streams of interest payments. The notional principal is not exchanged but is used as a reference for the size of interest settlements. Interest rate options are contracts that allow the buyer to purchase or sell a financial instrument at a predetermined price and time. Forward sale commitments are contractual obligations to sell market instruments at a future date for an already agreed-upon price. Foreign currency contracts involve the exchange of one currency for another on a specified date and at a specified rate. These contracts are executed on behalf of the Company's customers and are used by customers to manage fluctuations in foreign exchange rates. The Company is subject to the credit risk that another party will fail to perform.
+
+Regions has made use of interest rate swaps and options in balance sheet hedging strategies to effectively convert a portion of its fixed-rate funding position to a variable-rate position, to effectively convert a portion of its fixed-rate debt securities available for sale portfolio to a variable-rate position, and to effectively convert a portion of its floating-rate loan
+
+portfolios to fixed-rate. Regions also uses derivatives to economically manage interest rate and pricing risk associated with its mortgage origination business. In the period of time that elapses between the origination and sale of mortgage loans, changes in interest rates have the potential to cause a decline in the value of the loans in this held-for-sale portfolio. Futures contracts and forward sale commitments are used to protect the value of the loan pipeline and loans held for sale from changes in interest rates and pricing.
+
+The following table presents additional information about hedging interest rate derivatives used by Regions to manage interest rate risk:
+
+Table 26—Hedging Derivatives by Interest Rate Risk Management Strategy
+
+_________
+
+(1) Floating rates represent the most recent fixing for active derivatives and the first forward fixing for future starting derivatives.
+
+(2) Includes forward starting notional with maturity relative to current quarter-end. For more information on notional by year, see Table 27.
+
+(3) All floating rates are SOFR based and may include SOFR conversion spread.
+
+(4) Interest rate options have an average cap strike of 6.22% and a floor of 1.86%.
+
+In the fourth quarter of 2025, the Company added $3.5 billion in forward-starting receive-fixed swaps with a receive rate of 3.4 percent, which will become active throughout 2026 with 5-year maturities, to partially hedge 2026 expected fixed-rate loan turnover. A portion of these hedges were terminated subsequent to December 31, 2025, consistent with the timing of the fixed-rate loan production the swaps were intended to hedge. Additionally, subsequent to December 31, 2025, the Company continued the execution of this strategy and added $1.25 billion in forward-starting receive-fixed swaps with a receive rate of 3.5 percent, which will become active in the third and fourth quarters of 2026 with 5-year maturities. Separately, the Company added a $250 million forward-starting receive-fixed swap with a receive rate of 3.8 percent, which becomes active in the first quarter of 2029 with a 3-year maturity.
+
+In the fourth quarter of 2025, the Company also added approximately $550 million in forward-starting pay-fixed interest rate swaps with an average pay rate of 3.9 percent, start dates ranging from 2029 to 2031 and maturities of 3 to 5 years, to reduce AOCI volatility associated with reinvestment of available for sale debt securities.
+
+The following table presents the average asset hedge notional amounts that are active during each of the remaining quarterly and annual periods.
+
+Table 27—Schedule of Notional for Asset Hedging Derivatives
+
+_________
+
+(1) Active hedges, including forward-starting hedges, are included in the sensitivity levels disclosed in Table 25 to the extent that they fall within the measurement horizon.
+
+Regions manages the credit risk of these instruments in much the same way as it manages credit risk of the loan portfolios by establishing credit limits for each counterparty and through collateral agreements for dealer transactions. For non-dealer transactions, the need for collateral is evaluated on an individual transaction basis and is primarily dependent on the financial
+
+strength of the counterparty. Credit risk is also reduced significantly by entering into legally enforceable master netting agreements. When there is more than one transaction with a counterparty and there is a legally enforceable master netting agreement in place, the exposure represents the net of the gain and loss positions with and collateral received from and/or posted to that counterparty. Most hedging interest rate swap derivatives traded by Regions are subject to mandatory clearing. The counterparty risk for cleared trades effectively moves from the executing broker to the clearinghouse allowing Regions to benefit from the risk mitigation controls in place at the respective clearinghouse. See the “Credit Risk” section for more information on the management of credit risk.
+
+Regions also uses derivatives to meet the needs of its customers. Interest rate swaps, interest rate options and foreign exchange forwards are the most common derivatives sold to customers. Other derivative instruments with similar characteristics are used to hedge market risk and minimize volatility associated with this portfolio. Instruments used to service customers are held in the trading account, with changes in value recorded in the consolidated statements of income.
+
+The primary objective of Regions’ hedging strategies is to mitigate the impact of interest rate changes, from an economic perspective, on net interest income and other financing income and the net present value of its balance sheet. The overall effectiveness of these hedging strategies is subject to market conditions, the quality of Regions’ execution, the accuracy of its valuation assumptions, counterparty credit risk and changes in interest rates.
+
+See Note 20 "Derivative Financial Instruments and Hedging Activities" to the consolidated financial statements for a tabular summary of Regions’ year-end derivatives positions and further discussion.
+
+Regions accounts for residential MSRs at fair market value with any changes to fair value being recorded within mortgage income. Regions also accounts for non-DUS agency commercial MSRs at fair market value with changes to fair value recorded within capital markets income. Regions enters into derivative transactions to economically mitigate the impact of market value fluctuations related to MSRs at fair market value. Derivative instruments entered into in the future could be materially different from the current risk profile of Regions’ current portfolio.
+
+LIQUIDITY
+
+Liquidity is an important factor in the financial condition of Regions and affects Regions’ ability to meet the needs of the Company and its customers. Regions’ goal in liquidity management is to maintain diverse liquidity sources and reserves sufficient to satisfy the cash flow requirements of depositors and borrowers, under normal and stressed conditions. Accordingly, Regions maintains a variety of liquidity sources to fund its obligations, as further described below. See also Note 23 "Commitments, Contingencies and Guarantees" to the consolidated financial statements for additional discussion of the Company’s funding requirements. Furthermore, Regions performs specific procedures, including scenario analyses and stress testing to evaluate and maintain appropriate levels of available liquidity in alignment with liquidity risk.
+
+Regions' operation of its business provides a generally balanced liquidity base which is comprised of customer assets, consisting principally of loans, and funding provided by customer deposits and borrowed funds. Maturities in the loan portfolio provide a steady flow of funds, and are supplemented by Regions' deposit base.
+
+Cash reserves, liquid assets and secured borrowing capabilities aid in the management of liquidity in normal and stressed conditions, and/or meeting the need of contingent events such as obligations related to potential litigation. As part of its normal management practice, Regions maintains collateral and operational readiness to utilize secured funding sources such as the FHLB and the Federal Reserve Bank on a same-day basis (subject to any practical constraints affecting these market participants). While the securities portfolio is a primary source of liquidity, the secured borrowing capabilities, in addition to cash reserves on hand, assist in alleviating the Company's need to sell securities for funding purposes. Liquidity needs can also be met by borrowing funds in national money markets, though Regions does maintain limits on short-term unsecured funding due to the volatility that can affect such markets.
+
+The following table summarizes the Company's available sources of liquidity as of December 31, 2025:
+
+Table 28—Liquidity Sources
+
+____
+
+(1) Includes small in transit items that may not yet be reflected in the Federal Reserve Bank master account closing balance.
+
+(2) Unencumbered investment securities comprise securities that are eligible as collateral for secured transactions through market channels or are eligible to be pledged to the FHLB, the Federal Reserve discount window, or the Standing Repo Facility.
+
+The balance with the Federal Reserve Bank is the primary component of the balance sheet line item “interest-bearing deposits in other banks.” At December 31, 2025, Regions had approximately $7.6 billion in cash on deposit with the Federal Reserve Bank and other depository institutions. Refer to the "Cash and Cash Equivalents" section for more information.
+
+The securities portfolio also serves as a primary source and storehouse of liquidity. Proceeds from maturities and principal and interest payments of securities provide a continual flow of funds available for cash needs (see Note 3 "Debt Securities" to the consolidated financial statements). Furthermore, the highly liquid nature of the available for sale securities portfolio (for example, the agency guaranteed MBS portfolio) can be readily used as a source of cash through various secured borrowing arrangements. Regions' securities portfolio consists of residential and commercial agency MBS, U.S. Treasury securities, federal agency securities, and corporate and other debt. In evaluating the liquidity within the securities portfolio, unencumbered investment securities are primarily comprised of U.S Treasury securities and residential and commercial agency MBS. Unencumbered investment securities also includes certain corporate bonds considered to be highly liquid and other securities.
+
+Regions’ financing arrangement with the FHLB adds additional flexibility in managing the Company's liquidity position. As of December 31, 2025, Regions had $750 million in short-term FHLB borrowings and $1.0 billion in long-term FHLB borrowings as shown in Note 11 "Borrowed Funds" to the consolidated financial statements. Regions had borrowing capacity from the FHLB as shown in Table 28. FHLB borrowing capacity was determined based on eligible securities and loan amounts, as of December 31, 2025, that were pledged as collateral for future borrowing capacity. Additionally, investment in FHLB stock is required in relation to the level of outstanding borrowings. The FHLB has been and is expected to continue to be a reliable and economical source of funding.
+
+Regions has additional borrowing availability with the Federal Reserve Bank through the discount window as shown in Table 28. Federal Reserve Bank borrowing capacity is determined based on eligible loan amounts that were pledged as collateral for future borrowing capacity. Also through the Federal Reserve Bank, Regions is an eligible Standing Repo Facility counterparty, which supplements Regions' available channels for monetizing unencumbered securities.
+
+Regions maintains a shelf registration statement with the SEC that can be utilized by Regions to issue various debt and/or equity securities. Additionally, Regions' Board has authorized Regions Bank to issue up to $10 billion in aggregate principal amount of bank notes outstanding at any one time. Refer to Note 11 "Borrowed Funds" to the consolidated financial statements for additional information.
+
+Regions may, from time to time, consider opportunistically retiring outstanding issued securities, including subordinated debt in privately negotiated or open market transactions for cash or common shares. Regulatory approval would be required for retirement of some instruments. See Note 14 "Shareholders' Equity and Accumulated Other Comprehensive Income (Loss)" to the consolidated financial statements for additional information.
+
+Regions' maintains a liquidity management framework which establishes sustainable processes and tools to effectively identify, measure, mitigate, monitor, and report liquidity risks beginning with Regions’ Liquidity Management Policy and the Liquidity Risk Appetite Statements approved by the Board. Processes within the liquidity management framework include, but are not limited to, liquidity risk governance, cash management, liquidity stress testing, liquidity risk limits, contingency funding plans, and collateral management. While the framework is designed to comply with liquidity regulations, the processes are further tailored to be commensurate with Regions’ operating model and risk profile. The Company's liquidity policy requires the holding company to maintain cash sufficient to cover the greater of (1) 18 months of debt service and other cash needs or (2) a minimum cash balance of $500 million. Cash and cash equivalents at the holding company exceeded minimums and totaled $726 million at December 31, 2025. Overall liquidity risk limits are established by the Board through its Risk Appetite Statement and Liquidity Policy. The Company's Board, LROC and ALCO regularly review compliance with the established limits.
+
+MARKET RISK—PREPAYMENT RISK
+
+Regions, like most financial institutions, is subject to changing prepayment speeds on mortgage-related assets under different interest rate environments. Prepayment risk is a significant risk to earnings and specifically to net interest income. For example, mortgage loans and other financial assets may be prepaid by a borrower, so that the borrower may refinance its obligations at lower rates. As loans and other financial assets prepay in a falling rate environment, Regions must reinvest these funds in lower-yielding assets. Prepayments of assets carrying higher rates reduce Regions’ interest income and overall asset yields. Conversely, in a rising rate environment, these assets will prepay at a slower rate, resulting in opportunity cost by not having the cash flow to reinvest at higher rates. Prepayment risk can also impact the value of securities and the carrying value of equity. Regions’ greatest exposures to prepayment risks primarily rest in its MBS portfolio, the mortgage fixed-rate loan portfolio and the residential MSR, all of which tend to be sensitive to interest rate movements. Each of these assets is also exposed to prepayment risk due to factors which are not necessarily the result of interest rates, but rather due to changes in policies or programs related, either directly or indirectly, to the U.S. Government's governance over certain lending and financing within the mortgage market. Such policies can work to either encourage or discourage financing dynamics and represent a risk that is extremely difficult to forecast and may be the result of non-economic factors. The Company attempts to
+
+monitor and manage such exposures within reasonable expectations while acknowledging all such risks cannot be foreseen or avoided. Further, Regions has prepayment risk that would be reflected in non-interest income in the form of servicing income on the residential MSRs. Regions actively monitors prepayment exposure as part of its overall net interest income forecasting and interest rate risk management.
+
+CREDIT RISK
+
+Regions’ objective regarding credit risk is to maintain a credit portfolio that provides for stable credit costs with acceptable volatility through an economic cycle. Regions has various processes to manage credit risk as described below. In order to assess the risk profile of the loan portfolio, Regions considers risk factors within the loan portfolio segments and classes, the current U.S. economic environment and that of its primary banking markets, as well as counterparty risk. See the "Portfolio Characteristics" section found earlier in this report for further information regarding the risk characteristics of each loan type.
+
+Management Process
+
+Credit risk is managed by maintaining a sound credit risk culture, throughout all lines of defense, which ensures that the levels and types of risk taken are aligned with Regions' credit risk appetite. The credit quality of borrowers and counterparties has a significant impact on Regions' earnings; however, the nature of the risk differs by each of the defined businesses which engage in multiple forms of commercial, investor real estate and consumer lending. Regions categorizes the credit risks it faces by asset quality, counterparty exposure, and diversification levels which provides a structure to assess credit risk and guides credit decision-making. Credit policies, another key component of Regions' culture, are designed and adjusted, as needed, to promote sound credit risk management. These policies guide lending activities in a manner consistent with Regions' strategy and provide a framework for achieving asset quality and earnings objectives.
+
+Effective credit risk management requires coordinated identification, measurement, mitigation, monitoring and reporting of credit risk exposure, credit quality, and emerging risk trends. Accordingly, Regions has implemented a credit risk governance structure that provides oversight from the Board to the organizational units in order to maintain open channels of communication.
+
+Occasionally, borrowers and counterparties do not fulfill their obligations and Regions must take steps to mitigate and manage losses. Teams are in place to appropriately identify and manage nonperforming loans, collections, loan modifications, and loss mitigation efforts. Regions maintains an allowance for credit losses that management considers adequate to absorb expected losses in the portfolio.
+
+For a discussion of the process and methodology used to calculate the allowance for credit losses refer to the “Critical Accounting Estimates and Related Policies” section found earlier in this report, Note 1 “Summary of Significant Accounting Policies” and Note 5 "Allowance for Credit Losses" to the consolidated financial statements. Details regarding the allowance for credit losses, including an analysis of activity from the previous year’s total, are included in Table 17 "Year-to-Date Allowance Analysis" and Table 18 "Allowance Roll-forward". Also, refer to Table 19 "Allowance Allocation" for details pertaining to management’s allocation of the allowance to each loan category.
+
+Responsibility and accountability for effectively managing all risks, including credit risk, in the various business units lies with the first line of defense. Risk Management, in the second line of defense, oversees, assesses and effectively challenges the risk-taking activities of the first line of defense. Finally, Credit Risk Review provides ongoing oversight, as a third line of defense function, of the credit portfolios to ensure Regions’ activities, and controls, are appropriate for the size, complexity and risk profile of the Company.
+
+Counterparty Risk
+
+Counterparty risk is the risk that the counterparty to a transaction or contract could be unable or unwilling to fulfill its contractual or legal obligations. Exposure may be to a financial institution (such as a commercial bank, an insurance company, a broker dealer, etc.) or a corporate client.
+
+Regions has a centralized approach to approval, management, and monitoring of counterparty exposure. The Counterparty Risk Management Group is responsible for the independent credit risk management of financial institution counterparties and their affiliates. Market Risk Management is responsible for the measurement and stress testing of counterparty exposures. The Corporate and Commercial Credit groups are responsible for the independent credit risk management of client side counterparties.
+
+Financial institution exposure may result from a variety of transaction types generated in one or more departments of the Company. Aggregate exposure limits are established to manage the exposure generated by various areas of the Company. Counterparty client credit risk arises when Regions sells a risk management product to hedge risks in the client’s business. Exposures to counterparties are aggregated across departments and regularly reported to senior management.
+
+INFORMATION SECURITY RISK
+
+Regions faces information security risks, such as evolving and adaptive cyber-attacks that are conducted regularly against financial institutions in attempts to compromise or disable information systems. In the event of a cyber-attack or other data breach, Regions may be required to incur significant expenses, including with respect to remediation costs, costs of implementing additional preventative measures, addressing any reputational harm and addressing any related regulatory inquiries or civil litigation arising from the event.
+
+See Part I, Item 1C. Cybersecurity found earlier in this report for further information.
+
+FINANCIAL DISCLOSURE AND INTERNAL CONTROLS
+
+Regions maintains internal controls over financial reporting, which generally include those controls relating to the preparation of the consolidated financial statements in conformity with GAAP. Regions’ process for evaluating internal controls over financial reporting starts with understanding the risks facing each of its functions and areas, how those risks are controlled or mitigated, and how management monitors those controls to ensure that they are in place and effective. These risks, control procedures and monitoring tools are documented in a standard format. This format not only documents the internal control structures over all significant accounts, but also places responsibility on management for establishing feedback mechanisms to ensure that controls are effective.
+
+Regions also has processes to ensure appropriate disclosure controls and procedures are maintained. These controls and procedures as defined by the SEC are generally designed to ensure that financial and non-financial information required to be disclosed in reports filed with the SEC is reported within the time periods specified in the SEC’s rules and forms, and that such information is communicated to management, including the CEO and CFO, as appropriate, to allow timely decisions regarding required disclosure.
+
+Regions’ Disclosure Review Committee, which includes representatives from the legal, tax, finance, risk management, accounting, investor relations, and treasury departments, meets quarterly to review recent internal and external events to determine whether all appropriate disclosures have been made in reports filed with the SEC. In addition, the CEO and CFO meet quarterly with the SEC Filings Review Committee, which includes senior representatives from accounting, legal, risk management, treasury, and the business groups. The SEC Filings Review Committee provides a forum in which senior executives disclose to the CEO and CFO any known significant deficiencies or material weaknesses in Regions’ internal controls over financial reporting, and provide reasonable assurance that the financial statements and other contents of the Company’s Form 10-K and 10-Q filings are accurate, complete, and timely. As part of this process, certifications of internal control effectiveness are obtained from Regions’ associates who are responsible for maintaining and monitoring effective internal controls over financial reporting. These certifications are reviewed and presented to the CEO and CFO as support of the Company’s assessment of internal controls over financial reporting. The Form 10-K is presented to the Audit Committee of the Board of Directors for approval, and the Forms 10-Q are reviewed by the Audit Committee. Financial results and other financial information are also reviewed with the Audit Committee on a quarterly basis.
+
+As required by Sections 302 and 906 of the Sarbanes-Oxley Act of 2002, the CEO and the CFO review and make certifications regarding the accuracy of Regions’ periodic public reports filed with the SEC, as well as the effectiveness of disclosure controls and procedures and internal controls over financial reporting. With the assistance of the financial review committees noted in the previous paragraph, Regions continually assesses and monitors disclosure controls and procedures and internal controls over financial reporting, and makes refinements as necessary.
+
+COMPARISON OF 2024 WITH 2023
+
+Refer to the “2024 Results” and "Operating Results" sections of Management's Discussion and Analysis of the Annual Report on Form 10-K for the year ended December 31, 2024, for comparisons of 2024 with 2023.

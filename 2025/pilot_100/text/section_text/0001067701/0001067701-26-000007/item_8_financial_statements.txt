@@ -1,0 +1,789 @@
+Item 8. Financial Statements and Supplementary Data
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of United Rentals, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of United Rentals, Inc. (the Company) as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, stockholders' equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and financial statement schedule listed in the Index at Item 15(a) (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated January 28, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
+
+/s/ Ernst & Young LLP
+
+We have served as the Company’s auditor since 1997.
+
+Stamford, Connecticut
+
+January 28, 2026
+
+UNITED RENTALS, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(In millions, except share data)
+
+See accompanying notes.
+
+UNITED RENTALS, INC.
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+(In millions, except per share amounts)
+
+See accompanying notes.
+
+UNITED RENTALS, INC.
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(In millions)
+
+(1) There were no material reclassifications from accumulated other comprehensive loss reflected in other comprehensive income (loss) during the years ended December 31, 2025, 2024 or 2023. There was no material tax impact related to the foreign currency translation adjustments during the years ended December 31, 2025, 2024 or 2023. See note 13 to the consolidated financial statements for a discussion addressing our determination pertaining to the permanent reinvestment of unremitted foreign earnings. There were no material taxes associated with other comprehensive income (loss) during the years ended December 31, 2025, 2024 or 2023.
+
+See accompanying notes.
+
+UNITED RENTALS, INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+(In millions)
+
+(1) Amounts may not foot due to rounding.
+
+(2) As of December 31, 2025, 2024 and 2023, the Accumulated Other Comprehensive Loss balance primarily reflects foreign currency translation adjustments.
+
+(3) In January 2023, our Board of Directors approved our first-ever quarterly dividend program. We declared dividends of $ 7.16 , $ 6.52 and $ 5.92 per share during the years ended December 31, 2025, 2024 and 2023, respectively.
+
+See accompanying notes.
+
+UNITED RENTALS, INC.
+
+(1) The amounts for the year ended December 31, 2025 include bridge financing fees associated with the terminated acquisition of H&E Equipment Services, Inc. d/b/a H&E Rentals (“H&E”) discussed below.
+
+See accompanying notes.
+
+UNITED RENTALS, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(dollars in millions, except per share data and unless otherwise indicated)
+
+1. Organization, Description of Business and Consolidation
+
+United Rentals, Inc. (“Holdings”) is principally a holding company and conducts its operations primarily through its wholly owned subsidiary, United Rentals (North America), Inc. (“URNA”), and subsidiaries of URNA. Holdings’ primary asset is its sole ownership of all issued and outstanding shares of common stock of URNA. URNA’s various credit agreements and debt instruments place restrictions on its ability to transfer funds to its stockholder. As used in this report, the terms the “Company,” “United Rentals,” “we,” “us,” and “our” refer to United Rentals, Inc. and its subsidiaries, unless otherwise indicated.
+
+We rent equipment to a diverse customer base that includes construction and industrial companies, manufacturers, utilities, municipalities, homeowners and government entities. We primarily operate in the United States and Canada, and have a smaller presence in Europe, Australia and New Zealand. In addition to renting equipment, we sell new and used rental equipment, as well as related contractor supplies, parts and service.
+
+The accompanying consolidated financial statements include our accounts and those of our controlled subsidiary companies. All significant intercompany accounts and transactions have been eliminated. We consolidate variable interest entities if we are deemed the primary beneficiary of the entity.
+
+2. Summary of Significant Accounting Policies
+
+Cash Equivalents
+
+We consider all highly liquid instruments with maturities of three months or less when purchased to be cash equivalents.
+
+Allowance for Credit Losses
+
+We maintain allowances for credit losses. These allowances reflect our estimate of the amount of our receivables that we will be unable to collect based on historical write-off experience and, as applicable, current conditions and reasonable and supportable forecasts that affect collectibility. Our estimate could require change based on changing circumstances, including changes in the economy or in the particular circumstances of individual customers. Accordingly, we may be required to increase or decrease our allowances. Trade receivables that have contractual maturities of one year or less are written-off when they are determined to be uncollectible based on the criteria necessary to qualify as a deduction for federal tax purposes. Write-offs of such receivables require management approval based on specified dollar thresholds. See note 3 to our consolidated financial statements for further detail.
+
+Inventory
+
+Inventory consists of new equipment, contractor supplies, tools, parts, fuel and related supply items. Inventory is stated at the lower of cost or market. Cost is determined, depending on the type of inventory, using either a specific identification or weighted-average method.
+
+Rental Equipment
+
+Rental equipment, which includes service and delivery vehicles, is recorded at cost and depreciated over the estimated useful life of the equipment using the straight-line method. The range of estimated useful lives for rental equipment is two to 20 years. Rental equipment is depreciated to a salvage value of zero to 50 percent of cost. The weighted average salvage value of our rental equipment is 12 percent of cost. Rental equipment is depreciated whether or not it is out on rent.
+
+Property and Equipment
+
+Property and equipment are recorded at cost and depreciated over their estimated useful lives using the straight-line method. The range of estimated useful lives for property and equipment is three to 40 years. Ordinary repair and maintenance costs are charged to expense as incurred. Leasehold improvements are amortized using the straight-line method over their estimated useful lives or the remaining life of the lease, whichever is shorter.
+
+Acquisition Accounting
+
+We have made a number of acquisitions in the past and may continue to make acquisitions in the future. The assets acquired and liabilities assumed are recorded based on their respective fair values at the date of acquisition. Long-lived assets
+
+(principally rental equipment), goodwill and other intangible assets generally represent the largest components of our acquisitions. Rental equipment is valued utilizing either a cost, market or income approach, or a combination of certain of these methods, depending on the asset being valued and the availability of market or income data. Goodwill is calculated as the excess of the cost of the acquired business over the net of the fair value of the assets acquired and the liabilities assumed. The intangible assets that we have acquired are non-compete agreements, customer relationships and trade names and associated trademarks. The estimated fair values of these intangible assets reflect various assumptions about discount rates, revenue growth rates, operating margins, terminal values, useful lives and other prospective financial information. Non-compete agreements, customer relationships and trade names and associated trademarks are valued based on an excess earnings or income approach based on projected cash flows.
+
+Determining the fair value of the assets and liabilities acquired can be judgmental in nature and can involve the use of significant estimates and assumptions. The judgments made in determining the estimated fair value assigned to the assets acquired, as well as the estimated life of the assets, can materially impact net income in periods subsequent to the acquisition through depreciation and amortization, and in certain instances through impairment charges, if the asset becomes impaired in the future. As discussed below, we regularly review for impairments.
+
+When we make an acquisition, we also acquire other assets and assume liabilities. These other assets and liabilities typically include, but are not limited to, parts inventory, accounts receivable, accounts payable and other working capital items. Because of their short-term nature, the fair values of these other assets and liabilities generally approximate the book values on the acquired entities' balance sheets.
+
+Evaluation of Goodwill Impairment
+
+Goodwill is tested for impairment annually or more frequently if an event or circumstance indicates that an impairment loss may have been incurred. Application of the goodwill impairment test requires judgment, including: the identification of reporting units; assignment of assets and liabilities to reporting units; assignment of goodwill to reporting units; determination of the fair value of each reporting unit; and an assumption as to the form of the transaction in which the reporting unit would be acquired by a market participant (either a taxable or nontaxable transaction).
+
+When conducting the goodwill impairment test, we are required to compare the fair value of our reporting units (which are our regions) with the carrying amount. As discussed in note 4 to our consolidated financial statements, our divisions are our operating segments. We conduct the goodwill impairment test at the reporting unit level, which is one level below the operating segment level.
+
+Financial Accounting Standards Board (“FASB”) guidance permits entities to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. We estimate the fair value of our reporting units using a combination of an income approach based on the present value of estimated future cash flows and a market approach based on market price data of shares of our Company and other corporations engaged in similar businesses as well as acquisition multiples paid in recent transactions. We believe this approach, which utilizes multiple valuation techniques, yields the most appropriate evidence of fair value.
+
+In connection with our goodwill impairment test that was conducted as of October 1, 2025, we bypassed the optional qualitative assessment for each reporting unit and quantitatively compared the fair values of our reporting units with their carrying amounts. Our goodwill impairment testing as of this date indicated that all of our reporting units had estimated fair values which exceeded their respective carrying amounts by at least 32 percent.
+
+In connection with our goodwill impairment test that was conducted as of October 1, 2024, we bypassed the optional qualitative assessment for each reporting unit and quantitatively compared the fair values of our reporting units with their carrying amounts. Our goodwill impairment testing as of this date indicated that all of our reporting units had estimated fair values which exceeded their respective carrying amounts by at least 60 percent.
+
+Other Intangible Assets
+
+Other intangible assets consist of non-compete agreements, customer relationships and trade names and associated trademarks. The non-compete agreements are being amortized on a straight-line basis over initial periods of approximately five years . The customer relationships are being amortized using the sum of the years' digits method over initial periods generally ranging from six to 15 years. The trade names and associated trademarks are being amortized using the sum of the years' digits method over initial periods of approximately three years . We believe that the amortization methods used reflect the estimated pattern in which the economic benefits will be consumed.
+
+Long-Lived Assets
+
+Long-lived assets are recorded at the lower of amortized cost or fair value. As part of an ongoing review of the valuation of long-lived assets, we assess the carrying value of such assets if facts and circumstances suggest they may be impaired. If this review indicates the carrying value of such an asset may not be recoverable, as determined by an undiscounted cash flow analysis over the remaining useful life, the carrying value would be reduced to its estimated fair value.
+
+Translation of Foreign Currency
+
+Assets and liabilities of our foreign subsidiaries that have a functional currency other than U.S. dollars are translated into U.S. dollars using exchange rates at the balance sheet date. Revenues and expenses are translated at average exchange rates effective during the year. Foreign currency translation gains and losses are included as a component of accumulated other comprehensive (loss) income within stockholders’ equity.
+
+Revenue Recognition
+
+As discussed in note 3 to our consolidated financial statements, we recognize revenue in accordance with two different accounting standards: 1) Topic 606 (which addresses revenue from contracts with customers) and 2) Topic 842 (which addresses lease revenue). As discussed in note 3, most of our revenue is accounted for under Topic 842. The discussion below addresses our primary revenue types based on the accounting standard used to determine the accounting.
+
+Lease revenues (Topic 842)
+
+The accounting for the significant types of revenue that are accounted for under Topic 842 is discussed below.
+
+Owned equipment rentals: Owned equipment rentals represent revenues from renting equipment that we own. We account for such rentals as operating leases.
+
+Re-rent revenue: Re-rent revenue reflects revenues from equipment that we rent from vendors and then rent to our customers. We account for such rentals as subleases. The accounting for re-rent revenue is the same as the accounting for owned equipment rentals described above.
+
+Revenues from contracts with customers (Topic 606)
+
+The accounting for the significant types of revenue that are accounted for under Topic 606 is discussed below.
+
+Delivery and pick-up: Delivery and pick-up revenue associated with renting equipment is recognized when the service is performed.
+
+Sales of rental equipment, new equipment and contractor supplies are recognized at the time of delivery to, or pick-up by, the customer and when collectibility is probable.
+
+Service and other revenues primarily represent revenues earned from providing repair and maintenance services on our customers’ fleet (including parts sales). Service revenue is recognized as the services are performed.
+
+See note 3 to our consolidated financial statements for further discussion of our revenue accounting.
+
+Delivery Expense
+
+Equipment rentals include our revenues from fees we charge for equipment delivery. Delivery costs are charged to operations as incurred, and are included in cost of revenues on our consolidated statements of income.
+
+Advertising Expense
+
+We promote our business through local and national advertising in various media, including television, trade publications, branded sponsorships, yellow pages, the internet, radio and direct mail. Advertising costs are generally expensed as incurred. These costs may include the development costs for branded content and advertising campaigns. Advertising expense, net of the qualified advertising reimbursements discussed below, was not material for the years ended December 31, 2025, 2024 and 2023.
+
+We receive reimbursements for advertising that promotes a vendor’s products or services. Such reimbursements that meet the applicable criteria under U.S. generally accepted accounting principles (“GAAP”) are offset against advertising costs in the period in which we recognize the incremental advertising cost. The amounts of qualified advertising reimbursements that reduced advertising expense were $ 63 , $ 64 and $ 44 for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Insurance
+
+We are insured for general liability, workers’ compensation and automobile liability, subject to deductibles or self-insured retentions per occurrence. Losses within the deductible amounts are accrued based upon the aggregate liability for reported claims incurred, as well as an estimated liability for claims incurred but not yet reported. These liabilities are not discounted. We are also self-insured for group medical claims but purchase “stop loss” insurance as protection against any one significant loss.
+
+Income Taxes
+
+We use the liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on the differences between the financial statement and tax bases of assets and liabilities and are measured using the tax rates and laws that are expected to be in effect when the differences are expected to reverse. Recognition of deferred tax assets is limited to amounts considered by management to be more likely than not to be realized in future periods. The most significant positive evidence that we consider in the recognition of deferred tax assets is the expected reversal of cumulative deferred tax liabilities resulting from book versus tax depreciation of our rental equipment fleet that is well in excess of the deferred tax assets.
+
+We use a two-step approach for recognizing and measuring tax benefits taken or expected to be taken in a tax return regarding uncertainties in income tax positions. The first step is recognition: we determine whether it is more likely than not that a tax position will be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. In evaluating whether a tax position has met the more-likely-than-not recognition threshold, we presume that the position will be examined by the appropriate taxing authority with full knowledge of all relevant information. The second step is measurement: a tax position that meets the more-likely-than-not recognition threshold is measured to determine the amount of benefit to recognize in the financial statements. The tax position is measured at the largest amount of benefit that is greater than 50 percent likely of being realized upon ultimate settlement. Differences between tax positions taken in a tax return and amounts recognized in the financial statements will generally result in one or more of the following: an increase in a liability for income taxes payable, a reduction of an income tax refund receivable, a reduction in a deferred tax asset or an increase in a deferred tax liability.
+
+We have historically considered the undistributed earnings of our foreign subsidiaries to be indefinitely reinvested, and, accordingly, no taxes were provided on such earnings prior to the fourth quarter of 2020. In 2021, we remitted the cumulative amount of identified cash in our foreign operations in excess of near-term working capital needs. In the fourth quarter of 2025, in connection with a restructuring of our international holdings, we identified $ 324 of distributable foreign earnings that we have determined should no longer be considered indefinitely reinvested. We expect to remit the cash that is no longer considered indefinitely reinvested in 2026, and, in the fourth quarter of 2025, we recorded immaterial taxes associated with the planned repatriation.
+
+We continue to expect that our undistributed foreign earnings, excluding the distributable foreign earnings described above, will be indefinitely reinvested. If we determine that all or a portion of such foreign earnings are no longer indefinitely reinvested, we may be subject to additional foreign withholding taxes and U.S. state income taxes. At December 31, 2025, unremitted earnings of foreign subsidiaries were $ 1.621 billion. Determination of the amount of unrecognized deferred tax liability on these unremitted earnings is not practicable.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Significant estimates impact the calculation of the allowance for credit losses, depreciation and amortization, income taxes and reserves for claims. Actual results could materially differ from those estimates.
+
+Concentrations of Credit Risk
+
+Financial instruments that potentially subject us to significant concentrations of credit risk include cash and cash equivalents and accounts receivable. We maintain cash and cash equivalents with high quality financial institutions. Concentration of credit risk with respect to receivables is limited because a large number of geographically diverse customers makes up our customer base (see note 3 to our consolidated financial statements for further detail). We manage credit risk through credit approvals, credit limits and other monitoring procedures.
+
+Stock-Based Compensation
+
+We measure stock-based compensation at the grant date based on the fair value of the award and recognize stock-based compensation expense over the requisite service period. Determining the fair value of stock option awards requires judgment,
+
+including estimating stock price volatility and expected option life. Restricted stock awards are valued based on the fair value of the stock on the grant date and the related compensation expense is recognized over the service period. Similarly, for time-based restricted stock awards subject to graded vesting, we recognize compensation cost on a straight-line basis over the requisite service period. For performance-based restricted stock units (“RSUs”), compensation expense is recognized if satisfaction of the performance condition is considered probable. We recognize forfeitures of stock-based compensation as they occur.
+
+New Accounting Pronouncements
+
+Disaggregation of Income Statement Expenses. In November 2024, the FASB issued ASU 2024-03, which requires more detailed disclosures about specified categories of expenses (including employee compensation, depreciation, and amortization) included in certain expense captions presented on the face of the income statement. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027, may be applied prospectively or retrospectively, and allows for early adoption. This standard is not expected to have an impact on any amounts recognized in our financial statements, but will result in more detailed disclosures addressing the categorization of expenses.
+
+Measurement of Credit Losses for Accounts Receivable and Contract Assets. In July 2025, the FASB issued ASU 2025-05, which provides optional guidance relating to the estimation of expected credit losses on current accounts receivable and current contract assets. This guidance permits entities to apply a practical expedient when estimating credit losses that assumes that current conditions as of the balance sheet date do not change for the remaining life of the asset. ASU 2025-05 is effective for annual reporting periods beginning after December 15, 2025, and interim reporting periods within those annual reporting periods, with early adoption permitted, and should be applied prospectively. We are currently assessing the impact this guidance will have on our financial statements.
+
+Accounting Guidance Adopted in 2025
+
+Improvements to Income Tax Disclosures. In December 2023, the FASB issued ASU 2023-09, which requires disclosure of disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate reconciliation, and modifies other income tax-related disclosures. ASU 2023-09 is effective for fiscal years beginning after December 15, 2024 and may be applied prospectively or retrospectively. We have retrospectively adopted this guidance, which did not have an impact on our financial statements, although it did result in expanded income tax-related disclosures, which are included in note 13 to our consolidated financial statements.
+
+3. Revenue Recognition
+
+Revenue Recognition Accounting Standards
+
+We recognize revenue in accordance with two different accounting standards: 1) Topic 606 (which addresses revenue from contracts with customers) and 2) Topic 842 (which addresses lease revenue). Under Topic 606, revenue from contracts with customers is measured based on the consideration specified in the contract with the customer, and excludes any sales incentives and amounts collected on behalf of third parties. A performance obligation is a promise in a contract to transfer a distinct good or service to a customer, and is the unit of account under Topic 606. As reflected below, most of our revenue is accounted for under Topic 842. Our contracts with customers generally do not include multiple performance obligations. We recognize revenue when we satisfy a performance obligation by transferring control over a product or service to a customer. The amount of revenue recognized reflects the consideration we expect to be entitled to in exchange for such products or services.
+
+Nature of goods and services
+
+In the following table, revenue is summarized by type and by the applicable accounting standard.
+
+Revenues by reportable segment and geographical market are presented in note 4 of the consolidated financial statements using the revenue captions reflected in our consolidated statements of operations. The majority of our revenue is recognized in our general rentals segment and in the U.S. (for the year ended December 31, 2025, 68 percent and 91 percent, respectively). We believe that the disaggregation of our revenue from contracts to customers as reflected above, coupled with the further discussion below and the reportable segment and geographical market disclosures in note 4, depicts how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors.
+
+Lease revenues (Topic 842)
+
+The accounting for the types of revenue that are accounted for under Topic 842 is discussed below.
+
+Owned equipment rentals represent our most significant revenue type (they accounted for 69 percent of total revenues for the year ended December 31, 2025) and are governed by our standard rental contract. We account for such rentals as operating leases. The lease terms are included in our contracts, and the determination of whether our contracts contain leases generally does not require significant assumptions or judgments. Our lease revenues do not include material amounts of variable payments.
+
+Owned equipment rentals: Owned equipment rentals represent revenues from renting equipment that we own. We do not generally provide an option for the lessee to purchase the rented equipment at the end of the lease, and do not generate material revenue from sales of equipment under such options.
+
+We recognize revenues from renting equipment on a straight-line basis. Our rental contract periods are hourly, daily, weekly or monthly. By way of example, if a customer were to rent a piece of equipment and the daily, weekly and monthly rental rates for that particular piece were (in actual dollars) $100, $300 and $900, respectively, we would recognize revenue of $32.14 per day. The daily rate for recognition purposes is calculated by dividing the monthly rate of $900 by the monthly term of 28 days. This daily rate assumes that the equipment will be on rent for the full 28 days, as we are unsure of when the customer will return the equipment and therefore unsure of which rental contract period will apply.
+
+As part of this straight-line methodology, when the equipment is returned, we recognize as incremental revenue the excess, if any, between the amount the customer is contractually required to pay, which is based on the rental contract period applicable to the actual number of days the equipment was out on rent, over the cumulative amount of revenue recognized to date. In any given accounting period, we will have customers return equipment and be contractually required to pay us more than the cumulative amount of revenue recognized to date under the straight-line methodology. For instance, continuing the above example, if the customer rented the above piece of equipment on December 29 and returned it at the close of business on January 1, we would recognize incremental revenue on January 1 of $171.44 (in actual dollars, representing the difference between the amount the customer is contractually required to pay, or $300 at the weekly rate, and the cumulative amount recognized to date on a straight-line basis, or $128.56, which represents four days at $32.14 per day).
+
+We record amounts billed to customers in excess of recognizable revenue as deferred revenue on our balance sheet. We had deferred revenue (associated with both Topic 842 and Topic 606) of $ 175 and $ 185 as of December 31, 2025 and 2024, respectively.
+
+As noted above, we are unsure of when the customer will return rented equipment. As such, we do not know how much the customer will owe us upon return of the equipment and cannot provide a maturity analysis of future lease payments. Our equipment is generally rented for short periods of time (significantly less than a year). Lessees do not provide residual value guarantees on rented equipment.
+
+We expect to derive significant future benefits from our equipment following the end of the rental term. Our rentals are generally short-term in nature, and our equipment is typically rented for the majority of the time that we own it. We additionally recognize revenue from sales of rental equipment when we dispose of the equipment.
+
+Re-rent revenue: Re-rent revenue reflects revenues from equipment that we rent from vendors and then rent to our customers. We account for such rentals as subleases. The accounting for re-rent revenue is the same as the accounting for owned equipment rentals described above.
+
+“Other” equipment rental revenue is primarily comprised of 1) Rental Protection Plan (or “RPP”) revenue associated with the damage waiver customers can purchase when they rent our equipment to protect against potential loss or damage, 2) environmental charges associated with the rental of equipment, 3) charges for rented equipment that is damaged by our customers and 4) charges for setup and other services performed on rented equipment.
+
+Revenues from contracts with customers (Topic 606)
+
+The accounting for the types of revenue that are accounted for under Topic 606 is discussed below. Substantially all of our revenues under Topic 606 are recognized at a point-in-time rather than over time.
+
+Delivery and pick-up: Delivery and pick-up revenue associated with renting equipment is recognized when the service is performed.
+
+“Other” equipment rental revenue is primarily comprised of revenues associated with the consumption of fuel by our customers which are recognized when the equipment is returned by the customer (and consumption, if any, can be measured).
+
+Sales of rental equipment, new equipment and contractor supplies are recognized at the time of delivery to, or pick-up by, the customer and when collectibility is probable.
+
+Service and other revenues primarily represent revenues earned from providing repair and maintenance services on our customers’ fleet (including parts sales). Service revenue is recognized as the services are performed.
+
+Receivables and contract assets and liabilities
+
+As reflected above, most of our equipment rental revenue is accounted for under Topic 842 (such revenue represented 77 percent of our total revenues for the year ended December 31, 2025). The customers that are responsible for the remaining revenue that is accounted for under Topic 606 are generally the same customers that rent our equipment. We manage credit risk associated with our accounts receivables at the customer level. Because the same customers generate the revenues that are accounted for under both Topic 606 and Topic 842, the discussions below on credit risk and our allowance for credit losses address receivables arising from revenues from both Topic 606 and Topic 842.
+
+Concentration of credit risk with respect to our receivables is limited because a large number of geographically diverse customers makes up our customer base. Our largest customer accounted for one percent or less of total revenues in each of 2025, 2024 and 2023. Our customer with the largest receivable balance represented approximately two percent of total receivables at December 31, 2025 and 2024. We manage credit risk through credit approvals, credit limits and other monitoring procedures.
+
+Our allowance for credit losses reflects our estimate of the amount of our receivables that we will be unable to collect based on historical write-off experience and, as applicable, current conditions and reasonable and supportable forecasts that affect collectibility. Our estimate could require change based on changing circumstances, including changes in the economy or in the particular circumstances of individual customers. Accordingly, we may be required to increase or decrease our allowance. Trade receivables that have contractual maturities of one year or less are written-off when they are determined to be uncollectible based on the criteria necessary to qualify as a deduction for federal tax purposes. Write-offs of such receivables require management approval based on specified dollar thresholds. See the table below for a rollforward of our allowance for credit losses.
+
+The measurement of expected credit losses is based on relevant information from past events, including historical experiences, current conditions and reasonable and supportable forecasts that affect collectibility. Trade receivables are the only material financial asset we have that is subject to the requirement to measure expected credit losses as noted above, as this requirement does not apply to receivables arising from operating lease revenues. Substantially all of our non-lease trade receivables are due in one year or less. As discussed above, most of our equipment rental revenue is accounted for as lease revenue (such revenue represented 77 percent of our total revenues for the year ended December 31, 2025), and these revenues account for corresponding portions of the $ 2.510 billion of net accounts receivable and the associated allowance for credit losses of $ 180 as of December 31, 2025.
+
+As discussed above, most of our equipment rental revenue is accounted for under Topic 842. The customers that are responsible for the remaining revenue that is accounted for under Topic 606 are generally the same customers that rent our equipment. We manage credit risk associated with our accounts receivables at the customer level. The rollforward of our allowance for credit losses (in total, and associated with revenues arising from both Topic 606 and Topic 842) is shown below.
+
+_________________
+
+(1) Reflects bad debt expenses recognized within selling, general and administrative expenses (associated with Topic 606 revenues).
+
+(2) Primarily reflects credit losses associated with lease revenues that were recognized as a reduction to equipment rentals revenue (primarily associated with Topic 842 revenues).
+
+(3) Primarily represents write-offs of accounts, net of immaterial recoveries and other activity.
+
+We do no t have material contract assets, or impairment losses associated therewith, or material contract liabilities, associated with contracts with customers. Our contracts with customers do not generally result in material amounts billed to customers in excess of recognizable revenue. We did no t recognize material revenue during the years ended December 31, 2025 and December 31, 2024 that was included in the contract liability balance as of the beginning of such periods.
+
+Performance obligations
+
+Most of our Topic 606 revenue is recognized at a point-in-time, rather than over time. Accordingly, in any particular period, we do not generally recognize a significant amount of revenue from performance obligations satisfied (or partially satisfied) in previous periods, and the amounts of such revenue recognized during the years ended December 31, 2025 and December 31, 2024 were no t material. We also do not expect to recognize material revenue in the future related to performance obligations that were unsatisfied (or partially unsatisfied) as of December 31, 2025.
+
+Payment terms
+
+Our Topic 606 revenues do not include material amounts of variable consideration. Our payment terms vary by the type and location of our customer and the products or services offered. The time between invoicing and when payment is due is not significant. Our contracts do not generally include a significant financing component. For certain products or services and customer types, we require payment before the products or services are delivered to the customer. Our contracts with customers do not generally result in significant obligations associated with returns, refunds or warranties. See above for a discussion of how we manage credit risk.
+
+Revenue is recognized net of taxes collected from customers, which are subsequently remitted to governmental authorities.
+
+Contract costs
+
+We do not recognize any assets associated with the incremental costs of obtaining a contract with a customer (for example, a sales commission) that we expect to recover. Most of our revenue is recognized at a point-in-time or over a period of
+
+one year or less, and we use the practical expedient that allows us to recognize the incremental costs of obtaining a contract as an expense when incurred if the amortization period of the asset that we otherwise would have recognized is one year or less.
+
+Contract estimates and judgments
+
+Our revenues accounted for under Topic 606 generally do not require significant estimates or judgments, primarily for the following reasons:
+
+• The transaction price is generally fixed and stated in our contracts;
+
+• As noted above, our contracts generally do not include multiple performance obligations, and accordingly do not generally require estimates of the standalone selling price for each performance obligation;
+
+• Our revenues do not include material amounts of variable consideration, or result in significant obligations associated with returns, refunds or warranties; and
+
+• Most of our revenue is recognized as of a point-in-time and the timing of the satisfaction of the applicable performance obligations is readily determinable. As noted above, our Topic 606 revenue is generally recognized at the time of delivery to, or pick-up by, the customer.
+
+Our revenues accounted for under Topic 842 also generally do not require significant estimates or judgments. We monitor and review our estimated standalone selling prices on a regular basis.
+
+4. Segment Information
+
+Our reportable segments are (i) general rentals and (ii) specialty. Our determination of the operating segments is primarily based on geography, but also includes consideration of the offered products and services. As noted below, we evaluate segment performance primarily based on segment equipment rentals gross profit. As discussed further in note 2 to our consolidated financial statements (“Evaluation of Goodwill Impairment”), we test for goodwill impairment at the reporting unit (the region, which is one level below the operating segment (division)) level.
+
+For general rentals, the divisions discussed below, which are our operating segments, are aggregated into the reportable segment. The specialty segment is a single division that is both an operating segment and a reportable segment. We believe that the divisions that are aggregated into our reportable segments have similar economic characteristics, as each division is capital intensive, offers similar products to similar customers, uses similar methods to distribute its products, and is subject to similar competitive risks. The aggregation of our divisions also reflects the management structure that we use for making operating decisions and assessing performance. We evaluate segment performance primarily based on segment equipment rentals gross profit.
+
+The general rentals segment includes the rental of (i) general construction and industrial equipment, such as backhoes, skid-steer loaders, forklifts, earthmoving equipment and material handling equipment, (ii) aerial work platforms, such as boom lifts and scissor lifts and (iii) general tools and light equipment, such as pressure washers, water pumps and power tools. The general rentals segment reflects the aggregation of four geographic divisions—Central, Northeast, Southeast and West—and operates throughout the United States and Canada.
+
+The specialty segment, which, as noted above, is a single division that is both an operating segment and a reportable segment, rents products (and provides setup and other services on such rented equipment) including (i) trench safety equipment, such as trench shields, aluminum hydraulic shoring systems, slide rails, crossing plates, construction lasers and line testing equipment for underground work, (ii) power and HVAC equipment, such as portable diesel generators, electrical distribution equipment, and temperature control equipment, (iii) fluid solutions equipment primarily used for fluid containment, transfer and treatment, (iv) mobile storage equipment and modular office space and (v) surface protection mats. The specialty segment’s customers include construction companies involved in infrastructure projects, municipalities and industrial companies. This segment primarily operates in the United States and Canada, and has a smaller presence in Europe, Australia and New Zealand.
+
+The following table presents the percentage of equipment rental revenue by equipment type for the years ended December 31, 2025, 2024 and 2023:
+
+___________________
+
+(1) In March 2024, we completed the acquisition of Yak Access, LLC, Yak Mat, LLC and New South Access & Environmental Solutions, LLC (collectively, “Yak”), which was a leading provider of surface protection mats. Prior to the Yak acquisition, we did not rent material amounts of such equipment.
+
+The accounting policies for our segments are the same as those described in the summary of significant accounting policies in note 2. Certain corporate costs, including those related to selling, finance, legal, risk management, human resources, corporate management and information technology systems, are deemed to be of an operating nature and are allocated to our segments based primarily on rental fleet size.
+
+Our Chief Operating Officer is our CODM. Equipment rentals gross profit is the primary measure the CODM utilizes in assessing segment performance and determining the allocation of resources. The CODM is the primary individual in control of resource allocation, and the allocation determinations are made in consultation with our senior executive committee, of which the CODM is a member. The most significant allocation determinations made by the CODM pertain to purchases of rental equipment (see the table below for total capital expenditures, including rental and non-rental equipment, by segment), and these determinations are generally made as part of the annual budgeting process, with regular reviews occurring throughout the year that can result in allocation changes (for example, if a specific division outperforms its plan, that could result in a reallocation of resources between divisions or an increase in the total allocated resources). On a monthly basis, the CODM considers budget-to-actual variances for equipment rentals gross profit when making decisions about allocating capital to the segments. Equipment rentals gross profit is also used to assess the performance for each segment by comparing the results and return on assets of each segment with one another, which also informs the determinations made pertaining to the allocation of resources.
+
+The following table sets forth financial information by segment, and includes a reconciliation of the primary measure of segment profit (equipment rentals gross profit) to income before provision for income taxes.
+
+(1) Includes immaterial intersegment revenues.
+
+(2) The consolidated statements of cash flows include the payments for capital expenditures, while the table above reflects the gross capital expenditures. Accounts payable as of December 31, 2025, 2024 and 2023 included $ 117 , $ 77 and $ 74 , respectively, of amounts due but unpaid for purchases of rental equipment.
+
+(3) The significant expense categories align with the segment-level information that is regularly provided to the CODM. The “all other rental expenses” category reflects the difference between equipment rentals revenue less the significant expense categories above and the primary measure of segment profit (equipment rentals gross profit), and is primarily comprised of property costs, costs associated with re-rent revenue and certain ancillary revenues (see note 3 to the consolidated financial statements for a discussion of the different types of equipment rentals revenue), and insurance costs. Intersegment expenses are included within the amounts shown.
+
+(4) Labor and benefits includes all internal labor and benefits costs associated with equipment rentals, including labor and benefits costs associated with repairs and maintenance and delivery.
+
+(5) Primarily reflects severance and branch closure charges associated with our restructuring programs. The restructuring charges generally involve the closure of a large number of branches over a short period of time, often in periods following a major acquisition. The amounts above primarily reflect charges associated with the restructuring program initiated following the December 2022 acquisition of Ahern Rentals. See note 5 to the consolidated financial statements for additional detail on our restructuring programs.
+
+(6) In January 2025, we announced that we had signed a merger agreement to acquire H&E. In February 2025, the merger agreement was terminated. Other income, net for the year ended December 31, 2025 includes a break-up fee of $ 64 that we received following the termination of the H&E merger agreement.
+
+(7) The increase in the specialty segment assets from December 31, 2023 to December 31, 2024 includes the impact of the Yak acquisition.
+
+We primarily operate in the United States and Canada, and have a smaller presence in Europe, Australia and New Zealand. The foreign information in the table below primarily reflects Canada. The following table presents geographic area information for the years ended December 31, 2025, 2024 and 2023, except for balance sheet information, which is presented as of December 31, 2025 and 2024:
+
+5. Restructuring Charges
+
+Restructuring charges primarily include severance costs associated with headcount reductions, as well as branch closure charges. We incur severance costs and branch closure charges in the ordinary course of our business. We only include such costs that are part of a restructuring program as restructuring charges. Since the first such program was initiated in 2008, we have completed seven restructuring programs and have incurred total restructuring charges of $ 384 .
+
+In the fourth quarter of 2025, we initiated a restructuring program (the “2026 Cost Savings Restructuring Program”) associated with the consolidation of certain common functions and certain other cost reduction measures. We did not recognize material costs associated with this program in 2025. We expect to complete this program in 2026, and expect to recognize between $ 30 and $ 60 of total costs, primarily comprised of severance and branch closure costs, under the program. As of December 31, 2025, the total liability associated with our restructuring programs was $ 13 (such amount relates only to our closed restructuring programs, as we have no t yet recognized any liabilities associated with the 2026 Cost Savings Restructuring Program).
+
+6. Rental Equipment
+
+Rental equipment consists of the following:
+
+7. Property and Equipment
+
+Property and equipment consist of the following:
+
+8. Goodwill and Other Intangible Assets
+
+The following table presents the changes in the carrying amount of goodwill for each of the three years in the period ended December 31, 2025:
+
+_________________
+
+(1) The total carrying amount of goodwill for all periods in the table above is reflected net of $ 1.557 billion of accumulated impairment charges, which were primarily recorded in our general rentals segment.
+
+(2) Includes goodwill adjustments for the effect on goodwill of changes to net assets acquired during the measurement period, which were not significant to our previously reported operating results or financial condition. Decreases in goodwill related to acquisitions above primarily reflect such measurement period adjustments.
+
+(3) The December 2022 acquisition of Ahern Rentals was assigned to our general rentals segment. The decrease in goodwill related to acquisitions for the general rentals segment in 2023 primarily reflected measurement period adjustments associated with the Ahern Rentals acquisition, partially offset by other acquisition activity. The March 2024 acquisition of Yak was assigned to our specialty segment and accounted for most of the goodwill related to acquisitions in 2024.
+
+Other intangible assets were comprised of the following at December 31, 2025 and 2024:
+
+The non-compete agreements are being amortized on a straight-line basis and the customer relationships are being amortized using the sum of the years' digits method, and we believe that such methods best reflect the estimated pattern in which the economic benefits will be consumed. Amortization expense for other intangible assets was $ 238 , $ 258 and $ 271 for the years ended December 31, 2025, 2024 and 2023, respectively.
+
+As of December 31, 2025, estimated amortization expense for other intangible assets for each of the next five years and thereafter was as follows:
+
+9. Accrued Expenses and Other Liabilities and Other Long-Term Liabilities
+
+Accrued expenses and other liabilities consist of the following:
+
+_________________
+
+(1) Primarily relates to branch closure charges associated with our closed restructuring programs. See note 5 for additional detail.
+
+(2) Reflects amounts billed to customers in excess of recognizable revenue. See note 3 for additional detail.
+
+(3) Other includes multiple items, none of which are individually significant.
+
+Other long-term liabilities consist of the following:
+
+_________________
+
+(1) Primarily reflects the long-term portion of the contingent consideration for the Yak acquisition.
+
+10. Fair Value Measurements
+
+As of December 31, 2025 and 2024, the amounts of our assets and liabilities that were accounted for at fair value were immaterial.
+
+Fair value measurements are categorized in one of the following three levels based on the lowest level input that is significant to the fair value measurement in its entirety:
+
+Level 1—Inputs to the valuation methodology are unadjusted quoted prices in active markets for identical assets or liabilities.
+
+Level 2—Observable inputs other than quoted prices in active markets for identical assets or liabilities include:
+
+a) quoted prices for similar assets or liabilities in active markets;
+
+b) quoted prices for identical or similar assets or liabilities in inactive markets;
+
+c) inputs other than quoted prices that are observable for the asset or liability;
+
+d) inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+
+If the asset or liability has a specified (contractual) term, the Level 2 input must be observable for substantially the full term of the asset or liability.
+
+Level 3—Inputs to the valuation methodology are unobservable (i.e., supported by little or no market activity) and significant to the fair value measure.
+
+Fair Value of Financial Instruments
+
+The carrying amounts reported in our consolidated balance sheets for accounts receivable, accounts payable and accrued expenses and other liabilities approximate fair value due to the immediate to short-term maturity of these financial instruments. The fair values of our variable rate debt facilities and finance leases approximated their book values as of December 31, 2025 and 2024. The estimated fair values of our other financial instruments, all of which are categorized in Level 1 of the fair value hierarchy, as of December 31, 2025 and 2024 have been calculated based upon available market information, and were as follows:
+
+11. Debt
+
+Debt, net of unamortized original issue discounts and premiums, and unamortized debt issuance costs, consists of the following:
+
+(1) The table below presents financial information associated with our variable rate indebtedness as of and for the year ended December 31, 2025. We have borrowed the full available amount under the term loan facility. The principal obligation
+
+under the term loan facility is required to be repaid in quarterly installments in an aggregate amount equal to 1.0 percent per annum, with the balance due at the maturity of the facility. The average amount of debt outstanding under the term loan facility decreases slightly each quarter due to the requirement to repay a portion of the principal obligation.
+
+(2) In December 2025, URNA issued $ 1.500 billion principal amount of 5 3 / 8 percent Senior Notes. See below for additional detail on the issued debt. The net proceeds of the issuance were used to redeem all of the outstanding 5 1 / 2 percent Senior Notes due 2027 and to reduce drawings on the ABL facility.
+
+(3) URNA separately issued 4 7 / 8 percent Senior Notes in August 2017 and in September 2017. Following the issuances, URNA consummated an exchange offer pursuant to which most of the 4 7 / 8 percent Senior Notes issued in September 2017 were exchanged for additional notes fungible with the 4 7 / 8 percent Senior Notes issued in August 2017. As of December 31, 2025, the total above is comprised of two separate 4 7 / 8 percent Senior Notes, one with a book value of $ 1.665 billion and one with a book value of $ 4 .
+
+(4) Short-term debt primarily reflects borrowings under the accounts receivable securitization facility and the short-term portion of our finance leases. The accounts receivable securitization facility, which expires on June 24, 2026, may be extended on a 364 -day basis by mutual agreement with the purchasers under the facility. The weighted average interest rates on our short-term debt, excluding finance leases, were 4.8 percent and 5.4 percent as of December 31, 2025 and 2024, respectively. See note 12 to the consolidated financial statements for further discussion on our finance leases.
+
+Short-term debt
+
+Accounts receivable securitization facility. The accounts receivable securitization facility expires on June 24, 2026 and may be extended on a 364 -day basis by mutual agreement with the purchasers under the facility. Borrowings under the accounts receivable securitization facility bear interest based on (i) the cost of commercial paper issued by a conduit purchaser to fund its investment, plus related dealer commissions and note issuance costs or, (ii) if funded by a bank, the Secured Overnight Financing Rate (“SOFR”). The size of the accounts receivable securitization facility is $ 1.5 billion, and key provisions of the facility include the following:
+
+• borrowings are permitted only to the extent that the face amount of the receivables in the collateral pool, net of applicable reserves, exceeds the outstanding loans by a specified amount. As of December 31, 2025, there were $ 1.713 billion of receivables, net of applicable reserves, in the collateral pool;
+
+• the receivables in the collateral pool are the lenders’ only source of repayment;
+
+• upon early termination of the facility, no new amounts will be advanced under the facility and collections on the receivables securing the facility will be used to repay the outstanding borrowings; and
+
+• standard termination events including, without limitation, a change of control of Holdings, URNA or certain of its subsidiaries, a failure to make payments, a failure to comply with standard default, delinquency, dilution and days sales outstanding covenants, or breach of the fixed charge coverage ratio covenant under the ABL facility (if applicable).
+
+See the table above for financial information associated with the accounts receivable securitization facility.
+
+Long-term debt
+
+ABL facility. In June 2008, Holdings, URNA, and certain of our subsidiaries entered into a credit agreement providing for a five-year $ 1.25 billion ABL facility, a portion of which is available for borrowing in Canadian dollars. The ABL facility was subsequently upsized and extended, and a portion of the facility is also now available for borrowing in British pounds, Euros, Australian dollars and New Zealand dollars by certain subsidiaries of URNA in Europe, Australia and New Zealand. The size of the ABL facility was $ 4.5 billion as of December 31, 2025. See the table above for financial information associated with the ABL facility.
+
+The ABL facility is subject to, among other things, the terms of a borrowing base derived from the value of eligible rental equipment and eligible inventory. The borrowing base is subject to certain reserves and caps customary for financings of this
+
+type. All amounts borrowed under the credit agreement must be repaid on or before July 2030. Loans under the credit agreement bear interest, at URNA’s option: (i) in the case of loans in U.S. dollars, at a rate equal to the term SOFR or daily SOFR or an alternate base rate, in each case plus a spread, (ii) in the case of loans in Canadian dollars, at a rate equal to the Term Canadian Overnight Repo Rate Average (“Term CORRA”) or an alternate rate (the Canadian prime rate), in each case plus a spread, (iii) in the case of loans in Euros, at a rate equal to the Euro interbank offered rate or an alternate base rate, in each case plus a spread, (iv) in the case of loans in British pounds, at a rate equal to the daily simple Sterling Overnight Interbank Average or an alternate base rate, in each case plus a spread or (v) in the case of loans in Australian Dollars or New Zealand Dollars, at a rate equal to the applicable bank bill rate or an alternate base rate, in each case plus a spread. The interest rates under the credit agreement are subject to change based on the availability in the facility. A commitment fee accrues on any unused portion of the commitments under the credit agreement at a fixed rate per annum. Ongoing extensions of credit under the credit agreement are subject to customary conditions, including sufficient availability under the borrowing base. As discussed below (see “Loan Covenants and Compliance”), the only financial covenant that currently exists in the ABL facility is the fixed charge coverage ratio. As of December 31, 2025, availability under the ABL facility has exceeded the required threshold and, as a result, this financial covenant was inapplicable. In addition, the credit agreement contains customary negative covenants applicable to Holdings, URNA and our subsidiaries, including negative covenants that restrict the ability of such entities to, among other things, (i) incur additional indebtedness or engage in certain other types of financing transactions, (ii) allow certain liens to attach to assets, (iii) repurchase, or pay dividends or make certain other restricted payments on, capital stock and certain other securities, (iv) prepay certain indebtedness and (v) make acquisitions and investments. The borrowings under the credit agreement by URNA are secured by substantially all of our assets and substantially all of the assets of certain of our U.S. subsidiaries (other than real property and certain accounts receivable). The borrowings under the credit agreement by URNA are guaranteed by Holdings and, subject to certain exceptions, our domestic subsidiaries. Borrowings under the credit agreement by URNA’s Canadian subsidiaries are also secured by substantially all the assets of URNA’s Canadian subsidiaries and supported by guarantees from the Canadian subsidiaries and from Holdings and URNA, and, subject to certain exceptions, our domestic subsidiaries. Borrowings under the credit agreement by URNA’s subsidiaries in Europe, Puerto Rico, Australia and New Zealand are guaranteed by Holdings, URNA, URNA’s Canadian subsidiaries and, subject to certain exceptions, our domestic subsidiaries and secured by substantially all the assets of our U.S. subsidiaries (other than real property and certain accounts receivable) and substantially all the assets of URNA’s Canadian subsidiaries. Under the ABL facility, a change of control (as defined in the credit agreement) constitutes an event of default, entitling our lenders, among other things, to terminate our ABL facility and to require us to repay outstanding borrowings.
+
+Term loan facility . In October 2018, Holdings, URNA, and certain of our subsidiaries entered into a senior secured term loan facility. In 2024, the term loan facility was amended, primarily to extend the maturity date and to increase the facility size to $ 1.000 billion (at the time of the amendment, the facility size was $ 948 ). See the table above for financial information associated with the term loan facility.
+
+The term loan facility is guaranteed by Holdings and the same domestic subsidiaries that guarantee the borrowings of URNA under the ABL facility. In addition, the obligations under the term loan facility are secured by first priority security interests in the same collateral that secures the borrowings of URNA under the ABL facility, on a pari passu basis with the ABL facility. The principal obligations under the term loan facility are to be repaid in quarterly installments in an aggregate amount equal to 1.0 percent per annum, with the balance due at the maturity of the term loan facility. The term loan facility matures on February 14, 2031. Borrowings under the term loan facility bear interest based on SOFR.
+
+The term loan facility contains customary negative covenants applicable to URNA and its subsidiaries, including negative covenants that restrict the ability of such entities to, among other things, (i) incur additional indebtedness; (ii) incur additional liens; (iii) make dividends and other restricted payments; and (iv) engage in mergers, acquisitions and dispositions. The term loan facility does not include any financial covenants. Under the term loan facility, a change of control (as defined in the credit agreement) constitutes an event of default, entitling our lenders to, among other things, terminate the term loan facility and require us to repay outstanding loans.
+
+3 7 / 8 percent Senior Secured Notes due 2027. In November 2019, URNA issued $ 750 aggregate principal amount of 3 7 / 8 percent Senior Secured Notes (the “3 7 / 8 percent Notes”) which are due November 15, 2027. The 3 7 / 8 percent Notes are guaranteed by Holdings and certain domestic subsidiaries of URNA and are secured on a second-priority basis by liens on substantially all of URNA’s and the guarantors’ assets that secure the ABL facility and the term loan facility, subject to certain exceptions. The 3 7 / 8 percent Notes may be redeemed on or after November 15, 2022, at specified redemption prices that range from 101.938 percent in 2022, to 100 percent in 2025 and thereafter, in each case, plus accrued and unpaid interest, if any. In addition, at any time on or prior to November 15, 2022, up to 40 percent of the aggregate principal amount of the 3 7 / 8 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 103.875 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 3 7 / 8 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject
+
+to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees, to give further assurances and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 3 7 / 8 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 3 7 / 8 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+4 7 / 8 percent Senior Notes due 2028 . In August 2017, URNA issued $ 925 principal amount of 4 7 / 8 percent Senior Notes (the “Initial 4 7 / 8 percent Notes”) which are due January 15, 2028. The Initial 4 7 / 8 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The Initial 4 7 / 8 percent Notes may be redeemed on or after January 15, 2023, at specified redemption prices that range from 102.438 percent in 2023, to 100 percent in 2026 and thereafter, in each case, plus accrued and unpaid interest, if any. The indenture governing the Initial 4 7 / 8 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens; (ii) mergers and consolidations; (iii) sales, transfers and other dispositions of assets; (iv) dividends and other distributions, stock repurchases and redemptions and other restricted payments; and (v) designations of unrestricted subsidiaries, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the covenant relating to dividends and other distributions, stock repurchases and redemptions and other restricted payments and the requirements relating to additional subsidiary guarantors will not apply to URNA and its restricted subsidiaries during any period when the Initial 4 7 / 8 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding Initial 4 7 / 8 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+In September 2017, URNA issued $ 750 principal amount of 4 7 / 8 percent Senior Notes (the “Subsequent 4 7 / 8 percent Notes”) which are due January 15, 2028. The Subsequent 4 7 / 8 percent Notes represent a separate and distinct series of notes from the Initial 4 7 / 8 percent Notes. The Subsequent 4 7 / 8 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The Subsequent 4 7 / 8 percent Notes may be redeemed on or after January 15, 2023, at specified redemption prices that range from 102.438 percent in 2023, to 100 percent in 2026 and thereafter, in each case, plus accrued and unpaid interest, if any. The indenture governing the Subsequent 4 7 / 8 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens; (ii) mergers and consolidations; (iii) sales, transfers and other dispositions of assets; (iv) dividends and other distributions, stock repurchases and redemptions and other restricted payments; and (v) designations of unrestricted subsidiaries, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the covenant relating to dividends and other distributions, stock repurchases and redemptions and other restricted payments and the requirements relating to additional subsidiary guarantors will not apply to URNA and its restricted subsidiaries during any period when the Subsequent 4 7 / 8 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding Subsequent 4 7 / 8 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon. The effective interest rate on the Subsequent 4 7 / 8 percent Notes, which includes the impact of the original issue premium, is 4.84 percent.
+
+In December 2017, we consummated an exchange offer pursuant to which approximately $ 744 principal amount of Subsequent 4 7 / 8 percent Notes were exchanged for additional Initial 4 7 / 8 percent Notes issued under the indenture governing the Initial 4 7 / 8 percent Notes and fungible with the Initial 4 7 / 8 percent Notes. As of December 31, 2025, the principal amounts outstanding were $ 1.669 billion for the Initial 4 7 / 8 percent Notes and $ 4 for the Subsequent 4 7 / 8 percent Notes.
+
+6 percent Senior Secured Notes due 2029 . In November 2022, URNA issued $ 1.500 billion aggregate principal amount of 6 percent Senior Secured Notes (the “6 percent Notes”) which are due December 15, 2029. The 6 percent Notes are guaranteed by Holdings and certain domestic subsidiaries of URNA and are secured on a first-priority basis by liens on substantially all of URNA’s and the guarantors’ assets that secure the ABL facility and the term loan facility, subject to certain exceptions. The 6 percent Notes may be redeemed on or after December 15, 2025, at specified redemption prices that range from 103.000 percent in 2025, to 100 percent in 2027 and thereafter, in each case, plus accrued and unpaid interest, if any. Up to 10 percent of the aggregate principal amount of the 6 percent Notes may also be redeemed during each period from (i) the issue date to, but
+
+excluding, December 15, 2023, (ii) December 15, 2023 to, but excluding, December 15, 2024 and (iii) December 15, 2024 to, but excluding, December 15, 2025, at a redemption price equal to 103.000 percent plus accrued and unpaid interest, if any. In addition, at any time on or prior to December 15, 2025, up to 40 percent of the aggregate principal amount of the 6 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 106.000 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 6 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees, to give further assurances and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 6 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 6 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+5 1 / 4 percent Senior Notes due 2030. In May 2019, URNA issued $ 750 aggregate principal amount of 5 1 / 4 percent Senior Notes (the “5 1 / 4 percent Notes”) which are due January 15, 2030. The 5 1 / 4 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 5 1 / 4 percent Notes may be redeemed on or after January 15, 2025, at specified redemption prices that range from 102.625 percent in 2025, to 100 percent in 2028 and thereafter, in each case, plus accrued and unpaid interest, if any. In addition, at any time on or prior to January 15, 2023, up to 40 percent of the aggregate principal amount of the 5 1 / 4 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 105.250 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 5 1 / 4 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens; (ii) mergers and consolidations; and (iii) dividends and other distributions, stock repurchases and redemptions and other restricted payments, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the covenant relating to dividends and other distributions, stock repurchases and redemptions and other restricted payments and the requirements relating to additional subsidiary guarantors will not apply to URNA and its restricted subsidiaries during any period when the 5 1 / 4 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 5 1 / 4 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+4 percent Senior Notes due 2030. In February 2020, URNA issued $ 750 aggregate principal amount of 4 percent Senior Notes (the “4 percent Notes”) which are due July 15, 2030. The 4 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 4 percent Notes may be redeemed on or after July 15, 2025, at specified redemption prices that range from 102.000 percent in 2025, to 100 percent in 2028 and thereafter, in each case, plus accrued and unpaid interest, if any. In addition, at any time on or prior to July 15, 2023, up to 40 percent of the aggregate principal amount of the 4 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 104.000 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 4 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 4 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 4 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+3 7 / 8 percent Senior Notes due 2031. In August 2020, URNA issued $ 1.100 billion aggregate principal amount of 3 7 / 8 percent Senior Notes (the “3 7 / 8 percent Notes”) which are due February 15, 2031. The 3 7 / 8 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 3 7 / 8 percent Notes may be redeemed on or after August 15, 2025, at specified redemption prices that range from 101.938 percent in 2025, to 100 percent in 2028 and thereafter,
+
+in each case, plus accrued and unpaid interest, if any. In addition, at any time on or prior to August 15, 2023, up to 40 percent of the aggregate principal amount of the 3 7 / 8 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 103.875 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 3 7 / 8 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 3 7 / 8 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 3 7 / 8 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+3 3 / 4 percent Senior Notes due 2032. In August 2021, URNA issued $ 750 aggregate principal amount of 3 3 / 4 percent Senior Notes (the “3 3 / 4 percent Notes”) which are due January 15, 2032. The 3 3 / 4 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 3 3 / 4 percent Notes may be redeemed on or after July 15, 2026, at specified redemption prices that range from 101.875 percent in 2026, to 100 percent in 2029 and thereafter, in each case, plus accrued and unpaid interest, if any. In addition, at any time on or prior to July 30, 2024, up to 40 percent of the aggregate principal amount of the 3 3 / 4 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 103.750 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 3 3 / 4 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 3 3 / 4 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 3 3 / 4 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+5 3 / 8 percent Senior Notes due 2033. In December 2025, URNA issued $ 1.500 billion aggregate principal amount of 5 3 / 8 percent Senior Notes (the “5 3 / 8 percent Notes”) which are due November 15, 2033. The 5 3 / 8 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 5 3 / 8 percent Notes may be redeemed on or after November 15, 2028, at specified redemption prices that range from 102.688 percent in 2028, to 100 percent in 2030 and thereafter, in each case, plus accrued and unpaid interest, if any. At any time prior to November 15, 2028, URNA may, at its option, redeem some or all of the 5 3 / 8 percent Notes at a redemption price equal to 100 percent of the aggregate principal amount of the notes to be redeemed, plus a “make-whole” premium and accrued and unpaid interest, if any, to the redemption date. In addition, at any time on or prior to November 15, 2028, up to 40 percent of the aggregate principal amount of the 5 3 / 8 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 105.375 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 5 3 / 8 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 5 3 / 8 percent Notes are rated investment grade by at least two of Standard & Poor’s Ratings Services, Moody’s Investors Service, Inc. and Fitch Ratings, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 5 3 / 8 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+6 1 / 8 percent Senior Notes due 2034. In March 2024, URNA issued $ 1.100 billion aggregate principal amount of 6 1 / 8 percent Senior Notes (the “6 1 / 8 percent Notes”) which are due March 15, 2034. The 6 1 / 8 percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 6 1 / 8 percent Notes may be redeemed on or after March 15, 2029, at specified redemption prices that range from 103.063 percent in 2029, to 100 percent in 2032 and thereafter,
+
+in each case, plus accrued and unpaid interest, if any. At any time prior to March 15, 2029, URNA may, at its option, redeem some or all of the 6 1 / 8 percent Notes at a redemption price equal to 100 percent of the aggregate principal amount of the notes to be redeemed, plus a “make-whole” premium and accrued and unpaid interest, if any, to the redemption date. In addition, at any time on or prior to March 15, 2027, up to 40 percent of the aggregate principal amount of the 6 1 / 8 percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to 106.125 percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 6 1 / 8 percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 6 1 / 8 percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 6 1 / 8 percent Notes tendered at a purchase price in cash equal to 101 percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+
+Loan Covenants and Compliance
+
+As of December 31, 2025, we were in compliance with the covenants and other provisions of the ABL, accounts receivable securitization and term loan facilities and the senior notes. Any failure to be in compliance with any material provision or covenant of these agreements could have a material adverse effect on our liquidity and operations.
+
+The only financial covenant that currently exists under the ABL facility is the fixed charge coverage ratio. Subject to certain limited exceptions specified in the ABL facility, the fixed charge coverage ratio covenant under the ABL facility will only apply in the future if specified availability under the ABL facility falls below 10 percent of the maximum revolver amount under the ABL facility for five consecutive business days. When certain conditions are met, cash and cash equivalents and borrowing base collateral in excess of the ABL facility size may be included when calculating specified availability under the ABL facility. As of December 31, 2025, specified availability under the ABL facility exceeded the required threshold and, as a result, this financial covenant was inapplicable. Under our accounts receivable securitization facility, we are required, among other things, to maintain certain financial tests relating to: (i) the default ratio, (ii) the delinquency ratio, (iii) the dilution ratio and (iv) days sales outstanding. The accounts receivable securitization facility also requires us to comply with the fixed charge coverage ratio under the ABL facility, to the extent the ratio is applicable under the ABL facility.
+
+Covenants in the agreements governing our ABL facility, term loan facility and certain other debt instruments impose limitations on our ability to make share repurchases and dividend payments, subject to important exceptions that would allow us to make such repurchases or payments under certain conditions. Based on our current total indebtedness leverage ratio (as defined in the applicable debt agreements) and usage of the ABL facility as of December 31, 2025, we met the criteria under the applicable debt agreements for these exceptions, and as a result we were not restricted in our ability to make share repurchases and dividend payments.
+
+Maturities
+
+Debt maturities (exclusive of any unamortized original issue premiums and unamortized debt issuance costs) for each of the next five years and thereafter at December 31, 2025 are as follows:
+
+12. Leases
+
+As discussed in note 3 to the consolidated financial statements, most of our equipment rental revenue is accounted for as lease revenue under Topic 842 (such revenue represented 77 percent of our total revenues for the year ended December 31,
+
+2025). See note 3 for a discussion of our revenue accounting (such discussion includes lessor disclosures required under Topic 842).
+
+We determine if an arrangement is a lease at inception. Our material lease contracts are generally for real estate or vehicles, and the determination of whether such contracts contain leases generally does not require significant estimates or judgments. We lease real estate and equipment under operating leases. We lease a significant portion of our branch locations, and also lease other premises used for purposes such as district and regional offices and service centers. Our finance lease obligations consist primarily of rental equipment (primarily vehicles) and building leases.
+
+Operating leases result in the recognition of right-of-use (“ROU”) assets and lease liabilities on the balance sheet. ROU assets represent our right to use the leased asset for the lease term and lease liabilities represent our obligation to make lease payments. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we use our estimated incremental borrowing rate at the commencement date to determine the present value of lease payments. The operating lease ROU assets also include any lease payments made and exclude lease incentives. Our lease terms may include options, at our sole discretion, to extend or terminate the lease that we are reasonably certain to exercise. The amount of payments associated with such options reflected in the “Maturity of lease liabilities” table below is not material. Most real estate leases include one or more options to renew, with renewal terms that can extend the lease term from 1 to 5 years or more. Lease expense is recognized on a straight-line basis over the lease term.
+
+Leases with an initial term of 12 months or less are not recorded on the balance sheet. Lease expense on such leases is recognized on a straight-line basis over the lease term. The primary leases we enter into with initial terms of 12 months or less are for equipment that we rent from vendors and then rent to our customers. We generate sublease revenue from such leases that we refer to as “re-rent revenue” as discussed in note 3 to the consolidated financial statements. Apart from the re-rent revenue discussed in note 3, we do not generate material sublease income.
+
+We have lease agreements with lease and non-lease components, and, for our real estate operating leases, we account for the lease and non-lease components as a single lease component. Our lease agreements do not contain any material residual value guarantees or material restrictive covenants.
+
+The tables below present financial information associated with our leases as of December 31, 2025 and 2024, and for the years ended December 31, 2025, 2024 and 2023.
+
+_________________
+
+(1) Includes variable lease costs, which are immaterial. Cost of equipment rentals, excluding depreciation for the years ended December 31, 2025, 2024 and 2023 includes $ 233 , $ 222 and $ 209 , respectively, of short-term lease costs associated with equipment that we rent from vendors and then rent to our customers, as discussed further above. Apart from these costs, short-term lease costs are immaterial.
+
+(2) The amounts above primarily reflect charges associated with a restructuring program initiated following the closing of the Ahern Rentals acquisition.
+
+(3) Primarily reflects re-rent revenue as discussed further above.
+
+_________________
+
+(1) Reflects payments for non-cancelable operating leases with initial or remaining terms of one year or more as of December 31, 2025. The table above does not include any legally binding minimum lease payments for leases signed but not yet commenced, and such leases are not material in the aggregate.
+
+(2) The table above does not include any legally binding minimum lease payments for leases signed but not yet commenced, and such leases are not material in the aggregate.
+
+13. Income Taxes
+
+Income before provision for income taxes for each of the three years in the period ended December 31, 2025 was as follows:
+
+A reconciliation of the provision (benefit) for income taxes and the amount computed by applying the statutory federal income tax rate of 21 percent to the income before provision for income taxes for each of the three years in the period ended
+
+_________________
+
+(1) The states that, in the aggregate, accounted for over 50 percent of the effect of the state and local income taxes shown above were: (i) for 2025, Alabama, California, Florida, Georgia, New Jersey, New York, Pennsylvania and Texas, (ii) for 2024, California, Florida, Georgia, New Jersey and New York, and (iii) for 2023, California, Florida, Georgia, New Jersey, New York and Pennsylvania.
+
+(2) The lower percent for 2024 primarily reflects a benefit recognized in 2024 associated with decreases to the average state tax rates. The year-over-year increase in the percent for 2025 primarily reflects the lack of a similar benefit in 2025.
+
+The components of deferred income tax assets (liabilities) were as follows:
+
+The following table summarizes the activity related to unrecognized tax benefits, some of which would impact our effective tax rate if recognized:
+
+We include interest accrued on the underpayment of income taxes in interest expense, net, and penalties, if any, related to unrecognized tax benefits in selling, general and administrative expense. The amounts of such interest or penalties were no t material ($5 or less) in each of the years ended December 31, 2025, 2024 and 2023. We believe that it is reasonably possible that a decrease of up to $ 6 in federal and state unrecognized tax benefits may be necessary within the next year, as a result of settlements.
+
+On July 4, 2025, new federal tax legislation (“H.R.1”) was enacted. The relevant effects of this legislation include making 100 percent bonus depreciation permanent, the permanent restoration of the ability of taxpayers to immediately expense certain domestic research and experimental expenditures, and the restoration of EBITDA-based interest deduction limitations. In addition, H.R.1 includes international tax provisions, including eliminating the net deemed tangible income return, decreasing the tax rates and taxable income computations applicable to global intangible low-taxed income (“GILTI”) and foreign derived intangible income (“FDII”), and permanently increasing the base erosion and anti-abuse minimum tax (“BEAT”) rate. Upon enactment in the third quarter of 2025, the legislation (i) did not materially impact our effective tax rate, (ii) decreased our cash income tax liability and (iii) increased our deferred tax liability. We continue to evaluate the provisions of the legislation and its potential effects on our financial position, results of operations, and cash flows, and disclosures addressing any material financial statement impact will be provided in future periods as the impact of the legislation is determined.
+
+The following table summarizes income taxes paid (net of refunds received). All jurisdictions in which income taxes paid (net of refunds received) were equal to or greater than five percent of total income taxes paid are included below (if the noted jurisdiction did not meet the five percent threshold for a particular year, the amount for that year is not included below).
+
+(1) Cash taxes paid in 2025 decreased from 2024 primarily due to the impact of H.R.1, which is discussed above. Cash taxes paid in 2024 increased from 2023 primarily due to a reduction in the bonus depreciation percent from 80 percent to 60 percent, increased revenue year-over-year, estimated tax overpayments from 2022 that were utilized in 2023, the deferral of a portion of 2023 federal estimated payments into 2024, and normal variability in tax attributes.
+
+We file income tax returns in the U.S., Canada, Europe, Australia and New Zealand. Without exception, we have completed our domestic and international income tax examinations, or the statute of limitations has expired in the respective jurisdictions, for years prior to 2012.
+
+We have historically considered the undistributed earnings of our foreign subsidiaries to be indefinitely reinvested, and, accordingly, no taxes were provided on such earnings prior to the fourth quarter of 2020. In 2021, we remitted the cumulative amount of identified cash in our foreign operations in excess of near-term working capital needs. In the fourth quarter of 2025, in connection with a restructuring of our international holdings, we identified $ 324 of distributable foreign earnings that we have determined should no longer be considered indefinitely reinvested. We expect to remit the cash that is no longer
+
+considered indefinitely reinvested in 2026, and, in the fourth quarter of 2025, we recorded immaterial taxes associated with the planned repatriation.
+
+We continue to expect that our undistributed foreign earnings, excluding the distributable foreign earnings described above, will be indefinitely reinvested. If we determine that all or a portion of such foreign earnings are no longer indefinitely reinvested, we may be subject to additional foreign withholding taxes and U.S. state income taxes. At December 31, 2025, unremitted earnings of foreign subsidiaries were $ 1.621 billion. Determination of the amount of unrecognized deferred tax liability on these unremitted earnings is not practicable.
+
+We have net operating loss carryforwards (“NOLs”) of $ 15 for federal income tax purposes, $ 16 of NOLs for foreign income tax purposes (the majority of which has an indefinite life) and $ 224 of NOLs for state income tax purposes that expire from 2026 through 2034.
+
+The European Union (“EU”) member states have formally adopted the EU’s Pillar Two Directive, which was established by the Organization for Economic Co-operation and Development, and which generally provides for a 16 percent minimum effective tax rate for multinational enterprises, in every jurisdiction in which they operate. While we do not anticipate that this will have a material impact on our tax provision or effective tax rate, we continue to monitor evolving tax legislation in the jurisdictions in which we operate. We are also monitoring ongoing international tax discussions, including recent G-7 statements regarding a “side-by-side” system, but no changes associated with such discussions have been enacted as of the date of this report.
+
+14. Commitments and Contingencies
+
+We are subject to a number of claims and proceedings that generally arise in the ordinary conduct of our business. These matters include, but are not limited to, general liability claims (including personal injury, product liability, and property and automobile claims), indemnification and guarantee obligations, employee injuries and employment-related claims, self-insurance obligations and contract and real estate matters. Based on advice of counsel and available information, including current status or stage of proceeding, and taking into account accruals included in our consolidated balance sheets for matters where we have established them, we currently believe that any liabilities ultimately resulting from these ordinary course claims and proceedings will not, individually or in the aggregate, have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+
+Indemnification
+
+The Company indemnifies its officers and directors pursuant to indemnification agreements and may in addition indemnify these individuals as permitted by Delaware law.
+
+Employee Benefit Plans
+
+We currently sponsor two defined contribution 401(k) retirement plans, which are subject to the provisions of the Employee Retirement Income Security Act of 1974. We also sponsor a deferred profit sharing plan and a registered retirement savings plan for the benefit of the full-time employees of our Canadian subsidiaries, and also make contributions for employees in Australia and New Zealand. Under these plans, we match a percentage of the participants’ contributions up to a specified amount. Company contributions to the plans were $ 65 , $ 59 and $ 56 in the years ended December 31, 2025, 2024 and 2023, respectively.
+
+Environmental Matters
+
+The Company and its operations are subject to various laws and related regulations governing environmental matters. Under such laws, an owner or lessee of real estate may be liable for the costs of removal or remediation of certain hazardous or toxic substances located on or in, or emanating from, such property, as well as investigation of property damage. We incur ongoing expenses associated with the performance of appropriate remediation at certain locations.
+
+15. Common Stock
+
+We have 500 million authorized shares of common stock, $ 0.01 par value. At December 31, 2025 and 2024, there were 0.0 million shares of common stock reserved for issuance pursuant to options granted under our stock option plans.
+
+As of December 31, 2025, there were an aggregate of 0.3 million outstanding time and performance-based RSUs and 0.8 million shares available for grants of stock and options under our 2019 Long Term Incentive Plan.
+
+A summary of the transactions within the Company’s stock option plans follows (shares in thousands):
+
+The following table presents information associated with stock options as of December 31, 2025 and 2024, and for the years ended December 31, 2025, 2024 and 2023. No stock options were granted during any of the years presented below.
+
+In addition to stock options, the Company issues time-based and performance-based RSUs to certain officers and key executives under various equity incentive plans. The RSUs automatically convert to shares of common stock on a one -for-one basis as the awards vest. The time-based RSUs typically vest over a three year vesting period beginning 12 months from the grant date and thereafter annually on the anniversary of the grant date. The performance-based RSUs vest based on the achievement of the performance conditions during the applicable performance periods (currently the calendar year). There were 129 thousand shares of common stock issued upon vesting of RSUs during 2025, net of 79 thousand shares surrendered to satisfy tax obligations. The Company measures the value of RSUs at fair value based on the closing price of the underlying common stock on the grant date. The Company amortizes the fair value of outstanding RSUs as stock-based compensation expense over the requisite service period on a straight-line basis, or sooner if the employee effectively vests upon termination of employment under certain circumstances. For performance-based RSUs, compensation expense is recognized to the extent that the satisfaction of the performance condition is considered probable.
+
+A summary of RSUs granted follows (RSUs in thousands):
+
+As of December 31, 2025, the total pretax compensation cost not yet recognized by the Company with regard to unvested RSUs was $ 80 . The weighted-average period over which this compensation cost is expected to be recognized is 1.4 years.
+
+A summary of RSU activity for the year ended December 31, 2025 follows (RSUs in thousands):
+
+The total fair value of RSUs vested during the fiscal years ended December 31, 2025, 2024 and 2023 was $ 121 , $ 108 and $ 95 , respectively.
+
+Dividend Policy . Our Board of Directors approved a quarterly dividend program in January 2023, and the first such dividend under the program was paid in February 2023. The payment of any future dividends or the authorization of stock repurchases or other recapitalizations will be determined by our Board of Directors in light of conditions then existing, including earnings, financial condition and capital requirements, financing agreements, business conditions, stock price and other factors. The terms of certain agreements governing our outstanding indebtedness contain certain limitations on our ability to move operating cash flows to Holdings and/or to pay dividends on, or effect repurchases of, our common stock. In addition, under Delaware law, dividends may only be paid out of surplus or current or prior year’s net profits.
+
+Stockholders’ Rights Plan. Our stockholders' rights plan expired in accordance with its terms in 2011. Our Board of Directors elected not to renew or extend the plan.
+
+16. Quarterly Financial Information (Unaudited)
+
+(1) As discussed in note 11 to the consolidated financial statements, in the fourth quarter of 2025, we issued $ 1.500 billion principal amount of 5 3 / 8 percent Senior Notes due 2033. The net proceeds of the issuance were used to redeem all $ 500 principal amount of our 5 1 / 2 percent Senior Notes due 2027 and to reduce drawings on our ABL facility. There were no unusual or infrequently occurring items recognized in the fourth quarter of 2024 that had a material impact on our financial statements.
+
+(2) Diluted earnings per share includes the after-tax impacts of the following:
+
+(3) This reflects the amortization of the intangible assets acquired in the major acquisitions that significantly impact our operations (the “major acquisitions,” each of which had annual revenues of over $ 200 prior to acquisition).
+
+(4) This reflects the impact of extending the useful lives of equipment acquired in certain major acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment.
+
+(5) This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in certain major acquisitions that was subsequently sold. The year-over-year decreases in 2025 primarily reflect the impact of the Ahern Rentals acquisition.
+
+(6) This primarily reflects severance costs and branch closure charges associated with our restructuring programs. See note 5 to the consolidated financial statements for additional detail on our restructuring programs.
+
+(7) This reflects write-offs of leasehold improvements and other fixed assets.
+
+17. Earnings Per Share
+
+Basic earnings per share is computed by dividing net income available to common stockholders by the weighted-average number of common shares outstanding. Diluted earnings per share is computed by dividing net income available to common stockholders by the weighted-average number of common shares plus the effect of dilutive potential common shares outstanding during the period. The following table sets forth the computation of basic and diluted earnings per share (shares in thousands):
+
+SCHEDULE II—VALUATION AND QUALIFYING ACCOUNTS
+
+UNITED RENTALS, INC.
+
+(In millions)
+
+The above information reflects the continuing operations of the Company for the periods presented. Additionally, because the Company has retained certain self-insurance liabilities associated with the discontinued traffic control business, those amounts have been included as well.
+
+(a) Amounts charged to cost and expenses reflect bad debt expenses recognized within selling, general and administrative expenses. The amounts charged to revenue primarily reflect credit losses associated with lease revenues that were recognized as a reduction to equipment rentals revenue.
+
+(b) Primarily represents write-offs of accounts, net of recoveries and other activity.
+
+(c) Primarily represents payments.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company’s reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to management, including the Company’s Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+The Company’s management carried out an evaluation, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures, as defined in Rules 13a–15(e) and 15d–15(e) of the Exchange Act, as of December 31, 2025. Based on the evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were effective as of December 31, 2025.
+
+Management’s Annual Report on Internal Control over Financial Reporting
+
+The Company’s management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a–15(f) and 15d–15(f) under the Exchange Act. The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP. The Company’s internal control over financial reporting includes those policies and procedures that: (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Under the supervision of our Chief Executive Officer and Chief Financial Officer, our management assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, 2025. In making this assessment, management used the criteria set forth in Internal Control—Integrated Framework (2013 framework) issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”). Based on this assessment, our management has concluded that the Company’s internal control over financial reporting was effective as of December 31, 2025.
+
+The Company’s financial statements included in this annual report on Form 10-K have been audited by Ernst & Young LLP, independent registered public accounting firm, as indicated in the following report. Ernst & Young LLP has also provided an attestation report on the Company’s internal control over financial reporting.
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of United Rentals, Inc.
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited United Rentals, Inc.’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, United Rentals, Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, stockholders’ equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes and financial statement schedule listed in the Index at Item 15(a) and our report dated January 28, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+Stamford, Connecticut
+
+January 28, 2026
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting during the quarter ended December 31, 2025 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Item 9B. Other Information
+
+Insider Trading Arrangements
+
+Certain of our officers or directors have made, and may from time to time make, elections to have shares withheld or sold back to Holdings to cover withholding taxes, which may constitute non-Rule 10b5-1 trading arrangements (as defined in Item 408(c) of Regulation S-K).
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not applicable.
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+The information required by this Item is incorporated by reference to the applicable information in our Proxy Statement related to the 2026 Annual Meeting of Stockholders, which is expected to be filed with the SEC on or before March 25, 2026 (the “2026 Proxy Statement”).
+
+Item 11. Executive Compensation
+
+The information required by this Item is incorporated by reference to the applicable information in the 2026 Proxy Statement.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by this Item is incorporated by reference to the applicable information in the 2026 Proxy Statement.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this Item is incorporated by reference to the applicable information in the 2026 Proxy Statement.
+
+Item 14. Principal Accountant Fees and Services
+
+Our independent registered public accounting firm is Ernst & Young LLP , Stamford, Connecticut , Auditor Firm ID: 42 .
+
+The information required by this Item is incorporated by reference to the applicable information in the 2026 Proxy Statement.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+(a) Documents filed as a part of this report
+
+(1) Consolidated financial statements:
+
+Report of Independent Registered Public Accounting Firm on Consolidated Financial Statements
+
+United Rentals, Inc. Consolidated Balance Sheets at December 31, 2025 and 2024
+
+United Rentals, Inc. Consolidated Statements of Income for the years ended December 31, 2025, 2024 and 2023
+
+United Rentals, Inc. Consolidated Statements of Comprehensive Income for the years ended December 31, 2025, 2024 and 2023
+
+United Rentals, Inc. Consolidated Statements of Stockholders' Equity for the years ended December 2025, 2024 and 2023
+
+United Rentals, Inc. Consolidated Statements of Cash Flows for the years ended December 31, 2025, 2024 and 2023
+
+Notes to consolidated financial statements
+
+Report of Independent Registered Public Accounting Firm on Internal Controls over Financial Reporting
+
+(2) Schedules to the financial statements:
+
+Schedule II Valuation and Qualifying Accounts
+
+Schedules other than those listed are omitted as they are not applicable or the required or equivalent information has been included in the financial statements or notes thereto.
+
+(3) Exhibits: The exhibits to this report are listed in the exhibit index below.
+
+(b) Description of exhibits
+
+* Filed herewith.
+
+** Furnished (and not filed) herewith pursuant to Item 601(b)(32)(ii) of Regulation S-K under the Exchange Act.
+
+‡ This document is a management contract or compensatory plan or arrangement required to be filed as an exhibit to this form pursuant to Item 15(a) of this report.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Exchange Act, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Pursuant to the requirements of the Exchange Act, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated:

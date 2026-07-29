@@ -1,0 +1,1551 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Additional information about restrictions on the transfer of funds from State Street Bank to the Parent Company is provided under “Related Stockholder Matters” in Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities, and under “Capital” in “Financial Condition” in our Management’s Discussion and Analysis in this Form 10-K.
+
+State Street Corporation | 114
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and the Board of Directors of State Street Corporation
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated statements of condition of State Street Corporation (the Corporation) as of December 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, changes in shareholders’ equity and cash flows for each of the three years in the period ended December 31, 2025, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Corporation at December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Corporation’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 19, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Corporation’s management. Our responsibility is to express an opinion on the Corporation’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Corporation in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+State Street Corporation | 115
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosures to which it relates.
+
+/s/ Ernst & Young LLP
+
+We have served as the Corporation's auditor since 1972.
+
+Boston, Massachusetts
+
+February 19, 2026
+
+State Street Corporation | 116
+
+STATE STREET CORPORATION
+
+CONSOLIDATED STATEMENT OF INCOME
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+State Street Corporation | 117
+
+STATE STREET CORPORATION
+
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+State Street Corporation | 118
+
+STATE STREET CORPORATION
+
+CONSOLIDATED STATEMENT OF CONDITION
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+State Street Corporation | 119
+
+STATE STREET CORPORATION
+
+CONSOLIDATED STATEMENT OF CHANGES IN SHAREHOLDERS’ EQUITY
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+State Street Corporation | 120
+
+STATE STREET CORPORATION
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+State Street Corporation | 121
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The accounting and financial reporting policies of State Street Corporation conform to U.S. GAAP. State Street Corporation, the Parent Company, is a financial holding company headquartered in Boston, Massachusetts. Unless otherwise indicated or unless the context requires otherwise, all references in these notes to consolidated financial statements to “State Street,” “we,” “us,” “our” or similar references mean State Street Corporation and its subsidiaries on a consolidated basis, including our principal banking subsidiary, State Street Bank.
+
+We have two lines of business:
+
+Investment Servicing provides a broad range of investment servicing and market and financing solutions to institutional clients, including mutual funds, collective investment funds and other investment pools, corporate and public retirement plans, insurance companies, wealth managers, investment managers, foundations and endowments worldwide.
+
+Through State Street Investment Services and State Street Markets, we offer a full range of back-, middle- and front-office solutions, including custody, accounting and fund administration services for traditional and alternative assets, as well as multi-asset class investments; recordkeeping, client reporting and investment book of record, transaction management, loans, cash, derivatives and collateral services; investor services operations outsourcing; performance, risk and compliance analytics; financial data management to support institutional investors; foreign exchange, brokerage and other trading services; securities finance, including prime services products; and deposit and short-term investment facilities.
+
+Together with our back- and middle-office services, CRD’s front- and middle-office technology offerings form the foundation of State Street Alpha. Our State Street Alpha platform combines portfolio management, trading and execution, analytics and compliance tools, along with advanced data aggregation and integration with other industry platforms and providers. Included in CRD’s technology offerings are Charles River Investment Management Solution, a front-office technology offering that automates and simplifies the institutional investment process across asset classes, from portfolio management and risk analytics through trading and post-trade settlement, with integrated compliance and managed data throughout; Charles River for Private Markets, an investment management solution for institutions investing in Private Credit, Private Equity, Real Estate,
+
+Infrastructure, and Funds; and Charles River Wealth Management Solution, which provides portfolio management, trading compliance and manager/sponsor communication capabilities to wealth managers, private banks and financial advisors.
+
+Investment Management provides a comprehensive range of investment management solutions and products for our clients through State Street Investment Management (previously State Street Global Advisors). Our investment management solutions span across equity, fixed income, liquidity and cash, multi-asset and alternatives strategies, delivered through products such as ETFs, custom indexed, and actively managed funds and mandates.
+
+Consolidation
+
+Our consolidated financial statements include the accounts of the Parent Company and its majority- and wholly-owned and otherwise controlled subsidiaries, including State Street Bank. All material inter-company transactions and balances have been eliminated. Certain previously reported amounts have been reclassified to conform to current-year presentation.
+
+We consolidate subsidiaries in which we exercise control. Equity investments where we have the ability to exercise significant influence over the operations of the investee are generally accounted for under the equity method of accounting and are recorded in other assets. Income or losses from investments accounted for under the equity method are recorded in other fee revenue in our consolidated statement of income. Equity investments that do not meet the criteria for equity-method treatment are measured at fair value through earnings, except for investments in low-income housing and production tax credit entities (see Note 14 for further information) or where one of two U.S. GAAP exceptions applies. The first exception allows Federal Reserve Bank stock, Federal Home Loan Bank stock and exchange memberships to remain accounted for at cost, less impairment. The second exception is for equity investments where fair market value is not readily available, which are accounted for at cost, less impairment, adjusted for any observable price changes in orderly transactions for the identical or a similar investment of the same issuer, with any such changes reflected in other fee revenue.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions in the application of certain of our significant accounting policies that may materially affect the reported amounts of assets, liabilities, equity, revenue and expenses. As a result of unanticipated events or
+
+State Street Corporation | 122
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+circumstances, actual results could differ from those estimates. Foreign Currency Translation The assets and liabilities of our operations with functional currencies other than the U.S. dollar are translated at month-end exchange rates, and revenue and expenses are translated at rates that approximate average monthly exchange rates. Gains or losses from the translation of the net assets of subsidiaries with functional currencies other than the U.S. dollar, net of related taxes, are recorded in AOCI, a component of shareholders’ equity. Cash and Cash Equivalents For purposes of the consolidated statement of cash flows, cash and cash equivalents are defined as cash and due from banks. Sanctions programs or government intervention may inhibit our ability to access cash and due from banks in certain accounts. For example, as of December 31, 2025 and 2024, we held such accounts in Russia that were subject to sanctions restrictions, inclusive of $ 1.6 billion and $ 0.8 billion, respectively, with our subcustodian, and with western European-based clearing agencies, for a total of approximately $ 2.4 billion and $ 1.3 billion, respectively. Cash and due from banks is evaluated as part of our allowance for credit losses. Interest-Bearing Deposits with Banks Interest-bearing deposits with banks generally consist of highly liquid, short-term investments maintained at the Federal Reserve Bank and other non-U.S. central banks with original maturities at the time of purchase of one month or less. Securities Purchased Under Resale Agreements and Securities Sold Under Repurchase Agreements Securities purchased under resale agreements and sold under repurchase agreements are accounted for as collateralized financing transactions, and are recorded in our consolidated statement of condition at the amounts at which the securities will be subsequently resold or repurchased, plus accrued interest. Our policy is to take possession or control of securities underlying resale agreements either directly or through agent banks, allowing borrowers the right of collateral substitution and/or short-notice termination. We revalue these securities daily to determine if additional collateral is necessary from the borrower to protect us against credit exposure. We
+
+circumstances, actual results could differ from those estimates.
+
+Foreign Currency Translation
+
+The assets and liabilities of our operations with functional currencies other than the U.S. dollar are translated at month-end exchange rates, and revenue and expenses are translated at rates that approximate average monthly exchange rates. Gains or losses from the translation of the net assets of subsidiaries with functional currencies other than the U.S. dollar, net of related taxes, are recorded in AOCI, a component of shareholders’ equity.
+
+Cash and Cash Equivalents
+
+For purposes of the consolidated statement of cash flows, cash and cash equivalents are defined as cash and due from banks.
+
+Sanctions programs or government intervention may inhibit our ability to access cash and due from banks in certain accounts. For example, as of December 31, 2025 and 2024, we held such accounts in Russia that were subject to sanctions restrictions, inclusive of $ 1.6 billion and $ 0.8 billion, respectively, with our subcustodian, and with western European-based clearing agencies, for a total of approximately $ 2.4 billion and $ 1.3 billion, respectively. Cash and due from banks is evaluated as part of our allowance for credit losses.
+
+Interest-Bearing Deposits with Banks
+
+Interest-bearing deposits with banks generally consist of highly liquid, short-term investments maintained at the Federal Reserve Bank and other non-U.S. central banks with original maturities at the time of purchase of one month or less.
+
+Securities Purchased Under Resale Agreements and Securities Sold Under Repurchase Agreements
+
+Securities purchased under resale agreements and sold under repurchase agreements are accounted for as collateralized financing transactions, and are recorded in our consolidated statement of condition at the amounts at which the securities will be subsequently resold or repurchased, plus accrued interest. Our policy is to take possession or control of securities underlying resale agreements either directly or through agent banks, allowing borrowers the right of collateral substitution and/or short-notice termination. We revalue these securities daily to determine if additional collateral is necessary from the borrower to protect us against credit exposure. We
+
+can use these securities as collateral for repurchase agreements.
+
+For securities sold under repurchase agreements collateralized by our investment securities portfolio, the dollar value of the securities remains in investment securities in our consolidated statement of condition. Where a master netting agreement exists or when both parties are members of a common clearing organization, resale and repurchase agreements are recorded on a net basis when specific netting criteria are met.
+
+Fee and Net Interest Income
+
+The majority of fees from investment servicing, investment management, securities finance, trading services and certain types of software and processing fees are recorded in our consolidated statement of income based on the consideration specified in contracts with our customers, and excludes taxes collected from customers subsequently remitted to governmental authorities. We recognize revenue as the services are performed or at a point in time depending on the nature of the services provided. Payments made to third party service providers are generally recognized on a gross basis when we control those services and are deemed to be the principal. Additional information about revenue from contracts with customers is provided in Note 25.
+
+Interest income on interest-earning assets and interest expense on interest-bearing liabilities are recorded in our consolidated statement of income as components of NII, and are generally based on the effective yield of the related financial asset or liability.
+
+Other Significant Policies
+
+The following table identifies our other significant accounting policies and the note and page where a detailed description of each policy can be found:
+
+State Street Corporation | 123
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Recent Accounting Developments
+
+Relevant standards that were adopted during the year ended December 31, 2025:
+
+We adopted ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, prospectively for the annual reporting period ending December 31, 2025. The standard aims to improve transparency and comparability of income tax disclosures primarily by requiring consistent and expanded disclosures related to the reconciliation of the statutory and effective tax rate and disaggregated disclosure of income taxes paid by jurisdiction. Refer to Note 22 for additional information.
+
+Relevant standards that were recently issued, but not yet adopted as of December 31, 2025
+
+Additionally, we continue to evaluate other accounting standards that were recently issued, but not yet adopted as of December 31, 2025; none are expected to have a material impact to our financial statements.
+
+Note 2. Fair Value
+
+Fair Value Measurements
+
+We carry trading account assets and liabilities, AFS debt securities, certain equity securities and various types of derivative financial instruments, at fair value in our consolidated statement of condition on a recurring basis. Changes in the fair values of these financial assets and liabilities are recorded either as components of our consolidated statement of income or as components of AOCI within shareholders’ equity in our consolidated statement of condition.
+
+We measure fair value for the above-described financial assets and liabilities in conformity with U.S. GAAP that governs the measurement of the fair value of financial instruments. Management believes that its valuation techniques and underlying assumptions used to measure fair value conform to the provisions of U.S. GAAP. We categorize the financial assets and liabilities that we carry at fair value based on a prescribed three-level valuation hierarchy. The hierarchy gives the highest priority to quoted prices in active markets for identical assets or liabilities (level 1) and the lowest priority to valuation methods using significant unobservable inputs (level 3). If the inputs used to measure a financial asset or liability cross different levels of the hierarchy, categorization is based on the lowest-level input that is significant to the fair-value measurement. Management’s assessment of the significance of a particular input to the overall fair-value measurement of a financial asset or liability requires judgment, and considers factors specific to that asset or liability. The three levels of the valuation hierarchy are described below.
+
+Level 1. Financial assets and liabilities with values based on unadjusted quoted prices for identical assets or liabilities in an active market. Our level 1 financial assets and liabilities primarily include positions in U.S. government securities and highly liquid U.S. and non-U.S. government fixed-income securities. Our level 1 financial assets also include actively traded exchange-traded equity securities.
+
+Level 2. Financial assets and liabilities with values based on quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the asset or liability. Level 2 inputs include the following:
+
+▪ Quoted prices for similar assets or liabilities in active markets;
+
+State Street Corporation | 124
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+▪ Quoted prices for identical or similar assets or liabilities in non-active markets;
+
+▪ Pricing models whose inputs are observable for substantially the full term of the asset or liability; and
+
+▪ Pricing models whose inputs are derived principally from, or corroborated by, observable market information through correlation or other means for substantially the full term of the asset or liability.
+
+Our level 2 financial assets and liabilities primarily include non-U.S. debt securities carried in trading account assets and various types of fixed-income AFS investment securities, as well as various types of foreign exchange and interest rate derivative instruments.
+
+Fair value for our AFS investment securities categorized in level 2 is measured primarily using information obtained from independent third parties. This third-party information is subject to review by management as part of a validation process, which includes obtaining an understanding of the underlying assumptions and the level of market participant information used to support those assumptions. In addition, management compares significant assumptions used by third parties to available market information. Such information may include known trades or, to the extent that trading activity is limited, comparisons to market research information pertaining to credit expectations, execution prices and the timing of cash flows and, where information is available, back-testing.
+
+Derivative instruments categorized in level 2 predominantly represent foreign exchange contracts used in our trading activities, for which fair value is measured using discounted cash-flow techniques, with inputs consisting of observable spot and forward points, as well as observable interest rate curves. With respect to derivative instruments, we evaluate the impact on valuation of the credit risk of our counterparties. We consider factors such as the likelihood of default by our counterparties, our current and potential future net exposures and remaining maturities in determining the fair value. Valuation adjustments associated with derivative instruments were not material to those instruments for the years ended December 31, 2025 and 2024.
+
+Level 3. Financial assets and liabilities with values based on prices or valuation techniques that require inputs that are both unobservable in the market and significant to the overall measurement of fair value. These inputs reflect management’s judgment about the assumptions that a market participant would use in pricing the financial asset or liability, and are based on the best available information, some of which may be internally developed. The following provides a more detailed discussion of our financial assets and liabilities that we may categorize in level 3 and the related valuation methodology:
+
+• The fair value of certain foreign exchange contracts, primarily options, is measured using an option-pricing model. Because of a limited number of observable transactions, certain model inputs are not observable, such as implied volatility surface, but are derived from observable market information.
+
+Our level 3 financial assets and liabilities are similar in structure and profile to our level 1 and level 2 financial instruments, but they trade in less liquid markets, and the measurement of their fair value is therefore less observable.
+
+State Street Corporation | 125
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following tables present information with respect to our financial assets and liabilities carried at fair value in our consolidated statement of condition on a recurring basis as of the dates indicated:
+
+(1) Represents counterparty netting against level 2 financial assets and liabilities where a legally enforceable master netting agreement exists between us and the counterparty. Netting also reflects asset and liability reductions of $ 2.48 billion and $ 1.61 billion, respectively, for cash collateral received from and provided to derivative counterparties.
+
+(2) Consists entirely of non-agency CMBS.
+
+State Street Corporation | 126
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(1) Represents counterparty netting against level 2 financial assets and liabilities where a legally enforceable master netting agreement exists between us and the counterparty. Netting also reflects asset and liability reductions of $ 1.86 billion and $ 6.10 billion, respectively, for cash collateral received from and provided to derivative counterparties.
+
+(2) Consists entirely of non-agency CMBS.
+
+State Street Corporation | 127
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Financial Instruments Not Carried at Fair Value
+
+Estimates of fair value for financial instruments not carried at fair value in our consolidated statement of condition are generally subjective in nature, and are determined as of a specific point in time based on the characteristics of the financial instruments and relevant market information. Disclosure of fair value estimates is not required by U.S. GAAP for certain items, such as lease financing, equity-method investments, obligations for pension and other post-retirement plans, premises and equipment, other intangible assets and income-tax assets and liabilities. Accordingly, aggregate fair-value estimates presented do not purport to represent, and should not be considered representative of, our underlying “market” or franchise value. In addition, because of potential differences in methodologies and assumptions used to estimate fair values, our estimates of fair value should not be compared to those of other financial institutions.
+
+We use the following methods to estimate the fair values of our financial instruments:
+
+• For financial instruments that have quoted market prices, those quoted prices are used to estimate fair value;
+
+• For financial instruments that have no defined maturity, have a remaining maturity of 180 days or less, or reprice frequently to a market rate, we assume that the fair value of these instruments approximates their reported value, after taking into consideration any applicable credit risk; and
+
+• For financial instruments for which no quoted market prices are available, fair value is estimated using information obtained from independent third parties, or by discounting the expected cash flows using an estimated current market interest rate for the financial instrument.
+
+The generally short duration of certain of our assets and liabilities results in a significant number of financial instruments for which fair value equals or closely approximates the amount recorded in our consolidated statement of condition. These financial instruments are reported in the following captions in our consolidated statement of condition: cash and due from banks; interest-bearing deposits with banks; securities purchased under resale agreements; accrued interest and fees receivable; deposits; securities sold under repurchase agreements; federal funds purchased; and other short-term borrowings.
+
+In addition, due to the relatively short duration of certain of our loans, we consider fair value for these loans to approximate their reported value. The fair value of other types of loans, such as commercial loans, commercial real estate loans, purchased receivables and municipal loans is estimated using information obtained from independent third parties or by discounting expected future cash flows using current rates at which similar loans would be made to borrowers with similar credit ratings for the same remaining maturities. Commitments to lend have no reported value because their terms are at prevailing market rates.
+
+State Street Corporation | 128
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following tables present the reported amounts and estimated fair values of the financial assets and liabilities not carried at fair value, as they would be categorized within the fair value hierarchy, as of the dates indicated:
+
+(2) Represents a portion of underlying client assets related to our prime services business, which clients have allowed us to transfer and re-pledge.
+
+(1) Includes $ 14 million of loans classified as held-for-sale that were measured at fair value in level 2 as of December 31, 2024.
+
+(2) Represents a portion of underlying client assets related to our prime services business, which clients have allowed us to transfer and re-pledge.
+
+State Street Corporation | 129
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 3. Investment Securities
+
+Investment securities held by us are classified as either trading account assets, AFS, HTM or equity securities held at fair value at the time of purchase and reassessed periodically, based on management’s intent.
+
+Generally, trading assets are debt and equity securities purchased in connection with our trading activities and, as such, are expected to be sold in the near term. Our trading activities typically involve active and frequent buying and selling with the objective of generating profits on short-term movements. AFS investment securities are those securities that we intend to hold for an indefinite period of time. AFS investment securities include securities utilized as part of our asset and liability management activities that may be sold in response to changes in interest rates, prepayment risk, liquidity needs or other factors. HTM securities are debt securities that management has the intent and the ability to hold to maturity.
+
+Trading assets are carried at fair value. Both realized and unrealized gains and losses on trading assets are recorded in other fee revenue in our consolidated statement of income. AFS securities are carried at fair value, with any allowance for credit losses recorded through the consolidated statement of income and after-tax net unrealized gains and losses are recorded in AOCI. Gains or losses realized on sales of AFS investment securities are computed using the specific identification method and are recorded in gains (losses) from sales of available-for-sale securities, net, in our consolidated statement of income. HTM investment securities are carried at cost, adjusted for amortization of premiums and accretion of discounts, with any allowance for credit losses recorded through the consolidated statement of income.
+
+State Street Corporation | 130
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents the amortized cost, fair value and associated unrealized gains and losses of AFS and HTM investment securities as of the dates indicated:
+
+(2) As of December 31, 2025 and 2024, the fair value includes non-U.S. collateralized loan obligations of $ 0.77 billion and $ 0.70 billion, respectively.
+
+(3) As of December 31, 2025 and 2024, the fair value includes non-U.S. corporate bonds of $ 2.40 billion and $ 2.54 billion, respectively.
+
+(4) Primarily comprises securities guaranteed by the federal government with respect to at le ast 97 % of defaulted principal and accrued interest on the underlying loans.
+
+(5) Excludes CLO loans. Refer to Note 4 for additi onal information.
+
+(6) Consists entirely of non-agency RMBS as of both December 31, 2025 and 2024.
+
+(7) An immaterial amount of accrued interest related to HTM and AFS investment securities was excluded from the amortized cost basis for the periods ended December 31, 2025 and 2024.
+
+(8) As of December 31, 2025 and 2024, we had no allowance for credit losses on AFS investment securities.
+
+(9) As of December 31, 2025 and 2024, the total amortized cost included $ 5.08 billion and $ 5.18 billion of agency CMBS, respectively.
+
+(10) As of both December 31, 2025 and 2024, the allowance for credit losses on HTM investment securities was less than $ 1 million.
+
+State Street Corporation | 131
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Aggregate investment securities with carrying values of approximately $ 74.14 billion and $ 86.70 billion as of December 31, 2025 and 2024, respectively, were designated as pledged for public and trust deposits, short-term borrowings and for other purposes as provided by law.
+
+In 2025, 2024 and 2023, proceeds from sales of AFS securities were approximately $ 16.00 billion, $ 10.97 billion and $ 4.92 billion, respectively, resulting in a pre-tax gain of approximately $ 4 million in 2025, and a pre-tax loss of approximately $ 79 million and $ 294 million in 2024 and 2023, respectively. The pre-tax gain in 2025 was primarily driven by sales of U.S. Treasury, mortgage-backed securities, supranational securities and foreign government bonds.
+
+The following tables present the aggregate fair values of AFS investment securities that have been in a continuous unrealized loss position for less than 12 months, and those that have been in a continuous unrealized loss position for 12 months or longer, as of the dates indicated:
+
+State Street Corporation | 132
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents the amortized cost and the fair value of contractual maturities of debt investment securities as of December 31, 2025. The maturities of certain ABS, MBS and collateralized mortgage obligations are based on expected principal payments. Actual maturities may differ from these expected maturities since certain borrowers have the right to prepay obligations with or without prepayment penalties.
+
+Interest income related to debt securities is recognized in our consolidated statement of income using the effective interest method, or on a basis approximating a level rate of return over the contractual or estimated life of the security. The level rate of return considers any non-refundable fees or costs, as well as purchase premiums or discounts, adjusted as prepayments occur, resulting in amortization or accretion, accordingly.
+
+State Street Corporation | 133
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Allowance for Credit Losses on Debt Securities and Impairment of AFS Securities
+
+An allowance for credit losses is recognized on HTM securities upon acquisition of the security, and on AFS securities when the fair value and expected future cash flows of the investment securities are less than their amortized cost basis. Our assessment of impairment involves an evaluation of economic and security-specific factors. Such factors are based on estimates, derived by management, which contemplate current market conditions and security-specific performance. To the extent that market conditions are worse than management’s expectations or due to idiosyncratic bond performance, the credit-related component of impairment, in particular, could increase and would be recorded in the provision for credit losses.
+
+We conduct quarterly reviews of HTM securities on a collective (pool) basis when similar risk characteristics exist to determine whether an allowance for credit losses should be recognized. HTM securities are evaluated for expected credit loss utilizing a probability of default methodology, or discounted cash flows assessed against the amortized cost of the investment security excluding accrued interest.
+
+We monitor the credit quality of the HTM investment securities using a variety of methods, including both external and internal credit ratings.
+
+With respect to certain classes of debt securities, primarily U.S. Treasuries and agency securities (mainly issued by U.S. Government entities and agencies, as well as Group of Seven sovereigns), we consider the history of credit losses, current conditions and reasonable and supportable forecasts, which may indicate that the expectation that nonpayment of the amortized cost basis is or continues to be zero. Therefore, for those securities, we do not record expected credit losses.
+
+We have elected to not record an allowance on accrued interest for HTM securities. Accrued interest on these securities is reversed against interest income when payment on a security is delinquent for greater than 90 days from the date of payment.
+
+An AFS security is impaired when the current fair value of an individual security is below its amortized cost basis. An allowance for credit losses on impaired AFS securities is recorded when the present value of expected future cash flows of the investment security is less than its amortized cost basis, limited to the amount by which the security’s amortized cost basis exceeds the fair value. Investment securities will be written down to fair value through the consolidated statement of income when management intends to sell (or may be required to sell) the securities before they recover in value.
+
+Our review of AFS investment securities for credit impairment generally includes:
+
+• the identification and evaluation of securities that have indications of potential impairment, such as issuer-specific concerns, including deteriorating financial condition or bankruptcy;
+
+• the analysis of expected future cash flows of securities, based on quantitative and qualitative factors;
+
+• the analysis of the collectability of those future cash flows, including information about past events, current conditions, and reasonable and supportable forecasts;
+
+• the analysis of the underlying collateral for MBS and ABS;
+
+• the analysis of individual impaired securities, including the anticipated recovery period and the magnitude of the overall price decline;
+
+• evaluation of factors or triggers that could cause individual securities to be deemed impaired and those that would not support impairment; and
+
+• documentation of the results of these analyses.
+
+Substantially all of our investment securities portfolio is composed of debt securities. A critical component of our assessment of impairment of these debt securities is the identification of credit-impaired securities for which management does not expect to receive cash flows sufficient to recover the entire amortized cost basis of the security.
+
+As of December 31, 2025, 99 % of our HTM and AFS investment portfolio is publicly rated investment grade.
+
+After a review of the investment portfolio, taking into consideration then-current economic conditions, adverse situations that might affect our ability to fully collect principal and interest, the timing of future payments, the credit quality and performance of the collateral underlying MBS and ABS and other relevant factors, management considered the aggregate decline in fair value of the investment securities portfolio and the resulting gross pre-tax unrealized losses of $ 4.12 billion and $ 6.12 billion related to 1,342 and 1,564 securities as of December 31, 2025 and 2024, respectively, to be primarily related to changes in interest rates, and not the result of any material changes in the credit characteristics of the securities. The unrealized loss has not been recognized as of December 31, 2025, as management did not have the intent to sell, nor was it more likely than not that we would be required to sell these securities before the expected recovery of their amortized cost basis.
+
+State Street Corporation | 134
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 4. Loans and Allowance for Credit Losses
+
+Loans are generally recorded at their principal amount outstanding, net of the allowance for credit losses, unearned income, and any net unamortized deferred loan origination fees. Loans that are classified as held-for-sale are measured at lower of cost or fair value on an individual basis.
+
+Interest income related to loans is recognized in our consolidated statement of income using the interest method, or on a basis approximating a level rate of return over the term of the loan. Fees received for providing loan commitments and letters of credit that we anticipate will result in loans typically are deferred and amortized to interest income over the term of the related loan, beginning with the initial borrowing. Fees on commitments and letters of credit are amortized to software and processing fees over the commitment period when funding is not known or expected.
+
+The following table presents our recorded investment in loans, as of the dates indicated:
+
+(1) Fund finance loans primarily include loans to real money funds and business development companies of $ 8.30 billion and $ 1.75 billion, respectively, as of December 31, 2025, compared to $ 7.90 billion and $ 1.44 billion, respectively, as of December 31, 2024.
+
+(2) Collateralized loan obligations include broadly syndicated and middle market CLO loans of $ 10.30 billion and $ 2.51 billion, respectively, as of December 31, 2025, compared to $ 8.39 billion and $ 1.10 billion, respectively, as of December 31, 2024.
+
+(3) Includes securities finance loans and loans to municipalities of $ 2.52 billion and $ 0.12 billion, respectively, as of December 31, 2025 and $ 3.01 billion and $ 0.21 billion, respectively, as of December 31, 2024.
+
+(4) Excluding overdrafts, floating rate loans and fixed rate loans totaled $ 42.37 billion and $ 2.45 billion, respectively, as of December 31, 2025. We have entered into interest rate swap agreements to hedge forecasted cash flows associated with EURIBOR indexed floating-rate loans. See Note 10 for additional details.
+
+(5) Non-U.S. loans totaled $ 18.78 billion and $ 16.79 billion as of December 31, 2025 and 2024, respectively.
+
+We segregate our loans into two segments: commercial and financial and commercial real estate. We further classify commercial and financial loans as subscription finance, fund finance loans, collateralized loan obligations, commercial, overdrafts and other loans.
+
+Certain loans are pledged as collateral for access to the Federal Reserve’s discount window. As of December 31, 2025 and 2024, the loans pledged as collateral totaled $ 15.11 billion and $ 13.90 billion, respectively.
+
+We generally place loans on non-accrual status once principal or interest payments are 90 days contractually past due, or earlier if management determines that full collection is not probable. Loans 90 days past due, but considered both well-secured and in the process of collection, may be excluded from non-accrual status. When we place a loan on non-accrual status, the accrual of interest is discontinued and previously recorded, but unpaid interest is reversed and generally charged against interest income. For loans on non-accrual status, income is recognized on a cash basis after recovery of principal, if and when interest payments are received. Loans may be removed from non-accrual status when repayment is reasonably assured and performance under the terms of the loan has been demonstrated. As of December 31, 2025, we had four loans totaling $ 258 million on non-accrual status, of which no loans were more than 90 days contractually past due. As of December 31, 2024, we had two loans totaling $ 191 million on non-accrual status, of which one loan totaling $ 101 million was more than 90 days contractually past due.
+
+In 2025, we originated $ 5.57 billion of CLO loans, consisting of $ 5.01 billion in broadly syndicated and $ 0.56 billion in middle market CLO loans, which were all investment grade as of December 31, 2025.
+
+We sold $ 1.16 billion of total loans, which consisted entirely of commercial loans in 2025. We recorded a charge-off against the allowance for these loans of $ 15 million in 2025.
+
+Allowance for Credit Losses
+
+We recognize an allowance for credit losses in accordance with ASC 326 for financial assets held at amortized cost and off-balance sheet commitments. The allowance for credit losses is reviewed on a regular basis, and any provision for credit losses is recorded to reflect the amount necessary to maintain the allowance for expected credit losses at a level which represents what management does not expect to recover due to expected credit losses. For additional discussion on the allowance for credit losses for investment securities, please refer to Note 3.
+
+When the allowance is recorded, a provision for credit loss expense is recognized in net income. The allowance for credit losses for financial assets (excluding investment securities, as discussed in Note 3) represents the portion of the amortized cost basis, including accrued interest for financial assets held at amortized cost, which management does not expect to recover due to expected credit losses and is presented on the statement of condition as an offset to the amortized cost basis. The accrued interest balance is presented separately on the statement of condition within accrued interest and fees receivable.
+
+State Street Corporation | 135
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The allowance for off-balance sheet commitments is presented within accrued expenses and other liabilities. Loans are charged off to the allowance for credit losses in the reporting period in which either an event occurs that confirms the existence of a loss on a loan, including a sale of a loan below its carrying value, or a portion of a loan is determined to be uncollectible.
+
+The allowance for credit losses may be determined using various methods, including discounted cash flow methods, loss-rate methods, PD methods, and other quantitative or qualitative methods as determined by us. The method used to estimate expected credit losses may vary depending on the type of financial asset, our ability to predict the timing of cash flows, and the information available to us.
+
+The allowance for credit losses as reported in our consolidated statement of condition is adjusted by the provision for credit losses, which is reported in earnings, and reduced by the charge-off of principal amounts, net of recoveries.
+
+We measure expected credit losses of financial assets on a collective (pool) basis when similar risk characteristics exist. Each reporting period, we assess whether the assets in the pool continue to display similar risk characteristics.
+
+For a financial asset that does not share risk characteristics with other assets, expected credit losses are measured separately using one or more of the methods noted above. As of December 31, 2025, we had three loans totaling $ 98 million in the commercial and financial segment and 4 loans totaling $ 296 million in the commercial real estate segment that no longer met the similar risk characteristics of their collective pool. As of December 31, 2025, $ 120 million of our allowance for credit losses was related to these loans.
+
+When the asset is collateral-dependent, which means when the borrower is experiencing financial difficulty and repayment is expected to be provided substantially through the operation or sale of the collateral, the allowance for credit losses are determined based on the fair value of the collateral, adjusted for the estimated costs to sell.
+
+Determining the appropriateness of the allowance is complex and requires judgment by management about the effect of matters that are inherently uncertain. In future periods, factors and forecasts then prevailing may result in significant changes in the allowance for credit losses in those future periods.
+
+We estimate credit losses over the contractual life of the financial asset, while factoring in prepayment activity, where supported by data, over a three year reasonable and supportable forecast period. We utilize a baseline, upside and downside scenario which are applied based on a probability weighting, in order to better reflect management’s expectation of expected credit losses given existing market conditions and the changes in the economic environment. The multiple scenarios are based on a three year horizon (or less depending on contractual maturity) and then revert linearly over a two year period to a ten-year historical average thereafter. The contractual term excludes expected extensions, renewals and modifications, but includes prepayment assumptions where applicable.
+
+As part of our allowance methodology, we establish qualitative reserves to address any risks inherent in our portfolio that are not addressed through our quantitative reserve assessment. These factors may relate to, among other things, legislation changes or new regulation, credit concentration, loan markets, scenario weighting and overall model limitations. The qualitative adjustments are applied to our portfolio of financial instruments under the existing governance structure and are inherently judgmental.
+
+Credit Quality
+
+Credit quality for financial assets held at amortized cost is continuously monitored by management and is reflected within the allowance for credit losses.
+
+We use an internal risk-rating system to assess our risk of credit loss for each loan. This risk-rating process incorporates the use of risk-rating tools in conjunction with management judgment. Qualitative and quantitative inputs are captured in a systematic manner, and following a formal review and approval process, an internal credit rating based on our credit scale is assigned.
+
+When computing allowance levels, credit loss assumptions are estimated using models that categorize asset pools based on loss history, delinquency status and other credit trends and risk characteristics, including current conditions and reasonable and supportable forecasts about the future. Determining the appropriateness of the allowance is complex and requires judgment by management about the effect of matters that are inherently uncertain. In future periods, evaluations of the overall asset portfolio, in light of the factors and forecasts then prevailing, may result in significant changes in the allowance and credit loss expense in those future periods.
+
+Credit quality is assessed and monitored by evaluating various attributes in order to enable timely
+
+State Street Corporation | 136
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+detection of any concerns with the customer’s credit rating. The results of those evaluations are utilized in underwriting new loans and transactions with counterparties and in our process for estimation of expected credit losses.
+
+In assessing the risk rating assigned to each individual loan, among the factors considered are the borrower's debt capacity, collateral coverage, payment history and delinquency experience, financial flexibility and earnings strength, the expected amounts and source of repayment, the level and nature of contingencies, if any, and the industry and geography in which the borrower operates. These factors are based on an evaluation of historical and current information, and involve subjective assessment and interpretation. Credit counterparties are evaluated and risk-rated on an individual basis at least annually. Management considers the ratings to be current as of December 31, 2025.
+
+Our internal risk rating methodology assigns risk ratings to counterparties ranging from Investment Grade, Sub-Investment Grade, Special Mention, Substandard, Doubtful and Loss.
+
+• Investment Grade: Counterparties with strong credit quality and low expected credit risk and probability of default. Approximately 91 % of our loans were rated as investment grade as of December 31, 2025 with external credit ratings, or equivalent, of “BBB-” or better.
+
+• Sub-Investment Grade: Counterparties that have the ability to repay but face significant uncertainties, such as adverse business or financial circumstances that could affect credit risk or economic downturns. Loans to counterparties rated as sub-investment grade account for approximately 8 % of our loans as of December 31, 2025, and are concentrated in leveraged loans. Approximately 87 % of those leveraged loans have an external credit rating, or equivalent, of “BB” or “B” as of December 31, 2025.
+
+• Special Mention: Counterparties with potential weaknesses that, if uncorrected, may result in deterioration of repayment prospects.
+
+• Substandard: Counterparties with well-defined weakness that jeopardizes
+
+repayment with the possibility we will sustain some loss.
+
+• Doubtful: Counterparties with well-defined weakness which make collection or liquidation in full highly questionable and improbable.
+
+• Loss: Counterparties which are uncollectible or have little value.
+
+The following tables present our recorded investment in loans to counterparties by risk rating, as noted above, as of the dates indicated:
+
+(1) Loans include $ 1.96 billion and $ 1.98 billion of overdrafts as of December 31, 2025 and 2024, respectively. Overdrafts are short-term in nature and do not present a significant credit risk to us. As of December 31, 2025, $ 1.90 billion overdrafts were investment grade and $ 0.06 billion overdrafts were sub-investment grade.
+
+(2) Total does not include $ 92 million and $ 14 million of loans classified as held-for-sale as of December 31, 2025 and 2024, respectively.
+
+Financial assets held at amortized cost that are not loans are disaggregated based on product type. This includes our fees receivable balance, which have had no his tory of credit losses, and are evaluated collectively as a pool.
+
+Securities purchased under a resale agreement and securities-financing within our principal business utilize the collateral maintenance provisions included within ASC 326. An allowance for credit losses is recognized for any remaining exposure based on counterparty type.
+
+State Street Corporation | 137
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The allowance for credit losses for off-balance sheet credit exposures, recorded in accrued expenses and other liabilities in our consolidated statement of condition, represents management’s estimate of credit losses primarily in outstanding letters and lines of credit and other credit-enhancement facilities provided to our clients and outstanding as of the balance sheet date. The allowance is evaluated quarterly by management. Factors considered in evaluating the appropriate level of this allowance are similar to those considered with respect to the allowance for credit losses on financial assets held at amortized cost. Provisions to maintain the allowance at a level considered by us to be appropriate to absorb estimated credit losses in outstanding facilities are recorded in the provision for credit losses in our consolidated statement of income.
+
+The following table presents the amortized cost basis, by year of origination and credit quality indicator as of December 31, 2025. For origination years before the fifth annual period, we present the aggregate amortized cost basis of loans. For purchased loans, the date of issuance is used to determine the year of origination, not the date of acquisition. For modified, extended or renewed lending arrangements, we evaluate whether a credit event has occurred which would consider the loan to be a new arrangement.
+
+(1) Any reserve associated with accrued interest is not material. As of December 31, 2025, accrued interest receivable of $ 338 million included in the amortized cost basis of loans has been excluded from the amortized cost basis within this table.
+
+(2) Total does not include $ 92 million of loans classified as held-for-sale as of December 31, 2025.
+
+State Street Corporation | 138
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents the amortized cost basis, by year of origination and credit quality indicator as of December 31, 2024:
+
+(1) Any reserve associated with accrued interest is not material. As of December 31, 2024, accrued interest receivable of $ 327 million included in the amortized cost basis of loans has been excluded from the amortized cost basis within this table.
+
+(2) Total does not include $ 14 million of loans classified as held-for-sale as of December 31, 2024.
+
+The following tables present the activity in the allowance for credit losses by portfolio and class for the years ended December 31, 2025 and 2024:
+
+(1) Primarily includes $ 2 million allowance for credit losses on both subscription finance and fund finance loans.
+
+(2) Primarily related to a commercial real estate loan and certain commercial loans in 2025.
+
+(1) Primarily includes $ 2 million allowance for credit losses on fund finance loans and $ 1 million related to subscription finance.
+
+(2) Related to the sale of commercial real estate and commercial loans in 2024.
+
+State Street Corporation | 139
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Loans are reviewed on a regular basis, and any provisions for credit losses that are recorded reflect management’s estimate of the amount necessary to maintain the allowance for loan losses at a level considered appropriate to absorb expected credit losses in the loan portfolio. In 2025, we recorded a $ 59 million provision for credit losses, primarily reflecting the evolving macroeconomic environment and an increase in loan loss reserves associated with certain commercial real estate and commercial loans. Allowance estimates remain subject to continued model and economic uncertainty and management may use qualitative adjustments in the allowance estimates. If future data and forecasts deviate relative to the forecasts utilized to determine our allowance for credit losses as of December 31, 2025, or if credit risk migration is higher or lower than forecasted for reasons independent of the economic forecast, our allowance for credit losses will also change.
+
+Note 5. Goodwill and Other Intangible Assets
+
+Goodwill represents the excess of the cost of an acquisition over the fair value of the net tangible and other intangible assets acquired. Goodwill is not amortized, but is reviewed for impairment annually or more frequently if circumstances arise or events occur that indicate an impairment of the carrying amount may exist.
+
+Impairment of goodwill is deemed to exist if the carrying value of a reporting unit, including its allocation of goodwill and other intangible assets, exceeds its estimated fair value. Management reviews goodwill for impairment annually or more frequently if circumstances arise or events occur that indicate an impairment of the carrying amount may exist. We begin our review by first assessing qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. Events that may indicate impairment include significant or adverse changes in the business, economic or political climate, an adverse action or assessment by a regulator, unanticipated competition, and a more-likely-than-not expectation that we will sell or otherwise dispose of a business to which the goodwill or other intangible assets relate. If we conclude from the qualitative assessment of goodwill impairment that it is more likely than not that a reporting unit’s fair value is greater than its carrying amount, quantitative tests are not required. However, if we determine it is more likely than not that a reporting unit’s fair value is less than its carrying amount, then we complete a quantitative assessment to determine if there is goodwill impairment. We may elect to bypass the qualitative assessment and complete a quantitative assessment in any given period.
+
+In 2025, we assessed goodwill for impairment using a qualitative assessment. Based on our evaluation of the qualitative factors noted above, we determined it was more likely than not that the fair value of each of the reporting units exceeded its respective carrying amount.
+
+Other intangible assets represent purchased long-lived intangible assets, primarily client relationships, that can be distinguished from goodwill because of contractual rights or because the asset can be exchanged on its own or in combination with a related contract, asset or liability. Other intangible assets are initially measured at their acquisition date fair value, the determination of which requires management judgment, are amortized over their estimated useful lives and are subject to evaluation for impairment. Client relationships are amortized on a straight-line basis over periods ranging from five to twenty years , technology assets are amortized on a straight-line basis over periods ranging from three to ten years , and core deposit intangible assets are amortized on a straight-line basis over periods ranging from sixteen to twenty-two years , with such amortization recorded in other expenses in our consolidated statement of income.
+
+Other intangible assets are supported by the future cash flows that are directly associated with and expected to arise as a direct result of the use of the intangible asset, less any costs associated with the intangible asset’s eventual disposition. We evaluate other intangible assets for impairment at the lowest level for which there are identifiable cash flows that are largely independent of the cash flows from other groups of assets using the following process. First, we routinely assess whether impairment indicators are present. When impairment indicators are identified as being present, we compare the estimated future net undiscounted cash flows of the intangible asset with its carrying value. If the future net undiscounted cash flows are greater than the carrying value, then there is no impairment, but if the intangible asset’s net undiscounted cash flows are less than its carrying value, we are required to calculate impairment. An impairment is recognized by writing the intangible asset down to its fair value through a charge to other expenses in our consolidated statement of income. We evaluate intangible assets for indicators of impairment on a quarterly basis.
+
+There wer e no impairments of goodwill or other intangible assets in 2025, 2024 and 2023.
+
+State Street Corporation | 140
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents changes in the carrying amount of goodwill during the periods indicated for each of our goodwill reporting units:
+
+(1) Investment Servicing includes the impact of the consolidation of one of our joint ventures in India.
+
+The following table presents changes in the net carrying amount of other intangible assets during the periods indicated:
+
+The following tables present the gross carrying amount, accumulated amortization and net carrying amount of other intangible assets by type as of the dates indicated:
+
+Amortization expense related to other intangible assets was $ 223 million , $ 230 million and $ 239 million in 2025, 2024 and 2023, respectively.
+
+Expected future amortization expense for other intangible assets recorded as of December 31, 2025 is as follows:
+
+State Street Corporation | 141
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 6. Other Assets
+
+The following table presents the components of other assets as of the dates indicated:
+
+(1) Refer to Note 11, for further information on the impact of collateral on our financial statement presentation of securities borrowing and securities lending transactions.
+
+(2) Includes equity securities without readily determinable fair values that are accounted for under the ASC 321 measurement alternative of $ 585 million and $ 341 million as of December 31, 2025 and 2024, respectively. For the year ended December 31, 2025, no impairments were recognized in other fee revenue related to such equity securities.
+
+(3) Deferred tax assets and liabilities recorded in our consolidated statement of condition are netted within the same tax jurisdiction.
+
+(4) Includes advances of $ 1.57 billion and capitalized costs to fulfill contracts with customers of $ 1.19 billion as of December 31, 2025, compared to $ 1.04 billion and $ 0.92 billion, respectively, as of December 31, 2024.
+
+Note 7. Deposits
+
+We had $ 2.67 billion and $ 5.78 billion of time deposits outstanding, of which $ 0.25 billion and $ 0.08 billion were non-U.S. time deposits as of December 31, 2025 and 2024, respectively. Time deposits included amounts in excess of the FDIC insurance limits, or other uninsured accounts not subject to any country specific deposit insurance limits, of $ 2.67 billion and $ 5.77 billion as of December 31, 2025 and 2024, respectively. As of December 31, 2025, uninsured time deposits of $ 1.16 billion were scheduled to mature in less than three months and $ 1.51 billion in three to six months. Demand deposit overdrafts of $ 1.96 billion and $ 1.98 billion were included as loan balances at December 31, 2025 and 2024, respectively.
+
+Note 8. Short-Term Borrowings
+
+Our short-term borrowings primarily include securities sold under repurchase agreements and FHLB funding recorded in other short-term borrowings.
+
+Collectively, short-term borrowings had weighted-average interest rates of 4.49 % and 5.03 % in 2025 and 2024, respectively.
+
+The following tables present information with respect to the amounts outstanding and weighted-average interest rates of the primary components of our short-term borrowings as of and for the years ended December 31:
+
+(1) Primarily includes FHLB borrowings.
+
+Obligations to repurchase securities sold are recorded as a liability in our consolidated statement of condition. Applicable securities with a fair value of $ 1.07 billion underlying the repurchase agreements remained in our investment securities portfolio as of December 31, 2025.
+
+State Street Corporation | 142
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents information about these securities and the carrying value of the related repurchase agreements, including accrued interest, as of December 31, 2025.
+
+(1) Collateralized by investment securities.
+
+We maintain an agreement with a clearing organization (FICC) that enables us to net securities purchased under resale agreements and sold under repurchase agreements with counterparties that are also members of the clearing organization when specific netting criteria are met. The impact of this netting was $ 242.73 billion on average in 2025 compared to $ 191.26 billion in 2024, primarily due to higher FICC repo volumes.
+
+State Street Bank currently maintains a line of credit of CAD $ 1.40 billion, or approximately $ 1.02 billion, as of December 31, 2025, to support its Canadian securities processing operations. The line of credit has no stated termination date and is cancellable by either party with prior notice. As of both December 31, 2025 and 2024, there was no balance outstanding on this line of credit.
+
+State Street Corporation | 143
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 9. Long-Term Debt
+
+(1) We may not redeem notes prior to their maturity.
+
+(2) We have entered into interest rate swap agreements, recorded as fair value hedges, to modify our interest expense on these senior and subordinated notes from a fixed rate to a floating rate. As of December 31, 2025 and 2024, these fair value hedges decreased the carrying value of long-term debt by $ 3 million and $ 220 million, respectively. Refer to Note 10 for additional information about fair value hedges.
+
+(3) The subordinated notes qualify for inclusion in tier 2 regulatory capital under current federal regulatory capital guidelines.
+
+(4) We redeemed the notes prior to original maturity date.
+
+State Street Corporation | 144
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+State Street Bank
+
+As of December 31, 2025 and 2024, $ 106 million and $ 79 million, respectively, of long-term finance leases was related to information technology equipment. Refer to Note 20 for additional information.
+
+Note 10. Derivative Financial Instruments
+
+We use derivative financial instruments to support our clients’ needs and to manage our interest rate, currency and other market risks. These financial instruments consist of FX contracts such as forwards, futures and options contracts; interest rate contracts such as interest rate swaps (cross currency and single currency) and futures; and other derivative contracts. Derivative instruments used for risk management purposes that are highly effective in offsetting the risk being hedged are generally designated as hedging instruments in hedge accounting relationships, while others are economic hedges and not designated in hedge accounting relationships. Derivatives in hedge accounting relationships are disclosed according to the type of hedge, such as fair value, cash flow or net investment. Derivatives designated as hedging instruments in hedge accounting relationships are carried at fair value with change in fair value recognized in the consolidated statement of income or other comprehensive income (OCI), as appropriate. Derivatives not designated in hedge accounting relationships include those derivatives entered into to support client needs and derivatives used to manage interest rate, currency and other market risks associated with certain assets and liabilities. Such derivatives are carried at fair value with changes in fair value recognized in the consolidated statement of income.
+
+Derivatives Not Designated as Hedging Instruments
+
+We provide foreign exchange forward contracts and options in support of our client needs, and also act as a dealer in the currency markets. As part of our trading activities, we assume positions in both the foreign exchange and interest rate markets by buying and selling cash instruments and using derivative financial instruments, including foreign exchange forward contracts, foreign exchange and interest rate options, interest rate forward contracts, and interest rate futures. The entire change in the fair value of derivatives utilized in our trading activities are recorded in foreign exchange trading services revenue. We also utilize derivatives in our asset and liability management activities and to manage other marke t risks. The entire change in fair value of such derivatives are recorded in net interest income and other fee revenue, respectively.
+
+We enter into stable value wrap derivative contracts with unaffiliated stable value funds that allow a stable value fund to provide book value coverage to its participants. These derivatives contracts qualify as guarantees as described in Note 12.
+
+We grant deferred cash awards to certain of our employees as part of our employee incentive compensation plans. We account for these awards as derivative financial instruments, as the underlying referenced shares are not equity instruments of ours. The fair value of these derivatives is referenced to the value of units in State Street-sponsored investment funds or funds sponsored by other unrelated entities. We re-measure these derivatives to fair value quarterly, and record the change in value in compensation and employee benefits expenses in our consolidated statement of income.
+
+Derivatives Designated as Hedging Instruments
+
+In connection with our asset and liability management activities, we use derivative financial instruments to manage our interest rate risk and foreign currency risk for certain assets and liabilities. At both the inception of the hedge and on an ongoing basis, we formally assess and document the effectiveness of a derivative designated in a hedging relationship and the likelihood that the derivative will be an effective hedge in future periods. We discontinue hedge accounting prospectively when we determine that the derivative is no longer highly effective in offsetting changes in fair value or cash flows of the underlying risk being hedged, the derivative expires, terminates or is sold, or management discontinues the hedge designation.
+
+The risk management objective of a highly effective hedging strategy that qualifies for hedge accounting must be formally documented. The hedge documentation includes the derivative hedging instrument, the asset or liability or forecasted transaction, type of risk being hedged and method for assessing hedge effectiveness of the derivative prospectively and retrospectively. We use quantitative methods including regression analysis and cumulative dollar offset method, comparing the change in the fair value of the derivative to the change in fair value or the cash flows of the hedged item. We may also utilize qualitative methods such as matching critical terms and evaluation of any changes in those critical terms. Effectiveness is assessed and documented quarterly and if determined that the derivative is not highly effective at hedging the designated risk hedge accounting is discontinued.
+
+Fair Value Hedges
+
+Derivatives designated as fair value hedges are utilized to mitigate the risk of changes in the fair values of recognized assets and liabilities, including
+
+State Street Corporation | 145
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+long-term debt and AFS securities. We use interest rate and FX contracts in this manner to manage our exposure to changes in the fair value of hedged items caused by changes in interest rates and FX rates, respectively.
+
+Changes in the fair value of the derivative and changes in fair value of the hedged item due to changes in the hedged risk are recognized in earnings in the same line item. If a hedge is terminated, but the hedged item was not derecognized, all remaining adjustments to the carrying amount of the hedged item are amortized over a period that is consistent with the amortization of other discounts or premiums associated with the hedged item .
+
+Cash Flow Hedges
+
+Derivatives designated as cash flow hedges are utilized to offset the variability of cash flows of recognized assets, liabilities or forecasted transactions. We have entered into FX contracts to hedge the change in cash flows attributable to FX movements in foreign currency denominated investment securities. Additionally, we have entered into interest rate swap agreements to hedge the forecasted cash flows associated with EURIBOR indexed floating-rate loans and Deposit Facility Interest Rate (DFR) indexed ECB deposits. The interest rate swaps synthetically convert the interest receipts from a variable-rate to a fixed-rate, thereby mitigating the risk attributable to changes in the EURIBOR and DFR.
+
+Changes in fair value of the derivatives designated as cash flow hedges are initially recorded in AOCI and then reclassified into earnings in the same period or periods during which the hedged forecasted transaction affects earnings and are presented in the same income statement line item as the earnings effect of the hedged item. If the hedge relationship is terminated, the change in fair value on the derivative recorded in AOCI is reclassified into earnings consistent with the timing of the hedged item. During the fourth quarter of 2025 approximately $ 31 million of net losses associated with terminated cash flow hedges were reclassified from AOCI , and we expect net losses of approximately $ 29 million to be reclassified from AOCI in the first quarter of 2026. The net loss associated with cash flow hedges expected to be reclassified from AOCI within 12 months of December 31, 2025 is approximately $ 42 million, which includes a net loss of approximately $ 48 million related to terminated hedges. These losses could differ from amounts recognized in future periods due to changes in interest rates, hedge de-designations or the addition
+
+of other hedges after December 31, 2025. For hedge relationships that are discontinued because a forecasted transaction is not expected to occur according to the original hedge terms, any related derivative values recorded in AOCI are immediately recognized in earnings. The maximum length of time over which forecasted cash flows are hedged is 5 years.
+
+Net Investment Hedges
+
+Derivatives categorized as net investment hedges are entered into to protect the net investment in our foreign operations against adverse changes in exchange rates. We use FX forward contracts to convert the foreign currency risk to U.S. dollars to mitigate our exposure to fluctuations in FX rates. The changes in fair value of the FX forward contracts are recorded, net of taxes, in the foreign currency translation component of OCI.
+
+The following table presents the aggregate contractual, or notional, amounts of derivative financial instruments including those entered into for trading and asset and liability management activities as of the dates indicated:
+
+(1) The notional value of the stable value contracts represents our maximum exposure. However, exposure to various stable value contracts is generally contractually limited to substantially lower amounts than the notional values.
+
+(2) Represents grants of deferred value awards to employees; refer to discussion in this note under “Derivatives Not Designated as Hedging Instruments.”
+
+Notional amounts are provided here as an indication of the volume of our derivative activity and serve as a reference to calculate the fair values of the derivative.
+
+State Street Corporation | 146
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents the fair value of derivative financial instruments, excluding the impact of master netting agreements, recorded in our consolidated statement of condition as of the dates indicated. Fair value measurement for derivatives is further discussed in Note 2, and the impact of master netting agreements is provided in Note 11.
+
+(1) Derivative assets are included within other assets in our consolidated statement of condition.
+
+(2) Derivative liabilities are included within accrued expenses and other liabilities in our consolidated statement of condition.
+
+The following table presents the impact of our use of derivative financial instruments on our consolidated statement of income for the periods indicated:
+
+(1) Amount in 2024 reflects a deferred compensation expense acceleration of $ 79 million.
+
+The following tables show the carrying amount and associated cumulative basis adjustments related to the application of hedge accounting that is included in the carrying amount of hedged assets and liabilities in fair value hedging relationships:
+
+(1) Represents hedged items no longer designated in qualifying fair value hedging relationships for which an associated basis adjustment exists at the balance sheet date.
+
+(2) Included in these amounts is the amortized cost of the financial assets designated in under the portfolio layer hedging relationships (hedged item is the hedged layer of a closed portfolio of financial assets expected to remain outstanding at the end of the hedging relationship). At December 31, 2025 and 2024, the amortized cost of the closed portfolios used in these hedging relationships was $ 3.30 billion and $ 3.32 billion, respectively, of which $ 1.73 billion and $ 1.82 billion, respectively, was designated under the portfolio layer hedging relationship. At December 31, 2025 and 2024, the cumulative adjustment associated with these hedging relationships was $ 21 million and $( 26 ) million, respectively.
+
+(3) Carrying amount represents amortized cost.
+
+State Street Corporation | 147
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+As of December 31, 2025 and 2024, the total notional amount of the interest rate swaps of fair value hedges was $ 36.12 billion and $ 31.12 billion, respectively.
+
+The following tables present the impact of our use of derivative financial instruments on our consolidated statement of income for the periods indicated:
+
+( 1) As of December 31, 2025, the maximum maturity date of the underlying hedged items is approximately 5.0 years.
+
+Derivatives Netting and Credit Contingencies
+
+Netting
+
+Derivatives receivable and payable as well as cash collateral from the same counterparty are netted in the consolidated statement of condition for those counterparties with whom we have legally binding master netting agreements in place. In addition to cash collateral received and transferred presented on a net basis, we also receive and transfer collateral in the form of securities, which mitigate credit risk but are not eligible for netting. Additional information on netting is provided in Note 11.
+
+Credit Contingencies
+
+Certain of our derivatives are subject to master netting agreements with our derivative counterparties containing credit risk-related contingent features, which requires us to maintain an investment grade credit rating with the various credit rating agencies. If our rating falls below investment grade, we would be in violation of the provisions, and counterparties to the derivatives could request immediate payment or demand full overnight collateralization on derivative instruments in liability positions. The aggregate fair value of all derivatives with credit contingent features and in a net liability position as of December 31, 2025 totaled approximately $ 3.49 billion, against which we provided $ 1.84 billion of collateral in the normal course of business. If our credit related contingent features underlying these agreements were triggered as of December 31, 2025, the maximum additional collateral we would be required to post to our counterparties is approximately $ 1.65 billion.
+
+State Street Corporation | 148
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 11. Offsetting Arrangements
+
+Certain of our transactions are subject to master netting agreements that allow us to net receivables and payables by contract and settlement type. For those legally enforceable contracts, we net receivables and payables with the same counterparty on our statement of condition.
+
+In addition to netting receivables and payables with our derivatives counterparty where a legal and enforceable netting arrangement exists, we also net related cash collateral received and transferred up to the fair value exposure amount.
+
+With respect to our securities financing arrangements, we net balances outstanding on our consolidated statement of condition for those transactions that met the netting requirements and were transacted under a legally enforceable netting arrangement with the counterparty.
+
+Securities received as collateral under securities financing or derivatives transactions can be transferred as collateral in many instances. The securities received as proceeds under secured lending transactions are recorded at a value that approximates fair value in other assets in our consolidated statement of condition with a related liability to return the collateral, if we have the right to transfer or re-pledge the collateral.
+
+As of December 31, 2025 and 2024, the value of securities received as collateral from third parties where we are permitted to transfer or re-pledge the securities totaled $ 19.21 billion and $ 11.41 billion, respectively, and the fair value of the portion that had been transferred or re-pledged as of the same dates was $ 12.11 billion and $ 2.76 billion, respectively.
+
+The following tables present information about the offsetting of assets related to derivative contracts and secured financing transactions, as of the dates indicated:
+
+State Street Corporation | 149
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(1) Amounts include all transactions regardless of whether or not they are subject to an enforceable netting arrangement.
+
+(2) Refer to Note 1 and Note 2 for additional information about the measurement basis of derivative instruments.
+
+(3) Amounts subject to netting arrangements which have been determined to be legally enforceable and eligible for netting in the consolidated statement of condition.
+
+(4) Includes securities in connection with our securities borrowing transactions.
+
+(5) Includes amounts secured by collateral not determined to be subject to enforceable netting arrangements.
+
+(6) Variation margin payments presented as settlements rather than collateral.
+
+(7) Included in the $ 45.05 billion as of December 31, 2025 were $ 6.81 billion of resale agreements and $ 38.24 billion of collateral provided related to securities borrowing. Included in the $ 44.13 billion as of December 31, 2024 were $ 6.68 billion of resale agreements and $ 37.45 billion of collateral provided related to securities borrowing. Resale agreements and collateral provided related to securities borrowing were recorded in securities purchased under resale agreements and other assets, respectively, in our consolidated statement of condition. Refer to Note 12 for additional information with respect to principal securities finance transactions.
+
+(8) Offsetting of resale agreements primarily relates to our involvement in FICC, where we settle transactions on a net basis for payment and delivery through the Fedwire system.
+
+NA Not applicable
+
+The following tables present information about the offsetting of liabilities related to derivative contracts and secured financing transactions, as of the dates indicated:
+
+State Street Corporation | 150
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(1) Amounts include all transactions regardless of whether or not they are subject to an enforceable netting arrangement.
+
+(2) Refer to Note 1 and Note 2 for additional information about the measurement basis of derivative instruments.
+
+(3) Amounts subject to netting arrangements which have been determined to be legally enforceable and eligible for netting in the consolidated statement of condition.
+
+(4) Includes securities provided in connection with our securities lending transactions.
+
+(5) Includes amounts secured by collateral not determined to be subject to enforceable netting arrangements.
+
+(6) Variation margin payments presented as settlements rather than collateral.
+
+(7) Included in the $ 21.01 billion as of December 31, 2025 were $ 0.84 billion of repurchase agreements and $ 20.17 billion of collateral received related to securities lending transactions. Included in the $ 18.01 billion as of December 31, 2024 were $ 3.68 billion of repurchase agreements and $ 14.33 billion of collateral received related to securities lending transactions. Repurchase agreements and collateral received related to securities lending were recorded in securities sold under repurchase agreements and accrued expenses and other liabilities, respectively, in our consolidated statement of condition. Refer to Note 12 for additional information with respect to principal securities finance transactions.
+
+(8) Offsetting of repurchase agreements primarily relates to our involvement in FICC, where we settle transactions on a net basis for payment and delivery through the Fedwire system.
+
+NA Not applicable
+
+The securities transferred under resale and repurchase agreements typically are U.S. Treasury, agency and agency MBS. In our principal securities borrowing and lending arrangements, the securities transferred are predominantly equity securities and some corporate debt securities. The fair value of the securities transferred may increase in value to an amount greater than the amount received under our repurchase and securities lending arrangements, which exposes us to counterparty risk. We require the review of the price of the underlying securities in relation to the carrying value of the repurchase agreements and securities lending arrangements on a daily basis and when appropriate, adjust the cash or security to be obtained or returned to counterparties that is reflective of the required collateral levels.
+
+The following table summarizes our repurchase agreements and securities lending transactions by category of collateral pledged and remaining maturity of these agreements as of the periods indicated:
+
+(1) Represents a security interest in underlying client assets related to our prime services business, which assets clients have allowed us to transfer and re-pledge.
+
+State Street Corporation | 151
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 12. Commitments and Guarantees
+
+The following table presents the aggregate gross contractual amounts of our off-balance sheet commitments and guarantees, as of the dates indicated:
+
+(1) The potential losses associated with these guarantees equal the gross contractual amounts and do not consider the value of any collateral or reflect any participations to independent third parties.
+
+Unfunded Credit Facilities
+
+Unfunded credit facilities consist primarily of liquidity facilities provided to our fund and municipal counterparties, as well as commitments to purchase commercial real estate and commercial loans that have not yet settled.
+
+As of December 31, 2025, approximately 70 % of our unfunded commitments to extend credit expire within one year . Since many of these commitments are expected to expire or renew without being drawn upon, the gross contractual amounts do not necessarily represent our future cash requirements.
+
+Indemnified Securities Financing
+
+On behalf of our clients, we lend their securities, as agent, to brokers and other institutions. In most circumstances, we indemnify our clients for the fair market value of those securities against a failure of the borrower to return such securities. We require the borrowers to maintain collateral in an amount in excess of 100% of the fair market value of the securities borrowed. Securities on loan and the collateral are revalued daily to determine if additional collateral is necessary or if excess collateral is required to be returned to the borrower. Collateral received in connection with our securities lending services is held by us as agent and is not recorded in our consolidated statement of condition.
+
+The cash collateral held by us as agent is invested on behalf of our clients. In certain cases, the cash collateral is invested in third-party repurchase agreements, for which we indemnify the client against the loss of the principal invested. We require the counterparty to the indemnified repurchase agreement to provide collateral in an amount in excess of 100% of the amount of the repurchase agreement. In our role as agent, the indemnified repurchase agreements and the related collateral held by us are not recorded in our consolidated statement of condition.
+
+The following table summarizes the aggregate fair values of indemnified securities financing and related collateral, as well as collateral invested in indemnified repurchase agreements, as of the dates indicated:
+
+In certain cases, we participate in securities finance transactions as a principal. As a principal, we borrow securities from the lending client and then lend such securities to the subsequent borrower, either our client or a broker/dealer. Our right to receive and obligation to return collateral in connection with our securities lending transactions are recorded in other assets and accrued expenses and other liabilities, respectively, in our consolidated statement of condition. As of December 31, 2025 and 2024, we had approximately $ 38.24 billion and $ 37.45 billion, respectively, of collateral provided and approximately $ 20.17 billion and $ 14.33 billion, respectively, of collateral received from clients in connection with our participation in principal securities finance transactions.
+
+Stable Value Protection
+
+Stable value funds wrapped by us are high quality diversified portfolios of short intermediate duration fixed-income investments. Stable value contracts are derivative contracts that also qualify as guarantees. The notional amount under non-hedging derivatives, provided in Note 10, generally represents our maximum exposure under these derivatives contracts. However, exposure to various stable value contracts is contractually limited to substantially lower amounts than the notional values, which represent the total assets of the stable value funds.
+
+Standby Letters of Credit
+
+Standby letters of credit provide credit enhancement to our municipal clients to support the issuance of capital markets financing.
+
+FICC Guarantee
+
+We are a direct and sponsoring member of FICC. As a sponsoring member within FICC, we enter into repurchase and resale transactions in eligible securities with sponsored clients and with other FICC members and, pursuant to FICC Government Securities Division rules, submit, novate and net the
+
+State Street Corporation | 152
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+transactions. We may sponsor clients to clear their eligible repurchase transactions with FICC, backed by our guarantee to FICC of the prompt and full payment and performance of our sponsored member clients’ respective obligations. We generally obtain a security interest from our sponsored clients in the high quality securities collateral that they receive, which is designed to mitigate our potential exposure to FICC.
+
+Additionally, as a member of certain industry clearing and settlement exchanges, we may be required to pay a pro rata share of the losses incurred by the organization and provide liquidity support in the event of the default of another member to the extent that the defaulting member’s clearing fund obligation and the prescribed loss allocation is depleted. It is difficult to estimate our maximum possible exposure under the membership agreements, since this would require an assessment of future claims that may be made against us that have not yet occurred. At both December 31, 2025 and 2024, we did not record any liabilities under these arrangements.
+
+For additional information on our repurchase and reverse repurchase agreements, please refer to Note 11 to the consolidated financial statements in this Form 10-K.
+
+Note 13. Contingencies
+
+Legal and Regulatory Matters
+
+In the ordinary course of business, we and our subsidiaries are involved in disputes, litigation, and governmental or regulatory inquiries and investigations, both pending and threatened. These matters, if resolved adversely against us or settled, may result in monetary awards or payments, fines and penalties or require changes in our business practices. The resolution or settlement of these matters is inherently difficult to predict. Based on our assessment of these pending matters, we do not believe that the amount of any judgment, settlement or other action arising from any pending matter is likely to have a material adverse effect on our consolidated financial condition. However, an adverse outcome or development in certain of the matters described below could have a material adverse effect on our consolidated results of operations for the period in which such matter is resolved, or an accrual is determined to be required, on our consolidated financial condition, or on our reputation.
+
+We evaluate our needs for accruals of loss contingencies related to legal and regulatory proceedings on a case-by-case basis. When we have a liability that we deem probable, and we deem the amount of such liability can be reasonably estimated as of the date of our consolidated financial statements, we accrue our estimate of the amount of
+
+loss. We also consider a loss probable and establish an accrual when we make, or intend to make, an offer of settlement. Once established, an accrual is subject to subsequent adjustment as a result of additional information. The resolution of legal and regulatory proceedings and the amount of reasonably estimable loss (or range thereof) are inherently difficult to predict, especially in the early stages of proceedings. Even if a loss is probable, an amount (or range) of loss might not be reasonably estimated until the later stages of the proceeding due to many factors such as the presence of complex or novel legal theories, the discretion of governmental authorities in seeking sanctions or negotiating resolutions in civil and criminal matters, the pace and timing of discovery and other assessments of facts and the procedural posture of the matter (collectively, “factors influencing reasonable estimates”).
+
+As of December 31, 2025, our aggregate accruals for loss contingencies for legal, regulatory and related matters totaled approximately $ 43 million, including potential fines by government agencies and civil litigation with respect to the matters specifically discussed below. To the extent that we have established accruals in our consolidated statement of condition for probable loss contingencies, such accruals may not be sufficient to cover our ultimate financial exposure associated with any settlements or judgments. Any such ultimate financial exposure, or proceedings to which we may become subject in the future, could have a material adverse effect on our businesses, on our future consolidated financial statements or on our reputation.
+
+As of December 31, 2025, for those matters for which we have accrued probable loss contingencies and for other matters for which loss is reasonably possible (but not probable) in future periods, and for which we are able to estimate a range of reasonably possible loss, our estimate of the aggregate reasonably possible loss (in excess of any accrued amounts) ranges up to approximately $ 60 million. Our estimate with respect to the aggregate reasonably possible loss is based upon currently available information and is subject to significant judgment and a variety of assumptions and known and unknown uncertainties, which may change quickly and significantly from time to time, particularly if and as we engage with applicable governmental agencies or plaintiffs in connection with a proceeding. Also, the matters underlying the reasonably possible loss will change from time to time. As a result, actual results may vary significantly from the current estimate.
+
+In certain pending matters, it is not currently feasible to reasonably estimate the amount or a range of reasonably possible loss, and such losses, which may be significant, are not included in the estimate of reasonably possible loss discussed
+
+State Street Corporation | 153
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+above. This is due to, among other factors, the factors influencing reasonable estimates described above. An adverse outcome in one or more of the matters for which we have not estimated the amount or a range of reasonably possible loss, individually or in the aggregate, could have a material adverse effect on our businesses, on our future consolidated financial statements or on our reputation. Given that our actual losses from any legal or regulatory proceeding for which we have provided an estimate of the reasonably possible loss could significantly exceed such estimate, and given that we cannot estimate reasonably possible loss for all legal and regulatory proceedings as to which we may be subject now or in the future, no conclusion as to our ultimate exposure from current pending or potential legal or regulatory proceedings should be drawn from the current estimate of reasonably possible loss.
+
+The following discussion provides information with respect to significant legal, governmental and regulatory matters.
+
+Edmar Financial Company, LLC et al v. Currenex, Inc. et al
+
+In August 2021, two former Currenex clients filed a putative civil class action lawsuit in the Southern District of New York alleging antitrust violations, fraud and a civil Racketeer Influenced and Corrupt Organization Act violation against Currenex, State Street and others.
+
+Pension Risk Transfer Litigation
+
+State Street Global Advisors Trust Company (Trust Co) is named as a defendant in a series of purported class action complaints filed by participants in pension plans where, in each case, Trust Co was hired as independent fiduciary on behalf of the pension plan to conduct an ERISA-compliant due diligence review of potential insurers who could assume the plan’s liabilities and satisfy its payment obligations through the purchase of a group annuity contract, consistent with DOL guidance. The complaints, collectively, allege violations of ERISA’s fiduciary and prohibited transaction rules against Trust Co, the plan sponsors, and others.
+
+German Tax Matter
+
+In connection with a routine audit including the period 2013-2015, German tax authorities have determined that State Street should have withheld, and is secondarily liable for, certain taxes on dividends paid on securities of German issuers held as collateral over dividend record dates in client lending transactions with counterparties outside of Germany. This determination is subject to review in proceedings in which State Street will in due course contest these conclusions, in addition to separately seeking relief from those determined to be primarily liable.
+
+State of Texas et al v. Blackrock, Inc. et al
+
+In November 2024, eleven state Attorneys General filed a complaint in Federal Court in the Eastern District of Texas against State Street, BlackRock and Vanguard, alleging antitrust violations on the theory that the three companies conspired to artificially suppress coal supply, resulting in harm to American consumers in the form of higher electricity costs.
+
+Income Taxes
+
+In determining our provision for income taxes, we make certain judgments and interpretations with respect to tax laws in jurisdictions in which we have business operations. Because of the complex nature of these laws, in the normal course of our business, we are subject to challenges from U.S. and non-U.S. income tax authorities regarding the amount of income taxes due. These challenges may result in adjustments to the timing or amount of taxable income or deductions or the allocation of taxable income among tax jurisdictions. We recognize a tax benefit when it is more likely than not that our position will result in a tax deduction or credit. Unrecognized tax benefits were approximately $ 248 million and $ 237 million as of December 31, 2025 and 2024, respectively.
+
+We are presently under audit by a number of tax authorities. The earliest tax year open to examination in jurisdictions where we have material operations is 2018. Management believes that we have sufficiently accrued liabilities as of December 31, 2025 for potential tax exposures.
+
+Note 14. Variable Interest Entities
+
+We are involved, in the normal course of our business, with various types of special purpose entities, some of which meet the definition of VIEs. When evaluating a VIE for consolidation, we must determine whether or not we have a variable interest in the entity. Variable interests are investments or other interests that absorb portions of an entity’s expected losses or receive portions of the entity’s expected returns. If it is determined that we do not have a variable interest in the VIE, no further analysis is required and we do not consolidate the VIE. If we hold a variable interest in a VIE, we are required by U.S. GAAP to consolidate that VIE when we have a controlling financial interest in the VIE and therefore are deemed to be the primary beneficiary. We are determined to have a controlling financial interest in a VIE when we have both the power to direct the activities of the VIE that most significantly impact the VIE’s economic performance and the obligation to absorb losses or the right to receive benefits of the VIE that could potentially be significant to that VIE. This determination is evaluated periodically as facts and circumstances change.
+
+State Street Corporation | 154
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Asset-Backed Investment Securities
+
+We invest in various forms of ABS, which we carry in our investment securities portfolio. These ABS meet the U.S. GAAP definition of asset securitization entities, which are considered to be VIEs. We are not considered to be the primary beneficiary of these VIEs since we do not have control over their activities. Additional information about our ABS is provided in Note 3.
+
+Interests in Investment Funds
+
+In the normal course of business, we manage various types of investment funds through State Street Investment Management in which our clients are investors, including State Street Investment Management commingled investment vehicles and other similar investment structures. The majority of our AUM are contained within such funds. The services we provide to these funds generate management fee revenue. From time to time, we may invest cash in the funds in order for the funds to establish a performance history for newly-launched strategies, referred to as seed capital, or for other purposes.
+
+With respect to our interests in funds that meet the definition of a VIE, a primary beneficiary assessment is performed to determine if we have a controlling financial interest. As part of our assessment, we consider all the facts and circumstances regarding the terms and characteristics of the variable interest(s), the design and characteristics of the fund and the other involvements of the enterprise with the fund. If consolidation of certain funds is required, we retain the specialized investment company accounting rules followed by the underlying funds. When we no longer control these funds due to a reduced ownership interest or other reasons, the funds are de-consolidated and accounted for under another accounting method if we continue to maintain investments in the funds.
+
+As of both December 31, 2025 and 2024, we had no co nsolidated funds. As of December 31, 2025 and 2024, we managed certain funds, considered VIEs, in which we held a variable interest but for which we were not deemed to be the primary beneficiary. Our potential maximum loss exposure related to these unconsolidated funds totaled $ 22 million and $ 19 million as of December 31, 2025 and 2024, respectively, and represented the carrying value of our investments, which are recorded in other assets in our consolidated statement of condition. The amount of loss we may recognize during any period is limited to the carrying amount of our investments in the unconsolidated funds.
+
+Our conclusion to consolidate a fund may vary from period to period, most commonly as a result of
+
+fluctuation in our ownership interest as a result of changes in the number of fund shares held by either us or by third parties. Given that the funds follow specialized investment company accounting rules which prescribe fair value, a de-consolidation generally would not result in gains or losses for us.
+
+The net assets of any consolidated fund are solely available to settle the liabilities of the fund and to settle any investors’ ownership redemption requests, including any seed capital invested in the fund by us. We are not contractually required to provide financial or any other support to any of our funds. In addition, neither creditors nor equity investors in the funds have any recourse to our general credit.
+
+We also held investments in low-income housing, production and investment tax credit entities, considered VIEs for which we were not deemed to be the primary beneficiary. As of December 31, 2025 and 2024, our potential maximum loss exposure related to these unconsolidated entities totaled $ 0.96 billion and $ 1.10 billion, respectively, most of which represented the carrying value of our investments, which are recorded in other assets in our consolidated statement of condition.
+
+We account for our low-income housing tax credit investments (LIHTC) and production tax credit investments under the proportional amortization method. Under the proportional amortization method, the initial cost of the investment is amortized based on a percentage of the actual income tax credits and other income tax benefits allocated in the current period versus the total estimated income tax credits and other income tax benefits expected to be received over the life of the investment. The net benefit, representing the difference between amortization of the investment balance, recognition of the income tax credits and recognition of other income tax benefits from the investment is recognized as a component of income tax expense.
+
+As of December 31, 2025, we had investments in LIHTC and production tax credit investments of $ 608 million and $ 268 million, respectively, which are included in other assets in our consolidated statement of condition. Contingent contributions related to the renewable energy production tax credit investments were $ 86 million at December 31, 2025. These contributions are contingent on production and expected to be paid through 2034. Deferred contributions related to LIHTC investments were $ 81 million at December 31, 2025. These deferred contributions are payable in accordance with the respective agreements and are expected to be paid through 2042.
+
+State Street Corporation | 155
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents the impact of our tax credit programs for which we have elected to apply proportional amortization accounting on our consolidated statement of income for the periods indicated:
+
+Note 15. Shareholders’ Equity
+
+Preferred Stock
+
+The following table summarizes selected terms of each of the series of the preferred stock issued and outstanding as of December 31, 2025:
+
+(1) The preferred stock and corresponding depositary shares may be redeemed at our option in whole, but not in part, prior to the redemption date upon the occurrence of a regulatory capital treatment event, as defined in the certificate of designation, at a redemption price equal to the liquidation price per share and liquidation price per depositary share plus any declared and unpaid dividends, without accumulation of any undeclared dividends.
+
+(2) On the redemption date, or any dividend payment date thereafter, the preferred stock and corresponding depositary shares may be redeemed by us, in whole or in part, at the liquidation price per share and liquidation price per depositary share plus any declared and unpaid dividends, without accumulation of any undeclared dividends.
+
+(3) The dividend rate for the floating rate period of the Series G preferred stock that begins on March 15, 2026 and all subsequent floating rate periods will remain at the current fixed rate in accordance with the LIBOR Act and the contractual terms of the Series G preferred stock.
+
+On February 6, 2025, we issued 750,000 depositary shares, each representing a 1/100th ownership interest in a share of fixed rate reset, non-cumulative perpetual preferred stock, Series K, without par value per share, with a liquidation preference of $ 100,000 per share (equivalent to $ 1,000 per depositary share), in a public offering. The aggregate proceeds, net of underwriting discounts, commissions and other issuance costs, were approximately $ 743 million.
+
+State Street Corporation | 156
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following table presents the dividends declared for each of the series of preferred stock issued and outstanding for the periods indicated:
+
+In February 2026, we declared dividends on our series G, I, J and K preferred stock of approximately $ 1,338 , $ 1,675 , $ 1,675 and $ 1,613 , respectively, per share, or approximately $ 0.33 , $ 16.75 , $ 16.75 and $ 16.13 , respectively, per depositary share. These dividends total approximately $ 7 million, $ 25 million, $ 14 million and $ 12 million on our Series G, I, J and K preferred stock, respectively, which will be paid in March 2026.
+
+Common Stock
+
+On January 19, 2024, we announced a common share repurchase program, approved by the Board and superseding all prior programs, authorizing the purchase of up to $ 5.0 billion of our common stock beginning in the first quarter of 2024. During 2025, we repurchased $ 1.2 billion of our common stock and since its inception we have repurchased an aggregate of $ 2.5 billion of our common stock under the 2024 Program through December 31, 2025. The program has no set expiration date.
+
+The table below presents the activity under our common share repurchase program for the periods indicated:
+
+The table below presents the dividends declared on common stock for the periods indicated:
+
+In February 2026, we declared a common stock dividend of $ 0.84 per share, payable on April 13, 2026, to shareholders of record on April 1, 2026.
+
+State Street Corporation | 157
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Accumulated Other Comprehensive Income (Loss)
+
+The following table presents the after-tax components of AOCI and changes for the periods indicated, net of related taxes:
+
+(1) Includes after-tax net unamortized unrealized gains (losses) of $( 267 ) million, $( 374 ) million and $( 530 ) million as of December 31, 2025, 2024 and 2023, respectively, related to AFS investment securities previously transferred to HTM.
+
+The following table presents after-tax reclassifications into earnings for the periods indicated:
+
+Note 16. Regulatory Capital
+
+We are subject to various regulatory capital requirements administered by federal banking agencies. Failure to meet minimum regulatory capital requirements can initiate certain mandatory and discretionary actions by regulators that, if undertaken, could have a direct material effect on our consolidated financial condition. Under current regulatory capital adequacy guidelines, we must meet specified capital requirements that involve quantitative measures of our consolidated assets, liabilities and off-balance sheet exposures calculated in conformity with regulatory accounting practices. Our capital components and their classifications are subject to qualitative judgments by regulators about components, risk weightings and other factors.
+
+As required by the Dodd-Frank Act, we and State Street Bank, as advanced approaches banking organizations, are subject to a “capital floor” in the calculation and assessment of regulatory capital adequacy by the U.S. Agencies. Beginning on January 1, 2015, we were required to calculate our risk-based capital ratios using both the advanced approaches and the standardized approach. As a result, from January 1, 2015 going forward, our risk-based capital ratios for regulatory assessment purposes are the lower of each ratio calculated under the standardized approach and the advanced approaches.
+
+State Street Corporation | 158
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+As of December 31, 2025, we and State Street Bank exceeded all regulatory capital adequacy requirements to which we were subject. As of December 31, 2025, State Street Bank was categorized as “well capitalized” under the applicable regulatory capital adequacy framework, and exceeded all “well capitalized” ratio guidelines to which it was subject. Management believes that no conditions or events have occurred since December 31, 2025 that have changed the capital categorization of State Street Bank.
+
+The following table presents the regulatory capital structure, total RWA, related regulatory capital ratios and the minimum required regulatory capital ratios for us and State Street Bank as of the dates indicated.
+
+(1) Other adjustments within CET1 capital primarily include disallowed deferred tax assets, cash flow hedges that are not recognized at fair value on the balance sheet, and the overfunded portion of our defined benefit pension plan obligation net of associated deferred tax liabilities.
+
+(2) Under the advanced approaches, credit risk RWA includes a CVA which reflects the risk of potential fair value adjustments for credit risk reflected in our valuation of OTC derivative contracts. We used a simple CVA approach in conformity with the Basel III advanced approaches.
+
+(3) Under the current advanced approaches rules and regulatory guidance concerning operational risk models, RWA attributable to operational risk can vary substantially from period-to-period, without direct correlation to the effects of a particular loss event on our results of operations and financial condition and impacting dates and periods that may differ from the dates and periods as of and during which the loss event is reflected in our financial statements, with the timing and categorization dependent on the processes for model updates and, if applicable, model revalidation and regulatory review and related supervisory processes. An individual loss event can have a significant effect on the output of our operational RWA under the advanced approaches depending on the severity of the loss event and its categorization among the seven Basel-defined UOMs.
+
+(4) Minimum requirements include a CCB of 2.5 % and a SCB of 2.5 % for the advanced approaches and the standardized approach, respectively, a G-SIB surcharge of 1.0 % and a countercyclical buffer of 0 %.Our SCB requirement remains at 2.5 % for the period from October 1, 2025 through September 30, 2026, based on the results of the 2025 supervisory stress test. Additionally, in February 2026 the Federal Reserve Board voted to maintain the current SCB requirements until 2027.
+
+(5) State Street Bank is required to maintain a minimum Tier 1 leverage ratio of 5 % as it is the insured depository institution subsidiary of State Street Corporation, a U.S. G-SIB.
+
+NA Not applicable
+
+State Street Corporation | 159
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 17. Net Interest Income
+
+The following table presents the components of interest income and interest expense, and related NII, for the periods indicated:
+
+Note 18. Equity-Based Compensation
+
+We record compensation expense for equity-based awards, such as deferred stock and performance awards, based on the closing price of our common stock on the date of grant, adjusted if appropriate, based on the eligibility of the award to receive dividends.
+
+Compensation expense related to equity-based and cash-settled stock awards with service-only conditions and terms that provide for a graded vesting schedule is recognized on a straight-line basis over the required service period for the entire award. Compensation expense related to equity-based awards with performance conditions and terms that provide for a graded vesting schedule is recognized over the requisite service period for each separately vesting tranche of the award, and is based on the probable outcome of the performance conditions at each reporting date. Compensation expense is adjusted for assumptions with respect to the estimated amount of awards that will be forfeited prior to vesting, and for employees who have met certain retirement eligibility criteria. Compensation expense for common stock awards granted to employees meeting early retirement eligibility criteria is fully expensed on the grant date.
+
+Dividend equivalents for certain equity-based awards are paid on stock units on a current basis prior to vesting and distribution.
+
+The 2017 Stock Incentive Plan, (the 2017 Plan), was amended and restated and approved by shareholders in May 2023 for issuance of stock and stock based awards. Awards may be made under the 2017 Plan for (i) up to 15.1 million shares of common stock plus (ii) up to an additional 28.5 million shares that were available to be issued under the 2006 Equity Incentive Plan, (the 2006 Plan), or may become available for issuance under the 2006 Plan due to expiration, termination, cancellation, forfeiture or repurchase of awards granted under the 2006 Plan. As of December 31, 2025, a total of 21.3 million shares from the 2006 Plan have been added to and may be issued from the 2017 Plan. As of December 31, 2025, a cumulative total of 27.4 million shares have been awarded under the 2017 Plan, compared to cumulative totals of 24.7 million shares and 21.7 million shares as of December 31, 2024 and 2023, respectively.
+
+The 2017 Plan allows for shares withheld in payment of the exercise price of an award or in satisfaction of tax withholding requirements, shares forfeited due to employee termination, shares expired under option awards, or shares not delivered when performance conditions have not been met, to be added back to the pool of shares available for issuance under the 2017 Plan. From inception to December 31, 2025, 8.2 million shares had been awarded under the 2017 Plan but not delivered, and have become available for re-issue. As of December 31, 2025, a total of 17.2 million shares were available for future issuance under the 2017 Plan.
+
+For deferred stock awards granted under the Plans, no common stock is issued at the time of grant and the award does not possess dividend and voting rights. Generally, these grants vest over zero to four years . Performance awards granted are earned over a performance period based on the achievement of defined goals, generally over three years . Payment for performance awards is made in shares of our common stock equal to its fair market value per share, based on the performance of certain financial ratios, after the conclusion of each performance period.
+
+Beginning with 2012, malus-based forfeiture provisions were included in deferred stock awards granted to employees identified as “material risk-takers,” as defined by management. These malus-based forfeiture provisions provide for the reduction or cancellation of unvested deferred compensation, such as deferred stock awards and performance-based awards, if it is determined that a material risk-
+
+State Street Corporation | 160
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+taker made risk-based decisions that exposed us to inappropriate risks that resulted in a material unexpected loss at the business-unit, line-of-business or corporate level. In addition, awards granted to certain of our senior executives, as well as awards granted to individuals in certain jurisdictions, may be subject to recoupment after vesting (if applicable) and delivery to the individual in specified circumstances generally relating to fraud or willful misconduct by the individual that results in material harm to us or a material financial restatement.
+
+Compensation expense related to deferred stock awards and performance awards, which we record as a component of compensation and employee benefits expense in our consolidated statement of income, was $ 268 million, $ 223 million and $ 208 million for the years ended December 31, 2025, 2024 and 2023, respectively. Such expense for 2025, 2024 and 2023 excluded an expense of $ 18 million, $ 3 million and $ 12 million, respectively, associated with acceleration of expense in connection with targeted staff reductions. This expense was included in the severance-related portion of the associated restructuring or repositioning charges recorded in each respective year.
+
+For the years ended December 31, 2025, 2024 and 2023, no stock appreciation rights were exercised. As of December 31, 2025, there was no unrecognized compensation cost related to stock appreciation rights.
+
+The total fair value of deferred stock awards vested for the years ended December 31, 2025, 2024 and 2023, based on the weighted average grant date fair value in each respective year, was $ 190 million, $ 185 million and $ 185 million, respectively. As of December 31, 2025, total unrecognized compensation cost related to deferred stock awards, net of estimated forfeitures, was $ 172 million, which is expected to be recognized over a weighted-average period of 2.3 years.
+
+The total fair value of performance awards vested for the years ended December 31, 2025, 2024 and 2023, based on the weighted average grant date fair value in each respective year, was $ 34 million, $ 33 million and $ 43 million, respectively. As of December 31, 2025, total unrecognized compensation cost related to performance awards, net of estimated forfeitures, was $ 36 million, which is expected to be recognized over a weighted-average period of 2.3 years.
+
+The total fair value of cash-settled restricted stock awards vested during the years ended December 31, 2025 and 2024, based on the weighted average grant date fair value, was $ 1 million and $ 3 million, respectively. As of December 31, 2025, there was no unrecognized compensation cost related to cash-settled restricted stock awards.
+
+We utilize either treasury shares or authorized but unissued shares to satisfy the issuance of common stock under our equity incentive plans. We do not have a specific policy concerning purchases of our common stock to satisfy stock issuances. We have a general policy concerning purchases of our common stock to meet issuances under our employee benefit plans, including other corporate purposes. Various factors determine the amount and timing of our purchases of our common stock, including regulatory reviews and approvals or non-objections, our regulatory capital requirements, the number of shares we expect to issue under employee benefit plans, market conditions (including the trading price of our common stock), and legal considerations.
+
+State Street Corporation | 161
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+These factors can change at any time, and the number of shares of common stock we will purchase or when we will purchase them cannot be assured. Additional information on our common stock purchase program is provided in Note 15.
+
+Note 19. Employee Benefits
+
+Defined Benefit Pension and Other Post-Retirement Benefit Plans
+
+State Street Bank and certain of its U.S. subsidiaries participate in a non-contributory, tax-qualified defined benefit pension plan. The U.S. defined benefit pension plan was frozen as of December 31, 2007 and no new employees were eligible to participate after that date. We have agreed to contribute sufficient amounts as necessary to meet the benefits paid to plan participants and to fund the plan’s service cost, plus interest. U.S. employee account balances earn annual interest credits until the employee begins receiving benefits. Non-U.S. employees participate in local defined benefit plans which are funded as required in each local jurisdiction. In addition to the defined benefit pension plans, we have non-qualified unfunded SERPs that provide certain officers with defined pension benefits in excess of allowable qualified plan limits. State Street Bank and certain of its U.S. subsidiaries also participate in a post-retirement plan that provides health care benefits for certain retired employees. The total expense for these tax-qualified and non-qualified plans was $ 16 million, $ 17 million and $ 16 million in 2025, 2024 and 2023, respectively.
+
+We recognize the funded status of our defined benefit pension plans and other post-retirement benefit plans, measured as the difference between the fair value of the plan assets and the projected benefit obligation, in the consolidated statement of position. The assets held by the defined benefit pension plans are largely made up of common, collective funds that are liquid and invest principally in U.S. equities and high-quality fixed-income investments. The majority of these assets fall within Level 2 of the fair value hierarchy. The benefit obligations associated with our primary U.S. and non-U.S. defined benefit plans, non-qualified unfunded supplemental retirement plans and post-retirement plans were $ 1.11 billion, $ 18 million and nil , respectively, as of December 31, 2025 and $ 1.10 billion, $ 19 million and less than $ 1 million, respectively, as of December 31, 2024. As the primary defined benefit plans are frozen, the benefit obligation will only vary over time as a result of changes in market interest rates, the life expectancy of the plan participants and payments made from the plans. The primary U.S. and non-U.S. defined benefit pension plans were overfunded by $ 71 million and $ 26 million as of December 31, 2025 and 2024,
+
+respectively. The non-qualified supplemental retirement plans were underfunded by $ 18 million and $ 19 million as of December 31, 2025 and 2024, respectively. The other post-retirement benefit plans had liabilities of nil and were underfunded by less than $ 1 million as of December 31, 2025 and 2024, respectively. The underfunded status is included in other liabilities.
+
+Defined Contribution Retirement Plans
+
+We contribute to employer-sponsored U.S. and non-U.S. defined contribution plans. Our contribution to these plans was $ 226 million, $ 212 million and $ 194 million in 2025, 2024 and 2023, respectively.
+
+Note 20. Occupancy Expense and Information Systems and Communications Expense
+
+Occupancy expense and information systems and communications expense include depreciation of buildings, leasehold improvements, computer hardware and software, equipment, furniture and fixtures, and amortization of lease right-of-use assets. Total depreciation and amortization expense in 2025, 2024 and 2023 was $ 892 million, $ 824 million and $ 829 million, respectively.
+
+We use our incremental borrowing rate to determine the present value of the lease payments for finance and operating leases described below. Additionally, we do not separate nonlease components such as real estate taxes and common area maintenance from base lease payments.
+
+As of December 31, 2025 and 2024, we had finance leases for information technology equipment of $ 89 million and $ 67 million, respectively, recorded in premises and equipment, with the related liability of $ 106 million and $ 79 million, respectively, recorded in long-term debt, in our consolidated statement of condition.
+
+Finance lease right-of-use asset amortization is recorded in information systems and communications expense on a straight-line basis in our consolidated statement of income over the respective lease term. Lease payments are recorded as a reduction of the liability, with a portion recorded as imputed interest expense. Accumulated amortization of the finance lease right-of-use assets was $ 182 million as of December 31, 2025. Interest expense related to the finance lease obligation reflected in NII was $ 3 million in both 2025 and 2024.
+
+As of December 31, 2025, aggregate net book value of the operating lease right-of-use assets recorded in other assets was $ 865 million, with the related lease liability recorded in accrued expenses and other liabilities in our consolidated statement of condition.
+
+We have entered into non-cancellable operating leases for premises and equipment. Nearly all of
+
+State Street Corporation | 162
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+these leases include renewal options, and only those reasonably certain of being exercised are included in the term of the lease. Costs for operating leases are recorded on a straight-line basis which includes both interest expense and right-of-use asset amortization. Operating lease costs for office space are recorded in occupancy expense. Costs related to operating leases for equipment are recorded in information systems and communications expense.
+
+As of December 31, 2025, we have additional operating and finance leases, primarily for office space and equipment, that have not yet commenced with approximately $ 80 million of undiscounted future minimum lease payments. These leases will largely commence in fiscal year 2026 with lease terms ranging from 2 to 10 years.
+
+None of our leases contain residual value guarantees.
+
+The following table presents lease costs, sublease rental income, cash flows and new leases arising from lease transactions for 2025:
+
+The following table presents future minimum lease payments under non-cancellable leases as of December 31, 2025:
+
+The following table presents details related to remaining lease terms and discount rate as of December 31, 2025 and 2024:
+
+Note 21. Expenses
+
+The following table presents the components of other expenses for the periods indicated:
+
+(1) Includes an FDIC special assessment release of $ 60 million in 2025 and an FDIC special assessment charge of $ 99 million and $ 387 million in 2024 and 2023, respectively, related to FDIC’s recovery of estimated losses to the Deposit Insurance Fund associated with the closures of Silicon Valley Bank and Signature Bank reflected in other expenses .
+
+Repositioning Charges
+
+In 2025, we recorded net repositioning charges of $ 326 million, including $ 211 million of compensation and employee benefits expenses related to workforce rationalization, $ 69 million of occupancy costs associated with real estate footprint optimization, and other charges of $ 24 million and $ 22 million relating to operating model changes reflected in information systems and communications and other expenses, respectively.
+
+State Street Corporation | 163
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+In 2024, we recorded a net repositioning release of $ 2 million, including a $ 15 million release reflected in compensation and employee benefits expenses, partially offset by $ 13 million of occupancy charges related to footprint optimization.
+
+The following table presents aggregate activity for repositioning charges for the periods indicated:
+
+Note 22. Income Taxes
+
+We use an asset-and-liability approach to account for income taxes. Our objective is to recognize the amount of taxes payable or refundable for the current year through charges or credits to the current tax provision, and to recognize deferred tax assets and liabilities for future tax consequences of temporary differences between amounts reported in our consolidated financial statements and their respective tax bases. The measurement of tax assets and liabilities is based on enacted tax laws and applicable tax rates. The effects of a tax position on our consolidated financial statements are recognized when we believe it is more likely than not that the position will be sustained. A valuation allowance is established if it is considered more likely than not that all or a portion of the deferred tax assets will not be realized. Deferred tax assets and liabilities recorded in our consolidated statement of condition are netted within the same tax jurisdiction.
+
+The following table presents the components of income tax expense (benefit) for the periods indicated:
+
+The Company adopted ASU 2023-09, Improvements to Income Tax Disclosures, prospectively for annual periods beginning after December 31, 2024. The following table presents a reconciliation of the U.S. federal statutory tax rate to our effective income tax rate for the year ended December 31, 2025 (after adoption of ASU 2023-09):
+
+(1) State taxes in Massachusetts, New York State and New York City made up the majority (greater than 50%) of the tax effect in this category.
+
+(2) Effects of cross-border tax laws includes the period expense for global intangible low-taxed income.
+
+(3) Business tax credits include research, low-income housing, production and investment tax credits.
+
+The following table presents a reconciliation of the U.S. statutory income tax rate to our effective tax rate based on income before income tax expense for the periods indicated:
+
+(1) Business tax credits include research, low-income housing, production and investment tax credits.
+
+(2) Foreign tax credit (benefits)/limitations includes the period expense for global intangible low-taxed income.
+
+State Street Corporation | 164
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Certain earnings of our foreign subsidiaries are considered indefinitely reinvested, and no state, local, or foreign withholding tax liabilities have been recorded on these amounts as the related tax effects are not practicable to estimate. Any future distribution of these earnings is expected to be exempt from U.S. federal income tax but could result in state, local, and foreign withholding taxes. Although foreign withholding taxes may be creditable for U.S. federal income tax purposes, limitations on foreign tax credit utilization could result in a net tax cost.
+
+The following table presents significant components of our gross deferred tax assets and gross deferred tax liabilities as of the dates indicated:
+
+The table below summarizes the deferred tax assets, carryforwards and related valuation allowances recognized as of December 31, 2025:
+
+Management considers the valuation allowance adequate to reduce the total deferred tax assets to an aggregate amount that will more likely than not be realized. Management has determined that a valuation allowance is not required for the remaining deferred tax assets because it is more likely than not that there will be sufficient taxable income of the appropriate nature within the carryforward periods to realize these assets.
+
+At December 31, 2025, 2024 and 2023, the gross unrecognized tax benefits, excluding interest,
+
+were $ 248 million, $ 237 million and $ 237 million, respectively. Of this, the amounts that would reduce the effective tax rate, if recognized, are $ 230 million, $ 220 million and $ 197 million, respectively. The reduction in the effective tax rate includes the federal benefit for unrecognized state tax benefits.
+
+The following table presents activity related to unrecognized tax benefits as of the dates indicated:
+
+Management believes that we have sufficient accrued liabilities as of December 31, 2025 for tax exposures and related interest expense.
+
+Income tax expense included related interest and penalties of approximately $ 9 million, $ 8 million and $ 7 million in 2025, 2024 and 2023, respectively. Total accrued interest and penalties were approximately $ 29 million as of December 31, 2025, and $ 21 million as of both December 31, 2024 and 2023.
+
+The table below summarizes income taxes paid for the year ended December 31, 2025 (after adoption of ASU 2023-09):
+
+Total income taxes paid for the years ended December 31, 2024 and 2023, were $ 451 million and $ 423 million, respectively.
+
+State Street Corporation | 165
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 23. Earnings Per Common Share
+
+Basic EPS is calculated pursuant to the two-class method, by dividing net income available to common shareholders by the weighted-average common shares outstanding during the period. Diluted EPS is calculated pursuant to the two-class method, by dividing net income available to common shareholders by the total weighted-average number of common shares outstanding for the period plus the shares representing the dilutive effect of equity-based awards. The effect of equity-based awards is excluded from the calculation of diluted EPS in periods in which their effect would be anti-dilutive.
+
+The two-class method requires the allocation of undistributed net income between common and participating shareholders. Net income available to common shareholders, presented separately in our consolidated statement of income, is the basis for the calculation of both basic and diluted EPS. Participating securities are composed of unvested and fully vested SERP shares and fully vested deferred director stock awards, which are equity-based awards that contain non-forfeitable rights to dividends, and are considered to participate with the common stock in undistributed earnings.
+
+The following table presents the computation of basic and diluted earnings per common share for the periods indicated:
+
+(1) Represents the portion of net income available to common equity allocated to participating securities, composed of unvested and fully vested SERP (Supplemental executive retirement plans) shares and fully vested deferred director stock awards, which are equity-based awards that contain non-forfeitable rights to dividends, and are considered to participate with the common stock in undistributed earnings.
+
+(2) Represents equity-based awards outstanding, but not included in the computation of diluted average common shares, because their effect was anti-dilutive. Additional information about equity-based awards is provided in Note 18.
+
+(3) Calculations reflect allocation of earnings to participating securities using the two-class method, as this computation is more dilutive than the treasury stock method.
+
+Note 24. Line of Business Information
+
+Our operations are organized into two lines of business, which represent our reportable segments: Investment Servicing and Investment Management, which are defined based on products and services provided. The results of operations for these lines of business are not necessarily comparable with those of other companies, including companies in the financial services industry.
+
+Investment Servicing provides a broad range of investment servicing and market and financing solutions to institutional clients, including mutual funds, collective investment funds and other investment pools, corporate and public retirement plans, insurance companies, wealth managers, investment managers, foundations and endowments worldwide.
+
+Through State Street Investment Services and State Street Markets, we offer a full range of back-, middle- and front-office solutions, including custody, accounting and fund administration services for traditional and alternative assets, as well as multi-asset class investments; recordkeeping, client reporting and investment book of record, transaction management, loans, cash, derivatives and collateral services; investor services operations outsourcing; performance, risk and compliance analytics; financial data management to support institutional investors; foreign exchange, brokerage and other trading services; securities finance, including prime services products; and deposit and short-term investment facilities.
+
+Together with our back- and middle-office services, CRD’s front- and middle-office technology offerings form the foundation of State Street Alpha. Our State Street Alpha platform combines portfolio management, trading and execution, analytics and compliance tools, along with advanced data aggregation and integration with other industry platforms and providers. Included in CRD’s technology offerings are Charles River Investment Management Solution, a front-office technology offering that automates and simplifies the institutional investment process across asset classes, from portfolio management and risk analytics through trading and post-trade settlement, with integrated compliance and managed data throughout; Charles River for Private Markets, an investment management solution for institutions investing in Private Credit, Private Equity, Real Estate, Infrastructure, and Funds; and Charles River Wealth Management Solution, which provides portfolio management, trading compliance and manager/sponsor communication capabilities to wealth managers, private banks and financial advisors.
+
+State Street Corporation | 166
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Investment Management provides a comprehensive range of investment management solutions and products for our clients through State Street Investment Management (previously State Street Global Advisors). Our investment management solutions span across equity, fixed income, liquidity and cash, multi-asset and alternatives strategies, delivered through products such as ETFs, custom indexed, and actively managed funds and mandates.
+
+Our investment servicing strategy is to focus on total client relationships and the full integration of our products and services across our client base through cross-selling opportunities. In general, our clients will use a combination of services, depending on their needs, rather than one product or service. For instance, a custody client may purchase securities finance and cash management services from different business units. Products and services that we provide to our clients are parts of an integrated offering to these clients. We price our products and services on the basis of overall client relationships and other factors; as a result, revenue may not necessarily reflect the stand-alone market price of these products and services within the business lines in the same way it would for separate business entities.
+
+Our servicing and management fee revenue from the Investment Servicing and Investment Management business lines, including foreign exchange trading services and securities finance activities, represents approximately 70 % of our consolidated total revenue. The remaining 30 % is composed of software and processing fees, including front office software and data and lending related and other fees, as well as NII, which is largely generated by our investment of client deposits, short-term borrowings and long-term debt in a variety of assets, and net gains (losses) related to investment securities. These other revenue types are generally fully allocated to, or reside in, Investment Servicing and Investment Management.
+
+Revenue and expenses are directly charged or allocated to our lines of business through
+
+management information systems. Our CODM is the chief executive officer. The line of business results are regularly provided to the CODM to evaluate the performance of each line of business and to inform how resources are allocated between those lines of business to best achieve management’s strategic and tactical goals. Capital is allocated based on the relative risks and capital requirements inherent in each business line, along with management judgment. Capital allocations may not be representative of the capital that might be required if these lines of business were separate business entities.
+
+State Street Corporation | 167
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+The following is a summary of our line of business results for the periods indicated.
+
+The “Other” columns presented in the previous table, represent amounts that are not allocated to our two lines of business. The following provides additional information about the items included in the line of business results “Other” column for the periods indicated.
+
+(1) Amount consists of a revenue-related recovery associated with the proceeds from a 2018 foreign exchange benchmark litigation resolution, which is reflected in foreign exchange trading services revenue.
+
+(2) Amount related to a client rescoping which decreased income before income taxes by $ 42 million, of which $ 24 million is reflected in front office software and data revenue and $ 18 million is reflected in information systems and communications expenses.
+
+(3) Amount consists of a $ 66 million gain on sale of equity investment, which is reflected in other fee revenue.
+
+(4) Includes the loss on the sale of investment securities of $ 81 million and $ 294 million in 2024 and 2023, respectively, related to the repositioning of the investment portfolio.
+
+(5) Deferred compensation expense acceleration of $ 79 million in 2024 reflected in compensation and employee benefits, associated with an amendment of certain outstanding deferred cash incentive compensation awards to align our deferred pay mix with peers.
+
+(6) Amount in 2025 includes a charge of $ 211 million, reflected in compensation and employee benefits primarily from workforce rationalization, a $ 69 million charge reflected in occupancy costs associated with real estate footprint optimization and other repositioning charges of $ 24 million and $ 22 million, reflected in information systems and communications and other expenses, respectively, relating to operating model changes. The amount in 2024 includes a $ 15 million release related to compensation and employee benefits, partially offset by $ 13 million related to occupancy costs associated with real estate footprint, and net repositioning charges in 2023 includes $ 182 million reflected in compensation and employee benefits expenses related to workforce rationalization and $ 21 million of occupancy costs related to real estate footprint optimization.
+
+(7) Amount in 2025 primarily includes an FDIC special assessment release of $ 60 million and legal and related costs of $ 40 million reflected in other expenses. Amounts in 2024 and 2023 are primarily related to the FDIC special assessment of $ 99 million and $ 387 million, respectively, reflected in other expenses. Other notable items also include a $ 12 million charge in 2024 reflected in other expenses and $ 41 million in 2023 reflected in information systems and communications, primarily related to operating model changes.
+
+State Street Corporation | 168
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 25. Revenue from Contracts with Customers
+
+We account for revenue from contracts with customers in accordance with ASC 606. The amount of revenue that we recognize is measured based on the consideration specified in contracts with our customers, and excludes taxes collected from customers subsequently remitted to governmental authorities. We recognize revenue when a performance obligation is satisfied over time as the services are performed or at a point in time depending on the nature of the services provided as further discussed below. Revenue recognition guidance related to contracts with customers excludes our NII, revenue earned on security lending transactions entered into as principal, realized gains/losses on securities, revenue earned on foreign exchange activity, loans and related fees, and gains/losses on hedging and derivatives, to which we apply other applicable U.S. GAAP guidance.
+
+For contracts with multiple performance obligations, or contracts that have been combined, we allocate the contracts’ transaction price to each performance obligation using our best estimate of the standalone selling price. Our contractual fees are negotiated on a customer by customer basis and are representative of standalone selling price utilized for allocating revenue when there are multiple performance obligations.
+
+Substantially all of our services are provided as a distinct series of daily performance obligations that the customer simultaneously benefits from as they are performed. Payments may be made to third party service providers and the expense is recognized gross when we control those services as we are deemed the principal.
+
+Contract durations may vary from short- to long-term or may be open ended. Termination notice periods are in line with general market practice and typically do not include termination penalties. Therefore, for substantially all of our revenues, the duration of the contract and the enforceable rights and obligations do not extend beyond the services that are performed daily or at the transaction level. In instances where we have substantive termination penalties, the duration of the contract may extend through the date of substantive termination penalties.
+
+Investment Servicing
+
+Revenue from contracts with customers related to servicing fees is recognized over time as our customers benefit from the custody, administration, accounting, transfer agency and other related asset services as they are performed. At contract inception, no revenue is estimated as the fees are dependent on assets under custody and/or administration and/or actual transactions which are susceptible to market factors outside of our control. Therefore, revenue is recognized using a time-based output method as the customers benefit from the services over time and as the assets under custody or transactions are known or determinable during each reporting period based on contractual fee schedules. Payments made to third party service providers, such as sub-custodians, are generally recognized gross as we control those services and are deemed to be a principal in such arrangements.
+
+Foreign exchange trading services revenue includes revenue generated from providing access and use of electronic trading platforms and other trading, transition management and brokerage services. Electronic FX services are dependent on the volume of actual transactions initiated through our electronic exchange platforms. Revenue is recognized over time using a time-based measure as access to, and use of, the electronic exchange platforms is made available to the customer and the activity is determinable. Revenue related to other trading, transition management and brokerage services is recognized when the customer obtains the benefit of such services which may be over time or at a point in time upon trade execution.
+
+Securities finance revenue is related to services for providing agency lending programs to State Street Investment Management managed investment funds and third-party investment managers and asset owners. This securities finance revenue is recognized over time using a time-based measure as our customers benefit from these lending services.
+
+Revenue related to the front office solutions provided by CRD is primarily driven by the sale of licenses and SaaS arrangements, including professional services such as consulting and implementation services, software support and maintenance. Revenue for a sale of software to be installed on-premises is recognized at a point in time when the customer benefits from obtaining access to and use of the software license. Revenue for a SaaS-related arrangement is recognized over time as services are provided.
+
+Investment Management
+
+Revenue from contracts with customers related to investment management, investment research and investment advisory services provided through State Street Investment Management is recognized over time as our customers benefit from the services as they are performed. Substantially all of our investment management fees are determined by the value of assets under management and the investment strategies employed. At contract inception, no revenue is estimated as the fees are dependent on assets under management which are susceptible to market factors outside of our control.
+
+Therefore, substantially all of our Investment Management services revenue is recognized using a time-based
+
+State Street Corporation | 169
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+output method as the customers benefit from the services over time and as the assets under management are known or determinable during each reporting period based on contractual fee schedules. Payments made to third party service providers, such as payments to others in unitary fee arrangements, are generally recognized on a gross basis when State Street Investment Management controls those services and is deemed to be a principal in such transactions.
+
+Revenue by category
+
+In the following table, revenue is disaggregated by our two lines of business and by revenue stream for which the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors. The amounts in the “Other” columns were not allocated to our business lines.
+
+State Street Corporation | 170
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Contract balances
+
+As of December 31, 2025 and 2024, net receivables of $ 3.51 billion and $ 3.08 billion, respectively, are included in accrued interest and fees receivable and other assets, representing amounts billed or currently billable related to revenue from contracts with customers. As performance obligations are satisfied, we have an unconditional right to payment and billing is generally performed monthly or quarterly.
+
+We had $ 131 million and $ 144 million of deferred revenue as of December 31, 2025 and 2024, respectively. Deferred revenue is a contract liability which represents payments received and accounts receivable recorded in advance of providing services and is included in accrued expenses and other liabilities in the consolidated statement of condition. In the year ended December 31, 2025, we recognized revenue of $ 121 million relating to deferred revenue of $ 144 million as of December 31, 2024.
+
+Transaction price allocated to the remaining performance obligations represents future, non-cancellable contracted revenue that has not yet been recognized, inclusive of deferred revenue that has been invoiced and non-cancellable amounts that will be invoiced and recognized as revenue in future periods. As of December 31, 2025, total remaining non-cancelable performance obligations for services and products not yet delivered, primarily comprised of software license sales and SaaS, were approximately $ 2.07 billion. We expect to recognize approximately half of this amount in revenue over the next three years , with the remainder to be recognized thereafter.
+
+No adjustments are made to the promised amount of consideration for the effects of a significant financing component as the period between when we transfer a promised service to a customer and when the customer pays for that service is expected to be one year or less.
+
+Note 26. Non-U.S. Activities
+
+We define our non-U.S. activities as those revenue-producing business activities that arise from clients that are generally serviced or managed outside the U.S. Due to the integrated nature of our business, precise segregation of our U.S. and non-U.S. activities is not possible.
+
+Subjective estimates, assumptions and other judgments are applied to quantify the financial results and assets related to our non-U.S. activities, including our application of funds transfer pricing, our asset and liability management policies and our allocation of certain indirect corporate expenses. Management periodically reviews and updates its processes for quantifying the financial results and assets related to our non-U.S. activities.
+
+The following table presents our U.S. and non-U.S. financial results for the periods indicated:
+
+(1) Geographic mix is generally based on the domicile of the entity servicing the funds and is not necessarily representative of the underlying asset mix.
+
+Non-U.S. assets were $ 95.68 billion and $ 88.35 billion as of December 31, 2025 and 2024, respectively.
+
+State Street Corporation | 171
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 27. Parent Company Financial Statements
+
+The following tables present the financial statements of the Parent Company without consolidation of its banking and non-banking subsidiaries, as of and for the years indicated:
+
+Statement of Income - Parent Company
+
+State Street Corporation | 172
+
+STATE STREET CORPORATION
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+State Street Corporation | 173
+
+SUPPLEMENTAL FINANCIAL DATA (UNAUDITED)
+
+Distribution of Average Assets, Liabilities and Shareholders’ Equity; Interest Rates and Interest Differential
+
+The following table presents consolidated average statements of condition and NII for the years indicated:
+
+(1) Fully taxable-equivalent revenue is a method of presentation in which the tax savings achieved by investing in tax-exempt investment securities and certain leases are included in interest income with a corresponding charge to income tax expense. This method facilitates the comparison of the performance of these assets. The adjustments are computed using a federal income tax rate of 21% for periods ending in 2025, 2024 and 2023, adjusted for applicable state income taxes, net of the related federal tax benefit. The fully taxable-equivalent adjustments included in interest income presented above were $1 million, $3 million and $5 million for the years ended December 31, 2025, 2024 and 2023, respectively, and were substantially related to tax-exempt securities (state and political subdivisions).
+
+(2) Non-U.S. non-interest-bearing deposits were $3.57 billion, $2.14 billion and $2.81 billion as of December 31, 2025, 2024 and 2023, respectively.
+
+(3) NIM is calculated by dividing fully taxable-equivalent NII by average total interest-earning assets.
+
+State Street Corporation | 174
+
+SUPPLEMENTAL FINANCIAL DATA (CONTINUED)
+
+The following table summarizes changes in fully taxable-equivalent interest income and interest expense due to changes in volume of interest-earning assets and interest-bearing liabilities, and due to changes in interest rates. Changes attributed to both volumes and rates have been allocated based on the proportion of change in each category.
+
+State Street Corporation | 175
+
+(1) As defined by the applicable U.S. regulations.
+
+State Street Corporation | 176
+
+State Street Corporation | 177
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+State Street has established and maintains disclosure controls and procedures that are designed to ensure that material information related to State Street and its subsidiaries on a consolidated basis required to be disclosed in its reports filed or submitted under the Securities Exchange Act of 1934 is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to State Street’s management, including its Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. For the year ended December 31, 2025, State Street’s management carried out an evaluation, with the participation of the Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of State Street’s disclosure controls and procedures. Based on the evaluation of these disclosure controls and procedures, the Chief Executive Officer and Chief Financial Officer concluded that State Street’s disclosure controls and procedures were effective as of December 31, 2025.
+
+State Street has also established and maintains internal control over financial reporting as a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes in conformity with U.S. GAAP. In the ordinary course of business, State Street routinely enhances its internal controls and procedures for financial reporting by either upgrading its current systems or implementing new systems. Changes have been made and may be made to State Street’s internal controls and procedures for financial reporting as a result of these efforts. During the quarter ended December 31, 2025, no change occurred in State Street’s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, State Street’s internal control over financial reporting.
+
+State Street Corporation | 178
+
+INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+Management’s Report on Internal Control Over Financial Reporting
+
+The management of State Street is responsible for establishing and maintaining adequate internal control over financial reporting.
+
+State Street’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America. State Street’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of State Street; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles generally accepted in the United States of America, and that receipts and expenditures of State Street are being made only in accordance with authorizations of management and directors of State Street; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of State Street’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Management assessed the effectiveness of State Street’s internal control over financial reporting as of December 31, 2025 based on the framework set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control - Integrated Framework (2013).
+
+Based on that assessment, management concluded that, as of December 31, 2025, State Street’s internal control over financial reporting is effective.
+
+The effectiveness of State Street’s internal control over financial reporting as of December 31, 2025 has been audited by Ernst & Young LLP, an independent registered public accounting firm, as stated in their accompanying report, which follows this report.
+
+State Street Corporation | 179
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and the Board of Directors of State Street Corporation
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited State Street Corporation’s internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, State Street Corporation (the Corporation) maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on the COSO criteria.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the 2025 consolidated financial statements of the Corporation and our report dated February 19, 2026 expressed an unqualified opinion thereon.
+
+Basis for Opinion
+
+The Corporation’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Corporation’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Corporation in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ Ernst & Young LLP
+
+Boston, Massachusetts
+
+February 19, 2026
+
+State Street Corporation | 180
+
+ITEM 9B. OTHER INFORMATION
+
+Securities Trading Plans of Directors and Executive Officers
+
+A significant portion of the compensation of our executive officers is delivered in the form of deferred equity awards, including deferred stock and performance-based restricted stock unit awards. This compensation design is intended to align executive compensation with the performance experienced by our shareholders. Following the delivery of shares of our common stock under those equity awards, once any applicable service-, time- or performance-based vesting standards have been satisfied, our executive officers from time to time engage in the open-market sale of some of those shares. Our executive officers may also engage from time to time in other transactions involving our securities.
+
+Transactions in our securities by our executive officers are required to be made in accordance with our Securities Trading Policy, which, among other things, requires that the transactions be in accordance with applicable U.S. federal securities laws that prohibit trading while in possession of material nonpublic information. Rule 10b5-1 under the Exchange Act provides an affirmative defense that enables prearranged transactions in securities in a manner that avoids concerns about initiating transactions at a future date while possibly in possession of material nonpublic information. Our Securities Trading Policy permits our executive officers to enter into trading plans designed to comply with Rule 10b5-1.
+
+The following table describes contracts, instructions or written plans for the sale or purchase of our securities adopted by executive officers during the fourth quarter of 2025, which are intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) , referred to as a Rule 10b5-1 trading plan.
+
+(1) A trading plan may also expire on such earlier date as all transactions under the trading plan are completed.
+
+During the fourth quarter of 2025, none of our other executive officers or directors adopted Rule 10b5-1 trading plans and none of our directors or executive officers terminated a Rule 10b5-1 trading plan or adopted or terminated a non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K).
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+None.
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+Information concerning our directors will appear in our Proxy Statement for the 2026 Annual Meeting of Shareholders, to be filed pursuant to Regulation 14A on or before April 30, 2026, referred to as the 2026 Proxy Statement, under the caption “Election of Directors.” Information concerning compliance with Section 16(a) of the Exchange Act, if required, will appear in our 2026 Proxy Statement under the caption “Delinquent Section 16(a) Reports.” Information concerning our Code of Ethics for Senior Financial Officers and our Examining and Audit Committee will appear in our 2026 Proxy Statement under the caption “Corporate Governance at State Street." Information concerning our Securities Trading Policy will appear in our 2026 Proxy Statement under the caption “Executive Equity Ownership Guidelines, Practices and Policies.” A copy of our Securities Trading Policy is filed as Exhibit 19 to this Form 10-K. Such information is incorporated herein by reference.
+
+Information about our executive officers is included under Part I.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+Information in response to this item will appear in our 2026 Proxy Statement under the captions “Executive Compensation” and “Non-Management Director Compensation.” Such information (other than the information required by Item 402(v) of Regulation S-K) is incorporated herein by reference.
+
+State Street Corporation | 181
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+Information concerning security ownership of certain beneficial owners and management will appear in our 2026 Proxy Statement under the caption “Security Ownership of Certain Beneficial Owners and Management.” Such information is incorporated herein by reference.
+
+RELATED STOCKHOLDER MATTERS
+
+The following table presents the number of outstanding common stock awards, options, warrants and rights granted by State Street to participants in our equity compensation plans, as well as the number of securities available for future issuance under these plans, as of December 31, 2025. Shares presented in the table and in the footnotes following the table are stated in thousands of shares.
+
+(1) Excludes deferred stock awards and performance awards for which there is no exercise price.
+
+(2) Consists of 4,467 thousand shares subject to deferred stock awards, zero shares subject to stock options, zero stock appreciation rights and 2,187 thousand shares subject to performance awards (assuming payout at 100% for all awards, including awards for which performance is uncertain).
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+Information concerning certain relationships and related transactions and director independence will appear in our 2026 Proxy Statement under the caption “Corporate Governance at State Street.” Such information is incorporated herein by reference.
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+Information concerning principal accounting fees and services and the Examining and Audit Committee’s pre-approval policies and procedures will appear in our 2026 Proxy Statement under the caption “Examining and Audit Committee Matters.” Such information is incorporated herein by reference.
+
+State Street Corporation | 182
+
+PART IV.
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+(A)(1) FINANCIAL STATEMENTS
+
+The following consolidated financial statements of State Street are included in Item 8 hereof:
+
+Report of Independent Registered Public Accounting Firm
+
+Consolidated Statement of Income - Years ended December 31, 2025, 2024 and 2023
+
+Consolidated Statement of Comprehensive Income - Years ended December 31, 2025, 2024 and 2023
+
+Consolidated Statement of Condition - As of December 31, 2025 and 2024
+
+Consolidated Statement of Changes in Shareholders’ Equity - Years ended December 31, 2025, 2024 and
+
+Consolidated Statement of Cash Flows - Years ended December 31, 2025, 2024 and 2023
+
+Notes to Consolidated Financial Statements
+
+(A)(2) FINANCIAL STATEMENT SCHEDULES
+
+Certain schedules to the consolidated financial statements have been omitted if they were not required by Article 9 of Regulation S-X or if, under the related instructions, they were inapplicable, or the information was contained elsewhere herein.
+
+(A)(3) EXHIBITS
+
+The exhibits listed in the Exhibit Index preceding the signature page in this Form 10-K are filed herewith or are incorporated herein by reference to other SEC filings.
+
+ITEM 16. FORM 10-K SUMMARY
+
+Not applicable.
+
+State Street Corporation | 183
+
+EXHIBIT INDEX
+
+State Street Corporation | 184
+
+State Street Corporation | 185
+
+State Street Corporation | 186
+
+Attached as Exhibit 101 to this report are the following formatted in iXBRL (Inline Extensible Business Reporting Language): (i) consolidated statement of income for the years ended December 31, 2025, 2024 and 2023, (ii) consolidated statement of comprehensive income for the years ended December 31, 2025, 2024 and 2023, (iii) consolidated statement of condition as of December 31, 2025 and 2024, (iv) consolidated statement of changes in shareholders’ equity for the years ended December 31, 2025, 2024 and 2023, (v) consolidated statement of cash flows for the years ended December 31, 2025, 2024 and 2023, and (vi) notes to consolidated financial statements.
+
+State Street Corporation | 187
+
+SIGNATURES
+
+Pursuant to the requirement of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, on February 19, 2026, hereunto duly authorized.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below on February 19, 2026, by the following persons on behalf of the registrant and in the capacities indicated.
+
+OFFICERS:
+
+DIRECTORS:
+
+State Street Corporation | 188

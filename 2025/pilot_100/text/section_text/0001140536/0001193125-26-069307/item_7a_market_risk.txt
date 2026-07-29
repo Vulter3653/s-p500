@@ -1,0 +1,73 @@
+ITEM 7A. QUANTITATIVE AND QUALITA TIVE DISCLOSURES ABOUT MARKET RISK
+
+Financial Risk Management
+
+We are exposed to market risk from changes in foreign currency exchange rates. In order to manage the risk arising from these exposures, we enter into a variety of foreign currency derivatives. We do not hold financial or derivative instruments for trading purposes.
+
+A discussion of our accounting policies for financial and derivative instruments is included in Note 2 — Basis of Presentation, Significant Accounting Policies and Recent Accounting Pronouncements and Note 10 — Derivative Financial Instruments within Item 8 of this Annual Report on Form 10-K.
+
+Foreign Exchange Risk
+
+Because of the large number of countries and currencies we operate in, movements in currency exchange rates may affect our results.
+
+We report our operating results and financial condition in U.S. dollars. Our U.S. operations earn revenue and incur expenses primarily in U.S. dollars. Outside the U.S., we predominantly generate revenue and expenses in the local currency with the exception of our London market operations which earn revenue in several currencies but incur expenses predominantly in Pounds sterling.
+
+The table below gives an approximate analysis of revenue and expenses by currency in 2025.
+
+These percentages exclude certain expenses for significant items which will not be settled in cash, or which we believe to be items that are not core to our current or future operations. These items include amortization of intangible assets and transaction and transformation.
+
+Our principal exposures to foreign exchange risk arise from:
+
+our London market operations;
+
+intercompany lending between subsidiaries; and
+
+translation.
+
+London market operations
+
+The Company’s primary foreign exchange risks in its London market operations arise from changes in the exchange rate between the U.S. dollar and Pound sterling as its London market operations earn the majority of its revenue in U.S. dollars but incur expenses predominantly in Pounds sterling and may also hold significant foreign currency asset or liability positions on its consolidated balance sheet. In addition, the London market operations earn significant revenue in Euros.
+
+The foreign exchange risks in our London market operations are hedged to the extent that:
+
+forecasted Pounds sterling expenses exceed Pounds sterling revenue, in which case the Company limits its exposure to this exchange rate risk by the use of forward and option contracts matched to a portion of the forecasted Pounds sterling outflows arising in the ordinary course of business. In addition, we are also exposed to foreign exchange risk on any net non-dollar asset or liability positions on our London market operations' balance sheets; and
+
+the U.K. operations also earn significant revenue in Euros. The Company limits its exposure to changes in the exchange rates between the U.S. dollar and Euros by the use of foreign exchange contracts matched to a proportion of forecast revenue inflows in these specific currencies and periods.
+
+Intercompany lending between subsidiaries
+
+The Company engages in intercompany borrowing and lending between subsidiaries, primarily through its in-house banking operations which give rise to foreign exchange exposures. The Company mitigates these risks through the use of short-term foreign currency forward and swap transactions that offset the underlying exposure created when the borrower and lender have different functional currencies. These derivatives are not generally designated as hedging instruments and at December 31, 2025, we had notional amounts of $739 million (denominated primarily in U.S. dollars, Pounds sterling and Euros), with a net fair value asset of $1 million. Such derivatives typically mature within three months.
+
+Translation risk
+
+Outside our U.S. and London market operations, we predominantly earn revenue and incur expenses in the local currency. When we translate the results and net assets of these operations into U.S. dollars for reporting purposes, movements in exchange rates will affect reported results and net assets. For example, if the U.S. dollar strengthens against the Euro, the reported results of our Eurozone operations in U.S. dollar terms will be lower.
+
+The table below provides information about our foreign currency forward exchange and option contracts which are designated as hedging instruments and are sensitive to exchange rate risk. The table summarizes the U.S. dollar equivalent amounts of each currency bought and sold forward and the weighted-average contractual exchange rates. All forward exchange contracts mature within two years.
+
+Represents the difference between the contract amount and the cash flow in U.S. dollars which would have been receivable had the foreign currency forward exchange contracts been entered into on December 31, 2025 at the forward exchange rates prevailing at that date.
+
+Income earned within foreign subsidiaries outside of the U.K. is generally offset by expenses in the same local currency, however the Company does have exposure to foreign exchange movements on the net income of these entities.
+
+Interest Rate Risk
+
+The Company has access to $1.5 billion under a revolving credit facility (see Note 11 — Debt within Item 8 of this Annual Report on Form 10-K for further information). As of December 31, 2025, no amount was drawn on this facility. We are also subject to market risk from exposure to changes in interest rates based on our investing activities where our primary interest rate risk arises from changes in short-term interest rates in U.S. dollars, Pounds sterling and Euros.
+
+The table below provides information about our financial instruments that are sensitive to changes in interest rates. The Company had no outstanding floating rate-based debt at December 31, 2025.
+
+Represents the net present value of the expected cash flows discounted at current market rates of interest or quoted market rates as appropriate.
+
+Interest Income on Fiduciary Funds
+
+We are exposed to interest rate risk. Specifically, as a result of our operating activities, we receive cash for premiums and claims which we deposit in high-quality bank term deposit and money market funds, on which we earn interest, where permitted. We also hold funds for clients of our benefits accounts businesses. For the benefit funds not invested, cash and cash equivalents are held, on which we earn interest, until the funds are directed by plan participants to either be invested in mutual funds or paid out on their behalf. This interest earned is included in our consolidated financial statements as interest income. These funds are regulated in terms of access and the instruments in which they may be invested, most of which are short-term in maturity. Short-term rates in major currencies began to decrease over the second half of 2024 from end-of-2023 levels. This followed some steep central bank rate increases in 2023. Our increased interest income in 2024 reflected a combination of relatively high-average interest rates over the course of 2024 and some increases in our invested cash balances. Through the end of 2025, although at levels below the same period
+
+in 2024, short-term rates have remained in line with expectations. Significant economic uncertainty prevails at this time, and the timing and magnitude of future central bank rate changes are uncertain. As to be expected, interest income in the future will be a function of the short-term rates we are able to obtain by currency and the cash balances available to invest. Interest income was $156 million, $166 million and $145 million for the years ended December 31, 2025, 2024 and 2023, respectively. At December 31, 2025, we held $2.7 billion of fiduciary funds invested in interest-bearing accounts. If short-term interest rates increased or decreased by 25 basis points, interest earned on these invested fiduciary funds, and therefore our interest income recognized, would increase or decrease by approximately $7 million on an annualized basis.
+
+Credit Risk and Concentrations of Credit Risk
+
+Credit risk represents the loss that would be recognized at the reporting date if counterparties failed to perform as contracted. The Company currently does not anticipate non-performance by its counterparties. The Company generally does not require collateral or other security to support financial instruments with credit risk.
+
+Concentrations of credit risk that arise from financial instruments exist for groups of customers or counterparties when they have similar economic characteristics that would cause their ability to meet contractual obligations to be similarly affected by changes in economic or other conditions. Financial instruments on the balance sheet that potentially subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents, fiduciary funds, accounts receivable and derivatives which are recorded at fair value.
+
+The Company maintains a policy of providing for the diversification of cash and cash equivalent investments and places such investments in an extensive number of financial institutions to limit the amount of credit risk exposure. These financial institutions are monitored on an ongoing basis for credit quality predominantly using information provided by credit agencies.
+
+Concentrations of credit risk with respect to receivables are limited due to the large number of clients and markets in which the Company does business, as well as the dispersion across many geographic areas. Management does not believe that significant risk exists in connection with the Company’s concentrations of credit as of December 31, 2025.

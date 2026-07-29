@@ -1,0 +1,363 @@
+[TABLE 001]
+FORM 10-K
+[END TABLE 001]
+
+[TABLE 002]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 003]
+
+[TABLE 004]
+EMCOR Group, Inc. (Exact name of registrant as specified in its charter)
+[END TABLE 004]
+
+[TABLE 005]
+Delaware 11-2125338 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) 301 Merritt Seven Norwalk, Connecticut 06851-1092 (Address of principal executive offices) (Zip Code)
+[END TABLE 005]
+
+[TABLE 006]
+Title of each class Trading Symbol Name of each exchange on which registered Common Stock EME New York Stock Exchange
+[END TABLE 006]
+
+[TABLE 007]
+Large Accelerated Filer ☒ Accelerated Filer ☐ Non-accelerated Filer ☐ Smaller Reporting Company ☐ Emerging Growth Company ☐
+[END TABLE 007]
+
+[TABLE 008]
+PAGE PART I Item 1. Business 1 Overview 1 Operations 2 Competition 5 Human Capital 5 Available Information 7 Item 1A. Risk Factors 8 Item 1B. Unresolved Staff Comments 19 Item 1C. Cybersecurity 19 Item 2. Properties 20 Item 3. Legal Proceedings 20 Item 4. Mine Safety Disclosures 20 Executive Officers of the Registrant 21 PART II Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 22 Item 6. [Reserved] 22 Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 23 Item 7A. Quantitative and Qualitative Disclosures about Market Risk 36 Item 8. Financial Statements and Supplementary Data 37 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 81 Item 9A. Controls and Procedures 81 Item 9B. Other Information 82 Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 82 PART III Item 10. Directors, Executive Officers and Corporate Governance 83 Item 11. Executive Compensation 83 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 83 Item 13. Certain Relationships and Related Transactions, and Director Independence 83 Item 14. Principal Accountant Fees and Services 83 PART IV Item 15. Exhibits and Financial Statement Schedules 84 Item 16. Form 10-K Summary 87
+[END TABLE 008]
+
+[TABLE 009]
+Employee Demographic % of Total White 66 % Hispanic / Latino 21 % Black / African American 8 % Asian 2 % Multiracial, Native American, Native Hawaiian, and Pacific Islander 3 %
+[END TABLE 009]
+
+[TABLE 010]
+Period Total Number of Shares Purchased (1) (2) Average Price Paid Per Share (3) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares That May Yet be Purchased Under the Plan or Programs October 1, 2025 to October 31, 2025 10,377 $669.69 10,377 $329,119,607 November 1, 2025 to November 30, 2025 134,792 $611.95 134,792 $245,849,432 December 1, 2025 to December 31, 2025 106,370 $607.79 106,370 $680,584,373 Total 251,539 $612.58 251,539
+[END TABLE 010]
+
+[TABLE 011]
+2025 2024 Revenues $ 16,986,422 $ 14,566,116 Revenues increase from prior year 16.6 % 15.8 % Gross profit $ 3,282,988 $ 2,765,051 Gross profit as a percentage of revenues 19.3 % 19.0 % Gain on sale of United Kingdom operations $ 144,876 $ — Operating income $ 1,713,418 $ 1,344,863 Operating income as a percentage of revenues 10.1 % 9.2 % Net income attributable to EMCOR Group, Inc. $ 1,272,817 $ 1,007,145 Diluted earnings per common share $ 28.19 $ 21.52
+[END TABLE 011]
+
+[TABLE 012]
+2025 % of Total 2024 % of Total Revenues from unrelated entities: United States electrical construction and facilities services $ 5,074,252 30 % $ 3,342,927 23 % United States mechanical construction and facilities services 7,050,481 42 % 6,405,657 44 % United States building services 3,122,242 18 % 3,114,817 21 % United States industrial services 1,268,099 7 % 1,277,190 9 % Total United States operations 16,515,074 97 % 14,140,591 97 % United Kingdom building services 471,348 3 % 425,525 3 % Consolidated revenues $ 16,986,422 100 % $ 14,566,116 100 %
+[END TABLE 012]
+
+[TABLE 013]
+2025 2024 Cost of sales $ 13,703,434 $ 11,801,065 Gross profit $ 3,282,988 $ 2,765,051 Gross profit margin 19.3 % 19.0 %
+[END TABLE 013]
+
+[TABLE 014]
+2025 2024 Selling, general and administrative expenses $ 1,714,446 $ 1,420,188 SG&A margin 10.1 % 9.7 %
+[END TABLE 014]
+
+[TABLE 015]
+2025 % of Segment Revenues 2024 % of Segment Revenues Operating income (loss): United States electrical construction and facilities services $ 611,952 12.1 % $ 447,186 13.4 % United States mechanical construction and facilities services 905,325 12.8 % 799,613 12.5 % United States building services 187,192 6.0 % 176,720 5.7 % United States industrial services 24,998 2.0 % 44,213 3.5 % Total United States operations 1,729,467 10.5 % 1,467,732 10.4 % United Kingdom building services 20,969 4.4 % 21,485 5.0 % Corporate administration (181,894) — (144,354) — Gain on sale of United Kingdom operations 144,876 — Consolidated operating income 1,713,418 10.1 % 1,344,863 9.2 % Other items: Net periodic pension income 211 894 Interest expense (12,020) (3,779) Interest income 20,015 35,404 Income before income taxes $ 1,721,624 $ 1,377,382
+[END TABLE 015]
+
+[TABLE 016]
+December 31, 2025 % of Total December 31, 2024 % of Total Remaining performance obligations: United States electrical construction and facilities services $ 4,963,855 38 % $ 3,068,396 31 % United States mechanical construction and facilities services 6,929,300 52 % 5,463,096 54 % United States building services 1,188,537 9 % 1,246,642 12 % United States industrial services 171,972 1 % 138,599 1 % Total United States operations 13,253,664 100 % 9,916,733 98 % United Kingdom building services — — % 185,466 2 % Total operations $ 13,253,664 100 % $ 10,102,199 100 %
+[END TABLE 016]
+
+[TABLE 017]
+2025 2024 Net cash provided by operating activities $ 1,302,063 $ 1,407,894 Net cash used in investing activities $ (873,586) $ (299,284) Net cash used in financing activities $ (663,761) $ (555,365) Effect of exchange rate changes on cash, cash equivalents, and restricted cash $ 6,857 $ (2,600) (Decrease) increase in cash, cash equivalents, and restricted cash $ (228,427) $ 550,645
+[END TABLE 017]
+
+[TABLE 018]
+2025 2024 2023 United States electrical construction and facilities services $ 2,513 $ 14,006 $ 3,350 United States mechanical construction and facilities services 13,834 10,551 13,114 Total impact $ 16,347 $ 24,557 $ 16,464
+[END TABLE 018]
+
+[TABLE 019]
+2025 2024 2023 United States electrical construction and facilities services $ 50,866 $ 27,977 $ 12,535 United States mechanical construction and facilities services 35,075 38,342 10,864 United States building services — — 5,658 Total impact $ 85,941 $ 66,319 $ 29,057
+[END TABLE 019]
+
+[TABLE 020]
+December 31, 2025 December 31, 2024 ASSETS Current assets: Cash and cash equivalents $ 1,111,968 $ 1,339,550 Accounts receivable, less allowance for credit losses of $ 22,757 and $ 34,957 , respectively 4,241,177 3,577,537 Contract assets 337,717 284,791 Inventories 126,252 95,667 Prepaid expenses and other 120,231 91,644 Total current assets 5,937,345 5,389,189 Property, plant, and equipment, net 253,277 207,489 Operating lease right-of-use assets 439,029 316,128 Goodwill 1,412,414 1,018,415 Identifiable intangible assets, net 1,108,828 648,180 Other assets 140,506 137,072 Total assets $ 9,291,399 $ 7,716,473 LIABILITIES AND EQUITY Current liabilities: Accounts payable $ 1,227,428 $ 937,087 Contract liabilities 2,327,360 2,047,540 Accrued payroll and benefits 870,154 751,434 Other accrued expenses and liabilities 340,785 336,555 Operating lease liabilities, current 99,213 81,247 Total current liabilities 4,864,940 4,153,863 Operating lease liabilities, long-term 368,996 261,575 Other long-term obligations 382,482 362,341 Total liabilities 5,616,418 4,777,779 Equity: EMCOR Group, Inc. stockholders’ equity: Preferred stock, $ 0.10 par value, 1,000,000 shares authorized, zero issued and outstanding — — Common stock, $ 0.01 par value, 200,000,000 shares authorized, 61,252,599 and 61,186,088 shares issued, respectively 613 612 Capital surplus 101,336 97,475 Accumulated other comprehensive loss ( 1,916 ) ( 85,527 ) Retained earnings 6,005,772 4,778,061 Treasury stock, at cost 16,732,232 and 15,375,963 shares, respectively ( 2,431,861 ) ( 1,852,964 ) Total EMCOR Group, Inc. stockholders’ equity 3,673,944 2,937,657 Noncontrolling interests 1,037 1,037 Total equity 3,674,981 2,938,694 Total liabilities and equity $ 9,291,399 $ 7,716,473
+[END TABLE 020]
+
+[TABLE 021]
+2025 2024 2023 Revenues $ 16,986,422 $ 14,566,116 $ 12,582,873 Cost of sales 13,703,434 11,801,065 10,493,534 Gross profit 3,282,988 2,765,051 2,089,339 Selling, general and administrative expenses 1,714,446 1,420,188 1,211,233 Gain on sale of United Kingdom operations 144,876 — — Impairment loss on long-lived assets — — 2,350 Operating income 1,713,418 1,344,863 875,756 Net periodic pension income (cost) 211 894 ( 1,119 ) Interest expense ( 12,020 ) ( 3,779 ) ( 17,199 ) Interest income 20,015 35,404 15,415 Income before income taxes 1,721,624 1,377,382 872,853 Income tax provision 448,807 370,237 239,524 Net income including noncontrolling interests 1,272,817 1,007,145 633,329 Net income attributable to noncontrolling interests — — 335 Net income attributable to EMCOR Group, Inc. $ 1,272,817 $ 1,007,145 $ 632,994 Basic earnings per common share $ 28.30 $ 21.61 $ 13.37 Diluted earnings per common share $ 28.19 $ 21.52 $ 13.31 Dividends declared per common share $ 1.00 $ 0.93 $ 0.69
+[END TABLE 021]
+
+[TABLE 022]
+2025 2024 2023 Net income including noncontrolling interests $ 1,272,817 $ 1,007,145 $ 633,329 Other comprehensive income (loss), net of tax: Foreign currency translation adjustments 7,961 ( 2,900 ) 6,417 Changes in post-retirement plans (1) 2,110 3,077 1,330 Release of accumulated other comprehensive loss from sale of United Kingdom operations 73,540 — — Other comprehensive income 83,611 177 7,747 Comprehensive income 1,356,428 1,007,322 641,076 Comprehensive income attributable to noncontrolling interests — — 335 Comprehensive income attributable to EMCOR Group, Inc. $ 1,356,428 $ 1,007,322 $ 640,741
+[END TABLE 022]
+
+[TABLE 023]
+2025 2024 2023 Cash flows - operating activities: Net income including noncontrolling interests $ 1,272,817 $ 1,007,145 $ 633,329 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 67,368 56,678 51,822 Amortization of identifiable intangible assets 119,052 77,002 67,143 Provision for credit losses 7,671 17,303 7,859 Deferred income taxes ( 16,055 ) ( 29,115 ) ( 16,651 ) Gain on sale of United Kingdom operations ( 144,876 ) — — Gain on sale or disposal of property, plant, and equipment ( 2,229 ) ( 1,012 ) ( 2,057 ) Excess tax benefits from share-based compensation ( 5,006 ) ( 3,978 ) ( 1,719 ) Equity income from unconsolidated entities ( 62 ) ( 98 ) ( 1,660 ) Non-cash expense for amortization of debt issuance costs 822 822 960 Non-cash (income) expense from contingent consideration arrangements ( 534 ) 8,892 2,287 Non-cash expense for impairment of long-lived assets — — 2,350 Non-cash share-based compensation expense 20,595 19,978 13,739 Distributions from unconsolidated entities 251 1,554 400 Changes in operating assets and liabilities, excluding the effect of businesses acquired: Increase in accounts receivable ( 437,768 ) ( 311,504 ) ( 626,494 ) (Increase) decrease in inventories ( 26,951 ) 17,982 ( 23,442 ) (Increase) decrease in contract assets ( 42,752 ) ( 13,318 ) 5,733 Increase (decrease) in accounts payable 189,349 ( 15,362 ) 82,192 Increase in contract liabilities 155,596 426,628 489,728 Increase in accrued payroll and benefits and other accrued expenses and liabilities 141,191 148,490 189,268 Changes in other assets and liabilities, net 3,584 ( 193 ) 24,868 Net cash provided by operating activities 1,302,063 1,407,894 899,655 Cash flows - investing activities: Payments for acquisitions of businesses, net of cash acquired ( 1,022,105 ) ( 228,173 ) ( 96,491 ) Net proceeds from sale of United Kingdom operations 256,622 — — Proceeds from sale or disposal of property, plant, and equipment 4,647 3,839 13,604 Purchases of property, plant, and equipment ( 112,750 ) ( 74,950 ) ( 78,404 ) Net cash used in investing activities ( 873,586 ) ( 299,284 ) ( 161,291 ) Cash flows - financing activities: Proceeds from revolving credit facility 525,000 — 200,000 Repayments of revolving credit facility ( 525,000 ) — ( 200,000 ) Repayments of long-term debt and debt issuance costs — — ( 246,171 ) Repayments of finance lease liabilities ( 2,692 ) ( 2,855 ) ( 2,776 ) Dividends paid to stockholders ( 45,023 ) ( 43,384 ) ( 32,684 ) Repurchases of common stock ( 586,258 ) ( 489,820 ) ( 127,713 ) Taxes paid related to net share settlements of equity awards ( 16,816 ) ( 15,397 ) ( 6,060 ) Issuances of common stock under employee stock purchase plan — 943 9,189 Payments for contingent consideration arrangements ( 12,038 ) ( 4,852 ) ( 5,839 ) Distributions to noncontrolling interests ( 934 ) — — Net cash used in financing activities ( 663,761 ) ( 555,365 ) ( 412,054 ) Effect of exchange rate changes on cash, cash equivalents, and restricted cash 6,857 ( 2,600 ) 6,372 (Decrease) increase in cash, cash equivalents, and restricted cash ( 228,427 ) 550,645 332,682 Cash, cash equivalents, and restricted cash at beginning of year (1) 1,340,395 789,750 457,068 Cash, cash equivalents, and restricted cash at end of period (1) $ 1,111,968 $ 1,340,395 $ 789,750
+[END TABLE 023]
+
+[TABLE 024]
+EMCOR Group, Inc. Stockholders Total Common stock Capital surplus Accumulated other comprehensive loss (1) Retained earnings Treasury stock Noncontrolling interests Balance, December 31, 2022 $ 1,974,291 $ 609 $ 74,795 $ ( 93,451 ) $ 3,214,281 $ ( 1,222,645 ) $ 702 Net income including noncontrolling interests 633,329 — — — 632,994 — 335 Other comprehensive income 7,747 — — 7,747 — — — Common stock issued under share-based compensation plans — 2 ( 2 ) — — — — Tax withholding for common stock issued under share-based compensation plans ( 6,060 ) — ( 6,060 ) — — — — Common stock issued under employee stock purchase plan 9,189 — 9,189 — — — — Common stock dividends ( 32,684 ) — 152 — ( 32,836 ) — — Repurchases of common stock ( 128,736 ) — — — — ( 128,736 ) — Share-based compensation expense 13,739 — 13,739 — — — — Balance, December 31, 2023 $ 2,470,815 $ 611 $ 91,813 $ ( 85,704 ) $ 3,814,439 $ ( 1,351,381 ) $ 1,037 Net income including noncontrolling interests 1,007,145 — — — 1,007,145 — — Other comprehensive income 177 — — 177 — — — Common stock issued under share-based compensation plans — 1 ( 1 ) — — — — Tax withholding for common stock issued under share-based compensation plans ( 15,397 ) — ( 15,397 ) — — — — Common stock issued under employee stock purchase plan 943 — 943 — — — — Common stock dividends ( 43,384 ) — 139 — ( 43,523 ) — — Repurchases of common stock ( 501,583 ) — — — — ( 501,583 ) — Share-based compensation expense 19,978 — 19,978 — — — — Balance, December 31, 2024 $ 2,938,694 $ 612 $ 97,475 $ ( 85,527 ) $ 4,778,061 $ ( 1,852,964 ) $ 1,037 Net income including noncontrolling interests 1,272,817 — — — 1,272,817 — — Other comprehensive income 83,611 — — 83,611 — — — Common stock issued under share-based compensation plans — 1 ( 1 ) — — — — Tax withholding for common stock issued under share-based compensation plans ( 16,816 ) — ( 16,816 ) — — — — Common stock dividends ( 45,023 ) — 83 — ( 45,106 ) — — Repurchases of common stock ( 578,897 ) — — — — ( 578,897 ) — Acquisition of noncontrolling interests 934 — — — — — 934 Distributions to noncontrolling interests ( 934 ) — — — — — ( 934 ) Share-based compensation expense 20,595 — 20,595 — — — — Balance, December 31, 2025 $ 3,674,981 $ 613 $ 101,336 $ ( 1,916 ) $ 6,005,772 $ ( 2,431,861 ) $ 1,037
+[END TABLE 024]
+
+[TABLE 025]
+Balance at December 31, 2024 $ 34,957 Provision for credit losses 7,671 Amounts written off against the allowance, net of recoveries ( 19,871 ) Balance at December 31, 2025 $ 22,757
+[END TABLE 025]
+
+[TABLE 026]
+2025 2024 2023 United States electrical construction and facilities services $ 2,513 $ 14,006 $ 3,350 United States mechanical construction and facilities services 13,834 10,551 13,114 Total impact $ 16,347 $ 24,557 $ 16,464
+[END TABLE 026]
+
+[TABLE 027]
+2025 2024 2023 United States electrical construction and facilities services $ 50,866 $ 27,977 $ 12,535 United States mechanical construction and facilities services 35,075 38,342 10,864 United States building services — — 5,658 Total impact $ 85,941 $ 66,319 $ 29,057
+[END TABLE 027]
+
+[TABLE 028]
+2025 % of Total 2024 % of Total 2023 % of Total United States electrical construction and facilities services: Network and communications market sector $ 2,461,883 48 % $ 1,442,877 43 % $ 934,455 34 % Commercial market sector 430,083 8 % 310,730 9 % 402,886 14 % Manufacturing and industrial market sector 467,621 9 % 439,450 13 % 394,804 14 % Healthcare market sector 463,075 9 % 242,458 7 % 242,931 9 % High-tech manufacturing market sector 134,310 3 % 190,992 6 % 140,471 5 % Institutional market sector 283,518 6 % 174,073 5 % 147,375 5 % Transportation market sector 261,703 5 % 210,835 6 % 167,976 6 % Water and wastewater market sector 39,231 1 % 27,751 1 % 21,234 1 % Hospitality and entertainment market sector 128,940 3 % 66,982 2 % 81,815 3 % Short duration projects (1) 314,357 6 % 180,020 6 % 186,722 7 % Service work 95,357 2 % 62,947 2 % 65,338 2 % 5,080,078 3,349,115 2,786,007 Less intersegment revenues ( 5,826 ) ( 6,188 ) ( 2,284 ) Total segment revenues $ 5,074,252 $ 3,342,927 $ 2,783,723
+[END TABLE 028]
+
+[TABLE 029]
+2025 % of Total 2024 % of Total 2023 % of Total United States mechanical construction and facilities services: Network and communications market sector $ 1,670,355 23 % $ 818,991 13 % $ 410,397 8 % Commercial market sector 870,245 12 % 989,012 15 % 1,115,993 22 % Manufacturing and industrial market sector 897,425 13 % 736,775 12 % 698,993 14 % Healthcare market sector 590,715 8 % 580,676 9 % 489,485 10 % High-tech manufacturing market sector 997,798 14 % 1,453,384 23 % 845,251 16 % Institutional market sector 472,420 7 % 455,940 7 % 316,255 6 % Transportation market sector 49,010 1 % 55,622 1 % 42,789 1 % Water and wastewater market sector 346,528 5 % 308,329 5 % 286,912 6 % Hospitality and entertainment market sector 127,893 2 % 70,707 1 % 52,919 1 % Short duration projects (1) 407,163 6 % 335,900 5 % 324,056 6 % Service work 634,906 9 % 606,551 9 % 500,853 10 % 7,064,458 6,411,887 5,083,903 Less intersegment revenues ( 13,977 ) ( 6,230 ) ( 9,100 ) Total segment revenues $ 7,050,481 $ 6,405,657 $ 5,074,803
+[END TABLE 029]
+
+[TABLE 030]
+2025 % of Total 2024 % of Total 2023 % of Total United States building services: Mechanical services $ 2,402,269 77 % $ 2,260,607 73 % $ 2,042,244 65 % Commercial site-based services 563,766 18 % 669,584 21 % 865,232 28 % Government site-based services 156,207 5 % 184,626 6 % 212,658 7 % Total segment revenues $ 3,122,242 $ 3,114,817 $ 3,120,134
+[END TABLE 030]
+
+[TABLE 031]
+2025 % of Total 2024 % of Total 2023 % of Total United States industrial services: Field services $ 1,100,435 87 % $ 1,113,613 87 % $ 991,466 85 % Shop services 167,664 13 % 163,577 13 % 176,324 15 % Total segment revenues $ 1,268,099 $ 1,277,190 $ 1,167,790 Total United States operations $ 16,515,074 $ 14,140,591 $ 12,146,450
+[END TABLE 031]
+
+[TABLE 032]
+2025 % of Total 2024 % of Total 2023 % of Total United Kingdom building services: Service work $ 238,826 51 % $ 199,658 47 % $ 210,414 48 % Project work 232,522 49 % 225,867 53 % 226,009 52 % Total segment revenues $ 471,348 $ 425,525 $ 436,423 Consolidated revenues $ 16,986,422 $ 14,566,116 $ 12,582,873
+[END TABLE 032]
+
+[TABLE 033]
+December 31, 2025 December 31, 2024 Contract assets, current $ 337,717 $ 284,791 Contract assets, non-current — — Contract liabilities, current ( 2,327,360 ) ( 2,047,540 ) Contract liabilities, non-current ( 837 ) ( 1,526 ) Net contract liabilities $ ( 1,990,480 ) $ ( 1,764,275 )
+[END TABLE 033]
+
+[TABLE 034]
+December 31, 2025 December 31, 2024 Costs incurred on uncompleted construction contracts $ 23,380,178 $ 18,093,285 Estimated earnings, thereon 5,126,164 3,562,012 28,506,342 21,655,297 Less: billings to date 30,428,471 23,346,291 $ ( 1,922,129 ) $ ( 1,690,994 )
+[END TABLE 034]
+
+[TABLE 035]
+December 31, 2025 % of Total Remaining performance obligations: United States electrical construction and facilities services $ 4,963,855 38 % United States mechanical construction and facilities services 6,929,300 52 % United States building services 1,188,537 9 % United States industrial services 171,972 1 % Total operations $ 13,253,664 100 %
+[END TABLE 035]
+
+[TABLE 036]
+Within one year Greater than one year Remaining performance obligations: United States electrical construction and facilities services $ 3,937,660 $ 1,026,195 United States mechanical construction and facilities services 5,621,652 1,307,648 United States building services 1,080,633 107,904 United States industrial services 171,972 — Total operations $ 10,811,917 $ 2,441,747
+[END TABLE 036]
+
+[TABLE 037]
+Assets: Cash and cash equivalents $ 18,394 Accounts receivable (1) 222,355 Contract assets 23,120 Inventories 329 Prepaid expenses and other 7,284 Property, plant, and equipment 10,462 Operating lease right-of-use assets 30,345 Goodwill (2) 326,776 Identifiable intangible assets 475,000 Other assets 302 Total assets acquired $ 1,114,367
+[END TABLE 037]
+
+[TABLE 038]
+Liabilities: Accounts payable $ 68,147 Contract liabilities 104,595 Accrued payroll and benefits 9,838 Other accrued expenses and liabilities 22,746 Operating lease liabilities, current 2,573 Operating lease liabilities, long-term 27,771 Other long-term obligations 991 Total liabilities assumed 236,661 Noncontrolling interests 934 Net assets acquired $ 876,772
+[END TABLE 038]
+
+[TABLE 039]
+Miller Electric Preliminary Fair Value Estimated Useful Life Customer relationships $ 280,000 16.0 Contract backlog 40,000 1.5 Total intangible assets subject to amortization 320,000 14.2 Trade name 155,000 Indefinite Total identifiable intangible assets $ 475,000
+[END TABLE 039]
+
+[TABLE 040]
+2025 2024 2023 Numerator: Net income attributable to EMCOR Group, Inc. $ 1,272,817 $ 1,007,145 $ 632,994 Denominator: Weighted average shares outstanding used to compute basic earnings per common share 44,982,102 46,616,079 47,358,467 Effect of dilutive securities—Share-based awards 163,665 192,214 205,791 Shares used to compute diluted earnings per common share 45,145,767 46,808,293 47,564,258 Basic earnings per common share $ 28.30 $ 21.61 $ 13.37 Diluted earnings per common share $ 28.19 $ 21.52 $ 13.31
+[END TABLE 040]
+
+[TABLE 041]
+December 31, 2025 December 31, 2024 Raw materials and construction materials $ 119,789 $ 83,935 Work in process 6,463 11,732 Inventories $ 126,252 $ 95,667
+[END TABLE 041]
+
+[TABLE 042]
+December 31, 2025 December 31, 2024 Machinery and equipment $ 274,269 $ 243,354 Vehicles 73,208 83,422 Furniture and fixtures 32,363 29,150 Computer hardware/software 105,608 107,376 Land, buildings, and leasehold improvements 191,234 162,336 Construction in progress 24,796 13,059 Finance lease right-of-use assets (1) 6,111 6,009 707,589 644,706 Accumulated depreciation and amortization ( 454,312 ) ( 437,217 ) $ 253,277 $ 207,489
+[END TABLE 042]
+
+[TABLE 043]
+United States electrical construction and facilities services segment United States mechanical construction and facilities services segment United States building services segment United States industrial services segment Total Balance at December 31, 2023 $ 178,013 $ 318,353 $ 346,095 $ 114,088 $ 956,549 Acquisitions 13,739 26,111 12,210 9,806 61,866 Balance at December 31, 2024 191,752 344,464 358,305 123,894 1,018,415 Acquisitions 326,810 58,022 9,167 — 393,999 Balance at December 31, 2025 $ 518,562 $ 402,486 $ 367,472 $ 123,894 $ 1,412,414
+[END TABLE 043]
+
+[TABLE 044]
+December 31, 2025 Gross Carrying Amount Accumulated Amortization Accumulated Impairment Charge Total Customer relationships $ 1,255,279 $ ( 624,990 ) $ ( 4,834 ) $ 625,455 Trade names (indefinite-lived) 503,071 — ( 58,933 ) 444,138 Contract backlog 147,595 ( 123,164 ) — 24,431 Developed technology/Vendor network 95,661 ( 87,888 ) — 7,773 Trade names (finite-lived) 40,491 ( 33,460 ) — 7,031 Total $ 2,042,097 $ ( 869,502 ) $ ( 63,767 ) $ 1,108,828
+[END TABLE 044]
+
+[TABLE 045]
+December 31, 2024 Gross Carrying Amount Accumulated Amortization Accumulated Impairment Charge Total Customer relationships $ 902,216 $ ( 543,913 ) $ ( 4,834 ) $ 353,469 Trade names (indefinite-lived) 330,271 — ( 58,933 ) 271,338 Contract backlog 96,045 ( 93,460 ) — 2,585 Developed technology/Vendor network 95,661 ( 83,338 ) — 12,323 Trade names (finite-lived) 38,491 ( 30,026 ) — 8,465 Total $ 1,462,684 $ ( 750,737 ) $ ( 63,767 ) $ 648,180
+[END TABLE 045]
+
+[TABLE 046]
+2026 $ 113,570 2027 75,612 2028 66,541 2029 60,660 2030 54,028 Thereafter 294,279 $ 664,690
+[END TABLE 046]
+
+[TABLE 047]
+Assets at Fair Value as of December 31, 2025 Asset Category Level 1 Level 2 Level 3 Total Cash and cash equivalents (1) $ 1,111,968 $ — $ — $ 1,111,968 Deferred compensation plan assets (2) 75,627 — — 75,627 Total $ 1,187,595 $ — $ — $ 1,187,595
+[END TABLE 047]
+
+[TABLE 048]
+Assets at Fair Value as of December 31, 2024 Asset Category Level 1 Level 2 Level 3 Total Cash and cash equivalents (1) $ 1,339,550 $ — $ — $ 1,339,550 Deferred compensation plan assets (2) 61,242 — — 61,242 Restricted cash (3) 845 — — 845 Total $ 1,401,637 $ — $ — $ 1,401,637
+[END TABLE 048]
+
+[TABLE 049]
+2025 2024 2023 United States $ 1,695,149 $ 1,349,469 $ 844,002 Foreign 26,475 27,913 28,851 $ 1,721,624 $ 1,377,382 $ 872,853
+[END TABLE 049]
+
+[TABLE 050]
+2025 2024 2023 Current provision: Federal $ 356,795 $ 299,203 $ 187,463 State and local 102,560 94,647 62,316 Foreign 5,507 5,502 6,396 464,862 399,352 256,175 Deferred provision (benefit): Federal $ ( 11,596 ) $ ( 24,024 ) $ ( 13,764 ) State and local ( 5,604 ) ( 6,483 ) ( 3,190 ) Foreign 1,145 1,392 303 ( 16,055 ) ( 29,115 ) ( 16,651 ) Income tax provision $ 448,807 $ 370,237 $ 239,524
+[END TABLE 050]
+
+[TABLE 051]
+2025 2024 2023 Amount % Amount % Amount % U.S. federal statutory tax rate $ 361,541 21.0 % $ 289,250 21.0 % $ 183,230 21.0 % State and local income taxes, net of federal income tax effect (1) 75,588 4.4 % 69,202 5.0 % 46,752 5.4 % Foreign tax effects (2) 1,092 0.1 % 1,032 0.1 % 640 0.1 % Effect of cross-border tax laws: Global intangible low-taxed income (3) 22,088 1.3 % — — % — — % Subpart F income inclusion 3,054 0.2 % — — % — — % Nontaxable or nondeductible items: Reversal of book gain on sale of United Kingdom operations ( 30,424 ) ( 1.8 ) % — — % — — % Other permanent differences 17,122 1.0 % 12,221 0.9 % 9,513 1.1 % Other adjustments ( 1,254 ) ( 0.1 ) % ( 1,468 ) ( 0.1 ) % ( 611 ) ( 0.1 ) % Effective tax rate $ 448,807 26.1 % $ 370,237 26.9 % $ 239,524 27.5 %
+[END TABLE 051]
+
+[TABLE 052]
+2025 2024 2023 Federal $ 358,800 $ 306,300 $ 167,600 State and local 119,404 97,681 55,981 Foreign 5,220 5,381 6,915 Total $ 483,424 $ 409,362 $ 230,496
+[END TABLE 052]
+
+[TABLE 053]
+December 31, 2025 December 31, 2024 Deferred income tax assets: Excess of amounts expensed for financial statement purposes over amounts deducted for income tax purposes: Insurance liabilities $ 69,064 $ 69,664 Operating lease liabilities 117,897 102,667 Deferred compensation 85,020 76,042 Other (including liabilities and reserves) 41,197 49,715 Total deferred income tax assets 313,178 298,088 Valuation allowance for deferred tax assets ( 4,148 ) ( 5,076 ) Net deferred income tax assets 309,030 293,012 Deferred income tax liabilities: Costs capitalized for financial statement purposes and deducted for income tax purposes: Goodwill and identifiable intangible assets ( 147,496 ) ( 172,613 ) Operating lease right-of-use assets ( 110,550 ) ( 94,800 ) Depreciation of property, plant, and equipment ( 42,532 ) ( 33,284 ) Pension asset ( 202 ) ( 6,082 ) Other ( 12,819 ) ( 14,664 ) Total deferred income tax liabilities ( 313,599 ) ( 321,443 ) Net deferred income tax liabilities $ ( 4,569 ) $ ( 28,431 )
+[END TABLE 053]
+
+[TABLE 054]
+Shares Weighted Average Price Balance, December 31, 2022 317,594 $ 100.83 Granted 103,024 $ 156.06 Forfeited ( 3,018 ) $ 118.59 Vested ( 122,751 ) $ 90.38 Balance, December 31, 2023 294,849 $ 124.30 Granted 93,636 $ 279.05 Forfeited ( 409 ) $ 185.51 Vested ( 139,262 ) $ 105.65 Balance, December 31, 2024 248,814 $ 192.87 Granted 48,150 $ 483.10 Forfeited ( 3,799 ) $ 227.60 Vested ( 94,564 ) $ 148.91 Balance, December 31, 2025 198,601 $ 283.51
+[END TABLE 054]
+
+[TABLE 055]
+2024 Change in pension benefit obligation Benefit obligation at beginning of year $ 204,097 Interest cost 9,569 Actuarial gain ( 19,602 ) Benefits paid ( 11,522 ) Foreign currency exchange rate changes ( 3,075 ) Benefit obligation at end of year 179,467 Change in pension plan assets Fair value of plan assets at beginning of year 223,077 Actual loss on plan assets ( 5,240 ) Employer contributions 816 Benefits paid ( 11,522 ) Foreign currency exchange rate changes ( 3,514 ) Fair value of plan assets at end of year 203,617 Funded status at end of year $ 24,150
+[END TABLE 055]
+
+[TABLE 056]
+2025 2024 2023 Interest cost $ 9,263 $ 9,569 $ 9,722 Expected return on plan assets ( 11,862 ) ( 13,010 ) ( 11,417 ) Amortization of unrecognized loss 2,502 2,625 2,611 Net periodic pension (income) cost $ ( 97 ) $ ( 816 ) $ 916
+[END TABLE 056]
+
+[TABLE 057]
+2025 2024 2023 Discount rate 5.5 % 4.8 % 5.0 % Annual rate of return on plan assets 6.5 % 6.3 % 5.7 %
+[END TABLE 057]
+
+[TABLE 058]
+Asset Category Target Asset Allocation 2024 Actual December 31, 2024 Debt 91.0 % 82.6 % Cash and cash equivalents — % 7.7 % Real estate 9.0 % 9.7 % Total 100.0 % 100.0 %
+[END TABLE 058]
+
+[TABLE 059]
+Assets at Fair Value as of December 31, 2024 Asset Category Level 1 Level 2 Level 3 Total Corporate debt funds $ — $ 39,972 $ — $ 39,972 Government bond funds — 48,959 — 48,959 Cash and cash equivalents 15,697 — — 15,697 Total plan assets in fair value hierarchy $ 15,697 $ 88,931 $ — 104,628 Plan assets measured using NAV as a practical expedient: (1) Debt funds 79,152 Real estate funds 19,837 Total plan assets at fair value $ 203,617
+[END TABLE 059]
+
+[TABLE 060]
+Pension Fund EIN/Pension Plan Number PPA Zone Status (1) FIP/RP Status Contributions Contributions greater than 5% of total plan contributions (2) Expiration date or range of expiration dates of CBA(s) 2025 2024 2025 2024 2023 National Electrical Benefit Fund 53-0181657 001 Green Green NA $ 33,566 $ 23,255 $ 18,128 Yes Jan 2026 to Apr 2030 National Automatic Sprinkler Industry Pension Fund 52-6054620 001 Green Green NA 32,138 30,719 25,559 Yes Jun 2026 to Mar 2030 United Association National Pension Fund 52-6152779 001 Green Green NA 25,387 21,839 16,815 No Feb 2026 to Aug 2030 Electrical Workers Local No. 26 Pension Trust Fund 52-6117919 001 Green Green NA 14,059 12,472 8,283 Yes May 2027 to Aug 2028 Tidewater Electrical Industry Pension Fund 54-6127076 001 Green Green NA 12,078 — — No Feb 2027 to Jun 2027 Sheet Metal Workers National Pension Fund 52-6112463 001 Green Green NA 11,871 12,795 10,797 Yes Feb 2026 to May 2029 Central Pension Fund of the IUOE & Participating Employers 36-6052390 001 Green Green NA 8,855 9,433 8,573 No Feb 2026 to Sep 2029 Pipefitters Union Local 537 Pension Fund 51-6030859 001 Green Green NA 8,228 6,656 5,179 Yes Aug 2030 Plumbers Pipefitters & Mechanical Equipment Service Local Union No 392 Pension Plan 31-0655223 001 Yellow Yellow Implemented 8,124 7,728 7,010 Yes May 2028 Pension, Hospitalization & Benefit Plan of the Electrical Industry-Pension Trust Account 13-6123601 001 Green Green NA 7,861 6,982 7,198 Yes Apr 2026 to Jan 2029 Heating, Piping & Refrigeration Pension Fund 52-1058013 001 Green Green NA 7,843 5,710 5,315 Yes Jul 2026 to Jul 2028 Edison Pension Plan 93-6061681 001 Green Green NA 6,931 7,982 5,840 Yes Dec 2026 Electrical Contractors Association of the City of Chicago Local Union 134, IBEW Joint Pension Trust of Chicago Pension Plan #2 51-6030753 002 Green Green NA 5,971 4,341 4,432 Yes May 2026 to Jun 2026 Southern California Pipe Trades Retirement Fund 51-6108443 001 Green Green NA 5,914 5,447 4,657 Yes Jun 2026 to Aug 2026 Electrical Workers Pension Plan Local 103 IBEW 04-6063734 001 Green Green NA 5,230 5,133 6,537 Yes Aug 2028 San Diego Electrical Pension Plan 95-6101801 001 Green Green NA 5,147 7,039 5,511 Yes May 2028 Atlanta Plumbers and Steamfitters Pension Fund 58-1233396 001 Green Green NA 4,959 4,133 1,691 Yes Jul 2028 to Aug 2028 Plumbers & Pipefitters Local No. 189 Pension Plan 31-0894807 001 Green Green NA 4,720 2,744 2,557 Yes May 2026 to May 2028 NECA-IBEW Pension Trust Fund 51-6029903 001 Green Green NA 4,680 3,242 2,228 No Nov 2026 to Nov 2027 Eighth District Electrical Pension Fund 84-6100393 001 Green Green NA 4,532 4,476 3,844 Yes May 2026 to Aug 2027 Sheet Metal Workers Pension Plan of Northern California 51-6115939 001 Red Red Implemented 3,793 5,245 5,738 Yes Jun 2026 to Jul 2026 Michiana Area Electrical Workers Pension Fund 35-6269273 001 Green Green NA 3,779 1,783 391 Yes May 2026 to Jun 2026
+[END TABLE 060]
+
+[TABLE 061]
+NOTE 14 - RETIREMENT PLANS (Continued) Pension Fund EIN/Pension Plan Number PPA Zone Status (1) FIP/RP Status Contributions Contributions greater than 5% of total plan contributions (2) Expiration date or range of expiration dates of CBA(s) 2025 2024 2025 2024 2023 Sheet Metal Workers Pension Plan of Southern California, Arizona & Nevada 95-6052257 001 Green Green NA 3,611 3,783 3,399 No Jun 2026 to Jun 2029 IBEW Local No. 82 Pension Plan 31-6127268 001 Green Green NA 3,527 3,325 3,701 Yes Dec 2026 Northern California Pipe Trades Pension Plan 94-3190386 001 Green Green NA 3,187 3,310 6,317 No Jul 2026 to Jun 2027 U.A. Local 393 Pension Trust Fund Defined Benefit 94-6359772 002 Green Green NA 3,118 3,734 3,263 Yes Jul 2026 to Jun 2027 Arizona Pipe Trades Pension Trust Fund 86-6025734 001 Green Green NA 3,086 4,038 3,048 Yes Jun 2026 to Jun 2027 Plumbers and Steamfitters Local No. 166 AFL - CIO Pension Plan 51-6132690 001 Green Green NA 3,014 2,046 1,773 Yes May 2026 U.A. Plumbers Local 24 Pension Fund 22-6042823 001 Green Green NA 2,997 2,231 2,295 Yes Apr 2029 Southern California IBEW-NECA Pension Plan 95-6392774 001 Yellow Yellow Implemented 2,942 4,279 3,801 Yes Jan 2026 to Jun 2026 Idaho Plumbers and Pipefitters Pension Plan 82-6010346 001 Green Green NA 2,844 1,281 1,138 Yes May 2026 Pension and Retirement Plan of Plumbers and Pipefitters Union, Local No. 525 88-6003864 001 Green Green NA 2,839 2,099 1,970 Yes Sep 2028 IBEW Local No. 640 & Arizona Chapter NECA Defined Benefit Pension Plan 86-0323980 001 Green Green NA 2,497 2,044 390 Yes Jun 2026 to Jul 2027 IBEW Local No. 683 Pension Fund Pension Plan 34-1442087 001 Green Green NA 2,466 2,146 905 Yes Jun 2026 to May 2027 IBEW Local 456 Pension Plan 22-6238995 001 Green Green NA 2,368 2,792 1,390 Yes May 2026 IBEW Local 1579 Pension Plan 58-1254974 001 Green Green NA 2,351 — — No Sep 2028 Local 68 Engineers Union Pension Plan 51-0176618 001 Green Green NA 2,208 1,548 1,200 Yes Aug 2026 to Apr 2027 Building Trades United Pension Trust Fund Milwaukee and Vicinity 51-6049409 001 Green Green NA 2,164 2,182 1,622 No May 2026 IBEW Local 701 Pension Fund 36-6455509 001 Green Green NA 2,149 3,849 3,989 Yes May 2026 to Aug 2026 Plumbers & Steamfitters Local 486 Pension Fund 52-6124449 001 Green Green NA 2,148 2,796 2,828 Yes Nov 2028 U.A. Local No. 447 Pension Fund 94-6269669 001 Green Green NA 2,049 1,790 1,678 Yes Jun 2026 to Jun 2030 Joint Pension Fund of Local Union No. 102 22-1615726 001 Green Green NA 2,047 1,688 2,868 No May 2028 Boilermaker-Blacksmith National Pension Trust 48-6168020 001 Red Red Implemented 2,004 825 1,140 No Sep 2026 to Jun 2027 South Florida Electrical Workers Pension Plan 59-6230530 001 Red Red Implemented 1,801 91 301 Yes Dec 2026 Plumbers & Pipefitters Local 162 Pension Fund 31-6125999 001 Yellow Yellow Implemented 1,354 1,390 1,243 Yes May 2026 Plumbing & Pipefitting Industry Local 219 Pension Plan 34-6682376 001 Red Red Implemented 1,010 1,098 919 Yes May 2026 Other Multiemployer Pension Plans 56,463 53,531 51,368 Various Total Contributions $ 341,910 $ 297,050 $ 258,829
+[END TABLE 061]
+
+[TABLE 062]
+Classification on the Consolidated Balance Sheet December 31, 2025 December 31, 2024 Assets Operating lease assets Operating lease right-of-use assets $ 439,029 $ 316,128 Finance lease assets Property, plant, and equipment, net 6,111 6,009 Total lease assets $ 445,140 $ 322,137 Liabilities Current Operating Operating lease liabilities, current $ 99,213 $ 81,247 Finance Other accrued expenses and liabilities 2,399 2,246 Noncurrent Operating Operating lease liabilities, long-term 368,996 261,575 Finance Other long-term obligations 3,949 3,849 Total lease liabilities $ 474,557 $ 348,917
+[END TABLE 062]
+
+[TABLE 063]
+2025 2024 2023 Finance lease expense: Amortization expense $ 2,855 $ 2,604 $ 2,816 Interest expense 320 254 175 Operating lease expense 121,996 103,261 93,158 Short-term lease expense (1) 382,289 290,267 224,047 Variable lease expense 8,163 7,137 9,482 Total lease expense $ 515,623 $ 403,523 $ 329,678
+[END TABLE 063]
+
+[TABLE 064]
+December 31, 2025 December 31, 2024 Weighted-average remaining lease term: Operating leases 6.9 years 5.1 years Finance leases 3.1 years 3.4 years Weighted-average discount rate: Operating leases 5.01 % 4.43 % Finance leases 5.10 % 4.67 %
+[END TABLE 064]
+
+[TABLE 065]
+2025 2024 2023 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows used for operating leases $ 118,840 $ 101,611 $ 90,412 Operating cash flows used for finance leases $ 320 $ 254 $ 175 Financing cash flows used for finance leases $ 2,692 $ 2,855 $ 2,776 Right-of-use assets obtained in exchange for new operating lease liabilities $ 219,965 $ 94,538 $ 125,417 Right-of-use assets obtained in exchange for new finance lease liabilities $ 2,882 $ 3,412 $ 1,427
+[END TABLE 065]
+
+[TABLE 066]
+Operating Leases Finance Leases 2026 $ 119,602 $ 2,654 2027 96,345 2,051 2028 79,533 1,221 2029 65,874 633 2030 50,498 255 Thereafter 151,835 37 Total minimum lease payments 563,687 6,851 Less: Amount of lease payments representing interest ( 95,478 ) ( 503 ) Present value of future minimum lease payments $ 468,209 $ 6,348 Current portion of lease liabilities $ 99,213 $ 2,399 Noncurrent portion of lease liabilities 368,996 3,949 Present value of future minimum lease payments $ 468,209 $ 6,348
+[END TABLE 066]
+
+[TABLE 067]
+2025 2024 2023 Cash paid for interest $ 11,130 $ 2,850 $ 16,246
+[END TABLE 067]
+
+[TABLE 068]
+2025 2024 2023 Revenues from unrelated entities: United States electrical construction and facilities services $ 5,074,252 $ 3,342,927 $ 2,783,723 United States mechanical construction and facilities services 7,050,481 6,405,657 5,074,803 United States building services 3,122,242 3,114,817 3,120,134 United States industrial services 1,268,099 1,277,190 1,167,790 Total United States operations 16,515,074 14,140,591 12,146,450 United Kingdom building services 471,348 425,525 436,423 Consolidated revenues $ 16,986,422 $ 14,566,116 $ 12,582,873 2025 2024 2023 Total revenues: United States electrical construction and facilities services $ 5,135,887 $ 3,370,506 $ 2,786,895 United States mechanical construction and facilities services 7,123,644 6,458,776 5,134,686 United States building services 3,171,057 3,166,680 3,228,056 United States industrial services 1,292,664 1,284,327 1,179,321 Less intersegment revenues ( 208,178 ) ( 139,698 ) ( 182,508 ) Total United States operations 16,515,074 14,140,591 12,146,450 United Kingdom building services 471,348 425,525 436,423 Consolidated revenues $ 16,986,422 $ 14,566,116 $ 12,582,873
+[END TABLE 068]
+
+[TABLE 069]
+2025 2024 2023 Operating income (loss): United States electrical construction and facilities services $ 611,952 $ 447,186 $ 230,640 United States mechanical construction and facilities services 905,325 799,613 530,644 United States building services 187,192 176,720 182,995 United States industrial services 24,998 44,213 35,375 Total United States operations 1,729,467 1,467,732 979,654 United Kingdom building services 20,969 21,485 25,681 Corporate administration ( 181,894 ) ( 144,354 ) ( 127,229 ) Gain on sale of United Kingdom operations 144,876 — — Impairment loss on long-lived assets — — ( 2,350 ) Consolidated operating income 1,713,418 1,344,863 875,756 Other items: Net periodic pension income (cost) 211 894 ( 1,119 ) Interest expense ( 12,020 ) ( 3,779 ) ( 17,199 ) Interest income 20,015 35,404 15,415 Income before income taxes $ 1,721,624 $ 1,377,382 $ 872,853
+[END TABLE 069]
+
+[TABLE 070]
+2025 2024 2023 Cost of sales: United States electrical construction and facilities services $ 4,068,755 $ 2,673,491 $ 2,359,816 United States mechanical construction and facilities services 5,625,203 5,147,903 4,188,707 United States building services 2,503,079 2,516,745 2,567,993 United States industrial services 1,087,976 1,086,503 997,951 Total United States operations 13,285,013 11,424,642 10,114,467 United Kingdom building services 418,421 376,423 379,067 Consolidated cost of sales $ 13,703,434 $ 11,801,065 $ 10,493,534
+[END TABLE 070]
+
+[TABLE 071]
+2025 2024 2023 Selling, general and administrative expenses: United States electrical construction and facilities services $ 393,545 $ 222,250 $ 193,267 United States mechanical construction and facilities services 519,953 458,141 355,452 United States building services 431,971 421,353 369,146 United States industrial services 155,125 146,474 134,464 Total United States operations 1,500,594 1,248,218 1,052,329 United Kingdom building services 31,958 27,616 31,675 Corporate administration 181,894 144,354 127,229 Consolidated selling, general and administrative expenses $ 1,714,446 $ 1,420,188 $ 1,211,233
+[END TABLE 071]
+
+[TABLE 072]
+2025 2024 2023 Depreciation and amortization of property, plant, and equipment: United States electrical construction and facilities services $ 10,283 $ 7,928 $ 8,402 United States mechanical construction and facilities services 22,384 16,133 12,503 United States building services 16,189 15,716 15,672 United States industrial services 13,298 12,265 11,146 Total United States operations 62,154 52,042 47,723 United Kingdom building services 3,873 3,750 3,116 Corporate administration 1,341 886 983 Total depreciation and amortization of property, plant, and equipment $ 67,368 $ 56,678 $ 51,822
+[END TABLE 072]
+
+[TABLE 073]
+2025 2024 2023 Amortization of identifiable intangible assets: United States electrical construction and facilities services $ 48,307 $ 6,773 $ 9,583 United States mechanical construction and facilities services 25,584 25,320 15,302 United States building services 21,478 21,606 19,621 United States industrial services 23,683 23,303 22,637 Total amortization of identifiable intangible assets $ 119,052 $ 77,002 $ 67,143
+[END TABLE 073]
+
+[TABLE 074]
+2025 2024 2023 Capital expenditures: United States electrical construction and facilities services $ 20,513 $ 9,467 $ 6,929 United States mechanical construction and facilities services 51,137 31,057 37,543 United States building services 15,076 18,314 19,843 United States industrial services 12,911 9,341 10,433 Total United States operations 99,637 68,179 74,748 United Kingdom building services 7,048 5,643 1,984 Corporate administration 6,065 1,128 1,672 Total capital expenditures $ 112,750 $ 74,950 $ 78,404
+[END TABLE 074]
+
+[TABLE 075]
+December 31, 2025 December 31, 2024 December 31, 2023 Total assets: United States electrical construction and facilities services $ 2,686,933 $ 1,314,577 $ 1,243,707 United States mechanical construction and facilities services 3,206,671 2,659,184 2,242,833 United States building services 1,436,779 1,396,236 1,382,664 United States industrial services 524,883 606,861 571,658 Total United States operations 7,855,266 5,976,858 5,440,862 United Kingdom building services — 283,897 277,066 Corporate administration 1,436,133 1,455,718 891,793 Total assets $ 9,291,399 $ 7,716,473 $ 6,609,721
+[END TABLE 075]
+
+[TABLE 076]
+December 31, 2025 December 31, 2024 December 31, 2023 Long-lived assets: United States $ 692,306 $ 509,181 $ 476,595 United Kingdom — 14,436 13,281 Total long-lived assets $ 692,306 $ 523,617 $ 489,876
+[END TABLE 076]
+
+[TABLE 077]
+Revenue Recognition from Construction Contracts Description of the Matter As described in Note 3 to the consolidated financial statements, the Company generally recognizes revenue from construction contracts over time using a cost-to-cost input method in which the extent of progress is measured based on the ratio of costs incurred to date to the total estimated costs at completion. In addition, the revenue recognition process requires the Company to determine the transaction price that represents the amount of consideration to which the Company expects to be entitled. A significant portion of the Company’s revenues for the year ended December 31, 2025 were derived from construction contracts. The determination of revenue recognized from construction contracts commonly requires the Company to estimate variable consideration that arises from pending change orders, contract claims, contract bonuses, and penalties, as well as to prepare estimates of the costs to complete contracts. Factors inherent in the estimation processes include, among others, historical experience with customers, the potential long-term nature of dispute resolutions, actions of third parties as well as the Company’s experience with similar types of contracts. Due to uncertainties attributed to such factors, auditing revenue recognized from construction contracts involved especially challenging, subjective, and complex judgments.
+[END TABLE 077]
+
+[TABLE 078]
+How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design, and tested the operating effectiveness of the Company’s controls related to revenue recognition from construction contracts. For example, we tested controls over the Company’s determination and review of estimates of variable consideration, costs to complete, and the completeness and accuracy of data utilized in conjunction with such estimation processes. To test the amount of revenue recognized from construction contracts in the current period, we selected a sample of contracts and performed procedures to test the project revenue and cost forecasts. For example, we obtained and inspected the related contract agreements, amendments, and change orders to test the existence of customer arrangements and understand the scope and pricing of the related projects; performed inquiries of management and project personnel regarding facts and circumstances relevant to the accounting for such contracts; tested key components of the estimated costs to complete, including materials, labor, and subcontractors costs; agreed actual costs incurred to supporting documentation; and recalculated revenues recognized based on the project's percentage of completion and management's estimate of transaction price. In addition, we performed certain retrospective review procedures to assess management’s historical ability to accurately estimate the transaction price and costs to complete contracts as well as to identify any significant or unusual changes in project revenue and cost forecasts during the period. Valuation of the Customer Relationship Intangible Asset Acquired in a Business Combination Description of the Matter As described in Note 4 to the consolidated financial statements, during the year ended December 31, 2025, the Company completed the acquisition of Miller Electric Company (“Miller Electric”) for total consideration of approximately $876.8 million. The preliminary purchase price was allocated to assets acquired and liabilities assumed based on the estimated fair value of such assets and liabilities. Auditing the Company’s accounting for the Miller Electric acquisition required complex auditor judgment due to the significant estimation uncertainty inherent in determining the fair value of the acquired customer relationship intangible asset. The significant estimation uncertainty was primarily due to the judgmental nature of the inputs to the valuation techniques used to measure the fair value of the customer relationship intangible asset as well as the sensitivity of the fair value to the underlying significant assumptions. The significant assumptions used to estimate the fair value of the acquired customer relationship intangible asset are revenue and the revenue growth rate. The significant assumptions are forward-looking and could be affected by future economic and market conditions. How We Addressed the Matter in Our Audit We obtained an understanding, evaluated the design and tested the operating effectiveness of the Company’s controls over the valuation of the customer relationship intangible asset. For example, we tested controls over management’s review of the valuation model and the significant assumptions described above. To test the estimated fair value of the acquired customer relationship intangible asset, we performed audit procedures that included, among others, assessing the appropriateness of the valuation methodology, testing the significant assumptions discussed above, and testing the completeness and accuracy of the underlying data used by the Company to develop the assumptions. For example, we compared the revenue and revenue growth rates to historical results and to industry expectations. We further performed sensitivity analyses to evaluate the changes in the fair value of the acquired customer relationship intangible asset that would result from changes in the significant assumptions. In addition, we involved internal valuation specialists to assist us in our evaluation of the valuation methodology used by the Company.
+[END TABLE 078]
+
+[TABLE 079]
+/s/ Ernst & Young LLP
+[END TABLE 079]
+
+[TABLE 080]
+Stamford, Connecticut February 26, 2026
+[END TABLE 080]
+
+[TABLE 081]
+/s/ Ernst & Young LLP Stamford, Connecticut February 26, 2026
+[END TABLE 081]
+
+[TABLE 082]
+Equity Compensation Plan Information A B C Plan Category Number of Securities to be Issued upon Exercise of Outstanding Options, Warrants and Rights Weighted Average Exercise Price of Outstanding Options, Warrants and Rights Number of Securities Remaining Available for Future Issuance under Equity Compensation Plans (Excluding Securities Reflected in Column A) Equity Compensation Plans Approved by Security Holders 234,436 $ — 555,142 (1) Equity Compensation Plans Not Approved by Security Holders — — — Total 234,436 $ — 555,142 (1)
+[END TABLE 082]
+
+[TABLE 083]
+(a)(1) The following consolidated financial statements of EMCOR Group, Inc. and Subsidiaries are filed as part of this report under Part II, Item 8. Financial Statements and Supplementary Data: Financial Statements: Consolidated Balance Sheets - December 31, 2025 and 2024 Consolidated Statements of Operations - Years Ended December 31, 2025, 2024, and 2023 Consolidated Statements of Comprehensive Income - Years Ended December 31, 2025, 2024, and 2023 Consolidated Statements of Cash Flows - Years Ended December 31, 2025, 2024, and 2023 Consolidated Statements of Equity - Years Ended December 31, 2025, 2024, and 2023 Notes to Consolidated Financial Statements
+[END TABLE 083]
+
+[TABLE 084]
+(a)(2) The following financial statement schedule is included in this Form 10-K: Schedule II - Valuation and Qualifying Accounts All other schedules are omitted because they are not required, are inapplicable, or the information is otherwise shown in the consolidated financial statements or notes thereto. (a)(3) The exhibits filed in response to Item 601 of Regulation S-K are listed in the Exhibit Index. (b) Exhibit Index
+[END TABLE 084]
+
+[TABLE 085]
+Exhibit No. Description Incorporated By Reference to or Filed Herewith, as Indicated Below 3(a-1) Restated Certificate of Incorporation of EMCOR filed December 15, 1994 Exhibit 3(a-5) to EMCOR’s Registration Statement on Form 10 as originally filed March 17, 1995 (“Form 10”) 3(a-2) Amendment dated November 28, 1995 to the Restated Certificate of Incorporation of EMCOR Exhibit 3(a-2) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 1995 (“1995 Form 10-K”) 3(a-3) Amendment dated February 12, 1998 to the Restated Certificate of Incorporation of EMCOR Exhibit 3(a-3) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 1997 (“1997 Form 10-K”) 3(a-4) Amendment dated January 27, 2006 to the Restated Certificate of Incorporation of EMCOR Exhibit 3(a-4) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2005 (“2005 Form 10-K”) 3(a-5) Amendment dated September 18, 2007 to the Restated Certificate of Incorporation of EMCOR Exhibit A to EMCOR’s Proxy Statement dated August 17, 2007 for Special Meeting of Stockholders held September 18, 2007 3(a-6) Certificate of Amendment of Restated Certificate of Incorporation of EMCOR Exhibit 3.1 to EMCOR’s Report on Form 8-K (Date of Report June 8, 2023) 3(b) Second Amended and Restated By-Laws of EMCOR Exhibit 3.1 to EMCOR’s Report on Form 8-K (Date of Report October 25, 2022) 4(a) Seventh Amended and Restated Credit Agreement dated as of December 20, 2023 by and among EMCOR and certain subsidiaries and Bank of Montreal, as Agent and the lenders listed on the signature pages thereof Exhibit 4(a) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2023 (“2023 Form 10-K”) 4(b) Description of Registrant’s Securities Exhibit 4(e) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2020 (“2020 Form 10-K”) 10(a) Form of Severance Agreement (“Severance Agreement”) between EMCOR and each of R. Kevin Matz and Mark A. Pompa Exhibit 10.1 to EMCOR's Report on Form 8-K (Date of Report April 25, 2005) 10(b) Form of Amendment to Severance Agreement between EMCOR and each of R. Kevin Matz and Mark A. Pompa Exhibit 10(c) to EMCOR’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2007 (“March 2007 Form 10-Q”) 10(c) Letter Agreement dated October 12, 2004 between Anthony Guzzi and EMCOR (the “Guzzi Letter Agreement”) Exhibit 10.1 to EMCOR’s Report on Form 8-K (Date of Report October 12, 2004) 10(d) Form of Confidentiality Agreement between Anthony Guzzi and EMCOR Exhibit C to the Guzzi Letter Agreement 10(e) Form of Indemnification Agreement between EMCOR and each of its officers and directors Exhibit 10.1 to EMCOR ’ s Report on Form 8-K (Date of Report Oc tober 27, 2025) 10(f-1) Severance Agreement (“Guzzi Severance Agreement”) dated October 25, 2004 between Anthony Guzzi and EMCOR Exhibit D to the Guzzi Letter Agreement 10(f-2) Amendment to Guzzi Severance Agreement Exhibit 10(g-2) to the March 2007 Form 10-Q 10(g-1) Change of Control Agreement dated as of October 25, 2004 between Anthony Guzzi (“Guzzi”) and EMCOR (“Guzzi Continuity Agreement”) Exhibit E to the Guzzi Letter Agreement 10(g-2) Amendment dated as of March 1, 2007 to Guzzi Continuity Agreement Exhibit 10(p-2) to the March 2007 Form 10-Q 10(g-3) Amendment to Continuity Agreements and Severance Agreements with Anthony J. Guzzi, R. Kevin Matz and Mark A. Pompa Exhibit 10(Q) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2008 (“2008 Form 10-K”)
+[END TABLE 085]
+
+[TABLE 086]
+Exhibit No. Description Incorporated By Reference to or Filed Herewith, as Indicated Below 10(h) Amendment dated as of March 29, 2010 to Severance Agreement with Anthony J. Guzzi, R. Kevin Matz and Mark A. Pompa Exhibit 10.1 to EMCOR ’ s Report on Form 8-K (Date of Report March 29, 2010) (“March 2010 Form 8-K”) 10(i-1) Severance Agreement dated as of October 26, 2016 between EMCOR and Maxine L. Mauricio Exhibit 10(l-1) to EMCOR's Quarterly Report on Form 10-Q for the quarter ended September 30, 2016 ("September 2016 Form 10-Q") 10(i-2) Continuity Agreement dated as of October 26, 2016 between EMCOR and Maxine L. Mauricio (“Mauricio Continuity Agreement”) Exhibit 10(l-2) to the September 2016 Form 10-Q 10(i-3) Amendment dated April 10, 2017 to Mauricio Continuity Agreement Exhibit 10(l-3) to EMCOR’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2017 10(j-1) Severance Agreement dated as of May 8, 2024 between EMCOR and Jason R. Nalbandian Exhibit 10(a-1) to EMCOR’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2024 (“June 2024 Form 10-Q”) 10(j-2) Continuity Agreement dated as of May 8, 2024 between EMCOR and Jason R. Nalbandian Exhibit 10(a-2) to the June 2024 Form 10-Q 10(k-1) EMCOR Group, Inc. Long-Term Incentive Plan (“LTIP”) Exhibit 10 to EMCOR ’ s Report on Form 8-K (Date of Report December 15, 2005) 10(k-2) First Amendment to LTIP and updated Schedule A to LTIP Exhibit 10(S-2) to 2008 Form 10-K 10(k-3) Second Amendment to LTIP Exhibit 10.2 to March 2010 Form 8-K 10(k-4) Third Amendment to LTIP Exhibit 10(q-4) to EMCOR’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2012 (“March 2012 Form 10-Q”) 10(k-5) Fourth Amendment to LTIP Exhibit 10(l-5) to EMCOR’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2013 10(k-6) Form of Certificate Representing Stock Units issued under LTIP Exhibit 10(T-2) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2007 (“2007 Form 10-K”) 10(k-7) Fifth Amendment to LTIP Exhibit 10(l-7) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2015 (“2015 Form 10-K”) 10(k-8) Sixth Amendment to LTIP Exhibit 10(l-8) to 2015 Form 10-K 10(k-9) Seventh Amendment to LTIP Exhibit 10(l-9) to EMCOR's Annual Report on Form 10-K for the year ended December 31, 2021 10(k-10) Eighth Amendment to LTIP Exhibit 10(l-10) to 2023 Form 10-K 10(l) Key Executive Incentive Bonus Plan, as amended and restated Exhibit B to EMCOR’s Proxy Statement for its Annual Meeting held June 13, 2013 10(m-1) Amended and Restated 2010 Incentive Plan Exhibit 10.1 to EMCOR ’ s Report on Form 8-K (Date of Report June 11, 2020) 10(m-2) First Amendment to the Amended and Restated 2010 Incentive Plan E xhibit 10.1 to EMCOR ’ s Report on F orm 8-K (Date of Report June 5, 2025) 10(n) Form of Non-LTIP Stock Unit Certificate Exhibit 10(p)(p) to the March 2012 Form 10-Q 10(o) Form of Director Restricted Stock Unit Agreement Exhibit 10(k)(k) to EMCOR’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2012 (“June 2012 Form 10-Q”) 10(p) Director Award Program, as Amended and Restated December 16, 2014 Exhibit 10(z) to EMCOR’s Annual Report on Form 10-K for the year ended December 31, 2014
+[END TABLE 086]
+
+[TABLE 087]
+Exhibit No. Description Incorporated By Reference to or Filed Herewith, as Indicated Below 10(q-1) EMCOR Group, Inc. Voluntary Deferral Plan Exhibit 10(E)(E) to EMCOR's Annual Report on Form 10-K for the year ended December 31, 2012 (“2012 Form 10-K”) 10(q-2) First Amendment to EMCOR Group, Inc. Voluntary Deferral Plan Exhibit 10(e)(e) to EMCOR's Annual Report on Form 10-K for the year ended December 31, 2013 10(r) Form of Executive Restricted Stock Unit Agreement Exhibit 10(F)(F) to 2012 Form 10-K 14 Code of Ethics of EMCOR for Chief Executive Officer and Senior Financial Officers Exhibit 14 to EMCOR's Annual Report on Form 10-K for the year ended December 31, 2003 19 Insider Trading Policies and Procedures Exhibit 19 to EMC OR ’ s Annua l Report on Form 10-K for the year ende d December 31, 2024 21 List of Significant Subsidiaries Filed herewith 23.1 Consent of Ernst & Young LLP Filed herewith 31.1 Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Anthony J. Guzzi, the Chairman, President, and Chief Executive Officer Filed herewith 31.2 Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Jason R. Nalbandian, the Senior Vice President, Chief Financial Officer and Chief Accounting Officer Filed herewith 32.1 Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by the Chairman, President, and Chief Executive Officer Furnished 32.2 Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by the Senior Vice President, Chief Financial Officer and Chief Accounting Officer Furnished 95.1 Information concerning mine safety violations or other regulatory matters Filed herewith 97 Policy Relating to Recovery of Erroneously Awarded Compensation Exhibit 97 to 2023 Form 10-K
+[END TABLE 087]
+
+[TABLE 088]
+101 The following materials from EMCOR Group, Inc.’s Annual Report on Form 10-K for the year ended December 31, 2025, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Comprehensive Income, (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Equity and (vi) the Notes to Consolidated Financial Statements. Filed 104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101) Filed
+[END TABLE 088]
+
+[TABLE 089]
+EMCOR GROUP, INC. (Registrant) B Y : /s/ ANTHONY J. GUZZI Anthony J. Guzzi Chairman, President, and Chief Executive Officer
+[END TABLE 089]
+
+[TABLE 090]
+/ S / A NTHONY J. G UZZI Chairman, President, and Chief Executive Officer Anthony J. Guzzi (Principal Executive Officer) /S/ J ASON R. N ALBANDIAN Senior Vice President, Chief Financial Officer and Chief Accounting Officer Jason R. Nalbandian (Principal Financial and Accounting Officer) / S / J OHN W . A LTMEYER Director John W. Altmeyer /s/ A MY E. D AHL Director Amy E. Dahl / S / R ONALD L. J OHNSON Director Ronald L. Johnson / S / C AROL P. L OWE Director Carol P. Lowe / S / M. K EVIN M C E VOY Director M. Kevin McEvoy / S / W ILLIAM P. R EID Director William P. Reid /s/ P ATRICK R OCHE Director Patrick Roche /s/ S TEVEN B. S CHWARZWAELDER Director Steven B. Schwarzwaelder / S / R OBIN W ALKER- L EE Director Robin Walker-Lee
+[END TABLE 090]
+
+[TABLE 091]
+Description Balance at Beginning of Year Costs and Expenses Deductions (1) Balance at End of Year Allowance for credit losses Year Ended December 31, 2025 $ 34,957 7,671 ( 19,871 ) $ 22,757 Year Ended December 31, 2024 $ 22,502 17,303 ( 4,848 ) $ 34,957 Year Ended December 31, 2023 $ 22,382 7,859 ( 7,739 ) $ 22,502
+[END TABLE 091]

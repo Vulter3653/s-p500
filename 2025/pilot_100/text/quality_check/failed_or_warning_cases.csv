@@ -1,0 +1,45 @@
+company_id,cik,ticker,accession_number,case_status,warning_or_failure_reason,recommended_action
+P2025-001,0001754301,FOXA|FOX,0001628280-25-038077,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-003,0001335258,LYV,0001335258-26-000009,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-005,0001065088,EBAY,0001065088-26-000027,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-007,0001121788,GRMN,0001193125-26-056028,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-010,0000109198,TJX,0000109198-25-000010,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-015,0000313927,CHD,0001193125-26-048139,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-016,0000040704,GIS,0001193125-25-147079,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-018,0000016918,STZ,0000016918-25-000022,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-021,0000104169,WMT,0000104169-25-000021,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-022,0000034088,XOM,0000034088-26-000045,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-025,0000093410,CVX,0000093410-26-000078,warning,core_section_boundary_warning:item_7,review structure-preserved text and section boundaries
+P2025-028,0000093751,STT,0000093751-26-000124,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-029,0000070858,BAC,0000070858-26-000157,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-031,0001393818,BX,0001193125-26-082531,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-033,0000895421,MS,0000895421-26-000086,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-035,0001136893,FIS,0001136893-26-000013,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-037,0001512673,XYZ,0001628280-26-012254,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-039,0000072971,WFC,0000072971-26-000133,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-042,0000313616,DHR,0000313616-26-000062,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-044,0000872589,REGN,0000872589-26-000008,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-046,0001000228,HSIC,0001000228-26-000013,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-048,0000731766,UNH,0000731766-26-000062,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-052,0001093557,DXCM,0001093557-26-000027,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-053,0000936468,LMT,0001628280-26-004195,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-055,0000052988,J,0001628280-25-053316,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-064,0000040545,GE,0000040545-26-000008,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-065,0001035983,FIX,0001104659-26-017530,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-071,0000050863,INTC,0000050863-26-000011,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-076,0000068505,MSI,0000068505-26-000010,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-078,0001601046,KEYS,0001601046-25-000127,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-080,0001137789,STX,0001137789-25-000157,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-082,0001467373,ACN,0001467373-25-000217,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-085,0001396009,VMC,0001628280-26-009546,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-086,0000009389,BALL,0001104659-26-017410,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-087,0000849395,CRH,0001628280-26-009043,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-089,0001289490,EXR,0001289490-26-000011,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-091,0000920522,ESS,0000920522-26-000003,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-092,0001705696,VICI,0001705696-26-000034,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-093,0000074208,UDR,0000074208-26-000013,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-095,0001004980,PCG,0001004980-26-000009,warning,core_section_boundary_warning:item_1,review structure-preserved text and section boundaries
+P2025-096,0000715957,D,0001193125-26-063120,warning,item_7_not_detected,review structure-preserved text and section boundaries
+P2025-039,0000072971,WFC,0000072971-26-000133,manual_review_warning,"manual_review:Narrative is unusually short and Items 1A, 7, and 8 were not detected; table-based layout likely removed material narrative and requires parser follow-up.",improve section/layout handling before language-variable production
+P2025-096,0000715957,D,0001193125-26-063120,manual_review_warning,"manual_review:Large multi-registrant filing retained substantial text, but Item 7 was not detected while Items 1A and 8 were detected.",improve section/layout handling before language-variable production
+P2025-098,0000065984,ETR,0000065984-26-000174,manual_review_warning,"manual_review:Multi-registrant filing retained extensive text, but detected Item 7 is a short cross-reference rather than the full MD&A boundary.",improve section/layout handling before language-variable production

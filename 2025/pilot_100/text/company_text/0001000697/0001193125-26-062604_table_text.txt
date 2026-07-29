@@ -1,0 +1,915 @@
+[TABLE 001]
+☑ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+[END TABLE 001]
+
+[TABLE 002]
+OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 002]
+
+[TABLE 003]
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+[END TABLE 003]
+
+[TABLE 004]
+OF THE SECURITIES EXCHANGE ACT OF 1934
+[END TABLE 004]
+
+[TABLE 005]
+Delaware 13-3668640 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
+[END TABLE 005]
+
+[TABLE 006]
+Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, par value $0.01 per share WAT New York Stock Exchange , Inc.
+[END TABLE 006]
+
+[TABLE 007]
+Securities registered pursuant to Section 12(g) of the Act: None
+[END TABLE 007]
+
+[TABLE 008]
+Large accelerated filer ☑ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 008]
+
+[TABLE 009]
+Item No. Page PART I 1. Business 1 1A. Risk Factors 16 1B. Unresolved Staff Comments 38 1C. Cybersecurity 38 2. Properties 39 3. Legal Proceedings 40 4. Mine Safety Disclosures 40 PART II 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 41 6. Reserved 44 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 44 7A. Quantitative and Qualitative Disclosures About Market Risk 58 8. Financial Statements and Supplementary Data 61 Report of Independent Registered Public Accounting Firm (PCAOB ID 238) 62 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 112 9A. Controls and Procedures 112 9B. Other Information 112 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 112 PART III 10. Directors, Executive Officers and Corporate Governance 113 11. Executive Compensation 114 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 115 13. Certain Relationships and Related Transactions and Director Independence 115 14. Principal Accountant Fees and Services 115 PART IV 15. Exhibits and Financial Statement Schedules 116 16. Form 10-K Summary 121 Signatures 122
+[END TABLE 009]
+
+[TABLE 010]
+(i) BD transferred all of the rights, titles and interests to and under certain assets and liabilities relating to the BDS Business to Augusta SpinCo Corporation (“SpinCo”), a subsidiary of BD incorporated in connection with the transaction (the “Spin-Off”);
+[END TABLE 010]
+
+[TABLE 011]
+(ii) BD distributed to its shareholders all of the issued and outstanding shares of common stock, $0.01 par value per share, of SpinCo (“SpinCo Common Stock”) held by BD by way of a pro rata distribution (the “Distribution”); and
+[END TABLE 011]
+
+[TABLE 012]
+(iii) following the Distribution, a subsidiary of the Company (“Merger Sub”) was merged with and into SpinCo, with SpinCo as the surviving entity (the “Merger”), and all SpinCo Common Stock was converted into the right to receive 38,541,852 shares of common stock, $0.01 par value per share, of the Company (“Company Common Stock”).
+[END TABLE 012]
+
+[TABLE 013]
+• Rheo-IS accessory for our Discovery Hybrid Rheometers. This new accessory for its Discovery Hybrid Rheometers is designed to enable simultaneous electrical impedance and rheological measurements, a critical capability for scientists working on new battery formulations.
+[END TABLE 013]
+
+[TABLE 014]
+• Rapid Screening-Differential Scanning Calorimeter (“RS-DSC”), designed for biopharmaceutical developers. The RS-DSC is a high-throughput DSC for precise thermal stability testing of high-concentration biologic formulations specifically for antibody drugs and engineered proteins.
+[END TABLE 014]
+
+[TABLE 015]
+• TA introduced the Discovery Core Rheometer, a streamlined, modern rheometer designed for routine manufacturing quality control and assurance laboratories. The new analyzer can handle multiple material types such as battery slurries, printing inks, food, and personal care products and it features an easy-to-use touchscreen interface with self-guided training, methods, and applications for all levels of rheology users.
+[END TABLE 015]
+
+[TABLE 016]
+• certain risks related to the BDS Business Acquisition, including, without limitation:
+[END TABLE 016]
+
+[TABLE 017]
+¡ failure to realize the anticipated benefits of the BDS Business Acquisition, including as a result of delay in integrating the businesses of the Company and SpinCo, on the expected timeframe or at all;
+[END TABLE 017]
+
+[TABLE 018]
+¡ the ability of the combined company to implement its business strategy and achieve revenue and cost synergies;
+[END TABLE 018]
+
+[TABLE 019]
+• foreign currency exchange rate fluctuations potentially affecting translation of the Company’s future non-U.S. operating results, particularly when a foreign currency weakens against the U.S. dollar;
+[END TABLE 019]
+
+[TABLE 020]
+• current global economic, sovereign and political conditions and uncertainties; the effect of new or proposed tariff or trade regulations, as well as other new or changed domestic and foreign laws, regulations and policies (or new interpretations thereof); inflation and interest rates; the impacts and costs of war, in particular as a result of the ongoing conflicts between Russia and Ukraine and in the Middle East; and the possibility of further escalation resulting in new geopolitical and regulatory instability;
+[END TABLE 020]
+
+[TABLE 021]
+• economic conditions in China, trade tensions and tariffs between the U.S. and China and their impact on our business, increased competition from local and international competitors in China, the Chinese government’s ongoing tightening of restrictions on procurement by government-funded customers and other regulatory and other challenges and uncertainties in the Chinese market;
+[END TABLE 021]
+
+[TABLE 022]
+• the Company’s ability to access capital, maintain liquidity and service the Company’s debt in volatile market conditions;
+[END TABLE 022]
+
+[TABLE 023]
+• changes in timing and demand for the Company’s products among the Company’s customers and various market sectors, particularly as a result of fluctuations in their expenditures or ability to obtain funding;
+[END TABLE 023]
+
+[TABLE 024]
+• the ability to realize the expected benefits related to the Company’s various cost-saving initiatives, including workforce reductions and organizational restructurings;
+[END TABLE 024]
+
+[TABLE 025]
+• the introduction of competing products by other companies and loss of market share, as well as pressures on prices from competitors and/or customers;
+[END TABLE 025]
+
+[TABLE 026]
+• changes in the competitive landscape as a result of changes in ownership, mergers and continued consolidation among the Company’s competitors;
+[END TABLE 026]
+
+[TABLE 027]
+• regulatory, economic and competitive obstacles to new product introductions, lack of acceptance of new products and inability to grow organically through innovation;
+[END TABLE 027]
+
+[TABLE 028]
+• rapidly changing technology and product obsolescence;
+[END TABLE 028]
+
+[TABLE 029]
+• the risks related to the development, deployment and use of artificial intelligence (“AI”);
+[END TABLE 029]
+
+[TABLE 030]
+• a failure to timely and effectively use AI and embed it into new product offerings and services that negatively impacts our competitiveness;
+[END TABLE 030]
+
+[TABLE 031]
+• risks associated with previous or future acquisitions, strategic investments, joint ventures and divestitures, including risks associated with achieving the anticipated financial results and operational synergies, contingent purchase price payments and expansion of our business into new or developing markets;
+[END TABLE 031]
+
+[TABLE 032]
+• risks associated with unexpected disruptions in operations, including risks associated with our transition to a new ERP system;
+[END TABLE 032]
+
+[TABLE 033]
+• risks related to any public health crisis or pandemic, climate change, severe weather and geological conditions or events or other events beyond our control;
+[END TABLE 033]
+
+[TABLE 034]
+• failure to adequately protect the Company’s intellectual property, infringement of intellectual property rights of third parties and inability to obtain licenses on commercially reasonable terms;
+[END TABLE 034]
+
+[TABLE 035]
+• the Company’s ability to acquire adequate sources of supply and its reliance on outside contractors for certain components and modules, as well as disruptions to its supply chain;
+[END TABLE 035]
+
+[TABLE 036]
+• risks associated with third-party sales intermediaries and resellers;
+[END TABLE 036]
+
+[TABLE 037]
+• the impact and costs of changes in statutory or contractual tax rates in jurisdictions in which the Company operates as well as shifts in taxable income among jurisdictions with different effective tax rates, the outcome of ongoing and future tax examinations and changes in legislation affecting the Company’s effective tax rate;
+[END TABLE 037]
+
+[TABLE 038]
+• the Company’s ability to attract and retain qualified employees and management personnel;
+[END TABLE 038]
+
+[TABLE 039]
+• risks associated with cybersecurity and our information technology infrastructure, including attempts by third parties, both private and state-sponsored, to defeat the information security measures of the Company or its third-party partners and gain unauthorized access to sensitive and proprietary Company products, services, systems, or data;
+[END TABLE 039]
+
+[TABLE 040]
+• risks associated with compliance with data privacy and information security laws and regulations regarding the collection, transmission, storage and use of personally identifying information;
+[END TABLE 040]
+
+[TABLE 041]
+• increased regulatory burdens as the Company’s business evolves, especially with respect to the U.S. Food and Drug Administration and U.S. Environmental Protection Agency, among others, and in connection with government contracts;
+[END TABLE 041]
+
+[TABLE 042]
+• regulatory, environmental and logistical obstacles affecting the distribution of the Company’s products, completion of purchase order documentation and the ability of customers to obtain letters of credit or other financing alternatives;
+[END TABLE 042]
+
+[TABLE 043]
+• risks associated with litigation and other legal and regulatory proceedings; and
+[END TABLE 043]
+
+[TABLE 044]
+• the impact and costs incurred from changes in accounting principles and practices.
+[END TABLE 044]
+
+[TABLE 045]
+• The Company’s failure to successfully integrate the BDS Business within the expected timeline could adversely affect the Company’s future results.
+[END TABLE 045]
+
+[TABLE 046]
+• The Company may incur additional costs and charges as a result of restructuring activities and such restructuring activities may be disruptive to the Company’s business and may not result in anticipated cost savings.
+[END TABLE 046]
+
+[TABLE 047]
+• The amount of indebtedness that the Company assumed as a result of the BDS Business Acquisition is substantial and could adversely affect the Company’s operational flexibility and increase its borrowing costs.
+[END TABLE 047]
+
+[TABLE 048]
+• The Company and SpinCo are required to abide by potentially significant restrictions that could limit the Company’s ability to undertake certain corporate actions that otherwise could be advantageous.
+[END TABLE 048]
+
+[TABLE 049]
+• The Company may be unable to provide the same types and level of services to the BDS Business that historically have been provided by BD or may be unable to provide them at the same cost.
+[END TABLE 049]
+
+[TABLE 050]
+• The Company’s international operations may be negatively affected by political events, wars or terrorism, economic conditions, foreign currency fluctuation and regulatory changes which could have a material adverse effect on the Company’s results of operations or financial condition.
+[END TABLE 050]
+
+[TABLE 051]
+• Global economic conditions may have an adverse effect on the demand for, and supply of, the Company’s products and harm the Company’s financial results.
+[END TABLE 051]
+
+[TABLE 052]
+• Disruption in worldwide financial markets could adversely impact the Company’s access to capital and financial condition.
+[END TABLE 052]
+
+[TABLE 053]
+• The Company’s financial results will be subject to changes in customer demand, which may decrease for a number of reasons, many beyond the Company’s control.
+[END TABLE 053]
+
+[TABLE 054]
+• Competitors may introduce more effective or less expensive products than the Company’s, which could result in decreased sales. The competitive landscape may transform as a result of potential changes in ownership, mergers and continued consolidations among the Company’s competitors, which could harm the Company’s business.
+[END TABLE 054]
+
+[TABLE 055]
+• Strategies for organic growth require developing new technologies and bringing these new technologies to market, which could negatively impact the Company’s financial results.
+[END TABLE 055]
+
+[TABLE 056]
+• Reductions in customers’ research budgets or government funding may adversely affect the Company’s business.
+[END TABLE 056]
+
+[TABLE 057]
+• Market dynamics, changes in reimbursement practices and coverage policies and third-party payer cost containment measures could affect the demand for the Company’s products and the prices at which they are sold.
+[END TABLE 057]
+
+[TABLE 058]
+• Changes in government priorities as it relates to healthcare could affect the revenue earned by the Company and the costs for obtaining such revenue.
+[END TABLE 058]
+
+[TABLE 059]
+• The Company’s growth can suffer if the markets into which it sells products and services decline, do not grow as anticipated or experience cyclicality.
+[END TABLE 059]
+
+[TABLE 060]
+• Defects or quality issues associated with the Company’s products could adversely affect results of operations.
+[END TABLE 060]
+
+[TABLE 061]
+• Issues and uncertainties related to the development, deployment and use of AI in the Company’s business operations and products may result in harm to the Company’s reputation, regulatory action or legal liability.
+[END TABLE 061]
+
+[TABLE 062]
+• The Company may face risks associated with previous or future acquisitions, strategic investments, joint ventures and divestitures.
+[END TABLE 062]
+
+[TABLE 063]
+• Disruption of operations, including at the Company’s manufacturing facilities, or disruption or failure of the Company’s key technology systems could have a material impact on the combined company’s business, results of operations and financial condition.
+[END TABLE 063]
+
+[TABLE 064]
+• Failure to adequately protect intellectual property could have materially adverse effects on the Company’s results of operations or financial condition.
+[END TABLE 064]
+
+[TABLE 065]
+• The Company’s business would suffer if the Company were unable to acquire adequate sources of supply.
+[END TABLE 065]
+
+[TABLE 066]
+• The Company’s sales would deteriorate if the Company’s outside contractors failed to provide necessary components or modules or develop certain intellectual property.
+[END TABLE 066]
+
+[TABLE 067]
+• The Company’s business could be harmed by actions of third-party sales intermediaries and other third parties that sell our products.
+[END TABLE 067]
+
+[TABLE 068]
+• The Company is subject to laws and regulations governing government contracts, and failure to address these laws and regulations or comply with government contracts could harm its business by leading to a reduction in revenues associated with these customers.
+[END TABLE 068]
+
+[TABLE 069]
+• The Company’s financial results may be subject to changing application of tax law and tax audit examinations.
+[END TABLE 069]
+
+[TABLE 070]
+• The Company may be required to recognize impairment charges for our goodwill and other intangible assets.
+[END TABLE 070]
+
+[TABLE 071]
+• The Company’s success is highly dependent on qualified and sufficient staffing. Our failure to attract or retain qualified personnel, including our senior management team and technical personnel, could lead to a loss of revenue or profitability.
+[END TABLE 071]
+
+[TABLE 072]
+• The Company may be subject to labor disruptions.
+[END TABLE 072]
+
+[TABLE 073]
+• Disruption, cyber-attack or unforeseen problems with the security, maintenance or upgrade of the Company’s information and web-based systems could have an adverse effect on the Company’s business strategy, results of operations and financial condition.
+[END TABLE 073]
+
+[TABLE 074]
+• If the Company’s security measures are compromised or fail to adequately protect its technology infrastructure, research and development efforts or manufacturing operations, the Company’s products and services may be perceived as vulnerable or unreliable, the information protected by the Company’s controls and processes may be subject to unauthorized access, acquisition or modification, the Company’s brand and reputation could be damaged, the services that the Company provides to its customers could be disrupted, and customers may stop using the Company’s products and services, all of which could reduce the Company’s revenue and earnings, increase its expenses and expose it to legal claims and regulatory actions.
+[END TABLE 074]
+
+[TABLE 075]
+• Changes in governmental regulations and compliance failures could harm the Company’s business.
+[END TABLE 075]
+
+[TABLE 076]
+• The Company may be harmed by improper conduct of any of our employees, agents or business partners.
+[END TABLE 076]
+
+[TABLE 077]
+• Sustainability issues, including those related to climate change, may have an adverse effect on our business, financial condition and results of operations and damage our reputation.
+[END TABLE 077]
+
+[TABLE 078]
+• The Company is subject to or otherwise responsible for a variety of litigation and other legal and regulatory proceedings in the ordinary course of business that can adversely affect our business, results of operations and financial condition.
+[END TABLE 078]
+
+[TABLE 079]
+• The Company’s Amended and Restated Bylaws include exclusive forum provisions, which could limit shareholders’ ability to obtain a favorable judicial forum for disputes with the Company or its respective directors, officers or employees.
+[END TABLE 079]
+
+[TABLE 080]
+• The Company’s Second Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws contain certain provisions that will limit the ability of shareholders of the Company to take certain actions, and that could delay or discourage takeover attempts that shareholders may consider favorable.
+[END TABLE 080]
+
+[TABLE 081]
+• risks associated with the failure to implement the business plan for the Company;
+[END TABLE 081]
+
+[TABLE 082]
+• lost sales and customers as a result of customers of the Company or customers of the BDS Business deciding not to do business with the Company;
+[END TABLE 082]
+
+[TABLE 083]
+• the Company’s inability to negotiate terms as favorable as those BD has received previously when replacing contracts associated with the BDS Business;
+[END TABLE 083]
+
+[TABLE 084]
+• complexities, including demands on management, associated with managing a larger, more complex, integrated business, including aligning and executing the strategy of the Company;
+[END TABLE 084]
+
+[TABLE 085]
+• integrating the Company’s personnel and the personnel of the BDS Business while maintaining focus on providing consistent, high-quality products and service to customers;
+[END TABLE 085]
+
+[TABLE 086]
+• attrition of personnel of the BDS Business due to lack of confidence in the Company and failure to hire replacements with adequate technical expertise;
+[END TABLE 086]
+
+[TABLE 087]
+• the loss of key employees;
+[END TABLE 087]
+
+[TABLE 088]
+• unanticipated issues in integrating manufacturing, logistics, information, communications and other systems;
+[END TABLE 088]
+
+[TABLE 089]
+• unexpected or unknown claims being asserted regarding events that occurred prior to the closing of the BDS Business Acquisition;
+[END TABLE 089]
+
+[TABLE 090]
+• possible inconsistencies in standards, controls, procedures, policies and compensation structures;
+[END TABLE 090]
+
+[TABLE 091]
+• the impact on the Company’s internal controls and compliance with the regulatory requirements under the Sarbanes-Oxley Act of 2002;
+[END TABLE 091]
+
+[TABLE 092]
+• regulatory authorities imposing requirements, limitations or costs on, or requiring divestitures or placing restrictions on the conduct of, the business of the Company after the completion of the BDS Business Acquisition;
+[END TABLE 092]
+
+[TABLE 093]
+• performance shortfalls as a result of the diversion of management and employee attention caused by integrating the operations of the BDS Business with the Company’s operations;
+[END TABLE 093]
+
+[TABLE 094]
+• the risk that the term of the Transition Services Agreements is insufficient for the Company to develop its infrastructure and other business functions;
+[END TABLE 094]
+
+[TABLE 095]
+• the potential inability to sustain the services at the same levels or obtain the same benefits available under the Transition Services Agreements;
+[END TABLE 095]
+
+[TABLE 096]
+• the increased indebtedness of the Company as a result of the BDS Business Acquisition, the repayment of which could impact the Company’s business, results of operations, financial condition or cash flows; and
+[END TABLE 096]
+
+[TABLE 097]
+• potential unknown liabilities and unforeseen expenses, delays or regulatory conditions associated with the BDS Business Acquisition or the BDS Business.
+[END TABLE 097]
+
+[TABLE 098]
+• the requirement that any action required or permitted to be taken by the Company’s shareholders must be effected at a duly called annual or special meeting of shareholders and may not be effected by written consent in lieu of a meeting;
+[END TABLE 098]
+
+[TABLE 099]
+• the requirement that a special meeting of the Company’s shareholders may only be called by the Board of Directors, the Chairman of the Board of Directors or the Company’s President and Chief Executive Officer, or by the Chairman of the Board of Directors, the Company’s President and Chief Executive Officer or the Company’s Secretary at the request in writing of shareholders holding at least 50% of the number of shares of stock outstanding and entitled to vote at such meeting;
+[END TABLE 099]
+
+[TABLE 100]
+• advance notice procedures which the Company’s shareholders must comply with to nominate candidates to the Board of Directors or to propose matters to be acted upon at a shareholders’ meeting;
+[END TABLE 100]
+
+[TABLE 101]
+• the right of the Board of Directors to elect a director to fill a vacancy created by the resignation, death or removal of a director or resulting from any increase in the authorized number of directors;
+[END TABLE 101]
+
+[TABLE 102]
+• the ability of the Board of Directors to amend the Bylaws; and
+[END TABLE 102]
+
+[TABLE 103]
+• the ability of the Board of Directors to issue shares of preferred stock (in one or more series) and to establish the number of shares to be included in each such series, and to fix the designations, powers, preferences, and rights of the shares of each such series, and any qualifications limitations, or restrictions thereof, without shareholder approval, subject to any limitations imposed by the listing standards of the New York Stock Exchange.
+[END TABLE 103]
+
+[TABLE 104]
+Location Function (2) Owned/Leased Golden, CO M, R, S, D, A Owned New Castle, DE M, R, S, D, A Owned Franklin, MA D Leased Milford, MA M, R, S, A Owned Taunton, MA M, R Owned Cambridge, MA R, S Leased Eden Prairie, MN M, R, S, D, A Leased Lindon, UT M, R, S, D, A Leased Santa Barbara, CA M, R, S, D, A Leased Beijing, China S, A Leased Shanghai, China R, S, A Leased Birmingham, England M, A Owned Wilmslow, England M, R, S, D, A Owned St. Quentin, France S, A Leased Hüllhorst, Germany M, R, S, D, A Owned Wexford, Ireland M, R, D, A Owned Bangalore, India R, S, D, A Owned/Leased Etten-Leur, Netherlands S, D, A Leased Brasov, Romania R, A Leased Singapore R, S, D, A Leased
+[END TABLE 104]
+
+[TABLE 105]
+(1) The Company operates more than one primary facility within certain states and foreign countries.
+[END TABLE 105]
+
+[TABLE 106]
+(2) M = Manufacturing; R = Research; S = Sales and Service; D = Distribution; A = Administration
+[END TABLE 106]
+
+[TABLE 107]
+United States International Burlingame, CA Australia Hong Kong People’s Republic of China Costa Mesa, CA Austria India Portugal Pleasanton, CA Belgium Ireland Poland Wood Dale, IL Brazil Israel Puerto Rico Carmel, IN Canada Italy Spain Woburn, MA Czech Republic Japan Sweden Columbia, MD Denmark Korea Switzerland Morrisville, NC Finland Malaysia Taiwan Parsippany, NJ France Mexico United Arab Emirates Plymouth Meeting, PA Germany Netherlands United Kingdom Hungary Norway
+[END TABLE 107]
+
+[TABLE 108]
+(3) The Company operates more than one field office within certain states and foreign countries.
+[END TABLE 108]
+
+[TABLE 109]
+Item 5: Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+[END TABLE 109]
+
+[TABLE 110]
+2020 2021 2022 2023 2024 2025 WATERS CORPORATION 100.00 150.59 138.46 133.07 149.94 153.52 NYSE MARKET INDEX 100.00 120.68 109.39 124.46 144.12 169.62 SIC CODE INDEX 100.00 126.55 85.53 76.41 71.56 69.03 S&P 500 INDEX 100.00 128.71 105.40 133.10 166.40 196.16
+[END TABLE 110]
+
+[TABLE 111]
+Period Total Number of Shares Purchased (1) Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Programs Maximum Dollar Value of Shares That May Yet Be Purchased Under the Programs ( in thousands) September 28, 2025 to October 25, 2025 81 $ 289.43 — $ 961,207 October 26, 2025 to November 22, 2025 91 $ 345.95 — $ 961,207 November 23, 2025 to December 31, 2025 236 $ 377.12 — $ 961,207 Total 408 $ 352.76 — $ 961,207
+[END TABLE 111]
+
+[TABLE 112]
+(1) All shares repurchased as referenced in the table above related to the vesting of restricted stock during the three months ended December 31, 2025.
+[END TABLE 112]
+
+[TABLE 113]
+Year Ended December 31, % change 2025 2024 2023 2025 vs 2024 2024 vs 2023 Revenues: Product sales $ 1,977,100 $ 1,844,176 $ 1,903,050 7 % (3 %) Service sales 1,188,186 1,114,211 1,053,366 7 % 6 % Total net sales 3,165,286 2,958,387 2,956,416 7 % — Costs and operating expenses: Cost of sales 1,288,822 1,200,201 1,195,223 7 % — Selling and administrative expenses 830,374 690,148 736,014 20 % (6 %) Research and development expenses 195,711 183,027 174,945 7 % 5 % Purchased intangibles amortization 47,791 47,090 32,558 1 % 45 % Litigation provisions — 11,568 — * * * * Operating income 802,588 826,353 817,676 (3 %) 1 % Operating income as a % of sales 25.4 % 27.9 % 27.7 % Other income, net 3,061 776 807 294 % (4 %) Interest expense, net (50,771 ) (72,261 ) (82,240 ) (30 %) (12 %) Income before income taxes 754,878 754,868 736,243 — 3 % Provision for income taxes 112,249 117,034 94,009 (4 %) 24 % Net income $ 642,629 $ 637,834 $ 642,234 1 % (1 %) Net income per diluted common share $ 10.76 $ 10.71 $ 10.84 — (1 %)
+[END TABLE 113]
+
+[TABLE 114]
+** Percentage not meaningful
+[END TABLE 114]
+
+[TABLE 115]
+Year Ended December 31, % change 2025 2024 2023 2025 vs. 2024 2024 vs. 2023 Net Sales: Asia: China $ 437,468 $ 396,599 $ 440,707 10 % (10 %) Asia Other 602,929 572,623 567,118 5 % 1 % Total Asia 1,040,397 969,222 1,007,825 7 % (4 %) Americas: United States 965,782 933,926 927,982 3 % 1 % Americas Other 195,731 181,854 180,591 8 % 1 % Total Americas 1,161,513 1,115,780 1,108,573 4 % 1 % Europe 963,376 873,385 840,018 10 % 4 % Total net sales $ 3,165,286 $ 2,958,387 $ 2,956,416 7 % —
+[END TABLE 115]
+
+[TABLE 116]
+Year Ended December 31, % change 2025 2024 2023 2025 vs. 2024 2024 vs. 2023 Pharmaceutical $ 1,873,362 $ 1,718,899 $ 1,696,875 9 % 1 % Industrial 961,154 908,486 909,003 6 % — Academic and government 330,770 331,002 350,538 — (6 %) Total net sales $ 3,165,286 $ 2,958,387 $ 2,956,416 7 % —
+[END TABLE 116]
+
+[TABLE 117]
+Year Ended December 31, % change 2025 % of Total 2024 % of Total 2023 % of Total 2025 vs. 2024 2024 vs. 2023 Waters instrument systems $ 1,101,826 39 % $ 1,032,493 40 % $ 1,108,702 43 % 7 % (7 %) Chemistry consumables 631,458 23 % 565,481 21 % 541,469 20 % 12 % 4 % Total Waters product sales 1,733,284 62 % 1,597,974 61 % 1,650,171 63 % 8 % (3 %) Waters service 1,080,162 38 % 1,006,447 39 % 951,419 37 % 7 % 6 % Total Waters net sales $ 2,813,446 100 % $ 2,604,421 100 % $ 2,601,590 100 % 8 % —
+[END TABLE 117]
+
+[TABLE 118]
+Year Ended December 31, % change 2025 % of Total 2024 % of Total 2023 % of Total 2025 vs. 2024 2024 vs. 2023 TA instrument systems $ 243,816 69 % $ 246,202 70 % $ 252,879 71 % (1 %) (3 %) TA service 108,024 31 % 107,764 30 % 101,947 29 % — 6 % Total TA net sales 351,840 100 % 353,966 100 % 354,826 100 % (1 %) —
+[END TABLE 118]
+
+[TABLE 119]
+Year Ended December 31, 2025 2024 2023 Net income $ 642,629 $ 637,834 $ 642,234 Depreciation and amortization 206,237 191,825 165,905 Stock-based compensation 54,127 44,709 36,868 Deferred income taxes (14,657 ) (877 ) (1,197 ) Change in accounts receivable (55,498 ) (66,240 ) 49,179 Change in inventories (65,933 ) 20,943 (45,443 ) Change in accounts payable and other current liabilities (89,012 ) 61,585 (79,524 ) Change in deferred revenue and customer advances 957 6,165 10,433 Other changes (26,295 ) (133,821 ) (175,646 ) Net cash provided by operating activities 652,555 762,123 602,809 Net cash used in investing activities (152,253 ) (143,089 ) (1,442,265 ) Net cash used in financing activities (237,205 ) (696,675 ) 754,951 Effect of exchange rate changes on cash and cash equivalents (621 ) 7,920 (948 ) Increase (decrease) in cash and cash equivalents $ 262,476 $ (69,721 ) $ (85,453 )
+[END TABLE 119]
+
+[TABLE 120]
+• The changes in accounts receivable were primarily attributable to timing of payments made by customers and timing of sales. Days sales outstanding was 84 days at December 31, 2025, 79 days at December 31, 2024 and 78 days at December 31, 2023.
+[END TABLE 120]
+
+[TABLE 121]
+• The increase in inventory can primarily be attributed to higher tariffs on material costs as well as an increase in safety stock levels to help navigate tariffs and mitigate any future supply chain issues and the effect of foreign currency translation.
+[END TABLE 121]
+
+[TABLE 122]
+• The changes in accounts payable and other current liabilities were a result of the timing of payments to vendors, as well as the annual payment of management incentive compensation.
+[END TABLE 122]
+
+[TABLE 123]
+• Net cash provided from deferred revenue and customer advances results from annual increases in new service contracts as a higher installed base of customers renew annual service contracts.
+[END TABLE 123]
+
+[TABLE 124]
+• In 2025, cash from operating activities was impacted by $61 million more of income tax payments compared to the prior year.
+[END TABLE 124]
+
+[TABLE 125]
+• Other changes were attributable to variation in the timing of various provisions, expenditures, prepaid income taxes and accruals in other current assets, other assets and other liabilities.
+[END TABLE 125]
+
+[TABLE 126]
+December 31, 2025 December 31, 2024 Notional Value Fair Value Notional Value Fair Value Foreign currency exchange contracts: Other current assets $ 39,053 $ 329 $ 14,999 $ 482 Other current liabilities $ 18,979 $ 248 $ 24,749 $ 261 Interest rate cross-currency swap agreements: Other assets $ 20,000 $ 346 $ 625,000 $ 26,196 Other liabilities $ 880,000 $ 50,493 $ — $ — Accumulated other comprehensive (loss) income $ (53,730 ) — $ 32,979 Interest rate swap cash flow hedges: Other assets $ 50,000 $ 34 $ 100,000 $ 503 Other liabilities $ 100,000 $ 2,384 $ 50,000 $ 641 Accumulated other comprehensive (loss) income $ (2,350 ) — $ (138 )
+[END TABLE 126]
+
+[TABLE 127]
+Financial Statement Classification Year Ended December 31, 2025 2024 2023 Foreign currency exchange contracts: Realized (losses) gains on closed contracts Cost of sales $ (1,780 ) $ 850 $ 224 Unrealized (losses) gains on open contracts Cost of sales (140 ) 245 (156 ) Cumulative net pre-tax (losses) gains Cost of sales $ (1,920 ) $ 1,095 $ 68 Interest rate cross-currency swap agreements: Interest earned Interest income $ 10,920 $ 10,110 $ 10,974 Unrealized (losses) gains on open contracts (1) Accumulated other comprehensive loss $ (86,709 ) $ 40,954 $ (18,001 ) Interest rate swap cash flow hedges: Interest earned Interest income $ 468 $ 1,281 $ 326 Unrealized losses on open contracts Accumulated other comprehensive loss $ (2,211 ) $ (2,835 ) $ (2,974 )
+[END TABLE 127]
+
+[TABLE 128]
+(1) Unrealized (losses) gains on open contracts from interest rate cross-currency swap agreements fluctuated year over year primarily due to changes in foreign exchange rates, which resulted in period-to-period variability.
+[END TABLE 128]
+
+[TABLE 129]
+December 31, 2025 2024 (In thousands, except per share data) ASSETS Current assets: Cash and cash equivalents $ 587,831 $ 325,355 Accounts receivable, net 828,844 733,365 Inventories 572,371 477,261 Other current assets 158,599 133,130 Total current assets 2,147,645 1,669,111 Property, plant and equipment, net 642,046 651,200 Intangible assets, net 558,179 567,906 Goodwill 1,340,081 1,295,720 Operating lease assets 80,764 74,193 Other assets 307,835 295,665 Total assets $ 5,076,550 $ 4,553,795 LIABILITIES AND STOCKHOLDERS’ EQUITY Current liabilities: Notes payable and debt $ 460,000 $ — Accounts payable 103,778 99,931 Accrued employee compensation 99,654 93,969 Deferred revenue and customer advances 266,540 250,807 Current operating lease liabilities 31,091 25,537 Accrued income taxes 35,530 158,658 Accrued warranty 12,261 11,602 Other current liabilities 230,645 149,254 Total current liabilities 1,239,499 789,758 Long-term liabilities: Long-term debt 947,445 1,626,488 Long-term portion of retirement benefits 43,918 44,611 Long-term income tax liabilities 34,075 30,318 Long-term operating lease liabilities 52,548 50,317 Other long-term liabilities 197,823 183,796 Total long-term liabilities 1,275,809 1,935,530 Total liabilities 2,515,308 2,725,288 Commitments and contingencies (Notes 8, 9, 10, 11, 12 and 16) Stockholders’ equity: Preferred stock, par value $ 0.01 per share, 5,000 shares authorized, none issued at December 31, 2025 and December 31, 2024 — — Common stock, par value $ 0.01 per share, 400,000 shares authorized, 163,162 and 162,962 shares issued, 59,549 and 59,388 shares outstanding at December 31, 2025 and December 31, 2024, respectively 1,632 1,630 Additional paid-in capital 2,416,237 2,341,298 Retained earnings 10,431,284 9,788,655 Treasury stock, at cost, 103,613 and 103,574 shares at December 31, 2025 and December 31, 2024, respectively ( 10,162,460 ) ( 10,147,793 ) Accumulated other comprehensive loss ( 125,451 ) ( 155,283 ) Total stockholders’ equity 2,561,242 1,828,507 Total liabilities and stockholders’ equity $ 5,076,550 $ 4,553,795
+[END TABLE 129]
+
+[TABLE 130]
+Year Ended December 31, 2025 2024 2023 (In thousands, except per share data) Revenues: Product sales $ 1,977,100 $ 1,844,176 $ 1,903,050 Service sales 1,188,186 1,114,211 1,053,366 Total net sales 3,165,286 2,958,387 2,956,416 Costs and operating expenses: Cost of product sales 820,267 747,920 766,374 Cost of service sales 468,555 452,281 428,849 Selling and administrative expenses 830,374 690,148 736,014 Research and development expenses 195,711 183,027 174,945 Purchased intangibles amortization 47,791 47,090 32,558 Litigation provisions — 11,568 — Total costs and operating expenses 2,362,698 2,132,034 2,138,740 Operating income 802,588 826,353 817,676 Other income, net 3,061 776 807 Interest expense ( 69,548 ) ( 89,677 ) ( 98,861 ) Interest income 18,777 17,416 16,621 Income before income taxes 754,878 754,868 736,243 Provision for income taxes 112,249 117,034 94,009 Net income $ 642,629 $ 637,834 $ 642,234 Net income per basic common share $ 10.80 $ 10.75 $ 10.87 Weighted-average number of basic common shares 59,509 59,333 59,076 Net income per diluted common share $ 10.76 $ 10.71 $ 10.84 Weighted-average number of diluted common shares and equivalents 59,706 59,552 59,270
+[END TABLE 130]
+
+[TABLE 131]
+Year Ended December 31, 2025 2024 2023 (In thousands) Net income $ 642,629 $ 637,834 $ 642,234 Other comprehensive income (loss): Foreign currency translation 28,858 ( 26,565 ) 17,761 Unrealized (losses) gains on derivative instruments before reclassifications ( 1,743 ) 4,116 ( 2,648 ) Amounts reclassified to interest income ( 468 ) ( 1,281 ) ( 326 ) Unrealized (losses) gains on derivative instruments before income taxes ( 2,211 ) 2,835 ( 2,974 ) Income tax benefit (expense) 530 ( 680 ) 714 Unrealized (losses) gains on derivative instruments, net of tax ( 1,681 ) 2,155 ( 2,260 ) Retirement liability adjustment before reclassifications 3,678 3,828 ( 10,153 ) Amounts reclassified to other income, net ( 2 ) 448 ( 98 ) Retirement liability adjustment before income taxes 3,676 4,276 ( 10,251 ) Income tax (expense) benefit ( 1,021 ) ( 1,029 ) 2,202 Retirement liability adjustment, net of tax 2,655 3,247 ( 8,049 ) Other comprehensive income (loss) 29,832 ( 21,163 ) 7,452 Comprehensive income $ 672,461 $ 616,671 $ 649,686
+[END TABLE 131]
+
+[TABLE 132]
+Year Ended December 31, 2025 2024 2023 (In thousands) Cash flows from operating activities: Net income $ 642,629 $ 637,834 $ 642,234 Adjustments to reconcile net income to net cash provided by operating activities: Stock-based compensation 54,127 44,709 36,868 Deferred income taxes ( 14,657 ) ( 877 ) ( 1,197 ) Depreciation 88,144 87,018 84,625 Amortization of intangibles 118,093 104,807 81,280 Other adjustments ( 2,398 ) — ( 742 ) Change in operating assets and liabilities, net of acquisitions: (Increase) decrease in accounts receivable ( 55,498 ) ( 66,240 ) 49,179 (Increase) decrease in inventories ( 65,933 ) 20,943 ( 45,443 ) Increase in other current assets ( 33,282 ) ( 9,537 ) ( 43,164 ) Decrease (increase) in other assets 21,726 4,654 ( 26,264 ) (Decrease) increase in accounts payable and other current liabilities ( 89,012 ) 61,585 ( 79,524 ) Increase in deferred revenue and customer advances 957 6,165 10,433 Decrease in other liabilities ( 12,341 ) ( 128,938 ) ( 105,476 ) Net cash provided by operating activities 652,555 762,123 602,809 Cash flows from investing activities: Additions to property, plant, equipment and software capitalization ( 112,745 ) ( 142,481 ) ( 160,632 ) Asset and business acquisitions, net of cash acquired ( 35,053 ) — ( 1,282,354 ) Proceeds from (investments in) equity investments, net ( 7,295 ) ( 1,489 ) 742 Purchases of investments — ( 3,729 ) ( 1,791 ) Maturities and sales of investments — 4,610 1,770 Proceeds from sale of assets 2,840 — — Net cash used in investing activities ( 152,253 ) ( 143,089 ) ( 1,442,265 ) Cash flows from financing activities: Proceeds from debt issuances 70,000 170,000 1,450,040 Payments on debt ( 290,000 ) ( 900,000 ) ( 670,040 ) Payments of debt issuance costs ( 23,321 ) — ( 400 ) Proceeds from stock plans 20,790 30,366 29,792 Purchases of treasury shares ( 14,667 ) ( 13,541 ) ( 70,277 ) (Payments for) proceeds from derivative contracts ( 7 ) 16,500 15,836 Net cash (used in) provided by financing activities ( 237,205 ) ( 696,675 ) 754,951 Effect of exchange rate changes on cash and cash equivalents ( 621 ) 7,920 ( 948 ) Increase (decrease) in cash and cash equivalents 262,476 ( 69,721 ) ( 85,453 ) Cash and cash equivalents at beginning of period 325,355 395,076 480,529 Cash and cash equivalents at end of period $ 587,831 $ 325,355 $ 395,076 Supplemental cash flow information: Interest paid $ 44,648 $ 92,096 $ 94,099 Income taxes paid $ 244,236 $ 183,341 $ 243,316
+[END TABLE 132]
+
+[TABLE 133]
+Number of Common Shares Common Stock Additional Paid-In Capital Retained Earnings Treasury Stock Accumulated Other Comprehensive Loss Total Stockholders’ Equity (In thousands) Balance December 31, 2022 162,425 $ 1,624 $ 2,199,824 $ 8,508,587 $ ( 10,063,975 ) $ ( 141,572 ) $ 504,488 Net income — — — 642,234 — — 642,234 Other comprehensive income — — — — — 7,452 7,452 Issuance of common stock for employees: Employee Stock Purchase Plan 41 — 11,124 — — — 11,124 Stock options exercised 100 1 17,635 — — — 17,636 Treasury stock — — — — ( 70,277 ) — ( 70,277 ) Stock-based compensation 143 2 37,682 — — — 37,684 Balance December 31, 2023 162,709 $ 1,627 $ 2,266,265 $ 9,150,821 $ ( 10,134,252 ) $ ( 134,120 ) $ 1,150,341 Net income — — — 637,834 — — 637,834 Other comprehensive loss — — — — — ( 21,163 ) ( 21,163 ) Issuance of common stock for employees: Employee Stock Purchase Plan 36 — 9,778 — — — 9,778 Stock options exercised 98 1 21,203 — — — 21,204 Treasury stock — — — — ( 13,541 ) — ( 13,541 ) Stock-based compensation 119 2 44,052 — — — 44,054 Balance December 31, 2024 162,962 $ 1,630 $ 2,341,298 $ 9,788,655 $ ( 10,147,793 ) $ ( 155,283 ) $ 1,828,507 Net income — — — 642,629 — — 642,629 Other comprehensive income — — — — — 29,832 29,832 Issuance of common stock for employees: Employee Stock Purchase Plan 35 — 11,005 — — — 11,005 Stock options exercised 51 1 10,443 — — — 10,444 Treasury stock — — — — ( 14,667 ) — ( 14,667 ) Stock-based compensation 114 1 53,491 — — — 53,492 Balance December 31, 2025 163,162 $ 1,632 $ 2,416,237 $ 10,431,284 $ ( 10,162,460 ) $ ( 125,451 ) $ 2,561,242
+[END TABLE 133]
+
+[TABLE 134]
+Balance at Beginning of Period Additions Deductions and Other Balance at End of Period Allowance for Credit Losses December 31, 2025 $ 14,269 $ 5,834 $ ( 8,029 ) $ 12,074 December 31, 2024 $ 19,335 $ 3,198 $ ( 8,264 ) $ 14,269 December 31, 2023 $ 14,311 $ 8,120 $ ( 3,096 ) $ 19,335
+[END TABLE 134]
+
+[TABLE 135]
+Total at December 31, 2025 Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) Assets: Waters 401(k) Restoration Plan assets $ 30,834 $ 30,834 $ — $ — Foreign currency exchange contracts 329 — 329 — Interest rate cross-currency swap agreements 346 — 346 — Interest rate swap cash flow hedge 34 — 34 — Total $ 31,543 $ 30,834 $ 709 $ — Liabilities: Foreign currency exchange contracts $ 248 $ — $ 248 $ — Interest rate cross-currency swap agreements 50,493 — 50,493 — Interest rate swap cash flow hedge 2,384 — 2,384 — Total $ 53,125 $ — $ 53,125 $ —
+[END TABLE 135]
+
+[TABLE 136]
+Total at December 31, 2024 Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) Assets: Waters 401(k) Restoration Plan assets $ 30,137 $ 30,137 $ — $ — Foreign currency exchange contracts 482 — 482 — Interest rate cross-currency swap agreements 26,196 — 26,196 — Interest rate swap cash flow hedge 503 — 503 — Total $ 57,318 $ 30,137 $ 27,181 $ — Liabilities: Foreign currency exchange contracts $ 261 $ — $ 261 $ — Interest rate swap cash flow hedge 641 — 641 — Total $ 902 $ — $ 902 $ —
+[END TABLE 136]
+
+[TABLE 137]
+December 31, 2025 December 31, 2024 Notional Value Fair Value Notional Value Fair Value Foreign currency exchange contracts: Other current assets $ 39,053 $ 329 $ 14,999 $ 482 Other current liabilities $ 18,979 $ 248 $ 24,749 $ 261 Interest rate cross-currency swap agreements: Other assets $ 20,000 $ 346 $ 625,000 $ 26,196 Other liabilities $ 880,000 $ 50,493 $ — $ — Accumulated other comprehensive (loss) income $ ( 53,730 ) — $ 32,979 Interest rate swap cash flow hedges: Other assets $ 50,000 $ 34 $ 100,000 $ 503 Other liabilities $ 100,000 $ 2,384 $ 50,000 $ 641 Accumulated other comprehensive (loss) income $ ( 2,350 ) — $ ( 138 )
+[END TABLE 137]
+
+[TABLE 138]
+Financial Statement Classification Year Ended December 31, 2025 2024 2023 Foreign currency exchange contracts: Realized (losses) gains on closed contracts Cost of sales $ ( 1,780 ) $ 850 $ 224 Unrealized (losses) gains on open contracts Cost of sales ( 140 ) 245 ( 156 ) Cumulative net pre-tax (losses) gains Cost of sales $ ( 1,920 ) $ 1,095 $ 68 Interest rate cross-currency swap agreements: Interest earned Interest income $ 10,920 $ 10,110 $ 10,974 Unrealized (losses) gains on open contracts (1 ) Accumulated other comprehensive loss $ ( 86,709 ) $ 40,954 $ ( 18,001 ) Interest rate swap cash flow hedges: Interest earned Interest income $ 468 $ 1,281 $ 326 Unrealized losses on open contracts Accumulated other comprehensive loss $ ( 2,211 ) $ ( 2,835 ) $ ( 2,974 )
+[END TABLE 138]
+
+[TABLE 139]
+(1) Unrealized (losses) gains on open contracts from interest rate cross-currency swap agreements fluctuated year over year primarily due to changes in foreign exchange rates, which resulted in period-to-period variability.
+[END TABLE 139]
+
+[TABLE 140]
+Balance at Beginning of Period Accruals for Warranties Settlements Made Balance at End of Period Accrued warranty liability: December 31, 2025 $ 11,602 $ 7,301 $ ( 6,642 ) $ 12,261 December 31, 2024 $ 12,050 $ 7,214 $ ( 7,662 ) $ 11,602 December 31, 2023 $ 11,949 $ 7,727 $ ( 7,626 ) $ 12,050
+[END TABLE 140]
+
+[TABLE 141]
+December 31, 2025 2024 2023 Balance at the beginning of the period $ 320,046 $ 323,516 $ 285,175 Recognition of revenue included in balance at beginning of the period ( 275,549 ) ( 265,167 ) ( 240,808 ) Revenue deferred during the period, net of revenue recognized 300,224 261,697 279,149 Balance at the end of the period $ 344,721 $ 320,046 $ 323,516
+[END TABLE 141]
+
+[TABLE 142]
+December 31, 2025 Unfulfilled performance obligations expected to be recognized in: One year or less $ 280,276 13 - 24 months 39,968 25 months and beyond 38,213 Total $ 358,457
+[END TABLE 142]
+
+[TABLE 143]
+December 31, 2025 December 31, 2024 Raw materials $ 234,633 $ 227,032 Work in progress 28,157 21,801 Finished goods 309,581 228,428 Total inventories $ 572,371 $ 477,261
+[END TABLE 143]
+
+[TABLE 144]
+December 31, 2025 2024 Land and land improvements $ 43,768 $ 40,945 Buildings and leasehold improvements 566,102 547,666 Production and other equipment 824,229 752,872 Construction in progress 48,206 39,180 Total property, plant and equipment 1,482,305 1,380,663 Less: accumulated depreciation and amortization ( 840,259 ) ( 729,463 ) Property, plant and equipment, net $ 642,046 $ 651,200
+[END TABLE 144]
+
+[TABLE 145]
+Purchase Price Cash paid $ 35,815 Less: cash acquired ( 762 ) Net cash consideration 35,053 Identifiable Net Assets (Liabilities) Acquired Accounts receivable 962 Inventory 1,296 Prepaid, property, plant and equipment, operating lease and other assets 2,415 Intangible assets 13,400 Accounts payable and accrued expenses ( 1,966 ) Operating lease liabilities, deferred revenue and other liabilities ( 2,004 ) Tax liabilities ( 2,821 ) Total identifiable net assets acquired 11,282 Goodwill 23,771 Net cash consideration $ 35,053
+[END TABLE 145]
+
+[TABLE 146]
+December 31, 2023 Revenue $ 2,995,001 Net income 658,431
+[END TABLE 146]
+
+[TABLE 147]
+December 31, 2025 December 31, 2024 Gross Carrying Amount Accumulated Amortization Weighted- Average Amortization Period Gross Carrying Amount Accumulated Amortization Weighted- Average Amortization Period Capitalized software $ 793,622 $ 622,970 5 years $ 662,085 $ 508,339 5 years Purchased intangibles 632,017 295,564 10 years 610,351 241,093 10 years Trademarks 9,680 — 9,680 — Licenses 15,611 11,750 7 years 14,549 9,628 7 years Patents and other intangibles 135,645 98,113 8 years 117,781 87,480 8 years Total $ 1,586,575 $ 1,028,397 7 years $ 1,414,446 $ 846,540 7 years
+[END TABLE 147]
+
+[TABLE 148]
+December 31, 2025 December 31, 2024 Senior unsecured notes - Series K - 3.44 %, due May 2026 $ 160,000 $ — Senior unsecured notes - Series L - 3.31 %, due September 2026 200,000 — Senior unsecured notes - Series N - 1.68 %, due March 2026 100,000 — Total notes payable and debt, current 460,000 — Senior unsecured notes - Series K - 3.44 %, due May 2026 — 160,000 Senior unsecured notes - Series L - 3.31 %, due September 2026 — 200,000 Senior unsecured notes - Series M - 3.53 %, due September 2029 300,000 300,000 Senior unsecured notes - Series N - 1.68 %, due March 2026 — 100,000 Senior unsecured notes - Series O - 2.25 %, due March 2031 400,000 400,000 Senior unsecured notes - Series P - 4.91 %, due May 2028 50,000 50,000 Senior unsecured notes - Series Q - 4.91 %, due May 2030 50,000 50,000 Credit agreement 150,000 370,000 Unamortized debt issuance costs ( 2,555 ) ( 3,512 ) Total long-term debt 947,445 1,626,488 Total debt $ 1,407,445 $ 1,626,488
+[END TABLE 148]
+
+[TABLE 149]
+Total 2026 $ 460,000 2027 — 2028 50,000 2029 300,000 2030 200,000 Thereafter 400,000 Total $ 1,410,000
+[END TABLE 149]
+
+[TABLE 150]
+Year Ended December 31, 2025 2024 2023 The components of income before income taxes are as follows: Domestic $ 57,267 $ 121,630 $ 74,119 Foreign 697,611 633,238 662,124 Total $ 754,878 $ 754,868 $ 736,243
+[END TABLE 150]
+
+[TABLE 151]
+Year Ended December 31, 2025 2024 2023 The components of the income tax provision were as follows: Federal $ 8,997 $ 20,609 $ 178 State 4,838 6,395 6,427 Foreign 113,071 90,907 88,601 Total current tax provision $ 126,906 $ 117,911 $ 95,206 Federal $ ( 18,553 ) $ ( 383 ) $ ( 2,457 ) State ( 564 ) 303 ( 3,029 ) Foreign 4,460 ( 797 ) 4,289 Total deferred tax provision ( 14,657 ) ( 877 ) ( 1,197 ) Total provision $ 112,249 $ 117,034 $ 94,009
+[END TABLE 151]
+
+[TABLE 152]
+Year Ended December 31, 2025 Income tax payments (net of refunds received): U.S. Federal 138,007 U.S. State and Local 6,376 Non-U.S. Ireland 59,221 Other Non-U.S. 40,632 Total income taxes paid, (net of refunds received) $ 244,236
+[END TABLE 152]
+
+[TABLE 153]
+Year Ended December 31, 2025 % U.S. federal statutory tax rate $ 158,524 21.0 % State and local income taxes, net of federal income tax effect (a) 1,043 0.1 % Foreign tax effects Ireland Statutory tax rate difference between Ireland and United States ( 36,662 ) ( 4.9 %) Nondeductible interest expense 9,861 1.3 % Other ( 499 ) ( 0.1 %) Singapore Statutory tax rate difference between Singapore and United States ( 7,459 ) ( 1.0 %) Local taxes at a rate different than the statutory rate (b) ( 3,380 ) ( 0.4 %) Other 3,448 0.5 % Other foreign jurisdictions 13,416 1.8 % Effect of cross-border tax laws Global intangible low-taxed income, net of foreign tax credits 3,470 0.5 % Other, net of foreign tax credits ( 1,368 ) ( 0.2 %) Tax credits Foreign tax credits ( 29,952 ) ( 4.0 %) Other ( 6,659 ) ( 0.9 %) Nontaxable or nondeductible items Other 9,578 1.3 % Changes in unrecognized tax benefits ( 2,306 ) ( 0.3 %) Other adjustments 1, 1 9 4 0. 2 % Effective income tax rate $ 112,249 14.9 %
+[END TABLE 153]
+
+[TABLE 154]
+(a) State taxes in California, Pennsylvania , Minnesota, New Jersey and New York made up the majority (greater than 50 percent) of the tax effect in this category.
+[END TABLE 154]
+
+[TABLE 155]
+(b) The tax expense (benefit) related to the concessionary tax rate in Singapore was reduced by $ 14 million due to the global minimum tax under Pillar Two.
+[END TABLE 155]
+
+[TABLE 156]
+Year Ended December 31, 2024 2023 Federal tax computed at U.S. statutory income tax rate $ 158,522 $ 154,611 GILTI, net of foreign tax credits 4,820 15,103 Uncertain tax positions 5,024 ( 16,211 ) State income tax, net of federal income tax benefit 6,078 2,880 Net effect of foreign operations ( 47,732 ) ( 48,587 ) Effect of stock-based compensation ( 2,155 ) ( 2,262 ) Other, net ( 7,523 ) ( 11,525 ) Provision for income taxes $ 117,034 $ 94,009
+[END TABLE 156]
+
+[TABLE 157]
+December 31, 2025 2024 Deferred tax assets: Net operating losses and credits $ 146,742 $ 118,854 Operating leases 17,971 16,573 Amortization 12,047 9,006 Stock-based compensation 6,913 6,343 Deferred compensation 18,931 20,515 Deferred revenue 14,516 15,707 Capitalized Section 174 Expenditures 63,535 51,514 Other 15,120 20,295 Total deferred tax assets 295,775 258,807 Valuation allowance ( 140,377 ) ( 119,464 ) Deferred tax assets, net of valuation allowance 155,398 139,343 Deferred tax liabilities: Capitalized software ( 30,942 ) ( 29,309 ) Operating leases ( 17,775 ) ( 16,312 ) Indefinite-lived intangibles ( 43,883 ) ( 29,924 ) Deferred tax liability on foreign earnings ( 5,608 ) ( 20,278 ) Total deferred tax liabilities ( 98,208 ) ( 95,823 ) Net deferred tax assets $ 57,190 $ 43,520
+[END TABLE 157]
+
+[TABLE 158]
+2025 2024 2023 Balance at the beginning of the period $ 17,657 $ 14,323 $ 29,019 Net reductions for settlement of tax audits ( 892 ) — ( 17,651 ) Net reductions for lapse of statutes taken during the period ( 790 ) ( 616 ) ( 512 ) Net (reductions) additions for tax positions taken during the prior period ( 1,832 ) 3,407 2,473 Net additions for tax positions taken during the current period 1,068 543 994 Balance at the end of the period $ 15,211 $ 17,657 $ 14,323
+[END TABLE 158]
+
+[TABLE 159]
+Balance at Beginning of Period Charged to Provision for Income Taxes* Other** Balance at End of Period Valuation allowance for deferred tax assets: 2025 $ 119,464 $ 5,897 $ 15,016 $ 140,377 2024 $ 57,873 $ 64,310 $ ( 2,719 ) $ 119,464 2023 $ 54,300 $ 1,467 $ 2,106 $ 57,873
+[END TABLE 159]
+
+[TABLE 160]
+* These amounts have been recorded as part of the income statement provision for income taxes. The income statement effects of these amounts have largely been offset by amounts related to changes in other deferred tax balance sheet accounts. The increase in the 2024 charge to the provision for income taxes can be attributed to an increase in foreign net operating losses.
+[END TABLE 160]
+
+[TABLE 161]
+** The changes in the valuation allowance during the years ended December 31, 2025, 2024 and 2023 are primarily due to the effect of foreign currency translation on a valuation allowance related to a net operating loss carryforward.
+[END TABLE 161]
+
+[TABLE 162]
+\ December 31, Financial Statement Classification 2025 2024 Assets: Property operating lease assets Operating lease assets $ 44,486 $ 43,622 Automobile operating lease assets Operating lease assets 36,020 30,013 Equipment operating lease assets Operating lease assets 258 558 Total lease assets $ 80,764 $ 74,193 Liabilities: Current operating lease liabilities Current operating lease liabilities $ 31,091 $ 25,537 Long-term operating lease liabilities Long-term operating lease liabilities 52,548 50,317 Total lease liabilities $ 83,639 $ 75,854
+[END TABLE 162]
+
+[TABLE 163]
+2026 $ 33,475 2027 22,727 2028 14,926 2029 10,154 2030 3,259 2031 and thereafter 4,805 Total future minimum lease payments 89,346 Less: amount of lease payments representing interest ( 5,707 ) Present value of future minimum lease payments 83,639 Less: current operating lease liabilities ( 31,091 ) Long-term operating lease liabilities $ 52,548
+[END TABLE 163]
+
+[TABLE 164]
+2025 2024 2023 Cost of sales $ 3,539 $ 2,587 $ 2,014 Selling and administrative expenses 42,742 36,160 31,012 Research and development expenses 7,846 5,962 3,842 Total stock-based compensation $ 54,127 $ 44,709 $ 36,868
+[END TABLE 164]
+
+[TABLE 165]
+Options Issued and Significant Weighted-Average Assumptions Used to Estimate Option Fair Values 2025 2024 2023 Options issued in thousands 75 128 132 Risk-free interest rate 4.3 % 4.1 % 3.9 % Expected life in years 6 6 6 Expected volatility 30.7 % 31.9 % 31.1 % Expected dividends — — —
+[END TABLE 165]
+
+[TABLE 166]
+Weighted-Average Exercise Price and Fair Value of Options on the Date of Grant 2025 2024 2023 Exercise price $ 394.94 $ 325.45 $ 331.76 Fair value $ 152.87 $ 127.93 $ 126.73
+[END TABLE 166]
+
+[TABLE 167]
+Number of Shares Exercise Price per Share Weighted- Average Exercise Price per Share Outstanding at December 31, 2024 593 $ 128.93 to $ 371.64 $ 284.74 Granted 75 $ 368.26 to $ 414.09 $ 394.94 Exercised ( 51 ) $ 128.93 to $ 345.68 $ 213.15 Canceled ( 11 ) $ 279.90 to $ 374.82 $ 335.50 Outstanding at December 31, 2025 606 $ 136.43 to $ 346.56 $ 303.53
+[END TABLE 167]
+
+[TABLE 168]
+Exercise Price Range Number of Shares Outstanding Weighted- Average Exercise Price Remaining Contractual Life of Options Outstanding Number of Shares Exercisable Weighted- Average Exercise Price $ 136.43 to $ 280.80 206 $ 235.21 4.2 184 $ 230.73 $ 280.81 to $ 323.65 201 $ 318.12 6.9 87 $ 316.13 $ 323.66 to $ 346.56 199 $ 359.52 8.2 53 $ 342.05 Total 606 $ 303.53 6.4 324 $ 271.74
+[END TABLE 168]
+
+[TABLE 169]
+Shares Weighted-Average Grant Date Fair Value per Share Unvested at December 31, 2024 261 $ 316.27 Granted 111 $ 377.02 Vested ( 78 ) $ 299.59 Forfeited ( 24 ) $ 337.88 Unvested at December 31, 2025 270 $ 344.22
+[END TABLE 169]
+
+[TABLE 170]
+Performance Stock Units Issued and Significant Assumptions Used to Estimate Fair Values 2025 2024 2023 Performance stock units issued in thousands 48 43 45 Risk-free interest rate 4.1 % 4.7 % 4.8 % Expected life in years 2.9 2.9 2.9 Expected volatility 32.5 % 30.4 % 33.3 % Average volatility of peer companies 30.6 % 29.6 % 32.8 % Correlation Coefficient 32.1 % 33.4 % 38.2 % Expected dividends — — —
+[END TABLE 170]
+
+[TABLE 171]
+Shares Weighted-Average Grant-Date Fair Value Unvested at December 31, 2024 110 $ 331.55 Granted 48 $ 425.93 Vested ( 34 ) $ 321.46 Forfeited ( 4 ) $ 352.98 Change in performance shares in the year due to exceeding performance targets 2 $ 416.78 Unvested at December 31, 2025 122 $ 373.63
+[END TABLE 171]
+
+[TABLE 172]
+Year Ended December 31, 2025 Net Income Weighted-Average Shares Per Share (Numerator) (Denominator) Amount Net income per basic common share $ 642,629 59,509 $ 10.80 Effect of dilutive stock option, restricted stock, performance stock unit and restricted stock unit securities — 197 ( 0.04 ) Net income per diluted common share $ 642,629 59,706 $ 10.76
+[END TABLE 172]
+
+[TABLE 173]
+Year Ended December 31, 2024 Net Income Weighted-Average Shares Per Share (Numerator) (Denominator) Amount Net income per basic common share $ 637,834 59,333 $ 10.75 Effect of dilutive stock option, restricted stock, performance stock unit and restricted stock unit securities — 219 ( 0.04 ) Net income per diluted common share $ 637,834 59,552 $ 10.71
+[END TABLE 173]
+
+[TABLE 174]
+Year Ended December 31, 2023 Net Income Weighted-Average Shares Per Share (Numerator) (Denominator) Amount Net income per basic common share $ 642,234 59,076 $ 10.87 Effect of dilutive stock option, restricted stock, performance stock unit and restricted stock unit securities — 194 ( 0.03 ) Net income per diluted common share $ 642,234 59,270 $ 10.84
+[END TABLE 174]
+
+[TABLE 175]
+Currency Translation Unrealized (Loss) Income on Retirement Plans Unrealized Loss on Derivative Instruments Accumulated Other Comprehensive Loss Balance at December 31, 2023 $ ( 128,359 ) $ ( 3,501 ) $ ( 2,260 ) $ ( 134,120 ) Other comprehensive (loss) income, net of tax ( 26,565 ) 3,247 2,155 ( 21,163 ) Balance at December 31, 2024 $ ( 154,924 ) $ ( 254 ) $ ( 105 ) $ ( 155,283 ) Other comprehensive income (loss), net of tax 28,858 2,655 ( 1,681 ) 29,832 Balance at December 31, 2025 $ ( 126,066 ) $ 2,401 $ ( 1,786 ) $ ( 125,451 )
+[END TABLE 175]
+
+[TABLE 176]
+2025 2024 U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans Projected benefit obligation, January 1 $ 25,851 $ 83,881 $ 25,742 $ 92,391 Service cost 427 3,572 340 3,398 Employee contributions 994 608 1,037 554 Interest cost 1,393 2,585 1,282 2,610 Actuarial losses (gains) 758 ( 6,410 ) ( 690 ) ( 2,124 ) Benefits paid ( 2,163 ) ( 1,933 ) ( 1,860 ) ( 2,834 ) Plan amendments — — — ( 965 ) Plan settlements — ( 701 ) — ( 3,288 ) Currency impact — 9,037 — ( 5,861 ) Projected benefit obligation, December 31 $ 27,260 $ 90,639 $ 25,851 $ 83,881
+[END TABLE 176]
+
+[TABLE 177]
+2025 2024 U.S. Retiree Non-U.S. U.S. Retiree Non-U.S. Healthcare Pension Healthcare Pension Plan Plans Plan Plans Fair value of plan assets, January 1 $ 19,780 $ 80,750 $ 18,153 $ 86,587 Actual return on plan assets 2,251 ( 144 ) 1,764 2,201 Company contributions 809 3,129 686 3,083 Employee contributions 994 608 1,037 554 Plan settlements — ( 701 ) — ( 3,288 ) Benefits paid ( 2,163 ) ( 1,933 ) ( 1,860 ) ( 2,834 ) Currency impact — 9,318 — ( 5,553 ) Fair value of plan assets, December 31 $ 21,671 $ 91,027 $ 19,780 $ 80,750
+[END TABLE 177]
+
+[TABLE 178]
+2025 2024 U.S. Retiree Non-U.S. U.S. Retiree Non-U.S. Healthcare Pension Healthcare Pension Plan Plans Plan Plans Projected benefit obligation $ ( 27,260 ) $ ( 90,639 ) $ ( 25,851 ) $ ( 83,881 ) Fair value of plan assets 21,671 91,027 19,780 80,750 Funded status $ ( 5,589 ) $ 388 $ ( 6,071 ) $ ( 3,131 )
+[END TABLE 178]
+
+[TABLE 179]
+2025 2024 U.S. Retiree Non-U.S. U.S. Retiree Non-U.S. Healthcare Pension Healthcare Pension Plan Plans Plan Plans Long-term assets $ — $ 8,310 $ — $ 5,109 Current liabilities — ( 301 ) — — Long-term liabilities ( 5,589 ) ( 7,621 ) ( 6,071 ) ( 8,240 ) Net amount recognized at December 31 $ ( 5,589 ) $ 388 $ ( 6,071 ) $ ( 3,131 )
+[END TABLE 179]
+
+[TABLE 180]
+2025 2024 Accumulated benefit obligations $ 42,957 $ 38,076 Fair value of plan assets $ 39,342 $ 33,998
+[END TABLE 180]
+
+[TABLE 181]
+2025 2024 Projected benefit obligations $ 47,518 $ 42,238 Fair value of plan assets $ 39,596 $ 33,998
+[END TABLE 181]
+
+[TABLE 182]
+2025 2024 2023 U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans Service cost $ 427 $ 3,572 $ 340 $ 3,398 $ 275 $ 3,073 Interest cost 1,393 2,585 1,282 2,610 1,262 2,797 Expected return on plan assets ( 1,221 ) ( 2,978 ) ( 1,120 ) ( 2,825 ) ( 978 ) ( 2,653 ) Settlement loss — ( 4 ) — 552 — 221 Net amortization: Prior service credit — ( 45 ) ( 17 ) ( 73 ) ( 19 ) ( 105 ) Net actuarial loss (gain) — 47 — ( 14 ) — ( 195 ) Net periodic pension cost $ 599 $ 3,177 $ 485 $ 3,648 $ 540 $ 3,138
+[END TABLE 182]
+
+[TABLE 183]
+2025 2024 2023 U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans Prior service cost $ — $ — $ — $ 965 $ — $ — Net gain (loss) arising during the year 271 3,287 1,333 1,500 ( 699 ) ( 9,396 ) Amortization: Prior service credit — ( 45 ) ( 17 ) ( 73 ) ( 19 ) ( 105 ) Net loss — 43 — 538 — 26 Currency impact — 120 — 30 — ( 58 ) Total recognized in other comprehensive income (loss) $ 271 $ 3,405 $ 1,316 $ 2,960 $ ( 718 ) $ ( 9,533 )
+[END TABLE 183]
+
+[TABLE 184]
+2025 2024 U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans Net actuarial gain (loss) $ 640 $ 2,190 $ 369 $ ( 1,153 ) Prior service credit — 778 — 716 Total $ 640 $ 2,968 $ 369 $ ( 437 )
+[END TABLE 184]
+
+[TABLE 185]
+2025 2024 U.S. Retiree Healthcare Plan Non-U.S. Pension Plans U.S. Retiree Healthcare Plan Non-U.S. Pension Plans Equity securities 65 % 6 % 65 % 6 % Debt securities 35 % 16 % 35 % 17 % Cash and cash equivalents 0 % 1 % 0 % 1 % Insurance contracts and other 0 % 77 % 0 % 76 % Total 100 % 100 % 100 % 100 %
+[END TABLE 185]
+
+[TABLE 186]
+U.S. Retiree Healthcare Plan Non-U.S. Pension Plans Policy Target Policy Target Range Equity securities 65 % 30 % - 90 % 18 % Debt securities 35 % 20 % - 50 % 22 % Cash and cash equivalents 0 % 0 % - 10 % 4 % Insurance contracts and other 0 % 0 % - 10 % 56 %
+[END TABLE 186]
+
+[TABLE 187]
+Level 1: The fair value of these types of investments is based on market and observable sources from daily quoted prices on nationally recognized securities exchanges. Level 2: The fair value of these types of investments utilizes data points other than quoted prices in active markets that are observable either directly or indirectly. Level 3: These bank and insurance investment contracts are issued by well-known, highly-rated companies. The fair value disclosed represents the present value of future cash flows under the terms of the respective contracts. Significant assumptions used to determine the fair value of these contracts include the amount and timing of future cash flows and counterparty credit risk.
+[END TABLE 187]
+
+[TABLE 188]
+Total at December 31, 2025 Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) U.S. Retiree Healthcare Plan: Mutual funds (a) $ 21,671 $ 21,671 $ — $ — Total U.S. Retiree Healthcare Plan 21,671 21,671 — — Non-U.S. Pension Plans: Cash equivalents (b) 982 982 — — Mutual funds (c) 19,828 19,828 — — Bank and insurance investment contracts (d) 70,217 — — 70,217 Total Non-U.S. Pension Plans 91,027 20,810 — 70,217 Total fair value of retirement plan assets $ 112,698 $ 42,481 $ — $ 70,217
+[END TABLE 188]
+
+[TABLE 189]
+Total at December 31, 2024 Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) U.S. Retiree Healthcare Plan: Mutual funds (e) $ 19,780 $ 19,780 $ — $ — Total U.S. Retiree Healthcare Plan 19,780 19,780 — — Non-U.S. Pension Plans: Cash equivalents (b) 910 910 — — Mutual funds (f) 18,413 18,413 — — Bank and insurance investment contracts (d) 61,427 — — 61,427 Total Non-U.S. Pension Plans 80,750 19,323 — 61,427 Total fair value of retirement plan assets $ 100,530 $ 39,103 $ — $ 61,427
+[END TABLE 189]
+
+[TABLE 190]
+a) The mutual fund balance in the U.S. Retiree Healthcare Plan is invested in the following categories: 41 % in the common stock of large-cap U.S. companies, 24 % in the common stock of international growth companies and 35 % in fixed income bonds of U.S. companies and the U.S. government.
+[END TABLE 190]
+
+[TABLE 191]
+b) Primarily represents deposit account funds held with various financial institutions.
+[END TABLE 191]
+
+[TABLE 192]
+c) The mutual fund balance in the Non-U.S. Pension Plans is primarily invested in the following categories: 66 % in international bonds, 28 % in the common stock of international companies and 6 % in various other global investments.
+[END TABLE 192]
+
+[TABLE 193]
+d) Amount represents bank and insurance guaranteed investment contracts.
+[END TABLE 193]
+
+[TABLE 194]
+e) The mutual fund balance in the U.S. Retiree Healthcare Plan is invested in the following categories: 47 % in the common stock of large-cap U.S. companies, 18 % in the common stock of international growth companies and 35 % in fixed income bonds of U.S. companies and the U.S. government.
+[END TABLE 194]
+
+[TABLE 195]
+f) The mutual fund balance in the Non-U.S. Pension Plans is invested in the following categories: 71 % in international bonds, 25 % in the common stock of international companies and 4 % in various other global investments.
+[END TABLE 195]
+
+[TABLE 196]
+Insurance Guaranteed Investment Contracts Fair value of assets, December 31, 2023 $ 66,191 Net purchases (sales) and appreciation (depreciation) ( 4,764 ) Fair value of assets, December 31, 2024 61,427 Net purchases (sales) and appreciation (depreciation) 8,790 Fair value of assets, December 31, 2025 $ 70,217
+[END TABLE 196]
+
+[TABLE 197]
+2025 2024 2023 U.S. Non-U.S. U.S. Non-U.S. U.S. Non-U.S. Discount rate 5.30 % 3.47 % 5.62 % 3.00 % 5.18 % 2.97 % Increases in compensation levels * * 2.88 % * * 2.92 % * * 2.90 % Interest crediting rate 5.25 % 1.93 % 5.25 % 2.09 % 5.25 % 2.05 %
+[END TABLE 197]
+
+[TABLE 198]
+** Not applicable
+[END TABLE 198]
+
+[TABLE 199]
+2025 2024 2023 U.S. Non-U.S. U.S. Non-U.S. U.S. Non-U.S. Discount rate 5.62 % 3.90 % 5.18 % 3.58 % 5.42 % 4.70 % Return on plan assets 6.25 % 4.03 % 6.25 % 3.80 % 6.25 % 3.95 % Increases in compensation levels * * 3.81 % * * 3.74 % * * 4.32 % Interest crediting rate 5.25 % 1.87 % 5.25 % 2.03 % 5.25 % 1.47 %
+[END TABLE 199]
+
+[TABLE 200]
+** Not applicable
+[END TABLE 200]
+
+[TABLE 201]
+U.S. Retiree Healthcare Plans Non-U.S. Pension Plans Total 2026 $ 2,277 $ 5,168 $ 7,445 2027 2,351 4,026 6,377 2028 2,437 5,487 7,924 2029 2,535 4,743 7,278 2030 2,655 4,775 7,430 2031 - 2035 14,265 29,290 43,555
+[END TABLE 201]
+
+[TABLE 202]
+2025 2024 2023 Product net sales: Waters instrument systems $ 1,101,826 $ 1,032,493 $ 1,108,702 Chemistry consumables 631,458 565,481 541,469 TA instrument systems 243,816 246,202 252,879 Total product sales 1,977,100 1,844,176 1,903,050 Service net sales: Waters service 1,080,162 1,006,447 951,419 TA service 108,024 107,764 101,947 Total service sales 1,188,186 1,114,211 1,053,366 Total net sales $ 3,165,286 $ 2,958,387 $ 2,956,416
+[END TABLE 202]
+
+[TABLE 203]
+2025 2024 2023 Net Sales: Asia: China $ 437,468 $ 396,599 $ 440,707 Asia Other 602,929 572,623 567,118 Total Asia 1,040,397 969,222 1,007,825 Americas: United States 965,782 933,926 927,982 Americas Other 195,731 181,854 180,591 Total Americas 1,161,513 1,115,780 1,108,573 Europe 963,376 873,385 840,018 Total net sales $ 3,165,286 $ 2,958,387 $ 2,956,416
+[END TABLE 203]
+
+[TABLE 204]
+2025 2024 2023 Pharmaceutical $ 1,873,362 $ 1,718,899 $ 1,696,875 Industrial 961,154 908,486 909,003 Academic and government 330,770 331,002 350,538 Total net sales $ 3,165,286 $ 2,958,387 $ 2,956,416
+[END TABLE 204]
+
+[TABLE 205]
+2025 2024 2023 Net sales recognized at a point in time: Instrument systems $ 1,345,642 $ 1,278,695 $ 1,361,581 Chemistry consumables 631,458 565,481 541,469 Service sales recognized at a point in time (time & materials) 387,686 369,149 372,530 Total net sales recognized at a point in time 2,364,786 2,213,325 2,275,580 Net sales recognized over time: Service and software maintenance sales recognized over time (contracts) 800,500 745,062 680,836 Total net sales $ 3,165,286 $ 2,958,387 $ 2,956,416
+[END TABLE 205]
+
+[TABLE 206]
+December 31, 2025 2024 2023 Long-lived assets: United States $ 419,827 $ 445,883 $ 440,993 Americas Other 1,728 1,971 2,632 Total Americas 421,555 447,854 443,625 Europe 198,330 176,310 167,948 Asia 22,161 27,036 27,500 Total long-lived assets $ 642,046 $ 651,200 $ 639,073
+[END TABLE 206]
+
+[TABLE 207]
+2025 2024 2023 Total sales, net $ 3,165,286 $ 2,958,387 $ 2,956,416 Less: Labor costs within selling and administrative and research and development expenses ( 645,147 ) ( 596,381 ) ( 605,884 ) Material purchases ( 538,790 ) ( 556,123 ) ( 551,005 ) Labor costs within product and service cost of sales ( 387,970 ) ( 350,978 ) ( 358,788 ) Other segment expenses ( 790,791 ) ( 628,552 ) ( 623,063 ) Interest expense and other income, net ( 47,710 ) ( 71,485 ) ( 81,433 ) Provision for income taxes ( 112,249 ) ( 117,034 ) ( 94,009 ) Net income $ 642,629 $ 637,834 $ 642,234
+[END TABLE 207]
+
+[TABLE 208]
+First Second Third Fourth 2025 Quarter Quarter Quarter Quarter Total Net sales $ 661,705 $ 771,332 $ 799,887 $ 932,362 $ 3,165,286 Costs and operating expenses: Cost of sales 276,745 321,407 327,806 362,864 1,288,822 Selling and administrative expenses 174,881 201,257 214,229 240,007 830,374 Research and development expenses 46,622 48,548 53,643 46,898 195,711 Purchased intangibles amortization 11,712 11,907 12,095 12,077 47,791 Total costs and operating expenses 509,960 583,119 607,773 661,846 2,362,698 Operating income 151,745 188,213 192,114 270,516 802,588 Other income (expense), net 1,524 ( 676 ) ( 70 ) 2,283 3,061 Interest expense ( 14,270 ) ( 14,354 ) ( 26,637 ) ( 14,287 ) ( 69,548 ) Interest income 3,889 4,507 4,712 5,669 18,777 Income before income taxes 142,888 177,690 170,119 264,181 754,878 Provision for income taxes 21,507 30,579 21,196 38,967 112,249 Net income $ 121,381 $ 147,111 $ 148,923 $ 225,214 $ 642,629 Net income per basic common share 2.04 2.47 2.50 3.78 10.80 Weighted-average number of basic common shares 59,439 59,515 59,528 59,546 59,509 Net income per diluted common share 2.03 2.47 2.50 3.77 10.76 Weighted-average number of diluted common shares and equivalents 59,711 59,656 59,622 59,763 59,706
+[END TABLE 208]
+
+[TABLE 209]
+First Second Third Fourth 2024 Quarter Quarter Quarter Quarter Total Net sales $ 636,839 $ 708,529 $ 740,305 $ 872,714 $ 2,958,387 Costs and operating expenses: Cost of sales 261,786 288,244 301,655 348,516 1,200,201 Selling and administrative expenses 174,536 173,247 169,097 173,268 690,148 Research and development expenses 44,595 46,182 45,336 46,914 183,027 Purchased intangibles amortization 11,834 11,744 11,759 11,753 47,090 Litigation provisions 10,242 — 1,326 — 11,568 Total costs and operating expenses 502,993 519,417 529,173 580,451 2,132,034 Operating income 133,846 189,112 211,132 292,263 826,353 Other income (expense), net 2,259 ( 302 ) ( 338 ) ( 843 ) 776 Interest expense ( 25,520 ) ( 23,726 ) ( 21,435 ) ( 18,996 ) ( 89,677 ) Interest income 4,271 4,328 4,258 4,559 17,416 Income before income taxes 114,856 169,412 193,617 276,983 754,868 Provision for income taxes 12,660 26,675 32,114 45,585 117,034 Net income $ 102,196 $ 142,737 $ 161,503 $ 231,398 $ 637,834 Net income per basic common share 1.73 2.41 2.72 3.90 10.75 Weighted-average number of basic common shares 59,232 59,339 59,367 59,386 59,333 Net income per diluted common share 1.72 2.40 2.71 3.88 10.71 Weighted-average number of diluted common shares and equivalents 59,431 59,451 59,504 59,645 59,552
+[END TABLE 209]
+
+[TABLE 210]
+A B C Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (1) Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights (1) Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (excluding securities reflected in column (A)) Equity compensation plans approved by security holders 1,008 $ 303.53 5,808 Equity compensation plans not approved by security holders — — — Total 1,008 $ 303.53 5,808
+[END TABLE 210]
+
+[TABLE 211]
+(1) Column (a) includes an aggregate of 402 shares of common stock to be issued upon settlement of restricted stock, restricted stock units and performance stock units. The weighted-average share price in column (b) does not take into account restricted stock, restricted stock units or performance stock units, which do not have an exercise price.
+[END TABLE 211]
+
+[TABLE 212]
+Item 13: Certain Relationships and Related Transactions and Director Independence
+[END TABLE 212]
+
+[TABLE 213]
+Item 14: Principal Accountant Fees and Services
+[END TABLE 213]
+
+[TABLE 214]
+(1) Financial Statements:
+[END TABLE 214]
+
+[TABLE 215]
+(2) Exhibits:
+[END TABLE 215]
+
+[TABLE 216]
+Exhibit Number Description of Document 2.1 Share Purchase Agreement, dated as of February 14, 2023, by and among Wyatt Technology Corporation, Waters Technologies Corporation, the shareholders named therein and Geofrey Wyatt in his capacity as representative of the shareholders (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 15, 2023 (File No. 001-14010)). 2.2 Separation Agreement, dated as of July 13, 2025, by and among Waters Corporation, Becton, Dickinson and Company and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated July 14, 2025 (File No. 001-14010)).† 2.3 Amendment No. 1 to Separation Agreement, dated as of February 9, 2026, by and among Waters Corporation, Becton, Dickinson and Company and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 2.4 Agreement and Plan of Merger, dated as of July 13, 2025, by and among Waters Corporation, Becton, Dickinson and Company, Beta Merger Sub, Inc. and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated July 14, 2025 (File No. 001-14010)).† 3.1 Second Amended and Restated Certificate of Incorporation of Waters Corporation (Incorporated by reference to the Registrant’s Report on Form 10-K dated March 29, 1996 (File No. 001-14010)).+ 3.2 Certificate of Amendment of Second Amended and Restated Certificate of Incorporation of Waters Corporation, dated as of May 12, 1999 (Incorporated by reference to the Registrant’s Report on Form 10-Q dated August 11, 1999 (File No. 001-14010)). 3.3 Certificate of Amendment of Second Amended and Restated Certificate of Incorporation of Waters Corporation, dated as of July 27, 2000 (Incorporated by reference to the Registrant’s Report on Form 10-Q dated August 8, 2000 (File No. 001-14010)). 3.4 Certificate of Amendment of Second Amended and Restated Certificate of Incorporation of Waters Corporation, dated as of May 25, 2001 (Incorporated by reference to the Registrant’s Report on Form 10-K dated March 28, 2002 (File No. 001-14010)). 3.5 Certificate of Amendment of Second Amended and Restated Certificate of Incorporation of Waters Corporation, dated as of June 24, 2004 (Incorporated by reference to Exhibit 3.1 to the Registrant’s Report on Form 10-Q dated July 31, 2024 (File No. 001-14010)). 3.6 Amended and Restated Bylaws of Waters Corporation, dated as of February 23, 2024 (Incorporated by reference to Exhibit 3.5 to the Registrant’s Report on Form 10-K dated February 27, 2024 (File No. 001-14010)). 4.1 Description of Registrant’s Securities (Incorporated by reference to Exhibit 4.1 of the Registrant’s Report on Form 10-K dated February 24, 2021 (File No. 001-14010)).
+[END TABLE 216]
+
+[TABLE 217]
+Exhibit Number Description of Document 10.1 Waters Corporation Retirement Plan (Incorporated by reference to the Registrant’s Registration Statement on Form S-1 dated October 24, 1996 (File No. 333-96934)).*+ 10.2 Amended and Restated Waters 401(k) Restoration Plan, effective January 1, 2008. (Incorporated by reference to the Registrant’s Report on Form 10-Q dated November 2, 2007 (File No. 001-14010)).* 10.3 Amended and Restated Waters Retirement Restoration Plan, effective January 1, 2008 (Incorporated by reference to the Registrant’s Report on Form 10-Q dated February 27, 2009 (File No. 001-14010)).* 10.4 Amended and Restated Waters Corporation 1996 Non-Employee Director Deferred Compensation Plan, Effective January 1, 2008. (Incorporated by reference to the Registrant’s Report on Form 10-Q dated February 27, 2009 (File No. 001-14010)).* 10.5 2014 Waters Corporation Management Incentive Plan. (Incorporated by reference to the Registrant’s Report on Form 10-Q dated February 27, 2015 (File No. 001-14010)).* 10.6 Waters Corporation 2009 Employee Stock Purchase Plan (Incorporated by reference to the Registrant’s Report on Form S-8 dated July 10, 2009 (File No. 333-160507)).* 10.7 Waters Corporation 2012 Equity Incentive Plan. (Incorporated by reference to the Registrant’s Report on Form S-8 dated September 5, 2012 (File No. 333-183721)).* 10.8 Form of Waters 2012 Stock Option Agreement - Executive Officers (Incorporated by reference to the Registrant’s Report on Form 8-K dated December 11, 2012 (File No. 001-14010)).* 10.9 Form of Waters 2012 Stock Option Agreement - Directors (Incorporated by reference to the Registrant’s Report on Form 8-K dated December 11, 2012 (File No. 001-14010)).* 10.10 Form of Waters 2012 Restricted Stock Agreement - Directors (Incorporated by reference to the Registrant’s Report on Form 8-K dated December 11, 2012 (File No. 001-14010)).* 10.11 Form of Waters 2012 Restricted Stock Unit Agreement for Executive Officers - Five Year Vesting. (Incorporated by reference to the Registrant’s Report on Form 8-K dated December 11, 2013 (File No. 001-14010)).* 10.12 Form of Waters 2012 Restricted Stock Unit Agreement for Executive Officers - One Year Vesting (Incorporated by reference to the Registrant’s Report on Form 8-K dated December 11, 2013 (File No. 001-14010)).* 10.13 Note Purchase Agreement, dated June 30, 2014, between Waters Corporation and the purchases named therein (Incorporated by reference to the Registrant’s Report on Form 10-Q dated August 1, 2014 (File No. 001-14010)). 10.14 First Amendment to the Note Purchase Agreement, dated as of June 30, 2014 (Incorporated by reference to the Registrant’s Report on Form 10-K/A dated March 1, 2019 (File No. 001-14010)). 10.15 Note Purchase Agreement, dated as of May 12, 2016, between Waters Corporation and the purchasers named therein (Incorporated by reference to the Registrant’s Report on Form 10-Q dated August 5, 2016 (File No. 001-14010)). 10.16 First Amendment to the Note Purchase Agreement, dated as of May 12, 2016 (Incorporated by reference to the Registrant’s Report on Form 10-K/A dated March 1, 2019 (File No. 001-14010)). 10.17 Form of Waters 2012 Performance Stock Unit Award Agreement (Incorporated by reference to the Registrant’s Report on Form 8-K dated December 15, 2016 (File No. 001-14010)).* 10.18 Form of Change of Control/Severance Agreement (Incorporated by reference to the Registrant’s Report on Form 8-K dated March 27, 2017 (File No. 001-14010)).*
+[END TABLE 217]
+
+[TABLE 218]
+Exhibit Number Description of Document 10.19 Credit Agreement, dated as of November 30, 2017, among Waters Corporation, JPMorgan Chase Bank, N.A., JP Morgan Europe Limited and other Lenders party thereto (Incorporated by reference to the Registrant’s Report on Form 10-K dated February 27, 2018 (File No. 001-14010)). 10.20 First Amendment to the Credit Agreement, dated as of November 30, 2017, among Waters Corporation, JPMorgan Chase Bank, N.A., JP Morgan Europe Limited and other Lenders party thereto (Incorporated by reference to the Registrant’s Report on Form 10-K/A dated March 1, 2019 (File No. 001-14010)). 10.21 Amendment and Restatement Agreement to the Credit Agreement, dated as of September 17, 2021, by and among the lenders and issuing banks party thereto and JPMorgan Chase Bank, N.A., as administrative agent (Incorporated by reference to the Registrant’s Report on Form 8-K dated September 20, 2021 (File No. 001-14010)). 10.22 Amendment and Incremental Commitment Agreement, dated as of March 3, 2023, by and among the Company, Waters Technologies Corporation, TA Instruments - Waters L.L.C., Waters Asia Limited, Environmental Resource Associates, Inc., the lenders party thereto, the issuing banks party thereto and JPMorgan Chase Bank, N.A., as administrative agent (Incorporated by reference to the Registrant’s Report on Form 8-K dated March 7, 2023 (File No. 001-14010)). 10.23 Note Purchase Agreement, dated as of September 12, 2019, between Waters Corporation and the purchasers named therein (Incorporated by reference to the Registrant’s Report on Form 8-K dated September 16, 2019 (File No. 001-14010)). 10.24 Form of Performance Stock Unit Award Agreement under the Waters Corporation 2012 Equity Incentive Plan (Incorporated by reference to the Registrant’s Report on Form 10-K dated February 25, 2020 (File No. 001-14010)).* 10.25 President and Chief Executive Employment Agreement, dated July 14, 2020, between Waters Corporation and Udit Batra (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.26 Change of Control/Severance Agreement, dated as of July 14, 2020, between Waters Corporation and Udit Batra (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.27 Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to Exhibit 4.2 of the Registration Statement filed on Form S-8 dated June 8, 2020 (File No. 333-239020)).* 10.28 Employee Form of Stock Option Award Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.29 Director Form of Stock Option Award Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.30 Form of RSU Agreement under the Waters Corporation 2020 Equity Incentive Plan. (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.31 CEO Form of PSU Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.32 Employee (Non-CEO) PSU Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).*
+[END TABLE 218]
+
+[TABLE 219]
+Exhibit Number Description of Document 10.33 Director Form of RSA Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to the Registrant’s Report on Form 10-Q dated July 29, 2020 (File No. 001-14010)).* 10.34 Note Purchase Agreement, dated as of March 2, 2021, by and among the Company and the purchasers signatory thereto, including the forms of notes (Incorporated by reference to the Registrant’s Report on Form 8-K dated March 4, 2021 (File No. 001-14010)). 10.35 Employment Offer Letter, dated April 16, 2021, between Waters Corporation and Amol Chaubal (Incorporated by reference to the Registrant’s Report on Form 10-Q dated May 6, 2021 (File No. 001-14010)).* 10.36 Change of Control and Severance Agreement, dated April 16, 2021, between Waters Corporation and Amol Chaubal (Incorporated by reference to the Registrant’s Report on Form 10-Q dated May 6, 2021 (File No. 001-14010)).* 10.37 Multi-Currency Note Purchase and Private Shelf Agreement, dated as of May 11, 2023, between Waters Corporation, PGIM, Inc. and each of the purchasers listed on Schedules A-1 and A-2 attached thereto (Incorporated by reference to the Registrant’s Report on Form 8-K dated May 11, 2023 (File No. 001-14010)). 10.38 Master Note Facility Agreement, dated as of July 12, 2024, by and between Waters Corporation and NYL Investors LLC (Incorporated by reference to the Registrant’s Report on Form 8-K dated July 18, 2024 (File No. 001-14010)). 10.39 Employment Offer Letter, dated February 8, 2021, between Waters Corporation and Jianqing Bennett.* 10.40 Employment Offer Letter, dated May 28, 2024, between Waters Corporation and Robert Carpio (Incorporated by reference to Exhibit 10.5 to the Registrant’s Report on Form 10-Q dated May 6, 2025 (File No. 001-14010)).* 10.41 Employee (Non-CEO) Form of Performance Stock Unit Award Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to Exhibit 10.1 to the Registrant’s Report on Form 10-Q dated May 6, 2025 (File No. 001-14010)).* 10.42 CEO Form of Performance Stock Unit Award Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to Exhibit 10.2 to the Registrant’s Report on Form 10-Q dated May 6, 2025 (File No. 001-14010)).* 10.43 Employee Form of Restricted Stock Unit Award Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to Exhibit 10.3 to the Registrant’s Report on Form 10-Q dated May 6, 2025 (File No. 001-14010)).* 10.44 Employee Form of Stock Option Award Agreement under the Waters Corporation 2020 Equity Incentive Plan (Incorporated by reference to Exhibit 10.4 to the Registrant’s Report on Form 10-Q dated May 6, 2025 (File No. 001-14010)).* 10.45 Amendment and Restatement Agreement, dated as of May 22, 2025, by and among Waters Corporation, Waters Technologies Corporation, TA Instruments - Waters L.L.C., Waters Asia Limited, Environmental Resource Associates, Inc., Wyatt Technology, LLC, the lenders party thereto, the issuing banks party thereto and JPMorgan Chase Bank, N.A., as administrative agent (Incorporated by reference to Exhibit 10.1 to the Registrant’s Report on Form 8-K dated May 29, 2025 (File No. 001-14010)). 10.46 Waters Corporation Amended and Restated 2009 Employee Stock Purchase Plan (Incorporated by references to Exhibit 4.1 to the Registrant’s Registration Statement on Form S-8 dated June 13, 2025 (File No. 333-288030)).*
+[END TABLE 219]
+
+[TABLE 220]
+Exhibit Number Description of Document 10.47 Tax Matters Agreement, dated as of February 9, 2026, by and among Waters Corporation, Becton, Dickinson and Company and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 10.48 Employee Matters Agreement, dated as of February 9, 2026, by and among Waters Corporation, Becton, Dickinson and Company and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 10.49 Intellectual Property Matters Agreement, dated as of February 9, 2026, by and among Waters Corporation, Becton, Dickinson and Company and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 10.50 Transition Services Agreement, dated as of February 9, 2026, by and among Waters Corporation, Becton, Dickinson and Company and Augusta SpinCo Corporation (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 10.51 Term Loan Credit Agreement, dated as of January 8, 2026, by and among Augusta SpinCo Corporation, the lenders party thereto and Barclay Bank PLC, as administrative agent, and the other parties party thereto (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 10.52 Parent Guarantee Agreement, dated as of February 9, 2026, by and among Augusta SpinCo Corporation, Waters Corporation and Barclays Bank PLC, as administrative agent (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 10.53 Subsidiary Guarantee Agreement, dated as of February 9, 2026, by and among Augusta SpinCo Corporation, Waters Corporation, the subsidiaries of Waters Corporation party thereto and Barclays Bank PLC, as administrative agent (Incorporated by reference to the Registrant’s Report on Form 8-K dated February 9, 2026 (File No. 001-14010)).† 19.1 Waters Corporation Insider Trading Policy (Incorporated by reference to the Registrant’s Report on Form 10-K dated February 25, 2025 (File No. 001-14010)). 21.1 Subsidiaries of Waters Corporation. 23.1 Consent of PricewaterhouseCoopers LLP, an independent registered public accounting firm. 31.1 Chief Executive Officer Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 Chief Financial Officer Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 Chief Executive Officer Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.** 32.2 Chief Financial Officer Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.** 97 Waters Corporation Mandatory Clawback Policy (Incorporated by reference to Exhibit 97 to the Registrant’s Report on Form 10-K dated February 27, 2024 (File No. 001-14010)).* 101 The following materials from Waters Corporation’s Annual Report on Form 10-K for the year ended December 31, 2025, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) the Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the Consolidated Statements of Comprehensive Income, (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Stockholders’ Equity (Deficit) and (vi) Notes to Consolidated Financial Statements.
+[END TABLE 220]
+
+[TABLE 221]
+Exhibit Number Description of Document 104 Cover Page Interactive Date File (formatted in iXBRL and contained in Exhibit 101).
+[END TABLE 221]
+
+[TABLE 222]
++ Paper Filing
+[END TABLE 222]
+
+[TABLE 223]
+† Annexes, schedules and/or exhibits have been omitted pursuant to Item 601(a)(5) and/or Item 601(b)(2) of Regulation S-K. The Registrant agrees to furnish supplementally a copy of any omitted attachment to the SEC on a confidential basis upon request.
+[END TABLE 223]
+
+[TABLE 224]
+* Management contract or compensatory plan required to be filed as an exhibit to this Annual Report.
+[END TABLE 224]
+
+[TABLE 225]
+** This exhibit shall not be deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act, or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language in any filing, except to the extent the Company specifically incorporates it by reference.
+[END TABLE 225]
+
+[TABLE 226]
+(b) See Item 15 (a) (2) above.
+[END TABLE 226]
+
+[TABLE 227]
+Item 16: Form 10-K Summary
+[END TABLE 227]
+
+[TABLE 228]
+WATERS CORPORATION /s/ Amol Chaubal Amol Chaubal Senior Vice President and Chief Financial Officer (Principal Financial Officer) (Principal Accounting Officer)
+[END TABLE 228]
+
+[TABLE 229]
+/s/ Dr. Flemming Ornskov, M.D., M.P.H. Chair of the Board of Directors Dr. Flemming Ornskov, M.D., M.P.H. /s/ Udit Batra, Ph.D. President and Chief Executive Officer Udit Batra, Ph.D. Director (Principal Executive Officer) /s/ Amol Chaubal Senior Vice President and Chief Financial Officer Amol Chaubal (Principal Financial Officer and Principal Accounting Officer) /s/ Linda Baddour Director Linda Baddour /s/ Dan Brennan Director Dan Brennan /s/ Richard Fearon Director Richard Fearon /s/ Claire M. Fraser, Ph.D. Director Claire M. Fraser, Ph.D. /s/ Pearl S. Huang, Ph.D. Director Pearl S. Huang, Ph.D. /s/ Wei Jiang Director Wei Jiang /s/ Heather Knight Director Heather Knight /s/ Christopher A. Kuebler Director Christopher A. Kuebler /s/ Mark Vergnano Director Mark Vergnano
+[END TABLE 229]

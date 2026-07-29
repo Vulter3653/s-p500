@@ -1,0 +1,161 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+__________________________________________________________________________________________
+
+FORM 10-K
+
+FOR THE FISCAL YEAR ENDED DECEMBER 31 , 2025
+
+OR
+
+Commission File Number 1-14387
+
+United Rentals, Inc.
+
+Commission File Number 1-13663
+
+United Rentals (North America), Inc.
+
+(Exact Names of Registrants as Specified in Their Charters)
+
+__________________________________________________________________________________________
+
+Registrants’ Telephone Number, Including Area Code: ( 203 ) 622-3131
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☑ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☑
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☑ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☑ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. Yes ☑ No ☐
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☑
+
+As of June 30, 2025 there were 64,450,115 shares of United Rentals, Inc. common stock outstanding. The aggregate market value of common stock held by non-affiliates (defined as other than directors, executive officers and 10 percent beneficial owners) at June 30, 2025 was approximately $ 42.7 billion, calculated by using the closing price of the common stock on such date on the New York Stock Exchange of $753.40.
+
+As of January 26, 2026, there were 62,998,147 shares of United Rentals, Inc. common stock outstanding. There is no market for the common stock of United Rentals (North America), Inc., all outstanding shares of which are owned by United Rentals, Inc.
+
+This Form 10-K is separately filed by (i) United Rentals, Inc. and (ii) United Rentals (North America), Inc. (which is a wholly owned subsidiary of United Rentals, Inc.). United Rentals (North America), Inc. meets the conditions set forth in General Instruction (I)(1)(a) and (b) of Form 10-K and is therefore filing this form with the reduced disclosure format permitted by such instruction.
+
+Documents incorporated by reference: Portions of United Rentals, Inc.’s Proxy Statement related to the 2026 Annual Meeting of Stockholders are incorporated by reference into Part III of this annual report.
+
+FORM 10-K REPORT INDEX
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+
+This annual report on Form 10-K contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Such statements can be identified by the use of forward-looking terminology such as “believe,” “expect,” “may,” “will,” “should,” “seek,” “on-track,” “plan,” “project,” “forecast,” “intend” or “anticipate,” or the negative thereof or comparable terminology, or by discussions of strategy or outlook. You are cautioned that our business and operations are subject to a variety of risks and uncertainties, many of which are beyond our control, and, consequently, our actual results may differ materially from those projected.
+
+Factors that could cause actual results to differ materially from those projected include, but are not limited to, the following:
+
+• the impact of global economic conditions (including inflation, interest rates, supply chain constraints, tariffs, trade wars and sanctions), geopolitical risks (including risks related to international conflicts) and public health crises and epidemics on us, our customers and our suppliers, in the United States and the rest of the world;
+
+• declines in construction or industrial activity, which can adversely impact our revenues and, because many of our costs are fixed, our profitability;
+
+• rates we charge and customer demand being less than anticipated;
+
+• changes in customer, fleet, geographic and segment mix;
+
+• excess fleet in the equipment rental industry;
+
+• inability to benefit from government spending, including spending associated with infrastructure projects, or a reduction or disruption in government spending, including as a result of a government shutdown;
+
+• trends in oil and natural gas, including significant fluctuations in the prices of oil or natural gas, which can adversely affect the demand for our services and products;
+
+• competition from existing and new competitors;
+
+• the cyclical nature of the industry in which we operate and the industries of our customers, such as those in the construction industry;
+
+• costs we incur being more than anticipated, including as a result of inflation or tariffs, and the inability to realize expected savings in the amounts or time frames planned;
+
+• our significant indebtedness, which totaled $14.2 billion at December 31, 2025 and requires a significant amount of cash for debt service, can constrain our flexibility in responding to unanticipated or adverse business conditions;
+
+• inability to refinance our indebtedness on terms that are favorable to us, including as a result of volatility and uncertainty in capital or credit markets or increases in interest rates, or at all;
+
+• incurrence of additional debt, which could exacerbate the risks associated with our current level of indebtedness;
+
+• noncompliance with financial or other covenants in our debt agreements, which could result in our lenders terminating the agreements and requiring us to repay outstanding borrowings;
+
+• restrictive covenants and the amount of borrowings permitted under our debt instruments, which can limit our financial and operational flexibility;
+
+• inability to access the capital that our businesses or growth plans may require, including as a result of uncertainty in capital or credit markets;
+
+• the possibility that companies that we have acquired or may acquire could have undiscovered liabilities, or that companies or assets that we have acquired or may acquire could involve other unexpected costs, may strain our management capabilities, or may be difficult to integrate, and that we may not realize the expected benefits from an acquisition over the timeframe we expect, or at all;
+
+• incurrence of impairment charges;
+
+• fluctuations in the price of our common stock and inability to complete stock repurchases or pay dividends in the time frames and/or on the terms anticipated;
+
+• our charter provisions as well as provisions of certain debt agreements and our significant indebtedness may have the effect of making more difficult or otherwise discouraging, delaying or deterring a takeover or other change of control of us;
+
+• inability to manage credit risk adequately or to collect on contracts with a large number of customers;
+
+• turnover in our management team and inability to attract and retain key personnel, as well as loss, absenteeism or the inability of employees to work or perform key functions;
+
+• inability to obtain equipment and other supplies for our business from our key suppliers on acceptable terms or at all, as a result of insolvency, financial difficulties or other factors, including tariffs, affecting our suppliers;
+
+• increases in our maintenance and replacement costs, including as a result of tariffs, and/or decreases in the residual value of our equipment;
+
+• inability to sell our new or used fleet in the amounts, or at the prices, we expect;
+
+i
+
+• risks related to security breaches, cybersecurity attacks, failure to protect personal information, compliance with privacy, data protection and cyber incident reporting laws and regulations, and other significant disruptions to our information technology systems;
+
+• risks related to our ability to respond adequately to changes in technology and customer demands;
+
+• risks related to our use of artificial intelligence (“AI”), and challenges with properly managing such use;
+
+• risks related to severe weather events and other natural occurrences, and climate change regulation;
+
+• risks related to our aspirational sustainability and safety goals, including our greenhouse gas intensity reduction goal;
+
+• risks related to evolving requirements, expectations and perspectives from regulators and stakeholders on environmental, social and sustainability-related topics, and our ability to meet these requirements and expectations;
+
+• the fact that our holding company structure requires us to depend in part on distributions from subsidiaries and such distributions could be limited by contractual or legal restrictions;
+
+• shortfalls in our insurance coverage or inability to obtain coverage on reasonable terms or at all;
+
+• increases in our loss reserves to address business operations or other claims and any claims that exceed our established levels of reserves;
+
+• the outcome or other potential consequences of litigation, regulatory and investigatory matters;
+
+• incurrence of expenses (including indemnification obligations) and other costs in connection with litigation, regulatory and investigatory matters;
+
+• risks related to, and the costs of complying with, environmental and safety laws and regulations;
+
+• risks related to, and the costs of complying with, foreign laws and regulations, as well as other risks associated with non-U.S. operations, including currency exchange risk and tariffs;
+
+• labor shortages and/or disputes, work stoppages or other labor difficulties, which may impact our productivity and increase our costs, and changes in law that could affect our labor relations or operations generally;
+
+• the effect of changes in tax law; and
+
+• other factors described in this annual report on Form 10-K and in our other filings with the Securities and Exchange Commission.
+
+Any forward-looking statement speaks only as of the date such statement was made. We make no commitment to revise or update any forward-looking statements in order to reflect events or circumstances after the date any such statement is made, except as required by law.
+
+ii
+
+PART I
+
+United Rentals, Inc., incorporated in Delaware in 1997, is principally a holding company. We primarily conduct our operations through our wholly owned subsidiary, United Rentals (North America), Inc., and its subsidiaries. As used in this report, the term “Holdings” refers to United Rentals, Inc., the term “URNA” refers to United Rentals (North America), Inc., and the terms the “Company,” “United Rentals,” “we,” “us,” and “our” refer to United Rentals, Inc. and its subsidiaries, in each case unless otherwise indicated.
+
+Unless otherwise indicated, the information under Items 1, 1A and 2 is as of January 1, 2026.

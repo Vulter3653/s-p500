@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-07-29
+
+- Added: Cooper, Ewing, and Mishra (2022)를 참고해 inline XBRL HTML에서 언어 분석용 본문, 원문 구조 보존 텍스트, 표 텍스트 및 주요 Item별 텍스트를 생성했다. (codex)
+- Data: 100개 기업의 텍스트 3종, 주요 section 파일, 문단 141,796행, 문장 298,250행, 기업별 추출 결과와 품질검사 자료를 추가했다. (codex)
+- Added: 숨김·script·style·XBRL metadata 제거, 표 분리, Unicode 정규화, 문장 분리, section 탐지, SHA·ID·오염 검사를 위한 비네트워크 테스트를 추가했다. (codex)
+- Changed: GitHub 단일 파일 제한을 피하도록 대용량 문단·문장 CSV를 gzip으로 저장하고 소규모 결과·품질 CSV는 그대로 유지했다. (codex)
+- Docs: 텍스트 추출 완료 범위, 5개 수동검토 결과, section 경계 warning 및 아직 계산하지 않은 AI·언어 변수를 기록했다. (codex)
+
 ## [0.8.0] - 2026-07-29
 
 - Added: 최종 분석 표본 CSV만 입력으로 사용해 SEC Archives의 지정 10-K primary HTML 100개를 초당 최대 1회 정책으로 수집하는 반복 실행 가능 downloader를 추가했다. (codex)

@@ -1,0 +1,127 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 10-K
+
+For the fiscal year ended December 31 , 2025 .
+
+For the Transition Period from to .
+
+Commission file number 001-37713
+
+eBay Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Registrant’s telephone number, including area code:
+
+( 408 ) 376-9659
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+
+As of June 30, 2025, the aggregate market value of the registrant’s common stock held by non-affiliates of the registrant was $ 34,086,444,146 based on the closing sale price as reported on The Nasdaq Global Select Market.
+
+448 million shares of common stock issued and outstanding as of February 13, 2026.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Part III incorporates information by reference from the definitive proxy statement for the registrant’s 2026 Annual Meeting of Stockholders.
+
+eBay Inc.
+
+Form 10-K
+
+For the Fiscal Year Ended December 31, 2025
+
+PART I
+
+FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, including statements that involve expectations, plans or intentions including, but not limited to, expectations, plans and intentions regarding our business strategies, focus categories, country-specific investments, horizontal initiatives, macroeconomic conditions, seasonal trends, new and updated products and initiatives, technology priorities, consumer confidence, demand and spending, geopolitical events, tariffs, cross-border trade, global trade policy, foreign exchange rate fluctuations and volatility, income taxes, elevated interest rates, the impact of new and changing regulations, and inflationary pressure on our business and operations, as well as any trends relating to any of the foregoing. You can generally identify these forward-looking statements by words such as “ability,” “aim,” “anticipate,” “believe,” “commit,” “continue,” “could,” “design,” “develop,” “estimate,” “expect,” “forecast,” “future,” “goal,” “impact,” “intend,” “likely,” “maintain,” “may,” “ongoing,” “opportunity,” “outlook,” “plan,” “possible,” “potential,” “predict,” “probable,” “pursue,” “remain,” “seek,” “should,” “strategy,” “strive,” “target,” “value,” “will,” “would” and other similar expressions or variations. Our forward-looking statements involve risks and uncertainties that could cause our actual results to differ materially from those expressed or implied in our forward-looking statements. Such risks and uncertainties include, among others:
+
+• significant variation in our operating and financial results, including GMV and net revenues;
+
+• our ability to compete in the markets in which we participate;
+
+• our ability to generate revenue from our advertising products, including our Promoted Listings;
+
+• our ability to generate consumer engagement and spending;
+
+• our ability to keep pace with technological changes, including emerging AI technologies, and with changes in consumer demands and expectations;
+
+• our ability to operate internationally and generate revenue from our international operations and our exposure to costs and risks in connection therewith;
+
+• the impact of changes in global trade policies on our revenue, profit and ability to support cross-border trade;
+
+• our ability to manage our buyer and seller trust protection programs;
+
+• the risk of systems failures and business interruptions to our business;
+
+• operation of and ongoing investment into our payments and financial services offerings;
+
+• risk of fraud on our platforms;
+
+• the impact of any cyberattacks or data security breaches;
+
+• our ability to attract, retain and develop our senior managers and other key employees;
+
+• our and our customers’ dependence on third-party providers, some of which are our competitors;
+
+• the impact of our acquisitions, dispositions, joint ventures, strategic partnerships and strategic investments;
+
+• the impact of extensive and increasing regulation and oversight that affect our business;
+
+• the risk of liability for the actions of our customers, including products sold by sellers on our platforms;
+
+• the impact of increasing levels of regulation in the areas of privacy, protection of user data and cybersecurity;
+
+• the risks associated third party allegations relating to intellectual property rights;
+
+• current and potential litigation and regulatory and government inquiries, investigations and litigation involving us;
+
+• the impact of evolving sales and other tax regimes in various jurisdictions;
+
+• our ability to protect or enforce our intellectual property rights;
+
+• risks and costs relating to stakeholder expectations around environmental, social and governance matters;
+
+• potential exposure to claims and liabilities as a result of the Distribution of PayPal;
+
+• the risk of exposure to greater than anticipated tax liabilities;
+
+• fluctuations in interest rates, and changes in regulatory guidance relating thereto;
+
+• fluctuations in foreign currency exchange rates;
+
+• our ability to generate sufficient cash flow to service our indebtedness and to comply with financial covenants in our outstanding debt instruments; and
+
+• the risk that our stock repurchases may not be effected or may not achieve the desired objectives.
+
+A more complete description of these risks and uncertainties is included in “Item 1A: Risk Factors” of this Annual Report on Form 10-K, as well as in our consolidated financial statements, related notes, and the other information appearing elsewhere in this report and our other filings with the Securities and Exchange Commission
+
+(“SEC”). The information in this Annual Report on Form 10-K is based upon the events and circumstances known as of the date of this Annual Report on Form 10-K, and any forward-looking statements in this Annual Report on Form 10-K speak only as of the date of this Annual Report on Form 10-K. We do not intend, and undertake no obligation, to update any of our forward-looking statements after the date of this report to reflect actual results or future events or circumstances. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
+
+WEBSITE DISCLOSURES
+
+We use our website (www.ebayinc.com) to announce material non-public information to the public and to comply with our disclosure obligations under Regulation Fair Disclosure (“Reg FD”). We also use our website to communicate with the public about our Company, our services and other matters. Our SEC filings, press releases and recent public conference calls and webcasts can also be found on our website. The information we post on our website could be deemed to be material information under Reg FD. We encourage investors and others interested in our Company to review the information we post on our website. Information contained in or accessible through our website is not a part of this Annual Report on Form 10-K.

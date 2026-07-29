@@ -1,0 +1,785 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Corporate Profile
+
+M&T is a BHC headquartered in Buffalo, New York with consolidated assets of $213.5 billion at December 31, 2025. M&T’s wholly-owned bank subsidiaries are M&T Bank and Wilmington Trust, N.A. Those bank subsidiaries offer a wide range of retail and commercial banking, wealth management, trust and institutional services to their customers.
+
+M&T Bank, with total consolidated assets of $212.9 billion at December 31, 2025, is a New York-chartered commercial bank with 942 domestic banking offices primarily located in the Northeastern and Mid-Atlantic regions of the U.S., including the District of Columbia, and a full-service commercial banking office in Ontario, Canada. M&T Bank and its subsidiaries offer a broad range of financial services to a diverse base of consumers, businesses, professional clients, governmental entities and financial institutions located in their markets.
+
+Wilmington Trust, N.A. is a national bank with total consolidated assets of $773 million at December 31, 2025. Wilmington Trust, N.A. and its subsidiaries offer various institutional client and wealth management services. Further information about the Company's business, its legal entity structure and its significant subsidiaries is included in Part I, Item 1, "Business" and Exhibit 21.1 of this Form 10-K.
+
+Financial Overview
+
+For a discussion of 2024 results as compared with 2023 results, see Part II, Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations" in the M&T Annual Report on Form 10-K for the year ended December 31, 2024. A comparative summary of financial results for the Company is provided in Table 1 that follows.
+
+Table 1
+
+__________________________________________________________________________________
+
+(a) Net interest income data are presented on a taxable-equivalent basis which is a non-GAAP measure. The taxable-equivalent adjustment represents additional income taxes that would be due if all interest income were subject to income taxes. This adjustment, which is related to interest received on qualified municipal securities, industrial revenue financings and preferred equity securities, is based on a composite income tax rate of approximately 25% in each of 2025 and 2024 and 26% in 2023.
+
+The increase in net income in 2025 as compared with 2024 reflects the following:
+
+• Net interest income on a taxable-equivalent basis increased $90 million reflecting loan growth and favorable net repricing of earning assets and interest-bearing liabilities, including a reduction of the negative impact from interest rate swap agreements, as net interest margin widened by 9 basis points.
+
+• The provision for credit losses declined $105 million mainly reflecting improved levels of criticized loans.
+
+• Noninterest income increased $315 million reflecting higher mortgage banking revenues, service charges on deposit accounts, trust income and other revenues from operations.
+
+• Noninterest expense rose $134 million reflecting higher salaries and employee benefits expense and outside data processing and software costs, partially offset by lower FDIC special assessments that included a $37 million reduction of expense in 2025 as compared with $34 million of expense in 2024.
+
+• The Company’s effective tax rates were 22.8% in 2025 and 21.8% in 2024, reflective of $8 million and $31 million of discrete tax benefits in each of those respective years.
+
+On October 31, 2025, M&T issued 45,000 shares of Perpetual Fixed Rate Non-Cumulative Preferred Stock, Series K, with a liquidation preference of $10,000 per share. Additional information about the issued and outstanding preferred stock of M&T is included in note 9 of Notes to Financial Statements.
+
+Under approved capital plans and programs authorized by the Board of Directors, M&T repurchased 14.3 million shares of its common stock in 2025 at a total cost of $2.66 billion. In 2024, M&T repurchased 2.1 million shares of its common stock at a total cost of $400 million.
+
+Supplemental Reporting of Non-GAAP Results of Operations
+
+M&T consistently provides supplemental reporting of its results on a "net operating" or "tangible" basis, from which M&T excludes the after-tax effect of amortization of core deposit and other intangible assets (and the related goodwill, core deposit intangible and other intangible asset balances, net of applicable deferred tax amounts) and gains (when realized) and expenses (when incurred) associated with merging acquired or to be acquired operations into the Company, since such items are considered by management to be "nonoperating" in nature. Although "net operating income" as defined by M&T is not a GAAP measure, M&T’s management believes that this information helps investors understand the effect of acquisition activity in reported results. The following table represents a comparative summary of certain non-GAAP results of operations.
+
+Table 2
+
+SUPPLEMENTAL REPORTING OF NON-GAAP RESULTS OF OPERATIONS
+
+__________________________________________________________________________________
+
+(a) At the period end.
+
+The efficiency ratio measures the relationship of noninterest operating expenses, which exclude expenses M&T considers to be "nonoperating" in nature consisting of amortization of core deposit and other intangible assets and merger-related expenses, to revenues. The calculations of the Company’s efficiency ratio, or noninterest operating expenses divided by the sum of taxable-equivalent net interest income and noninterest income (exclusive of gains and losses from bank investment securities), and reconciliations of GAAP amounts with corresponding non-GAAP amounts are presented in Table 3.
+
+Table 3
+
+RECONCILIATION OF GAAP TO NON-GAAP MEASURES
+
+__________________________________________________________________________________
+
+(a) After any related tax effect.
+
+Taxable-equivalent Net Interest Income
+
+Interest income earned on certain of the Company's assets is exempt from federal income tax. Taxable-equivalent net interest income is a non-GAAP measure that adjusts income earned on a tax-exempt asset to present it on an equivalent basis to interest income earned on a fully taxable asset.
+
+Taxable-equivalent net interest income can be impacted by changes in the composition of the Company's earning assets and interest-bearing liabilities, as discussed herein, as well as changes in interest rates and spreads. The FOMC lowered its federal funds target interest rate by a total of 100 basis points in the last four months of 2024 and by a total of 75 basis points in the last four months of 2025.
+
+Net interest income on a taxable-equivalent basis totaled $6.99 billion in 2025, an increase of $90 million from $6.90 billion in 2024. That increase reflects a 9 basis-point widening of the net interest margin driven by a decrease of 51 basis points in the cost of interest-bearing liabilities, partially offset by a 22 basis-point decline in the yield received on earning assets and a 20 basis-point reduction in the contribution of net interest-free funds. Contributing to lower yields on earning assets and rates paid on interest-bearing liabilities in 2025 was the impact of the aforementioned FOMC interest rate reductions. The yields received on earning assets reflect a reduction of the negative impact from interest rate swap agreements entered into for interest rate risk management purposes on yields received on commercial and industrial and commercial real estate loans. Partially offsetting the overall decline in yields received on earning assets was an increase in yields received on investment securities from the deployment of liquidity into fixed rate investment securities throughout 2024 and 2025 that yielded higher rates than maturing investment securities.
+
+Future changes in market interest rates or spreads, as well as changes in the composition of the Company’s portfolios of earning assets and interest-bearing liabilities that result in changes to spreads, could impact the Company’s net interest income and net interest margin. Future changes in the levels of net interest-free funds and the interest rates used to value such funds could also impact the Company's net interest margin.
+
+The Company's average balance sheets accompanied by the taxable-equivalent interest income and expense and the average rate on the Company's earning assets and interest-bearing liabilities are presented in Table 4 that follows.
+
+Table 4
+
+AVERAGE BALANCE SHEETS AND TAXABLE-EQUIVALENT RATES
+
+__________________________________________________________________________________
+
+(a) Includes nonaccrual loans.
+
+(b) Includes available-for-sale securities at amortized cost.
+
+(c) Primarily government issued or guaranteed.
+
+(d) The yield on state and political subdivisions investment securities for 2025 reflects $18 million of lower taxable-equivalent interest income resulting from an alignment of amortization periods for certain municipal bonds obtained from the acquisition of People's United.
+
+The total changes in interest income and expense, including the changes attributable to volume and rate are presented in Table 5.
+
+Table 5
+
+CHANGES IN INTEREST INCOME AND EXPENSE
+
+__________________________________________________________________________________
+
+(a) The apportionment of changes resulting from the combined effect of both volume and rate was based on the separately determined volume and rate changes.
+
+(b) Interest income data are presented on a taxable-equivalent basis.
+
+(c) Primarily government issued or guaranteed.
+
+(d) The change in interest income on state and political subdivisions investment securities for 2025 compared with 2024 reflects $18 million of lower taxable-equivalent interest income resulting from an alignment of amortization periods for certain municipal bonds obtained from the acquisition of People's United. The impact of this reduction is primarily included in the "Rate" column.
+
+Interest rate swap agreements
+
+Management assesses the potential impact of future changes in interest rates and spreads by projecting net interest income under several interest rate scenarios. In managing interest rate risk, the Company has utilized interest rate swap agreements to modify the repricing characteristics of certain portions of its earning assets and interest-bearing liabilities. Under the terms of those interest rate swap agreements, the Company generally received payments based on the outstanding notional amount at fixed rates and made payments at variable rates. Periodic settlement amounts arising from these agreements are reflected in either the yields received on earning assets or the rates paid on interest-bearing liabilities. The Company enters into forward-starting interest rate swap agreements predominantly to hedge interest rate exposures expected in future periods. Table 6 summarizes information about interest rate swap agreements entered into for interest rate risk management purposes at December 31, 2025 and 2024.
+
+Table 6
+
+INTEREST RATE SWAP AGREEMENTS - DESIGNATED AS HEDGES
+
+Information regarding the fair value of interest rate swap agreements designated as fair value hedges and cash flow hedges is presented in note 17 of Notes to Financial Statements. The average notional amounts of interest rate swap agreements entered into for interest rate risk management purposes (excluding forward-starting interest rate swap agreements not in effect during the year), the related effect on net interest income and margin, and the weighted-average interest rates paid or received on those swap agreements are presented in Table 7 that follows.
+
+Table 7
+
+INTEREST RATE SWAP AGREEMENTS - EFFECT ON NET INTEREST INCOME
+
+__________________________________________________________________________________
+
+(a) Computed as a percentage of average earning assets or interest-bearing liabilities.
+
+(b) Excludes forward-starting interest rate swap agreements not in effect during the year.
+
+(c) Weighted-average rate paid or received on interest rate swap agreements in effect during the year.
+
+Lending activities
+
+The Company's lending activities reflect a shift in portfolio composition as it executed various strategies to lessen its relative concentration of commercial real estate loans and to reduce the amount of criticized loans in this category throughout 2024 and 2025. The following table summarizes changes in the components of average loans.
+
+Table 8
+
+AVERAGE LOANS
+
+Average loans grew $1.4 billion from 2024.
+
+• Average commercial and industrial loans grew $2.6 billion reflecting higher average balances of loans to financial and insurance companies and motor vehicle and recreational finance dealers.
+
+• Average commercial real estate loans declined $5.3 billion as the Company executed various strategies to reduce its relative concentration of such loans. Average permanent and construction commercial real estate loans decreased by $3.2 billion and $2.1 billion, respectively.
+
+• Average residential real estate loans grew $945 million reflecting the retention of originated residential mortgage loans and purchases.
+
+• Average consumer loans increased $3.1 billion reflecting recreational finance and automobile average loan growth of $2.2 billion and $638 million, respectively.
+
+Table 9 presents the geographical composition of the Company’s loan portfolio at December 31, 2025.
+
+Table 9
+
+LOANS
+
+__________________________________________________________________________________
+
+(a) Includes Delaware, Maryland, New Jersey, Pennsylvania, Virginia, West Virginia and the District of Columbia.
+
+(b) Includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
+
+Commercial and industrial loans, including leases, represented 46% of total loans at December 31, 2025. Owner-occupied loans secured by real estate included in commercial and industrial loans at December 31, 2025 totaled $11.2 billion. The real estate securing such loans is typically used in the primary business operations of the borrower and is not predominantly dependent on rental income from tenants. The Company also provides financing for leases to commercial customers. Commercial leases included in total commercial and industrial loans at December 31, 2025 aggregated $2.7 billion.
+
+Commercial and industrial loans increased $2.1 billion from December 31, 2024 to December 31, 2025 reflecting growth that spanned several industry types. Loans to customers in the financial and insurance, services and wholesale industries increased $1.3 billion, or 11%, $524 million, or 5%, and $450 million, or 9%, respectively, from the end of 2024.
+
+Table 10 presents information on commercial and industrial loans as of December 31, 2025 relating to borrower industry, geographic area, size and whether the loans are secured by collateral or unsecured.
+
+Table 10
+
+COMMERCIAL AND INDUSTRIAL LOANS
+
+__________________________________________________________________________________
+
+(a) Includes Delaware, Maryland, New Jersey, Pennsylvania, Virginia, West Virginia and the District of Columbia.
+
+(b) Includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
+
+Borrowers in the financial and insurance industry include real estate investment trusts and other specialty lending businesses including fund banking companies and mortgage warehouse lending businesses. Approximately 89% of loans to the financial and insurance industry and 7% of loans to the services industry were designated as loans to NDFIs as prescribed in regulatory guidance applicable to M&T Bank at December 31, 2025. Table 11 presents commercial and industrial commitments and outstanding balances of loans to NDFIs at December 31, 2025.
+
+Table 11
+
+COMMERCIAL AND INDUSTRIAL COMMITMENTS AND LOANS TO NDFIs
+
+(a) Includes real estate investment trust credit facilities, residential mortgage warehouse lines of credit and mortgage loan servicing rights secured financing.
+
+(b) Primarily subscription credit facilities.
+
+(c) Includes credit facilities to wholesale lender finance and leasing companies and business development companies.
+
+(d) Includes credit facilities to consumer lender finance and leasing companies.
+
+Commercial real estate loans originated by the Company are generally secured by investor-owned real estate and include both fixed and variable rate instruments with monthly payments and a balloon payment of the remaining unpaid principal balance at maturity. Maturity dates generally range from three to ten years and, for borrowers in good standing, the terms of such loans may be extended by the customer following maturity at the then-current market rate of interest. Adjustable-rate commercial real estate loans represented approximately 83% of the commercial real estate loan portfolio at the 2025 year end.
+
+Commercial real estate construction and development loans totaled $3.6 billion at December 31, 2025, or 3% of total loans. Approximately 97% of those construction loans had adjustable interest rates. Included in such loans at December 31, 2025 were loans made for various purposes, including the construction of multifamily residential housing, office buildings, health services facilities and other commercial development. In June 2025, the Company sold $661 million of out-of-footprint residential builder and developer loans and recognized a gain on sale of $15 million, which is included in Other revenues from operations in the Consolidated Statement of Income.
+
+M&T Realty Capital, a commercial real estate lending subsidiary of M&T Bank, participates in the DUS program of Fannie Mae, pursuant to which commercial real estate loans are originated in accordance with terms and conditions specified by Fannie Mae and sold. Under this program, loans are sold with partial credit recourse to M&T Realty Capital. The amount of recourse is generally limited to one-third of any credit loss incurred by the purchaser on an individual loan, although in some cases the recourse amount is more or less than one-third of the outstanding principal balance. The Company’s contractual credit recourse associated with sold commercial real estate loans was approximately $4.6 billion at December 31, 2025, compared with $4.2 billion at December 31, 2024. Should Fannie Mae determine that loans originated through its DUS program were not originated or serviced in accordance with the terms and conditions of the program, M&T Realty Capital may be required to repurchase such loans or may incur credit losses that exceed the stated recourse amount of the program.
+
+Table 12 presents commercial real estate loans by type of collateral, geographic area and size of the loans outstanding at December 31, 2025.
+
+Table 12
+
+COMMERCIAL REAL ESTATE LOANS
+
+__________________________________________________________________________________
+
+(a) Includes Delaware, Maryland, New Jersey, Pennsylvania, Virginia, West Virginia and the District of Columbia.
+
+(b) Includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
+
+(c) Total includes $203 million of owner-occupied construction loans.
+
+Investing activities
+
+The Company's investment securities portfolio is largely comprised of government-issued or guaranteed residential and commercial mortgage-backed securities and U.S. Treasury securities, but also includes municipal and other securities. When purchasing investment securities, the Company considers its liquidity position and its overall interest rate risk profile as well as the adequacy of expected returns relative to risks assumed, including prepayments. The Company may occasionally sell investment securities as a result of movements in interest rates and spreads, changes in liquidity needs, actual or anticipated prepayments, credit risk associated with a particular security, or as a result of restructuring its investment securities portfolio. The amounts of investment securities held
+
+by the Company are influenced by such factors as available yield in comparison with alternative investments, demand for loans, which generally yield more than investment securities, ongoing repayments, the levels of deposits, and management of liquidity and balance sheet size and resulting capital ratios. Information about the Company's average investment securities portfolio is presented in the following table.
+
+Table 13
+
+AVERAGE INVESTMENT SECURITIES
+
+__________________________________________________________________________________
+
+(a) Primarily government issued or guaranteed.
+
+The investment securities portfolio averaged $35.8 billion in 2025, up $5.0 billion from 2024. That increase reflects the deployment of liquidity into primarily fixed rate mortgage-backed investment securities designated as available for sale. As a result of the purchases of higher-yielding securities and paydowns and maturities of lower-yielding securities, the weighted-average current yield for total investment securities available for sale increased to 4.64% at December 31, 2025 compared with 4.30% at December 31, 2024, while the weighted-average duration of that portfolio decreased to 2.4 years from 2.6 years at each of those respective dates. The Company routinely adjusts its holdings of capital stock of the FHLB of New York and the FRB of New York based on amounts of outstanding borrowings and available lines of credit with those entities.
+
+The Company regularly reviews its debt investment securities for declines in value below amortized cost that might be indicative of credit-related losses. There were no credit-related losses on debt investment securities recognized in 2025, 2024 and 2023. Additional information about the investment securities portfolio is included in notes 3 and 19 of Notes to Financial Statements.
+
+Other earning assets include interest-bearing deposits at banks and trading account assets. Those other earning assets in the aggregate averaged $18.9 billion in 2025 and $27.3 billion in 2024 and were primarily comprised of deposits held at the FRB of New York. The Company considers such deposits to be an immediate source of funds in its liquidity management processes. In general, the levels of those deposits often fluctuate due to changes in deposits of retail and commercial customers, trust-related deposits and brokered deposits, lending activities and additions to or maturities of investment securities or borrowings.
+
+Funding activities - deposits
+
+The most significant source of funding for the Company is core deposits from its customer base. The Company considers noninterest-bearing deposits, savings and interest-checking deposits and time deposits of $250,000 or less as core deposits. The Company’s domestic banking network is its principal source of core deposits, which generally carry lower interest rates than wholesale funds of comparable maturities. Average core deposits represented 78% of average earning assets in 2025, compared with 77% in 2024. The Company also utilizes brokered deposits as a component of its wholesale funding strategy. Depending on market conditions, including demand by customers and other investors, and the cost of funds available from alternative sources, the Company may change the amount or composition of brokered deposits in the future. Table 14 provides an analysis of changes in the components of average deposits.
+
+Table 14
+
+AVERAGE DEPOSITS
+
+Total average deposits decreased $316 million from 2024.
+
+• Average core deposits grew $1.2 billion due to higher average balances of savings and interest-checking deposits that reflected a shift in customer funds from noninterest-bearing accounts to interest-bearing products. Lower average balances of core time deposits reflected comparatively lower rates paid on those products.
+
+• Average brokered deposits declined $1.2 billion reflecting a decrease in average brokered time deposits of $2.6 billion as those products matured. That decrease was partially offset by an increase in average brokered savings and interest-bearing transaction accounts of $1.5 billion reflecting changes in the Company's wholesale funding strategy.
+
+Table 15 summarizes the components of average total deposits by reportable segment for the years ended December 31, 2025, 2024 and 2023.
+
+Table 15
+
+AVERAGE DEPOSITS BY REPORTABLE SEGMENT
+
+Funding activities - borrowings
+
+Table 16 summarizes the average balances utilized from the Company's short-term and long-term borrowing facilities and note programs.
+
+Table 16
+
+AVERAGE BORROWINGS
+
+The Company uses borrowing capacity from banks, the FHLBs, the FRB of New York and others as sources of funding. Short-term borrowings represent arrangements that at the time they were entered into had a contractual maturity of one year or less. The lower levels of short-term borrowings in 2025 as compared with 2024 reflect the Company's management of liquidity, including reductions in certain short-term wholesale funding sources.
+
+The levels of long-term borrowings reflect the Company's strategies to diversify its wholesale funding sources to provide long-term funding stabilization. Table 17 provides a summary of the Company's issuances, maturities and redemptions of long-term borrowings in 2025.
+
+Table 17
+
+LONG-TERM BORROWING ISSUANCES, MATURITIES AND REDEMPTIONS
+
+__________________________________________________________________________________
+
+(a) At par value.
+
+(b) Excludes paydowns of asset-backed notes.
+
+Additional information regarding outstanding borrowings is provided in notes 8 and 18 of Notes to Financial Statements.
+
+Provision for Credit Losses
+
+A provision for credit losses is recorded to adjust the level of the allowance to reflect expected credit losses that are based on economic forecasts as of each reporting date. A provision for credit losses of $505 million and $610 million was recorded in 2025 and 2024, respectively. The lower provision for credit losses in 2025 as compared with 2024 reflects improved levels of criticized loans.
+
+A summary of the Company’s loan charge-offs, provision and allowance for credit losses is presented in Tables 18 and 24, and in note 4 of Notes to Financial Statements.
+
+Table 18
+
+LOAN CHARGE-OFFS, PROVISION AND ALLOWANCE FOR CREDIT LOSSES
+
+__________________________________________________________________________________
+
+(a) Included in Accrued interest and other liabilities in the Consolidated Balance Sheet.
+
+Asset quality
+
+A summary of nonperforming assets and certain past due loan data and credit quality ratios is presented in Table 19.
+
+Table 19
+
+NONPERFORMING ASSET AND PAST DUE LOAN DATA
+
+__________________________________________________________________________________
+
+(a) Predominantly government-guaranteed residential real estate loans.
+
+Nonaccrual loans decreased $438 million from December 31, 2024 to December 31, 2025 reflecting a $203 million reduction in commercial real estate nonaccrual loans and a $169 million decrease in commercial and industrial nonaccrual loans. Approximately 45% of nonaccrual commercial and industrial and commercial real estate loans were considered current with respect to their payment status at December 31, 2025.
+
+Government-guaranteed loans designated as accruing loans past due 90 days or more included one-to-four family residential mortgage loans serviced by the Company that were repurchased to reduce associated servicing costs, including a requirement to advance principal and interest payments that had not been received from individual mortgagors. Despite the loans being purchased by the Company, the insurance or guarantee by the applicable government-related entity remains in force. The outstanding principal balances of the repurchased loans that are guaranteed by government-related entities included in accruing loans past due 90 days or more totaled $459 million at December 31, 2025 and $224 million at December 31, 2024. Accruing loans past due 90 days or more not guaranteed by government-related entities were loans considered to be with creditworthy borrowers that were in the process of collection or renewal. Additional information about past due and nonaccrual loans is included in note 4 of Notes to Financial Statements.
+
+The Company utilizes a loan grading system to differentiate risk amongst its commercial and industrial loans and commercial real estate loans. Loans with a lower expectation of default are assigned one of ten possible "pass" loan grades while specific loans determined to have an elevated level of credit risk are designated as "criticized." A criticized loan may be designated as "nonaccrual" if the Company no longer expects to collect all amounts owed under the terms of the loan agreement or the loan is delinquent 90 days or more.
+
+Line of business personnel in different geographic locations with support from and review by the Company’s credit risk personnel review and reassign loan grades based on their detailed knowledge of individual borrowers and their judgment of the impact on such borrowers resulting from changing conditions in their respective regions. The Company’s policy is that, at least annually, updated financial information is obtained from commercial borrowers associated with pass grade loans greater than $1 million and additional analysis performed. On a quarterly basis, the Company’s centralized credit risk department personnel review criticized commercial and industrial loans and commercial real estate loans greater than $5 million to determine the appropriateness of the assigned loan grade, including whether the loan should be reported as accruing or nonaccruing. For criticized nonaccrual loans, additional meetings are held with loan officers and their managers, workout specialists and senior management to discuss each of the relationships. In analyzing criticized loans, borrower-specific information is reviewed, including operating results, future cash flows, recent developments and the borrower’s outlook, and other pertinent data. The timing and extent of potential losses, considering collateral valuation and other factors, and the Company’s potential courses of action are contemplated.
+
+Targeted loan reviews are periodically performed over segments of loan portfolios that may be experiencing heightened credit risk due to current or anticipated economic conditions. The intention of such reviews is to identify trends across such portfolios and inform portfolio risk limits and loss mitigation strategies. In 2025, the Company assessed loans to certain not-for-profit borrowers, government contractors and other commercial borrowers that may be impacted by immigration policies and enforcement, changes to government funding and reductions in the federal workforce. The Company is also monitoring commercial borrowers in certain industry sectors that may be affected by international trade policy changes, such as tariffs, including retail and wholesale trade, manufacturing and construction companies. The Company has considered the information gathered in such reviews in the assignment of loan grades.
+
+The Company continues to monitor its commercial real estate loan portfolio. The primary source of repayment of these loans is typically tenant lease payments to the investor/borrower. Elevated vacancies impacting some property types have contributed to lower current and anticipated future debt service coverage ratios, which have and may continue to influence the ability of borrowers to make existing loan payments. Lower debt service coverage ratios and reduced commercial real estate values also impact the ability of borrowers to refinance their obligations at loan maturity. Despite these challenges, the ability of borrowers to service loans secured by investor-owned real estate has generally improved in the recent year. The LTV ratio is one of many factors considered in assessing overall portfolio risks and loss mitigation strategies for the investor-owned commercial real estate portfolio. In determining the LTV ratio, the Company considers cross-collateralization of all exposures secured by the supporting collateral and the estimated value of such collateral. Subsequent to the origination of commercial real estate loans, updated appraisals are obtained in the normal course of business for renewals, extensions and modifications to commitment levels. As the quality of a loan deteriorates to the point of designating the loan as "criticized nonaccrual," the process of obtaining updated collateral valuation information is usually initiated, unless it is not considered warranted given factors such as the relative size of the loan or the age of the last valuation. In those cases where current appraisals may not yet be available, prior appraisals are utilized with adjustments, as deemed necessary, for estimates of subsequent declines in values as determined by line of business and/or loan workout personnel. Those adjustments are reviewed and assessed for reasonableness by the Company’s credit risk personnel. Accordingly, for real estate collateral securing larger nonaccrual commercial and industrial loans and commercial real estate loans, estimated collateral values are generally based on current estimates of value.
+
+The Company monitors its concentration of commercial real estate lending as a percent of its Tier 1 capital plus its allowable allowance for credit losses, consistent with a metric utilized to differentiate such concentrations amongst regulated financial institutions. This metric, as prescribed in supervisory guidance, excludes loans secured by commercial real estate considered to be owner-occupied, but includes certain other loans, such as loans to real estate investment trusts, that are classified as commercial and industrial loans. The Company's commercial real estate loan concentration approximated 124% of Tier 1 capital plus its allowable allowance for credit losses at December 31, 2025, down from 136% at December 31, 2024. The Company executed various strategies to lessen its relative concentration of investor-owned commercial real estate loans and to reduce the amount of criticized loans in this category throughout 2024 and 2025.
+
+Tables 20 and 21 summarize the outstanding balances, and associated criticized balances, of commercial and industrial loans by industry and commercial real estate loans by property type, respectively, at December 31, 2025 and 2024.
+
+Table 20
+
+CRITICIZED COMMERCIAL AND INDUSTRIAL LOANS
+
+Table 21
+
+CRITICIZED COMMERCIAL REAL ESTATE LOANS
+
+Loans to the health services, manufacturing and the transportation, communications and utilities industries contributed to the $77 million decrease in commercial and industrial criticized loans in the recent year, partially offset by an increase in criticized loans to motor vehicle and recreational finance dealers, the retail industry and financial and insurance companies. The $2.6 billion decline in criticized commercial real estate loans from December 31, 2024 to December 31, 2025 reflected decreases across all property types as well as in criticized construction and development loans. At December 31, 2025, approximately 94% of criticized accrual loans and 45% of criticized nonaccrual loans were considered current with respect to their payment status.
+
+For loans secured by residential real estate the Company’s loss identification and estimation techniques make reference to loan performance and house price data in specific areas of the country where collateral securing those loans is located. For loans secured by residential real estate, including home equity loans and lines of credit, the excess of the loan balance over the net realizable value of the property collateralizing the loan is charged-off when the loan becomes 150 days delinquent. Information about the location of nonaccrual loans secured by residential real estate at December 31, 2025 and 2024 is presented in Table 22.
+
+Table 22
+
+NONACCRUAL LOANS SECURED BY RESIDENTIAL REAL ESTATE
+
+__________________________________________________________________________________
+
+(a) Includes $673 million and $791 million of limited documentation first lien mortgage loans with nonaccrual loan balances totaling $50 million and $59 million at December 31, 2025 and 2024, respectively.
+
+(b) Includes Delaware, Maryland, New Jersey, Pennsylvania, Virginia, West Virginia and the District of Columbia.
+
+(c) Includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
+
+Factors that influence the Company’s credit loss experience include overall economic conditions affecting businesses and consumers, generally, but also residential and commercial real estate valuations, in particular, given the size of the Company’s real estate loan portfolios. Commercial real estate valuations can be highly subjective, as they are based upon many assumptions. Such valuations can be significantly affected over relatively short periods of time by changes in business climate, economic conditions, interest rates and, in many cases, the results of operations of businesses and other occupants of the real property. Similarly, residential real estate valuations can be impacted by housing trends, the availability of financing at reasonable interest rates and general economic conditions affecting consumers.
+
+Consumer loans not secured by residential real estate are generally charged-off when the loans are 91 to 180 days past due, depending on whether the loan is collateralized and the status of repossession activities with respect to such collateral. A comparative summary of nonaccrual consumer loan balances and the respective percent of outstanding balances of each consumer loan product at December 31, 2025 and 2024 is presented in Table 23.
+
+Table 23
+
+NONACCRUAL CONSUMER LOANS
+
+A summary of net charge-offs by loan type and as a percent of such average loans is presented in Table 24.
+
+Table 24
+
+NET CHARGE-OFF (RECOVERY) INFORMATION
+
+Net charge-offs in 2025 declined nominally from 2024, reflecting lower net charge-offs of commercial and industrial loans, partially offset by modest increases in net charge-offs of commercial real estate and consumer loans. Contributing to the lower net charge-offs of commercial and industrial loans were lower net charge-offs of loans to recreational finance dealers and transportation companies in 2025. Higher net charge-offs of permanent commercial real estate loans reflect a rise in net charge-offs of loans secured by health services properties. Net charge-offs as a percent of average consumer loans in 2025 were relatively flat as compared with 2024.
+
+Allowance for loan losses
+
+Management determines the allowance for loan losses under accounting guidance that requires estimating the amount of current expected credit losses over the remaining contractual term of the loan portfolio. A description of the methodologies used by the Company to estimate its allowance for loan losses can be found in note 4 of Notes to Financial Statements.
+
+In establishing the allowance for loan losses, the Company estimates losses attributable to specific troubled credits identified through both normal and targeted credit review processes and also estimates losses for other loans with similar risk characteristics on a collective basis, generally through the use of statistically developed credit models, which are required to achieve a satisfactory independent validation by the Company's Model Risk Management Department, or other quantitative methodologies. In determining the allowance for loan losses, the Company may adjust forecasted loss estimates for inherent limitations or biases in the models as well as for other factors that may not be adequately considered in its quantitative methodologies including the impact of portfolio concentrations, imprecision in economic forecasts, geopolitical conditions and other risk factors that influence the loss estimation process. At each of December 31, 2025 and 2024, the Company qualitatively adjusted credit loss estimates for inherent limitations in the ability to assess real-time changes in commercial borrower performance and for environmental influences affecting certain loan portfolios. Qualitative adjustments at December 31, 2025, primarily related to portfolio exposures to certain commercial and industrial borrowers and commercial real estate loans, were modestly lower as compared with December 31, 2024.
+
+At the time of the Company’s analysis regarding the determination of the allowance for loan losses as of December 31, 2025 uncertainties existed about the impact of inflationary pressures and potential increases in unemployment on the discretionary income and purchasing power of consumers, which could impact their ability to service existing debt obligations; the volatile nature of global markets and international economic conditions that could impact the U.S. economy, including the effect of international trade policies on domestic businesses and consumers; uncertainty related to Federal Reserve positioning of monetary policy and the potential impacts on future economic growth; shifts in immigration policies and enforcement; changes to government funding and reductions in federal workforce; downward pressures on commercial real estate values and the impacts on the ability of commercial borrowers to refinance maturing debt obligations; and the extent to which borrowers may be negatively affected by general economic conditions.
+
+Forward-looking estimates of certain macroeconomic variables are determined by the M&T Scenario Review Committee, which is comprised of senior management business leaders and economists. The weighted-average of macroeconomic assumptions utilized as of December 31, 2025, 2024 and 2023 are presented in Table 25 and were based on information available at or near the time the Company was preparing its estimate of expected credit losses as of those dates.
+
+Table 25
+
+ALLOWANCE FOR LOAN LOSSES MACROECONOMIC ASSUMPTIONS
+
+With respect to economic forecasts, the Company assessed the likelihood of alternative economic scenarios during the two-year reasonable and supportable forecast period. Generally, an increase in unemployment rate or a decrease in any of the rate of change in GDP, commercial real estate prices or home prices could have an adverse impact on expected credit losses and may result in an increase to the allowance for loan losses. Forward-looking economic forecasts are subject to inherent imprecision and future outcomes may differ materially from forecasted events. In consideration of such uncertainty, the alternative economic scenarios shown in Table 26 were considered to estimate the possible impact on modeled credit losses.
+
+Table 26
+
+ALLOWANCE FOR LOAN LOSSES SENSITIVITIES
+
+These examples are only a few of the numerous possible economic scenarios that could be utilized in assessing the sensitivity of expected credit losses. The estimated impacts on credit losses in such scenarios pertain only to modeled credit losses and do not include consideration of other factors the Company may evaluate when determining its allowance for loan losses. As a result, it is possible that the Company may, at another point in time, reach different conclusions regarding credit loss estimates. The Company’s process for determining the allowance for loan losses undergoes quarterly and periodic evaluations by independent risk management personnel, which among many other considerations, evaluate the reasonableness of management’s methodology and significant assumptions.
+
+Management has assessed that the allowance for loan losses at December 31, 2025 appropriately reflected expected credit losses in the portfolio as of that date. A comparative allocation of the allowance for loan losses and the reserve for unfunded credit commitments for each of the past three year ends is presented in Table 27. Amounts were allocated to specific loan categories based on information available to management at the time of each year-end assessment and using the methodologies described herein. Variations in the allocation of the allowance by loan category as a percent of those loans reflect changes in management’s estimate of credit losses in light of economic developments. Furthermore, the Company’s allowance is general in nature and is available to absorb losses from any loan or lease category.
+
+Table 27
+
+ALLOWANCE FOR LOAN LOSSES AND
+
+RESERVE FOR UNFUNDED CREDIT COMMITMENTS
+
+__________________________________________________________________________________
+
+(a) Included in the allowance for loan losses were reserves allocated as a percent of commercial real estate loans secured by office properties of 4.65% at December 31, 2025, 4.70% at December 31, 2024 and 4.37% at December 31, 2023.
+
+(b) Given the Company’s general position as a secured lender and its practice of charging off loan balances when collection is deemed doubtful, this ratio and changes in the ratio are generally not an indicative measure of the adequacy of the Company’s allowance for loan losses, nor does management rely upon that ratio in assessing the adequacy of the Company’s allowance for loan losses.
+
+(c) Included in Accrued interest and other liabilities in the Consolidated Balance Sheet.
+
+The lower ratio of the allowance for loan losses as a percent of loans outstanding at December 31, 2025 as compared with December 31, 2024, reflects lower levels of criticized commercial real estate loans. The level of the allowance reflects management’s evaluation of the loan portfolio as of each respective date using the methodology and considering the factors as described herein. Should the various economic forecasts and credit factors considered by management in establishing the allowance for loan losses change and should management’s assessment of losses in the loan portfolio also change, the level of the allowance as a percent of loans could increase or decrease in future periods.
+
+Other Income
+
+The components of other income are presented in Table 28.
+
+Table 28
+
+OTHER INCOME
+
+Mortgage banking revenues
+
+Mortgage banking revenues are comprised of both residential and commercial mortgage banking activities, which consist of realized gains and losses from sales of real estate loans and loan servicing rights, unrealized gains and losses on real estate loans held for sale and related commitments, real estate loan servicing fees, and other real estate loan related fees and income. The Company’s involvement in commercial mortgage banking activities includes the origination, sales and servicing of loans under the multifamily loan programs of Fannie Mae, Freddie Mac and the U.S. Department of Housing and Urban Development.
+
+Table 29
+
+RESIDENTIAL MORTGAGE BANKING ACTIVITIES
+
+__________________________________________________________________________________
+
+(a) Additional information about the Company's capitalized residential mortgage loan servicing assets, including information about the calculation of estimated fair value, is presented in note 6 of Notes to Financial Statements.
+
+(b) The contractual servicing rights associated with residential mortgage loans sub-serviced by the Company were primarily held by affiliates of BLG. Information about the Company's relationship with BLG and its affiliates is included in note 23 of Notes to Financial Statements.
+
+The higher balances of residential mortgage loans sub-serviced for others at December 31, 2025 as compared with December 31, 2024, and the corresponding increase in related residential mortgage loan sub-servicing revenues in 2025 as compared with 2024 reflects an arrangement effective February 2025 whereby the Company began sub-servicing $51.7 billion of additional residential mortgage loans with contractual servicing rights held by Bayview Financial.
+
+Table 30
+
+COMMERCIAL MORTGAGE BANKING ACTIVITIES
+
+__________________________________________________________________________________
+
+(a) Additional information about the Company's capitalized commercial mortgage loan servicing assets, including information about the calculation of estimated fair value, is presented in note 6 of Notes to Financial Statements.
+
+(b) Includes $4.6 billion and $4.2 billion of loan balances at December 31, 2025 and 2024, respectively, for which investors had recourse to the Company if such balances are ultimately uncollectable.
+
+The increase in gains on commercial mortgage loans originated for sale during 2025 as compared with 2024 reflects an increased volume of and higher margins on new commitments to originate commercial real estate loans for sale.
+
+Service charges on deposit accounts
+
+Service charges on deposit accounts increased $37 million from 2024 to 2025 reflecting higher commercial service charges that resulted from pricing changes and increased customer usage of sweep products.
+
+Trust income
+
+Trust income primarily includes revenues from two significant businesses managed within the Company's Institutional Services and Wealth Management segment. The Institutional Services business provides a variety of trustee, agency, investment management and administrative services for corporations and institutions, investment bankers, corporate tax, finance and legal executives, and other institutional clients who: (i) use capital markets financing structures; (ii) use independent trustees to hold assets; and (iii) need investment and cash management services. The Wealth Management business offers personal trust, planning and advisory, fiduciary, asset management, family office and other services designed to help high net worth individuals and families grow, preserve and transfer wealth.
+
+Table 31
+
+TRUST INCOME AND ASSETS UNDER MANAGEMENT
+
+The increase in Institutional Services trust income in 2025 as compared with 2024 reflects higher sales and fund management fees from its global capital markets business. Wealth Management trust income rose in 2025 as compared with 2024, reflecting favorable market performance associated with managed assets in 2025.
+
+Brokerage services income
+
+Brokerage services income, which includes revenues from the sale of mutual funds and annuities, securities brokerage fees and select investment products of LPL Financial, an independent financial services broker, increased $10 million in 2025 as compared with 2024 including higher sales of annuities and a rise in management fees reflecting market performance.
+
+Trading account and other non-hedging derivative gains
+
+The Company enters into interest rate swap agreements and foreign exchange contracts with customers who need such services and concomitantly enters into offsetting trading positions with third parties to minimize the risks involved with these types of transactions. Information about the notional amount of interest rate, foreign exchange and other non-hedging contracts entered into by the Company is included in note 17 of Notes to Financial Statements and herein under the heading "Market Risk and Interest Rate Sensitivity." The $19 million increase in income from trading account and other non-hedging derivative gains in 2025 as compared with 2024 reflects higher revenues from interest rate swap transactions with commercial customers.
+
+Gain (loss) on bank investment securities
+
+The Company recognized a net gain on investment securities of $2 million in 2025, compared with a net gain of $10 million in 2024. The net gain in 2024 reflects realized gains on the sale of equity investments in Fannie Mae and Freddie Mac preferred securities, partially offset by net realized losses on the sale of certain non-agency debt investment securities, as the Company divested of certain investment securities that were not considered relevant in its balance sheet management strategies.
+
+Other revenues from operations
+
+The components of other revenues from operations are presented in Table 32.
+
+Table 32
+
+OTHER REVENUES FROM OPERATIONS
+
+__________________________________________________________________________________
+
+(a) During 2017, the operating losses of BLG resulted in M&T reducing the carrying value of its investment in BLG to zero. Subsequently, M&T has received cash distributions when declared by BLG that result in the recognition of income by M&T. M&T expects cash distributions from BLG in the future, but the timing and amount of those distributions are not within M&T's control. BLG is entitled to receive distributions from its affiliates that provide asset management and other services that are available for distribution to BLG’s owners, including M&T. Information about the Company’s relationship with BLG and its affiliates is included in note 23 of Notes to Financial Statements.
+
+Other revenues from operations in 2025 increased $94 million from 2024 reflecting a distribution of an earnout payment of $28 million related to the Company's 2023 sale of its CIT business; a $22 million rise in letter of credit and other credit-related fees, reflecting higher line usage and loan syndication fees; gains on the sales of an out-of-footprint loan portfolio totaling $15 million and a subsidiary that specialized in institutional services of $10 million; and a $12 million increase in merchant discount and credit card fees. Partially offsetting those favorable factors was a $28 million decline in distributions received from M&T's investment in BLG.
+
+Other Expense
+
+The components of other expense are presented in Table 33.
+
+Table 33
+
+OTHER EXPENSE
+
+Salaries and employee benefits
+
+Salaries and employee benefits expense increased $180 million in 2025 as compared with 2024 reflecting annual merit and other increases, a rise in average staffing levels and an increase in medical benefits expense of $30 million, stock-based compensation expense of $20 million and severance-related costs of $10 million.
+
+The Company provides pension, retirement savings and other postretirement benefits for its employees. Expenses related to such benefits totaled $81 million in 2025 and $71 million in 2024. The amounts recorded in salaries and employee benefits expense and other costs of operations, respectively, from the preceding sentence were as follows: $173 million and ($92 million) in 2025; and $173 million and ($102 million) in 2024. The Company sponsors both defined benefit and defined contribution pension plans. In the fourth quarter of 2025, the Company recognized an $8 million benefit in other costs of operations associated with the purchase of annuities for certain participants in the Company's defined benefit pension plan that represented approximately $263 million, or 14%, of the plan's accumulated benefit obligation at the time of purchase. In 2024, the Company recognized a $12 million benefit in other costs of operations associated with the solicited election of certain participants in that plan to accept a lump-sum distribution in the fourth quarter of 2024 in lieu of future retirement benefit payments. Approximately $171 million of lump-sum settlements were distributed from the pension plan, representing approximately 8% of the plan's accumulated benefit obligation at the time of the distribution. Information about the Company’s pension plans and other postretirement benefits is included in note 12 of Notes to Financial Statements.
+
+Nonpersonnel expenses
+
+As described herein within Part I, Item 1, "Business," in November 2023 the FDIC finalized a rule that imposes a special assessment to recover the costs to the DIF resulting from the FDIC’s use in 2023 of the systemic risk exception to the least-cost resolution test under the FDIA in connection with the receiverships of certain failed banks. The Company recognized a special assessment expense of $34 million in 2024 and a reduction of such expense of $37 million in 2025, bringing the total special assessment expense of the Company since the 2023 rule was enacted to $194 million.
+
+After considering FDIC assessments, the $50 million increase in nonpersonnel expenses in 2025 as compared with 2024 reflects an increase in outside data processing and software costs of $66 million associated with enhancements to the Company's technology infrastructure, cybersecurity and financial recordkeeping and reporting systems, a $30 million contribution to The M&T Charitable Foundation in 2025, an increase in equipment and net occupancy expense of $13 million and a rise in professional and other services of $12 million reflecting higher legal and review costs. Those unfavorable factors were partially offset by vacated facility write-downs of $27 million and losses on the redemption of certain issuances of M&T's Junior Subordinated Debentures of $20 million each in 2024.
+
+Income Taxes
+
+The provision for income taxes was $841 million in 2025, compared with $722 million in 2024. The Company's effective tax rates were 22.8% and 21.8% in 2025 and 2024, respectively. The effective income tax rates in 2025 and 2024 reflect net discrete tax benefits of $8 million and $31 million, respectively. The Company's effective tax rate is affected by the level of income earned that is exempt from tax relative to the overall level of pre-tax income, the amount of income allocated to the various state and local jurisdictions where the Company operates, because tax rates differ among such jurisdictions, and the impact of any large discrete or infrequently occurring items. The Company’s effective tax rate in future periods may also be affected by any change in income tax laws or regulations and interpretations of income tax regulations that differ from the Company’s interpretations by any of the various tax authorities that may examine tax returns filed by M&T or any of its subsidiaries. New federal tax legislation was signed into law on July 4, 2025, which included a broad range of tax reform provisions. The new legislation did not have a material impact on the Company's effective tax rate in 2025.
+
+Liquidity Risk
+
+As a financial intermediary, the Company is exposed to various risks, including liquidity and market risk. Liquidity refers to the Company’s ability to ensure that sufficient cash flow and liquid assets are available to satisfy current and future obligations, including demands for loans and deposit withdrawals, funding operating costs and other corporate purposes. Liquidity risk arises whenever the cash flows associated with financial instruments included in assets and liabilities differ.
+
+The most significant source of funding for the Company is core deposits, which are generated from a large base of consumer, corporate and institutional customers. That customer base has become more geographically diverse as a result of expansion of the Company’s businesses over time. Nevertheless, the Company faces competition in offering products and services from a large array of financial market participants, including banks, thrifts, mutual funds, securities dealers and others. Core deposits totaled $153.3 billion at December 31, 2025, compared with $147.5 billion at December 31, 2024. The higher levels of core deposits at December 31, 2025 largely reflect increased savings and interest-checking deposits.
+
+The Company supplements funding provided through core deposits with various short-term and long-term wholesale borrowings, including overnight federal funds purchases, repurchase agreements, advances from the FHLBs, brokered deposits and longer-term borrowings. M&T Bank has access to additional funding sources through secured borrowings from the FHLB of New York and the FRB of New York. M&T Bank is also a counterparty to the FRB of New York standing repurchase agreement facility, which allows it to enter into overnight repurchase transactions using eligible investment securities. At December 31, 2025 and 2024, long-term borrowings aggregated $10.9 billion and $12.6 billion, respectively, and short-term borrowings aggregated $2.1 billion and $1.1 billion, respectively. Information about the Company’s borrowings is included in note 8 of Notes to Financial Statements.
+
+The Company's wholesale funding sources include the placement of brokered deposits. Such deposits, comprised predominantly of brokered savings and interest-checking deposit accounts, totaled 7% of the Company's total deposit base at each of December 31, 2025 and 2024. The Company actively adjusts its wholesale funding sources in consideration of the competitive landscape for customer deposits and maintenance of its liquidity profile.
+
+Total uninsured deposits were estimated to be $78.9 billion at December 31, 2025 and $73.0 billion at December 31, 2024. Approximately $9.0 billion and $9.1 billion of those uninsured deposits were collateralized by the Company at December 31, 2025 and 2024, respectively. The Company maintains available liquidity sources, as presented in Table 39, which represent approximately 126% of uninsured deposits that are not collateralized by the Company at December 31, 2025.
+
+The Company’s ability to obtain funding from these sources could be negatively impacted should the Company experience a substantial deterioration in its financial condition or its debt ratings or should the availability of funding become restricted due to a disruption in the financial markets. The Company attempts to quantify such risks by conducting scenario analyses that estimate the liquidity impact resulting from a debt ratings downgrade and other market events. Such impact is estimated by attempting to measure the effect on available unsecured lines of credit, available capacity from secured borrowing sources and securitizable assets.
+
+Information about the credit ratings of M&T and M&T Bank at December 31, 2025 is presented in Table 34.
+
+Table 34
+
+DEBT RATINGS
+
+M&T’s primary source of funds to pay for operating expenses, shareholder dividends and treasury stock repurchases has historically been the receipt of dividends from its bank subsidiaries, which are subject to various regulatory limitations. Dividends from any bank subsidiary to M&T are limited by the amount of earnings of the subsidiary in the current year and the two preceding years. For purposes of that test, at December 31, 2025, approximately $2.58 billion was available for payment of dividends to M&T from bank subsidiaries. M&T may also obtain funding through long-term borrowings and the repayment of advances to subsidiaries. Further information about the long-term outstanding borrowings of M&T is provided in note 8 of Notes to Financial Statements. As a BHC, M&T is obligated to serve as a managerial and financial source of strength to its bank subsidiaries as described in Part I, Item 1, "Business," and may provide advances to those subsidiaries. As its ability to access the capital markets may be affected by market disruptions, M&T maintains sufficient resources at its parent company to satisfy projected cash outflows for an extended period without reliance on dividends from subsidiaries or external financing. As of December 31, 2025, M&T's parent company liquidity, inclusive of the projected repayment of notes receivable from bank subsidiaries, covered projected cash outflows for 36 months, including dividends on common and preferred stock, debt service and scheduled debt maturities.
+
+In addition to deposits and borrowings, other sources of liquidity include maturities and repayments of investment securities, loans and other earning assets, as well as cash generated from operations, such as fees collected for services. The Company also has the ability to securitize or sell certain financial assets, including various loan types, to provide other liquidity alternatives. U.S. Treasury and government-issued or guaranteed mortgage-backed securities comprised 94% of the Company's debt securities portfolio at December 31, 2025. The weighted-average durations of debt investment securities available for sale and held to maturity at December 31, 2025 were 2.4 years and 5.3 years, respectively.
+
+Table 35 provides the contractual maturity schedule and taxable-equivalent yields of debt securities as of December 31, 2025.
+
+Table 35
+
+MATURITY AND TAXABLE-EQUIVALENT YIELD OF DEBT SECURITIES (a)
+
+__________________________________________________________________________________
+
+(a) Weighted-average yields represent the current yield, including amortization of premiums and accretion of discounts, and are based on amortized cost. Yields on tax-exempt securities are calculated on a taxable-equivalent basis using a composite income tax rate of approximately 25%.
+
+(b) Investment securities available for sale are presented at estimated fair value.
+
+(c) Maturities are based upon contractual payments due. Actual maturities are expected to be significantly shorter as a result of loan repayments in the underlying mortgage pools.
+
+Table 36 provides the maturity schedule of loans as of December 31, 2025.
+
+Table 36
+
+MATURITY DISTRIBUTION OF LOANS (a)
+
+__________________________________________________________________________________
+
+(a) The data reflects contractually required payments, but excludes nonaccrual loans.
+
+The Company enters into contractual obligations in the normal course of business that require future cash payments. Such obligations include, among others, payments related to deposits, borrowings, leases and other contractual commitments. The contractual amounts and timing of those payments as of December 31, 2025 are summarized in Table 37. Off-balance sheet commitments to customers may impact liquidity, including commitments to extend credit, standby letters of credit, commercial letters of credit, financial guarantees and indemnification contracts and commitments to sell real estate loans. Because many of these commitments or contracts expire without being funded in whole or in part, the contract amounts are not necessarily indicative of future cash flows. Further discussion of these commitments is provided in note 20 of Notes to Financial Statements. Table 37 summarizes the Company's other commitments as of December 31, 2025 and the timing of the expiration of such commitments.
+
+Table 37
+
+CONTRACTUAL OBLIGATIONS AND OTHER COMMITMENTS
+
+__________________________________________________________________________________
+
+(a) Amounts exclude discretionary funding commitments to commercial customers of $12.9 billion that the Company has the unconditional right to cancel prior to funding.
+
+Table 38 provides the maturity of time deposits over $250,000 as of December 31, 2025.
+
+Table 38
+
+MATURITY OF TIME DEPOSITS WITH BALANCES OVER $250,000
+
+The Company's Executive ALCO Committee closely monitors the Company’s liquidity position on an ongoing basis for compliance with internal policies and regulatory expectations. As a Category IV institution, the Company adheres to enhanced liquidity standards which require the performance of internal liquidity stress testing. The stress testing is designed to ensure the Company has sufficient liquidity to withstand both institution-specific and market-wide stress scenarios. For each scenario, the Company applies liquidity stress which may include deposit run-off, increased draws on unfunded loan commitments, increased collateral need for margin calls, increased haircuts on investment security-based funding and reductions in unsecured and secured borrowing capacity. Stress scenarios are measured over various time frames ranging from overnight to twelve months. As required by regulation, the Company maintains a liquidity buffer comprised of cash and highly liquid unencumbered securities to cover a 30-day stress horizon. Liquidity stress events occurring over longer time horizons can be mitigated by the availability of secured funding sources at the FHLB of New York and FRB of New York. As described in Part I, Item 1, "Liquidity," the Federal Reserve
+
+and other federal banking regulators established the LCR as a uniform measure to ensure banking organizations hold sufficient amounts of cash and unencumbered high-quality liquid assets to cover net cash outflows over a 30-day liquidity stress period. As a Category IV institution with less than a $50 billion balance of weighted short-term wholesale funding, M&T is not subject to the LCR. M&T, however, estimates that its LCR on December 31, 2025 was 109%, exceeding the regulatory minimum standards that would be applicable if it were a Category III institution subject to the Category III reduced LCR requirements.
+
+Presented in Table 39 is a summary of the Company's available sources of liquidity at December 31, 2025 and December 31, 2024.
+
+Table 39
+
+AVAILABLE LIQUIDITY SOURCES
+
+Management continuously evaluates the use and mix of its various available funding alternatives, including short-term borrowings, issuances of long-term debt, the placement of brokered deposits and the securitization of certain loan products. Management does not anticipate engaging in any activities, either currently or in the long term, for which adequate funding would not be available and would therefore result in a significant strain on liquidity at either M&T or its subsidiary banks. In accordance with liquidity regulations, the Company maintains a contingency funding plan to facilitate on-going liquidity management in times of liquidity stress. The plan outlines various funding options available during a liquidity stress event and establishes a clear escalation protocol to be followed within the Company's Risk Framework. The plan sets forth funding strategies and procedures that management can quickly leverage to assist in decision-making and specifies roles and responsibilities for departments impacted by a potential liquidity stress event.
+
+Market Risk and Interest Rate Sensitivity
+
+Market risk is the risk of loss from adverse changes in the market prices and/or interest rates of the Company’s financial instruments. A primary market risk the Company is exposed to is interest rate risk. Interest rate risk arises from the Company’s core banking activities of lending and deposit-taking, because assets and liabilities reprice at different times and by different amounts as interest rates change. As a result, net interest income earned by the Company is subject to the effects of changing interest rates. The Company measures interest rate risk by calculating the variability of net interest income in future periods under various interest rate scenarios using projected balances for earning assets, interest-bearing liabilities and derivatives used to hedge interest rate risk. Management’s philosophy toward interest rate risk management is to limit the variability of net interest income.
+
+The Company’s Executive ALCO Committee monitors the sensitivity of the Company’s net interest income to changes in interest rates with the aid of a computer model that forecasts net interest income under different interest rate scenarios. In modeling changing interest rates, the Company considers different yield curve shapes that contemplate both parallel (that is, when interest
+
+rates at each point of the yield curve change by the same magnitude) and non-parallel (that is, allowing interest rates at points on the yield curve to change by different amounts) shifts in the yield curve. The Company also contemplates instantaneous and gradual shifts in the yield curve over the scenario time horizon. In utilizing the model, market-implied forward interest rates over the subsequent twelve months are generally used to determine a base interest rate scenario for the net interest income simulation. That calculated base net interest income is then compared with the income calculated under the varying interest rate scenarios. The model considers the impact of ongoing lending and deposit-gathering activities, as well as interrelationships in the magnitude and timing of the repricing of financial instruments, including the effect of changing interest rates on expected prepayments and maturities.
+
+Management has taken actions to mitigate exposure to interest rate risk through the use of on- and off-balance sheet financial instruments and intends to do so in the future. Possible actions include, but are not limited to, changes in the pricing of loan and deposit products, modifying the composition of earning assets and interest-bearing liabilities, and adding to, modifying or terminating existing interest rate swap agreements or other financial instruments used for interest rate risk management purposes. At December 31, 2025, the aggregate notional amount of interest rate swap agreements entered into for interest rate risk management purposes that were currently in effect was $19.6 billion. In addition, the Company has entered into $11.5 billion of forward-starting interest rate swap agreements designated for hedging purposes. Information about interest rate swap agreements entered into for interest rate risk management purposes is included herein under the heading "Taxable-equivalent Net Interest Income" and in note 17 of Notes to Financial Statements.
+
+The accompanying table as of December 31, 2025 and December 31, 2024 displays the estimated impact on net interest income in the base scenarios described above resulting from changes in market interest rates. The scenarios presented in the table below assume a gradual and parallel change in interest rates across repricing categories during the first modeling year.
+
+Table 40
+
+SENSITIVITY OF NET INTEREST INCOME TO CHANGES IN INTEREST RATES
+
+The Company utilized many assumptions to calculate the impact that changes in interest rates may have on net interest income. The more significant of those assumptions included the rate of prepayments of mortgage-related assets, cash flows from derivative and other financial instruments, loan and deposit volumes, mix and pricing, and deposit maturities. Variations in amounts presented since December 31, 2024 reflect changes in the composition of the Company's earning assets and interest-bearing liabilities, as well as the level of market-implied forward interest rates and hedging actions taken by the Company. M&T's cumulative upward deposit pricing beta, which is the change in deposit pricing in response to a change in market interest rates, approximated 55% amidst a rising interest rate environment from the first quarter of 2022 through the second quarter of 2024. Reflecting the first cuts of the federal funds target interest rate since March 2020, the FOMC decreased that rate by 100 basis points during the last four months of 2024 and by an additional 75
+
+basis points during the last four months of 2025. M&T's cumulative downward deposit pricing beta beginning in the third quarter of 2024 through December 31, 2025 approximated 51%. The assumptions used in interest rate sensitivity modeling are inherently uncertain and, as a result, the Company cannot precisely predict the impact of changes in interest rates on net interest income. Actual results may differ significantly from those presented due to the timing, magnitude and frequency of changes in interest rates and changes in market conditions and interest rate differentials (spreads) between maturity/repricing categories, as well as any actions, such as those previously described, which management may take to counter such changes.
+
+Management also uses an EVE model to supplement the modeling technique described above and provide a long-term interest rate risk metric. EVE is a point-in-time analysis of the economic sensitivity of existing assets, liabilities and off-balance sheet positions that incorporates all cash flows over their estimated remaining lives. The EVE reflects the present value of cash flows from existing assets, liabilities and off-balance sheet financial instruments, but does not incorporate any assumptions for future originations, renewals or issuances. Management measures the impact of changes in market values due to interest rates under a number of scenarios, including immediate shifts of the yield curve. The percentage impact to the EVE resulting from a 100 basis-point increase and a 100 basis-point decrease in market interest rates was -5.1% and 2.2%, respectively, as of December 31, 2025, and -5.1% and 2.5%, respectively, at December 31, 2024.
+
+In addition to the effect of interest rates, changes in fair value of the Company’s financial instruments can also result from a lack of trading activity for similar instruments in the financial markets. Information about the fair valuation of financial instruments is presented in note 19 of Notes to Financial Statements.
+
+The Company enters into interest rate and foreign exchange contracts to meet the financial needs of customers that it includes in its consolidated financial statements as other non-hedging derivatives within other assets and other liabilities. Financial instruments utilized for such activities consist predominantly of interest rate swap agreements and forward and futures contracts related to foreign currencies. The Company generally mitigates the interest rate and foreign currency risk associated with customer activities by entering into offsetting positions with third parties that are also included in other assets and other liabilities. The fair values of non-hedging derivative positions associated with interest rate contracts and foreign currency and other option and futures contracts are presented in note 17 of Notes to Financial Statements. As with any non-government guaranteed financial instrument, the Company is exposed to credit risk associated with counterparties to its non-hedging derivative activities. Although the notional amounts of these contracts are not recorded in the Consolidated Balance Sheet, the unsettled fair values of such financial instruments are recorded in the Consolidated Balance Sheet. The fair values of such non-hedging derivative assets and liabilities recognized in the Consolidated Balance Sheet were $190 million and $409 million, respectively, at December 31, 2025 and $206 million and $787 million, respectively, at December 31, 2024. The amounts recorded in the Consolidated Balance Sheet associated with the Company's non-hedging derivative activities at December 31, 2025 and 2024 primarily reflect changes in values associated with interest rate swap agreements entered into with commercial customers and financial institutions that are not subject to periodic variation margin settlement payments.
+
+Trading account assets were $97 million at December 31, 2025 and $101 million at December 31, 2024 and were comprised of mutual funds and other assets related to certain deferred compensation plans and non-qualified supplemental retirement and other benefit plans that were assumed by the Company in various acquisitions. Changes in the fair values of such assets are recorded as Trading account and other non-hedging derivative gains in the Consolidated Statement of
+
+Income. Changes in the valuation of the related liabilities, which are included in Accrued interest and other liabilities in the Consolidated Balance Sheet, are recognized in Other costs of operations in the Consolidated Statement of Income.
+
+Given the Company’s policies and positions, management believes that the potential loss exposure to the Company resulting from market risk associated with trading account and other non-hedging derivative activities was not material at December 31, 2025, however, as previously noted, the Company is exposed to credit risk associated with counterparties to such activities. Information about the Company’s use of derivative financial instruments is included in note 17 of Notes to Financial Statements.
+
+Capital
+
+The following table presents components related to shareholders' equity and dividends.
+
+Table 41
+
+SHAREHOLDERS' EQUITY, DIVIDENDS AND SELECT RATIOS
+
+__________________________________________________________________________________
+
+(a) Reconciliations of common shareholders’ equity to tangible common equity and total assets to tangible assets as of December 31, 2025, 2024 and 2023 are presented in Table 3.
+
+On October 31, 2025, M&T issued 45,000 shares of Perpetual Fixed Rate Non-Cumulative Preferred Stock, Series K, with a liquidation preference of $10,000 per share. On February 1, 2026, M&T redeemed all 40,000 outstanding shares of its Perpetual Fixed Rate Reset Non-Cumulative Preferred Stock, Series G, for $400 million. On August 15, 2024, M&T redeemed all 350,000 outstanding shares of its Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series E, for $350 million. On May 13, 2024, M&T issued 75,000 shares of Perpetual Fixed Rate Non-Cumulative Preferred Stock, Series J, with a liquidation preference of $10,000 per share. Additional information about the issued and outstanding preferred stock of M&T is included in note 9 of Notes to Financial Statements.
+
+Shareholders’ equity reflects accumulated other comprehensive income or loss, which includes the net after-tax impact of unrealized gains or losses on investment securities classified as available for sale, gains or losses associated with interest rate swap agreements designated as cash flow hedges and adjustments to reflect the funded status of defined benefit pension and other postretirement plans. The components of accumulated other comprehensive income (loss) are presented in Table 42.
+
+Table 42
+
+ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS) - NET OF INCOME TAX
+
+__________________________________________________________________________________
+
+(a) Refer to note 3 of Notes to Financial Statements.
+
+(b) Refer to note 17 of Notes to Financial Statements.
+
+(c) Refer to note 12 of Notes to Financial Statements.
+
+On January 22, 2025, M&T's Board of Directors authorized a program under which $4.0 billion of common shares may be repurchased. That authorization replaced and terminated the previous authorized share repurchase program effective as of the same date. M&T repurchased 14.3 million shares of its common stock in 2025 at a total cost of $2.66 billion. In 2024, M&T repurchased 2.1 million shares of its common stock at a total cost of $400 million. Discretion as to the amount and timing of authorized share repurchases in a given period has been delegated, through the authorization of the Board of Directors, to management and can be influenced by capital and liquidity requirements, including funding of future loan growth and other balance sheet management activities, as well as market and economic conditions.
+
+M&T and its subsidiary banks are required to comply with applicable Capital Rules which prescribe minimum capital ratios. Capital Rules require buffers in addition to these minimum risk-based capital ratios. M&T is subject to an SCB requirement that is determined through the Federal Reserve’s supervisory stress tests and M&T’s bank subsidiaries are subject to a 2.5% capital conservation buffer requirement. The buffer requirement must be composed entirely of CET1 capital. In June 2025, the Federal Reserve released the results of its most recent supervisory stress tests. Based on those results, on October 1, 2025, M&T's SCB of 2.7% became effective. The regulatory capital amounts and ratios of M&T and its bank subsidiaries as of December 31, 2025 are presented in note 22 of Notes to Financial Statements. A detailed discussion of the Capital Rules is included in Part I, Item 1 of this Form 10-K under the heading "Capital Requirements."
+
+Capital Rules generally require the deduction of goodwill and core deposit and other intangible assets, net of applicable deferred taxes, from the calculation of capital in the determination of the minimum capital ratios. As a result of previous business acquisitions, the Company recorded goodwill of $8.5 billion and core deposit and other intangible assets of $64 million at December 31, 2025. Goodwill, as required by GAAP, is not amortized, but rather is tested for impairment at least annually at the business reporting unit level. The Company completed its annual goodwill impairment test in the fourth quarter of 2025 and concluded the amount of goodwill was not impaired at the testing date. The Company has not identified events or circumstances that would more likely
+
+than not reduce the fair value of a business reporting unit below its carrying amount at December 31, 2025. Should a business reporting unit with assigned goodwill experience declines in revenue, increased credit losses or expenses, or other adverse developments due to economic, regulatory, competition or other factors, that would be material to that reporting unit, an impairment of goodwill could occur in a future period that could be material to the Company's Consolidated Balance Sheet and its Consolidated Statement of Income. Although a goodwill impairment charge would not have a significant impact on the Company's regulatory tangible capital ratios, it would reduce the capacity of its bank subsidiary, M&T Bank, to dividend earnings to M&T. As described herein under the heading "Liquidity Risk," M&T's parent company liquidity at December 31, 2025, inclusive of the projected repayment of notes receivables from bank subsidiaries, covered projected cash outflows for 36 months, including dividends on common and preferred stock, debt service and scheduled debt maturities. Information concerning goodwill and other intangible assets is included in note 7 of Notes to Financial Statements.
+
+The Company is subject to the comprehensive regulatory framework applicable to BHCs and FHCs and their subsidiaries, which includes examinations by a number of regulators. Regulation of financial institutions such as M&T and its subsidiaries is intended primarily for the protection of depositors, the DIF of the FDIC and the banking and financial system as a whole, and generally is not intended for the protection of shareholders, investors or creditors other than insured depositors. Changes in laws, regulations and regulatory policies applicable to the Company’s operations can increase or decrease the cost of doing business, limit or expand permissible activities or affect the competitive environment in which the Company operates, all of which could have a material effect on the business, financial condition or results of operations of the Company and on M&T’s ability to pay dividends. For additional information concerning this comprehensive regulatory framework, refer to Part I, Item 1, "Supervision and Regulation of the Company" of this Form 10-K.
+
+As described in Part I, Item 1, "Capital Requirements" of this Form 10-K, in July 2023 the federal banking agencies issued a notice of proposed rulemaking to modify the regulatory capital requirements applicable to large banking organizations with total assets exceeding $100 billion, like the Company. Management continues to evaluate the impact of the proposed rules on the regulatory capital requirements of M&T and its subsidiary banks. At December 31, 2025, the inclusion of accumulated other comprehensive income (loss) components related to investment securities available for sale and defined benefit plan liability adjustments would have increased the Company's CET1 capital ratio by 13 basis points.
+
+Segment Information
+
+Reportable segments have been determined based upon the Company’s organizational structure which is primarily arranged around the delivery of products and services to similar customer types. The reportable segments are Commercial Bank, Retail Bank, and Institutional Services and Wealth Management. All other business activities that are not included in the three reportable segment results have been included in the "All Other" category. A description of the business activities conducted by each of the Company's segments and the accounting policies utilized in compiling financial information of such segments is provided in note 21 of Notes to Financial Statements.
+
+Table 43
+
+NET INCOME (LOSS) BY SEGMENT
+
+Commercial Bank
+
+Table 44
+
+COMMERCIAL BANK SEGMENT FINANCIAL SUMMARY
+
+Net income for the Commercial Bank segment increased $33 million in 2025 as compared with 2024.
+
+• Net interest income declined $60 million reflecting a narrowing of the net interest margin on deposits of 19 basis points and a decline in average loans of $2.3 billion, partially offset by a rise in average deposit balances of $2.2 billion.
+
+• Noninterest income increased $123 million due to higher other revenues from operations of $59 million that included a rise in credit-related fees of $21 million, gains on the sales of an out-of-footprint residential builder and developer loan portfolio of $15 million and equipment leases of $12 million. Also contributing to that increase was higher commercial mortgage banking revenues of $27 million, trading account and other non-hedging derivative gains of $20 million, reflective of an increase in interest rate swap agreements with commercial customers, and service charges on commercial deposit accounts of $17 million.
+
+• The provision for credit losses increased $7 million reflecting a higher provision for unfunded credit commitments.
+
+• Noninterest expense increased $22 million reflecting higher centrally-allocated costs associated with data processing, risk management, and other support services provided to the Commercial Bank segment of $15 million and a rise in outside data processing and software costs of $8 million.
+
+• Average loans decreased $2.3 billion reflecting a reduction in average commercial real estate loans of $5.1 billion, partially offset by higher average commercial and industrial loans of $2.8 billion, reflecting an increase in loans to financial and insurance companies and motor vehicle and recreational finance dealers.
+
+• Average deposits grew $2.2 billion reflecting growth in average savings and interest-checking deposits, partially offset by a decline in average noninterest-bearing deposits.
+
+Retail Bank
+
+Table 45
+
+RETAIL BANK SEGMENT FINANCIAL SUMMARY
+
+Net income for the Retail Bank segment decreased $274 million in 2025 as compared with 2024.
+
+• Net interest income decreased $341 million reflecting a narrowing of the net interest margin on deposits of 41 basis points and lower average balances of those deposits of $1.2 billion, partially offset by higher average loan balances of $3.1 billion.
+
+• Noninterest income increased $111 million reflecting higher residential mortgage loan sub-servicing revenues related to the arrangement effective February 2025 whereby the Company began sub-servicing $51.7 billion of additional residential mortgage loans with contractual servicing rights held by Bayview Financial, an increase in service charges on deposit accounts and higher merchant discount and credit card interchange fees.
+
+• The provision for credit losses increased $19 million reflecting higher net charge-offs of indirect consumer loans.
+
+• Noninterest expense rose $131 million predominantly due to higher centrally-allocated costs associated with data processing, risk management and other support services provided to the Retail Bank segment of $113 million and a rise in personnel-related costs.
+
+• Average loans rose $3.1 billion predominantly reflective of recreational finance and automobile average loan growth.
+
+• Average deposits decreased $1.2 billion reflecting the maturity of customer time deposit accounts and lower noninterest-bearing deposits, partially offset by growth in average savings and interest-checking deposits.
+
+Institutional Services and Wealth Management
+
+Table 46
+
+INSTITUTIONAL SERVICES AND WEALTH MANAGEMENT SEGMENT
+
+FINANCIAL SUMMARY
+
+Net income for the Institutional Services and Wealth Management segment decreased $33 million in 2025 as compared with 2024.
+
+• Net interest income declined $93 million reflecting an 84 basis-point narrowing of the net interest margin on deposits, partially offset by higher average balances of those deposits.
+
+• Noninterest income increased $98 million reflecting higher trust income of $48 million resulting from increased sales and fund management fees from the segment's global capital markets business and higher fee income from its Wealth Management business, reflecting comparatively favorable market performance associated with managed assets. Also contributing to that increase was a $28 million distribution of an earnout payment related to the Company's sale of its CIT business in 2023 and a $10 million gain on the sale of a subsidiary that specialized in institutional services each in the recent year, and higher brokerage services income.
+
+• Noninterest expense increased $52 million reflecting a rise in personnel-related expenses and higher professional and other services expense.
+
+• Average deposits increased $1.4 billion reflecting higher average savings and interest-checking deposits.
+
+All Other
+
+Table 47
+
+ALL OTHER CATEGORY FINANCIAL SUMMARY
+
+The "All Other" category recorded a net gain of $3 million in 2025 as compared with a net loss of $534 million in 2024.
+
+• Net interest income increased $590 million reflecting favorable impact from the Company’s allocation methodologies for funding charges and credits associated with earning assets and interest-bearing liabilities of the Company’s reportable segments and a reduction of the negative impact from interest rate swap agreements entered into for interest rate risk management purposes.
+
+• Noninterest income decreased $17 million reflecting lower distributions from M&T's investment in BLG of $28 million, partially offset by higher tax-exempt income from bank owned life insurance of $10 million.
+
+• The provision for credit losses decreased $130 million reflecting the net impact of the allocation of the provision to the reportable segments.
+
+• Noninterest expense decreased $71 million reflecting FDIC special assessment expense of $34 million in 2024 and a reduction of such expense of $37 million in 2025.
+
+Critical Accounting Estimates
+
+The Company’s significant accounting policies conform with GAAP and are described in note 1 of Notes to Financial Statements. In applying certain of those accounting policies, management of the Company may be required to exercise judgment in determining many of the methodologies, assumptions and estimates to be utilized. Critical accounting estimates are more dependent on such judgment and may contribute to significant changes in the Company’s reported financial position or results of operations should the assumptions and estimates used change over time due to changes in circumstances. The significant areas in which management of the Company applies critical assumptions and estimates include the following:
+
+Allowance for loan losses
+
+The allowance for loan losses represents a valuation account that is deducted from the amortized cost basis of loans to present the net amount expected to be collected at the balance sheet date. A provision for credit losses is recorded to adjust the level of the allowance for loan losses as deemed necessary by management. In estimating expected credit losses, borrower-specific financial data and forward-looking macroeconomic assumptions are utilized to project losses over a reasonable and supportable forecast period. For certain loan pools that share similar risk characteristics, the Company utilizes statistically developed models to estimate amounts and timing of expected future cash flows, collateral values and other factors used to determine the borrowers’ abilities to repay obligations. Such models consider historical correlations of credit losses with various macroeconomic assumptions including unemployment, GDP and real estate prices. Subsequent to the forecast period, the Company utilizes longer-term historical loss experience to estimate credit losses over the remaining contractual lives of the loans. These forecasts may be adjusted for inherent limitations or biases of the models as well as for other factors that may not be adequately considered in the Company’s quantitative methodologies. The methodologies, significant assumptions and estimated amount of the allowance for loan losses are subject to quarterly and periodic evaluations by independent risk management personnel and are approved by M&T's Allowance for Credit Losses Committee. A discussion of facts and circumstances considered by management in determining the allowance for loan losses is included herein under the heading "Provision for Credit Losses" and in note 4 of Notes to Financial Statements.
+
+Changes in the circumstances considered when determining management’s estimates and assumptions could result in changes in those estimates and assumptions, which could result in adjustment of the allowance for loan losses in future periods. Forward-looking economic forecasts are subject to inherent imprecision and future outcomes may differ materially from forecasted events. A sensitivity analysis of forward-looking estimates of macroeconomic variables on modeled credit losses used in the determination of the allowance for loan losses is provided herein under the heading "Provision for Credit Losses."
+
+Fair value measurement
+
+As described in note 19 of Notes to Financial Statements, many of the Company’s assets and liabilities are measured at fair value on the Company’s Consolidated Balance Sheet on a recurring basis. Fair value represents the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Management of the Company applies various valuation methodologies to assets and liabilities which may involve a significant degree of judgment, particularly when liquid markets do not exist for the particular items being valued. Significant assets and liabilities measured at fair value on a recurring basis are predominantly comprised of available-for-sale investment securities and interest rate swap agreements.
+
+Available-for-sale investment securities are primarily comprised of U.S. Treasury securities and government issued or guaranteed commercial and residential mortgage-backed securities. Those securities are generally valued by a third-party pricing service through reference to quoted prices for the same or similar securities or through model-based techniques in which the significant inputs are observable. The Company generally determines the fair value of interest rate swap agreements using externally developed pricing models based on market observable inputs. The fair valuation of investment securities available for sale and interest swap agreements are independently reviewed and challenged by M&T’s Treasury Product Control Department, the results of which are reported to the Company’s Executive ALCO Committee. Further information on the fair value of investment securities and derivative financial instruments is included herein under the heading "Taxable-equivalent Net Interest Income” and in notes 3, 17 and 19 of Notes to Financial Statements.
+
+Goodwill
+
+Goodwill represents the excess of the consideration transferred to acquire an entity over the fair value of the identifiable net assets acquired. Goodwill is not amortized, but rather is tested for impairment at least annually at the reporting unit level. For purposes of testing for impairment the Company has assigned all recorded goodwill to the reporting units originally intended to benefit from past business combinations. To test for goodwill impairment, the Company compared the estimated fair value of each of its reporting units to the respective carrying amounts and certain other assets and liabilities assigned to the reporting unit, including goodwill and core deposit and other intangible assets. For the Company’s annual impairment test on October 1, 2025, the Company estimated the fair value of its reporting units using an income approach (weighted 75%) and a market approach (weighted 25%). The Company’s estimation of fair value under the income approach considered discounting projected cash flows for each reporting unit based on multi-year financial forecasts, and under the market approach considered certain valuation multiples for comparable financial institutions. Based on the results of the goodwill impairment test, the Company concluded that the amount of recorded goodwill was not impaired as of the testing date.
+
+The Company’s reporting units are not readily marketable and market prices do not exist. The estimation of fair value of those reporting units includes many assumptions which are subjective and highly sensitive to changes in such assumptions. In estimating those values the Company has not attempted to market its reporting units to potential buyers, if any exist. Since negotiated prices in illiquid markets depend greatly upon the then present motivation of the buyer and seller, it is reasonable to assume that actual sales prices could vary widely from any estimate of fair value made without the benefit of negotiations. Additionally, changes in market conditions or other risk factors described in Part I, Item 1A, “Risk Factors” could materially impact the value of the Company’s reporting units. The Company has performed sensitivity analysis around its discount rate assumptions used in its valuations and estimated that a 100 basis-point increase to the discount rates used in the fair value estimation at October 1, 2025 would not have resulted in an impairment of goodwill assigned to any reporting unit.
+
+Information regarding goodwill assigned to the Company’s operating segments is presented in note 7 in Notes to Financial Statements and a discussion of the treatment of goodwill for regulatory capital purposes is provided herein under the heading “Capital.”
+
+Legal proceedings and other matters
+
+Many aspects of the Company’s business and operations involve substantial risk of legal liability. M&T and its subsidiaries are subject in the normal course of business to various pending and threatened legal proceedings and other matters for which monetary damages are asserted or unasserted. In addition, from time to time, the Company is, or may become, the subject of governmental and self-regulatory agency information-gathering requests, reviews, investigations and proceedings and other forms of regulatory inquiry, including by bank and other regulatory agencies, the SEC and law enforcement authorities.
+
+Although the Company establishes accruals for legal proceedings when information related to the loss contingencies represented by those matters indicates both that a loss is probable and that the amount of loss can be reasonably estimated, the Company does not have accruals for all legal proceedings where it faces a risk of loss. In addition, due to the inherent subjectivity of the assessments and unpredictability of the outcome of legal proceedings, amounts accrued may not represent the ultimate loss to the Company from the legal proceedings in question. Thus, the Company’s ultimate losses may be higher, and possibly significantly so, than the amounts accrued for legal loss contingencies, which could adversely affect the Company’s financial condition and results of operations. Information regarding those contingencies and their potential effects on the Company’s results of operations and financial position is included in note 20 of Notes to Financial Statements.
+
+Recent Accounting Developments
+
+Effective January 1, 2026, the Company elected to prospectively measure its residential mortgage loan servicing right assets at fair value with changes in fair value being reflected in Mortgage banking revenues in the Consolidated Statement of Income. The accounting election resulted in an increase to capitalized servicing assets, included in Accrued interest and other assets in the Consolidated Balance Sheet, of $263 million and a corresponding after-tax increase to Retained earnings of $197 million, representing an 8 basis-point increase to CET1 capital on the election date. In preparation for this election, on December 31, 2025 the Company began economically hedging the risk of fair value changes in those residential mortgage loan servicing right assets through the use of various interest rate derivative contracts, for which changes in fair value will also be reflected in Mortgage banking revenues in the Consolidated Statement of Income beginning in 2026. Further information on the fair value of capitalized servicing assets, the significant assumptions used to value such assets and the sensitivity of those fair values to changes in assumptions is included in note 6 of Notes to Financial Statements. A discussion of recent accounting developments, including the fair value election of residential mortgage loan servicing right assets effective January 1, 2026, is included in note 1 of Notes to Financial Statements.
+
+Forward-Looking Statements
+
+"Management’s Discussion and Analysis of Financial Condition and Results of Operations" and other sections of this Form 10-K contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Any statement that does not describe historical or current facts is a forward-looking statement, including statements based on current expectations, estimates and projections about the Company’s business, and management’s beliefs and assumptions.
+
+Statements regarding the potential effects of events or factors specific to the Company and/or the financial industry as a whole, as well as national and global events generally, on the Company’s business, financial condition, liquidity and results of operations may constitute forward-looking statements. Such statements are subject to the risk that the actual effects may differ, possibly
+
+materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond the Company’s control.
+
+Forward-looking statements are typically identified by words such as "believe," "expect," "anticipate," "intend," "target," "estimate," "continue," or "potential," by future conditional verbs such as "will," "would," "should," "could," or "may," or by variations of such words or by similar expressions. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions which are difficult to predict and may cause actual outcomes to differ materially from what is expressed or forecasted.
+
+While there can be no assurance that any list of risks and uncertainties is complete, important factors that could cause actual outcomes and results to differ materially from those contemplated by forward-looking statements include the following, without limitation, as well as the risks more fully discussed in Part I, Item 1A, "Risk Factors" of this Form 10-K: economic conditions and growth rates, including inflation and market volatility; events, developments and current conditions in the financial services industry, including trust, brokerage and investment management businesses; changes in interest rates, spreads on earning assets and interest-bearing liabilities, and interest rate sensitivity; prepayment speeds, loan originations, loan concentrations by type and industry, credit losses and market values on loans, collateral securing loans, and other assets; sources of liquidity; levels of client deposits; ability to contain costs and expenses; changes in the Company’s credit ratings; domestic or international political developments and other geopolitical events, including trade and tariff policies and international conflicts and hostilities; changes and trends in the securities markets; common shares outstanding and common stock price volatility; fair value of and number of stock-based compensation awards to be issued in future periods; the impact of changes in market values on trust-, brokerage-, and investment management-related revenues; federal, state or local legislation and/or regulations affecting the financial services industry, or M&T and its subsidiaries individually or collectively, including tax policy; regulatory supervision and oversight, including monetary policy and capital requirements; governmental and public policy changes; political conditions, either nationally or in the states in which M&T and its subsidiaries do business; the initiation and outcome of potential, pending and future litigation, investigations and governmental proceedings, including tax-related examinations and other matters; operational risk events, including loss resulting from fraud by employees or persons outside M&T and breaches in data and cybersecurity; changes in accounting policies or procedures as may be required by the FASB, regulatory agencies or legislation; increasing price, product and service competition by competitors, including new entrants; technological developments and changes; the ability to continue to introduce competitive new products and services on a timely, cost-effective basis; the mix of products and services; protection and validity of intellectual property rights; reliance on large customers; technological, implementation and cost/financial risks in large, multi-year contracts; continued availability of financing; financial resources in the amounts, at the times and on the terms required to support M&T and its subsidiaries' future businesses; and material differences in the actual financial results of merger, acquisition, divestment and investment activities compared with M&T's initial expectations, including the full realization of anticipated cost savings and revenue enhancements.
+
+These are representative of the factors that could affect the outcome of the forward-looking statements. In addition, as noted, such statements could be affected by general industry and market conditions and growth rates, general economic and political conditions, either nationally or in the states in which M&T and its subsidiaries do business, and other factors. Further details regarding such factors, risks and uncertainties related to the Company are described in the "Risk Factors" section of this Form 10-K. Forward-looking statements speak only as of the date they are made, and the Company assumes no duty and does not undertake to update forward-looking statements.
+
+Table 48
+
+QUARTERLY TRENDS
+
+__________________________________________________________________________________
+
+(a) Excludes amortization and balances related to goodwill and core deposit and other intangible assets and merger-related expenses (when incurred) which, except in the calculation of the efficiency ratio, are net of applicable income tax effects. A reconciliation of net income and net operating income appears in Table 49.
+
+(b) Excludes impact of merger-related expenses (when incurred) and net securities transactions.
+
+(c) The difference between total assets and total tangible assets, and common shareholders’ equity and tangible common shareholders’ equity, represents goodwill, core deposit and other intangible assets, net of applicable deferred tax balances. A reconciliation of such balances appears in Table 49.
+
+Table 49
+
+RECONCILIATION OF QUARTERLY GAAP TO NON-GAAP MEASURES
+
+__________________________________________________________________________________
+
+(a) After any related tax effect.

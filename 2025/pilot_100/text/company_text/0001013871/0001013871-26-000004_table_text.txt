@@ -1,0 +1,727 @@
+[TABLE 001]
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Fiscal Year ended December 31 , 2025 . ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Transition period from to .
+[END TABLE 001]
+
+[TABLE 002]
+Delaware (State or other jurisdiction of incorporation or organization) 41-1724239 (I.R.S. Employer Identification No.) 1301 McKinney Street , Houston , Texas (Address of principal executive offices) 77010 (Zip Code)
+[END TABLE 002]
+
+[TABLE 003]
+Title of Each Class Trading Symbol(s) Name of Exchange on Which Registered Common Stock, par value $0.01 NRG New York Stock Exchange Common Stock, par value $0.01 NRG NYSE Texas
+[END TABLE 003]
+
+[TABLE 004]
+Large Accelerated Filer ☒ Accelerated filer ☐ Non-accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐
+[END TABLE 004]
+
+[TABLE 005]
+Class Outstanding at January 31, 2026 Common Stock, par value $0.01 per share 214,677,543
+[END TABLE 005]
+
+[TABLE 006]
+GLOSSARY OF TERMS 3 PART I 7 Item 1 — Business 7 Item 1A — Risk Factors 23 Item 1B — Unresolved Staff Comments 39 Item 1C — Cybersecurity 39 Item 2 — Properties 41 Item 3 — Legal Proceedings 42 Item 4 — Mine Safety Disclosures 42 PART II 43 Item 5 — Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 43 Item 6 — Reserved 44 Item 7 — Management's Discussion and Analysis of Financial Condition and Results of Operations 44 Item 7A — Quantitative and Qualitative Disclosures About Market Risk 73 Item 8 — Financial Statements and Supplementary Data 76 Item 9 — Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 76 Item 9A — Controls and Procedures 77 Item 9B — Other Information 79 Item 9C— Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 79 PART III 80 Item 10 — Directors, Executive Officers and Corporate Governance 80 Item 11 — Executive Compensation 80 Item 12 — Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 80 Item 13 — Certain Relationships and Related Transactions, and Director Independence 81 Item 14 — Principal Accounting Fees and Services 81 PART IV 82 Item 15 — Exhibits and Financial Statement Schedules 82 EXHIBIT INDEX 162 Item 16 — Form 10-K Summary 167
+[END TABLE 006]
+
+[TABLE 007]
+ACE Affordable Clean Energy Adjusted EBITDA Adjusted earnings before interest, taxes, depreciation and amortization AESO Alberta Electric System Operator ARO Asset Retirement Obligation ASC The FASB Accounting Standards Codification, which the FASB established as the source of authoritative GAAP ASR Accelerated Share Repurchase ASU Accounting Standards Updates – updates to the ASC AUC Alberta Utilities Commission BTU British Thermal Unit Business NRG Business, which serves business customers CAA Clean Air Act CAISO California Independent System Operator CAMT 15% Corporate Alternative Minimum Tax enacted by the IRA on August 16, 2022 CDD Cooling Degree Day Cedar Bayou 5 Cedar Bayou Unit 5 generation facility, a 689 MW natural gas-fueled combined cycle plant CFTC U.S. Commodity Futures Trading Commission CO 2 Carbon Dioxide CO 2 e Carbon Dioxide Equivalents Company NRG Energy, Inc. CONE Cost of New Entry Convertible Senior Notes NRG’s unsecured 2.750% Convertible Senior Notes due 2048, which were redeemed on July 8, 2025 Cottonwood Cottonwood Generating Station, a 1,139 MW natural gas-fueled plant. NRG leased and operated the plant through May 2025 CPP Clean Power Plan CPUC California Public Utilities Commission D.C. Circuit U.S. Court of Appeals for the District of Columbia Circuit DOJ U.S. Department of Justice DSI Dry Sorbent Injection DSU Deferred Stock Unit Dth Dekatherms Dual fuel customers Customer that have both electricity and natural gas service with the Company Economic gross margin Sum of retail revenue, energy revenue, capacity revenue and other revenue, less cost of fuels, purchased energy and other cost of sales EGU Electric Generating Unit ELG Effluent Limitations Guidelines which are EPA regulations issued under the federal Clean Water Act EPA U.S. Environmental Protection Agency EPC Engineering, Procurement and Construction ERCOT Electric Reliability Council of Texas, the Independent System Operator and the regional reliability coordinator of the various electricity systems within Texas ESPP NRG Energy, Inc. Amended and Restated Employee Stock Purchase Plan Exchange Act The Securities Exchange Act of 1934, as amended FASB Financial Accounting Standards Board FERC Federal Energy Regulatory Commission
+[END TABLE 007]
+
+[TABLE 008]
+FGD Flue gas desulfurization FPA Federal Power Act FTRs Financial Transmission Rights GAAP Generally accepted accounting principles in the United States GHG Greenhouse Gas Green Mountain Energy Green Mountain Energy Company Greens Bayou 6 Greens Bayou Unit 6 generation facility, a 443 MW natural gas-fueled peaker plant GW Gigawatts GWh Gigawatt Hours HDD Heating Degree Day Heat Rate A measure of thermal efficiency computed by dividing the total BTU content of the fuel burned by the resulting kWhs generated. Heat Rates can be expressed as either gross or net Heat Rates, depending whether the electricity output measured is gross or net generation and is generally expressed as BTU per net kWh Home NRG Home, which serves residential customers ICE Intercontinental Exchange IESO Independent Electricity System Operator IoT Internet of Things IRA Inflation Reduction Act ISO Independent System Operator, also referred to as RTOs ISO-NE ISO New England Inc. Ivanpah Ivanpah Solar Electric Generation Station, a 385 MW solar thermal power plant located in California's Mojave Desert in which NRG owns 54.5% interest kWh Kilowatt-hours LSEs Load Serving Entities LS Power LS Power Equity Advisors, LLC LSP Portfolio The acquisition of a portfolio of natural gas and dual fuel generation and other assets from LS Power LTIPs Collectively, the NRG LTIP and the Vivint LTIP MDth Thousand Dekatherms Midwest Generation Midwest Generation, LLC MISO Midcontinent Independent System Operator, Inc. MMBtu Million British Thermal Units MMDth Million Dekatherms MW Megawatts MWh Saleable megawatt hour net of internal/parasitic load megawatt-hour NAAQS National Ambient Air Quality Standards NEPOOL New England Power Pool NERC North American Electric Reliability Corporation NERC-CIP North American Electric Reliability Corporation Critical Infrastructure Protection Net Exposure Counterparty credit exposure to NRG, net of collateral Net Generation The net amount of electricity produced, expressed in kWhs or MWhs, that is the total amount of electricity generated (gross) minus the amount of electricity used during generation Net Revenue Rates Sum of retail revenues less TDSP transportation charges NIST National Institute of Standards and Technology Nodal Nodal Exchange is a derivatives exchange NOL Net Operating Loss NO x Nitrogen Oxides
+[END TABLE 008]
+
+[TABLE 009]
+NPNS Normal Purchase Normal Sale NRC U.S. Nuclear Regulatory Commission NRG NRG Energy, Inc. NRG LTIP NRG Energy, Inc. Amended and Restated Long-Term Incentive Plan, as amended NRG Receivables NRG Receivables LLC, a wholly-owned indirect subsidiary of the Company Nuclear Decommissioning Trust Fund NRG's nuclear decommissioning trust fund assets, which were for the Company's portion of the decommissioning of the STP, units 1 & 2 through the sale of STP on November 1, 2023 NYISO New York Independent System Operator NYMEX New York Mercantile Exchange OCI/OCL Other Comprehensive Income/(Loss) OECD Organization for Economic Cooperation and Development Peaking Units expected to satisfy demand requirements during the periods of greatest or peak load on the system PG&E PG&E Corporation (NYSE: PCG) and its primary operating subsidiary, Pacific Gas and Electric Company PJM PJM Interconnection, LLC PM2.5 Particulate Matter that has a diameter of less than 2.5 micrometers PPA Power Purchase Agreement PSU Performance Stock Unit PUCT Public Utility Commission of Texas RCRA Resource Conservation and Recovery Act of 1976 Receivables Facility NRG Receivables LLC, a bankruptcy remote, special purpose, wholly-owned indirect subsidiary of the Company's $2.3 billion accounts receivables securitization facility due 2026, which was last amended on June 20, 2025 Receivables Securitization Facilities Collectively, the Receivables Facility and the Repurchase Facility RECs Renewable Energy Certificates Renewable PPA A third-party PPA entered into directly with a renewable generation facility for the offtake of the RECs or other similar environmental attributes generated by such facility, coupled with the associated power generated by that facility Renewables Consists of the following projects in which NRG has an ownership interest: Ivanpah and solar generating stations located at various NFL Stadiums Renewables Platform The renewable operating and development platform sold to Global Infrastructure Partners with NRG's interest in NRG Yield Repurchase Facility NRG's $150 million uncommitted repurchase facility related to the Receivables Facility due 2024, which was terminated on June 21, 2024 Revolving Credit Facility The Company's $4.6 billion revolving credit facility due 2029, which was last amended on May 27, 2025 RGGI Regional Greenhouse Gas Initiative RMR Reliability Must-Run RPS Renewable Portfolio Standards RPSU Relative Performance Stock Unit RSU Restricted Stock Unit RTO Regional Transmission Organization, also referred to as ISOs SCR Selective Catalytic Reduction Control System SEC U.S. Securities and Exchange Commission Securities Act The Securities Act of 1933, as amended Senior Credit Facility NRG's senior secured credit facility, comprised of the Revolving Credit Facility and the Term Loan B Facility
+[END TABLE 009]
+
+[TABLE 010]
+Senior Notes As of December 31, 2025, NRG's $9.9 billion outstanding unsecured senior notes consisting of $821 million of 5.750% senior notes due 2028, $733 million of the 5.250% senior notes due 2029, $500 million of the 3.375% senior notes due 2029, $798 million of the 5.750% senior notes due 2029, $1.0 billion of the 3.625% senior notes due 2031, $480 million of the 3.875% senior notes due 2032, $925 million of the 6.000% senior notes due 2033, $950 million of the 6.250% senior notes due 2034, $1.3 billion of the 5.750% senior notes due 2034 and $2.4 billion of the 6.000% senior notes due 2036 Senior Secured First Lien Notes As of December 31, 2025, NRG’s $3.4 billion outstanding Senior Secured First Lien Notes consists of $900 million of the 2.450% Senior Secured First Lien Notes due 2027, $500 million of the 4.450% Senior Secured First Lien Notes due 2029, $625 million of the 4.734% Senior Secured First Lien Notes due 2030, $740 million of the 7.000% Senior Secured First Lien Notes due 2033 and $625 million of the 5.407% Senior Secured First Lien Notes due 2035 Series A Preferred Stock As of December 31, 2025, NRG's Series A Preferred Stock consists of 650,000 outstanding shares of the 10.25% Series A Fixed-Rate Reset Cumulative Redeemable Perpetual Preferred Stock, with a $1,000 liquidation preference per share Services NRG Services, which primarily includes the services businesses acquired in the Direct Energy acquisition SO 2 Sulfur Dioxide SOFR Secured overnight financing rate South Central Portfolio NRG's South Central Portfolio, which owned and operated a portfolio of generation assets consisting of Bayou Cove, Big Cajun-I, Big Cajun-II, Cottonwood and Sterlington, was sold on February 4, 2019. NRG leased the Cottonwood facility through May 2025 S&P Standard & Poor's STP South Texas Project — a nuclear generating facility located near Bay City, Texas in which NRG owned a 44% interest. NRG closed on the sale of its interest in STP on November 1, 2023 STPNOC South Texas Project Nuclear Operating Company TCJA The Tax Cuts and Jobs Act of 2017 TDSP Transmission/distribution service provider TEF Texas Energy Fund Texas Generation Portfolio The acquisition of a portfolio of power generation facilities and other assets from Rockland Capital, LLC Texas Genco Texas Genco LLC T.H. Wharton T.H. Wharton generation facility includes a 1,002 MW natural gas-fueled plant, which is currently operational, and an additional 415 MW natural gas-fueled peaker plant, which is currently under construction TSR Total Shareholder Return TWh Terawatt Hour U.S. United States of America VaR Value at Risk VIE Variable Interest Entity Vivint LTIP NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) (formerly known as the Vivint Smart Home, Inc. Long-Term Incentive Plan), assumed by NRG pursuant to merger between NRG and Vivint Winter Storm Uri A major winter and ice storm that had widespread impacts across North America occurring in February 2021
+[END TABLE 010]
+
+[TABLE 011]
+(In MW) (a) Type Texas East West/Other (b) Total Natural gas 5,069 80 113 5,262 Coal 4,202 1,538 605 6,345 Oil — 455 — 455 Utility Scale Solar — — 214 214 Total generation capacity 9,271 2,073 932 12,276
+[END TABLE 011]
+
+[TABLE 012]
+Year ended December 31, 2025 2024 2023 Sales volumes - Electricity (in GWh) Home - Texas 38,817 39,353 40,032 Home - East 15,408 15,229 12,838 Home - West/Other 2,542 2,355 2,243 Business - Texas 39,278 40,274 40,250 Business - East 45,342 46,724 46,438 Business - West/Other 12,613 10,513 10,393 Total Load 154,000 154,448 152,194 Sales volumes - Natural gas (in MDth) Home - East 51,028 49,927 49,990 Home - West/Other 73,926 75,898 75,150 Business - East 1,549,286 1,525,094 1,587,052 Business - West/Other 182,581 181,972 179,888 Total Load 1,856,821 1,832,891 1,892,080 Customer count - Electricity customers (a)(b) (in thousands) Home - Texas Average retail 2,899 2,940 2,878 Ending retail 2,860 2,909 2,928 Home - East Average retail 1,816 1,777 1,466 Ending retail 1,803 1,807 1,752 Home - West/Other Average retail 312 324 324 Ending retail 325 301 336 Customer count - Natural gas customers (b) (in thousands) Home - East Average retail 343 388 390 Ending retail 319 384 385 Home - West/Other Average retail 338 353 381 Ending retail 325 347 358 Total Customer count (in thousands) Average retail - Home - Electricity and Natural gas 5,708 5,782 5,439 Average - Vivint Smart Home (c) 2,327 2,171 2,077 Ending retail - Home - Electricity and Natural gas 5,632 5,748 5,759 Ending - Vivint Smart Home (c)(d) 2,419 2,226 2,111 Total Ending retail and Vivint Smart Home 8,051 7,974 7,870 (a) Home customer count includes recurring residential customers, and community choice (b) Dual fuel customers are included within electricity customer counts only (c) Vivint Smart Home includes customers that also purchase other NRG products such as electricity (d) Vivint Smart Home includes Home Protection (non-Vivint) customers of 67 thousand, 72 thousand and 68 thousand as of December 31, 2025, 2024 and 2023, respectively
+[END TABLE 012]
+
+[TABLE 013]
+Year Ended December 31, 2025 Fossil Plants (a)(b) Net Owned Capacity (MW) (a) Net Generation (In thousands of MWh) (a)(b) Annual Equivalent Availability Factor Average Net Heat Rate BTU/kWh Net Capacity Factor Texas 9,271 28,728 70.0 % 11,087 34.8 % East 2,073 3,722 61.0 % 13,237 19.9 % West/Other 4 2,118 59.5 % 7,443 49.1 %
+[END TABLE 013]
+
+[TABLE 014]
+Year Ended December 31, 2024 Fossil Plants (a) Net Owned Capacity (MW) Net Generation (In thousands of MWh) (a) Annual Equivalent Availability Factor Average Net Heat Rate BTU/kWh Net Capacity Factor Texas 8,527 23,350 70.8 % 11,337 30.1 % East 2,483 2,372 78.4 % 13,956 10.9 % West/Other 1,143 5,977 70.2 % 7,498 57.6 %
+[END TABLE 014]
+
+[TABLE 015]
+Net Generation (In thousands of MWh) 2025 2024 2023 Texas Coal 21,184 15,433 15,576 Gas 7,544 7,917 7,333 Nuclear (a) — — 7,867 Total Texas 28,728 23,350 30,776 East Coal 3,701 2,369 1,328 Oil 14 2 3 Gas 7 1 685 Total East 3,722 2,372 2,016 West/Other Gas (b) 2,114 5,974 5,899 Renewables 4 3 4 Total West/Other 2,118 5,977 5,903 Total generation performance 34,568 31,699 38,695
+[END TABLE 015]
+
+[TABLE 016]
+Name of Facility Power Market Plant Type Primary Fuel Location Rated MW Capacity (a) Net MW Capacity (b) % Owned Texas Cedar Bayou ERCOT Fossil Natural Gas TX 1,495 1,495 100.0 Cedar Bayou 4 ERCOT Fossil Natural Gas TX 504 252 50.0 Chamon ERCOT Fossil Natural Gas TX 92 92 100.0 Greens Bayou ERCOT Fossil Natural Gas TX 327 327 100.0 Limestone ERCOT Fossil Coal TX 1,688 1,688 100.0 Port Comfort ERCOT Fossil Natural Gas TX 84 84 100.0 San Jacinto ERCOT Fossil Natural Gas TX 160 160 100.0 SJRR ERCOT Fossil Natural Gas TX 90 90 100.0 Texas Gulf Sulphur (Wharton) ERCOT Fossil Natural Gas TX 75 75 100.0 T.H. Wharton ERCOT Fossil Natural Gas TX 1,002 1,002 100.0 Victoria ERCOT Fossil Natural Gas TX 288 288 100.0 Victoria Port II ERCOT Fossil Natural Gas TX 86 86 100.0 W.A. Parish ERCOT Fossil Coal TX 2,514 2,514 100.0 W.A. Parish ERCOT Fossil Natural Gas TX 1,118 1,118 100.0 Total Texas 9,523 9,271 East Chalk Point PJM Fossil Natural Gas MD 80 80 100.0 Fisk PJM Fossil Oil IL 171 171 100.0 Indian River PJM Fossil Oil DE 16 16 100.0 Powerton (c) PJM Fossil Coal IL 1,538 1,538 100.0 Vienna PJM Fossil Oil MD 167 167 100.0 Waukegan PJM Fossil Oil IL 101 101 100.0 Total East 2,073 2,073 West/Other Gladstone Fossil Coal AUS 1,613 605 37.5 Ivanpah (d) CAISO Renewable Solar CA 385 210 54.5 Midway-Sunset CAISO Fossil Natural Gas CA 226 113 50.0 Stadiums and Other Renewable Solar various 4 4 100.0 Total West/Other 2,228 932 Total Fleet 13,824 12,276
+[END TABLE 016]
+
+[TABLE 017]
+For the three months ended December 31, 2025 Total Number of Shares Purchased (a) Average Price Paid per Share (b) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (in millions) (c)(d) Month #1 (October 1, 2025 to October 31, 2025) 772,500 $ 167.41 772,500 $ 3,525 Month #2 (November 1, 2025 to November 30, 2025) 701,166 $ 166.92 701,166 $ 3,408 Month #3 (December 1, 2025 to December 31, 2025) 623,463 $ 162.29 623,463 $ 3,307 Total at December 31, 2025 2,097,129 $ 165.72 2,097,129
+[END TABLE 017]
+
+[TABLE 018]
+12/31/2020 12/31/2021 12/31/2022 12/31/2023 12/31/2024 12/31/2025 NRG Energy, Inc. $ 100.00 $ 122.43 $ 93.70 $ 158.57 $ 283.28 $ 506.68 S&P 500 100.00 129.54 106.08 133.97 167.49 197.43 UTY 100.00 120.05 120.83 109.76 132.68 155.39
+[END TABLE 018]
+
+[TABLE 019]
+Average On-Peak Power Price ($/MWh) Year Ended December 31, 2025 vs 2024 Region 2025 2024 Change % Texas ERCOT - Houston (a) $ 38.04 $ 32.05 19 % ERCOT - North (a) 36.21 30.71 18 % East NY J/NYC (b) 76.55 45.25 69 % NEPOOL (b) 75.58 46.59 62 % COMED (PJM) (b) 46.24 31.86 45 % PJM West Hub (b) 60.09 40.75 47 % West CAISO - SP15 (b) 28.56 29.95 (5) % MISO - Louisiana Hub (b) 44.05 30.26 46 %
+[END TABLE 019]
+
+[TABLE 020]
+Year Ended December 31, (In millions) 2025 2024 Change Revenue Retail revenue $ 29,543 $ 27,149 $ 2,394 Energy revenue (a) 590 500 90 Capacity revenue (a) 280 177 103 Mark-to-market for economic hedging activities 12 (3) 15 Contract amortization (6) (29) 23 Other revenues (a)(b) 294 336 (42) Total revenue 30,713 28,130 2,583 Operating Costs and Expenses Cost of fuel 1,195 890 (305) Purchased energy and other cost of sales (c) 21,194 19,371 (1,823) Mark-to-market for economic hedging activities 358 (209) (567) Contract and emissions credit amortization (c) 53 49 (4) Operations and maintenance 1,568 1,607 39 Other cost of operations 393 392 (1) Cost of operations (excluding depreciation and amortization shown below) 24,761 22,100 (2,661) Depreciation and amortization 1,406 1,403 (3) Impairment losses — 36 36 Selling, general and administrative costs (excluding amortization of customer acquisition costs of $295, and $204, respectively, which are included in depreciation and amortization shown separately above) 2,602 2,345 (257) Acquisition-related transaction and integration costs 74 30 (44) Total operating costs and expenses 28,843 25,914 (2,929) (Loss)/Gain on sale of assets (25) 208 (233) Operating Income 1,845 2,424 (579) Other Income/(Expense) Equity in earnings of unconsolidated affiliates 11 20 (9) Impairment losses on investments (39) (7) (32) Other income, net 68 44 24 Loss on debt extinguishment (10) (382) 372 Interest expense (741) (651) (90) Total other expenses (711) (976) 265 Income Before Income Taxes 1,134 1,448 (314) Income tax expense 270 323 (53) Net Income $ 864 $ 1,125 $ (261)
+[END TABLE 020]
+
+[TABLE 021]
+Year Ended December 31, 2025 ($ in millions, except otherwise noted) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue $ 10,896 $ 13,467 $ 3,054 $ 2,144 $ (18) $ 29,543 Energy revenue 49 441 101 — (1) 590 Capacity revenue — 267 14 — (1) 280 Mark-to-market for economic hedging activities — 7 10 — (5) 12 Contract amortization — (6) — — — (6) Other revenue (a) 194 87 23 — (10) 294 Total revenue 11,139 14,263 3,202 2,144 (35) 30,713 Cost of fuel (858) (256) (80) — (1) (1,195) Purchased energy and other costs of sales (b)(c)(d) (6,409) (11,899) (2,693) (201) 8 (21,194) Mark-to-market for economic hedging activities (370) 1 6 — 5 (358) Contract and emissions credit amortization (13) (31) (9) — — (53) Depreciation and amortization (374) (148) (32) (810) (42) (1,406) Gross margin $ 3,115 $ 1,930 $ 394 $ 1,133 $ (65) $ 6,507 Less: Mark-to-market for economic hedging activities, net (370) 8 16 — — (346) Less: Contract and emissions credit amortization, net (13) (37) (9) — — (59) Less: Depreciation and amortization (374) (148) (32) (810) (42) (1,406) Economic gross margin $ 3,872 $ 2,107 $ 419 $ 1,943 $ (23) $ 8,318 (a) Includes trading gains and losses and ancillary revenues (b) Includes capacity and emissions credits (c) Includes $3.5 billion, $247 million and $1.1 billion of TDSP expense in Texas, East, and West/Other, respectively (d) Excludes depreciation and amortization shown separately
+[END TABLE 021]
+
+[TABLE 022]
+Year Ended December 31, 2025 Business Metrics Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Home electricity sales volume (GWh) 38,817 15,408 2,542 — — 56,767 Business electricity sales volume (GWh) 39,278 45,342 12,613 — — 97,233 Home natural gas retail sales volumes (MDth) — 51,028 73,926 — — 124,954 Business natural gas retail sales volumes (MDth) — 1,549,286 182,581 — — 1,731,867 Average retail Home customer count (in thousands) (a) 2,899 2,159 650 — — 5,708 Ending retail Home customer count (in thousands) (a) 2,860 2,122 650 — — 5,632 Average Vivint Smart Home customer count (in thousands) (b) — — — 2,327 — 2,327 Ending Vivint Smart Home customer count (in thousands) (b)(c) — — — 2,419 — 2,419 GWh sold 28,728 5,970 2,118 — — 36,816 GWh generated (d) 28,728 3,722 2,118 — — 34,568 (a) Home customer count includes recurring residential customers and community choice (b) Vivint Smart Home includes customers that also purchase other NRG products such as electricity (c) Vivint Smart Home includes 67 thousand Home Protection (non-Vivint) customers (d) Includes owned and leased generation, excludes tolled generation and equity investments. Cottonwood lease ended in May 2025
+[END TABLE 022]
+
+[TABLE 023]
+Year Ended December 31, 2024 ($ in millions, except otherwise noted) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue $ 10,400 $ 11,247 $ 3,528 $ 1,991 $ (17) $ 27,149 Energy revenue 41 242 229 — (12) 500 Capacity revenue — 156 24 — (3) 177 Mark-to-market for economic hedging activities — (23) 16 — 4 (3) Contract amortization — (27) (2) — — (29) Other revenue (a) 210 114 24 — (12) 336 Total revenue 10,651 11,709 3,819 1,991 (40) 28,130 Cost of fuel (647) (135) (108) — — (890) Purchased energy and other costs of sales (b)(c)(d) (6,583) (9,579) (3,080) (151) 22 (19,371) Mark-to-market for economic hedging activities (684) 1,083 (186) — (4) 209 Contract and emissions credit amortization (9) (31) (9) — — (49) Depreciation and amortization (323) (158) (99) (782) (41) (1,403) Gross margin $ 2,405 $ 2,889 $ 337 $ 1,058 $ (63) $ 6,626 Less: Mark-to-market for economic hedging activities, net (684) 1,060 (170) — — 206 Less: Contract and emissions credit amortization, net (9) (58) (11) — — (78) Less: Depreciation and amortization (323) (158) (99) (782) (41) (1,403) Economic gross margin $ 3,421 $ 2,045 $ 617 $ 1,840 $ (22) $ 7,901 (a) Includes trading gains and losses and ancillary revenues (b) Includes capacity and emissions credits (c) Includes $3.3 billion, $278 million and $1.2 billion of TDSP expense in Texas, East, and West/Other, respectively (d) Excludes depreciation and amortization shown separately Business Metrics Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Home electricity sales volume (GWh) 39,353 15,229 2,355 — — 56,937 Business electricity sales volume (GWh) 40,274 46,724 10,513 — — 97,511 Home natural gas retail sales volumes (MDth) — 49,927 75,898 — — 125,825 Business natural gas retail sales volumes (MDth) — 1,525,094 181,972 — — 1,707,066 Average retail Home customer count (in thousands) (a) 2,940 2,165 677 — — 5,782 Ending retail Home customer count (in thousands) (a) 2,909 2,191 648 — — 5,748 Average Vivint Smart Home customer count (in thousands) (b) — — — 2,171 — 2,171 Ending Vivint Smart Home customer count (in thousands) (b)(c) — — — 2,226 — 2,226 GWh sold 23,350 4,442 5,977 — — 33,769 GWh generated (d) 23,350 2,372 5,977 — — 31,699 (a) Home customer count includes recurring residential customers and community choice (b) Vivint Smart Home includes customers that also purchase other NRG products such as electricity (c) Vivint Smart Home includes 72 thousand Home Protection (non-Vivint) customers (d) Includes owned and leased generation, excludes tolled generation and equity investments
+[END TABLE 023]
+
+[TABLE 024]
+Year ended December 31, Quarter ended December 31, Quarter ended September 30, Quarter ended June 30, Quarter ended March 31, Weather Metrics Texas East West/Other (a) Texas East West/Other (a) Texas East West/Other (a) Texas East West/Other (a) Texas East West/Other (a) 2025 CDDs (b) 3,369 1,256 1,988 456 72 208 1,659 773 1,123 1,102 379 592 152 32 65 HDDs (b) 1,513 4,840 2,039 450 1,836 660 — 33 3 49 482 195 1,014 2,489 1,181 2024 CDDs 3,464 1,360 2,132 461 83 251 1,714 814 1,194 1,173 431 638 116 32 49 HDDs 1,309 4,236 1,968 393 1,560 658 — 28 11 31 435 200 885 2,213 1,099 10-year average CDDs 3,169 1,342 1,988 318 91 177 1,719 847 1,195 1,014 362 563 118 42 53 HDDs 1,603 4,575 2,039 610 1,605 747 5 45 9 56 525 196 932 2,400 1,087
+[END TABLE 024]
+
+[TABLE 025]
+(In millions) Higher gross margin due to the following: • an increase in net revenue of $388 million, primarily driven by changes in customer term, product and mix • a 3%, or $97 million decrease in cost to serve the retail load, driven by lower realized power prices associated with the Company’s diversified supply strategy $ 485 Lower gross margin due to a decrease in load of 1.9 TWhs, or $63 million, driven by changes in customer mix and attrition, partially offset by an increase in load of 0.4 TWhs, or $25 million attributed to weather (38) Other 4 Increase in economic gross margin $ 451 Increase in mark-to-market for economic hedging primarily due to net unrealized gains/losses on open positions related to economic hedges 314 Increase in contract and emissions credit amortization (4) Increase in depreciation and amortization (51) Increase in gross margin $ 710
+[END TABLE 025]
+
+[TABLE 026]
+(In millions) Lower gross margin due to the deactivation of Indian River Unit 4 in February 2025 $ (52) Higher natural gas gross margin including the impact of transportation and storage contract optimization, resulting in higher net revenue rates of $1.00 per Dth, or $1.62 billion, from changes in customer term, product and mix, partially offset by higher supply cost of $0.90 per Dth, or $1.47 billion, driven by an increase in gas costs 151 Lower electric gross margin due to higher supply costs of $12.95 per MWh, or $782 million driven primarily by increases in power prices, partially offset by higher net revenue rates as a result of changes in customer term, product and mix of $10.60 per MWh, or $620 million (162) Higher gross margin due to an increase in generation volumes as a result of spark spread expansion in NYISO, partially offset by a decrease in average realized prices at Midwest Generation 25 Higher gross margin due to a 159% increase in PJM capacity prices and a 20% increase in NYISO capacity prices 81 Higher gross margin from demand response activities due to higher PJM auction clearing prices and curtailment events in 2025 17 Other 2 Increase in economic gross margin $ 62 Decrease in mark-to-market for economic hedging primarily due to net unrealized gains/losses on open positions related to economic hedges (1,052) Decrease in contract amortization 21 Decrease in depreciation and amortization 10 Decrease in gross margin $ (959)
+[END TABLE 026]
+
+[TABLE 027]
+(In millions) Lower gross margin due to the disposition of Services businesses $ (123) Higher electric gross margin due to lower supply costs of $11.50 per MWh, or $174 million and customer mix of $35 million, partially offset by lower revenue rates of $9.15 per MWh, or $135 million 74 Higher natural gas gross margin due to higher revenue rates of $0.15 per Dth, or $34 million, partially offset by higher supply costs of $0.10 per Dth, or $24 million 10 Lower gross margin at Cottonwood driven by the termination of the facility lease in May 2025 (142) Lower gross margin at Cottonwood is driven by spark spread contraction, partially offset by favorable capacity pricing (12) Other (5) Decrease in economic gross margin $ (198) Increase in mark-to-market for economic hedges primarily due to net unrealized gains/losses on open positions related to economic hedges 186 Decrease in contract amortization 2 Decrease in depreciation and amortization 67 Increase in gross margin $ 57
+[END TABLE 027]
+
+[TABLE 028]
+(In millions) Higher gross margin driven by growth in customers of $112 million and higher monthly revenue rates of $0.72 per customer, or $20 million $ 132 Lower gross margin due to a decrease in non-recurring sales revenue (30) Higher gross margin primarily due to an increase in home protection plan sales 14 Lower gross margin due to an increase in personnel and related support costs (8) Other (5) Increase in economic gross margin $ 103 Increase in depreciation and amortization (28) Increase in gross margin $ 75
+[END TABLE 028]
+
+[TABLE 029]
+Year Ended December 31, 2025 (In millions) Texas East West/Other Eliminations Total Mark-to-market results in revenues Reversal of previously recognized unrealized (gains)/losses on settled positions related to economic hedges $ — $ (17) $ 6 $ — $ (11) Reversal of acquired gain positions related to economic hedges — (1) — — (1) Net unrealized gains on open positions related to economic hedges — 25 4 (5) 24 Total mark-to-market gains in revenues $ — $ 7 $ 10 $ (5) $ 12 Mark-to-market results in operating costs and expenses Reversal of previously recognized unrealized (gains)/losses on settled positions related to economic hedges (a) $ (504) $ (81) $ 164 $ — $ (421) Reversal of acquired loss/(gain) positions related to economic hedges 51 (3) — — 48 Net unrealized gains/(losses) on open positions related to economic hedges 83 85 (158) 5 15 Total mark-to-market (losses)/gains in operating costs and expenses $ (370) $ 1 $ 6 $ 5 $ (358)
+[END TABLE 029]
+
+[TABLE 030]
+Year Ended December 31, 2024 (In millions) Texas East West/Other Eliminations Total Mark-to-market results in revenues Reversal of previously recognized unrealized gains on settled positions related to economic hedges $ — $ (33) $ (1) $ 4 $ (30) Reversal of acquired gain positions related to economic hedges — (1) — — (1) Net unrealized gains on open positions related to economic hedges — 11 17 — 28 Total mark-to-market (losses)/gains in revenues $ — $ (23) $ 16 $ 4 $ (3) Mark-to-market results in operating costs and expenses Reversal of previously recognized unrealized (gains)/losses on settled positions related to economic hedges (a) $ (663) $ 740 $ 63 $ (4) $ 136 Reversal of acquired loss/(gain) positions related to economic hedges 9 (5) 2 — 6 Net unrealized (losses)/gains on open positions related to economic hedges (30) 348 (251) — 67 Total mark-to-market (losses)/gains in operating costs and expenses $ (684) $ 1,083 $ (186) $ (4) $ 209
+[END TABLE 030]
+
+[TABLE 031]
+Year ended December 31, (In millions) 2025 2024 Trading gains Realized $ 29 $ 31 Unrealized 5 1 Total trading gains $ 34 $ 32
+[END TABLE 031]
+
+[TABLE 032]
+(In millions) Texas East West/Other Vivint Smart Home Corporate Eliminations Total Year Ended December 31, 2025 $ 790 $ 421 $ 81 $ 263 $ 18 $ (5) $ 1,568 Year Ended December 31, 2024 783 364 204 254 7 (5) 1,607
+[END TABLE 032]
+
+[TABLE 033]
+(In millions) Decrease due to the final property insurance claim for the extended outage at W.A. Parish received in 2025 $ (100) Decrease driven by the expiration of the Cottonwood facility lease in May 2025 (57) Decrease due to the disposition of Services businesses (53) Decrease driven by a favorable resolution of a regulatory matter in 2025 (21) Increase in planned major maintenance expenditures associated with the scope of outages primarily in Texas and at Powerton 106 Increase driven by higher retail operations costs 27 Increase due to the acquisition of the Texas Generation Portfolio facilities in April 2025 22 Increase in variable operations and maintenance expenditures driven by higher generation at Powerton 13 Increase due to deactivation and site preparation costs associated with future development projects 11 Increase driven by higher Vivint Smart Home operations costs to support customer growth 7 Other 6 Decrease in operations and maintenance expense $ (39)
+[END TABLE 033]
+
+[TABLE 034]
+(In millions) Texas East West/Other Vivint Smart Home Total Year Ended December 31, 2025 $ 246 $ 135 $ 7 $ 5 $ 393 Year Ended December 31, 2024 236 136 14 6 392
+[END TABLE 034]
+
+[TABLE 035]
+(In millions) Increase in current year ARO cost estimates at Jewett Mine $ 7 Decrease in property taxes driven by the expiration of the Cottonwood facility lease in May 2025 (5) Other (1) Increase in other cost of operations $ 1
+[END TABLE 035]
+
+[TABLE 036]
+(In millions) Texas East West/Other Vivint Smart Home Corporate Total Year Ended December 31, 2025 $ 374 $ 148 $ 32 $ 810 $ 42 $ 1,406 Year Ended December 31, 2024 323 158 99 782 41 1,403
+[END TABLE 036]
+
+[TABLE 037]
+(In millions) Increase in amortization of capitalized contract costs primarily in the Vivint Smart Home segment $ 178 Decrease in amortization driven by the expected roll off of the acquired Vivint Smart Home intangibles (121) Decrease in amortization due to the disposition of Services businesses (37) Decrease in amortization primarily due to the roll off of intangibles in Texas, East and West (30) Other 13 Increase in depreciation and amortization $ 3
+[END TABLE 037]
+
+[TABLE 038]
+(In millions) Texas East West/Other Vivint Smart Home Corporate/ Eliminations Total Year Ended December 31, 2025 $ 948 $ 668 $ 150 $ 809 $ 27 $ 2,602 Year Ended December 31, 2024 841 586 215 663 40 2,345
+[END TABLE 038]
+
+[TABLE 039]
+(In millions) Increase due to legal matters in 2025 $ 191 Increase in equity linked compensation 60 Increase in personnel costs 59 Increase in marketing and media expenses 16 Decrease in provision for credit losses primarily due to improved customer payment behavior (42) Decrease due to the disposition of Services businesses (38) Other 11 Increase in selling, general and administrative costs $ 257
+[END TABLE 039]
+
+[TABLE 040]
+As of December 31, (In millions) 2025 2024 LSP Portfolio acquisition costs $ 32 $ — Vivint Smart Home integration costs 29 23 Texas Generation Portfolio acquisition costs 5 — Other 8 7 Acquisition-related transaction and integration costs $ 74 $ 30
+[END TABLE 040]
+
+[TABLE 041]
+As of December 31, (In millions) 2025 2024 Sale of the Airtron business unit $ — $ 204 Loss due to the resolution of a tax matter in connection with STP sales agreement (18) — Other asset sales (7) 4 (Loss)/Gain on sale of assets $ (25) $ 208
+[END TABLE 041]
+
+[TABLE 042]
+As of December 31, (In millions) 2025 2024 Interest income $ 83 $ 56 Derivative losses on the Consumer Financing Program (21) (14) Other 6 2 Other Income, net $ 68 $ 44
+[END TABLE 042]
+
+[TABLE 043]
+As of December 31, (In millions) 2025 2024 Repurchase of a portion of the Convertible Senior Notes $ — $ (260) Exchange offer for the Vivint 5.750% Senior Notes, due 2029 — (90) Repayment of the Vivint Senior Secured Term Loan B — (18) Redemption of the Vivint 6.750% Senior Secured Notes, due 2027 — (13) Redemption of the 6.625% Senior Notes, due 2027 — (1) Other (10) — Loss on Debt Extinguishment $ (10) $ (382)
+[END TABLE 043]
+
+[TABLE 044]
+As of January 31, As of December 31, (In millions) 2026 2025 2024 Cash and cash equivalents $ 319 $ 4,708 $ 966 Restricted cash - operating 12 12 4 Restricted cash - reserves (a) 21 18 4 Total 352 4,738 974 Total availability under Revolving Credit Facility and collective collateral facilities (b) 2,688 4,890 4,469 Total liquidity, excluding collateral funds deposited by counterparties $ 3,040 $ 9,628 $ 5,443
+[END TABLE 044]
+
+[TABLE 045]
+S&P Moody's Fitch NRG Energy, Inc. BB Stable Ba1 Stable BB+ Stable Senior Secured Debt BBB- Baa3 BBB- Senior Unsecured Debt BB Ba2 BB+ Preferred Stock B Ba3 BB-
+[END TABLE 045]
+
+[TABLE 046]
+(In millions) Description 2026 2027 2028 2029 2030 Thereafter Total Recourse Debt: 5.750% Senior Notes, due 2028 $ — $ — $ 821 $ — $ — $ — $ 821 5.250% Senior Notes, due 2029 — — — 733 — — 733 3.375% Senior Notes, due 2029 — — — 500 — — 500 5.750% Senior Notes, due 2029 — — — 798 — — 798 3.625% Senior Notes, due 2031 — — — — — 1,030 1,030 3.875% Senior Notes, due 2032 — — — — — 480 480 6.000% Senior Notes, due 2033 — — — — — 925 925 6.250% Senior Notes, due 2034 — — — — — 950 950 5.750% Senior Notes, due 2034 — — — — — 1,250 1,250 6.000% Senior Notes, due 2036 — — — — — 2,400 2,400 2.450% Senior Secured Notes, due 2027 — 900 — — — — 900 4.450% Senior Secured Notes, due 2029 — — — 500 — — 500 4.734% Senior Secured Notes, due 2030 — — — — 625 — 625 7.000% Senior Secured Notes, due 2033 — — — — — 740 740 5.407% Senior Secured Notes, due 2035 — — — — — 625 625 Term Loan B, due 2031 23 23 23 23 23 2,184 2,299 Tax-exempt bonds — — 59 — — 407 466 3.000% T.H. Wharton TEF loan, due 2045 — — — 8 10 171 189 3.000% Cedar Bayou 5 TEF loan, due 2045 — — — — 3 252 255 3.000% Greens Bayou 6 TEF loan, due 2045 — — — — — 90 90 Subtotal Recourse Debt 23 923 903 2,562 661 11,504 16,576 Finance Leases: Finance leases 8 7 4 3 2 — 24 Total Debt and Finance Leases $ 31 $ 930 $ 907 $ 2,565 $ 663 $ 11,504 $ 16,600 Interest Payments $ 905 $ 890 $ 794 $ 709 $ 652 $ 2,088 $ 6,038
+[END TABLE 046]
+
+[TABLE 047]
+(In millions) Maintenance Environmental Investments and Integration Total Texas $ 256 $ 38 $ 682 $ 976 East 17 — — 17 West/Other 7 — 2 9 Vivint Smart Home 17 — 7 24 Corporate 32 — 89 121 Total cash capital expenditures for 2025 (a) 329 38 780 1,147 Integration operating expenses and cost to achieve — — 45 45 Investments — — 203 203 Total cash capital expenditures and investments for the year ended December 31, 2025 $ 329 $ 38 $ 1,028 $ 1,395
+[END TABLE 047]
+
+[TABLE 048]
+SO 2 NO x Mercury Particulate Units State Control Equipment Install Date Control Equipment Install Date Control Equipment Install Date Control Equipment Install Date Limestone 1-2 TX FGD 1985-86 LNBOFA 2002/2003 ACI 2015 ESP 1985-1986 Powerton 5 IL DSI 2016 OFA/SNCR 2003/2012 ACI 2009 ESP/upgrade 1973/2016 Powerton 6 IL DSI 2014 OFA/SNCR 2002/2012 ACI 2009 ESP/upgrade 1976/2014 W.A. Parish 5, 6, 7 TX FF co-benefit 1988 SCR 2004 ACI 2015 FF 1988 W.A. Parish 8 TX FGD 1982 SCR 2004 ACI 2015 FF 1988
+[END TABLE 048]
+
+[TABLE 049]
+ACI - Activated Carbon Injection DSI - Dry Sorbent Injection with Trona ESP - Electrostatic Precipitator FGD - Flue Gas Desulfurization (wet) FF- Fabric Filter LNBOFA - Low NO x Burner with Overfire Air OFA - Overfire Air SCR - Selective Catalytic Reduction SNCR - Selective Non-Catalytic Reduction
+[END TABLE 049]
+
+[TABLE 050]
+(In millions) Total 2026 $ 15 2027 13 2028 3 2029 3 Total $ 34
+[END TABLE 050]
+
+[TABLE 051]
+Year ended December 31, (In millions) 2025 2024 Change Cash provided by operating activities $ 1,913 $ 2,306 $ (393) Cash used by investing activities (1,638) (24) (1,614) Cash provided/(used) by financing activities 3,546 (1,755) 5,301
+[END TABLE 051]
+
+[TABLE 052]
+(In millions) Decrease in working capital primarily related to accounts receivable due to increased rates $ (453) Increase in working capital primarily driven by deferred revenues and changes in ARO cost estimates 428 Increase in operating income adjusted for other non-cash items 312 Changes in cash collateral in support of risk management activities due to change in commodity prices (238) Decrease in working capital due to the payment of the CPI Security Systems, Inc. legal matter (224) Decrease in working capital primarily due to timing of prepayments related to broker fees and insurance (218) $ (393)
+[END TABLE 052]
+
+[TABLE 053]
+(In millions) Increase in capital expenditures $ (675) Increase in cash paid for acquisitions primarily due to the acquisition of the Texas Generation Portfolio in April 2025 (558) Decrease in proceeds from sale of assets primarily due to the sale of the Airtron business unit in 2024 (495) Increase in insurance proceeds for property, plant and equipment, net 97 Increase due to fewer purchases of emissions allowances, net of sales 17 $ (1,614)
+[END TABLE 053]
+
+[TABLE 054]
+(In millions) Increase in proceeds from issuance of long-term debt in 2025 $ 3,476 Increase due to lower repayments of long-term debt and finance leases 2,250 Decrease primarily due to higher payments for share repurchase activity in 2025 (418) Decrease due to payment for settlement of capped call options in 2025 (292) Increase primarily due to debt extinguishment costs in 2024 229 Increase in net receipts from settlement of acquired derivatives 62 Other (6) $ 5,301
+[END TABLE 054]
+
+[TABLE 055]
+(In millions) For the Year Ended December 31, 2025 Revenue (a) $ 28,117 Operating income (b) 1,605 Total other expense (641) Income before income taxes 964 Net Income 700
+[END TABLE 055]
+
+[TABLE 056]
+(In millions) As of December 31, 2025 Current assets (a) $ 9,745 Property, plant and equipment, net 1,531 Non-current assets 15,424 Current liabilities (b) 7,347 Non-current liabilities 18,584
+[END TABLE 056]
+
+[TABLE 057]
+Derivative Activity Gains/(Losses) (In millions) Fair value of contracts as of December 31, 2024 (a) $ 992 Contracts realized or otherwise settled during the period (338) Texas Generation Portfolio contracts acquired during the period (83) Other changes in fair value (174) Fair value of contracts as of December 31, 2025 (a) $ 397
+[END TABLE 057]
+
+[TABLE 058]
+Fair Value of Contracts as of December 31, 2025 (In millions) Maturity Fair Value Hierarchy (Losses)/Gains (a) 1 Year or Less Greater Than 1 Year to 3 Years Greater Than 3 Years to 5 Years Greater Than 5 Years Total Fair Value Level 1 $ (58) $ (26) $ — $ (1) $ (85) Level 2 (7) 150 26 2 171 Level 3 (128) (75) 6 24 (173) Total $ (193) $ 49 $ 32 $ 25 $ (87)
+[END TABLE 058]
+
+[TABLE 059]
+Accounting Estimate Judgments/Uncertainties Affecting Application Derivative Instruments Assumptions used in valuation techniques Market maturity and economic conditions Contract interpretation Market conditions in the energy industry, especially the effects of price volatility on contractual commitments Income Taxes and Valuation Allowance for Deferred Tax Assets Interpret existing tax statute and regulations upon application to transactions Ability to utilize tax benefits through carry backs to prior periods and carry forwards to future periods Judgment about future realization of deferred tax assets Evaluation of Assets for Impairment Regulatory and political environments and requirements Estimated useful lives of assets Environmental obligations and operational limitations Estimates of future cash flows Estimates of fair value Judgment about impairment triggering events Goodwill and Other Intangible Assets Estimated useful lives for finite-lived intangible assets Judgment about impairment triggering events Estimates of reporting unit's fair value Fair value estimate of intangible assets acquired in business combinations Business Combinations Fair value of assets acquired and liabilities assumed in business combinations Estimated future cash flow Estimated useful lives of assets Contingencies Estimated financial impact of event(s) Judgment about likelihood of event(s) occurring Regulatory and political environments and requirements
+[END TABLE 059]
+
+[TABLE 060]
+(In millions) 2025 2024 VaR as of December 31, $ 61 $ 71 For the year ended December 31, Average $ 61 $ 61 Maximum 76 75 Minimum 47 50
+[END TABLE 060]
+
+[TABLE 061]
+Category Net Exposure (a) (b) (% of Total) Utilities, energy merchants, marketers and other 74 % Financial institutions 26 Total 100 %
+[END TABLE 061]
+
+[TABLE 062]
+Category Net Exposure (a) (b) (% of Total) Investment grade 67 % Non-Investment grade/Non-Rated 33 Total 100 %
+[END TABLE 062]
+
+[TABLE 063]
+Plan Category (a) Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights (b) Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights (c) Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) Equity compensation plans approved by security holders 2,828,281 (1) $ — 12,932,953 Equity compensation plans not approved by security holders 1,312,244 (2) $ — 12,893,481 Total 4,140,525 $ — 25,826,434 (3)
+[END TABLE 063]
+
+[TABLE 064]
+For the Year Ended December 31, (In millions, except per share amounts) 2025 2024 2023 Revenue Revenue $ 30,713 $ 28,130 $ 28,823 Operating Costs and Expenses Cost of operations (excluding depreciation and amortization shown below) 24,761 22,100 26,483 Depreciation and amortization 1,406 1,403 1,295 Impairment losses — 36 26 Selling, general and administrative costs (excluding amortization of customer acquisition costs of $ 295 , $ 204 and $ 125 , respectively, which are included in depreciation and amortization shown separately above) 2,602 2,345 2,094 Acquisition-related transaction and integration costs 74 30 119 Total operating costs and expenses 28,843 25,914 30,017 (Loss)/Gain on sale of assets ( 25 ) 208 1,578 Operating Income 1,845 2,424 384 Other Income/(Expense) Equity in earnings of unconsolidated affiliates 11 20 16 Impairment losses on investments ( 39 ) ( 7 ) ( 102 ) Other income, net 68 44 47 (Loss)/Gain on debt extinguishment ( 10 ) ( 382 ) 109 Interest expense ( 741 ) ( 651 ) ( 667 ) Total other expense ( 711 ) ( 976 ) ( 597 ) Income/(Loss) Before Income Taxes 1,134 1,448 ( 213 ) Income tax expense/(benefit) 270 323 ( 11 ) Net Income/(Loss) 864 1,125 ( 202 ) Less: Cumulative dividends attributable to Series A Preferred Stock 67 67 54 Net Income/(Loss) Available for Common Stockholders $ 797 $ 1,058 $ ( 256 ) Income/(Loss) Per Share Weighted average number of common shares outstanding — basic 195 206 228 Income/(Loss) per Weighted Average Common Share — Basic $ 4.09 $ 5.14 $ ( 1.12 ) Weighted average number of common shares outstanding — diluted 199 212 228 Income/(Loss) per Weighted Average Common Share — Diluted $ 4.01 $ 4.99 $ ( 1.12 )
+[END TABLE 064]
+
+[TABLE 065]
+For the Year Ended December 31, (In millions) 2025 2024 2023 Net Income/(Loss) $ 864 $ 1,125 $ ( 202 ) Other Comprehensive Income/(Loss), net of tax Foreign currency translation adjustments 21 ( 22 ) 9 Defined benefit plans 15 ( 4 ) 30 Other comprehensive income/(loss) 36 ( 26 ) 39 Comprehensive Income/(Loss) $ 900 $ 1,099 $ ( 163 )
+[END TABLE 065]
+
+[TABLE 066]
+As of December 31, (In millions) 2025 2024 ASSETS Current Assets Cash and cash equivalents $ 4,708 $ 966 Funds deposited by counterparties 260 199 Restricted cash 30 8 Accounts receivable, net 4,065 3,488 Inventory 461 478 Derivative instruments 2,189 2,686 Cash collateral paid in support of energy risk management activities 365 309 Prepayments and other current assets 1,069 830 Total current assets 13,147 8,964 Property, plant and equipment, net 3,632 2,021 Other Assets Equity investments in affiliates 16 45 Operating lease right-of-use assets, net 130 151 Goodwill 5,017 5,011 Customer relationships, net 1,203 1,538 Other intangible assets, net 1,106 1,370 Derivative instruments 1,568 1,710 Deferred income taxes 1,843 2,067 Other non-current assets 1,478 1,145 Total other assets 12,361 13,037 Total Assets $ 29,140 $ 24,022
+[END TABLE 066]
+
+[TABLE 067]
+As of December 31, (In millions, except share data) 2025 2024 LIABILITIES AND STOCKHOLDERS' EQUITY Current Liabilities Current portion of long-term debt and finance leases $ 31 $ 996 Current portion of operating lease liabilities 35 66 Accounts payable 2,834 2,513 Derivative instruments 2,257 2,297 Cash collateral received in support of energy risk management activities 260 199 Deferred revenue current 748 711 Accrued expenses and other current liabilities 1,864 2,031 Total current liabilities 8,029 8,813 Other Liabilities Long-term debt and finance leases 16,412 9,812 Non-current operating lease liabilities 144 117 Derivative instruments 1,103 1,107 Deferred income taxes 15 12 Deferred revenue non-current 895 862 Other non-current liabilities 861 821 Total other liabilities 19,430 12,731 Total Liabilities 27,459 21,544 Commitments and Contingencies Stockholders' Equity Preferred stock; 10,000,000 shares authorized; 650,000 Series A shares issued and outstanding at December 31, 2025 and 2024 (aggregate liquidation preference $ 650 ) 650 650 Common stock; $ 0.01 par value; 500,000,000 shares authorized; 199,828,615 and 205,064,058 shares issued; and 190,376,607 and 198,604,003 shares outstanding at December 31, 2025 and 2024, respectively 2 2 Additional paid-in capital 215 705 Retained earnings 1,982 1,535 Treasury stock, at cost; 9,452,008 and 6,460,055 shares at December 31, 2025 and 2024, respectively ( 1,087 ) ( 297 ) Accumulated other comprehensive loss ( 81 ) ( 117 ) Total Stockholders' Equity 1,681 2,478 Total Liabilities and Stockholders' Equity $ 29,140 $ 24,022
+[END TABLE 067]
+
+[TABLE 068]
+For the Year Ended December 31, (In millions) 2025 2024 2023 Cash Flows from Operating Activities Net Income/(Loss) $ 864 $ 1,125 $ ( 202 ) Adjustments to reconcile net income/(loss) to cash provided by operating activities: Depreciation of property, plant and equipment and amortization of customer relationships and other intangible assets 896 1,071 1,127 Amortization of capitalized contract costs 510 332 168 Accretion of asset retirement obligations 29 34 27 Provision for credit losses 272 314 251 Amortization of nuclear fuel — — 47 Amortization of financing costs and debt discounts 51 39 52 Loss/(gain) on debt extinguishment 10 382 ( 109 ) Amortization of in-the-money contracts and emissions allowances 97 105 137 Amortization of unearned equity compensation 134 102 101 Net loss/(gain) on sale of assets and disposal of assets 25 ( 192 ) ( 1,559 ) Gain on proceeds from insurance recoveries for property, plant and equipment, net ( 100 ) — ( 164 ) Impairment losses 39 43 128 Changes in derivative instruments 450 ( 337 ) 2,455 Changes in current and deferred income taxes and liability for uncertain tax benefits 213 165 ( 92 ) Changes in collateral deposits in support of risk management activities 7 245 ( 1,806 ) Equity in and distributions from earnings of unconsolidated affiliates ( 8 ) ( 13 ) ( 6 ) Cash (used)/provided by changes in other working capital: Accounts receivable - trade ( 760 ) ( 366 ) 1,004 Inventory 30 111 189 Prepayments and other current assets ( 757 ) ( 539 ) ( 401 ) Accounts payable 192 170 ( 1,455 ) Accrued expenses and other current liabilities 28 136 360 Other assets and liabilities ( 309 ) ( 621 ) ( 473 ) Cash provided/(used) by operating activities $ 1,913 $ 2,306 $ ( 221 ) Cash Flows from Investing Activities Payments for acquisitions of businesses and assets, net of cash acquired $ ( 596 ) $ ( 38 ) $ ( 2,523 ) Capital expenditures ( 1,147 ) ( 472 ) ( 598 ) Proceeds from sales of assets, net of cash disposed 6 501 2,007 Net purchases of emissions allowances ( 1 ) ( 18 ) ( 24 ) Proceeds from insurance recoveries for property, plant and equipment, net 100 3 240 Investments in nuclear decommissioning trust fund securities — — ( 367 ) Proceeds from the sale of nuclear decommissioning trust fund securities — — 355 Cash used by investing activities $ ( 1,638 ) $ ( 24 ) $ ( 910 )
+[END TABLE 068]
+
+[TABLE 069]
+For the Year Ended December 31, (In millions) 2025 2024 2023 Cash Flows from Financing Activities Proceeds from issuance of preferred stock, net of fees $ — $ — $ 635 Equivalent shares purchased in lieu of tax withholdings ( 92 ) ( 50 ) ( 22 ) Payments for share repurchase activity and excise tax (a) ( 1,311 ) ( 935 ) ( 1,150 ) Payment for settlement of capped call options (b) ( 292 ) — — Payments of dividends to preferred and common stockholders ( 411 ) ( 405 ) ( 381 ) Proceeds from issuance of long-term debt 6,676 3,200 731 Repayments of long-term debt and finance leases ( 1,005 ) ( 3,255 ) ( 523 ) Payments for debt extinguishment costs — ( 262 ) — Payments of deferred financing costs ( 78 ) ( 45 ) ( 32 ) Net receipts/(payments) from settlement of acquired derivatives that include financing elements 59 ( 3 ) 342 Proceeds from credit facilities 1,575 1,050 3,020 Repayments to credit facilities ( 1,575 ) ( 1,050 ) ( 3,020 ) Cash provided/(used) by financing activities $ 3,546 $ ( 1,755 ) $ ( 400 ) Effect of exchange rate changes on cash and cash equivalents 4 ( 3 ) 2 Net Increase/(Decrease) in Cash and Cash Equivalents, Funds Deposited by Counterparties and Restricted Cash 3,825 524 ( 1,529 ) Cash and Cash Equivalents, Funds Deposited by Counterparties and Restricted Cash at Beginning of Period 1,173 649 2,178 Cash and Cash Equivalents, Funds Deposited by Counterparties and Restricted Cash at End of Period $ 4,998 $ 1,173 $ 649
+[END TABLE 069]
+
+[TABLE 070]
+(In millions) Preferred Stock Common Stock Additional Paid-In Capital Retained Earnings Treasury Stock Accumulated Other Comprehensive Loss Total Stock-holders' Equity Balance at December 31, 2022 $ — $ 4 $ 8,457 $ 1,408 $ ( 5,864 ) $ ( 177 ) $ 3,828 Net loss ( 202 ) ( 202 ) Issuance of Series A Preferred Stock 650 ( 15 ) 635 Other comprehensive income 39 39 Shares reissuance for ESPP 2 6 8 Share repurchases (a) ( 117 ) ( 1,043 ) ( 1,160 ) Retirement of treasury stock (b) ( 1 ) ( 5,008 ) 5,009 — Equity-based awards activity, net (c) 97 97 Common stock dividends and dividend equivalents declared (d) ( 352 ) ( 352 ) Series A Preferred Stock dividends (e) ( 34 ) ( 34 ) Sale of the 44 % equity interest in STP 47 47 Balance at December 31, 2023 $ 650 $ 3 $ 3,416 $ 820 $ ( 1,892 ) $ ( 91 ) $ 2,906 Net income 1,125 1,125 Other comprehensive loss ( 26 ) ( 26 ) Shares reissuance for ESPP 5 8 13 Share repurchases (a) 117 ( 1,051 ) ( 934 ) Retirement of treasury stock (b) ( 1 ) ( 2,637 ) 2,638 — Equity-based awards activity, net (c) 57 57 Common stock dividends and dividend equivalents declared (d) ( 343 ) ( 343 ) Series A Preferred Stock dividends (e) ( 67 ) ( 67 ) Capped Call Options (f) ( 253 ) ( 253 ) Balance at December 31, 2024 $ 650 $ 2 $ 705 $ 1,535 $ ( 297 ) $ ( 117 ) $ 2,478 Net income 864 864 Other comprehensive income 36 36 Shares reissuance for ESPP 5 14 19 Share repurchases (a)(g) ( 1,313 ) ( 1,313 ) Retirement of treasury stock (b) ( 483 ) 483 — Equity-based awards activity, net (c) 48 48 Common stock dividends and dividend equivalents declared (d) ( 350 ) ( 350 ) Series A Preferred Stock dividends (e) ( 67 ) ( 67 ) Capped Call Options (f) ( 34 ) ( 34 ) Settlement of Capped Call Options (f) 287 ( 287 ) — Conversion of Convertible Senior Notes (h) ( 313 ) 313 — Balance at December 31, 2025 $ 650 $ 2 $ 215 $ 1,982 $ ( 1,087 ) $ ( 81 ) $ 1,681
+[END TABLE 070]
+
+[TABLE 071]
+Year Ended December 31, (In millions) 2025 2024 2023 Beginning balance $ 152 $ 145 $ 133 Acquired balance from Vivint Smart Home — — 22 Provision for credit losses 272 314 251 Write-offs ( 343 ) ( 363 ) ( 313 ) Recoveries collected 46 38 39 Other 19 18 13 Ending balance $ 146 $ 152 $ 145
+[END TABLE 071]
+
+[TABLE 072]
+Year Ended December 31, (In millions) 2025 2024 2023 Cash and cash equivalents $ 4,708 $ 966 $ 541 Funds deposited by counterparties 260 199 84 Restricted cash 30 8 24 Cash and cash equivalents, funds deposited by counterparties and restricted cash shown in the statements of cash flows $ 4,998 $ 1,173 $ 649
+[END TABLE 072]
+
+[TABLE 073]
+For the Year Ended December 31, (In millions) 2025 2024 2023 Amortization of capitalized contract costs related to fulfillment $ 207 $ 120 $ 37 Amortization of capitalized contract costs related to customer acquisition 303 212 131 Amortization of customer relationships and other intangible assets 612 800 870 Depreciation of property, plant and equipment 284 271 257 Total depreciation and amortization $ 1,406 $ 1,403 $ 1,295
+[END TABLE 073]
+
+[TABLE 074]
+For the Year Ended December 31, 2025 (In millions) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue: Home $ 7,172 $ 2,502 $ 1,167 $ 2,144 $ ( 18 ) $ 12,967 Business 3,724 10,965 1,887 — — 16,576 Total retail revenue (a) 10,896 13,467 3,054 2,144 ( 18 ) 29,543 Energy revenue (a) 49 441 101 — ( 1 ) 590 Capacity revenue (a) — 267 14 — ( 1 ) 280 Mark-to-market for economic hedging activities (b) — 7 10 — ( 5 ) 12 Contract amortization — ( 6 ) — — — ( 6 ) Other revenue (a) 194 87 23 — ( 10 ) 294 Total revenue 11,139 14,263 3,202 2,144 ( 35 ) 30,713 Less: Revenues accounted for under topics other than ASC 606 and ASC 815 — 36 8 120 — 164 Less: Realized and unrealized ASC 815 revenue 31 167 10 — ( 6 ) 202 Total revenue from contracts with customers $ 11,108 $ 14,060 $ 3,184 $ 2,024 $ ( 29 ) $ 30,347 (a) The following table represents the realized revenues related to derivative instruments that are accounted for under ASC 815 and included in the amounts above: (In millions) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue $ — $ 37 $ — $ — $ — $ 37 Energy revenue — 55 — — ( 1 ) 54 Capacity revenue — 63 — — — 63 Other revenue 31 5 — — — 36 (b) Revenue relates entirely to unrealized gains and losses on derivative instruments accounted for under ASC 815
+[END TABLE 074]
+
+[TABLE 075]
+For the Year Ended December 31, 2024 (In millions) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue: Home $ 6,836 $ 2,453 $ 1,683 $ 1,991 $ ( 17 ) $ 12,946 Business 3,564 8,794 1,845 — — 14,203 Total retail revenue (a) 10,400 11,247 3,528 1,991 ( 17 ) 27,149 Energy revenue (a) 41 242 229 — ( 12 ) 500 Capacity revenue (a) — 156 24 — ( 3 ) 177 Mark-to-market for economic hedging activities (b) — ( 23 ) 16 — 4 ( 3 ) Contract amortization — ( 27 ) ( 2 ) — — ( 29 ) Other revenue (a) 210 114 24 — ( 12 ) 336 Total revenue 10,651 11,709 3,819 1,991 ( 40 ) 28,130 Less: Revenues accounted for under topics other than ASC 606 and ASC 815 — 57 6 55 ( 1 ) 117 Less: Realized and unrealized ASC 815 revenue 30 168 75 — ( 8 ) 265 Total revenue from contracts with customers $ 10,621 $ 11,484 $ 3,738 $ 1,936 $ ( 31 ) $ 27,748 (a) The following table represents the realized revenues related to derivative instruments that are accounted for under ASC 815 and included in the amounts above: (In millions) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue $ — $ 36 $ — $ — $ — $ 36 Energy revenue — 79 63 — ( 12 ) 130 Capacity revenue — 76 — — — 76 Other revenue 30 — ( 4 ) — — 26 (b) Revenue relates entirely to unrealized gains and losses on derivative instruments accounted for under ASC 815
+[END TABLE 075]
+
+[TABLE 076]
+For the Year Ended December 31, 2023 (In millions) Texas East West/Other Vivint Smart Home (a) Corporate/Eliminations Total Retail revenue: Home $ 6,538 $ 2,195 $ 1,849 $ 1,589 $ — $ 12,171 Business 3,492 9,751 2,053 — — 15,296 Total retail revenue (b) 10,030 11,946 3,902 1,589 — 27,467 Energy revenue (b) 77 291 185 — — 553 Capacity revenue (b) — 197 2 — ( 2 ) 197 Mark-to-market for economic hedging activities (c) — 57 104 — ( 17 ) 144 Contract amortization — ( 32 ) — — — ( 32 ) Other revenue (b) 367 90 48 — ( 11 ) 494 Total revenue 10,474 12,549 4,241 1,589 ( 30 ) 28,823 Less: Revenues accounted for under topics other than ASC 606 and ASC 815 — 17 7 28 — 52 Less: Realized and unrealized ASC 815 revenue 29 364 139 — ( 17 ) 515 Total revenue from contracts with customers $ 10,445 $ 12,168 $ 4,095 $ 1,561 $ ( 13 ) $ 28,256 (a) Includes results of operations following the acquisition date of March 10, 2023 (b) The following table represents the realized revenues related to derivative instruments that are accounted for under ASC 815 and included in the amounts above: (In millions) Texas East West/Other Vivint Smart Home Corporate/Eliminations Total Retail revenue $ — $ 74 $ — $ — $ — $ 74 Energy revenue — 162 13 — 1 176 Capacity revenue — 73 — — — 73 Other revenue 29 ( 2 ) 22 — ( 1 ) 48 (c) Revenue relates entirely to unrealized gains and losses on derivative instruments accounted for under ASC 815
+[END TABLE 076]
+
+[TABLE 077]
+(In millions) December 31, 2025 December 31, 2024 Capitalized contract costs (included in Prepayments and other current assets and Other non-current assets) $ 1,680 $ 1,220 Accounts receivable, net - Contracts with customers 3,924 3,393 Accounts receivable, net - Accounted for under topics other than ASC 606 135 90 Accounts receivable, net - Affiliate 6 5 Total accounts receivable, net $ 4,065 $ 3,488 Unbilled revenues (included within Accounts receivable, net - Contracts with customers) $ 1,747 $ 1,548 Deferred revenues (a) $ 1,643 $ 1,573
+[END TABLE 077]
+
+[TABLE 078]
+(In millions) Cash consideration (inclusive of preliminary working capital and certain other adjustments of $ 479 million) $ 6,851 Stock consideration: 24,250,000 common shares of NRG, par value $ 0.01 per share, based on NRG closing share price of $ 153.72 on January 29, 2026 3,728 Total Preliminary Consideration $ 10,579
+[END TABLE 078]
+
+[TABLE 079]
+(In millions) Property, plant and equipment $ 644 Derivative instruments - Current assets 6 Derivative instruments - Other assets 2 Derivative instruments - Current liabilities ( 34 ) Derivative instruments - Other liabilities ( 57 ) Other, including current and non-current working capital ( 3 ) Texas Generation Portfolio Purchase Price $ 558
+[END TABLE 079]
+
+[TABLE 080]
+(In millions) Vivint Smart Home, Inc. common shares outstanding as of March 10, 2023 of 216,901,639 at $ 12.00 per share $ 2,603 Other Vivint Smart Home, Inc. equity instruments (Cash out RSUs and PSUs, Stock Appreciation Rights, Private Placement Warrants) 6 Total Cash Consideration $ 2,609 Fair value of acquired Vivint Smart Home, Inc. equity awards attributable to pre-combination service 14 Total Consideration $ 2,623
+[END TABLE 080]
+
+[TABLE 081]
+As of December 31, 2025 2024 (In millions) Carrying Amount Fair Value Carrying Amount Fair Value Convertible Senior Notes (a) $ — $ — $ 232 $ 509 Other long-term debt, including current portion 16,565 16,405 10,648 10,252 Total long-term debt, including current portion (b) $ 16,565 $ 16,405 $ 10,880 $ 10,761
+[END TABLE 081]
+
+[TABLE 082]
+December 31, 2025 December 31, 2024 (In millions) Level 2 Level 3 Level 2 Level 3 Convertible Senior Notes $ — $ — $ 509 $ — Other long-term debt, including current portion 16,033 372 10,252 — Total long-term debt, including current portion $ 16,033 $ 372 $ 10,761 $ —
+[END TABLE 082]
+
+[TABLE 083]
+As of December 31, 2025 Fair Value (In millions) Total Level 1 Level 2 Level 3 Investments in securities (classified within other current and non-current assets) $ 33 $ — $ 33 $ — Derivative assets: Interest rate contracts — — — — Foreign exchange contracts 3 — 3 — Commodity contracts (a) 3,132 267 2,552 313 Equity securities measured using net asset value practical expedient (classified within other non-current assets) 7 Total assets $ 3,175 $ 267 $ 2,588 $ 313 Derivative liabilities: Interest rate contracts $ 4 $ — $ 4 $ — Foreign exchange contracts 3 — 3 — Commodity contracts (a) 2,932 352 2,377 203 Consumer Financing Program 283 — — 283 Total liabilities $ 3,222 $ 352 $ 2,384 $ 486
+[END TABLE 083]
+
+[TABLE 084]
+As of December 31, 2024 Fair Value (In millions) Total Level 1 Level 2 Level 3 Investments in securities (classified within other current and non-current assets) $ 28 $ — $ 28 $ — Derivative assets: Interest rate contracts 9 — 9 — Foreign exchange contracts 22 — 22 — Commodity contracts (a) 3,368 528 2,645 195 Equity securities measured using net asset value practical expedient (classified within other non-current assets) 6 Total assets $ 3,433 $ 528 $ 2,704 $ 195 Derivative liabilities: Interest rate contracts $ 3 $ — $ 3 $ — Foreign exchange contracts 1 — 1 — Commodity contracts (a) 2,970 432 2,382 156 Consumer Financing Program 203 — — 203 Total liabilities $ 3,177 $ 432 $ 2,386 $ 359
+[END TABLE 084]
+
+[TABLE 085]
+Fair Value Measurement Using Significant Unobservable Inputs (Level 3) Commodity Derivatives (a) For the Year Ended December 31, (In millions) 2025 2024 Beginning balance $ 39 $ 119 Contracts added from Texas Generation Portfolio acquisition ( 91 ) — Total gains/(losses) realized/unrealized included in earnings 83 ( 113 ) Purchases 39 42 Transfers into Level 3 (b) 40 2 Transfers out of Level 3 (b) — ( 11 ) Ending balance $ 110 $ 39 Gains/(Losses) for the period included in earnings attributable to the change in unrealized gains or losses relating to assets or liabilities still held as of year-end $ 57 $ ( 55 )
+[END TABLE 085]
+
+[TABLE 086]
+Fair Value Measurement Using Significant Unobservable Inputs (Level 3) Consumer Financing Program For the Year Ended December 31, (In millions) 2025 2024 Beginning balance $ ( 203 ) $ ( 134 ) New contractual obligations ( 198 ) ( 147 ) Settlements 139 92 Total losses included in earnings ( 21 ) ( 14 ) Ending balance $ ( 283 ) $ ( 203 )
+[END TABLE 086]
+
+[TABLE 087]
+Significant Unobservable Inputs December 31, 2025 Fair Value Input/Range (in millions, except as noted) Assets Liabilities Valuation Technique Significant Unobservable Input Low High Weighted Average Natural Gas Contracts $ 47 $ 40 Discounted Cash Flow Forward Market Price ($ per MMBtu) $ 0 $ 17 $ 5 Power Contracts 168 64 Discounted Cash Flow Forward Market Price ($ per MWh) 0 125 29 Capacity Contracts 20 18 Discounted Cash Flow Forward Market Price ($ per MW/Day) 49 577 270 RECs 12 25 Discounted Cash Flow Forward Market Price ($ per Certificate) 2 370 17 FTRs 22 11 Discounted Cash Flow Auction Prices ($ per MWh) ( 50 ) 19,100 0 Power Options 44 45 Option Models Volatilities 22 % 517 % 110 % Consumer Financing Program — 283 Discounted Cash Flow Collateral Default Rates 1.18 % 42.00 % 7.86 % Discounted Cash Flow Collateral Prepayment Rates 2.00 % 3.00 % 2.52 % Discounted Cash Flow Credit Loss Rates 6.40 % 60.00 % 16.94 % $ 313 $ 486
+[END TABLE 087]
+
+[TABLE 088]
+Significant Unobservable Inputs December 31, 2024 Fair Value Input/Range (in millions, except as noted) Assets Liabilities Valuation Technique Significant Unobservable Input Low High Weighted Average Natural Gas Contracts $ 56 $ 15 Discounted Cash Flow Forward Market Price ($ per MMBtu) $ 2 $ 27 $ 4 Power Contracts 57 86 Discounted Cash Flow Forward Market Price ($ per MWh) 0 109 39 Capacity Contracts 34 13 Discounted Cash Flow Forward Market Price ($ per MW/Day) 16 510 220 RECs 30 14 Discounted Cash Flow Forward Market Price ($ per Certificate) 2 375 15 FTRs 18 28 Discounted Cash Flow Auction Prices ($ per MWh) ( 50 ) 16,180 0 Consumer Financing Program — 203 Discounted Cash Flow Collateral Default Rates 0.52 % 76.80 % 11.71 % Discounted Cash Flow Collateral Prepayment Rates 2.00 % 3.00 % 2.83 % Discounted Cash Flow Credit Loss Rates 6.00 % 60.00 % 14.22 % $ 195 $ 359
+[END TABLE 088]
+
+[TABLE 089]
+Significant Unobservable Input Position Change In Input Impact on Fair Value Measurement Forward Market Price Natural Gas/Power/Capacity/Renewable Energy Certificates Buy Increase/(Decrease) Higher/(Lower) Forward Market Price Natural Gas/Power/Capacity/Renewable Energy Certificates Sell Increase/(Decrease) Lower/(Higher) FTR Prices Buy Increase/(Decrease) Higher/(Lower) FTR Prices Sell Increase/(Decrease) Lower/(Higher) Volatilities Buy Increase/(Decrease) Higher/(Lower) Volatilities Sell Increase/(Decrease) Lower/(Higher) Collateral Default Rates n/a Increase/(Decrease) Higher/(Lower) Collateral Prepayment Rates n/a Increase/(Decrease) Lower/(Higher) Credit Loss Rates n/a Increase/(Decrease) Higher/(Lower)
+[END TABLE 089]
+
+[TABLE 090]
+Category Net Exposure (a) (b) (% of Total) Utilities, energy merchants, marketers and other 74 % Financial institutions 26 Total 100 %
+[END TABLE 090]
+
+[TABLE 091]
+Category Net Exposure (a) (b) (% of Total) Investment grade 67 % Non-Investment grade/Non-Rated 33 Total 100 %
+[END TABLE 091]
+
+[TABLE 092]
+Total Volume (In millions) Category Units December 31, 2025 December 31, 2024 Emissions Short Ton 2 1 Renewables Energy Certificates Certificates 13 13 Coal Short Ton 8 10 Natural Gas MMBtu 907 861 Power MWh 103 91 Interest Dollars 700 700 Foreign Exchange Dollars 437 410 Consumer Financing Program Dollars 1,354 1,219
+[END TABLE 092]
+
+[TABLE 093]
+Fair Value Derivative Assets Derivative Liabilities (In millions) December 31, 2025 December 31, 2024 December 31, 2025 December 31, 2024 Derivatives Not Designated as Cash Flow or Fair Value Hedges : Interest rate contracts - current $ — $ — $ 4 $ 3 Interest rate contracts - long-term — 9 — — Foreign exchange contracts - current 2 15 1 — Foreign exchange contracts - long-term 1 7 2 1 Commodity contracts - current 1,991 2,295 1,997 2,067 Commodity contracts - long-term 1,141 1,073 935 903 Consumer Financing Program - current — — 184 137 Consumer Financing Program - long-term — — 99 66 Derivatives Not Designated as Cash Flow or Fair Value Hedges $ 3,135 $ 3,399 $ 3,222 $ 3,177 Deferred gains/losses on NPNS contracts - current 196 376 71 90 Deferred gains/losses on NPNS contracts - long-term 426 621 67 137 Deferred gains/losses on NPNS contracts (a) $ 622 $ 997 $ 138 $ 227 Total Derivatives Not Designated as Cash Flow or Fair Value Hedges $ 3,757 $ 4,396 $ 3,360 $ 3,404
+[END TABLE 093]
+
+[TABLE 094]
+Gross Amounts Not Offset in the Statement of Financial Position (In millions) Gross Amounts of Recognized Assets/Liabilities Derivative Instruments Cash Collateral (Held)/Posted Net Amount As of December 31, 2025 Interest rate contracts: Derivative liabilities $ ( 4 ) $ — $ — $ ( 4 ) Foreign exchange contracts: Derivative assets $ 3 $ ( 2 ) $ — $ 1 Derivative liabilities ( 3 ) 2 — ( 1 ) Total foreign exchange contracts $ — $ — $ — $ — Commodity contracts: Derivative assets $ 3,754 $ ( 2,724 ) $ ( 215 ) $ 815 Derivative liabilities ( 3,070 ) 2,724 137 ( 209 ) Total commodity contracts $ 684 $ — $ ( 78 ) $ 606 Consumer Financing Program: Derivative liabilities $ ( 283 ) $ — $ — $ ( 283 ) Total derivative instruments $ 397 $ — $ ( 78 ) $ 319
+[END TABLE 094]
+
+[TABLE 095]
+Gross Amounts Not Offset in the Statement of Financial Position (In millions) Gross Amounts of Recognized Assets/Liabilities Derivative Instruments Cash Collateral (Held)/Posted Net Amount As of December 31, 2024 Interest rate contracts: Derivative assets $ 9 $ ( 3 ) $ — $ 6 Derivative liabilities ( 3 ) 3 — — Total interest rate contracts 6 — — 6 Foreign exchange contracts: Derivative assets $ 22 $ ( 1 ) $ — $ 21 Derivative liabilities ( 1 ) 1 — — Total foreign exchange contracts $ 21 $ — $ — $ 21 Commodity contracts: Derivative assets $ 4,365 $ ( 2,992 ) $ ( 168 ) $ 1,205 Derivative liabilities ( 3,197 ) 2,992 61 ( 144 ) Total commodity contracts $ 1,168 $ — $ ( 107 ) $ 1,061 Consumer Financing Program: Derivative liabilities $ ( 203 ) $ — $ — $ ( 203 ) Total derivative instruments $ 992 $ — $ ( 107 ) $ 885
+[END TABLE 095]
+
+[TABLE 096]
+Year Ended December 31, (In millions) 2025 2024 2023 Unrealized mark-to-market results Reversal of previously recognized unrealized (gains)/losses on settled positions related to economic hedges (a) $ ( 432 ) $ 106 $ ( 1,734 ) Reversal of acquired loss positions related to economic hedges 47 5 20 Net unrealized gains/(losses) on open positions related to economic hedges 39 95 ( 1,149 ) Total unrealized mark-to-market (losses)/gains for economic hedging activities ( 346 ) 206 ( 2,863 ) Reversal of previously recognized unrealized losses/(gains) on settled positions related to trading activity 2 ( 1 ) 13 Net unrealized gains on open positions related to trading activity 3 2 25 Total unrealized mark-to-market gains for trading activity 5 1 38 Total unrealized (losses)/gains - commodities and foreign exchange $ ( 341 ) $ 207 $ ( 2,825 )
+[END TABLE 096]
+
+[TABLE 097]
+Year Ended December 31, (In millions) 2025 2024 2023 Total impact to statement of operations - interest rate contracts $ ( 10 ) $ 3 $ 4 Unrealized gains/(losses) included in revenues - commodities $ 17 $ ( 2 ) $ 182 Unrealized (losses)/gains included in cost of operations - commodities ( 338 ) 186 ( 2,988 ) Unrealized (losses)/gains included in cost of operations - foreign exchange ( 20 ) 23 ( 19 ) Total impact to statement of operations - commodities and foreign exchange $ ( 341 ) $ 207 $ ( 2,825 ) Total impact to statement of operations - Consumer Financing Program $ ( 21 ) $ ( 14 ) $ ( 16 )
+[END TABLE 097]
+
+[TABLE 098]
+As of December 31, (In millions) 2025 2024 Coal $ 111 $ 194 Natural gas 177 126 Fuel oil 11 8 Finished goods 73 79 Spare parts 89 71 Total Inventory $ 461 $ 478
+[END TABLE 098]
+
+[TABLE 099]
+As of December 31, Depreciable (In millions) 2025 2024 Lives Facilities and equipment $ 2,877 $ 1,972 1 - 40 years Land and improvements 272 255 Software 728 582 5 years Hardware and office equipment and furnishings 333 278 2 - 10 years Construction in progress 1,196 442 Total property, plant, and equipment 5,406 3,529 Accumulated depreciation ( 1,774 ) ( 1,508 ) Property, plant and equipment, net $ 3,632 $ 2,021
+[END TABLE 099]
+
+[TABLE 100]
+For the Year Ended December 31, (In millions) 2025 2024 2023 Finance lease cost $ 9 $ 9 $ 8 Amortization of right-of-use assets 8 8 7 Interest on lease liabilities 1 1 1 Operating lease cost (a) 63 89 93 Short-term lease cost 46 32 42 Variable lease cost 138 91 91 Sublease income — — ( 2 ) Total lease cost $ 256 $ 221 $ 232
+[END TABLE 100]
+
+[TABLE 101]
+For the Year Ended December 31, (In millions) 2025 2024 2023 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases $ 187 $ 190 $ 195 Financing cash flows from finance leases 8 8 7 Right-of-use assets obtained in exchange for new finance lease liabilities 19 13 17 Right-of-use assets obtained in exchange for new operating lease liabilities 32 69 52
+[END TABLE 101]
+
+[TABLE 102]
+December 31, 2025 December 31, 2024 Finance leases: Weighted average remaining lease term (in years) 3.7 2.7 Weighted average discount rate 6.24 % 6.26 % Operating leases: Weighted average remaining lease term (in years) 7.8 5.4 Weighted average discount rate 6.26 % 6.23 %
+[END TABLE 102]
+
+[TABLE 103]
+In millions 2026 $ 50 2027 46 2028 36 2029 25 2030 22 Thereafter 104 Total undiscounted lease payments $ 283 Less: present value adjustment ( 104 ) Total discounted lease payments $ 179
+[END TABLE 103]
+
+[TABLE 104]
+(in millions) Texas East West/Other Vivint Smart Home Total Balance as of January 1, 2024 $ 643 $ 721 $ 192 $ 3,523 $ 5,079 Impairment — — ( 15 ) — ( 15 ) Sale of Airtron — — ( 43 ) — ( 43 ) Foreign currency translation adjustments — — ( 10 ) — ( 10 ) Balance as of December 31, 2024 $ 643 $ 721 $ 124 $ 3,523 $ 5,011 Foreign currency translation adjustments — — 6 — 6 Balance as of December 31, 2025 $ 643 $ 721 $ 130 $ 3,523 $ 5,017
+[END TABLE 104]
+
+[TABLE 105]
+(In millions) Year Ended December 31, 2025 Customer Relationships Emission Allowances Customer and Supply Contracts Marketing Partnerships Technology Trade Names Other (a) Total January 1, 2025 $ 3,093 $ 625 $ 606 $ 294 $ 861 $ 801 $ 260 $ 6,540 Purchases — 58 — — — — 543 601 Acquisition of businesses (b) 32 — — — — — — 32 Usage/Sales/Retirements/Transfers — ( 50 ) — — — — ( 508 ) ( 558 ) Write-off of fully amortized balances ( 81 ) ( 1 ) — — — ( 193 ) ( 45 ) ( 320 ) Other 2 ( 5 ) 1 1 ( 1 ) 3 1 2 December 31, 2025 3,046 627 607 295 860 611 251 6,297 Less accumulated amortization ( 1,843 ) ( 548 ) ( 450 ) ( 217 ) ( 632 ) ( 296 ) ( 2 ) ( 3,988 ) Net carrying amount $ 1,203 $ 79 $ 157 $ 78 $ 228 $ 315 $ 249 $ 2,309
+[END TABLE 105]
+
+[TABLE 106]
+(In millions) Year Ended December 31, 2024 Customer Relationships Emission Allowances Customer and Supply Contracts Marketing Partnerships Technology Trade Names Other (a) Total January 1, 2024 $ 3,464 $ 628 $ 609 $ 295 $ 860 $ 841 $ 224 $ 6,921 Purchases — 22 — — — — 497 519 Acquisition of businesses (b) 35 — — — — — — 35 Usage/Sales/Retirements — ( 19 ) — — — — ( 461 ) ( 480 ) Write-off of fully amortized balances ( 146 ) — — — — ( 11 ) — ( 157 ) Sale of Airtron (c) ( 255 ) — — — — ( 24 ) — ( 279 ) Other ( 5 ) ( 6 ) ( 3 ) ( 1 ) 1 ( 5 ) — ( 19 ) December 31, 2024 3,093 625 606 294 861 801 260 6,540 Less accumulated amortization ( 1,555 ) ( 538 ) ( 399 ) ( 193 ) ( 457 ) ( 443 ) ( 47 ) ( 3,632 ) Net carrying amount $ 1,538 $ 87 $ 207 $ 101 $ 404 $ 358 $ 213 $ 2,908
+[END TABLE 106]
+
+[TABLE 107]
+Years Ended December 31, (In millions) 2025 2024 2023 Customer relationships $ 368 $ 476 $ 556 Customer and supply contracts 51 71 121 Emission allowances 10 5 6 Marketing partnerships 23 23 24 Technology 176 227 230 Trade names 45 59 60 Other (a) — 15 4 Total amortization $ 673 $ 876 $ 1,001
+[END TABLE 107]
+
+[TABLE 108]
+(In millions) Year Ended December 31, Customer Relationships Emission Allowances Customer and Supply Contracts Marketing Partnerships Technology Trade Names Total 2026 $ 298 $ 20 $ 52 $ 23 $ 130 $ 37 $ 560 2027 227 17 30 23 89 37 423 2028 182 15 12 15 9 37 270 2029 140 9 13 5 — 37 204 2030 111 8 13 4 — 37 173
+[END TABLE 108]
+
+[TABLE 109]
+As of December 31, (In millions, except rates) 2025 2024 Interest rate % Recourse debt: Senior Notes, due 2028 $ 821 $ 821 5.750 Senior Notes, due 2029 733 733 5.250 Senior Notes, due 2029 500 500 3.375 Senior Notes, due 2029 798 798 5.750 Senior Notes, due 2031 1,030 1,030 3.625 Senior Notes, due 2032 480 480 3.875 Senior Notes, due 2033 925 925 6.000 Senior Notes, due 2034 950 950 6.250 Senior Notes, due 2034 1,250 — 5.750 Senior Notes, due 2036 2,400 — 6.000 Convertible Senior Notes, due 2048 — 232 2.750 Senior Secured First Lien Notes, due 2025 — 500 2.000 Senior Secured First Lien Notes, due 2027 900 900 2.450 Senior Secured First Lien Notes, due 2029 500 500 4.450 Senior Secured First Lien Notes, due 2030 625 — 4.734 Senior Secured First Lien Notes, due 2033 740 740 7.000 Senior Secured First Lien Notes, due 2035 625 — 5.407 Term Loan B, due 2031 2,299 1,317 SOFR + 1.750 Tax-exempt bonds 466 466 4.000 - 4.750 T.H. Wharton TEF loan, due 2045 189 — 3.000 Cedar Bayou 5 TEF loan, due 2045 255 — 3.000 Greens Bayou 6 TEF loan, due 2045 90 — 3.000 Subtotal recourse debt 16,576 10,892 Finance leases 24 14 various Subtotal long-term debt and finance leases (including current maturities) 16,600 10,906 Less current maturities ( 31 ) ( 996 ) Less debt issuance costs ( 146 ) ( 86 ) Discounts ( 11 ) ( 12 ) Total long-term debt and finance leases $ 16,412 $ 9,812
+[END TABLE 109]
+
+[TABLE 110]
+As of December 31, (In millions) 2025 2024 Senior Secured First Lien Notes, due 2027, 2029 and 2033 $ ( 8 ) $ ( 10 ) Term Loan B, due 2031 ( 3 ) ( 2 ) Total discounts $ ( 11 ) $ ( 12 )
+[END TABLE 110]
+
+[TABLE 111]
+(In millions) 2026 $ 31 2027 930 2028 907 2029 2,565 2030 663 Thereafter 11,504 Total $ 16,600
+[END TABLE 111]
+
+[TABLE 112]
+For the years ended December 31, (In millions, except percentages) 2025 2024 2023 Contractual interest expense $ 3 $ 9 $ 16 Amortization of discount and deferred finance costs — 1 2 Total $ 3 $ 10 $ 18 Effective Interest Rate 1.62 % 3.08 % 3.18 %
+[END TABLE 112]
+
+[TABLE 113]
+(In millions, except percentages) Settlement Period Principal Repurchased Cash Paid (a) Average Repurchase Percentage March 2024 $ 92 $ 151 162.356 % April 2024 251 452 179.454 % Total Repurchases $ 343 $ 603
+[END TABLE 113]
+
+[TABLE 114]
+Redemption Period Redemption Percentage June 15, 2026 to June 14, 2027 100.875 % June 15, 2027 and thereafter 100.000 %
+[END TABLE 114]
+
+[TABLE 115]
+Redemption Period Redemption Percentage July 15, 2025 to July 14, 2026 101.438 % July 15, 2026 and thereafter 100.000 %
+[END TABLE 115]
+
+[TABLE 116]
+Redemption Period Redemption Percentage February 15, 2026 to February 14, 2027 101.813 % February 15, 2027 to February 14, 2028 101.208 % February 15, 2028 to February 14, 2029 100.604 % February 15, 2029 and thereafter 100.000 %
+[END TABLE 116]
+
+[TABLE 117]
+Year Redemption Percentage (If Sustainability Performance Target has been satisfied and confirmed by External Verifier) Redemption Percentage (If Sustainability Performance Target has not been satisfied and/or confirmed by External Verifier) 2027 101.938 % 102.188 % 2028 101.292 % 101.458 % 2029 100.646 % 100.729 % 2030 and thereafter 100.000 % 100.000 %
+[END TABLE 117]
+
+[TABLE 118]
+Redemption Period Redemption Percentage November 1, 2027 to October 31, 2028 103.000 % November 1, 2028 to October 31, 2029 101.500 % November 1, 2029 and thereafter 100.000 %
+[END TABLE 118]
+
+[TABLE 119]
+Redemption Period Redemption Percentage November 1, 2029 to October 31, 2030 103.125 % November 1, 2030 to October 31, 2031 101.563 % November 1, 2031 and thereafter 100.000 %
+[END TABLE 119]
+
+[TABLE 120]
+Redemption Period Redemption Percentage October 15, 2028 to October 14, 2029 102.875 % October 15, 2029 to October 14, 2030 101.438 % October 15, 2030 and thereafter 100.000 %
+[END TABLE 120]
+
+[TABLE 121]
+Redemption Period Redemption Percentage October 15, 2030 to October 14, 2031 103.000 % October 15, 2031 to October 14, 2032 101.500 % October 15, 2032 and thereafter 100.000 %
+[END TABLE 121]
+
+[TABLE 122]
+As of December 31, (In millions, except rates) 2025 2024 Interest Rate % NRG Indian River Power 2020, tax exempt bonds, due 2040 $ — $ 57 1.250 NRG Indian River Power 2020, tax exempt bonds, due 2045 — 190 1.250 NRG Dunkirk 2020, tax exempt bonds, due 2042 59 59 4.250 City of Texas City, tax exempt bonds, due 2045 33 33 4.125 Fort Bend County, tax exempt bonds, due 2038 54 54 4.750 Fort Bend County, tax exempt bonds, due 2042 73 73 4.750 NRG Indian River Power 2020, tax exempt bonds, due 2040 57 — 4.000 NRG Indian River Power 2020, tax exempt bonds, due 2045 190 — 4.000 Total $ 466 $ 466
+[END TABLE 122]
+
+[TABLE 123]
+Redemption Period Redemption Percentage August 15, 2027 to August 14, 2028 103.625 % August 15, 2028 to August 14, 2029 101.813 % August 15, 2029 and thereafter 100.000 %
+[END TABLE 123]
+
+[TABLE 124]
+(In millions) Total (a) Balance as of December 31, 2024 $ 409 Revisions in estimates for current obligations ( 20 ) Additions 18 Spending for current obligations ( 47 ) Accretion 25 Acquisitions 4 Balance as of December 31, 2025 $ 389
+[END TABLE 124]
+
+[TABLE 125]
+Year Ended December 31, Pension Benefits (In millions) 2025 2024 2023 Service cost benefits earned $ 3 $ 3 $ 5 Interest cost on benefit obligation 45 48 50 Expected return on plan assets ( 45 ) ( 47 ) ( 39 ) Amortization of unrecognized net loss 4 2 6 Curtailment and special termination benefits (income)/expense — ( 6 ) ( 1 ) Net periodic benefit cost $ 7 $ — $ 21
+[END TABLE 125]
+
+[TABLE 126]
+Year Ended December 31, Other Postretirement Benefits (In millions) 2025 2024 2023 Interest cost on benefit obligation $ 4 $ 3 $ 4 Amortization of unrecognized prior service cost ( 1 ) ( 3 ) ( 8 ) Amortization of unrecognized net loss — ( 1 ) 1 Net periodic benefit cost/(credit) $ 3 $ ( 1 ) $ ( 3 )
+[END TABLE 126]
+
+[TABLE 127]
+As of December 31, Pension Benefits Other Postretirement Benefits (In millions) 2025 2024 2025 2024 Benefit obligation at January 1 $ 901 $ 1,023 $ 70 $ 75 Service cost 3 3 — — Interest cost 45 48 4 3 Actuarial loss/(gain) 28 ( 35 ) ( 4 ) ( 1 ) Employee and retiree contributions — — 2 3 Annuity purchase settlement — ( 50 ) — — Benefit payments ( 90 ) ( 83 ) ( 11 ) ( 10 ) Foreign exchange translation — ( 5 ) — — Benefit obligation at December 31 887 901 61 70 Fair value of plan assets at January 1 767 851 — — Actual return on plan assets 91 16 — — Employee and retiree contributions — — 2 3 Employer contributions 16 38 9 7 Annuity purchase settlement — ( 50 ) — — Benefit payments ( 90 ) ( 83 ) ( 11 ) ( 10 ) Foreign exchange translation — ( 5 ) — — Fair value of plan assets at December 31 784 767 — — Funded status at December 31 — excess of obligation over assets $ ( 103 ) $ ( 134 ) $ ( 61 ) $ ( 70 )
+[END TABLE 127]
+
+[TABLE 128]
+As of December 31, Pension Benefits Other Postretirement Benefits (In millions) 2025 2024 2025 2024 Other current liabilities $ — $ — $ 4 $ 5 Other non-current liabilities 103 134 57 65
+[END TABLE 128]
+
+[TABLE 129]
+As of December 31, Pension Benefits Other Postretirement Benefits (In millions) 2025 2024 2025 2024 Net loss/(gain) $ 50 $ 73 $ ( 18 ) $ ( 14 ) Prior service credit — — — ( 1 ) Total accumulated OCI $ 50 $ 73 $ ( 18 ) $ ( 15 )
+[END TABLE 129]
+
+[TABLE 130]
+Year Ended December 31, Pension Benefits Other Postretirement Benefits (In millions) 2025 2024 2025 2024 Net actuarial gain $ ( 19 ) $ ( 4 ) $ ( 4 ) $ ( 1 ) Amortization of net actuarial (gain)/loss ( 4 ) ( 2 ) — 1 Settlement loss — 6 — — Amortization of prior service cost — — 1 3 Total recognized in OCI $ ( 23 ) $ — $ ( 3 ) $ 3 Net periodic benefit cost/(credit) 7 — 3 ( 1 ) Net recognized in net periodic pension (credit)/cost and OCI $ ( 16 ) $ — $ — $ 2
+[END TABLE 130]
+
+[TABLE 131]
+As of December 31, Pension Benefits (In millions) 2025 2024 Projected benefit obligation $ 887 $ 901 Accumulated benefit obligation 882 895 Fair value of plan assets 784 767
+[END TABLE 131]
+
+[TABLE 132]
+Fair Value Measurements as of December 31, 2025 (In millions) Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Observable Inputs (Level 2) Total Common/collective trust investment — U.S. equity $ — $ 147 $ 147 Common/collective trust investment — non-U.S. equity — 108 108 Common/collective trust investment — non-core assets — 52 52 Common/collective trust investment — fixed income — 202 202 Short-term investment fund 15 — 15 Subtotal fair value $ 15 $ 509 $ 524 Measured at net asset value practical expedient: Common/collective trust investment — non-U.S. equity 29 Common/collective trust investment — fixed income 194 Common/collective trust investment — non-core assets 13 Partnerships/joint ventures 24 Total fair value $ 784
+[END TABLE 132]
+
+[TABLE 133]
+Fair Value Measurements as of December 31, 2024 (In millions) Quoted Prices in Active Markets for Identical Assets (Level 1) Significant Observable Inputs (Level 2) Total Common/collective trust investment — U.S. equity $ — $ 142 $ 142 Common/collective trust investment — non-U.S. equity — 105 105 Common/collective trust investment — non-core assets — 50 50 Common/collective trust investment — fixed income — 199 199 Short-term investment fund 25 — 25 Subtotal fair value $ 25 $ 496 $ 521 Measured at net asset value practical expedient: Common/collective trust investment — non-U.S. equity 29 Common/collective trust investment — fixed income 177 Common/collective trust investment — non-core assets 12 Partnerships/joint ventures 28 Total fair value $ 767
+[END TABLE 133]
+
+[TABLE 134]
+As of December 31, Pension Benefits Other Postretirement Benefits Weighted-Average Assumptions 2025 2024 2025 2024 Discount rate 5.38 % 5.63 % 5.32 % 5.55 % Interest crediting rate 5.96 % 5.38 % 4.70 % 4.54 % Rate of compensation increase 3.00 % 3.00 % — — Health care trend rate — — 8.2 % grading to 4.5 % in 2035 8.3 % grading to 4.5 % in 2034
+[END TABLE 134]
+
+[TABLE 135]
+As of December 31, Pension Benefits Other Postretirement Benefits Weighted-Average Assumptions 2025 2024 2023 2025 2024 2023 Discount rate 5.63 % 4.99 % 5.18 % 5.53 % 4.96 % 5.19 % Interest crediting rate 5.38 % 5.67 % 5.21 % 4.54 % 4.66 % 4.00 % Expected return on plan assets 6.92 % 6.65 % 5.55 % — — — Rate of compensation increase 3.00 % 3.00 % 3.06 % — — — Health care trend rate — — — 8.3 % grading to 4.5 % in 2035 7.4 % grading to 4.5 % in 2033 7.2 % grading to 4.5 % in 2028
+[END TABLE 135]
+
+[TABLE 136]
+U.S. equity 20 % Non-U.S. equity 13 % Non-core assets 17 % Fixed income 50 %
+[END TABLE 136]
+
+[TABLE 137]
+Asset Class Index U.S. equities Dow Jones U.S. Total Stock Market Index Non-U.S. equities MSCI All Country World Index Non-core assets (a) Various (per underlying asset class) Fixed income securities Barclays U.S. Long Credit Index, Barclays U.S. Strips 20+ Year Bond Index and Citigroup Strips Index 20+ Sub Index
+[END TABLE 137]
+
+[TABLE 138]
+Pension Other Postretirement Benefit (In millions) Benefit Payments Benefit Payments Medicare Prescription Drug Reimbursements 2026 $ 79 $ 4 $ — 2027 76 4 — 2028 74 4 — 2029 72 4 — 2030 70 5 — 2031-2035 330 25 2
+[END TABLE 138]
+
+[TABLE 139]
+Year Ended December 31, (In millions) 2025 2024 2023 Cost recognized for defined contribution plans $ 65 $ 62 $ 61
+[END TABLE 139]
+
+[TABLE 140]
+Preferred Shares Common Shares Issued and Outstanding Issued Treasury Outstanding Balance as of December 31, 2022 — 423,897,001 ( 194,335,971 ) 229,561,030 Issuance of Series A Preferred Stock 650,000 — — — Shares issued under ESPP — — 191,249 191,249 Shares issued under LTIPs — 1,109,611 — 1,109,611 Share repurchases — — ( 22,730,940 ) ( 22,730,940 ) Retirement of treasury stock — ( 157,676,142 ) 157,676,142 — Balance as of December 31, 2023 650,000 267,330,470 ( 59,199,520 ) 208,130,950 Shares issued under ESPP — — 242,070 242,070 Shares issued under LTIPs — 1,959,134 — 1,959,134 Share repurchases — — ( 11,725,563 ) ( 11,725,563 ) Partial settlement of Capped Call Options — — ( 2,588 ) ( 2,588 ) Retirement of treasury stock — ( 64,225,546 ) 64,225,546 — Balance as of December 31, 2024 650,000 205,064,058 ( 6,460,055 ) 198,604,003 Shares issued under ESPP — — 175,907 175,907 Shares issued under LTIPs — 1,792,902 — 1,792,902 Share repurchases — — ( 9,971,620 ) ( 9,971,620 ) Settlement of Capped Call Options (a) — — ( 4,211,054 ) ( 4,211,054 ) Conversions of Convertible Senior Notes — — 3,986,469 3,986,469 Retirement of treasury stock — ( 7,028,345 ) 7,028,345 — Balance as of December 31, 2025 650,000 199,828,615 ( 9,452,008 ) 190,376,607 Shares issued under LTIPs — 707,836 — 707,836 Share repurchases — — ( 656,900 ) ( 656,900 ) Shares issued for the acquisition of the LSP Portfolio — 24,250,000 — 24,250,000 Retirement of treasury stock — ( 340,900 ) 340,900 — Balance as of January 31, 2026 650,000 224,445,551 ( 9,768,008 ) 214,677,543
+[END TABLE 140]
+
+[TABLE 141]
+Total number of shares purchased Average price paid per share Amounts paid for shares purchased (in millions) 2023 Repurchases: Open market repurchases 5,054,798 $ 39.56 $ 200 Repurchases made under the accelerated share repurchase agreements 17,676,142 (a) 950 Total Share Repurchases during 2023 22,730,940 1,150 (b) 2024 Repurchases: Repurchases made under the accelerated share repurchase agreements 1,163,230 (a) — Open market repurchases 10,562,333 87.57 925 Total Share Repurchases during 2024 11,725,563 925 (c) 2025 Repurchases: Open market repurchases 9,971,620 130.58 1,302 Shares received from the exercise of the Capped Call Options 224,585 69.38 16 Total Share Repurchases during 2025 10,196,205 1,318 (d) Repurchases made subsequent to December 31, 2025 thru January 31, 2026 656,900 151.93 100 Total Share Repurchases made under the $ 3.7 billion authorization 45,309,608 $ 77.08 $ 3,493
+[END TABLE 141]
+
+[TABLE 142]
+Total number of treasury shares retired Average price per share Carrying value of treasury shares retired (in millions) Shares retired during the year ended December 31, 2023 157,676,142 $ 31.77 $ 5,009 Shares retired during the year ended December 31, 2024 64,225,546 $ 41.07 $ 2,638 Shares retired during the year ended December 31, 2025 7,028,345 $ 68.80 $ 483
+[END TABLE 142]
+
+[TABLE 143]
+(In millions, except percentages) Name: Economic Interest Investment Balance Gladstone (a) 37.5 % $ — Midway-Sunset Cogeneration Company 50.0 % 16 Total equity investments in affiliates $ 16
+[END TABLE 143]
+
+[TABLE 144]
+As of December 31, (In millions) 2025 2024 Undistributed earnings $ 9 $ 5
+[END TABLE 144]
+
+[TABLE 145]
+(In millions) December 31, 2025 December 31, 2024 Accounts receivable, net and Other current assets $ 2,779 $ 2,402 Current liabilities 155 155 Net assets $ 2,624 $ 2,247
+[END TABLE 145]
+
+[TABLE 146]
+Year Ended December 31, (In millions, except per share amounts) 2025 2024 2023 Basic income/(loss) per share: Net income/(loss) $ 864 $ 1,125 $ ( 202 ) Less: Cumulative dividends attributable to Series A Preferred Stock 67 67 54 Income/(Loss) Available to Common Stockholders $ 797 $ 1,058 $ ( 256 ) Weighted average number of common shares outstanding - basic 195 206 228 Income/(Loss) per weighted average common share — basic $ 4.09 $ 5.14 $ ( 1.12 ) Diluted income/(loss) per share: Net income/(loss) $ 864 $ 1,125 $ ( 202 ) Less: Cumulative dividends attributable to Series A Preferred Stock 67 67 54 Income/(Loss) Available to Common Stockholders $ 797 $ 1,058 $ ( 256 ) Weighted average number of common shares outstanding - basic 195 206 228 Incremental shares attributable to the issuance of equity compensation (treasury stock method) 2 3 — Incremental shares attributable to the potential share settlement of Convertible Senior Notes (if converted method) 2 3 — Weighted average number of common shares outstanding - diluted 199 212 228 Income/(Loss) per weighted average common share — diluted $ 4.01 $ 4.99 $ ( 1.12 )
+[END TABLE 146]
+
+[TABLE 147]
+For the Year Ended December 31, 2025 (In millions) Texas East West/Other Vivint Smart Home Corporate Eliminations Total Revenue (a) $ 11,139 $ 14,263 $ 3,202 $ 2,144 $ — $ ( 35 ) $ 30,713 Operating Expenses 9,634 13,409 3,014 1,281 134 ( 35 ) 27,437 Depreciation and amortization 374 148 32 810 42 — 1,406 Total operating cost and expenses 10,008 13,557 3,046 2,091 176 ( 35 ) 28,843 Loss on sale of assets ( 18 ) — ( 7 ) — — — ( 25 ) Operating income/(loss) 1,113 706 149 53 ( 176 ) — 1,845 Equity in earnings of unconsolidated affiliates — — 11 — — — 11 Impairment losses on investments — — ( 39 ) — — — ( 39 ) Other income, net ( 1 ) 4 ( 1 ) ( 20 ) 86 — 68 Loss on debt extinguishment — — — — ( 10 ) — ( 10 ) Interest expense — — — — ( 741 ) — ( 741 ) Income/(loss) before income taxes 1,112 710 120 33 ( 841 ) — 1,134 Income tax expense — — — — 270 — 270 Net income/(loss) $ 1,112 $ 710 $ 120 $ 33 $ ( 1,111 ) $ — $ 864 Other segment information Equity investments in affiliates $ — $ — $ 16 $ — $ — $ — $ 16 Capital expenditures 976 17 9 24 121 — 1,147 Goodwill 643 721 130 3,523 — — 5,017 Total assets $ 9,286 $ 9,731 $ 2,724 $ 6,752 $ 20,951 $ ( 20,304 ) $ 29,140
+[END TABLE 147]
+
+[TABLE 148]
+(a) Inter-segment sales and inter-segment net derivative gains and losses included in revenues $ 23 $ 6 $ 6 $ — $ — $ — $ 35
+[END TABLE 148]
+
+[TABLE 149]
+For the Year Ended December 31, 2024 (In millions) Texas East West/Other Vivint Smart Home Corporate Eliminations Total Revenue (a) $ 10,651 $ 11,709 $ 3,819 $ 1,991 $ — $ ( 40 ) $ 28,130 Operating Expenses 9,783 9,748 3,818 1,085 81 ( 40 ) 24,475 Depreciation and amortization 323 158 99 782 41 — 1,403 Impairment losses 7 — 29 — — — 36 Total operating cost and expenses 10,113 9,906 3,946 1,867 122 ( 40 ) 25,914 (Loss)/Gain on sale of assets ( 4 ) 3 209 — — — 208 Operating income/(loss) 534 1,806 82 124 ( 122 ) — 2,424 Equity in earnings of unconsolidated affiliates — — 20 — — — 20 Impairment losses on investments — — ( 7 ) — — — ( 7 ) Other income, net — ( 1 ) 6 ( 15 ) 54 — 44 Loss on debt extinguishment — — — — ( 382 ) — ( 382 ) Interest expense — — — — ( 651 ) — ( 651 ) Income/(loss) before income taxes 534 1,805 101 109 ( 1,101 ) — 1,448 Income tax expense — — — — 323 — 323 Net income/(loss) $ 534 $ 1,805 $ 101 $ 109 $ ( 1,424 ) $ — $ 1,125 Other segment information Equity investments in affiliates $ — $ — $ 45 $ — $ — $ — $ 45 Capital expenditures 369 3 16 23 61 — 472 Goodwill 643 721 124 3,523 — — 5,011 Total assets $ 6,927 $ 8,010 $ 2,073 $ 6,814 $ 15,537 $ ( 15,339 ) $ 24,022
+[END TABLE 149]
+
+[TABLE 150]
+(a) Inter-segment sales and inter-segment net derivative gains and losses included in revenues $ 22 $ — $ 18 $ — $ — $ — $ 40
+[END TABLE 150]
+
+[TABLE 151]
+For the Year Ended December 31, 2023 (In millions) Texas East West/Other Vivint Smart Home (a) Corporate Eliminations Total Revenue (b) $ 10,474 $ 12,549 $ 4,241 $ 1,589 $ — $ ( 30 ) $ 28,823 Operating Expenses 8,351 14,363 4,997 882 133 ( 30 ) 28,696 Depreciation and amortization 348 167 86 658 36 — 1,295 Impairment losses 2 4 20 — — — 26 Total operating cost and expenses 8,701 14,534 5,103 1,540 169 ( 30 ) 30,017 Gain on sale of assets 1,324 254 — — — — 1,578 Operating income/(loss) 3,097 ( 1,731 ) ( 862 ) 49 ( 169 ) — 384 Equity in earnings of unconsolidated affiliates — — 16 — — — 16 Impairment losses on investments — — ( 102 ) — — — ( 102 ) Other income, net 2 ( 1 ) 1 ( 15 ) 60 — 47 Gain on debt extinguishment — — — — 109 — 109 Interest expense — — — — ( 667 ) — ( 667 ) Income/(loss) before income taxes 3,099 ( 1,732 ) ( 947 ) 34 ( 667 ) — ( 213 ) Income tax benefit — — — — ( 11 ) — ( 11 ) Net income/(loss) $ 3,099 $ ( 1,732 ) $ ( 947 ) $ 34 $ ( 656 ) $ — $ ( 202 )
+[END TABLE 151]
+
+[TABLE 152]
+(a) Includes results of operations following the acquisition date of March 10, 2023 (b) Inter-segment sales and inter-segment net derivative gains and losses included in revenues $ 5 $ 9 $ 16 $ — $ — $ — $ 30
+[END TABLE 152]
+
+[TABLE 153]
+Year Ended December 31, (In millions, except effective income tax rate) 2025 2024 2023 Current U.S. Federal $ ( 17 ) $ 55 $ 26 State 49 82 84 Foreign 16 5 ( 12 ) Total — current 48 142 98 Deferred U.S. Federal 221 333 50 State 11 ( 134 ) ( 61 ) Foreign ( 10 ) ( 18 ) ( 98 ) Total — deferred 222 181 ( 109 ) Total income tax expense/(benefit) $ 270 $ 323 $ ( 11 ) Effective income tax rate 23.8 % 22.3 % 5.2 %
+[END TABLE 153]
+
+[TABLE 154]
+Year Ended December 31, (In millions) 2025 2024 2023 U.S. $ 1,087 $ 1,485 $ 261 Foreign 47 ( 37 ) ( 474 ) Total $ 1,134 $ 1,448 $ ( 213 )
+[END TABLE 154]
+
+[TABLE 155]
+Year Ended December 31, 2025 (In millions, except effective income tax rate) Amount Percent Tax at federal statutory income tax rate $ 238 21.0 % State and local income taxes, net of federal effect (a) 46 4.1 % Nontaxable and nondeductible items: Stock compensation ( 41 ) ( 3.6 ) % Excess executive compensation 29 2.6 % Other 5 0.4 % Foreign Reconciling Items: Other foreign jurisdictions ( 6 ) ( 0.5 ) % Changes in prior year unrecognized tax benefit ( 1 ) ( 0.1 ) % Income tax expense $ 270 23.8 % Effective income tax rate 23.8 %
+[END TABLE 155]
+
+[TABLE 156]
+(a) State taxes in Texas and Pennsylvania make up the majority (greater than 50 percent) of the tax effect in this category
+[END TABLE 156]
+
+[TABLE 157]
+Year Ended December 31, (In millions, except effective income tax rate) 2024 2023 Income/(Loss) before income taxes $ 1,448 $ ( 213 ) Tax at federal statutory tax rate 304 ( 45 ) State taxes 92 ( 22 ) Foreign rate differential 1 ( 10 ) Changes in state valuation allowances ( 110 ) 42 Nondeductible loss on Convertible Senior Notes repurchases 56 — Permanent differences 23 31 Stock compensation ( 19 ) — Recognition of uncertain tax benefits 1 12 Deferred impact of state tax rate changes ( 24 ) 3 Foreign tax refunds — ( 17 ) Return to provision adjustments ( 1 ) ( 5 ) Income tax expense/(benefit) $ 323 $ ( 11 ) Effective income tax rate 22.3 % 5.2 %
+[END TABLE 157]
+
+[TABLE 158]
+As of December 31, (In millions) 2025 2024 Deferred tax assets: U.S. Federal net operating loss carryforwards $ 1,395 $ 1,477 State net operating loss carryforwards 326 341 Foreign net operating loss carryforwards 107 106 Deferred revenues 323 335 Difference between book and tax basis of property 101 322 Federal tax credit carryforwards 288 269 Deferred compensation, accrued vacation and other reserves 170 174 Interest disallowance carryforward per §163(j) of the Tax Act 26 77 Pension and other postretirement benefits 33 46 Allowance for credit losses 34 37 Equity compensation 44 30 Federal benefit on state uncertain tax positions 13 13 Inventory obsolescence 9 13 U.S. capital loss 1 1 Other 45 46 Total deferred tax assets 2,915 3,287 Deferred tax liabilities: Intangibles amortization (excluding goodwill) 338 486 Derivatives 85 193 Capitalized contract costs 345 249 Equity method investments 84 88 Goodwill 71 56 Emissions allowances 14 16 Total deferred tax liabilities 937 1,088 Total deferred tax assets less deferred tax liabilities 1,978 2,199 Valuation allowance ( 150 ) ( 144 ) Total net deferred tax assets, net of valuation allowance $ 1,828 $ 2,055
+[END TABLE 158]
+
+[TABLE 159]
+As of December 31, (In millions) 2025 2024 Deferred tax asset $ 1,843 $ 2,067 Deferred tax liability ( 15 ) ( 12 ) Net deferred tax asset $ 1,828 $ 2,055
+[END TABLE 159]
+
+[TABLE 160]
+As of December 31, (In millions) 2025 2024 Balance as of January 1 $ 57 $ 73 Increase due to current year positions 2 12 Settlements, payments and statute closure ( 6 ) ( 28 ) Uncertain tax benefits as of December 31 $ 53 $ 57
+[END TABLE 160]
+
+[TABLE 161]
+Year Ended December 31, (In millions) 2025 U.S. state and local: Texas $ 22 New York 10 California 7 Pennsylvania 7 Other 14 $ 60 Foreign: Other $ 7 Total $ 67
+[END TABLE 161]
+
+[TABLE 162]
+Year Ended December 31, (In millions) 2024 2023 Income taxes paid, net of refunds $ 182 $ 48
+[END TABLE 162]
+
+[TABLE 163]
+Rollover RSUs RSUs, excluding Rollover RSUs Units Weighted Average Grant Date Fair Value per Unit Units Weighted Average Grant Date Fair Value per Unit Non-vested at December 31, 2024 1,349,743 $ 31.63 2,228,743 $ 45.19 Granted — — 914,595 94.37 Forfeited ( 42,172 ) 31.63 ( 110,306 ) 70.85 Vested ( 978,086 ) 31.63 ( 1,143,431 ) 43.04 Non-vested at December 31, 2025 329,485 31.63 1,889,601 68.70
+[END TABLE 163]
+
+[TABLE 164]
+Units Weighted Average Grant Date Fair Value per Unit Outstanding at December 31, 2024 377,120 $ 33.91 Granted 17,310 155.90 Converted to Common Stock ( 2,442 ) 155.90 Outstanding at December 31, 2025 391,988 37.56
+[END TABLE 164]
+
+[TABLE 165]
+Units Weighted Average Grant-Date Fair Value per Unit Non-vested at December 31, 2024 887,356 $ 53.20 Granted 416,728 100.52 Forfeited ( 41,079 ) 110.37 Vested ( 498,147 ) 55.89 Non-vested at December 31, 2025 764,858 73.59
+[END TABLE 165]
+
+[TABLE 166]
+2025 2024 2023 Expected volatility 33.49 % 34.46 % 41.35 % Expected term (in years) 3 3 3 Risk free rate 4.24 % 4.05 % 4.18 %
+[END TABLE 166]
+
+[TABLE 167]
+Non-vested Compensation Cost (In millions, except weighted average data) Compensation Expense Unrecognized Total Cost Weighted Average Recognition Period Remaining (In years) Year Ended December 31, As of December 31, Award 2025 2024 2023 2025 2025 RSUs $ 74 $ 85 $ 96 $ 58 1.10 DSUs 2 3 2 — 0.00 RPSUs 58 14 5 43 0.93 PRSUs (a) 60 43 20 37 0.67 Total $ 194 $ 145 $ 123 $ 138 Tax (benefit)/detriment recognized $ ( 23 ) $ ( 14 ) $ 2
+[END TABLE 167]
+
+[TABLE 168]
+Year Ended December 31, (In millions) 2025 2024 2023 Revenues from Related Parties Included in Revenues Gladstone $ 3 $ 4 $ 4 Ivanpah (a) 50 60 78 Midway-Sunset 5 4 2 Total $ 58 $ 68 $ 84
+[END TABLE 168]
+
+[TABLE 169]
+Period (In millions) 2026 $ 2,795 2027 2,512 2028 1,602 2029 1,023 2030 739 Thereafter 1,517 Total (a) $ 10,188
+[END TABLE 169]
+
+[TABLE 170]
+Year Ended December 31, (In millions) 2025 2024 2023 Interest paid, net of amount capitalized $ 572 $ 626 $ 548 Non-cash investing and financing activities: Decreases to fixed assets for accrued capital expenditures ( 66 ) ( 76 ) — Excise tax accrued on share repurchases 11 9 10
+[END TABLE 170]
+
+[TABLE 171]
+By Remaining Maturity at December 31, (In millions) 2025 Guarantees Under 1 Year 1-3 Years 3-5 Years Over 5 Years Total 2024 Total Letters of credit and surety bonds $ 4,127 $ 135 $ 1 $ — $ 4,263 $ 4,188 Asset sales guarantee obligations 11 19 16 48 94 102 Other guarantees — — — 22 22 27 Total guarantees $ 4,138 $ 154 $ 17 $ 70 $ 4,379 $ 4,317
+[END TABLE 171]
+
+[TABLE 172]
+(In millions unless otherwise stated) As of December 31, 2025 Ownership Interest Property, Plant & Equipment Accumulated Depreciation Construction in Progress Cedar Bayou Unit 4, Baytown, TX 50.00 % $ 224 $ ( 136 ) $ 8
+[END TABLE 172]
+
+[TABLE 173]
+Year Ended December 31, (In millions) 2025 2024 Accrued RECs $ 495 $ 477 Accrued compensation and employee benefits 561 514 Other 808 1,040 Total accrued expenses and other current liabilities $ 1,864 $ 2,031
+[END TABLE 173]
+
+[TABLE 174]
+(In millions) Balance at Beginning of Period Charged to Costs and Expenses Charged to Other Accounts Deductions Balance at End of Period Allowance for credit losses, deducted from accounts receivable and other non-current assets Year Ended December 31, 2025 $ 152 $ 272 $ 19 $ ( 297 ) (a) $ 146 Year Ended December 31, 2024 145 $ 314 $ 18 $ ( 325 ) (a) 152 Year Ended December 31, 2023 133 251 35 ( 274 ) (a) 145 Income tax valuation allowance, deducted from deferred tax assets Year Ended December 31, 2025 $ 144 $ — $ 6 $ — $ 150 Year Ended December 31, 2024 275 $ ( 131 ) $ — $ — 144 Year Ended December 31, 2023 224 42 9 — 275
+[END TABLE 174]
+
+[TABLE 175]
+Number Description Method of Filing 2.1 Third Amended Joint Plan of Reorganization of GenOn Energy, Inc. and its Debtor Affiliates. Incorporated herein by reference to Exhibit 2.1 to the Registrant's current report on Form 8-K filed on December 18, 2017. 2.2†^ Purchase and Sale Agreement, dated as of February 6, 2018, by and among NRG Energy, Inc. and NRG Repowering Holdings LLC, and GIP III Zephyr Acquisition Partners, L.P. Incorporated herein by reference to Exhibit 2.9 to the Registrant's annual report on Form 10-K filed on March 1, 2018. 2.3^ Purchase and Sale Agreement, dated as of February 6, 2018, by and between NRG Energy, Inc., NRG South Central Generating LLC, and Cleco Energy LLC. Incorporated herein by reference to Exhibit 2.10 to the Registrant's annual report on Form 10-K filed on March 1, 2018. 2.4‡ Purchase and Sale Agreement dated as of February 28, 2021 by and between NRG Energy, Inc., and Generation Bridge Acquisition, LLC, as a Purchaser Incorporated herein by reference to Exhibit 2.1 to the Registrant's quarterly report on Form 10-Q filed on May 6, 2021. 2.5^ Agreement and Plan of Merger dated as of December 6, 2022, by and among the Company, Merger Sub and Vivint . Incorporated herein by reference to Exhibit 2.1 to the Registrant's Current Report on Form 8-K, filed on December 6, 2022. 2.6 Equity Purchase Agreement, dated May 31, 2023 by and among Constellation Energy Generation, LLC, as Buyer and Texas Genco GP, LLC, Texas Genco LP, LLC, together, Seller. Incorporated herein by reference to Exhibit 2.1 to the Registrant's current report on Form 8-K filed on June 1, 2023. 2.7 Amendment No.1 to Equity Purchase Agreement dated September 29, 2023 by and among Constellation Energy Generation, LLC. as Buyer and Texas Genco GP, LLC, together, Seller Incorporated herein by reference to Exhibit 2.7 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 2.8 Amendment No. 2 to Equity Purchase Agreement dated November 1, 2023 by and among Constellation Energy Generation, LLC. as Buyer and Texas Genco GP, LLC, together, Seller Incorporated herein by reference to Exhibit 2.8 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 2.9 Amendment No. 3 to Equity Purchase Agreement dated November 1, 2023 by and among Constellation Energy Generation, LLC. as Buyer and Texas Genco GP, LLC, together, Seller Incorporated herein by reference to Exhibit 2.9 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 2.10 Purchase and Sale Agreement, dated May 12, 2025, by and among NRG Energy, Inc., the Buyer Entities (as defined therein), Lightning Power Holdings, LLC, Thunder Generation, LLC, CCS Power Holdings, LLC, and Linebacker Power Development Funding, LLC** Incorporated herein by reference to Exhibit 2.1 to the Registrant's current report on Form 8-K filed on May 16, 2025. 3.1 Amended and Restated Certificate of Incorporation, dated May 1, 2025 Incorporated herein by reference to Exhibit 3.1 to the Registrant's current report on Form 8-K filed on May 12, 2025. 3.2 Sixth Amended and Restated By-Laws. Incorporated herein by reference to Exhibit 3.2 to the Registrant's current report on Form 8-K filed on December 2, 2022. 3.3 Series A Preferred Stock Certificate of Designation filed with the Secretary of the State of Delaware on March 9, 2023. Incorporated herein by reference to Exhibit 3.1 to the Registrant's current report on Form 8-K filed on March 10, 2023. 4.1 Specimen of Certificate representing common stock of NRG Energy, Inc. Incorporated herein by reference to Exhibit 4.3 to the Registrant's quarterly report on Form 10-Q filed on August 4, 2006. 4.2 Base Indenture, dated May 23, 2016, between NRG Energy, Inc. and Delaware Trust Company (as successor in interest to Law Debenture Trust Company of New York), as trustee. Incorporated herein by reference to Exhibit 4.1 to the Registrant's Current Report on Form 8-K filed on May 23, 2016. 4.3 Fourth Supplemental Indenture, dated December 7, 2017, among NRG Energy, Inc., the guarantors named therein and Delaware Trust Company, as trustee, containing Form of 5.750% Senior Notes due 2028. Incorporated herein by reference to Exhibit 4.2 to the Registrant's Current Report on Form 8-K, filed on December 8, 2017. 4.4 Fifth Supplemental Indenture, dated May 14, 2019, among NRG Energy, Inc., the guarantors named therein and Delaware Trust Company, as trustee, containing Form of 5.250% Senior Notes due 2029. Incorporated herein by reference to Exhibit 4.2 to the Registrant's Current Report on Form 8-K filed on May 16, 2019.
+[END TABLE 175]
+
+[TABLE 176]
+4.5 Base Indenture, dated December 2, 2020, between NRG Energy, Inc. and Deutsche Bank Trust Company Americas, as trustee. Incorporated herein by reference to Exhibit 4.5 to the Registrant's Current Report on Form 8-K, filed on December 4, 2020. 4.6 Supplemental Indenture, dated December 2, 2020, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 3.375% Senior Notes due 2029 and Form of 3.625% Senior Notes due 2031. Incorporated herein by reference to Exhibit 4.6 to the Registrant's Current Report on Form 8-K, filed on December 4, 2020. 4.7 Second Supplemental Indenture, dated August 23, 2021, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 3.875% Senior Notes due 2032. Incorporated herein by reference to Exhibit 4.2 to the Registrant's Current Report on Form 8-K, filed on August 23, 2021. 4.8 Base Indenture, dated October 30, 2024, between NRG Energy, Inc. and Deutsche Bank Trust Company Americas, as trustee. Incorporated herein by reference to Exhibit 4.1 to the Registrant's current report on Form 8-K filed on November 1, 2024. 4.9 Supplemental Indenture, dated October 30, 2024, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form 5.75% Senior Notes due 2029, Form of 6.00% Senior Notes due 2033 and Form of 6.25% Senior Notes due 2034. Incorporated herein by reference to Exhibit 4.2 to the Registrant's current report on Form 8-K filed on November 1, 2024. 4.10 Base Indenture, dated October 8, 2025, between NRG Energy, Inc. and Deutsche Bank Trust Company Americas, as trustee. Incorporated herein by reference to Exhibit 4.5 to the Registrant's current report on Form 8-K filed on October 8, 2025. 4.11 Supplemental Indenture, dated October 8, 2025, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 5.750% Senior Notes due 2034 and Form of 6.000% Senior Notes due 2036. Incorporated herein by reference to Exhibit 4.6 to the Registrant's current report on Form 8-K filed on October 8, 2025. 4.12 Base Indenture, dated May 28, 2019, between NRG Energy, Inc. and Delaware Trust Company, as trustee Incorporated herein by reference to Exhibit 4.1 to the Registrant's Current Report on Form 8-K filed on May 30, 2019. 4.13 Supplemental Indenture, dated May 28, 2019, among NRG Energy, Inc., the guarantors named therein and Delaware Trust Company, as trustee, containing Form of 3.750% Senior Secured First Lien Notes due 2024 and Form of 4.450% Senior Secured First Lien Notes due 2029 Incorporated herein by reference to Exhibit 4.2 to the Registrant's Current Report on Form 8-K filed on May 30, 2019. 4.14 Base Indenture, dated December 2, 2020, between NRG Energy, Inc. and Deutsche Bank Trust Company Americas, as trustee. Incorporated herein by reference to Exhibit 4.1 to the Registrant's Current Report on Form 8-K, filed on December 4, 2020. 4.15 Supplemental Indenture, dated December 2, 2020, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 2.000% Senior Secured First Lien Notes due 2025 and Form of 2.450% Senior Secured First Lien Notes due 2027 Incorporated herein by reference to Exhibit 4.2 to the Registrant's Current Report on Form 8-K, filed on December 4, 2020. 4.16 Supplemental Indenture, dated March 9, 2023, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 7.000% Senior Secured First Lien Notes due 2033 Incorporated herein by reference to Exhibit 4.2 to the Registrant's current report on Form 8-K filed on March 10, 2023. 4.17 Base Indenture, dated August 29, 2023, between NRG Energy, Inc. and Deutsche Bank Trust Company Americas, as trustee, pertaining to the Alexander Funding Trust II Pre-Capitalized Trust Securities. Incorporated herein by reference to Exhibit 4.4 to the Registrant's current report on Form 8-K filed on August 29, 2023. 4.18 Supplemental Indenture, dated August 29, 2023, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 7.467% Senior Secured First Lien Notes due 2028. Incorporated herein by reference to Exhibit 4.5 to the Registrant's current report on Form 8-K filed on August 29, 2023. 4.19 Base Indenture, dated October 8, 2025, between NRG Energy, Inc. and Deutsche Bank Trust Company Americas, as trustee. Incorporated herein by reference to Exhibit 4.1 to the Registrant's current report on Form 8-K filed on October 8, 2025. 4.20 Supplemental Indenture, dated October 8, 2025, among NRG Energy, Inc., the guarantors named therein and Deutsche Bank Trust Company Americas, as trustee, containing Form of 4.734% Senior Secured First Lien Notes due 2030 and Form 5.407% Senior Secured First Lien Notes due 2035. Incorporated herein by reference to Exhibit 4.2 to the Registrant's current report on Form 8-K filed on October 8, 2025.
+[END TABLE 176]
+
+[TABLE 177]
+4.21 Indenture, dated August 16, 2024, by and among Lighting Power, LLC, each of the subsidiary guarantors from time to time party thereto and U.S. Bank Trust Company, National Association, in its capacities as trustee and collateral trustee, containing Form of 7.250% Senior Secured Notes due 2032. Incorporated herein by reference to Exhibit 4.2 to the Registrant's current report on Form 8-K filed on January 30, 2026. 4.22 Registration Rights Agreement, dated January 30, 2026, by and among NRG Energy, Inc., Lighting Power Holdings, LLC, Thunder Generation, LLC and CCS Power Holdings, LLC. Incorporated herein by reference to Exhibit 4.1 to the Registrant's current report on Form 8-K filed on January 30, 2026. 4.23 Description of NRG Energy, Inc. securities registered pursuant to section 12 of the Securities Exchange Act of 1934 Filed herewith 9.1 Amended and Restated Voting Trust Agreement, dated January 30, 2026, by and among Lightning Power Holdings, LLC, Thunder Generation, LLC, CCS Power Holdings, LLC, and Wilmington Savings Fund Society, FSB Filed herewith 10.1* The NRG Energy, Inc. Amended and Restated Long-Term Incentive Plan Incorporated herein by reference to Exhibit 10.3 to the Registrant's quarterly report on Form 10-Q filed on August 8, 2024. 10.2* Form of NRG Energy, Inc. Long-Term Incentive Plan Restricted Stock Unit Agreement. Incorporated herein by reference to Exhibit 10.24 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 10.3* Form of NRG Energy, Inc. Long-Term Incentive Plan Restricted Stock Unit Agreement. Filed herewith 10.4* Form of NRG Energy, Inc. Long-Term Incentive Plan Deferred Stock Unit Agreement for Directors. Incorporated herein by reference to Exhibit 10.15 to the Registrant's annual report on Form 10-K filed on March 30, 2005. 10.5* Form of NRG Energy, Inc. Long-Term Incentive Plan Relative Performance Stock Unit Agreement for Senior Vice Presidents. Incorporated herein by reference to Exhibit 10.23 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 10.6* Form of NRG Energy, Inc. Long-Term Incentive Plan Relative Performance Stock Unit Agreement for Senior and Executive Vice Presidents. Filed herewith 10.7* Restricted Stock Unit Agreement, dated December 15, 2023, between NRG Energy, Inc. and Lawrence S. Coben Incorporated herein by reference to Exhibit 10.25 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 10.8* Relative Performance Stock Unit Agreement, dated August 1, 2024, between NRG Energy, Inc. and Lawrence S. Coben Incorporated herein by reference to Exhibit 10.10 to the Registrant's annual report on Form 10-K filed on February 26, 2025. 10.9* Form of NRG Energy, Inc. Long-Term Incentive Plan Restricted Stock Unit Agreement for Chief Executive Officer Incorporated herein by reference to Exhibit 10.11 to the Registrant's annual report on Form 10-K filed on February 26, 2025. 10.10* Form of NRG Energy, Inc. Long-Term Incentive Plan Restricted Stock Unit Agreement for Chief Executive Officer Filed herewith 10.11* Form of NRG Energy, Inc. Long-Term Incentive Plan Relative Performance Stock Unit Agreement for Chief Executive Officer Incorporated herein by reference to Exhibit 10.12 to the Registrant's annual report on Form 10-K filed on February 26, 2025. 10.12* Form of NRG Energy, Inc. Long-Term Incentive Plan Relative Performance Stock Unit Agreement for Chief Executive Officer Filed herewith 10.13* NRG Energy, Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) (formerly known as the Vivint Smart Home, Inc. Long-Term Incentive Plan) Incorporated herein by reference to Exhibit 4.4 to Vivint Smart Home's Post-Effective Amendment on Form S-8 to Registration Statement on Form S-4 filed with the Securities and Exchange Commission on March 24, 2020 10.14* Amendment to NRG Energy, Inc. 2020 Omnibus Incentive Plan (Legacy Vivint) Incorporated herein by reference to Exhibit 10.1 to the Registrant's quarterly report on Form 10-Q filed on August 8, 2023. 10.15* Second Amendment to NRG Energy, Inc. 2020 Omnibus Incentive Plan (Legacy Vivint) Incorporated herein by reference to Exhibit 10.15 to the Registrant's annual report on Form 10-K filed on February 26, 2025.
+[END TABLE 177]
+
+[TABLE 178]
+10.16* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Restricted Stock Unit Agreement and Notice of Grant Incorporated herein by reference to Exhibit 10.3 to the Registrant's quarterly report on Form 10-Q filed on May 4, 2023. 10.17* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Restricted Stock Unit Agreement and Notice of Grant Incorporated herein by reference to Exhibit 10.30 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 10.18* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Restricted Stock Unit Agreement and Notice of Grant Filed herewith 10.19* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Restricted Stock Unit Agreement and Notice of Grant Filed herewith 10.20* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Relative Performance Stock Unit Agreement and Notice of Grant Incorporated herein by reference to Exhibit 10.2 to the Registrant's quarterly report on Form 10-Q filed on May 4, 2023. 10.21* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Relative Performance Stock Unit Agreement and Notice of Grant Incorporated herein by reference to Exhibit 10.29 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 10.22* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Relative Performance Stock Unit Agreement and Notice of Grant Filed herewith 10.23* Form of NRG Energy Inc., 2020 Omnibus Incentive Plan (Legacy Vivint) Relative Performance Stock Unit Agreement and Notice of Grant Filed herewith 10.24* Amendment to Relative Performance Stock Unit Agreements, dated October 16, 2025 Filed herewith 10.25* Second Amended and Restated Annual Incentive Plan for Designated Corporate Officers. Incorporated herein by reference to Exhibit 10.1 to the Registrant's current report on Form 8-K filed on May 7, 2015. 10.26* NRG Energy, Inc. Amended and Restated Executive Change-in-Control and General Severance Plan for Tier IA and Tier IIA Executives (Amended and Restated Effective January 1, 2024). Incorporated herein by reference to Exhibit 10.10 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 10.27* Amended and Restated Employee Stock Purchase Plan Incorporated herein by reference to Exhibit 10.4 to the Registrant's current report on Form 8-K filed on August 6, 2025. 10.28* Employment Agreement, dated August 1, 2024 by and between NRG Energy, Inc. and Lawrence S. Coben Incorporated herein by reference to Exhibit 10.1 to the Registrant's current report on Form 8-K filed on August 1, 2024. 10.29 Fifteen Amendment to Second Amended and Restated Credit Agreement, dated July 22, 2025, by and among NRG Energy, Inc., Citicorp North America, Inc., as administrative agent and as collateral agent, and certain financial institutions, as lenders** . Incorporated herein by reference to Exhibit 10.1 to the Registrant's current report on Form 8-K filed on July 25, 2025. 10.30 Amendment No. 1 to Credit Agreement, dated February 18, 2025, by and among Lightning Power, LLC, the subsidiary guarantors party thereto, each of the lenders party thereto and Morgan Stanley Senior Funding, Inc. as administrative agent, collateral agent and replacement lender, and included as Exhibit A thereto a clean, conformed copy of Lightning Credit Agreement.** Incorporated herein by reference to Exhibit 10.1 to the Registrant's current report on Form 8-K filed on January 30, 2026. 10.31 Receivables Sale Agreement, dated as of September 22, 2020, among the Originators from time to time parties thereto, NRG Retail LLC, as Servicer, and NRG Receivables LLC. Incorporated herein by reference to Exhibit 10.1 to the Registrant’s Current Report on Form 8-K filed on September 22, 2020. 10.32 Amendment No. 5 to Receivables Loan and Servicing Agreement, dated as of June 20, 2025, by and among NRG Retail LLC, as Servicer, NRG Receivables LLC, as Borrower, NRG Energy, Inc., as Performance Guarantor, the Conduit Lenders, Committed Lenders, Facility Agents and LC Issuers party thereto, and Royal Bank of Canada, as administrative Agent, and attached thereto a clean, conformed copy of the Receivables Loan and Servicing Agreement. Incorporated herein by reference to Exhibit 10.3 to the Registrant's quarterly report on Form 10-Q filed on August 6, 2025.
+[END TABLE 178]
+
+[TABLE 179]
+10.33 Equity Contribution Agreement and Guaranty, dated September 26, 2025, among NRG Energy, Inc., Cedar Bayou 5 Holdings LLC, NRG Cedar Bayou 5 LLC, Public Utility Commissioner of Texas, and Wilmington Trust, National Association, as administrative agent and collateral agent. ** Incorporated herein by reference to Exhibit 10.1 to the Registrant's quarterly report on Form 10-Q filed on November 6, 2025. 10.34 Credit Agreement, dated September 26, 2025, among NRG Cedar Bayou 5 LLC, Public Utility Commissioner of Texas, and Wilmington Trust, National Association, as administrative agent and collateral agent.* * Incorporated herein by reference to Exhibit 10.2 to the Registrant's quarterly report on Form 10-Q filed on November 6, 2025. 10.35 Joinder Agreement, dated as of June 21, 2024, by Direct Energy Services, LLC, as an additional originator and consented to by NRG Receivables LLC, as Borrower, NRG Retail LLC, as Servicer, and Royal Bank of Canada, as administrative agent, to the Receivables Sale Agreement, dated as of September 22, 2020, among the Originators from time to time parties thereto, NRG Retail LLC, as Servicer, and NRG Receivables LLC. Incorporated herein by reference to Exhibit 10.2 to the Registrant's current report on Form 8-K filed on June 24, 2024. 10.36 Facility Agreement, dated August 29, 2023, among NRG Energy, Inc., the guarantors party thereto, Alexander Funding Trust II and Deutsche Bank Trust Company Americas, as the notes trustee Incorporated herein by reference to Exhibit 4.1 to the Registrant's current report on Form 8-K filed on August 29, 2023. 10.37 Letter of Credit Facility Agreement, dated August 29, 2023, among NRG Energy, Inc., the financial institutions from time to time party thereto as letter of credit issuers, and Deutsche Bank Trust Company Americas, as administrative agent and as collateral agent Incorporated herein by reference to Exhibit 4.2 to the Registrant's current report on Form 8-K filed on August 29, 2023. 10.38 Amended and Restated Declaration of Trust of Alexander Funding Trust II, dated August 29, 2023, among NRG Energy, Inc. as depositor and in its own capacity, Deutsche Bank Trust Company Americas, as trustee, and Deutsche Bank Trust Company Delaware, as Delaware trustee Incorporated herein by reference to Exhibit 4.3 to the Registrant's current report on Form 8-K filed on August 29, 2023. 10.39† Consent and Indemnity Agreement, dated as of February 6, 2018, by and among NRG Energy, Inc., NRG Repowering Holdings LLC, NRG Yield, Inc., and GIP III Zephyr Acquisition Partners, L.P., and NRG Yield Operating LLC (solely with respect to Sections E.5, E.6 and G.12). Incorporated herein by reference to Exhibit 10.34 to NRG Yield, Inc.'s Annual Report on Form 10-K filed on March 1, 2018. 19.1 Insider Trading Policy Filed herewith. 21.1 Subsidiaries of NRG Energy, Inc. Filed herewith. 22.1 List of Guarantor Subsidiaries Filed herewith. 23.1 Consent of KPMG LLP. Filed herewith. 24.1 Power of Attorney Included on signature page 31.1 Rule 13a-14(a)/15d-14(a) certification of Lawrence Coben Filed herewith. 31.2 Rule 13a-14(a)/15d-14(a) certification of Woo-Sung Chung Filed herewith. 31.3 Rule 13a-14(a)/15d-14(a) certification of G. Alfred Spencer Filed herewith. 32 Section 1350 Certification. Furnished herewith. 95.1 Mine Safety Disclosure Filed herewith. 97 NRG Energy, Inc. Clawback Policy Incorporated herein by reference to Exhibit 97 to the Registrant's annual report on Form 10-K filed on February 28, 2024. 101 INS Inline XBRL Instance Document. The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document. 101 SCH Inline XBRL Taxonomy Extension Schema. Filed herewith. 101 CAL Inline XBRL Taxonomy Extension Calculation Linkbase. Filed herewith. 101 DEF Inline XBRL Taxonomy Extension Definition Linkbase. Filed herewith. 101 LAB Inline XBRL Taxonomy Extension Label Linkbase. Filed herewith. 101 PRE Inline XBRL Taxonomy Extension Presentation Linkbase. Filed herewith. 104 Cover Page Interactive Data File (the cover page interactive data file does not appear in Exhibit 104 because it's Inline XBRL tags are embedded within the Inline XBRL document). Filed herewith.
+[END TABLE 179]
+
+[TABLE 180]
+* Exhibit relates to compensation arrangements. ** The Schedules and exhibits have been omitted from this filing pursuant to Item 601(b)(2) of Regulation S K. A copy of any omitted schedule or exhibit will be furnished to the Securities and Exchange Commission upon request. † Portions of this exhibit have been redacted and are subject to a confidential treatment request filed with the Secretary of the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended. ^ This filing excludes schedules pursuant to Item 601(b)(2) of Regulation S-K, which the registrant agrees to furnish supplementary to the Securities and Exchange Commission upon request by the Commission. ‡ Portions of this exhibit have been excluded because they are both not material and would likely cause competitive harm to the registrant if publicly disclosed. Information that has been omitted has been noted in this document with a placeholder identified by the mark “[***]”.
+[END TABLE 180]
+
+[TABLE 181]
+NRG ENERGY, INC. (Registrant) By: /s/ LAWRENCE S. COBEN Lawrence S. Coben Chief Executive Officer
+[END TABLE 181]
+
+[TABLE 182]
+Signature Title Date /s/ LAWRENCE S. COBEN Chief Executive Officer and Director February 24, 2026 Lawrence S. Coben (Principal Executive Officer, Chair of the Board) /s/ WOO-SUNG CHUNG Chief Financial Officer February 24, 2026 Woo-Sung Chung (Principal Financial Officer) /s/ G. ALFRED SPENCER Chief Accounting Officer February 24, 2026 G. Alfred Spencer (Principal Accounting Officer) /s/ E. SPENCER ABRAHAM Director February 24, 2026 E. Spencer Abraham /s/ ANTONIO CARRILLO Director February 24, 2026 Antonio Carrillo /s/ MATTHEW CARTER, JR. Director February 24, 2026 Matthew Carter, Jr. /s/ HEATHER COX Director February 24, 2026 Heather Cox /s/ ELISABETH B. DONOHUE Director February 24, 2026 Elisabeth B. Donohue /s/ MARWAN FAWAZ Director February 24, 2026 Marwan Fawaz /s/ SANJAY KAPOOR Director February 24, 2026 Sanjay Kapoor /s/ ALEX POURBAIX Director February 24, 2026 Alex Pourbaix /s/ ALEXANDRA PRUNER Director February 24, 2026 Alexandra Pruner /s/ MARCIE C. ZLOTNIK Director February 24, 2026 Marcie C. Zlotnik
+[END TABLE 182]

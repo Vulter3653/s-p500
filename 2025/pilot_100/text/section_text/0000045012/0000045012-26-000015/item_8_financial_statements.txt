@@ -1,0 +1,1647 @@
+Item 8. Financial Statements and Supplementary Data.
+
+HAL 2025 FORM 10-K | 40
+
+MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+The management of Halliburton Company is responsible for establishing and maintaining adequate internal control
+
+over financial reporting as defined in the Securities Exchange Act Rule 13a-15(f).
+
+Internal control over financial reporting, no matter how well designed, has inherent limitations. Therefore, even those
+
+systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and
+
+presentation. Further, because of changes in conditions, the effectiveness of internal control over financial reporting may vary
+
+over time.
+
+Under the supervision and with the participation of our management, including our chief executive officer and chief
+
+financial officer, we conducted an evaluation to assess the effectiveness of our internal control over financial reporting as of
+
+December 31, 2025 based upon criteria set forth in the Internal Control - Integrated Framework (2013) issued by the
+
+Committee of Sponsoring Organizations of the Treadway Commission.
+
+Based on this assessment, management concluded that, as of December 31, 2025 , our internal control over financial
+
+reporting was effective. The effectiveness of Halliburton’s internal control over financial reporting as of December 31, 2025 has
+
+been audited by KPMG LLP, an independent registered public accounting firm, as stated in their report that is included herein.
+
+HALLIBURTON COMPANY
+
+by
+
+HAL 2025 FORM 10-K | 41
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and Board of Directors
+
+Halliburton Company:
+
+Opinion on the Consolidated Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Halliburton Company and subsidiaries (the Company) as of
+
+December 31, 2025 and 2024 , the related consolidated statements of operations, comprehensive income, cash flows and
+
+shareholders' equity for each of the years in the three-year period ended December 31, 2025 , and the related notes (collectively,
+
+the consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material
+
+respects, the financial position of the Company as of December 31, 2025 and 2024 , and the results of its operations and its cash
+
+flows for each of the years in the three-year period ended December 31, 2025 , in conformity with U.S. generally accepted
+
+accounting principles.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States)
+
+(PCAOB), the Company’s internal control over financial reporting as of December 31, 2025 , based on criteria established in
+
+Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway
+
+Commission, and our report dated February 6, 2026 expressed an unqualified opinion on the effectiveness of the Company’s
+
+internal control over financial reporting.
+
+Basis for Opinion
+
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express
+
+an opinion on these consolidated financial statements based on our audits. We are a public accounting firm registered with the
+
+PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and
+
+the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the
+
+audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement,
+
+whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the
+
+consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such
+
+procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial
+
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management,
+
+as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a
+
+reasonable basis for our opinion.
+
+Critical Audit Matter
+
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial
+
+statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or
+
+disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or
+
+complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated
+
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate
+
+opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+
+Evaluation of the Realizability of Deferred Tax Assets
+
+As discussed in Notes 1 and 12 to the consolidated financial statements, the Company recognizes deferred tax
+
+assets and liabilities for the expected future tax consequences of events that have been recognized in the financial
+
+statements. A valuation allowance is provided for deferred tax assets if it is more likely than not that these items
+
+will not be realized, which is dependent upon the generation of future taxable income. As of December 31, 2025 ,
+
+the Company had gross deferred tax assets of $3.6 billion and a related valuation allowance of $0.9 billion.
+
+We identified the evaluation of the realizability of domestic deferred tax assets as a critical audit matter. The
+
+evaluation of the realizability of domestic deferred tax assets, specifically related to foreign tax credits, required
+
+subjective auditor judgment to assess the forecasts of future taxable income over the periods in which those
+
+temporary differences become deductible. Changes in assumptions regarding forecasted taxable income,
+
+specifically revenue growth rates, could have an impact on the Company’s evaluation of the realizability of the
+
+domestic deferred tax assets.
+
+HAL 2025 FORM 10-K | 42
+
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the
+
+design and tested the operating effectiveness of certain internal controls related to the critical audit matter. This
+
+included controls related to the development of forecasts of future taxable income. We evaluated the assumptions
+
+used in the development of forecasts of future taxable income, specifically revenue growth rates, by comparing to
+
+historical actuals while considering current and anticipated future commodity prices or market events. We also
+
+evaluated the Company’s history of realizing domestic deferred tax assets by evaluating the expiration of foreign
+
+tax credits.
+
+/s/ KPMG LLP
+
+We have served as the Company’s auditor since 2002.
+
+Houston, Texas
+
+February 6, 2026
+
+HAL 2025 FORM 10-K | 43
+
+Report of Independent Registered Public Accounting Firm
+
+To the Shareholders and Board of Directors
+
+Halliburton Company:
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Halliburton Company and subsidiaries’ (the Company) internal control over financial reporting as of
+
+December 31, 2025 , based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee
+
+of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects,
+
+effective internal control over financial reporting as of December 31, 2025 , based on criteria established in Internal Control -
+
+Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States)
+
+(PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and 2024 , the related consolidated
+
+statements of operations, comprehensive income, cash flows and shareholders’ equity for each of the years in the three-year
+
+period ended December 31, 2025 , and the related notes (collectively, the consolidated financial statements), and our report
+
+dated February 6, 2026 expressed an unqualified opinion on those consolidated financial statements.
+
+Basis for Opinion
+
+The Company's management is responsible for maintaining effective internal control over financial reporting and for its
+
+assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report
+
+on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control
+
+over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be
+
+independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+
+regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the
+
+audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all
+
+material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control
+
+over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating
+
+effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we
+
+considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the
+
+reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+
+accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures
+
+that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and
+
+dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit
+
+preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and
+
+expenditures of the company are being made only in accordance with authorizations of management and directors of the
+
+company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also,
+
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate
+
+because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+/s/ KPMG LLP
+
+Houston, Texas
+
+February 6, 2026
+
+HAL 2025 FORM 10-K | 44
+
+HALLIBURTON COMPANY
+
+Consolidated Statements of Operations
+
+See N otes to Consolidated Financial Statements.
+
+HAL 2025 FORM 10-K | 45
+
+HALLIBURTON COMPANY
+
+Consolidated Statements of Comprehensiv e Income
+
+See Notes to Consolidated Financial Statements.
+
+HAL 2025 FORM 10-K | 46
+
+HALLIBURTON COMPANY
+
+Consolidated Balance Sheets
+
+See Notes to Consolidated Financial Statements.
+
+HAL 2025 FORM 10-K | 47
+
+HALLIBURTON COMPANY
+
+Consolidated Statements of Cash Flows
+
+See Notes to Consolidated Financial Statements.
+
+HAL 2025 FORM 10-K | 48
+
+HALLIBURTON COMPANY
+
+Consolidated Statements of Shareholders' Equity
+
+See Notes to Consolidated Financial Statements.
+
+HAL 2025 FORM 10-K | 49
+
+HALLIBURTON COMPANY
+
+Notes to Consolidated Financial Statements
+
+Note 1 . Description of Company and Significant Accounting Policies
+
+Description of Company
+
+Halliburton Company is one of the world's largest providers of products and services to the energy industry. Its
+
+predecessor was established in 1919 and incorporated under the laws of the State of Delaware in 1924. We help our customers
+
+maximize asset value throughout the lifecycle of the reservoir - from locating hydrocarbons and managing geological data, to
+
+drilling and formation evaluation, well construction and completion, and optimizing production throughout the life of the asset.
+
+We serve major, national, and independent oil and natural gas companies throughout the world and operate under two divisions,
+
+which form the basis for the two operating segments we report, the Completion and Production segment and the Drilling and
+
+Evaluation segment.
+
+Use of estimates
+
+Our financial statements are prepared in conformity with United States generally accepted accounting principles,
+
+requiring us to make estimates and assumptions that affect:
+
+- the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the
+
+financial statements; and
+
+- the reported amounts of revenue and expenses during the reporting period.
+
+We believe the most significant estimates and assumptions are associated with the forecasting of our income tax
+
+(provision) benefit and the valuation of deferred taxes, legal reserves, long-lived asset valuations, and allowance for credit
+
+losses. Ultimate results could differ from our estimates.
+
+Basis of presentation
+
+The consolidated financial statements include the accounts of our company and all of our subsidiaries that we control
+
+or variable interest entities for which we have determined that we are the primary beneficiary. All material intercompany
+
+accounts and transactions are eliminated. Investments in companies in which we do not have a controlling interest, but over
+
+which we do exercise significant influence, are accounted for using the equity method of accounting, unless we elect the fair
+
+value option. If we do not have significant influence and the investment has no readily determinable fair value, we elect the
+
+measurement alternative. In addition, certain reclassifications of prior period balances have been made to conform to the current
+
+period presentation.
+
+Revenue recognition
+
+Our services and products are generally sold based upon purchase orders or contracts with our customers that include
+
+fixed or determinable prices but do not include right of return provisions or other significant post-delivery obligations. The vast
+
+majority of our service and product contracts are short-term in nature. We recognize revenue based on the transfer of control or
+
+our customers' ability to benefit from our services and products in an amount that reflects the consideration we expect to receive
+
+in exchange for those services and products. We also assess our customers' ability and intention to pay, which is based on a
+
+variety of factors, including our historical payment experience with, and the financial condition of our customers. Rates for
+
+services are typically priced on a per day, per meter, per man-hour, or similar basis. See Notes to Consolidated Financial
+
+Statements, Note 4 for further information on revenue recognition.
+
+Research and development
+
+We maintain an active research and development program. The program improves products, processes, and
+
+engineering standards and practices that serve the changing needs of our customers. Research and development costs are
+
+expensed as incurred and wer e $ 411 million in 2025 , $ 426 million in 2024 , and $ 408 million in 2023 .
+
+Cash equivalents
+
+We consider all highly liquid investments with an original maturity of three months or less to be cash equivalents.
+
+Inventories
+
+Inventories are stated at the lower of cost or net realizable value. Cost represents invoice or production cost for new
+
+items and original cost. Production cost includes material, labor, and manufacturing overhead. Our inventory is recorded on the
+
+weighted average cost method. We regularly review inventory quantities on hand and record provisions for excess or obsolete
+
+inventory based primarily on historical usage, estimated product demand, and technological developments.
+
+HAL 2025 FORM 10-K | 50
+
+Allowance for credit losses
+
+We establish an allowance for credit losses through a review of several factors, including historical collection
+
+experience, current aging status of the customer accounts, and current financial condition of our customers. Losses are charged
+
+against the allowance when the customer accounts are determined to be uncollectible.
+
+Property, plant, and equipment
+
+Other than those assets that have been written down to their fair values due to impairment, property, plant, and
+
+equipment are reported at cost less accumulated depreciation, which is generally provided on the straight-line method over the
+
+estimated useful lives of the assets. Accelerated depreciation methods are often used for tax purposes, when permitted. Upon
+
+sale or retirement of an asset, the related costs and accumulated depreciation are removed from the accounts and any gain or
+
+loss is recognized. Planned major maintenance costs are generally expensed as incurred. Expenditures for additions,
+
+modifications, and conversions are capitalized when they increase the value or extend the useful life of the asset.
+
+Goodwill and other intangible assets
+
+We record as goodwill the excess purchase price over the fair value of the tangible and identifiable intangible assets
+
+acquired in a business acquisition. Changes in the carrying amount of goodwill are detailed below by reportable segment.
+
+The reported amounts of goodwill for each reporting unit are reviewed for impairment on an annual basis, during the
+
+third quarter, and more frequently when circumstances indicate an impairment may exist. As a result of our goodwill
+
+impairment assessments performed in the years ended December 31, 2025 , 2024 , and 2023 , we determined that the fair value of
+
+each reporting unit exceeded its net book value and, therefore, no goodwill impairments were deemed necessary.
+
+We amortize other identifiable intangible assets with a finite life on a straight-line basis over the period which the asset
+
+is expected to contribute to our future cash flows, ranging from one year to thirty years . The components of these other
+
+intangible assets generally consist of patents, license agreements, non-compete agreements, trademarks, and customer lists and
+
+contracts.
+
+Evaluating impairment of long-lived assets
+
+When events or changes in circumstances indicate that long-lived assets other than goodwill may be impaired, an
+
+evaluation is performed. For assets classified as held for use, we first group individual assets based on the lowest level for
+
+which identifiable cash flows are largely independent of the cash flows from other assets. We then compare estimated future
+
+undiscounted cash flows expected to result from the use and eventual disposition of the asset group to its carrying amount. If
+
+the asset group's undiscounted cash flows are less than its carrying amount, we then determine the asset group's fair value by
+
+using a discounted cash flow analysis and recognize any resulting impairment. When an asset is classified as held for sale, the
+
+asset’s book value is evaluated and adjusted to the lower of its carrying amount or fair value less cost to sell. In addition,
+
+depreciation and amortization is ceased while it is classified as held for sale. See Notes to Consolidated Financial Statements,
+
+Note 2 for further information on impairments and other charges.
+
+Income taxes
+
+We recognize the amount of taxes payable or refundable for the year. In addition, deferred tax assets and liabilities are
+
+recognized for the expected future tax consequences of events that have been recognized in the financial statements or tax
+
+returns. A valuation allowance is provided for deferred tax assets if it is more likely than not that these items will not be
+
+realized.
+
+HAL 2025 FORM 10-K | 51
+
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some
+
+portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the
+
+generation of future taxable income during the periods in which those temporary differences become deductible. Management
+
+considers the scheduled reversal of deferred tax liabilities, projected future taxable income, and tax planning strategies in
+
+making this assessment. Based upon the level of historical taxable income and projections for future taxable income over the
+
+periods in which the deferred tax assets are deductible, management believes it is more likely than not that we will realize the
+
+benefits of these deductible differences, net of the existing valuation allowances.
+
+We recognize interest and penalties related to unrecognized tax benefits within the “Income tax provision” in our
+
+Consolidated Statements of Operations.
+
+Derivative instruments
+
+At times, we enter into derivative financial transactions to hedge existing or projected exposures to changing foreign
+
+currency exchange rates, interest rates, and credit risk . We do not enter into derivative transactions for speculative or trading
+
+purposes. We recognize all derivatives on the balance sheet at fair value. Derivatives that are not hedges are adjusted to fair
+
+value which are reflected within "Other, net" on our Consolidated Statements of Operations. If the derivative is designated as a
+
+hedge, depending on the nature of the hedge, changes in the fair value of derivatives are either offset against:
+
+- the change in fair value of the hedged assets, liabilities, or firm commitments through earnings; or
+
+- recognized in other comprehensive income until the hedged item is recognized in earnings.
+
+The ineffective portion of a derivative’s change in fair value is recognized in earnings. Recognized gains or losses on
+
+derivatives entered into to manage foreign currency exchange risk and credit risk are included in “Other, net” on the
+
+Consolidated Statements of Operations. Gains or losses on interest rate derivatives are included in “Interest expense, net.”
+
+Foreign currency translation
+
+Foreign entities whose functional currency is the U.S. dollar translate monetary assets and liabilities at year-end
+
+exchange rates, and nonmonetary items are translated at historical rates. Revenue and expense transactions are translated at the
+
+average rates in effect during the year, except for those expenses associated with nonmonetary balance sheet accounts, which
+
+are translated at historical rates. Gains or losses from remeasurement of monetary assets and liabilities due to changes in
+
+exchange rates are recognized in our Consolidated Statements of Operations in “Other, net” in the year of occurrence.
+
+Stock-based compensation
+
+Stock-based compensation cost is measured at the date of grant, based on the calculated fair value of the award and is
+
+recognized as expense over the employee’s service period, which is generally the vesting period of the equity grant.
+
+Additionally, compensation cost is recognized based on awards ultimately expected to vest, therefore, we have reduced the cost
+
+for estimated forfeitures based on historical forfeiture rates. Forfeitures are estimated at the time of grant and revised in
+
+subsequent periods to reflect actual forfeitures. See Notes to Consolidated Financial Statements, Note 14 for additional
+
+information related to stock-based compensation .
+
+Note 2 . Impairments and Other Charges
+
+The following table presents various pre-tax charges we recorded during the years ended December 31, 2025 and
+
+2024 , which are reflected within “Impairments and other charges” on our Consolidated Statements of Operations .
+
+HAL 2025 FORM 10-K | 52
+
+For the year ended December 31, 2025 , the charges included $ 299 million of severance costs, $ 224 million of an
+
+impairment of assets held for sale related to our chemical business, fixed and other asset write-offs of $ 115 million , a $ 53
+
+million impairment associated with facility closures and lease terminations, $ 50 million equity in earnings loss, and $ 106
+
+million of other charges, primarily related to legacy environmental remediation cost estimate increases. Offsetting these charges
+
+were a release of accruals related to a cybersecurity incident from the third quarter of 2024 for $ 10 million and a gain of $ 6
+
+million related to an equity investment.
+
+For the year ended December 31, 2024 , the charges included $ 63 million of severance costs, a $ 49 million impairment
+
+of assets held for sale , $ 35 million in expenses related to a cybersecurity incident, and $ 12 million of other charges, and were
+
+partially offset by a $ 43 million gain related to a fair value adjustment on an equity investment.
+
+For the year ended December 31, 2023 , there were no amounts recorded in impairment and other charges.
+
+HAL 2025 FORM 10-K | 53
+
+Note 3 . Business Segment and Geographic Information
+
+We operate under two divisions, which form the basis for the two operating segments we report: the Completion and
+
+Production segment and the Drilling and Evaluation segment. Our equity in earnings and losses of unconsolidated affiliates that
+
+are accounted for using the equity method of accounting are included within cost of services and cost of sales on our statements
+
+of operations, which is part of operating income of the applicable segment.
+
+Our company’s chief operating decision maker (CODM) is Jeffrey Miller, Chairman of the Board, President and Chief
+
+Executive Officer. Our CODM assesses the performance of the two segments and makes resource allocation decisions based on
+
+segment revenue and operating income.
+
+Operations by business segment
+
+The follow ing table presents information on our business segments.
+
+HAL 2025 FORM 10-K | 54
+
+The following table presents significant segment expenses, which represent the difference between segment revenue
+
+and segment operatin g income and are regularly reviewed by our CODM .
+
+Other segment operating expenses primarily consist of maintenance, overhead allocations, facilities cost, and other
+
+miscellaneous costs.
+
+HAL 2025 FORM 10-K | 55
+
+The following table presents total assets by segment.
+
+Operations by geographic region
+
+The following tables present information by geographic area. In 2025 , 2024 , and 2023 , based on the location of
+
+services provided and products sold, 39 % , 40 % , and 44 % , respectively, of our consolidated revenue was from the United States.
+
+No other country accounted for more than 10% of our revenue or property, plant, and equipment during the periods presented.
+
+As of December 31, 2025 and December 31, 2024 , 42 % and 49 % , respectively, of our property, plant, and equipment was
+
+located in the United States.
+
+Note 4 . Revenue
+
+Revenue is recognized based on the transfer of control or our customers’ ability to benefit from our services and
+
+products in an amount that reflects the consideration we expect to receive in exchange for those services and products. Most of
+
+our service and product contracts are short-term in nature. In recognizing revenue for our services and products, we determine
+
+the transaction price of purchase orders or contracts with our customers, which may consist of fixed and variable consideration.
+
+We also assess our customers’ ability and intention to pay, which is based on a variety of factors, including our historical
+
+payment experience with, and the financial condition of, our customers. Payment terms and conditions vary by contract type,
+
+although terms generally include a requirement of payment within 20 to 60 days . Other judgments involved in recognizing
+
+revenue include an assessment of progress towards completion of performance obligations for certain long-term contracts,
+
+which involve estimating total costs to determine our progress towards contract completion and calculating the corresponding
+
+amount of revenue to recognize .
+
+HAL 2025 FORM 10-K | 56
+
+Disaggregation of revenue
+
+We disaggregate revenue from contracts with customers into types of services or products, consistent with our two
+
+reportable segments, in addition to geographical area. Based on the location of services provided and products sold, 39 % , 40 %
+
+and 44 % of our consolidated revenue was from the United States for the years ended December 31, 2025 , 2024 and 2023 ,
+
+respectively. No other country accounted for more than 10% of our revenue for those periods.
+
+The following table presents information on our disaggregated revenue.
+
+Contract balances
+
+We perform our obligations under contracts with our customers by transferring services and products in exchange for
+
+consideration. The timing of our performance often differs from the timing of our customers’ payment, which results in the
+
+recognition of receivables and deferred revenue. Deferred revenue represents advance consideration received from customers
+
+for contracts where revenue is recognized on future performance of service. Deferred revenue, as well as revenue recognized
+
+during the period relating to amounts included as deferred revenue at the beginning of the period, w as not material to our
+
+c onsolidated financial statements.
+
+Transaction price allocated to remaining performance obligations
+
+Remaining performance obligations represent firm contracts for which work has not been performed and future
+
+revenue recognition is expected. We have elected the practical expedient permitting the exclusion of disclosing remaining
+
+performance obligations for contracts that have an original expected duration of one year or less. We have some long-term
+
+contracts related to software and integrated project management services such as lump sum turnkey contracts. For software
+
+contracts, revenue is generally recognized over the duration of the contract period when the software is considered to be a right
+
+to access our intellectual property . For lump sum turnkey projects, we recognize revenue over time using an input method,
+
+which requires us to exercise judgment. Revenue allocated to remaining performance obl igations for these long-term contracts
+
+is not material .
+
+HAL 2025 FORM 10-K | 57
+
+Note 5 . Receivables
+
+A s o f December 31, 2025 , 31 % of our net trade receivables were from customers in the United States and 8 % were
+
+from customers in Mexico . As of December 31, 2024 , 30 % of our net trade receivables were from customers in the United
+
+States and 11 % were from customers in Mexico. Receivables from our primary customer in Mexico accounted for
+
+approximately 7 % and 8 % of our total receivables as of December 31, 2025 and December 31, 2024 , respectively. While we
+
+have experienced payment delays from our primary customer in Mexico, the amounts are not in dispute and we have not
+
+historically had, and we do not expect, any material write-offs due to collectability of receivables from this customer.
+
+Furthermore, we have entered into CDSs with third-party financial institutions that have an aggregate notional amount
+
+outstanding as of December 31, 2025 of $ 592 million , compared to an aggregate notional amount outstanding as of
+
+December 31, 2024 of $ 739 million , relate d to borrowings provided by the financial institutions to one of our primary
+
+customers in Mexico, of which portions of the proceeds were utilized by this customer to pay certain of our outstanding
+
+receivables. See Notes to Consolidated Financial Statements, Not e 16 for further information on these CDSs. No other country
+
+or single customer accounted for more than 10 % of our receivables at those dates.
+
+We have risk of delayed customer payments and payment defaults associated with customer liquidity issues. We
+
+routinely monitor the financial stability of our customers and employ an extensive process to evaluate the collectability of
+
+outstanding receivables. This process, which involves judgment and estimates, includes analysis of our customers’ historical
+
+time to pay, financial condition and various financial metrics, debt structure, credit ratings, and production profile, as well as
+
+political and economic factors in countries of operations and other customer-specific factors.
+
+The table below presents a rollforward of our allowance for credit losses for 2023 , 2024 and 2025 .
+
+N ote 6 . Leases
+
+For operating leases, lease expense for lease payments is recognized on a straight-line basis over the lease term and
+
+accretion of the lease liability, while finance leases include both an operating expense and an interest expense component. For
+
+all leases with a term of 12 months or less, we recognize lease expense for these short-term leases on a straight-line basis over
+
+the lease term.
+
+We ar e a lessee for numerous operating leases, primarily related to real estate, transportation, and equipment. The vast
+
+majority of our operating leases have remaining lease terms of 10 years or less, some of which include options to extend the
+
+leases, and some of which include options to terminate the leases. We generally do not include renewal or termination options
+
+in our assessment of the leases unless extension or termination for certain assets is deemed to be reasonably certain. The
+
+accounting for some of our leases may require judgment, which includes determining whether a contract contains a lease,
+
+determining the incremental borrowing rates to utilize in our net present value calculation of lease payments for lease
+
+agreements which do not provide an implicit rate, and assessing the likelihood of renewal or termination options. We also have
+
+some lease agreements with lease and non-lease components, which are generally accounted for as a single lease component.
+
+For certain equipment leases, such as offshore vessels and drilling rigs, we account for the lease and non-lease components
+
+separately.
+
+HAL 2025 FORM 10-K | 58
+
+The following tables illustrate the financial impact of our leases as of and for the years ended December 31, 2025 ,
+
+2024 , and 2023 , along with other supplemental information about our existing leases:
+
+HAL 2025 FORM 10-K | 59
+
+The following table summarizes the maturity of our operating and finance leases as of December 31, 2025 :
+
+Note 7 . Inventories
+
+Inventories consisted of the following:
+
+All amounts in the table above are reported net of obsolescence reserves of $ 54 million at December 31, 2025 and $ 62
+
+million at December 31, 2024 .
+
+Note 8 . Accounts Payable
+
+We have an agreement with a third party that allows our participating suppliers to finance payment obligations from us
+
+with a designated third-party financial institution who act as our paying agent. We have generally extended our payment terms
+
+with suppliers to 90 day s. A participating supplier may request the participating financial institution to finance one or more of
+
+our payment obligations to such supplier prior to the scheduled due date thereof at a discounted price. We are not required to
+
+provide collateral to the financial institution.
+
+Our obligations to participating suppliers, including amounts due and scheduled payment dates, are not impacted by
+
+the suppliers ’ decisions to finance amounts due under these financing arrangements. Our outstanding payment obligations under
+
+this agreemen t w as $ 280 million as of December 31, 2025 , and $ 317 million as of December 31, 2024 , and are included in
+
+“Accounts payable” on the Consolidated Balance Sheets.
+
+The following table presents a rollforward of our supplier finance program obligations:
+
+HAL 2025 FORM 10-K | 60
+
+Note 9 . Property, Plant, and Equipment
+
+Property, plant, and equipment were composed of the following:
+
+Classes of assets are depreciated over the following useful lives:
+
+Note 10 . Debt
+
+Our long-term total de bt consisted of the f ollowing:
+
+T here were no short-term borrowings and current maturities of long-term debt as of December 31, 2025 . There were
+
+no short-term borrowings and $ 381 million of current maturities of long-term debt as of December 31, 2024 .
+
+HAL 2025 FORM 10-K | 61
+
+Senior debt
+
+We may redeem all of our senior notes from time to time or all of the notes of each series at any time at the applicable
+
+redemption prices, plus accrued and unpaid interest. Our 6.75 % senior notes due February 2027 and 7.6 % senior debentures due
+
+August 2096 may not be redeemed prior to maturity .
+
+Repurchases of senior debt
+
+Our total debt repurchases consisted of the following:
+
+For the year ended December 31, 2024 , w e used cash on hand to fund these repurchases, which included the principal
+
+amount, a net premium or discount, and accrued interest. The remaining principal balance of these instruments of $ 5.4 billion i n
+
+the aggregate remains outstanding as of December 31, 2025 .
+
+Redemption of 3.8% senior notes due November 2025
+
+In November 2025, we retired the remaining $ 382 million principal amount of our 3.8 % senior notes at their scheduled
+
+maturity using cash on hand .
+
+Revolving credit facilities
+
+On August 18, 2025, we entered into a new $ 3.5 billion five-year revolving facility, which replaced our $3.5 billion
+
+revolving credit facility established in April 2022. The revolving credit facility is for general working capital purposes and
+
+expires on August 16, 2030. The full amount of the revolving credit facility was available as of December 31, 2025 .
+
+Debt maturities
+
+Our debt matures as follows: no amounts in 2026 , $ 90 million in 2027 , no amounts in 2028 and 2029 , $ 1.0 billion in
+
+2030 , and the remainder thereafter.
+
+Note 11 . Commitments and Contingencies
+
+The Company is subject to various legal or governmental proceedings, claims or investigations, including personal
+
+injury, property damage, environmental, intellectual property, commercial, tax, and other matters arising in the ordinary course
+
+of business, the resolution of which, in the opinion of management, will not have a material adverse effect on our consolidated
+
+results of operations or consolidated financial position. There is inherent risk in any legal or governmental proceeding, claim or
+
+investigation, and no assurance can be given as to the outcome of these proceedings.
+
+Guarantee arrangements
+
+In the normal course of business, we have in place agreements with financial institutions under which approximately
+
+$ 3.1 billion of letters of credit, bank guarantees, or surety bonds were outstanding as of December 31, 2025 . Some of the
+
+outstanding letters of credit have triggering events that would entitle a bank to require cash collateralization. None of these off-
+
+balance sheet arrangements either has, or is likely to have, a material effect on our consolidated financial statements.
+
+HAL 2025 FORM 10-K | 62
+
+Note 12 . Income Taxes
+
+The compone nts of the provision for income taxes on continuing operations were as follows:
+
+The United States and foreign components of income from continuing operations before income taxes were as follows:
+
+HAL 2025 FORM 10-K | 63
+
+Reconciliations between the actual provision for income taxes on continuing operations and that computed by applying
+
+the United States statutory rate to income from continuing operations before income taxes were as follows:
+
+HAL 2025 FORM 10-K | 64
+
+During the year ended December 31, 2025 , we recorded a total income tax provision of $ 479 million on pre-tax
+
+income of $ 1.8 billion , resulting in an effective tax rate of 27.0 % . The effective tax rate for 2025 was primarily impacted by our
+
+geographic mix of earnings, tax adjustments related to the reassessment of prior year tax accruals, and changes of valuation
+
+allowance on some of our deferred tax assets, and discrete tax benefit from the Foreign-Derived Intangible Income (FDII)
+
+deduction attributable to a royalty prepayment.
+
+During the year ended December 31, 2024 , we recorded a total income tax provision of $ 718 million on pre-tax
+
+income of $ 3.2 billion , resulting in an effective tax rate of 22.2 % . The effective tax rate for 2024 was primarily impacted by our
+
+geographic mix of earnings, tax adjustments related to the reassessment of prior year tax accruals, and valuation allowances on
+
+some of our deferred tax assets.
+
+During the year ended December 31, 2023 , we recorded a total income tax provision of $ 701 million on pre-tax
+
+income of $ 3.4 billion , resulting in an effective tax rate of 20.8 % . The effective tax rate for 2023 was primarily impacted by our
+
+geographic mix of earnings, tax adjustments related to the reassessment of prior year tax accruals, and valuation allowances on
+
+some of our deferred tax assets.
+
+The primary components of our deferred tax assets and liabilities were as follows:
+
+At December 31, 2025 , we had $ 635 million of domestic and foreign tax-effected operating and capital loss
+
+carryforwards, with approximately $ 6 million estimated to be utilized against our unrecognized tax benefits. In addition, we had
+
+approximately $ 819 million of foreign tax credit carryforwards which are offset by $ 29 million of foreign branch deferred
+
+activity and unrecognized tax benefits reflected in the table above. The ultimate realization of these deferred tax assets depends
+
+on our ability to generate sufficient taxable income in the appropriate taxing jurisdiction.
+
+HAL 2025 FORM 10-K | 65
+
+Our def erred tax assets from operating and capital losses , foreign tax credits, and research and development credits
+
+will expire as follows:
+
+We have not recorded incremental U.S. income taxes or foreign withholding taxes on the undistributed earnings of
+
+foreign subsidiaries subsequent to December 31, 2017. Under ASC 740, income taxes are generally not provided on such
+
+undistributed earnings to the extent they are either not expected to be subject to tax upon repatriation or are considered to be
+
+indefinitely reinvested.
+
+For the year ended December 31, 2025 , the “One Big Beautiful Bill Act,” was introduced which included federal tax
+
+law revisions that affected the Company’s ability to utilize Foreign Tax Credits ( FTC). Companies were required to recognize
+
+the effects of changes in tax laws in the period in which the new legislation is enacted. As a result, the Company reassessed the
+
+realizability of its FTC carryforwards and recorded an additional valuation allowance of $125 million against its FTC deferred
+
+tax assets.
+
+The following table presents a rollforward of our unrecognized tax benefits and associated interest and penalties.
+
+HAL 2025 FORM 10-K | 66
+
+Income taxes paid (net of refunds received) were as follows: Our tax returns are subject to review by the taxing authorities in the jurisdictions where we file tax returns. In most cases we are no longer subject to examination by tax authorities for years before 2014 . The only significant operating jurisdiction that has tax filings under review or subject to examination by the tax authorities is the United States. The United States federal income tax filings for tax years 2016 through 2024 are currently under review or remain open for review by the IRS. As of December 31, 2025 , the primary unresolved issue for the IRS audit for 2016 relates to the classification of the $ 3.5 billion ordinary deduction that we claimed for the termination fee we paid to Baker Hughes in the second quarter of 2016 for which we received a NOPA from the IRS on September 28, 2023 . We regularly assess the likelihood of adverse outcomes resulting from tax examinations to determine the adequacy of our tax reserves, and we believe our income tax reserves are appropriately provided for all open tax years. We do not expect a final resolution of this issue in the next 12 months. Based on the information currently available, we do not anticipate a significant increase or decrease to our tax contingencies within the next 12 months.
+
+Income taxes paid (net of refunds received) were as follows:
+
+Our tax returns are subject to review by the taxing authorities in the jurisdictions where we file tax returns. In most
+
+cases we are no longer subject to examination by tax authorities for years before 2014 . The only significant operating
+
+jurisdiction that has tax filings under review or subject to examination by the tax authorities is the United States. The United
+
+States federal income tax filings for tax years 2016 through 2024 are currently under review or remain open for review by the
+
+IRS.
+
+As of December 31, 2025 , the primary unresolved issue for the IRS audit for 2016 relates to the classification of the
+
+$ 3.5 billion ordinary deduction that we claimed for the termination fee we paid to Baker Hughes in the second quarter of 2016
+
+for which we received a NOPA from the IRS on September 28, 2023 . We regularly assess the likelihood of adverse outcomes
+
+resulting from tax examinations to determine the adequacy of our tax reserves, and we believe our income tax reserves are
+
+appropriately provided for all open tax years. We do not expect a final resolution of this issue in the next 12 months.
+
+Based on the information currently available, we do not anticipate a significant increase or decrease to our tax
+
+contingencies within the next 12 months.
+
+HAL 2025 FORM 10-K | 67
+
+Note 13 . Shareholders' Equity
+
+Shares of common s tock
+
+The following table summarizes total shares of common stock outstanding:
+
+Our Board of Directors has authorized a program to repurchase a specified dollar amount of our common stock from
+
+time to time. The program does not require a specific number of shares to be purchased and the program may be effected
+
+through solicited or unsolicited transactions in the market or in privately negotiated transactions. The program may be
+
+terminated or suspended at any time. We purchased 42.4 million shares of our common stock under the program during the year
+
+ended December 31, 2025 . During the year ended December 31, 2024 , we purchased 30.5 million shares of our common stock
+
+under the program. Approximately $ 2.0 billion remained authorized for repurchases as of December 31, 2025 . From the
+
+inception of this program in February 2006 through December 31, 2025 , we repurchased approximately 326 million shares of
+
+our common stock for a total cost of approximately $ 12.1 billion .
+
+Paid-in Capital in Excess of Par Value
+
+During 2025 , 2024 and 2023 , we issued common stock from treasury shares under our employee stock purchase plan
+
+awards and for restricted stock grants. As a result, for the years ended December 31, 2024 and 2023, additional paid in capital
+
+would have resulted in a balance below zero; therefore, we reduced retained earnings by $ 105 million and $ 98 million ,
+
+respectively. Additional issuances from treasury shares could similarly impact additional paid in capital and retained earnings.
+
+Preferred stock
+
+Our preferred stock consists of 5 million total authorized shares at December 31, 2025 , of which none are issued.
+
+Accumulated other comprehensive loss
+
+Accumulated other comprehensive loss consisted of the following:
+
+HAL 2025 FORM 10-K | 68
+
+Note 14 . Stock-based Compensation
+
+The following table summarizes stock-based compensation costs for the years ended December 31, 2025 , 2024 , and
+
+2023 .
+
+Our Stock and Incentive Plan, as amended (Stock Plan), provides for the grant of any or all of the following types of
+
+stock-based awards:
+
+- stock options, including incentive stock options and nonqualified stock options;
+
+- restricted stock awards;
+
+- restricted stock unit awards;
+
+- stock appreciation rights; and
+
+- stock value equivalent awards.
+
+There are currently no stock appreciation rights, stock value equivalent awards, or incentive stock options outstanding.
+
+Under the terms of the Stock Plan, approximately 284 million shares of common stock have been reserved for issuance to
+
+employees and non-employee directors. At December 31, 2025 , approximately 16 million shares were available for future
+
+grants under the Stock Plan. The stock to be offered pursuant to the grant of an award under the Stock Plan may be authorized
+
+but unissued common shares or treasury shares.
+
+In addition to the provisions of the Stock Plan, we also have stock-based compensation provisions under the Restricted
+
+Stock Plan for Non-Employee Directors and the Employee Stock Purchase Plan (ESPP).
+
+Each of the active stock-based compensation arrangements is discussed below.
+
+Stock options
+
+There were no stock options granted during 2025 and there are no plans to grant stock options in 2026 . All stock
+
+options under the Stock Plan were granted at the fair market value of our common stock at the grant date. Employee stock
+
+options generally vest ratably over a period of three years and expire ten years from the grant date. Compensation expense for
+
+stock options is generally recognized on a straight-line basis over the entire vesting period.
+
+The following table represents our stock options activity during 2025 .
+
+The total intrinsic value of options exercised was $ 103,000 in 2025 , $ 3 million in 2024 , and $ 20 million in 2023 . As of
+
+December 31, 2025 , there was no unrecognized compensation cost, net of estimated forfeitures, related to nonvested stock
+
+options.
+
+Cash received from issuance of common stock for 2025 , 2024 , and 2023 was $ 98 million , $ 105 million , and $ 136
+
+million , respectively, of which $ 1 million , $ 9 million , and $ 48 million , respectively, are related to proceeds from exercises of
+
+stock options. All other cash received from issuance of common stock during 2025 , 2024 and 2023 relates to cash proceeds
+
+from the issuance of shares under our employee stock purchase plan.
+
+HAL 2025 FORM 10-K | 69
+
+The fair value of options at the date of grant was estimated using the Black-Scholes option pricing model. The expected volatility of options granted was a blended rate based upon implied volatility calculated on actively traded options on our common stock and upon the historical volatility of our common stock. The expected term of options granted was based upon historical observation of actual time elapsed between date of grant and exercise of options for all employees. There were no stock options granted for the years ended December 31, 2025 , 2024 , and 2023 . Restricted stock Restricted shares issued under the Stock Plan are restricted as to sale or disposition. These restrictions generally lapse periodically over a period of five years . Restrictions may also lapse for early retirement and other conditions in accordance with our established policies. Upon termination of employment, shares on which restrictions have not lapsed must be returned to us, resulting in restricted stock forfeitures. The fair market value of the stock on the date of grant is amortized and charged to income on a straight-line basis over the requisite service period for the entire award. In 2025 , we also granted performance based restricted stock units, with the actual number of shares earned to be determined at the end of a three year performance period based on our achievement of certain predefined targets. These targets are based upon our average return on capital employed and a modifier based upon stock performance, as compared to certain competitors. A Monte Carlo simulation that uses a probabilistic approach was performed by an actuary to measure grant date fair value. The fair value of these performance based restricted stock units is recognized on a straight-line basis over the three year performance cycle. The following table represents our restricted stock awards and restricted stock units granted, vested, and forfeited during 2025 . . The weighted average grant-date fair value of shares granted was $ 22.95 during 2025 , $ 36.76 during 2024 , and $ 31.73 during 2023 . The total fair value of shares vested was $ 162 million during 2025 , $ 263 million during 2024 , and $ 283 million during 2023 . As of December 31, 2025 , there was $ 358 million of unrecognized compensation cost, net of estimated forfeitures, related to nonvested restricted stock, which is expected to be recognized over a weighted average period of three years. Employee Stock Purchase Plan Under the ESPP, eligible employees may have up to 10 % of their earnings withheld, subject to some limitations, to be used to purchase shares of our common stock. The ESPP contains four three-month offering periods commencing on January 1, April 1, July 1, and October 1 of each year. The price at which common stock may be purchased under the ESPP in 2023 , 2024 , and 2025 is equal to 90 % of the lower of the fair market value of the common stock on the commencement date or last trading day of each offering period. Under the ESPP, 104 million shares of common stock have been reserved for issuance, of which 84 million shares have been sold through the ESPP since the inception of the plan through December 31, 2025 and 20 million shares are available for future issuance. The stock to be offered may be authorized but unissued common shares or treasury shares. The fair value of ESPP shares was estimated using the Black-Scholes option pricing model. The expected volatility was a one-year historical volatility of our common stock. The assumptions and resulting fair values were as follows:
+
+The fair value of options at the date of grant was estimated using the Black-Scholes option pricing model. The
+
+expected volatility of options granted was a blended rate based upon implied volatility calculated on actively traded options on
+
+our common stock and upon the historical volatility of our common stock. The expected term of options granted was based
+
+upon historical observation of actual time elapsed between date of grant and exercise of options for all employees. There were
+
+no stock options granted for the years ended December 31, 2025 , 2024 , and 2023 .
+
+Restricted stock
+
+Restricted shares issued under the Stock Plan are restricted as to sale or disposition. These restrictions generally lapse
+
+periodically over a period of five years . Restrictions may also lapse for early retirement and other conditions in accordance with
+
+our established policies. Upon termination of employment, shares on which restrictions have not lapsed must be returned to us,
+
+resulting in restricted stock forfeitures. The fair market value of the stock on the date of grant is amortized and charged to
+
+income on a straight-line basis over the requisite service period for the entire award.
+
+In 2025 , we also granted performance based restricted stock units, with the actual number of shares earned to be
+
+determined at the end of a three year performance period based on our achievement of certain predefined targets. These targets
+
+are based upon our average return on capital employed and a modifier based upon stock performance, as compared to certain
+
+competitors. A Monte Carlo simulation that uses a probabilistic approach was performed by an actuary to measure grant date
+
+fair value. The fair value of these performance based restricted stock units is recognized on a straight-line basis over the three
+
+year performance cycle.
+
+The following table represents our restricted stock awards and restricted stock units granted, vested, and forfeited
+
+during 2025 .
+
+The weighted average grant-date fair value of shares granted was $ 22.95 during 2025 , $ 36.76 during 2024 , and $ 31.73
+
+during 2023 . The total fair value of shares vested was $ 162 million during 2025 , $ 263 million during 2024 , and $ 283 million
+
+during 2023 . As of December 31, 2025 , there was $ 358 million of unrecognized compensation cost, net of estimated forfeitures,
+
+related to nonvested restricted stock, which is expected to be recognized over a weighted average period of three years.
+
+Employee Stock Purchase Plan
+
+Under the ESPP, eligible employees may have up to 10 % of their earnings withheld, subject to some limitations, to be
+
+used to purchase shares of our common stock. The ESPP contains four three-month offering periods commencing on January 1,
+
+April 1, July 1, and October 1 of each year. The price at which common stock may be purchased under the ESPP in 2023 , 2024 ,
+
+and 2025 is equal to 90 % of the lower of the fair market value of the common stock on the commencement date or last trading
+
+day of each offering period. Under the ESPP, 104 million shares of common stock have been reserved for issuance, of which 84
+
+million shares have been sold through the ESPP since the inception of the plan through December 31, 2025 and 20 million
+
+shares are available for future issuance. The stock to be offered may be authorized but unissued common shares or treasury
+
+shares.
+
+The fair value of ESPP shares was estimated using the Black-Scholes option pricing model. The expected volatility
+
+was a one-year historical volatility of our common stock. The assumptions and resulting fair values were as follows:
+
+HAL 2025 FORM 10-K | 70
+
+Note 15 . Income per Share
+
+Basic income or loss per share is based on the weighted average number of common shares outstanding during the
+
+period. Diluted income per share includes additional common shares that would have been outstanding if potential common
+
+shares with a dilutive effect had been issued. Antidilutive securities represent potentially dilutive securities which are excluded
+
+from the computation of diluted income or loss per share as their impact was antidilutive.
+
+A reconciliation of the number of shares used for the basic and diluted income per share computations is as follows:
+
+Note 16 . Financial Instruments and Risk Management
+
+The carrying amount of cash and equivalents, receivables, and accounts payable, as reflected in the Consolidated
+
+Balance Sheets, approximates fair value due to the short maturities of these instruments.
+
+The carrying amount and fair value of our total debt is as follows :
+
+The total fair value of our debt decreased during 2025 primarily as a result of the retirement of the outstanding
+
+principal of our 3.8% senior notes at their scheduled maturity, as discussed in Notes to Consolidated Financial Statements, Note
+
+10 .
+
+Our debt categorized within level 1 on the fair value hierarchy is calculated using quoted prices in active markets for
+
+identical liabilities with transactions occurring on the last two days of period-end. Our debt categorized within level 2 on the
+
+fair value hierarchy is calculated using significant observable inputs for similar liabilities where estimated values are
+
+determined from observable data points on our other bonds and on other similarly rated corporate debt or from observable data
+
+points of transactions occurring prior to two days from period-end and adjusting for changes in market conditions. Differences
+
+between the periods presented in our level 1 and level 2 classification of our long-term debt relate to the timing of when third-
+
+party market transactions on our debt are executed. We have no debt categorized within level 3 on the fair value hierarchy.
+
+We are exposed to market risk from changes in foreign currency exchange rates, interest rates, and credit risk. We
+
+selectively manage these exposures t hrough the use of derivative instruments, including forward foreign exchange contracts,
+
+foreign exchange options, interest rate swaps, and CDS’s. The objective of our risk management strategy is to minimize the
+
+volatility from fluctuations in foreign currency and interest rates. We do not use derivative instruments for trading purposes.
+
+The fair value of our forward contracts, options, and interest rate swaps was not material as of December 31, 2025 or
+
+December 31, 2024 . The counterparties to our derivatives are primarily global commercial and investment banks.
+
+Foreign currency exchange risk
+
+We have operations in many international locations and are involved in transactions denominated in currencies other
+
+than the U.S. dollar , our functional currency, which exposes us to foreign currency exchange rate risk. Techniques in managing
+
+foreign currency exchange risk include, but are not limited to, foreign currency borrowing and investing, and the use of
+
+currency exchange instruments. We attempt to selectively manage significant exposures to potential foreign currency exchange
+
+losses based on current market conditions, future operating activities, and the associated cost in relation to the perceived risk of
+
+loss. The purpose of our foreign currency risk management activities is to minimize the risk that our cash flows from the
+
+purchase and sale of products and services in foreign currencies will be adversely affected by changes in exchange rates.
+
+HAL 2025 FORM 10-K | 71
+
+We use forward contracts and options to manage our exposure to fluctuations in the currencies of certain countries in
+
+which we do business internationally. These instruments are not treated as hedges for accounting purposes, generally have an
+
+expiration date of one year or less, and are not exchange traded. While these instruments are subject to fluctuations in value, the
+
+fluctuations are generally offset by the value of the underlying exposures being managed. The use of some of these instruments
+
+may limit our ability to benefit from favorable fluctuations in foreign currency exchange rates.
+
+Derivatives are not utilized to manage exposures in some currencies due primarily to the lack of available markets,
+
+cost considerations, or immaterial exposures (non-hedged currencies). We attempt to minimize foreign currency exposure in
+
+non-hedged currencies and recognize that pricing for the services and products offered in these countries should account for the
+
+cost of exchange rate devaluations.
+
+The notional amounts of open foreign exchange derivatives were $ 840 million at December 31, 2025 and $ 781 million
+
+at December 31, 2024 . The notional amounts of these instruments do not generally represent amounts exchanged by the parties,
+
+and thus are not a measure of our exposure or of the cash requirements related to these contracts. The fair value of our foreign
+
+exchange derivatives as of December 31, 2025 and December 31, 2024 is included in both "Other current assets" and in "Other
+
+current liabilities" in our Consolidated Balance Sheets and was immaterial. The fair value of these instruments is categorized
+
+within level 2 on the fair value hierarchy and was determined using a market approach with certain inputs, such as notional
+
+amounts hedged, exchange rates, and other terms of the contracts that are observable in the market or can be derived from or
+
+corroborated by observable data.
+
+Interest rate risk
+
+We are subject to interest rate risk on our debt and investment portfolios. We had fixed rate long-term debt totaling
+
+$ 7.2 billion at December 31, 2025 and December 31, 2024 . We maintain an interest rate management strategy that is intended
+
+to mitigate the exposure to changes in interest ra tes . As of December 31, 2025 and December 31, 2024 , we did not have any
+
+interest rate swaps outstanding.
+
+Credit risk
+
+Financial instruments that potentially subject us to concentrations of credit risk are primarily cash equivalents and net
+
+trade receivables. It is our practice to place our cash equivalents in high quality investments with various institutions. Our net
+
+trade receivables are from a broad and diverse group of customers and are generally not collateralized. As of December 31,
+
+2025 , 31 % of our net trade receivables were from customers in the United States and 8 % were from customers in Mexico. As of
+
+December 31, 2024 , 30 % of our net trade receivables were from customers in the United States and 11 % were from customers
+
+in Mexico. We maintain an allowance for credit losses based upon several factors, including historical collection experience,
+
+current aging status of the customer accounts and financial condition of our customers. See Notes to Consolidated Financial
+
+Statements, Note 5 for further information on receivables.
+
+We have entered into CDSs with third-party financial institutions that had an aggregate notional amount outstanding as
+
+of December 31, 2025 of $ 592 million , compared to an aggregate notional amount outstanding as of December 31, 2024 of
+
+$ 739 million , related to borrowings provided by the financial institutions to one of our primary customers in Mexico, of which a
+
+portion of the proceeds were then utilized by this customer to pay certain of our outstanding receivables. Approximately $ 455
+
+million of the outstanding amount of the CDSs reduces monthly over its remaining 9 -month term and $ 75 million reduces
+
+monthly over its remaining 6 -month term . The remaining $ 62 million outstanding amount reduces monthly over its remaining
+
+2 -month term.
+
+The fair value of the derivative liabilities was not material to our financial condition as of December 31, 2025 .
+
+We do not have any significant concentrations of credit risk with any individual counterparty to our derivative
+
+contracts. We select counterparties to those contracts based on our belief that each counterparty’s profitability, balance sheet,
+
+and capacity for timely payment of financial commitments is unlikely to be materially adversely affected by foreseeable events.
+
+HAL 2025 FORM 10-K | 72
+
+Note 17 . Retirement Plans
+
+Our company and subsidiaries have various plans that cover a significant number of our employees. These plans
+
+include defined contribution plans, defined benefit plans, and other postretirement plans:
+
+- Our defined contribution plans provide retirement benefits in return for services rendered. These plans provide an
+
+ind ividual account for each participant and have terms that specify how contributions to the participant’s account are
+
+to be determined rath er than the amount of pension benefits the participant is to receive. Contributions to these plans
+
+are based on a percentage of pre-tax income, after-tax income, or discretionary amounts determined on an annual
+
+basis. Our expense for the defined contribution plans totaled $ 206 million in 2025 , $ 182 million in 2024 , and $ 181
+
+million in 2023 . The increase in expense from 2024 to 2025 was primarily driven by higher discretionary employer
+
+contributions, along with increases in employee headcount and employer contribution rates in certain foreign
+
+locations.
+
+- Our defined benefit plans, which include both overfunded and underfunded pension plans, define an amount of
+
+pension benefit to be provided, usually as a function of age, years of service and/or compensation. The underfunded
+
+obligations and net periodic benefit cost of our United States defined benefit plans were not material for the periods
+
+presented.
+
+- Our postretirement plans other than pensions are offered to specific eligible employees. The accumulated benefit
+
+obligations (ABO) and net periodic benefit cost for these plans were not material for the periods presented.
+
+- I n 2024, the Trustees of the Company’s United Kingdom (U.K.) defined benefit plan executed an annuity buy-in
+
+with a third-party insurance company with no affiliation with the Company. All pension obligations will be funded
+
+by the insurer’s annuity payments. However, the plan retains full legal responsibility to pay the benefits to plan
+
+participants using the insurance payments. As the plan maintains full legal responsibility, and the insurance contract
+
+is considered an asset of the plan, accordingly, the arrangement did not meet the settlement criteria of ASC 715. The
+
+policy is carried at fair value within plan assets and presented as a level 3 in the fair value table below. Fair value is
+
+determined using a quote from an insurance company, reflecting prevailing market conditions for similar
+
+transactions. Changes in the fair value of the policy are reflected in actual return on plan assets.
+
+Funded status
+
+For our international pension plans, at December 31, 2025 , the projected benefit obligation (PBO) was $ 783 million
+
+and the fair value of plan assets was $ 583 million , which resulted in an underfunded obligation of $ 200 million . At
+
+December 31, 2024 , the PBO was $ 773 million and the fair value of plan assets was $ 594 million , which resulted in an
+
+underfunded obligation of $ 179 million . The ABO for our international plans was $ 698 million at December 31, 2025 and $ 694
+
+million at December 31, 2024 . Despite an increase in the Company’s weighted‐average discount rate, the localized actuarial
+
+changes in a few countries created upward pressure on pension obligations, resulting in a net increase in PBO and ABO
+
+compared to the prior year.
+
+The following table presents additional information about our international pension plans.
+
+Fair value measurements of plan assets
+
+The fair value of our plan assets categorized within level 1 on the fair value hierarchy is based on quoted prices in
+
+active markets for identical assets. The fair value of our plan assets categorized within level 2 on the fair value hierarchy is
+
+based on significant observable inputs for similar assets. The fair value of our plan assets categorized within level 3 on the fair
+
+value hierarchy is based on significant unobservable inputs.
+
+HAL 2025 FORM 10-K | 73
+
+The following table sets forth the fair values of assets held by our international pension plans by level within the fair
+
+value hierarchy.
+
+Level 3 Rollforward
+
+The following presents our Level 3 Rollforward for buy-in annuity insurance contract for 2025 and 2024 .
+
+Risk management practices for these plans include diversification by issuer, industry, and geography, where permitted,
+
+as well as by asset classes and investment managers. Our U.K. pension plan, which constituted 72 % of our international
+
+pension plans’ PBO at December 31, 2025 , is no longer accruing service benefits and completed a pension buy-in transaction
+
+during 2024 entering into a bulk annuity contract with an insurance company. The bulk annuity contract effectively covers all
+
+benefit payments to members. The investments backing the contract are invested at the discretion of the insurance company,
+
+which assumes the investment risk associated with these assets.
+
+Net periodic benefit cost
+
+Net periodic benefit cost for our international pension plans was $ 57 million in 2025 , $ 43 million in 2024 , and $ 32
+
+million in 2023 .
+
+HAL 2025 FORM 10-K | 74
+
+Actuarial assumptions
+
+Certain weighted-average actuarial assumptions used to determine benefit obligations of our international pension
+
+plans at December 31 were as follows:
+
+Certain weighted-average actuarial assumptions used to determine net periodic benefit cost of our international
+
+pension plans for the years ended December 31 were as follows:
+
+Assumed long-term rates of return on plan assets, discount rates for estimating benefit obligations, and rates of
+
+compensation increases vary by plan according to local economic conditions. Where possible, discount rates were determined
+
+based on the prevailing market rates of a portfolio of high-quality debt instruments with maturities matching the expected
+
+timing of the payment of the benefit obligations. Expected long-term rates of return on plan assets were determined based upon
+
+an evaluation of our plan assets and historical trends and experience, taking into account current and expected market
+
+conditions.
+
+Other information
+
+Contributions. Funding requirements for each plan are determined based on the local laws of the country where such
+
+plan resides. In certain countries the funding requirements are mandatory, while in other countries they are discretionary. We
+
+currently expect to contribute $ 1 million to our international pension plans in 2026 .
+
+Benefit payments. Expected benefit payments over the next 10 years for our international pension plans are as follows:
+
+$ 46 million in 2026 , $ 39 million in 2027 , $ 42 million in 2028 , $ 43 million in 2029 , $ 45 million in 2030 , and an aggregate $ 268
+
+million in years 2031 through 2035 .
+
+Note 18 . New Accounting Pronouncements
+
+In November 2024, the Financial Accounting Standards Board issued Accounting Standards Update (ASU) 2024-03
+
+(Subtopic 220-40), “Disaggregation of Income Statement Expenses”, which requires additional disclosure of certain expense
+
+captions presented on the face of the Company’s income statement as well as disclosures about selling expenses. ASU 2024-03
+
+is effective for the Company’s annual reporting periods beginning after December 15, 2026, and interim reporting periods
+
+beginning after December 15, 2027, and should be applied on a prospective or retrospective basis, with early adoption
+
+permitted. We continue to evaluate the effect that adoption of ASU 2024-03 will have on our disclosures.
+
+HAL 2025 FORM 10-K | 75
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+
+None.
+
+Item 9(a). Controls and Procedures.
+
+In accordance with the Securities Exchange Act of 1934 Rules 13a-15 and 15d-15, we carried out an evaluation, under
+
+the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of
+
+the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on that
+
+evaluation, our Chief Executive Off icer and Chief Financial Officer concluded that our disclosure controls and procedures were
+
+effective as of December 31, 2025 to provide reasonable assurance that information required to be disclosed in our reports filed
+
+or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the
+
+Securities and Exchange Commission’s rules and forms. Our disclosure controls and procedures include controls and
+
+procedures designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is
+
+accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as
+
+appropriate, to allow timely decisions regarding required disclosure.
+
+There has been no change in our internal control over financial reporting that occurred during the three months ended
+
+December 31, 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial
+
+reporting.
+
+See page 40 for Management’s Report on Internal Control Over Financial Reporting and pa ge 43 for Report of
+
+Independent Registered Public Accounting Firm on its assessment of our internal control over financial reporting.
+
+Item 9(b). Other Information.
+
+During the quarter ended December 31, 2025 , no director or officer of the Company adopted or terminated a “Rule
+
+10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S- K.
+
+Item 9(c). Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+
+Not applicable.
+
+HAL 2025 FORM 10-K | 76
+
+PART III
+
+Item 10. Directors, Executive Officers, and Corporate Governance.
+
+The information required for the directors of the Registrant is incorporated by reference to the Halliburton Company
+
+Proxy Statement for our 2026 Annual Meeting of Shareholders (File No. 001-03492) under the captions “Election of Directors”
+
+and “Involvement in Certain Legal Proceedings.” The information required for the directors and executive officers of the
+
+Registrant is included under Part I on pages 7 and 8 of this annual report. The information required for a delinquent form
+
+required under Section 16(a) of the Securities Exchange Act of 1934 is incorporated by reference to the Halliburton Company
+
+Proxy Statement for our 2026 Annual Meeting of Shareholders (File No. 001-03492) under the caption “Delinquent Section
+
+16(a) Reports,” to the extent any disclosure is required. The information for our code of ethics is incorporated by reference to
+
+the Halliburton Company Proxy Statement for our 2026 Annual Meeting of Shareholders (File No. 001-03492) under the
+
+caption “Corporate Governance.” The information regarding procedures by which security holders may recommend nominees
+
+to the registrant’s board of directors is incorporated by reference to the Halliburton Company Proxy Statement for our 2026
+
+Annual Meeting of Shareholders (File No. 001-03492) under the caption “Shareholder Nominations of Directors.” The
+
+information regarding our Audit Committee and the independence of its members, along with information about the audit
+
+committee financial expert(s) serving on the Audit Committee, is incorporated by reference to the Halliburton Company Proxy
+
+Statement for our 2026 Annual Meeting of Shareholders (File No. 001-03492) under the caption “The Board of Directors and
+
+Standing Committees of Directors.” The information regarding insider trading arrangements is incorporated by reference to the
+
+Halliburton Company Proxy Statement for our 2026 Annual Meeting of Shareholders (File No. 001-03492) under the caption
+
+“Insider Trading Policies” and also within our Company’s policies titled “Use of Material Nonpublic Information, Securities
+
+Trading Windows, and Hedging and Pledging of Company Securities,” and “Securities Trading of Company Securities by the
+
+Company,” which are filed as Exhibit 19.1 and Exhibit 19.2, respectively, to this annual report.
+
+Item 11. Executive Compensation.
+
+This information is incorporated by reference to the Halliburton Company Proxy Statement for our 2026 Annual
+
+Meeting of Shareholders (File No. 001-03492) under the captions “Compensation Discussion and Analysis,” “Compensation
+
+Committee Report,” “Summary Compensation Table,” “Grants of Plan-Based Awards in Fiscal 2025 ,” “Outstanding Equity
+
+Awards at Fiscal Year End 2025 ,” “ 2025 Option Exercises and Stock Vested,” “ 2025 Nonqualified Deferred Compensation,”
+
+“Employment Contracts and Change-in-Control Arrangements,” “Post-Termination or Change-in-Control Payments,”
+
+“Directors’ Compensation” and “CEO Pay Ratio.”
+
+Item 12(a). Security Ownership of Certain Beneficial Owners.
+
+This information is incorporated by reference to the Halliburton Company Proxy Statement for our 2026 Annual
+
+Meeting of Shareholders (File No. 001-03492) under the caption “Stock Ownership of Certain Beneficial Owners and
+
+Management.”
+
+Item 12(b). Security Ownership of Management.
+
+This information is incorporated by reference to the Halliburton Company Proxy Statement for our 2026 Annual
+
+Meeting of Shareholders (File No. 001-03492) under the caption “Stock Ownership of Certain Beneficial Owners and
+
+Management.”
+
+Item 12(c). Changes in Control.
+
+Not applicable.
+
+Item 12(d). Securities Authorized for Issuance Under Equity Compensation Plans.
+
+This information is incorporated by reference to the Halliburton Company Proxy Statement for our 2026 Annual
+
+Meeting of Shareholders (File No. 001-03492) under the caption “Equity Compensation Plan Information.”
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+
+This information is incorporated by reference to the Halliburton Company Proxy Statement for our 2026 Annual
+
+Meeting of Shareholders (File No. 001-03492) under the caption “Corporate Governance” to the extent any disclosure is
+
+required, and under the caption “The Board of Directors and Standing Committees of Directors.”
+
+HAL 2025 FORM 10-K | 77
+
+Item 14. Principal Accounting Fees and Services.
+
+This information is incorporated by reference to the Halliburton Company Proxy Statement for our 2026 Annual
+
+Meeting of Shareholders (File No. 001-03492 ) under the caption “Fees Paid to KPMG LLP.” Our independent registered public
+
+accounting firm is KPMG LLP , Houston, TX PCAOB ID: 185 .
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+HAL 2025 FORM 10-K | 78
+
+HAL 2025 FORM 10-K | 79
+
+HAL 2025 FORM 10-K | 80
+
+HAL 2025 FORM 10-K | 81
+
+HAL 2025 FORM 10-K | 82
+
+HAL 2025 FORM 10-K | 83
+
+Item 16. Form 10-K Summary .
+
+None.
+
+HAL 2025 FORM 10-K | 84
+
+SIGNATURES
+
+As required by Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has authorized this report to
+
+be signed on its behalf by the undersigned authorized individuals on this 6th day of February, 2026 .
+
+As required by the Securities Exchange Act of 1934, this report has been signed below by the following persons in the
+
+capacities indicated on this 6th day of February, 2026 .
+
+HAL 2025 FORM 10-K | 85
