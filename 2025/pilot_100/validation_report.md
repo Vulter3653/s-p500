@@ -1,56 +1,44 @@
-# 2025 Pilot Final Validation Report
+# 2025 Pilot HTML Collection Validation Report
 
 Updated: 2026-07-29
 
 ## Result
 
-`PASS` for final sample and SEC filing metadata.
+`PASS` — HTML collection completed.
 
-- Final analysis sample: 100 rows.
-- Eligible analysis filings: 100 exact Form 10-K filings.
-- Unique final IDs, company keys, CIKs, and accessions: 100 each.
-- TXT count: 0; ITW count: 1; Industrials count: 16.
-- Missing primary documents: 0.
-- Form, reportDate, and filingDate cutoff errors: 0.
-- Unresolved manual reviews: 0.
-- Relevant 10-K/A: 2 companies, preserved for audit only.
+- Input: only `sample/final_analysis_sample_100.csv`.
+- Input rows and downloaded SEC primary filings: 100.
+- HTML files and manifest rows: 100 each.
+- Unique accessions and SHA-256 digests: 100 each.
+- Empty or zero-byte files: 0.
+- HTTP failures: 0.
+- Retry events: 0.
+- reportDate mismatches: 0.
+- Maximum filing size: 18,147,230 bytes.
+- Total HTML size: 448,173,188 bytes.
 
-## Sampling and replacement
+Every input row has exact form `10-K`, a reportDate in 2025, a filingDate no
+later than 2026-07-29, and nonempty accession and primary-document fields.
+Downloaded paths use `html/raw/<CIK>/<accession>.html`. The manifest records
+the SHA-256 and byte size of each file.
 
-The initial proportional stratified sample was drawn from 487 companies with
-verified CIK and GICS sector. Thirteen records with missing GICS, including
-three with unverified CIK, were excluded from the frame. TXT (`P2025-059`) has
-no 2025 reportDate Form 10-K and remains in audit records with
-`analysis_included=0`.
-
-ITW is the first deterministic eligible Industrials reserve under seed
-`20250729`, within-sector order 17. It receives `P2025-R001`; no original ID is
-reused. No new draw, AI information, filing text, or linguistic outcome
-influenced the replacement.
-
-| Sector | Final n |
-| --- | ---: |
-| Communication Services | 4 |
-| Consumer Discretionary | 10 |
-| Consumer Staples | 7 |
-| Energy | 4 |
-| Financials | 15 |
-| Health Care | 12 |
-| Industrials | 16 |
-| Information Technology | 14 |
-| Materials | 5 |
-| Real Estate | 7 |
-| Utilities | 6 |
-
-FOXA/FOX, GE, TXT, and ITW reviews are resolved. The request log remains
-unchanged at 769 rows and is not an analysis dataset.
+The downloader was run a second time to verify idempotency. All 100 existing
+files matched their recorded SHA-256 and were skipped without network
+requests. The request log therefore remains at 100 successful HTTP 200 rows.
+It contains only URL, start/end timestamps, status code, and retry flag; it
+does not contain the SEC User-Agent value.
 
 ## Validation
 
-`python scripts/validate_annual_constituents.py`, 13 network-independent unit
-tests, `python -m py_compile scripts/*.py tests/*.py`, repeat replacement
-execution, and `git diff --check` passed on 2026-07-29. Integration smoke
-testing was not repeated because SEC collection logic did not change.
+The following completed successfully:
 
-Raw filing HTML, full text, and linguistic variables have not been created.
-Future HTML collection must use only `sample/final_analysis_sample_100.csv`.
+```bash
+python scripts/download_10k_html.py
+python -m unittest discover -s tests -p 'test_*.py' -v
+python -m py_compile scripts/*.py tests/*.py
+git diff --check
+```
+
+The suite ran 19 tests. SHA-256 values were recalculated from all 100 local
+files and matched the manifest. No parsing, body extraction, NLP, AI analysis,
+or linguistic-variable measurement was performed.

@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 2025 파일럿 SEC 10-K HTML 수집 완료
+
+- 수집: 유일한 입력 `final_analysis_sample_100.csv`의 100개 accession과 primary document를 SEC Archives에서 최대 초당 1회로 다운로드했다. (codex)
+- 무결성: HTML 100개, manifest 100행, 고유 accession·SHA-256 100개, 빈 파일·HTTP 실패·reportDate 불일치 0개를 확인했다. 총 크기는 448,173,188바이트다. (codex)
+- 재실행: 두 번째 실행에서 100개 모두 기존 SHA-256 일치로 네트워크 요청 없이 skip되어 idempotency를 확인했다. 최초 요청 로그는 HTTP 200 100행, retry 0행이다. (codex)
+- 범위: HTML collection completed 단계이며 본문 parsing, 텍스트 추출, NLP 및 언어 분석은 수행하지 않았다. (codex)
+- 검증: unit/artifact test 19개, `py_compile`, 전체 파일 SHA 재계산 및 `git diff --check`가 통과했다. (codex)
+
 ## 2026-07-29 - 2025 파일럿 최종 분석 표본 및 filing metadata 확정
 
 - 교체 적용: 최초 100개 추출 표본은 보존하고, 2025 reportDate Form 10-K가 없는 TXT(`P2025-059`)를 제외한 뒤 동일 Industrials의 deterministic reserve 1순위 ITW에 `P2025-R001`을 부여했다. seed `20250729`를 유지했고 새 추출이나 AI 정보는 사용하지 않았다. (codex)

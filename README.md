@@ -29,7 +29,7 @@ s-p500/
 │   ├── README.md                   # 해당 연도의 기준일·파일 용도·관리 주의사항
 │   ├── sp500_companies.csv         # CIK/기업명 기준으로 통합한 500개 기업 표본
 │   ├── sp500_securities.csv        # 복수 주식 종류를 유지한 종목 단위 감사표
-│   └── pilot_100/                   # 2025 파일럿 표본·SEC metadata·검증 결과
+│   └── pilot_100/                   # 2025 파일럿 표본·SEC metadata·원문 HTML
 ├── data/
 │   ├── raw/                        # 수정하지 않는 외부 원천자료 스냅숏
 │   │   ├── wikipedia_sp500_2026-07-24.html
@@ -41,7 +41,8 @@ s-p500/
 ├── scripts/
 │   ├── build_annual_constituents.py    # 원천자료에서 연도별 표본을 재생성
 │   ├── validate_annual_constituents.py # 구조·행 수·키·해시·manifest 검증
-│   └── apply_pilot_replacement.py      # 승인된 TXT→ITW 교체 및 최종 표본 생성
+│   ├── apply_pilot_replacement.py      # 승인된 TXT→ITW 교체 및 최종 표본 생성
+│   └── download_10k_html.py            # 최종 파일럿 SEC 원문 HTML 수집
 ├── AGENTS.md                       # 모든 작업자가 따라야 하는 저장소 운영 규칙
 ├── CHANGELOG.md                    # 버전별 변경 이력
 ├── VERSION                         # 현재 Semantic Version
@@ -83,6 +84,13 @@ python scripts/validate_annual_constituents.py
 
 검증 스크립트는 연도별 행 수와 기준일뿐 아니라 필수 열, ticker 및 기업 키
 고유성, CIK 형식, manifest 출력 경로, 원본 파일 SHA-256도 확인한다.
+
+## 2025 파일럿 HTML
+
+2025 파일럿의 100개 SEC primary filing HTML 수집이 완료되었다. 수집의
+유일한 입력은 `2025/pilot_100/sample/final_analysis_sample_100.csv`이며,
+원문과 SHA-256 manifest는 `2025/pilot_100/html/`에 있다. 아직 본문 추출,
+NLP 및 언어 분석은 수행하지 않았다.
 
 ## 추가로 확정할 사항
 

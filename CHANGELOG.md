@@ -4,6 +4,13 @@
 
 ## [Unreleased]
 
+## [0.8.0] - 2026-07-29
+
+- Added: 최종 분석 표본 CSV만 입력으로 사용해 SEC Archives의 지정 10-K primary HTML 100개를 초당 최대 1회 정책으로 수집하는 반복 실행 가능 downloader를 추가했다. (codex)
+- Data: 기업별 원문 HTML, SHA-256·크기·HTTP 상태 manifest, 다운로드 요약 및 User-Agent 값을 포함하지 않는 요청 로그를 추가했다. (codex)
+- Added: 입력 계약, URL 생성, 비식별 로그, manifest-파일 대응, SHA-256, 파일 크기 및 accession 고유성을 검증하는 비네트워크·artifact 테스트를 추가했다. (codex)
+- Docs: HTML collection completed 상태와 본문 추출·NLP·언어 분석이 아직 수행되지 않았음을 기록했다. (codex)
+
 ## [0.7.0] - 2026-07-29
 
 - Added: 승인된 TXT→ITW 교체를 deterministic reserve 순서와 계보 검증을 거쳐 반복 실행 가능하게 적용하고 최종 분석 표본 100개를 생성했다. (codex)

@@ -1,7 +1,7 @@
 # 2025 100-Company 10-K Pilot
 
-This directory contains a reproducible metadata-collection pilot, not research
-results. The sample uses seed `20250729` and GICS proportional allocation from
+This directory contains a reproducible metadata and HTML-collection pilot, not
+research results. The sample uses seed `20250729` and GICS proportional allocation from
 487 eligible companies. It excludes 13 companies with missing sector metadata,
 which must be addressed before expansion.
 
@@ -12,7 +12,7 @@ Current stage:
   a new random draw.
 - Final sample fixed at 100 companies and 100 eligible 2025 report-year 10-Ks.
 - 10-K/A recorded separately.
-- No filing HTML downloaded.
+- SEC primary filing HTML collection completed for all 100 final-sample filings.
 - No text extraction, language measurement, or exploratory analysis performed.
 
 `sample/pilot_sample_100.csv` is the original draw, while
@@ -20,6 +20,9 @@ Current stage:
 downloads. `sample/` also contains reserve ordering. `metadata/` contains
 small, Git-eligible indexes and manifests. `logs/sec_requests.jsonl` is an
 audit log without the User-Agent value. `cache/` contains ignored SEC responses.
+`html/raw/` contains one immutable downloaded primary HTML per company;
+`html/manifest/` records SHA-256 and file sizes, and `html/logs/` records
+request timing and HTTP status without the User-Agent value.
 
 Run:
 
@@ -27,6 +30,7 @@ Run:
 python scripts/build_pilot_sample.py
 python scripts/collect_sec_filing_metadata.py
 python scripts/apply_pilot_replacement.py
+python scripts/download_10k_html.py
 python -m unittest discover -s tests -p 'test_*.py' -v
 ```
 

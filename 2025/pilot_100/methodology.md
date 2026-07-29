@@ -31,3 +31,15 @@ support Construal Level Theory claims.
 
 `sample/final_analysis_sample_100.csv` is the only input to the next HTML
 download stage. TXT remains in audit metadata.
+
+## HTML collection
+
+The HTML collector uses only `sample/final_analysis_sample_100.csv`. For each
+of its 100 rows it requests the exact SEC Archives accession and primary
+document, at no more than one request per second. Responses are stored by CIK
+and accession, with SHA-256, byte size, UTC download time, HTTP status, and
+idempotent skip status in the HTML manifest. HTTP 429, 500, 502, and 503 are
+eligible for exponential-backoff retry.
+
+HTML collection is complete. No HTML parsing, body-text extraction, NLP,
+language-variable measurement, or substantive analysis has been performed.

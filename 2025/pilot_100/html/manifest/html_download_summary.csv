@@ -1,0 +1,2 @@
+input_path,input_rows,manifest_rows,html_files,downloaded,skipped_sha_match,failed,retry_count,successful_files,http_failures,unique_accessions,unique_sha256,zero_size_files,collection_status,completed_at
+2025/pilot_100/sample/final_analysis_sample_100.csv,100,100,100,0,100,0,0,100,0,100,100,0,completed,2026-07-29T11:22:42.871638+00:00
