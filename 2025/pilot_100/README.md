@@ -48,3 +48,18 @@ python -m unittest discover -s tests -p 'test_*.py' -v
 ```
 
 The collector requires a real `SEC_USER_AGENT` environment variable.
+# Step 4B-2: Loughran-McDonald financial language
+
+The existing five-company smoke-test sample and 273 direct AI-related sentences were retained. Official Loughran-McDonald 1993–2025 categories now measure positive, negative, uncertainty, litigious, strong modal, weak modal, and constraining language at both AI-sentence and whole-report scope.
+
+TECH remains in the sample: its AI-level LM ratios and net tone are missing because it has no AI sentence, while its whole-report LM measures are available. NSC retains its single-sentence warning.
+
+The dictionary source file is local-only. Run:
+
+```bash
+python scripts/load_loughran_mcdonald_dictionary.py --validate-only
+python scripts/run_language_smoke_test.py --retry-blocked-dictionary-measures
+python scripts/check_language_smoke_test_quality.py
+```
+
+This stage does not cover concreteness, dependency-based tense/passive voice, human sentence labels, the full 100-company sample, or R2.

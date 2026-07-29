@@ -9,7 +9,8 @@ except ImportError:
 
 
 def measure_report_controls(text: str, sentences: list[str], paragraph_count: int,
-                            table_text: str, source_bytes: int, analysis_bytes: int) -> dict:
+                            table_text: str, source_bytes: int, analysis_bytes: int,
+                            lm_dictionary=None) -> dict:
     read = readability(sentences)
     word_count = len(tokens(text))
     table_words = len(tokens(table_text))
@@ -28,7 +29,7 @@ def measure_report_controls(text: str, sentences: list[str], paragraph_count: in
         "source_html_bytes": source_bytes,
         "analysis_text_bytes": analysis_bytes,
         "analysis_text_to_html_ratio": safe_ratio(analysis_bytes, source_bytes),
-        "report_control_status": "partial_dictionary_missing",
+        "report_control_status": "partial_dictionary_missing" if lm_dictionary is None else "success",
     }
     for name in ("positive_count", "negative_count", "net_tone", "uncertainty_count",
                  "uncertainty_ratio", "weak_modal_count", "weak_modal_ratio",
@@ -36,4 +37,25 @@ def measure_report_controls(text: str, sentences: list[str], paragraph_count: in
                  "litigious_ratio", "constraining_count", "constraining_ratio",
                  "forward_looking_count", "forward_looking_ratio"):
         result[f"report_{name}"] = None
+    if lm_dictionary is not None:
+        words = [word.lower() for word in tokens(text) if word.isalpha()]
+        for category in ("positive", "negative", "uncertainty", "litigious",
+                         "strong_modal", "weak_modal", "constraining"):
+            count = sum(
+                word in lm_dictionary and lm_dictionary[word]["active"][category]
+                for word in words
+            )
+            result[f"report_{category}_count"] = count
+            result[f"report_{category}_ratio"] = safe_ratio(count, len(words))
+        positive = result["report_positive_count"]
+        negative = result["report_negative_count"]
+        sentiment_denominator = positive + negative
+        result["report_net_tone"] = safe_ratio(positive - negative, sentiment_denominator)
+        result["report_net_tone_by_words"] = safe_ratio(positive - negative, len(words))
+        result["report_sentiment_word_coverage"] = safe_ratio(sentiment_denominator, len(words))
+        result["report_total_lm_matched_word_count"] = sum(
+            word in lm_dictionary and any(lm_dictionary[word]["active"].values())
+            for word in words
+        )
+        result["report_total_eligible_word_count"] = len(words)
     return result

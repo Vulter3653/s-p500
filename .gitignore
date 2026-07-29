@@ -1,3 +1,7 @@
 __pycache__/
 *.py[cod]
 2025/pilot_100/cache/
+references/dictionaries/loughran_mcdonald_master_dictionary/original_source_files/*
+references/dictionaries/loughran_mcdonald_master_dictionary/analysis_ready_dictionary/*
+!references/dictionaries/loughran_mcdonald_master_dictionary/original_source_files/.gitkeep
+!references/dictionaries/loughran_mcdonald_master_dictionary/analysis_ready_dictionary/.gitkeep

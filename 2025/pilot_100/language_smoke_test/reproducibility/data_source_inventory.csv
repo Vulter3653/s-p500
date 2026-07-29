@@ -1,3 +1,4 @@
 data_name,path,expected_rows_or_files,actual_rows_or_files,sha_validation
 selected analysis text,2025/pilot_100/text/company_text/,5,5,5/5
 sentence corpus,2025/pilot_100/text/analysis_tables/sentences.csv.gz,selected companies,12584,repository input
+Loughran-McDonald Master Dictionary,references/dictionaries/loughran_mcdonald_master_dictionary/original_source_files/loughran_mcdonald_master_dictionary_1993_2025.csv,86553,86553,e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d

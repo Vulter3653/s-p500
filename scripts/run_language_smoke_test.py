@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 from detect_ai_disclosure import measure_ai_disclosure
 from extract_ai_related_sentences import extract_ai_sentences
 from language_measurement_common import (
-    AI_TERMS, LANGUAGE_MEASUREMENT_VERSION, RANDOM_SEED, ROOT, SMOKE_ROOT,
+    AI_DICTIONARY_VERSION, AI_TERMS, LANGUAGE_MEASUREMENT_VERSION, RANDOM_SEED, ROOT, SMOKE_ROOT,
     ai_matches, display, read_csv, run_with_attempts, sha256_file, stable_row_sha,
     tokens, write_csv,
 )
@@ -26,6 +26,9 @@ from measure_readability import measure_readability
 from measure_report_level_controls import measure_report_controls
 from measure_tense_usage import measure_tense
 from measure_uncertainty_language import measure_uncertainty
+from load_loughran_mcdonald_dictionary import (
+    CATEGORIES as LM_CATEGORIES, load_dictionary,
+)
 from select_language_smoke_test_companies import OUTPUT as SELECTED_PATH, select_companies
 
 SENTENCES = ROOT / "2025/pilot_100/text/analysis_tables/sentences.csv.gz"
@@ -84,9 +87,9 @@ def _write_definitions(path):
          "measured", "고유명사와 약어 과대계상 가능"),
         ("ai_net_tone", "AI 관련 금융 순감성", "sentiment", "AI sentences",
          "(긍정-부정)/(긍정+부정)", "긍정-부정", "긍정+부정", "ratio",
-         "Loughran-McDonald", "not installed", "사전 없으면 missing",
+         "Loughran-McDonald Master Dictionary", "1993-2025", "사전 없으면 missing",
          "0 denominator이면 missing", "primary", "Loughran-McDonald",
-         "blocked_dictionary_missing", ""),
+         "measured", "공식 파일 SHA-256 검증"),
         ("report_word_count", "전체 10-K 분석 단어 수", "report control", "whole report",
          "정제 본문의 token 수", "token 수", "해당 없음", "count", "repository tokenizer",
          LANGUAGE_MEASUREMENT_VERSION, "입력 누락 시 missing", "해당 없음", "primary",
@@ -104,6 +107,7 @@ def _write_definitions(path):
 
 def run(force=False):
     started = time.monotonic()
+    lm_dictionary, lm_metadata = load_dictionary(write_analysis_file=True)
     selected = select_companies()
     state_path = SMOKE_ROOT / "processing_logs/language_smoke_test_processing_state.csv"
     combined_path = SMOKE_ROOT / "combined_language_results/company_language_smoke_test_results.csv"
@@ -115,11 +119,12 @@ def run(force=False):
             len(state) == 5
             and {row["company_id"]: row["analysis_text_sha256"] for row in state} == expected
             and all(row["language_measurement_version"] == LANGUAGE_MEASUREMENT_VERSION for row in state)
+            and all(row.get("lm_dictionary_sha256") == lm_metadata["sha256"] for row in state)
             and prior_summary_path.is_file()
             and read_csv(prior_summary_path)[0]["combined_output_sha256"] == sha256_file(combined_path)
         )
         if valid:
-            print("processed=0 skipped=5 warning=5 failed=0 blocked_dependency_constructs=5")
+            print("processed=0 skipped=5 warning=5 failed=0 blocked_dependency_constructs=3 denominator_zero=1")
             return {"processed": 0, "skipped": 5, "warning": 5, "failed": 0}
     ids = {row["company_id"] for row in selected}
     sentence_rows = _filtered_gzip(SENTENCES, ids)
@@ -162,14 +167,15 @@ def run(force=False):
         )
         concrete = measure_concreteness(ai_texts)
         tense = measure_tense(ai_texts)
-        uncertainty = measure_uncertainty(" ".join(ai_texts))
+        uncertainty = measure_uncertainty(" ".join(ai_texts), lm_dictionary)
         passive = measure_passive(ai_texts)
         readable = measure_readability(ai_texts)
-        sentiment = measure_sentiment(" ".join(ai_texts))
+        sentiment = measure_sentiment(" ".join(ai_texts), lm_dictionary)
         table_text = (ROOT / ext["table_text_file"]).read_text(encoding="utf-8")
         controls = measure_report_controls(
             text, [row["sentence_text"] for row in narrative], paragraph_count[company_id],
             table_text, int(ext["source_html_bytes"]), int(ext["analysis_text_bytes"]),
+            lm_dictionary,
         )
         identity = {
             "company_id": company_id, "cik": selected_row["cik"],
@@ -222,9 +228,7 @@ def run(force=False):
         for construct, reason in (
             ("concreteness", "Brysbaert_dictionary_missing"),
             ("tense", "dependency_model_missing"),
-            ("uncertainty", "Loughran_McDonald_dictionary_missing"),
             ("passive_voice", "dependency_model_missing"),
-            ("sentiment", "Loughran_McDonald_dictionary_missing"),
         ):
             warnings.append({
                 "company_id": row["company_id"], "ticker": row["ticker"],
@@ -234,7 +238,7 @@ def run(force=False):
 
     # Core outputs
     dictionary_rows = [
-        {"term": term, "term_type": kind, "dictionary_version": LANGUAGE_MEASUREMENT_VERSION,
+        {"term": term, "term_type": kind, "dictionary_version": AI_DICTIONARY_VERSION,
          "case_handling": "case-insensitive with alphabetic boundaries",
          "source": "user-specified pilot dictionary"}
         for term, kind in AI_TERMS
@@ -282,8 +286,10 @@ def run(force=False):
           "ai_future_orientation", "tense_status"]),
         ("uncertainty_language/company_uncertainty_results.csv",
          ["company_id", "ticker", "ai_uncertainty_count", "ai_uncertainty_ratio",
+          "ai_litigious_count", "ai_litigious_ratio",
           "ai_weak_modal_count", "ai_weak_modal_ratio", "ai_strong_modal_count",
           "ai_strong_modal_ratio", "ai_constraining_count", "ai_constraining_ratio",
+          "ai_total_eligible_word_count",
           "uncertainty_status"]),
         ("passive_voice/company_passive_voice_results.csv",
          ["company_id", "ticker", "ai_passive_sentence_count", "ai_passive_sentence_ratio",
@@ -295,24 +301,66 @@ def run(force=False):
         ("ai_related_sentiment/company_ai_sentiment_results.csv",
          ["company_id", "ticker", "ai_positive_count", "ai_negative_count", "ai_positive_ratio",
           "ai_negative_ratio", "ai_net_tone", "ai_sentiment_word_coverage",
-          "ai_net_tone_by_words", "sentiment_status"]),
+          "ai_net_tone_by_words", "ai_total_lm_matched_word_count",
+          "ai_total_eligible_word_count", "sentiment_status"]),
     ]
     for relative, fields in concept_specs:
-        write_csv(SMOKE_ROOT / relative, company_rows, fields)
+        output_rows = company_rows
+        if relative.startswith("linguistic_concreteness/"):
+            output_rows = [
+                row | {
+                    "ai_concreteness_mean": None, "ai_concreteness_median": None,
+                    "ai_concreteness_coverage": None, "ai_concrete_word_ratio": None,
+                    "ai_matched_concreteness_word_count": None,
+                    "ai_total_eligible_word_count": None,
+                }
+                for row in company_rows
+            ]
+        write_csv(SMOKE_ROOT / relative, output_rows, fields)
     for relative, fields in (
         ("linguistic_concreteness/word_concreteness_match_details.csv.gz",
          ["company_id", "sentence_id", "token", "score", "dictionary_status"]),
         ("tense_measurement/sentence_tense_details.csv.gz",
          ["company_id", "sentence_id", "past_count", "present_count", "future_count", "parser_status"]),
-        ("uncertainty_language/uncertainty_word_match_details.csv.gz",
-         ["company_id", "sentence_id", "token", "category", "dictionary_status"]),
         ("passive_voice/passive_sentence_details.csv.gz",
          ["company_id", "sentence_id", "passive_detected", "passive_rule", "passive_token",
           "auxiliary_token", "dependency_evidence", "parser_status"]),
-        ("ai_related_sentiment/sentiment_word_match_details.csv.gz",
-         ["company_id", "sentence_id", "token", "sentiment", "dictionary_status"]),
     ):
         _empty(SMOKE_ROOT / relative, fields)
+    lm_match_rows = []
+    for sentence in ai_sentence_rows:
+        token_order = 0
+        for original_token in tokens(sentence["sentence_text"]):
+            if not original_token.isalpha():
+                continue
+            token_order += 1
+            normalized = original_token.lower()
+            entry = lm_dictionary.get(normalized)
+            if entry is None or not any(entry["active"].values()):
+                continue
+            lm_match_rows.append({
+                "company_id": sentence["company_id"], "cik": sentence["cik"],
+                "ticker": sentence["ticker"], "accession_number": sentence["accession_number"],
+                "sentence_id": sentence["sentence_id"], "sentence_order": sentence["sentence_order"],
+                "token_order": token_order, "original_token": original_token,
+                "normalized_token": normalized, "dictionary_word": entry["dictionary_word"],
+                **{f"{key}_match": int(entry["active"][key]) for key in LM_CATEGORIES},
+                "source_values": "|".join(
+                    f"{key}={entry['values'][key]}" for key in LM_CATEGORIES
+                ),
+                "dictionary_release": lm_metadata["dictionary_release"],
+                "dictionary_sha256": lm_metadata["sha256"],
+            })
+    lm_detail_fields = [
+        "company_id", "cik", "ticker", "accession_number", "sentence_id", "sentence_order",
+        "token_order", "original_token", "normalized_token", "dictionary_word",
+        *[f"{key}_match" for key in LM_CATEGORIES], "source_values",
+        "dictionary_release", "dictionary_sha256",
+    ]
+    write_csv(SMOKE_ROOT / "ai_related_sentiment/sentiment_word_match_details.csv.gz",
+              lm_match_rows, lm_detail_fields)
+    write_csv(SMOKE_ROOT / "uncertainty_language/uncertainty_word_match_details.csv.gz",
+              lm_match_rows, lm_detail_fields)
     for sentence in ai_sentence_rows:
         metrics = measure_readability([sentence["sentence_text"]])
         readability_details.append({
@@ -403,10 +451,13 @@ def run(force=False):
             "ai_sentence_max_length": max(lengths) if lengths else "",
             "duplicate_ai_sentence_count": len(company_ai) - len({item["sentence_text"] for item in company_ai}),
             "false_positive_candidate_count": 0, "concreteness_coverage": "",
-            "finite_verb_count": "", "tense_ratio_sum": "", "uncertainty_match_count": "",
+            "finite_verb_count": "", "tense_ratio_sum": "",
+            "uncertainty_match_count": row["ai_uncertainty_count"],
             "passive_sentence_count": "", "readability_sentence_count": row["ai_sentence_count_for_readability"],
-            "fog_index": display(row["ai_fog_index"]), "positive_match_count": "",
-            "negative_match_count": "", "denominator_zero": int(row["ai_sentence_count"] == 0),
+            "fog_index": display(row["ai_fog_index"]),
+            "positive_match_count": row["ai_positive_count"],
+            "negative_match_count": row["ai_negative_count"],
+            "denominator_zero": int(row["ai_sentence_count"] == 0),
             "missing_variable_count": sum(value is None for value in row.values()),
             "warning_count": sum(item["company_id"] == row["company_id"] for item in warnings),
         })
@@ -418,7 +469,9 @@ def run(force=False):
             "company_id": row["company_id"],
             "analysis_text_sha256": next(x["analysis_text_sha256"] for x in selected if x["company_id"] == row["company_id"]),
             "language_measurement_version": LANGUAGE_MEASUREMENT_VERSION,
-            "dictionary_fingerprint": "pilot-ai-v0.1.0|brysbaert-missing|lm-missing",
+            "dictionary_fingerprint": f"pilot-ai-v{AI_DICTIONARY_VERSION}|brysbaert-missing|lm-{lm_metadata['sha256']}",
+            "lm_dictionary_sha256": lm_metadata["sha256"],
+            "lm_dictionary_release": lm_metadata["dictionary_release"],
             "nlp_model_version": "dependency-model-missing",
             "result_row_sha256": stable_row_sha(row), "processing_attempts": attempts[row["company_id"]],
             "processing_status": "warning_blocked_dependencies", "processed_at": processed_at,
@@ -440,7 +493,8 @@ def run(force=False):
     summary = [{
         "language_measurement_version": LANGUAGE_MEASUREMENT_VERSION, "random_seed": RANDOM_SEED,
         "selected_companies": len(selected), "processed": len(company_rows), "skipped": 0,
-        "warning": len(company_rows), "failed": 0, "blocked_dependency_constructs": 5,
+        "warning": len(company_rows), "failed": 0, "blocked_dependency_constructs": 3,
+        "denominator_zero": len(denominator_zero),
         "ai_disclosure_companies": sum(row["ai_disclosure_binary"] for row in company_rows),
         "ai_related_sentences": len(ai_sentence_rows), "manual_review_sentences": len(reviews),
         "elapsed_seconds": f"{elapsed:.6f}", "average_seconds_per_company": f"{elapsed/5:.6f}",
@@ -453,8 +507,10 @@ def run(force=False):
     repro.mkdir(parents=True, exist_ok=True)
     (repro / "colab_reproduction_backlog.md").write_text(
         "# Colab reproduction backlog\n\n"
-        "- Step 4A에서는 notebook을 만들거나 실행하지 않았다.\n"
-        "- 전체 확장 전 Brysbaert 및 Loughran-McDonald 사전의 출처·라이선스·SHA를 확정한다.\n"
+        "- Step 4B-2에서도 notebook을 만들거나 실행하지 않았다.\n"
+        "- LM 1993-2025 CSV를 공식 Notre Dame 페이지에서 내려받아 repository의 예상 경로에 두고 SHA-256을 검증한다.\n"
+        "- 원본 및 전체 파생 LM 사전은 재배포 조건이 불명확하여 Git에 포함하지 않는다.\n"
+        "- Brysbaert 사전의 출처·라이선스·SHA는 계속 미확정이다.\n"
         "- dependency parser와 모델 버전을 고정한 뒤 설치 셀을 문서화한다.\n",
         encoding="utf-8",
     )
@@ -464,12 +520,15 @@ def run(force=False):
         {"data_name": "sentence corpus", "path": str(SENTENCES.relative_to(ROOT)),
          "expected_rows_or_files": "selected companies", "actual_rows_or_files": len(sentence_rows),
          "sha_validation": "repository input"},
+        {"data_name": "Loughran-McDonald Master Dictionary", "path": lm_metadata["local_path"],
+         "expected_rows_or_files": 86553, "actual_rows_or_files": lm_metadata["row_count"],
+         "sha_validation": lm_metadata["sha256"]},
     ], ["data_name", "path", "expected_rows_or_files", "actual_rows_or_files", "sha_validation"])
     write_csv(repro / "pipeline_execution_inventory.csv", [
         {"execution_order": 1, "script": "scripts/select_language_smoke_test_companies.py",
          "purpose": "select five companies", "seed": RANDOM_SEED},
         {"execution_order": 2, "script": "scripts/run_language_smoke_test.py",
-         "purpose": "measure available variables and preserve blocked dependencies", "seed": RANDOM_SEED},
+         "purpose": "measure AI/report LM variables and preserve other blocked dependencies", "seed": RANDOM_SEED},
         {"execution_order": 3, "script": "scripts/check_language_smoke_test_quality.py",
          "purpose": "validate outputs", "seed": RANDOM_SEED},
     ], ["execution_order", "script", "purpose", "seed"])
@@ -481,8 +540,9 @@ def run(force=False):
          "status": "available", "colab_install_note": "repository file"},
         {"component": "Brysbaert concreteness", "version": "", "sha256": "",
          "status": "blocked_dictionary_missing", "colab_install_note": "source and license required"},
-        {"component": "Loughran-McDonald", "version": "", "sha256": "",
-         "status": "blocked_dictionary_missing", "colab_install_note": "official dictionary required"},
+        {"component": "Loughran-McDonald", "version": lm_metadata["dictionary_release"],
+         "sha256": lm_metadata["sha256"], "status": "available_local_not_redistributed",
+         "colab_install_note": "download from official Notre Dame page and verify SHA-256"},
         {"component": "dependency parser", "version": "", "sha256": "",
          "status": "blocked_model_missing", "colab_install_note": "pin package and English model"},
     ], ["component", "version", "sha256", "status", "colab_install_note"])
@@ -495,7 +555,7 @@ def run(force=False):
             })
     write_csv(repro / "expected_outputs_inventory.csv", output_inventory,
               ["output_file", "actual_bytes", "sha256"])
-    print(f"processed=5 skipped=0 warning=5 failed=0 blocked_dependency_constructs=5 elapsed={elapsed:.3f}s")
+    print(f"processed=5 skipped=0 warning=5 failed=0 blocked_dependency_constructs=3 denominator_zero={len(denominator_zero)} elapsed={elapsed:.3f}s")
     return summary[0]
 
 
@@ -503,6 +563,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--retry-warning", action="store_true")
     parser.add_argument("--retry-failed", action="store_true")
+    parser.add_argument("--retry-blocked-dictionary-measures", action="store_true")
     parser.add_argument("--force", action="store_true")
     arguments = parser.parse_args()
-    run(force=arguments.force or arguments.retry_warning or arguments.retry_failed)
+    run(force=arguments.force or arguments.retry_warning or arguments.retry_failed
+        or arguments.retry_blocked_dictionary_measures)

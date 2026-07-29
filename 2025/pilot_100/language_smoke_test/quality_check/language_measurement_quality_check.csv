@@ -1,6 +1,6 @@
 company_id,ticker,ai_term_count,ai_sentence_count,ai_sentence_ratio,ai_sentence_min_length,ai_sentence_max_length,duplicate_ai_sentence_count,false_positive_candidate_count,concreteness_coverage,finite_verb_count,tense_ratio_sum,uncertainty_match_count,passive_sentence_count,readability_sentence_count,fog_index,positive_match_count,negative_match_count,denominator_zero,missing_variable_count,warning_count
-P2025-077,NVDA,178,137,0.06465314,8,92,8,0,,,,,,137,24.31960299,,,0,49,5
-P2025-074,HPE,168,119,0.03331467,3,534,4,0,,,,,,119,28.63752566,,,0,49,5
-P2025-051,TECH,0,0,0.00000000,,,0,0,,,,,,0,,,,1,52,6
-P2025-047,WAT,23,16,0.00597907,13,54,0,0,,,,,,16,26.68984674,,,0,49,5
-P2025-054,NSC,2,1,0.00051282,35,35,0,0,,,,,,1,30.00000000,,,0,49,6
+P2025-077,NVDA,178,137,0.06465314,8,92,8,0,,,,64,,137,24.31960299,40,77,0,20,3
+P2025-074,HPE,168,119,0.03331467,3,534,4,0,,,,83,,119,28.63752566,73,71,0,20,3
+P2025-051,TECH,0,0,0.00000000,,,0,0,,,,,,0,,,,1,41,4
+P2025-047,WAT,23,16,0.00597907,13,54,0,0,,,,21,,16,26.68984674,5,36,0,20,3
+P2025-054,NSC,2,1,0.00051282,35,35,0,0,,,,2,,1,30.00000000,0,3,0,20,4

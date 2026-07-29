@@ -11,7 +11,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SMOKE_ROOT = ROOT / "2025/pilot_100/language_smoke_test"
-LANGUAGE_MEASUREMENT_VERSION = "0.1.0"
+LANGUAGE_MEASUREMENT_VERSION = "0.2.0"
+AI_DICTIONARY_VERSION = "0.1.0"
 RANDOM_SEED = 20250729
 
 AI_TERMS = [

@@ -1,6 +1,6 @@
-company_id,ticker,ai_uncertainty_count,ai_uncertainty_ratio,ai_weak_modal_count,ai_weak_modal_ratio,ai_strong_modal_count,ai_strong_modal_ratio,ai_constraining_count,ai_constraining_ratio,uncertainty_status
-P2025-077,NVDA,,,,,,,,,blocked_dictionary_missing
-P2025-074,HPE,,,,,,,,,blocked_dictionary_missing
-P2025-051,TECH,,,,,,,,,blocked_dictionary_missing
-P2025-047,WAT,,,,,,,,,blocked_dictionary_missing
-P2025-054,NSC,,,,,,,,,blocked_dictionary_missing
+company_id,ticker,ai_uncertainty_count,ai_uncertainty_ratio,ai_litigious_count,ai_litigious_ratio,ai_weak_modal_count,ai_weak_modal_ratio,ai_strong_modal_count,ai_strong_modal_ratio,ai_constraining_count,ai_constraining_ratio,ai_total_eligible_word_count,uncertainty_status
+P2025-077,NVDA,64,0.014437175727498308,30,0.006767426122264832,56,0.01263252876156102,5,0.0011279043537108053,45,0.010151139183397249,4433,success
+P2025-074,HPE,83,0.017701002345915973,39,0.008317338451695458,43,0.009170398805715504,12,0.0025591810620601407,24,0.005118362124120281,4689,success
+P2025-051,TECH,,,,,,,,,,,0,warning_denominator_zero
+P2025-047,WAT,21,0.0410958904109589,11,0.021526418786692758,11,0.021526418786692758,1,0.0019569471624266144,2,0.003913894324853229,511,success
+P2025-054,NSC,2,0.05714285714285714,0,0.0,1,0.02857142857142857,0,0.0,0,0.0,35,success

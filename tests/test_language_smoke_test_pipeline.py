@@ -28,3 +28,16 @@ class PipelineTests(unittest.TestCase):
     def test_blocked_dependencies_and_warning_are_preserved(self):
         rows = read_csv(SMOKE_ROOT / "quality_check/failed_or_warning_cases.csv")
         self.assertTrue(any(row["case_status"] == "blocked_dependency" for row in rows))
+
+    def test_lm_outputs_and_original_ai_counts(self):
+        combined = read_csv(SMOKE_ROOT / "combined_language_results/company_language_smoke_test_results.csv")
+        by_ticker = {row["ticker"]: row for row in combined}
+        self.assertEqual(sum(int(row["ai_sentence_count"]) for row in combined), 273)
+        self.assertEqual(by_ticker["TECH"]["ai_total_eligible_word_count"], "0")
+        self.assertEqual(by_ticker["TECH"]["ai_positive_ratio"], "")
+        self.assertNotEqual(by_ticker["TECH"]["report_positive_count"], "")
+        self.assertEqual(by_ticker["NSC"]["ai_sentence_count"], "1")
+        self.assertEqual(by_ticker["TECH"]["uncertainty_status"], "warning_denominator_zero")
+        self.assertEqual(by_ticker["TECH"]["sentiment_status"], "warning_denominator_zero")
+        self.assertTrue(all(row["uncertainty_status"] == "success" for row in combined if row["ticker"] != "TECH"))
+        self.assertTrue(all(row["sentiment_status"] == "success" for row in combined if row["ticker"] != "TECH"))

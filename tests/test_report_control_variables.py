@@ -10,3 +10,21 @@ class ReportControlsTests(unittest.TestCase):
         self.assertGreater(result["log_report_word_count"], 0)
         self.assertGreater(result["report_numeric_token_ratio"], 0)
         self.assertEqual(result["report_control_status"], "partial_dictionary_missing")
+
+    def test_report_lm_counts(self):
+        active = {
+            "positive": False, "negative": False, "uncertainty": False,
+            "litigious": False, "strong_modal": False, "weak_modal": False,
+            "constraining": False,
+        }
+        dictionary = {
+            "gain": {"active": active | {"positive": True}},
+            "risk": {"active": active | {"negative": True, "uncertainty": True}},
+        }
+        result = measure_report_controls(
+            "gain risk risks", ["gain risk risks"], 1, "", 100, 50, dictionary
+        )
+        self.assertEqual(result["report_positive_count"], 1)
+        self.assertEqual(result["report_negative_count"], 1)
+        self.assertEqual(result["report_uncertainty_count"], 1)
+        self.assertEqual(result["report_control_status"], "success")

@@ -1,6 +1,6 @@
-company_id,ticker,ai_positive_count,ai_negative_count,ai_positive_ratio,ai_negative_ratio,ai_net_tone,ai_sentiment_word_coverage,ai_net_tone_by_words,sentiment_status
-P2025-077,NVDA,,,,,,,,blocked_dictionary_missing
-P2025-074,HPE,,,,,,,,blocked_dictionary_missing
-P2025-051,TECH,,,,,,,,blocked_dictionary_missing
-P2025-047,WAT,,,,,,,,blocked_dictionary_missing
-P2025-054,NSC,,,,,,,,blocked_dictionary_missing
+company_id,ticker,ai_positive_count,ai_negative_count,ai_positive_ratio,ai_negative_ratio,ai_net_tone,ai_sentiment_word_coverage,ai_net_tone_by_words,ai_total_lm_matched_word_count,ai_total_eligible_word_count,sentiment_status
+P2025-077,NVDA,40,77,0.009023234829686443,0.017369727047146403,-0.3162393162393162,0.026392961876832845,-0.00834649221745996,259,4433,success
+P2025-074,HPE,73,71,0.015568351460865857,0.015141821283855833,0.013888888888888888,0.030710172744721688,0.00042653017701002344,289,4689,success
+P2025-051,TECH,,,,,,,,,0,warning_denominator_zero
+P2025-047,WAT,5,36,0.009784735812133072,0.07045009784735812,-0.7560975609756098,0.08023483365949119,-0.060665362035225046,75,511,success
+P2025-054,NSC,0,3,0.0,0.08571428571428572,-1.0,0.08571428571428572,-0.08571428571428572,5,35,success

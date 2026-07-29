@@ -144,3 +144,10 @@ python scripts/check_language_smoke_test_quality.py
 5. `docs/debug-log.md`
 
 현재 버전은 `VERSION` 파일에서 확인한다.
+# 0.11.0 language smoke-test update
+
+The five-company smoke test now applies the official University of Notre Dame Loughran-McDonald Master Dictionary release 1993–2025 to direct AI-related sentences and whole-report analysis text. Category values greater than zero are active; zero and negative removal markers are excluded; overlapping categories remain independent.
+
+The dictionary is free for academic research, but public redistribution permission is not explicit. The original and complete derived dictionary are therefore local-only and Git-ignored. See `references/dictionaries/loughran_mcdonald_master_dictionary/README.md` for the official download, expected SHA-256, and validation command.
+
+Brysbaert concreteness and dependency-based tense/passive voice remain blocked. The measurements have not been expanded to all 100 companies, and no R2 work was performed.

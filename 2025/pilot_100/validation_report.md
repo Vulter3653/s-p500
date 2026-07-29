@@ -81,3 +81,14 @@ dictionary/model-dependent constructs are explicitly blocked.
 
 All 45 repository tests, `py_compile`, smoke-test quality validation, and
 `git diff --check` pass.
+# Step 4B-2 validation
+
+- Official source: University of Notre Dame SRAF, release 1993–2025, page updated March 2026.
+- Original: 9,093,460 bytes; 86,553 data rows; 17 columns; SHA-256 `e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d`.
+- Active words: Positive 347; Negative 2,345; Uncertainty 297; Litigious 903; Strong Modal 19; Weak Modal 27; Constraining 184.
+- Removal markers: 19 negative source values; active inclusion errors 0.
+- Sample: 5 unique companies; 273 unchanged AI sentences; TECH AI denominator zero; NSC one AI sentence.
+- Outputs: uncertainty 5 rows; sentiment 5 rows; report controls 5 rows; combined results 5 rows.
+- Quality: ratio range errors 0; negative counts 0; infinite values 0; structural errors 0; failed-after-three-attempts 0.
+- Blocked statuses preserved: Brysbaert concreteness, dependency tense, dependency passive voice.
+- Not performed: full 100-company language measurement, human truth labels, R2, external financial controls.

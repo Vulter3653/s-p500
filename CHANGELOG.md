@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.11.0] - 2026-07-29
+
+- Added: 공식 Notre Dame 1993–2025 Loughran-McDonald Master Dictionary의 SHA-256·열 구조·활성/제거 규칙을 검증하는 loader와 재현성 metadata를 추가했다. (codex)
+- Analysis: 5개 smoke-test 기업의 AI 직접 관련 문장과 전체 10-K에 Positive, Negative, Uncertainty, Litigious, Strong Modal, Weak Modal, Constraining 변수를 계산했다. (codex)
+- Data: TECH의 AI 문장 분모 0은 missing으로 유지하고 보고서 수준 값은 계산했으며, NSC 단일 AI 문장 warning과 273개 기존 AI 문장 집합을 보존했다. (codex)
+- Security: 공개 재배포 허용이 명확하지 않은 원본 및 전체 파생 사전을 Git에서 제외하고 공식 다운로드 절차·파일명·SHA만 기록했다. (codex)
+- Docs: Brysbaert 구체성 및 dependency 기반 시제·수동태는 계속 blocked이며 100개 확장과 R2 작업을 수행하지 않았음을 명시했다. (codex)
+
 ## [0.10.0] - 2026-07-29
 
 - Added: 고정 seed와 명시적 선정 기준으로 warning 없는 5개 기업을 선택하고 AI 공시·직접 관련 문장·Fog 및 사전 비의존 보고서 통제변수를 측정하는 smoke-test pipeline을 추가했다. (codex)

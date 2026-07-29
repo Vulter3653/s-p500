@@ -14,18 +14,24 @@ source_html_bytes,source html bytes,measured,whole analysis text
 analysis_text_bytes,analysis text bytes,measured,whole analysis text
 analysis_text_to_html_ratio,analysis text to html ratio,measured,whole analysis text
 report_control_status,report control status,measured,whole analysis text
-report_positive_count,report positive count,blocked_dictionary_missing,whole analysis text
-report_negative_count,report negative count,blocked_dictionary_missing,whole analysis text
-report_net_tone,report net tone,blocked_dictionary_missing,whole analysis text
-report_uncertainty_count,report uncertainty count,blocked_dictionary_missing,whole analysis text
-report_uncertainty_ratio,report uncertainty ratio,blocked_dictionary_missing,whole analysis text
-report_weak_modal_count,report weak modal count,blocked_dictionary_missing,whole analysis text
-report_weak_modal_ratio,report weak modal ratio,blocked_dictionary_missing,whole analysis text
-report_strong_modal_count,report strong modal count,blocked_dictionary_missing,whole analysis text
-report_strong_modal_ratio,report strong modal ratio,blocked_dictionary_missing,whole analysis text
-report_litigious_count,report litigious count,blocked_dictionary_missing,whole analysis text
-report_litigious_ratio,report litigious ratio,blocked_dictionary_missing,whole analysis text
-report_constraining_count,report constraining count,blocked_dictionary_missing,whole analysis text
-report_constraining_ratio,report constraining ratio,blocked_dictionary_missing,whole analysis text
+report_positive_count,report positive count,measured,whole analysis text
+report_negative_count,report negative count,measured,whole analysis text
+report_net_tone,report net tone,measured,whole analysis text
+report_uncertainty_count,report uncertainty count,measured,whole analysis text
+report_uncertainty_ratio,report uncertainty ratio,measured,whole analysis text
+report_weak_modal_count,report weak modal count,measured,whole analysis text
+report_weak_modal_ratio,report weak modal ratio,measured,whole analysis text
+report_strong_modal_count,report strong modal count,measured,whole analysis text
+report_strong_modal_ratio,report strong modal ratio,measured,whole analysis text
+report_litigious_count,report litigious count,measured,whole analysis text
+report_litigious_ratio,report litigious ratio,measured,whole analysis text
+report_constraining_count,report constraining count,measured,whole analysis text
+report_constraining_ratio,report constraining ratio,measured,whole analysis text
 report_forward_looking_count,report forward looking count,blocked_dictionary_missing,whole analysis text
 report_forward_looking_ratio,report forward looking ratio,blocked_dictionary_missing,whole analysis text
+report_positive_ratio,report positive ratio,measured,whole analysis text
+report_negative_ratio,report negative ratio,measured,whole analysis text
+report_net_tone_by_words,report net tone by words,measured,whole analysis text
+report_sentiment_word_coverage,report sentiment word coverage,measured,whole analysis text
+report_total_lm_matched_word_count,report total lm matched word count,measured,whole analysis text
+report_total_eligible_word_count,report total eligible word count,measured,whole analysis text

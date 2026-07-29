@@ -39,11 +39,22 @@ def validate() -> dict:
             if key.endswith("_count"):
                 negative_counts += int(number < 0)
     assert ratio_errors == negative_counts == infinite_values == 0
-    assert all(row["language_measurement_version"] == "0.1.0" for row in combined)
+    assert all(row["language_measurement_version"] == "0.2.0" for row in combined)
+    assert sum(int(row["ai_sentence_count"]) for row in combined) == 273
+    by_ticker = {row["ticker"]: row for row in combined}
+    assert by_ticker["TECH"]["ai_total_eligible_word_count"] == "0"
+    assert by_ticker["TECH"]["ai_uncertainty_ratio"] == ""
+    assert by_ticker["TECH"]["ai_positive_ratio"] == ""
+    assert by_ticker["TECH"]["report_uncertainty_count"] != ""
+    assert by_ticker["NSC"]["ai_sentence_count"] == "1"
+    assert all(row["concreteness_status"] == "blocked_dictionary_missing" for row in combined)
+    assert all(row["tense_status"] == "blocked_model_missing" for row in combined)
+    assert all(row["passive_voice_status"] == "blocked_model_missing" for row in combined)
     result = {
         "selected_companies": 5, "input_sha_match": 5, "combined_rows": 5,
         "ratio_range_errors": 0, "negative_counts": 0, "infinite_values": 0,
         "failed_after_3_attempts": 0, "structural_errors": 0,
+        "ai_related_sentences": 273, "blocked_status_errors": 0,
     }
     print(" ".join(f"{key}={value}" for key, value in result.items()))
     return result

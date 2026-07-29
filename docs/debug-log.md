@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - LM 재배포와 TECH 분모 0 처리
+
+- 문제 요약: 공식 페이지는 학술 연구 무료 사용을 명시하지만 원본 또는 전체 파생 사전의 공개 Git 재배포 허용은 명시하지 않았다. 최초 LM 적용 품질검사는 TECH의 eligible word count가 0인 것을 missing으로 기대해 실패했다. (codex)
+- 원인: 연구 사용과 재배포 권한은 별개이며, TECH는 AI 관련 문장이 없어 count와 ratio의 해석 가능한 분모가 없지만 eligible word count 자체는 0으로 기록된다. (codex)
+- 조치: 원본·전체 파생 사전을 `.gitignore`로 제외하고 SHA와 설치 절차만 추적했다. TECH의 LM count·ratio·net tone은 missing, eligible word count는 0, 상태는 `warning_denominator_zero`로 명시했다. (codex)
+- 검증: loader는 86,553행과 7개 필수 범주를 확인했고 음수 source value 19개가 활성화되지 않았다. 품질검사와 전체 53개 테스트가 통과했다. (codex)
+- 상태: 해결됨. 사전 재배포 조건은 보수적으로 unclear로 유지한다. (codex)
+
 ## 2026-07-29 - 언어 smoke-test 모듈 import 경로
 
 - 문제 요약: 최초 신규 테스트 실행에서 4개 test module이 `language_measurement_common`을 찾지 못해 import error로 실패했다. (codex)

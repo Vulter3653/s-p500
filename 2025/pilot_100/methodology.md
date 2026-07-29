@@ -84,3 +84,12 @@ Loughran-McDonald dictionary, spaCy package, or English dependency model was
 available. Concreteness, uncertainty, financial sentiment, tense, and passive
 voice therefore remain missing with explicit blocked statuses; no invented
 dictionary, LIWC substitution, or `be + participle` shortcut was used.
+# Step 4B-2 LM measurement rule
+
+The official Notre Dame Loughran-McDonald Master Dictionary release 1993–2025 is matched against alphabetic tokens using exact normalized word forms. Unicode is normalized with NFKC, case is lowered, and word boundaries are retained. Stemming, lemmatization, substring matching, plural conversion, and category deduplication are not used.
+
+A source category value greater than zero activates membership. Zero means no membership. A negative value records removal and is excluded. One word may contribute once to each independently active category.
+
+For direct AI sentences and whole reports, each category ratio uses the corresponding eligible alphabetic token count. Net tone is `(positive-negative)/(positive+negative)`; net tone by words uses all eligible words. Zero denominators are missing, not zero. Previous and next context sentences are not measured.
+
+The original and complete derived dictionary remain local because research use is permitted but public redistribution is unclear.
