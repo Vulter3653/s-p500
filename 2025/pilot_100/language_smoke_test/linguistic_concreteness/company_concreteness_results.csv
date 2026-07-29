@@ -1,0 +1,6 @@
+company_id,ticker,ai_concreteness_mean,ai_concreteness_median,ai_concreteness_coverage,ai_concrete_word_ratio,ai_matched_concreteness_word_count,ai_total_eligible_word_count,concreteness_status
+P2025-077,NVDA,,,,,,,blocked_dictionary_missing
+P2025-074,HPE,,,,,,,blocked_dictionary_missing
+P2025-051,TECH,,,,,,,blocked_dictionary_missing
+P2025-047,WAT,,,,,,,blocked_dictionary_missing
+P2025-054,NSC,,,,,,,blocked_dictionary_missing

@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 5개 기업 언어 변수 smoke test
+
+- 선정: warning 없는 성공 기업 중 NVDA·HPE(사전 탐색 AI 빈도 상위), TECH(최저), WAT(단어 수 중앙값 인접), NSC(seed `20250729` 무작위)를 중복 없이 선정했다. (codex)
+- 측정: AI 공시 4개, AI 비공시 1개, 직접 AI 문장 273개를 확인하고 AI 문장 Fog와 전체 보고서 길이·Fog·숫자·AI·표 비율 통제변수를 생성했다. (codex)
+- 의존성: 로컬에 출처·라이선스가 확인된 Brysbaert·Loughran-McDonald 사전과 dependency model이 없어 구체성·불확실성·감성·시제·수동태를 blocked dependency로 보존했다. (codex)
+- 품질: 입력 SHA 5/5, 통합 결과 5행, ratio·음수·무한대·구조 오류 0이며 수동검토 후보 31개는 인간 판정 없이 `needs_manual_review`로 남겼다. (codex)
+- 검증: 기존 30개를 포함한 총 45개 테스트, `py_compile`, 품질검사, `git diff --check`가 통과했고 재실행에서 5개를 모두 skip했다. (codex)
+- 범위: 100개 전체 적용, R2, SEC 네트워크, 외부 통제변수 수집은 수행하지 않았다. 다음 단계 전 사전·dependency model 출처와 버전을 확정해야 한다. (codex)
+
 ## 2026-07-29 - 2025 파일럿 분석용 텍스트 생성
 
 - 추출: SEC 원본 HTML 100개의 SHA를 재검증하고 Cooper et al. (2022)을 참고한 inline XBRL parser로 언어 분석용 본문, 원문 구조 보존 텍스트, 표 텍스트 및 주요 Item 파일을 생성했다. (codex)

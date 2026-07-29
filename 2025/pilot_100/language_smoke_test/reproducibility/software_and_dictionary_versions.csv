@@ -1,0 +1,6 @@
+component,version,sha256,status,colab_install_note
+Python,3.12.1,,available,use compatible Python
+pilot AI dictionary,0.1.0,a374c93917e98f543bb97f4b482b3ca97f30310803a6128bddc3702591560ae8,available,repository file
+Brysbaert concreteness,,,blocked_dictionary_missing,source and license required
+Loughran-McDonald,,,blocked_dictionary_missing,official dictionary required
+dependency parser,,,blocked_model_missing,pin package and English model

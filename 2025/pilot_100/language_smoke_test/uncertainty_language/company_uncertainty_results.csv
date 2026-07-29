@@ -1,0 +1,6 @@
+company_id,ticker,ai_uncertainty_count,ai_uncertainty_ratio,ai_weak_modal_count,ai_weak_modal_ratio,ai_strong_modal_count,ai_strong_modal_ratio,ai_constraining_count,ai_constraining_ratio,uncertainty_status
+P2025-077,NVDA,,,,,,,,,blocked_dictionary_missing
+P2025-074,HPE,,,,,,,,,blocked_dictionary_missing
+P2025-051,TECH,,,,,,,,,blocked_dictionary_missing
+P2025-047,WAT,,,,,,,,,blocked_dictionary_missing
+P2025-054,NSC,,,,,,,,,blocked_dictionary_missing

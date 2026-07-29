@@ -1,0 +1,6 @@
+company_id,ticker,ai_past_tense_count,ai_present_tense_count,ai_future_tense_count,ai_total_finite_verb_count,ai_past_tense_ratio,ai_present_tense_ratio,ai_future_tense_ratio,ai_past_minus_future,ai_future_orientation,tense_status
+P2025-077,NVDA,,,,,,,,,,blocked_model_missing
+P2025-074,HPE,,,,,,,,,,blocked_model_missing
+P2025-051,TECH,,,,,,,,,,blocked_model_missing
+P2025-047,WAT,,,,,,,,,,blocked_model_missing
+P2025-054,NSC,,,,,,,,,,blocked_model_missing

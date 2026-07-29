@@ -63,4 +63,24 @@ Five companies were reviewed at document start, Items 1A/7/8, and document
 end. WFC showed likely material narrative loss from a table-based layout; D
 did not yield an Item 7 boundary; and ETR's detected Item 7 was a short
 cross-reference. These remain explicit warnings. Language variables and AI
-classification have not been calculated.
+classification have not been applied to the full 100-company sample.
+
+## Five-company language smoke test
+
+Seed `20250729` selected NVDA and HPE by the highest preliminary AI-term
+counts, TECH by the lowest count, WAT by proximity to the eligible median
+analysis length, and NSC by fixed-seed random selection. Only extraction
+`success` and quality `pass` companies were eligible; WFC, D, and ETR were
+explicitly excluded.
+
+AI sentences are narrative sentence-corpus rows containing a direct,
+alphabetically bounded pilot-dictionary match. Adjacent sentences are retained
+only as review context. Tables are excluded. Fog uses the standard formula and
+a deterministic vowel-group syllable heuristic; proper nouns and abbreviations
+can inflate complex-word counts.
+
+No locally sourced, license-documented Brysbaert concreteness or
+Loughran-McDonald dictionary, spaCy package, or English dependency model was
+available. Concreteness, uncertainty, financial sentiment, tense, and passive
+voice therefore remain missing with explicit blocked statuses; no invented
+dictionary, LIWC substitution, or `be + participle` shortcut was used.

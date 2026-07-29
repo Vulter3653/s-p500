@@ -1,0 +1,4 @@
+execution_order,script,purpose,seed
+1,scripts/select_language_smoke_test_companies.py,select five companies,20250729
+2,scripts/run_language_smoke_test.py,measure available variables and preserve blocked dependencies,20250729
+3,scripts/check_language_smoke_test_quality.py,validate outputs,20250729

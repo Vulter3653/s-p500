@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.10.0] - 2026-07-29
+
+- Added: 고정 seed와 명시적 선정 기준으로 warning 없는 5개 기업을 선택하고 AI 공시·직접 관련 문장·Fog 및 사전 비의존 보고서 통제변수를 측정하는 smoke-test pipeline을 추가했다. (codex)
+- Data: NVDA, HPE, TECH, WAT, NSC의 기업 결과, AI match 상세, 수동검토 후보, 분모 0, warning, reproducibility inventory 및 출력 SHA를 기록했다. (codex)
+- Analysis: 로컬에 없는 Brysbaert·Loughran-McDonald 사전과 dependency model을 가짜 값으로 대체하지 않고 관련 구체성·불확실성·감성·시제·수동태 상태를 blocked dependency로 보존했다. (codex)
+- Added: AI 경계·문장 문맥·표 제외·분모 0·Fog·blocked dependency·최대 3회·ID/SHA 품질을 검증하는 비네트워크 테스트를 추가했다. (codex)
+- Docs: 5개 smoke test가 부분 검증 단계이며 100개 확장, R2, SEC 재수집 및 외부 재무자료 수집은 수행하지 않았음을 기록했다. (codex)
+
 ## [0.9.0] - 2026-07-29
 
 - Added: Cooper, Ewing, and Mishra (2022)를 참고해 inline XBRL HTML에서 언어 분석용 본문, 원문 구조 보존 텍스트, 표 텍스트 및 주요 Item별 텍스트를 생성했다. (codex)

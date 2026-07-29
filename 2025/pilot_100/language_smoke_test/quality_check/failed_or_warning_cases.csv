@@ -1,0 +1,28 @@
+company_id,ticker,case_status,construct,warning_reason,recommended_action
+P2025-077,NVDA,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-077,NVDA,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-077,NVDA,blocked_dependency,uncertainty,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-077,NVDA,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-077,NVDA,blocked_dependency,sentiment,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-074,HPE,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-074,HPE,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-074,HPE,blocked_dependency,uncertainty,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-074,HPE,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-074,HPE,blocked_dependency,sentiment,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-051,TECH,warning,AI disclosure,zero_ai_related_sentences,retain row and review dictionary coverage
+P2025-051,TECH,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-051,TECH,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-051,TECH,blocked_dependency,uncertainty,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-051,TECH,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-051,TECH,blocked_dependency,sentiment,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-047,WAT,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-047,WAT,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-047,WAT,blocked_dependency,uncertainty,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-047,WAT,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-047,WAT,blocked_dependency,sentiment,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-054,NSC,warning,AI disclosure,single_ai_related_sentence,manual review
+P2025-054,NSC,blocked_dependency,concreteness,Brysbaert_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-054,NSC,blocked_dependency,tense,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-054,NSC,blocked_dependency,uncertainty,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion
+P2025-054,NSC,blocked_dependency,passive_voice,dependency_model_missing,install a source-documented dependency before full-sample expansion
+P2025-054,NSC,blocked_dependency,sentiment,Loughran_McDonald_dictionary_missing,install a source-documented dependency before full-sample expansion

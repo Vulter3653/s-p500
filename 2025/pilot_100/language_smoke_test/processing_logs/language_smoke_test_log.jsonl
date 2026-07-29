@@ -1,0 +1,15 @@
+{"company_id": "P2025-077", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:37:07.481532+00:00"}
+{"company_id": "P2025-074", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:37:07.481532+00:00"}
+{"company_id": "P2025-051", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:37:07.481532+00:00"}
+{"company_id": "P2025-047", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:37:07.481532+00:00"}
+{"company_id": "P2025-054", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:37:07.481532+00:00"}
+{"company_id": "P2025-077", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:41:52.953377+00:00"}
+{"company_id": "P2025-074", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:41:52.953377+00:00"}
+{"company_id": "P2025-051", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:41:52.953377+00:00"}
+{"company_id": "P2025-047", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:41:52.953377+00:00"}
+{"company_id": "P2025-054", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:41:52.953377+00:00"}
+{"company_id": "P2025-077", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:45:08.085371+00:00"}
+{"company_id": "P2025-074", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:45:08.085371+00:00"}
+{"company_id": "P2025-051", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:45:08.085371+00:00"}
+{"company_id": "P2025-047", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:45:08.085371+00:00"}
+{"company_id": "P2025-054", "event": "processed", "attempts": 1, "status": "warning_blocked_dependencies", "language_measurement_version": "0.1.0", "timestamp": "2026-07-29T12:45:08.085371+00:00"}

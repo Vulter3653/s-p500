@@ -1,0 +1,6 @@
+company_id,ticker,ai_fog_index,ai_mean_sentence_length,ai_complex_word_ratio,ai_word_count,ai_sentence_count_for_readability,ai_complex_word_count,readability_status
+P2025-077,NVDA,24.319602992102826,32.97080291970803,0.27828204560549036,4517,137,1257,success
+P2025-074,HPE,28.637525663301002,40.27731092436975,0.3131650323388275,4793,119,1501,success
+P2025-051,TECH,,,,0,0,0,not_applicable_zero_ai_sentences
+P2025-047,WAT,26.689846743295018,32.625,0.34099616858237547,522,16,178,success
+P2025-054,NSC,30.0,35.0,0.4,35,1,14,success

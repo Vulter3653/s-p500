@@ -57,3 +57,27 @@ paragraph and sentence tables are gzip CSVs to keep each repository file below
 No AI classification, language-variable calculation, NLP model fitting,
 financial-control collection, or sample expansion was performed. The next
 stage is a 3-5 company language-variable smoke test.
+
+## Step 4A smoke-test addendum
+
+`PARTIAL` — five-company execution and structural validation pass, while five
+dictionary/model-dependent constructs are explicitly blocked.
+
+- Selected/input SHA matched: 5/5; unique company, CIK, accession: 5/5.
+- Selected: NVDA (178 preliminary terms), HPE (168), TECH (0), WAT (23),
+  and NSC (2).
+- AI disclosure: 4 companies; non-disclosure: 1; direct AI sentences: 273.
+- Company AI sentences: NVDA 137, HPE 119, TECH 0, WAT 16, NSC 1.
+- Fog: NVDA 24.3196, HPE 28.6375, WAT 26.6898, NSC 30.0000; TECH is
+  missing because its AI-sentence denominator is zero.
+- Manual-review candidates: 31, all retained as `needs_manual_review`.
+- Ratio-range errors, negative counts, infinity, structural errors, and
+  `failed_after_3_attempts`: 0.
+- Blocked: Brysbaert and Loughran-McDonald dictionaries; dependency parser
+  for tense/passive.
+- Idempotent rerun: five input-SHA/version matched companies skipped.
+- No 100-company expansion, R2 operation, SEC request, or external financial
+  data collection occurred.
+
+All 45 repository tests, `py_compile`, smoke-test quality validation, and
+`git diff --check` pass.

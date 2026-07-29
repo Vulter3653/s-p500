@@ -1,0 +1,19 @@
+term,term_type,dictionary_version,case_handling,source
+artificial intelligence,exact_phrase,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+generative artificial intelligence,exact_phrase,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+machine learning,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+deep learning,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+natural language processing,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+computer vision,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+reinforcement learning,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+generative AI,exact_phrase,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+large language models,plural_variant,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+large language model,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+neural networks,plural_variant,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+neural network,technology_term,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+AI-enabled,hyphen_variant,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+AI-driven,hyphen_variant,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+AI driven,hyphen_variant,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+LLMs,plural_variant,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+LLM,abbreviation,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary
+AI,abbreviation,0.1.0,case-insensitive with alphabetic boundaries,user-specified pilot dictionary

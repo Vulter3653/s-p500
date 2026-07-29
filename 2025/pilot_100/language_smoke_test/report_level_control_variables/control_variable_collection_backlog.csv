@@ -1,0 +1,11 @@
+variable_name,variable_description,literature_reason,text_or_external_data,current_availability,expected_data_source,collection_stage,priority,note
+firm_size,기업 규모,candidate control; literature confirmation required,external_data,not_collected,SEC XBRL or financial database,after smoke test,to_be_assessed,no external collection in Step 4A
+total_assets,총자산,candidate control; literature confirmation required,external_data,not_collected,SEC XBRL,after smoke test,to_be_assessed,no external collection in Step 4A
+sales,매출,candidate control; literature confirmation required,external_data,not_collected,SEC XBRL,after smoke test,to_be_assessed,no external collection in Step 4A
+profitability,수익성,candidate control; literature confirmation required,external_data,not_collected,SEC XBRL,after smoke test,to_be_assessed,no external collection in Step 4A
+leverage,레버리지,candidate control; literature confirmation required,external_data,not_collected,SEC XBRL,after smoke test,to_be_assessed,no external collection in Step 4A
+r_and_d_intensity,R&D 집약도,candidate control; literature confirmation required,external_data,not_collected,SEC XBRL,after smoke test,to_be_assessed,no external collection in Step 4A
+firm_age,기업 연령,candidate control; literature confirmation required,external_data,not_collected,SEC metadata,after smoke test,to_be_assessed,no external collection in Step 4A
+market_to_book,시장가치/장부가치,candidate control; literature confirmation required,external_data,not_collected,market database,after smoke test,to_be_assessed,no external collection in Step 4A
+industry,산업,candidate control; literature confirmation required,external_data,not_collected,existing sample,after smoke test,to_be_assessed,no external collection in Step 4A
+stock_volatility,주가 변동성,candidate control; literature confirmation required,external_data,not_collected,market database,after smoke test,to_be_assessed,no external collection in Step 4A

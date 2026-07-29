@@ -1,0 +1,6 @@
+company_id,ticker,ai_positive_count,ai_negative_count,ai_positive_ratio,ai_negative_ratio,ai_net_tone,ai_sentiment_word_coverage,ai_net_tone_by_words,sentiment_status
+P2025-077,NVDA,,,,,,,,blocked_dictionary_missing
+P2025-074,HPE,,,,,,,,blocked_dictionary_missing
+P2025-051,TECH,,,,,,,,blocked_dictionary_missing
+P2025-047,WAT,,,,,,,,blocked_dictionary_missing
+P2025-054,NSC,,,,,,,,blocked_dictionary_missing

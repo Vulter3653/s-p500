@@ -1,0 +1,6 @@
+company_id,ticker,ai_sentence_count,included_sentence_count,excluded_false_positive_count,selection_rule
+P2025-077,NVDA,137,137,0,direct valid dictionary match in narrative sentence
+P2025-074,HPE,119,119,0,direct valid dictionary match in narrative sentence
+P2025-051,TECH,0,0,0,direct valid dictionary match in narrative sentence
+P2025-047,WAT,16,16,0,direct valid dictionary match in narrative sentence
+P2025-054,NSC,1,1,0,direct valid dictionary match in narrative sentence

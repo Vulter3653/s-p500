@@ -1,0 +1,2 @@
+language_measurement_version,random_seed,selected_companies,processed,skipped,warning,failed,blocked_dependency_constructs,ai_disclosure_companies,ai_related_sentences,manual_review_sentences,elapsed_seconds,average_seconds_per_company,combined_output_sha256,processed_at
+0.1.0,20250729,5,5,0,5,0,5,4,273,31,24.082460,4.816492,27c02ea5144d1d5e6e5f864bd94e109497aedecb323fa2dfbf27e723336d2a41,2026-07-29T12:45:08.085371+00:00

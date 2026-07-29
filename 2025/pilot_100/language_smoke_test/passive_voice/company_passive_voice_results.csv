@@ -1,0 +1,6 @@
+company_id,ticker,ai_passive_sentence_count,ai_passive_sentence_ratio,ai_passive_verb_count,ai_passive_verb_ratio,passive_voice_status
+P2025-077,NVDA,,,,,blocked_model_missing
+P2025-074,HPE,,,,,blocked_model_missing
+P2025-051,TECH,,,,,blocked_model_missing
+P2025-047,WAT,,,,,blocked_model_missing
+P2025-054,NSC,,,,,blocked_model_missing

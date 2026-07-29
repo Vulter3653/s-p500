@@ -14,7 +14,8 @@ Current stage:
 - 10-K/A recorded separately.
 - SEC primary filing HTML collection completed for all 100 final-sample filings.
 - Analysis-ready text extraction completed for all 100 filings.
-- No language measurement, AI classification, or exploratory analysis performed.
+- A five-company language-measurement smoke test was run; it is not a
+  full-sample research result.
 
 `sample/pilot_sample_100.csv` is the original draw, while
 `sample/final_analysis_sample_100.csv` is the sole input for future filing HTML
@@ -27,6 +28,9 @@ request timing and HTTP status without the User-Agent value.
 `text/company_text/` contains analysis, structure-preserved, and excluded-table
 text. `text/section_text/` contains major 10-K Item files. Detailed paragraph
 and sentence tables are gzip-compressed CSVs under `text/analysis_tables/`.
+`language_smoke_test/` contains the five-company selection, direct AI-term
+sentence matches, dependency-free readability and report controls, explicit
+blocked-dependency statuses, review candidates, and reproducibility inventories.
 
 Run:
 
@@ -37,6 +41,9 @@ python scripts/apply_pilot_replacement.py
 python scripts/download_10k_html.py
 python scripts/extract_10k_analysis_text.py
 python scripts/check_extracted_text_quality.py
+python scripts/select_language_smoke_test_companies.py
+python scripts/run_language_smoke_test.py
+python scripts/check_language_smoke_test_quality.py
 python -m unittest discover -s tests -p 'test_*.py' -v
 ```
 

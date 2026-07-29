@@ -98,8 +98,19 @@ NLP 및 언어 분석은 수행하지 않았다.
 100개 HTML에서 표와 숨김 inline XBRL metadata를 제외한 언어 분석용 본문,
 원문 구조 보존 텍스트, 표 텍스트, 문단·문장 및 주요 10-K Item 자료를
 생성했다. 상세 문단과 문장 CSV는 각각 `paragraphs.csv.gz`와
-`sentences.csv.gz`로 저장한다. AI 여부, 감성, 시제, 구체성 등 언어 변수는
-아직 계산하지 않았다.
+`sentences.csv.gz`로 저장한다.
+
+전체 확장 전 smoke test로 warning 없는 5개 기업에서 AI 용어·문장, Fog 및
+사전 비의존 보고서 통제변수를 계산했다. 구체성·금융 감성·불확실성 사전과
+dependency parser가 필요한 시제·수동태는 가짜 대체값 없이 blocked
+dependency로 기록했다. 100개 전체 언어 측정과 Cloudflare R2 작업은 하지
+않았다.
+
+```bash
+python scripts/select_language_smoke_test_companies.py
+python scripts/run_language_smoke_test.py
+python scripts/check_language_smoke_test_quality.py
+```
 
 ## 추가로 확정할 사항
 

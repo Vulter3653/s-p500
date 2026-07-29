@@ -1,0 +1,2 @@
+company_id,ticker,variable_group,zero_denominator,handling
+P2025-051,TECH,AI sentence measures,ai_sentence_count,missing; not replaced with zero

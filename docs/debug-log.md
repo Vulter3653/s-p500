@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 언어 smoke-test 모듈 import 경로
+
+- 문제 요약: 최초 신규 테스트 실행에서 4개 test module이 `language_measurement_common`을 찾지 못해 import error로 실패했다. (codex)
+- 원인: 신규 스크립트가 CLI 직접 실행 경로만 가정했고 기존 테스트의 `scripts.*` package import 경로를 지원하지 않았다. (codex)
+- 조치: 관련 모듈에 package-relative import와 CLI fallback import를 함께 적용했다. 측정 산출물이나 검증 기준은 변경하지 않았다. (codex)
+- 검증: 수정 후 기존 30개와 신규 15개를 합한 45개 테스트, `py_compile`, smoke-test 품질검사 및 `git diff --check`가 통과했다. (codex)
+- 상태: 해결됨. 별도로 확인된 사전·dependency model 부재는 오류가 아니라 명시적 blocked dependency다. (codex)
+
 ## 2026-07-29 - 10-K section 후보 및 표 표식 오탐
 
 - 문제 요약: 최초 parser가 Item 7을 6개 기업에서만 탐지하고 분석 본문 61개에 내부 표 제거 표식을 남겼다. (codex)
