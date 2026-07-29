@@ -2,6 +2,22 @@
 
 이 저장소의 모든 주요 변경 사항을 기록한다. 버전 형식은 Semantic Versioning을 따른다.
 
+## [Unreleased]
+
+## [0.7.0] - 2026-07-29
+
+- Added: 승인된 TXT→ITW 교체를 deterministic reserve 순서와 계보 검증을 거쳐 반복 실행 가능하게 적용하고 최종 분석 표본 100개를 생성했다. (codex)
+- Data: 최초 추출 표본은 보존하면서 TXT를 audit 전용으로 유지하고 `P2025-R001` ITW 및 eligible Form 10-K 100개를 최종 표본·metadata에 연결했다. (codex)
+- Added: 최종 표본의 ID·CIK·accession 고유성, 산업 할당, filing 기준, 수동검토 해결을 검증하는 비네트워크 테스트를 추가했다. (codex)
+- Docs: 최종 원문 다운로드의 유일한 입력, 표본 교체 근거, 검증 결과와 아직 수행하지 않은 HTML·텍스트·언어 측정 범위를 문서화했다. (codex)
+
+- Added: FOXA/FOX와 GE의 identity를 CIK·SEC ticker로 해결하고 TXT의 비달력 회계연도로 인한 2025 reportDate 10-K 부재 및 결정론적 Industrials 교체 후보를 기록했다. (codex)
+- Added: 기존 요청 로그를 변경하지 않고 검토 실행 범위·cache·오류·입력파일 SHA-256을 `final_run_summary.csv`에 기록했다. (codex)
+- Added: 고정된 100개 파일럿의 SEC submissions metadata를 rate limit·retry·cache·비식별 로그 정책으로 수집하고 2025 reportDate 기준 Form 10-K를 선정했다. (codex)
+- Added: filing 선정, historical fragment, amendment 연결, cache 및 재시도 정책의 비네트워크 테스트와 metadata 검증 문서를 추가했다. (codex)
+- Added: 2025년 CIK·GICS 확인 가능 모집단에서 seed `20250729`와 largest remainder 산업 비례할당으로 100개 파일럿 및 결정론적 예비 후보 순서를 생성했다. (codex)
+- Added: 파일럿 표본의 재현성, 100개 행, 산업 할당 합계 및 기업·CIK 고유성을 검사하는 비네트워크 unit test를 추가했다. (codex)
+
 ## [0.6.0] - 2026-07-24
 
 - Docs: `main`의 전체 주석형 트리와 각 폴더·파일·CSV 열의 역할 및 수정 원칙을 README와 구조 문서에 명시했다. (codex)

@@ -28,7 +28,8 @@ s-p500/
 ├── 2020/ ... 2025/                 # 연구연도별 확정 표본과 향후 10-K 자료
 │   ├── README.md                   # 해당 연도의 기준일·파일 용도·관리 주의사항
 │   ├── sp500_companies.csv         # CIK/기업명 기준으로 통합한 500개 기업 표본
-│   └── sp500_securities.csv        # 복수 주식 종류를 유지한 종목 단위 감사표
+│   ├── sp500_securities.csv        # 복수 주식 종류를 유지한 종목 단위 감사표
+│   └── pilot_100/                   # 2025 파일럿 표본·SEC metadata·검증 결과
 ├── data/
 │   ├── raw/                        # 수정하지 않는 외부 원천자료 스냅숏
 │   │   ├── wikipedia_sp500_2026-07-24.html
@@ -39,7 +40,8 @@ s-p500/
 ├── docs/                           # 표본·자료·운영·진행·디버그 문서
 ├── scripts/
 │   ├── build_annual_constituents.py    # 원천자료에서 연도별 표본을 재생성
-│   └── validate_annual_constituents.py # 구조·행 수·키·해시·manifest 검증
+│   ├── validate_annual_constituents.py # 구조·행 수·키·해시·manifest 검증
+│   └── apply_pilot_replacement.py      # 승인된 TXT→ITW 교체 및 최종 표본 생성
 ├── AGENTS.md                       # 모든 작업자가 따라야 하는 저장소 운영 규칙
 ├── CHANGELOG.md                    # 버전별 변경 이력
 ├── VERSION                         # 현재 Semantic Version

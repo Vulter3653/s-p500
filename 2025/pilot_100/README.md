@@ -1,0 +1,33 @@
+# 2025 100-Company 10-K Pilot
+
+This directory contains a reproducible metadata-collection pilot, not research
+results. The sample uses seed `20250729` and GICS proportional allocation from
+487 eligible companies. It excludes 13 companies with missing sector metadata,
+which must be addressed before expansion.
+
+Current stage:
+
+- Initial 100-company sample preserved without using AI text outcomes.
+- TXT replaced by deterministic Industrials reserve ITW (`P2025-R001`) without
+  a new random draw.
+- Final sample fixed at 100 companies and 100 eligible 2025 report-year 10-Ks.
+- 10-K/A recorded separately.
+- No filing HTML downloaded.
+- No text extraction, language measurement, or exploratory analysis performed.
+
+`sample/pilot_sample_100.csv` is the original draw, while
+`sample/final_analysis_sample_100.csv` is the sole input for future filing HTML
+downloads. `sample/` also contains reserve ordering. `metadata/` contains
+small, Git-eligible indexes and manifests. `logs/sec_requests.jsonl` is an
+audit log without the User-Agent value. `cache/` contains ignored SEC responses.
+
+Run:
+
+```bash
+python scripts/build_pilot_sample.py
+python scripts/collect_sec_filing_metadata.py
+python scripts/apply_pilot_replacement.py
+python -m unittest discover -s tests -p 'test_*.py' -v
+```
+
+The collector requires a real `SEC_USER_AGENT` environment variable.

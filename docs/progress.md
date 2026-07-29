@@ -2,6 +2,35 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-29 - 2025 파일럿 최종 분석 표본 및 filing metadata 확정
+
+- 교체 적용: 최초 100개 추출 표본은 보존하고, 2025 reportDate Form 10-K가 없는 TXT(`P2025-059`)를 제외한 뒤 동일 Industrials의 deterministic reserve 1순위 ITW에 `P2025-R001`을 부여했다. seed `20250729`를 유지했고 새 추출이나 AI 정보는 사용하지 않았다. (codex)
+- 최종 상태: `final_analysis_sample_100.csv`는 100개 기업, 100개 고유 CIK, 100개 고유 accession, Industrials 16개이며 모든 filing은 reportDate 2025의 정확한 Form 10-K다. (codex)
+- audit: TXT의 원 filing 검토와 제외 사유를 유지하고 FOXA/FOX, GE, TXT, ITW 검토를 모두 resolved 처리했다. 기존 요청 로그 769행은 변경하지 않았다. (codex)
+- 검증: 연도별 원본 SHA-256 검증, 비네트워크 unit test 13개, `py_compile`, 반복 교체 실행 및 `git diff --check`가 통과했다. integration smoke test와 원문 HTML 다운로드는 수행하지 않았다. (codex)
+- 다음 단계: 원문 다운로드 승인을 받으면 `final_analysis_sample_100.csv`만 입력으로 사용하며, 현재 단계에서는 텍스트 추출과 언어변수 측정을 수행하지 않는다. (codex)
+
+## 2026-07-29 - 수동검토 해결 및 TXT 교체 후보 제안
+
+- identity 검토: FOXA/FOX는 동일 CIK의 두 주식종류로, GE는 SEC 법적 명칭과 표본 설명명 차이로 확인하여 둘 다 CIK·ticker 기반 resolved 처리했다. (codex)
+- TXT 검토: fiscal year end `0102`로 인해 2025 제출 10-K의 reportDate는 2024-12-28, 2026 제출 10-K의 reportDate는 2026-01-03이므로 기존 no eligible 판정을 유지했다. (codex)
+- 교체 제안: Industrials 결정론적 예비 1순위 ITW가 2025 reportDate 10-K 기준을 충족했으며, 실제 표본 교체는 적용하지 않았다. (codex)
+- 범위: 기존 표본·metadata manifest를 변경하지 않았고 원문 HTML도 다운로드하지 않았다. (codex)
+
+## 2026-07-29 - 100개 파일럿 SEC metadata 및 filing 선정
+
+- 현재 상태: 100개 기업의 SEC submissions metadata 상태를 모두 기록하고, reportDate 2025 기준으로 99개 eligible Form 10-K와 1개 미확인 사례를 판정했다. (codex)
+- 수정신고서: 관련 10-K/A 보유 기업 2개를 원 10-K와 reportDate로 연결했으며 주 filing으로 대체하지 않았다. (codex)
+- 검증: accession 중복과 eligible primary document 결측은 없고, manual review 3개 기업을 남겼다. (codex)
+- 범위: 원문 HTML, 텍스트 추출, 언어변수 및 분석은 수행하지 않았다. (codex)
+
+## 2026-07-29 - 2025년 100개 기업 파일럿 표본 고정
+
+- 현재 상태: `pilot/2025-10k-100`에서 CIK와 GICS sector가 확인된 487개 기업을 대상으로 산업 비례 100개 표본과 산업별 예비 순서를 생성했다. (codex)
+- 표본 규칙: seed `20250729`, largest remainder, 기업 키·CIK 중복 금지이며 AI 텍스트 결과는 사용하지 않았다. (codex)
+- 검증 결과: unit test, 기존 연도별 검증, `py_compile`, `git diff --check`가 통과했다. (codex)
+- 제한: `SEC_USER_AGENT` 미설정으로 SEC metadata 및 원문 네트워크 수집은 수행하지 않았다. (codex)
+
 ## 2026-07-24 - 저장소 구조 명세 및 검증 보강
 
 - 현재 상태: `main`의 전체 파일 트리와 각 경로의 역할·수정 원칙·생성 관계를 명시했다. (codex)

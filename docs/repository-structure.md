@@ -13,7 +13,8 @@ s-p500/
 ├── 2020/ ... 2025/                    # 연구연도별 최종 표본 저장 영역
 │   ├── README.md                      # 연도별 기준일과 파일 안내
 │   ├── sp500_companies.csv            # 기업 단위 분석·10-K 수집의 기준 목록
-│   └── sp500_securities.csv           # 주식 종류를 보존한 추적·감사용 목록
+│   ├── sp500_securities.csv           # 주식 종류를 보존한 추적·감사용 목록
+│   └── pilot_100/                      # 2025 파일럿 표본·metadata·검증·요청 로그
 ├── data/
 │   ├── raw/                           # 수집 당시 상태를 보존하는 읽기 전용 원천자료
 │   │   ├── wikipedia_sp500_2026-07-24.html
@@ -34,7 +35,9 @@ s-p500/
 │   └── debug-log.md                       # 오류·원인·조치·검증 기록
 ├── scripts/
 │   ├── build_annual_constituents.py       # raw 자료를 읽어 연도별 CSV와 manifest 생성
-│   └── validate_annual_constituents.py    # 산출물 구조와 무결성을 읽기 전용 검증
+│   ├── validate_annual_constituents.py    # 산출물 구조와 무결성을 읽기 전용 검증
+│   ├── build_pilot_sample.py              # 산업 비례 파일럿과 예비 순서 생성
+│   └── apply_pilot_replacement.py         # TXT→ITW 교체 및 최종 표본 생성
 ├── AGENTS.md                              # 작업 시작·버전·기록·검증 의무
 ├── CHANGELOG.md                           # 최신 버전부터 역순으로 쌓는 변경 이력
 ├── VERSION                                # 현재 버전 한 줄
@@ -96,5 +99,6 @@ data/raw/*
 - 연도별 CSV와 manifest는 생성 스크립트의 산출물이므로 수동 수정 대신
   생성 로직 또는 식별자 보완 자료를 수정한 뒤 재생성한다.
 - `validate_annual_constituents.py`는 산출물을 변경하지 않는다.
-- 아직 10-K 원문, filing metadata, 본문 추출물 및 분석 결과 폴더는 없다.
-  해당 구조는 수집 기준을 확정한 뒤 별도 버전에서 추가한다.
+- `2025/pilot_100/`에는 소규모 filing metadata가 있으나 원문 HTML, 본문
+  추출물 및 분석 결과는 없다. 향후 원문 수집은
+  `sample/final_analysis_sample_100.csv`만 입력으로 사용한다.
