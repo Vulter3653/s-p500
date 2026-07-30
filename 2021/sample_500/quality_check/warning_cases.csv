@@ -823,3 +823,5 @@ S2021-459,0000109380,0000109380-22-000072,denominator_zero,AI sentence count is 
 S2021-459,0000109380,0000109380-22-000072,stem_collisions,ambiguous Porter stems excluded without score averaging
 S2021-460,0001555280,0001555280-22-000078,stem_collisions,ambiguous Porter stems excluded without score averaging
 S2021-461,0001065088,0001065088-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-462,0001140536,0000950170-22-001932,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-462,0001140536,0000950170-22-001932,stem_collisions,ambiguous Porter stems excluded without score averaging

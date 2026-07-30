@@ -1,0 +1,23 @@
+# Excluded Firm-Year Recovery Run Summary
+
+- total_excluded_reviewed: 160
+- cik_missing_reviewed: 123
+- unique_panel_cik_matches: 2
+- ambiguous_panel_matches: 0
+- no_panel_matches: 121
+- sec_eligible_filing_zero: 0
+- sec_eligible_filing_one: 2
+- sec_eligible_filing_multiple: 0
+- recovered_firm_years: 2
+- collection_failed: 0
+- extraction_failed: 0
+- language_failed: 0
+- r2_uploaded: 2
+- r2_skipped: 0
+- r2_conflicts: 0
+- recovered_ai_disclosure_firm_years: 2
+- recovered_ai_non_disclosure_firm_years: 0
+- recovered_ai_sentence_count: 2
+- final_panel_rows: 2829
+- added_panel_rows: 2
+- workflow_run_id: 30538773351

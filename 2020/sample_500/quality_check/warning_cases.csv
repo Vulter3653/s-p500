@@ -812,3 +812,5 @@ S2020-443,0000109380,0000109380-21-000082,stem_collisions,ambiguous Porter stems
 S2020-444,0001555280,0001555280-21-000098,single_ai_sentence,AI-level values retained from one direct AI sentence
 S2020-444,0001555280,0001555280-21-000098,stem_collisions,ambiguous Porter stems excluded without score averaging
 S2020-445,0001065088,0001065088-21-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2020-446,0001140536,0001564590-21-007578,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2020-446,0001140536,0001564590-21-007578,stem_collisions,ambiguous Porter stems excluded without score averaging

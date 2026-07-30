@@ -1,0 +1,161 @@
+report_year,original_ticker,original_company_name,original_exclusion_reason,matched_panel_company_id,matched_panel_cik,matched_panel_ticker_history,matched_panel_company_name_history,candidate_cik_count,identity_match_method,identity_match_status,sec_lookup_status,eligible_filing_count,selected_accession_number,selected_filing_date,selected_report_date,selected_primary_document,recovery_status,recovery_reason,requires_manual_review
+2020,APA,APA Corporation,no_unique_eligible_2020_report_date_10k,cik:0001841666,0001841666,APA,APA Corporation,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,ABMD,Abiomed,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,ATVI,Activision Blizzard,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,AAP,Advance Auto Parts,no_unique_eligible_2020_report_date_10k,cik:0001158449,0001158449,AAP,Advance Auto Parts,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,ALXN,Alexion Pharmaceuticals,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,ANSS,Ansys,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,AVY,Avery Dennison,no_unique_eligible_2020_report_date_10k,cik:0000008818,0000008818,AVY,Avery Dennison,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,BLK,BlackRock,no_unique_eligible_2020_report_date_10k,cik:0002012383,0002012383,BLK,BlackRock,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,CDNS,Cadence Design Systems,no_unique_eligible_2020_report_date_10k,cik:0000813672,0000813672,CDNS,Cadence Design Systems,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,CTLT,Catalent,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,CERN,Cerner,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,CTXS,Citrix Systems,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,CMA,Comerica,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,CXO,Concho Resources,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,DFS,Discover Financial,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,DISCA|DISCK,"Discovery, Inc.",cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,DISH,Dish Network,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,DPZ,Domino's,no_unique_eligible_2020_report_date_10k,cik:0001286681,0001286681,DPZ,Domino's,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,DRE,Duke Realty,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,RE,Everest Re Group,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,FLT,FLEETCOR Technologies,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,FLIR,FLIR Systems,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,FRC,First Republic Bank,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,FBHS,Fortune Brands Home & Security,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,GPS,Gap,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,HBI,Hanesbrands,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,HES,Hess Corporation,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,HFC,HollyFrontier,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,HOLX,Hologic,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,INFO,IHS Markit,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,ILMN,"Illumina, Inc.",no_unique_eligible_2020_report_date_10k,cik:0001110803,0001110803,ILMN,"Illumina, Inc.",1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,IPG,Interpublic Group,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,JNJ,Johnson & Johnson,no_unique_eligible_2020_report_date_10k,cik:0000200406,0000200406,JNJ,Johnson & Johnson,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,JNPR,Juniper Networks,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,KSU,Kansas City Southern,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,K,Kellanova,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,LHX,L3Harris,no_unique_eligible_2020_report_date_10k,cik:0000202058,0000202058,LHX,L3Harris,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,LB,LandBridge Co LLC,no_unique_eligible_2020_report_date_10k,,,,,0,,no_panel_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,MRO,Marathon Oil,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,MXIM,Maxim Integrated,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,NLSN,Nielsen Holdings,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,PBCT,People's United Financial,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,PKI,PerkinElmer,no_unique_eligible_2020_report_date_10k,cik:0000031791,0000031791,PKI|RVTY,PerkinElmer|Revvity,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,PXD,Pioneer Natural Resources,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,SIVB,SVB Financial Group,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,SEE,Sealed Air,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,SNA,Snap-on,no_unique_eligible_2020_report_date_10k,cik:0000091440,0000091440,SNA,Snap-on,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,SWK,Stanley Black & Decker,no_unique_eligible_2020_report_date_10k,cik:0000093556,0000093556,SWK,Stanley Black & Decker,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,TDY,Teledyne Technologies,no_unique_eligible_2020_report_date_10k,cik:0001094285,0001094285,TDY,Teledyne Technologies,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2020,TIF,Tiffany & Co,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,TWTR,Twitter,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,VAR,Varian Medical Systems,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,WBA,Walgreens Boots Alliance,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2020,WLTW,Willis Towers Watson,cik_missing_in_2020_universe,cik:0001140536,0001140536,WTW,Willis Towers Watson,1,normalized_company_name,unique_panel_cik_match,success,1,0001564590-21-007578,2021-02-23,2020-12-31,wltw-10k_20201231.htm,recovered,unique_panel_cik_and_unique_filing,0
+2020,XLNX,Xilinx,cik_missing_in_2020_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,ABMD,Abiomed,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,ATVI,Activision Blizzard,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,ANSS,Ansys,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,BLK,BlackRock,no_unique_eligible_2021_report_date_10k,cik:0002012383,0002012383,BLK,BlackRock,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2021,CTLT,Catalent,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,CDAY,Ceridian,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,CERN,Cerner,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,CTXS,Citrix Systems,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,CMA,Comerica,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,CTRA,Coterra Energy,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,DFS,Discover Financial,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,DISCA|DISCK,"Discovery, Inc.",cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,DISH,Dish Network,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,DRE,Duke Realty,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,RE,Everest Re Group,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,FLT,FLEETCOR Technologies,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,FRC,First Republic Bank,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,FBHS,Fortune Brands Home & Security,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,GPS,Gap,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,HES,Hess Corporation,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,HOLX,Hologic,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,INFO,IHS Markit,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,IPG,Interpublic Group,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,JNPR,Juniper Networks,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,K,Kellanova,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,LHX,L3Harris,ambiguous_multiple_eligible_2021_report_date_10k,cik:0000202058,0000202058,LHX,L3Harris,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2021,LDOS,Leidos,ambiguous_multiple_eligible_2021_report_date_10k,cik:0001336920,0001336920,LDOS,Leidos,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2021,MRO,Marathon Oil,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,NLSN,Nielsen Holdings,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,PBCT,People's United Financial,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,PXD,Pioneer Natural Resources,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,SIVB,SVB Financial Group,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,SEE,Sealed Air,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,SBNY,Signature Bank,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,TRMB,Trimble Inc.,ambiguous_multiple_eligible_2021_report_date_10k,cik:0000864749,0000864749,TRMB,Trimble Inc.,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2021,TWTR,Twitter,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,WBA,Walgreens Boots Alliance,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2021,WLTW,Willis Towers Watson,cik_missing_in_2021_universe,cik:0001140536,0001140536,WTW,Willis Towers Watson,1,normalized_company_name,unique_panel_cik_match,success,1,0000950170-22-001932,2022-02-24,2021-12-31,wtw-20211231.htm,recovered,unique_panel_cik_and_unique_filing,0
+2021,XLNX,Xilinx,cik_missing_in_2021_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,ATVI,Activision Blizzard,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,AAP,Advance Auto Parts,ambiguous_multiple_eligible_2022_report_date_10k,cik:0001158449,0001158449,AAP,Advance Auto Parts,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2022,ANSS,Ansys,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,AVY,Avery Dennison,ambiguous_multiple_eligible_2022_report_date_10k,cik:0000008818,0000008818,AVY,Avery Dennison,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2022,BLK,BlackRock,no_unique_eligible_2022_report_date_10k,cik:0002012383,0002012383,BLK,BlackRock,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2022,CDNS,Cadence Design Systems,ambiguous_multiple_eligible_2022_report_date_10k,cik:0000813672,0000813672,CDNS,Cadence Design Systems,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2022,CTLT,Catalent,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,CDAY,Ceridian,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,CMA,Comerica,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,CTRA,Coterra Energy,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,DFS,Discover Financial,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,DISH,Dish Network,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,RE,Everest Re Group,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,FLT,FLEETCOR Technologies,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,FRC,First Republic Bank,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,HES,Hess Corporation,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,HOLX,Hologic,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,IPG,Interpublic Group,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,JNPR,Juniper Networks,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,K,Kellanova,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,MRO,Marathon Oil,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,PXD,Pioneer Natural Resources,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,SIVB,SVB Financial Group,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,SEE,Sealed Air,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,SBNY,Signature Bank,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2022,SNA,Snap-on,ambiguous_multiple_eligible_2022_report_date_10k,cik:0000091440,0000091440,SNA,Snap-on,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2022,SWK,Stanley Black & Decker,ambiguous_multiple_eligible_2022_report_date_10k,cik:0000093556,0000093556,SWK,Stanley Black & Decker,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2022,TXT,Textron,ambiguous_multiple_eligible_2022_report_date_10k,cik:0000217346,0000217346,TXT,Textron,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2022,WBA,Walgreens Boots Alliance,cik_missing_in_2022_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,ANSS,Ansys,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,BLK,BlackRock,no_unique_eligible_2023_report_date_10k,cik:0002012383,0002012383,BLK,BlackRock,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2023,CTLT,Catalent,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,CDAY,Ceridian,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,CMA,Comerica,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,CTRA,Coterra Energy,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,DFS,Discover Financial,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,DPZ,Domino's,ambiguous_multiple_eligible_2023_report_date_10k,cik:0001286681,0001286681,DPZ,Domino's,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2023,FLT,FLEETCOR Technologies,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,HES,Hess Corporation,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,HOLX,Hologic,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,ILMN,"Illumina, Inc.",ambiguous_multiple_eligible_2023_report_date_10k,cik:0001110803,0001110803,ILMN,"Illumina, Inc.",1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2023,IPG,Interpublic Group,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,JNJ,Johnson & Johnson,ambiguous_multiple_eligible_2023_report_date_10k,cik:0000200406,0000200406,JNJ,Johnson & Johnson,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2023,JNPR,Juniper Networks,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,K,Kellanova,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,MRO,Marathon Oil,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,PXD,Pioneer Natural Resources,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2023,RVTY,Revvity,ambiguous_multiple_eligible_2023_report_date_10k,cik:0000031791,0000031791,PKI|RVTY,PerkinElmer|Revvity,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2023,TDY,Teledyne Technologies,ambiguous_multiple_eligible_2023_report_date_10k,cik:0001094285,0001094285,TDY,Teledyne Technologies,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,1
+2023,WBA,Walgreens Boots Alliance,cik_missing_in_2023_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,ANSS,Ansys,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,CTRA,Coterra Energy,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,DAY,Dayforce,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,DFS,Discover Financial,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,HES,Hess Corporation,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,HOLX,Hologic,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,IPG,Interpublic Group,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,JNPR,Juniper Networks,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,K,Kellanova,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2024,LHX,L3Harris,no_unique_eligible_2024_report_date_10k,cik:0000202058,0000202058,LHX,L3Harris,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2024,LDOS,Leidos,no_unique_eligible_2024_report_date_10k,cik:0001336920,0001336920,LDOS,Leidos,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2024,TRMB,Trimble Inc.,no_unique_eligible_2024_report_date_10k,cik:0000864749,0000864749,TRMB,Trimble Inc.,1,normalized_ticker_and_company_name,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2024,WBA,Walgreens Boots Alliance,cik_missing_in_2024_universe,,,,,0,,no_panel_match,not_attempted_no_panel_cik,,,,,,not_recovered_other,no_panel_match,0
+2025,TXT,,no_unique_eligible_2025_report_date_10k,cik:0000217346,0000217346,TXT,Textron,1,normalized_ticker,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2025,SNA,,no_unique_eligible_2025_report_date_10k,cik:0000091440,0000091440,SNA,Snap-on,1,normalized_ticker,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0
+2025,SWK,,no_unique_eligible_2025_report_date_10k,cik:0000093556,0000093556,SWK,Stanley Black & Decker,1,normalized_ticker,unique_panel_cik_match,not_attempted_not_identity_recovery_target,,,,,,not_recovered_other,outside_primary_identity_recovery_scope,0

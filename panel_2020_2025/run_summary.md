@@ -1,24 +1,25 @@
 # 2020-2025 Firm-Year Language Panel Run Summary
 
 - input_years: 2020|2021|2022|2023|2024|2025
-- rows_2020: 445
-- rows_2021: 461
+- rows_2020: 446
+- rows_2021: 462
 - rows_2022: 471
 - rows_2023: 479
 - rows_2024: 487
 - rows_2025: 484
-- panel_rows: 2827
+- panel_rows: 2829
 - unique_companies: 545
-- balanced_companies: 396
-- unbalanced_companies: 149
-- mean_years_per_company: 5.187156
+- balanced_companies: 397
+- unbalanced_companies: 148
+- mean_years_per_company: 5.190826
 - min_years_per_company: 1
 - max_years_per_company: 6
-- ai_disclosure_firm_years: 1658
+- ai_disclosure_firm_years: 1660
 - ai_non_disclosure_firm_years: 1169
-- warning_firm_years: 2727
+- warning_firm_years: 2729
 - failed_firm_years: 0
 - lag_change_variables: ai_disclosure_flag|ai_sentence_count|ai_concreteness_mean|report_concreteness_mean|ai_positive_count|ai_negative_count|ai_uncertainty_count|report_positive_count|report_negative_count|report_uncertainty_count
-- annual_results_modified: no
+- annual_results_modified: append_only_recovered_firm_years
+- annual_existing_rows_modified: no
 - original_html_used: no
 - language_remeasurement: no

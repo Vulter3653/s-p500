@@ -5,8 +5,10 @@ from __future__ import annotations
 
 import argparse
 import csv
+import gzip
 import json
 import re
+import shutil
 import unicodedata
 from collections import Counter
 from datetime import date
@@ -64,6 +66,26 @@ RECOVERY_FIELDS = [
     "recovery_source",
     "original_exclusion_reason",
 ]
+LANGUAGE_FILE_MAP = {
+    "company_language_results.csv": (
+        "combined_language_results/company_language_full_sample_results.csv"
+    ),
+    "company_ai_disclosure_results.csv": (
+        "ai_related_sentences/company_ai_disclosure_results.csv"
+    ),
+    "company_ai_level_lm_results.csv": (
+        "loughran_mcdonald/company_ai_level_lm_results.csv"
+    ),
+    "company_report_level_lm_results.csv": (
+        "loughran_mcdonald/company_report_level_lm_results.csv"
+    ),
+    "company_ai_level_concreteness_results.csv": (
+        "textual_concreteness/company_ai_level_concreteness_results.csv"
+    ),
+    "company_report_level_concreteness_results.csv": (
+        "textual_concreteness/company_report_level_concreteness_results.csv"
+    ),
+}
 
 
 def write_csv(path: Path, fields: list[str], rows: list[dict]) -> None:
@@ -74,6 +96,58 @@ def write_csv(path: Path, fields: list[str], rows: list[dict]) -> None:
         )
         writer.writeheader()
         writer.writerows(rows)
+
+
+def read_rows(path: Path) -> tuple[list[str], list[dict]]:
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        reader = csv.DictReader(handle)
+        return reader.fieldnames or [], list(reader)
+
+
+def append_unique_csv(
+    target: Path,
+    source: Path,
+    unique_fields: tuple[str, ...],
+) -> int:
+    fields, existing = read_rows(target)
+    source_fields, additions = read_rows(source)
+    if source_fields != fields:
+        raise ValueError(f"incompatible columns: {target} and {source}")
+    existing_keys = {
+        tuple(row[field] for field in unique_fields) for row in existing
+    }
+    for row in additions:
+        key = tuple(row[field] for field in unique_fields)
+        if key in existing_keys:
+            raise ValueError(f"duplicate recovery key in {target}: {key}")
+        existing_keys.add(key)
+    write_csv(target, fields, existing + additions)
+    return len(additions)
+
+
+def append_sentences(target: Path, source: Path) -> int:
+    with gzip.open(target, "rt", encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle)
+        fields = reader.fieldnames or []
+        existing = list(reader)
+    with gzip.open(source, "rt", encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle)
+        if reader.fieldnames != fields:
+            raise ValueError("incompatible AI sentence columns")
+        additions = list(reader)
+    existing_ids = {
+        (row["company_id"], row["sentence_id"]) for row in existing
+    }
+    if any(
+        (row["company_id"], row["sentence_id"]) in existing_ids
+        for row in additions
+    ):
+        raise ValueError("duplicate recovered AI sentence")
+    with gzip.open(target, "wt", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(existing + additions)
+    return len(additions)
 
 
 def normalize_text(value: str) -> str:
@@ -463,9 +537,193 @@ def audit(root: Path, output: Path) -> dict:
     return summary
 
 
+def integrate(root: Path, artifact: Path) -> dict:
+    recovery_root = root / "panel_2020_2025/recovery"
+    recovery_root.mkdir(parents=True, exist_ok=True)
+    for name in (
+        "excluded_firm_year_recovery_audit.csv",
+        "recovered_firm_year_manifest.csv",
+        "recovery_failed_cases.csv",
+    ):
+        shutil.copyfile(artifact / name, recovery_root / name)
+
+    _, recovered = read_rows(artifact / "recovered_firm_year_manifest.csv")
+    years = sorted({int(row["report_year"]) for row in recovered})
+    added_language = 0
+    added_sentences = 0
+    collection_statuses = Counter()
+    extraction_failed = 0
+    language_failed = 0
+    recovered_ai_disclosures = 0
+    recovered_ai_sentences = 0
+
+    for year in years:
+        processed = artifact / f"processed/{year}"
+        sample = root / f"{year}/sample_500"
+        batch_summary = json.loads(
+            (processed / "batch_summary.json").read_text(encoding="utf-8")
+        )
+        if batch_summary["status"] != "success":
+            raise ValueError(f"{year}: recovery batch did not succeed")
+
+        manifest_fields, manifest = read_rows(
+            sample / f"sample_manifest_{year}_500.csv"
+        )
+        _, additions = read_rows(processed / "batch_manifest.csv")
+        existing_accessions = {row["accession_number"] for row in manifest}
+        for row in additions:
+            if row["accession_number"] in existing_accessions:
+                raise ValueError(f"{year}: duplicate recovery accession")
+            output = {field: "" for field in manifest_fields}
+            output.update({key: value for key, value in row.items() if key in output})
+            output["sample_order"] = str(
+                max(int(item["sample_order"]) for item in manifest) + 1
+            )
+            output["sample_group"] = "recovered_panel_identity"
+            manifest.append(output)
+            existing_accessions.add(row["accession_number"])
+        write_csv(
+            sample / f"sample_manifest_{year}_500.csv",
+            manifest_fields,
+            manifest,
+        )
+
+        for output_name, relative in LANGUAGE_FILE_MAP.items():
+            count = append_unique_csv(
+                sample / f"language_results/{output_name}",
+                processed / f"language/{relative}",
+                ("company_id", "accession_number"),
+            )
+            if output_name == "company_language_results.csv":
+                added_language += count
+                _, company_rows = read_rows(processed / f"language/{relative}")
+                recovered_ai_disclosures += sum(
+                    int(row["ai_disclosure_binary"]) for row in company_rows
+                )
+                recovered_ai_sentences += sum(
+                    int(row["ai_sentence_count"]) for row in company_rows
+                )
+
+        added_sentences += append_sentences(
+            sample / "language_results/ai_related_sentences.csv.gz",
+            processed
+            / "language/ai_related_sentences/ai_related_sentences.csv.gz",
+        )
+
+        r2_fields, existing_r2 = read_rows(
+            sample / "r2_storage/html_r2_manifest.csv"
+        )
+        source_fields, new_r2 = read_rows(
+            processed / "collection/r2_object_manifest.csv"
+        )
+        if source_fields != r2_fields:
+            raise ValueError(f"{year}: R2 manifest columns differ")
+        existing_objects = {row["object_key"] for row in existing_r2}
+        if any(row["object_key"] in existing_objects for row in new_r2):
+            raise ValueError(f"{year}: duplicate recovery R2 object")
+        write_csv(
+            sample / "r2_storage/html_r2_manifest.csv",
+            r2_fields,
+            existing_r2 + new_r2,
+        )
+        collection_statuses.update(row["upload_status"] for row in new_r2)
+
+        warning_fields, existing_warnings = read_rows(
+            sample / "quality_check/warning_cases.csv"
+        )
+        _, new_warning_source = read_rows(
+            processed
+            / "language/quality_check/failed_or_warning_cases.csv"
+        )
+        new_warnings = [
+            {
+                "company_id": row["company_id"],
+                "cik": row["cik"],
+                "accession_number": row["accession_number"],
+                "warning_type": row["warning_type"],
+                "warning_detail": row["warning_detail"],
+            }
+            for row in new_warning_source
+        ]
+        write_csv(
+            sample / "quality_check/warning_cases.csv",
+            warning_fields,
+            existing_warnings + new_warnings,
+        )
+        _, extraction_rows = read_rows(
+            processed
+            / "extraction/extraction_results/company_text_extraction_results.csv"
+        )
+        extraction_failed += sum(
+            row["extraction_status"].startswith("failed")
+            for row in extraction_rows
+        )
+        _, failed_rows = read_rows(
+            processed / "quality_check/failed_companies.csv"
+        )
+        language_failed += len(failed_rows)
+
+    if added_language != len(recovered):
+        raise ValueError("not all recovered rows were integrated")
+    if added_sentences != recovered_ai_sentences:
+        raise ValueError("recovered AI sentence details/count differ")
+
+    summary = {
+        "total_excluded_reviewed": 160,
+        "cik_missing_reviewed": 123,
+        "unique_panel_cik_matches": 2,
+        "ambiguous_panel_matches": 0,
+        "no_panel_matches": 121,
+        "sec_eligible_filing_zero": 0,
+        "sec_eligible_filing_one": 2,
+        "sec_eligible_filing_multiple": 0,
+        "recovered_firm_years": len(recovered),
+        "collection_failed": 0,
+        "extraction_failed": extraction_failed,
+        "language_failed": language_failed,
+        "r2_uploaded": collection_statuses["uploaded"],
+        "r2_skipped": sum(
+            count
+            for status, count in collection_statuses.items()
+            if status.startswith("skipped")
+        ),
+        "r2_conflicts": 0,
+        "recovered_ai_disclosure_firm_years": recovered_ai_disclosures,
+        "recovered_ai_non_disclosure_firm_years": (
+            len(recovered) - recovered_ai_disclosures
+        ),
+        "recovered_ai_sentence_count": recovered_ai_sentences,
+        "final_panel_rows": 2827 + len(recovered),
+        "added_panel_rows": len(recovered),
+        "workflow_run_id": 30538773351,
+    }
+    write_csv(
+        recovery_root / "recovery_summary.csv",
+        ["metric", "value"],
+        [{"metric": key, "value": value} for key, value in summary.items()],
+    )
+    (recovery_root / "run_summary.md").write_text(
+        "# Excluded Firm-Year Recovery Run Summary\n\n"
+        + "\n".join(f"- {key}: {value}" for key, value in summary.items())
+        + "\n",
+        encoding="utf-8",
+    )
+    print(json.dumps(summary, sort_keys=True))
+    return summary
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=ROOT)
-    parser.add_argument("--output-dir", type=Path, required=True)
+    parser.add_argument("--output-dir", type=Path)
+    parser.add_argument("--integrate-artifact", type=Path)
     arguments = parser.parse_args()
-    audit(arguments.root.resolve(), arguments.output_dir.resolve())
+    if bool(arguments.output_dir) == bool(arguments.integrate_artifact):
+        parser.error("provide exactly one of --output-dir or --integrate-artifact")
+    if arguments.output_dir:
+        audit(arguments.root.resolve(), arguments.output_dir.resolve())
+    else:
+        integrate(
+            arguments.root.resolve(),
+            arguments.integrate_artifact.resolve(),
+        )

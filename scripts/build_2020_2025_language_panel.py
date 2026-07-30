@@ -15,8 +15,8 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 YEARS = tuple(range(2020, 2026))
 EXPECTED_ROWS = {
-    2020: 445,
-    2021: 461,
+    2020: 446,
+    2021: 462,
     2022: 471,
     2023: 479,
     2024: 487,
@@ -647,7 +647,8 @@ def build(root: Path, output_dir: Path) -> dict:
         "warning_firm_years": int(panel["has_any_warning"].sum()),
         "failed_firm_years": int(panel["has_failed_status"].sum()),
         "lag_change_variables": "|".join(CORE_LAG_VARIABLES),
-        "annual_results_modified": "no",
+        "annual_results_modified": "append_only_recovered_firm_years",
+        "annual_existing_rows_modified": "no",
         "original_html_used": "no",
         "language_remeasurement": "no",
     }
