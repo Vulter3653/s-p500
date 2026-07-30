@@ -54,13 +54,12 @@ concurrency:
 jobs:
   process-batches:
     name: Batch ${{ matrix.batch_id }}
-    if: contains(format(',{0},', inputs.batch_ids), format(',{0},', matrix.batch_id))
     runs-on: ubuntu-latest
     timeout-minutes: 120
     strategy:
       fail-fast: false
       matrix:
-        batch_id: [1, 2, 3, 4, 5]
+        batch_id: ${{ fromJSON(format('[{0}]', inputs.batch_ids)) }}
     env:
       REPORT_YEAR: ${{ inputs.report_year }}
       SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
