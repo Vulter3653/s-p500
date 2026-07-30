@@ -2,6 +2,12 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-30 - SnowballC와 NLTK Porter 소규모 fixture 비교
+
+- 비교: 일반형·활용형·다단계 접미사·연구 관련 단어·Porter 경계 사례 36개를 SnowballC 0.7.0 `wordStem()`과 NLTK 3.10.0 `ORIGINAL_ALGORITHM`에 동일하게 입력했다. (codex)
+- 결과: 36개 stem이 모두 동일했고 차이는 0개였다. 이는 소규모 fixture 범위의 결과이며 전체 구현 동등성을 의미하지 않는다. (codex)
+- 범위: 기존 5개 기업 구체성 결과 재측정, Brysbaert 37,058개 단어 전수 비교 및 전체 테스트는 수행하지 않았다. (codex)
+
 ## 2026-07-29 - R 및 SnowballC 0.7.0 환경 고정
 
 - 환경: Ubuntu package manager로 R 4.3.3과 개발 도구를 설치하고 CRAN archive의 SnowballC 0.7.0을 프로젝트 전용 library에 source build했다. (codex)

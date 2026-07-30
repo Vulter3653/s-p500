@@ -2,6 +2,13 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-30 - SnowballC와 NLTK Porter 직접 비교 확인
+
+- 문제 요약: 기존 구체성 측정에는 SnowballC 0.7.0과 NLTK 3.10.0 ORIGINAL_ALGORITHM의 직접 비교가 남아 있었다. (codex)
+- 조치: 활용형, 다단계 접미사 및 경계 사례를 포함한 고정 fixture 36개를 두 구현에 입력하고 token별 stem을 비교했다. (codex)
+- 검증: 최초 CSV의 기본 CRLF가 `git diff --check`에서 trailing whitespace로 감지되어 생성기의 줄바꿈을 LF로 고정했다. 재생성 후 fixture 36개 모두 동일, 차이 0개, CSV 36행 및 `git diff --check` 통과를 확인했으며 전체 테스트는 실행하지 않았다. (codex)
+- 상태: fixture 범위에서는 동일하다. 전체 동등성 검증이나 기존 구체성 결과 재측정은 수행하지 않았고, 향후 차이가 발견될 경우에만 확대 비교를 검토한다. (codex)
+
 ## 2026-07-29 - R runtime 부재와 SnowballC 버전 고정
 
 - 문제 요약: 구체성 단계에서 R runtime이 없어 SnowballC 0.7.0을 직접 실행할 수 없었다. (codex)

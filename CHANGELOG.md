@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 
+- Analysis: SnowballC 0.7.0과 NLTK 3.10.0 ORIGINAL_ALGORITHM의 소규모 Porter fixture 36개를 직접 비교해 모두 동일함을 확인했으며, 기존 구체성 결과는 변경하지 않았다. (codex)
 - Added: Ubuntu R 4.3.3 환경과 CRAN archive의 SnowballC 0.7.0을 프로젝트 전용 library에 고정하는 설치·검증 스크립트를 추가했다. (codex)
 - Docs: SnowballC archive SHA-256, R session 정보, 설치 경로 및 재현 명령을 기록했으며 기존 구체성 측정은 변경하지 않았다. (codex)
 
