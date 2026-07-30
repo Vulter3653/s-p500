@@ -1,0 +1,151 @@
+name: Process yearly 10-K batches
+
+on:
+  workflow_dispatch:
+    inputs:
+      report_year:
+        description: Four-digit 10-K report year
+        required: true
+        type: string
+        default: "2025"
+      sample_manifest:
+        description: Repository-relative yearly sample manifest path
+        required: true
+        type: string
+        default: "2025/pilot_100/sample/final_analysis_sample_100.csv"
+      run_collection:
+        description: Collect SEC primary HTML and upload it to R2
+        required: true
+        type: boolean
+        default: false
+      run_extraction:
+        description: Extract analysis-ready text
+        required: true
+        type: boolean
+        default: false
+      run_language:
+        description: Measure the validated language variables
+        required: true
+        type: boolean
+        default: true
+      force:
+        description: Retry existing warning or failed processing
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: 10k-yearly-${{ inputs.report_year }}
+  cancel-in-progress: false
+
+jobs:
+  process-batches:
+    name: Batch ${{ matrix.batch_id }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        batch_id: [1, 2, 3, 4, 5]
+    env:
+      REPORT_YEAR: ${{ inputs.report_year }}
+      SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
+      RUN_COLLECTION: ${{ inputs.run_collection }}
+      RUN_EXTRACTION: ${{ inputs.run_extraction }}
+      RUN_LANGUAGE: ${{ inputs.run_language }}
+      FORCE_RUN: ${{ inputs.force }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+      R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Process batch
+        shell: bash
+        run: |
+          arguments=(
+            --report-year "$REPORT_YEAR"
+            --batch-id "${{ matrix.batch_id }}"
+            --manifest "$SAMPLE_MANIFEST"
+            --output-dir "outputs/$REPORT_YEAR/batch_${{ matrix.batch_id }}"
+          )
+          if [[ "$RUN_COLLECTION" == "true" ]]; then
+            arguments+=(--run-collection)
+          fi
+          if [[ "$RUN_EXTRACTION" == "true" ]]; then
+            arguments+=(--run-extraction)
+          fi
+          if [[ "$RUN_LANGUAGE" == "true" ]]; then
+            arguments+=(--run-language)
+          fi
+          if [[ "$FORCE_RUN" == "true" ]]; then
+            arguments+=(--force)
+          fi
+          python scripts/run_yearly_10k_batch.py "${arguments[@]}"
+
+      - name: Upload independent batch artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 10k-${{ inputs.report_year }}-batch-${{ matrix.batch_id }}
+          path: outputs/${{ inputs.report_year }}/batch_${{ matrix.batch_id }}/
+          if-no-files-found: error
+          retention-days: 14
+
+  merge:
+    name: Merge available batch results
+    if: always()
+    needs:
+      - process-batches
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      REPORT_YEAR: ${{ inputs.report_year }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download available batch artifacts
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          pattern: 10k-${{ inputs.report_year }}-batch-*
+          path: downloaded-batches
+
+      - name: Merge available results
+        run: |
+          python scripts/merge_yearly_10k_batches.py \
+            --report-year "$REPORT_YEAR" \
+            --input-dir downloaded-batches \
+            --output-dir "outputs/$REPORT_YEAR/merged"
+
+      - name: Upload merged yearly artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 10k-${{ inputs.report_year }}-merged-results
+          path: outputs/${{ inputs.report_year }}/merged/
+          if-no-files-found: error
+          retention-days: 30

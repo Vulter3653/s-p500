@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import csv
 import math
+import os
 import statistics
 import time
 from collections import defaultdict
@@ -15,7 +16,7 @@ from extract_ai_related_sentences import extract_ai_sentences
 from detect_ai_disclosure import measure_ai_disclosure
 from language_measurement_common import (
     LANGUAGE_MEASUREMENT_VERSION,
-    ROOT,
+    ROOT as REPOSITORY_ROOT,
     display,
     read_csv,
     write_csv,
@@ -33,7 +34,13 @@ from measure_report_level_controls import measure_report_controls
 from measure_uncertainty_language import measure_uncertainty
 
 
-FULL_ROOT = ROOT / "2025/pilot_100/language_full_sample"
+ROOT = Path(os.environ.get("S_P500_PIPELINE_ROOT", REPOSITORY_ROOT)).resolve()
+FULL_ROOT = Path(
+    os.environ.get(
+        "S_P500_LANGUAGE_OUTPUT_DIR",
+        ROOT / "2025/pilot_100/language_full_sample",
+    )
+).resolve()
 SAMPLE_PATH = ROOT / "2025/pilot_100/sample/final_analysis_sample_100.csv"
 EXTRACTION_PATH = (
     ROOT
@@ -42,20 +49,21 @@ EXTRACTION_PATH = (
 SENTENCE_PATH = ROOT / "2025/pilot_100/text/analysis_tables/sentences.csv.gz"
 PARAGRAPH_PATH = ROOT / "2025/pilot_100/text/analysis_tables/paragraphs.csv.gz"
 LM_PATH = (
-    ROOT
+    REPOSITORY_ROOT
     / "references/dictionaries/loughran_mcdonald_master_dictionary/"
     "analysis_ready_dictionary/financial_language_categories_1993_2025.csv"
 )
 BRYSBAERT_PATH = (
-    ROOT
+    REPOSITORY_ROOT
     / "references/dictionaries/brysbaert_concreteness/"
     "analysis_ready_dictionary/brysbaert_concreteness_analysis_ready.csv"
 )
 SMART_PATH = (
-    ROOT
+    REPOSITORY_ROOT
     / "references/dictionaries/brysbaert_concreteness/"
     "analysis_ready_dictionary/smart_stopwords_tidytext_0.3.1.txt"
 )
+REPORT_YEAR = os.environ.get("S_P500_REPORT_YEAR", "2025")
 
 LM_CATEGORIES = (
     "positive",
@@ -184,8 +192,10 @@ def load_corpus_rows(
 def validate_inputs(
     sample_rows: list[dict], extraction_rows: list[dict]
 ) -> tuple[dict[str, dict], dict[str, dict]]:
-    if len(sample_rows) != 100:
-        raise ValueError(f"final sample must contain 100 rows, found {len(sample_rows)}")
+    if not 1 <= len(sample_rows) <= 100:
+        raise ValueError(
+            f"batch sample must contain between 1 and 100 rows, found {len(sample_rows)}"
+        )
     for field in ("final_sample_id", "cik", "accession_number"):
         values = [row[field] for row in sample_rows]
         if len(values) != len(set(values)):
@@ -532,7 +542,7 @@ def run() -> dict:
         "processed_at_utc": datetime.now(timezone.utc).isoformat(),
     }
     summary_lines = [
-        "# 2025 pilot full-sample language measurement summary",
+        f"# {REPORT_YEAR} batch language measurement summary",
         "",
         *[
             f"- {key.replace('_', ' ')}: {value}"

@@ -42,8 +42,8 @@ def validate_input(root: Path, manifest: pd.DataFrame) -> None:
     }
     if not required.issubset(manifest.columns):
         raise ValueError(f"missing input columns: {sorted(required - set(manifest.columns))}")
-    if len(manifest) != 100:
-        raise ValueError("HTML manifest must have exactly 100 rows")
+    if not 1 <= len(manifest) <= 100:
+        raise ValueError("HTML manifest must contain between 1 and 100 rows")
     if manifest["final_sample_id"].duplicated().any():
         raise ValueError("duplicate company ID")
     if manifest["cik"].duplicated().any():
