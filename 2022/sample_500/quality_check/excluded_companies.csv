@@ -1,0 +1,30 @@
+universe_order,_company_key,ticker,company_name,cik,reason,candidate_accessions,candidate_filing_dates,candidate_primary_documents
+9,name:activision blizzard,ATVI,Activision Blizzard,,cik_missing_in_2022_universe,,,
+11,cik:0001158449,AAP,Advance Auto Parts,0001158449,ambiguous_multiple_eligible_2022_report_date_10k,0001158449-23-000035|0001158449-22-000037,2023-02-28|2022-02-15,aap-20221231.htm|aap-20220101.htm
+41,name:ansys,ANSS,Ansys,,cik_missing_in_2022_universe,,,
+56,cik:0000008818,AVY,Avery Dennison,0000008818,ambiguous_multiple_eligible_2022_report_date_10k,0000008818-23-000002|0001193125-22-049910,2023-02-22|2022-02-23,avy-20221231.htm|d179463d10k.htm
+70,cik:0002012383,BLK,BlackRock,0002012383,no_unique_eligible_2022_report_date_10k,,,
+88,cik:0000813672,CDNS,Cadence Design Systems,0000813672,ambiguous_multiple_eligible_2022_report_date_10k,0000813672-23-000011|0000813672-22-000012,2023-02-13|2022-02-22,cdns-20221231.htm|cdns-20220101.htm
+97,name:catalent,CTLT,Catalent,,cik_missing_in_2022_universe,,,
+103,name:ceridian,CDAY,Ceridian,,cik_missing_in_2022_universe,,,
+123,name:comerica,CMA,Comerica,,cik_missing_in_2022_universe,,,
+134,name:coterra energy,CTRA,Coterra Energy,,cik_missing_in_2022_universe,,,
+150,name:discover financial,DFS,Discover Financial,,cik_missing_in_2022_universe,,,
+151,name:dish network,DISH,Dish Network,,cik_missing_in_2022_universe,,,
+179,name:everest re group,RE,Everest Re Group,,cik_missing_in_2022_universe,,,
+188,name:fleetcor technologies,FLT,FLEETCOR Technologies,,cik_missing_in_2022_universe,,,
+196,name:first republic bank,FRC,First Republic Bank,,cik_missing_in_2022_universe,,,
+227,name:hess corporation,HES,Hess Corporation,,cik_missing_in_2022_universe,,,
+230,name:hologic,HOLX,Hologic,,cik_missing_in_2022_universe,,,
+251,name:interpublic group,IPG,Interpublic Group,,cik_missing_in_2022_universe,,,
+264,name:juniper networks,JNPR,Juniper Networks,,cik_missing_in_2022_universe,,,
+266,name:kellanova,K,Kellanova,,cik_missing_in_2022_universe,,,
+295,name:marathon oil,MRO,Marathon Oil,,cik_missing_in_2022_universe,,,
+374,name:pioneer natural resources,PXD,Pioneer Natural Resources,,cik_missing_in_2022_universe,,,
+405,name:svb financial group,SIVB,SVB Financial Group,,cik_missing_in_2022_universe,,,
+409,name:sealed air,SEE,Sealed Air,,cik_missing_in_2022_universe,,,
+413,name:signature bank,SBNY,Signature Bank,,cik_missing_in_2022_universe,,,
+416,cik:0000091440,SNA,Snap-on,0000091440,ambiguous_multiple_eligible_2022_report_date_10k,0000091440-23-000005|0000091440-22-000005,2023-02-09|2022-02-11,sna-20221231.htm|sna-20220101.htm
+420,cik:0000093556,SWK,Stanley Black & Decker,0000093556,ambiguous_multiple_eligible_2022_report_date_10k,0000093556-23-000007|0000093556-22-000015,2023-02-23|2022-02-22,swk-20221231.htm|swk-20220101.htm
+442,cik:0000217346,TXT,Textron,0000217346,ambiguous_multiple_eligible_2022_report_date_10k,0000217346-23-000006|0000217346-22-000005,2023-02-16|2022-02-17,txt-20221231.htm|txt-20220101.htm
+477,name:walgreens boots alliance,WBA,Walgreens Boots Alliance,,cik_missing_in_2022_universe,,,
