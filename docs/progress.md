@@ -2,6 +2,13 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-30 - R2 raw HTML의 Google Drive 이전 준비
+
+- 대상: 연도별 R2 manifest의 2020–2025 raw HTML 2,829개, 14,167,004,308바이트를 source of truth로 고정했다. 중복 object key와 accession은 0개다. (codex)
+- 구현: OAuth refresh, Drive root 권한·quota, R2 연결, 한 객체 upload·동일 객체 skip, 전체 이전·checkpoint·size/SHA 검증을 수행하는 전용 workflow와 실행기를 추가했다. (codex)
+- 안전: R2 삭제·overwrite, SEC 재수집, 기존 언어 결과·2,829행 패널 수정 및 raw HTML Git 추적은 수행하지 않는다. 실제 이전은 연결 시험 성공 후에만 실행한다. (codex)
+- 검증: Python compile, workflow YAML parse, `git diff --check`를 최소 검증으로 사용하며 전체 68개 테스트는 실행하지 않는다. (codex)
+
 ## 2026-07-30 - SnowballC와 NLTK Porter 소규모 fixture 비교
 
 - 비교: 일반형·활용형·다단계 접미사·연구 관련 단어·Porter 경계 사례 36개를 SnowballC 0.7.0 `wordStem()`과 NLTK 3.10.0 `ORIGINAL_ALGORITHM`에 동일하게 입력했다. (codex)

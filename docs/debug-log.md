@@ -2,6 +2,13 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-30 - Google Drive migration 연결 시험 분리
+
+- 문제 요약: Codespaces에는 Google OAuth 값이 없고 repository secrets에만 설정되어 있어 로컬에서 Drive 연결과 실제 이전을 검증할 수 없다. (codex)
+- 조치: secret 값을 출력하지 않는 GitHub Actions 전용 workflow를 만들고, 한 객체 시험과 전체 이전을 별도 dispatch mode로 분리했다. 시험은 OAuth refresh, root 접근·생성 권한, quota, R2 연결, upload 검증 및 재실행 skip을 모두 확인한다. (codex)
+- 안전장치: Drive 기존 동일 파일의 size 또는 SHA가 다르면 conflict, 동명 파일·폴더가 복수이면 ambiguous로 중단하며 R2와 Drive 기존 파일을 overwrite하거나 삭제하지 않는다. (codex)
+- 상태: workflow 배포 후 `test` mode가 성공해야만 `full` mode를 실행한다. (codex)
+
 ## 2026-07-30 - SnowballC와 NLTK Porter 직접 비교 확인
 
 - 문제 요약: 기존 구체성 측정에는 SnowballC 0.7.0과 NLTK 3.10.0 ORIGINAL_ALGORITHM의 직접 비교가 남아 있었다. (codex)
