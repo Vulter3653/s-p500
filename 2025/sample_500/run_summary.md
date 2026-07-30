@@ -1,0 +1,28 @@
+# 2025 Final Sample Run Summary
+
+- final_status: partial_final_sample_below_500
+- workflow_run_id: 30528839298
+- workflow_url: https://github.com/Vulter3653/s-p500/actions/runs/30528839298
+- batch_4_status: success
+- batch_5_status: success
+- merge_job_status: success
+- manifest_rows: 484
+- existing_rows: 300
+- new_rows: 184
+- combined_rows: 484
+- r2_rows: 484
+- r2_uploaded_new: 184
+- r2_skipped_new: 0
+- r2_conflicts_new: 0
+- extraction_success_new: 103
+- extraction_warning_new: 81
+- extraction_failed_new: 0
+- language_completed_new: 184
+- failed_rows: 0
+- warning_rows_new_batches: 194
+- ai_sentence_rows: 8660
+- ai_disclosure_firms: 468
+- ai_non_disclosure_firms: 16
+- single_ai_sentence_firms: 27
+- stem_collision_warning_firms: 484
+- version: 0.12.0
