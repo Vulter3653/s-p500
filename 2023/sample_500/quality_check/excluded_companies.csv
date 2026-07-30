@@ -1,0 +1,22 @@
+universe_order,_company_key,ticker,company_name,cik,reason
+38,name:ansys,ANSS,Ansys,,cik_missing_in_2023_universe
+68,cik:0002012383,BLK,BlackRock,0002012383,no_unique_eligible_2023_report_date_10k
+98,name:catalent,CTLT,Catalent,,cik_missing_in_2023_universe
+105,name:ceridian,CDAY,Ceridian,,cik_missing_in_2023_universe
+125,name:comerica,CMA,Comerica,,cik_missing_in_2023_universe
+136,name:coterra energy,CTRA,Coterra Energy,,cik_missing_in_2023_universe
+151,name:discover financial,DFS,Discover Financial,,cik_missing_in_2023_universe
+155,cik:0001286681,DPZ,Domino's,0001286681,ambiguous_multiple_eligible_2023_report_date_10k
+188,name:fleetcor technologies,FLT,FLEETCOR Technologies,,cik_missing_in_2023_universe
+228,name:hess corporation,HES,Hess Corporation,,cik_missing_in_2023_universe
+231,name:hologic,HOLX,Hologic,,cik_missing_in_2023_universe
+246,cik:0001110803,ILMN,"Illumina, Inc.",0001110803,ambiguous_multiple_eligible_2023_report_date_10k
+254,name:interpublic group,IPG,Interpublic Group,,cik_missing_in_2023_universe
+266,cik:0000200406,JNJ,Johnson & Johnson,0000200406,ambiguous_multiple_eligible_2023_report_date_10k
+268,name:juniper networks,JNPR,Juniper Networks,,cik_missing_in_2023_universe
+270,name:kellanova,K,Kellanova,,cik_missing_in_2023_universe
+299,name:marathon oil,MRO,Marathon Oil,,cik_missing_in_2023_universe
+376,name:pioneer natural resources,PXD,Pioneer Natural Resources,,cik_missing_in_2023_universe
+399,cik:0000031791,RVTY,Revvity,0000031791,ambiguous_multiple_eligible_2023_report_date_10k
+436,cik:0001094285,TDY,Teledyne Technologies,0001094285,ambiguous_multiple_eligible_2023_report_date_10k
+477,name:walgreens boots alliance,WBA,Walgreens Boots Alliance,,cik_missing_in_2023_universe
