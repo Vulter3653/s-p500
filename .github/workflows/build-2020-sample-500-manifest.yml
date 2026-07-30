@@ -1,0 +1,32 @@
+name: Build 2020 sample 500 manifest
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-manifest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Build exact reportDate manifest
+        run: python scripts/build_2020_sample_500.py
+      - name: Upload manifest artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sample-manifest-2020-500
+          path: |
+            2020/sample_500/sample_manifest_2020_500.csv
+            2020/sample_500/quality_check/excluded_companies.csv
+          if-no-files-found: error
+          retention-days: 14
