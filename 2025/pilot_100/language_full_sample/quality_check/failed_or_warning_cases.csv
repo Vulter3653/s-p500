@@ -1,0 +1,111 @@
+company_id,cik,ticker,company_name,accession_number,report_year,filing_date,parser_version,language_measurement_version,warning_type,warning_detail
+P2025-001,0001754301,FOXA|FOX,Fox Corporation (Class A)|Fox Corporation (Class B),0001628280-25-038077,2025,2025-08-06,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-002,0001973266,TKO,TKO Group Holdings,0001193125-26-071651,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-003,0001335258,LYV,Live Nation Entertainment,0001335258-26-000009,2025,2026-02-19,1.0.3,0.3.0,denominator_zero,AI sentence count is zero; AI-level values are missing
+P2025-003,0001335258,LYV,Live Nation Entertainment,0001335258-26-000009,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-004,0001744489,DIS,Walt Disney Company (The),0001744489-25-000155,2025,2025-11-13,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-005,0001065088,EBAY,eBay Inc.,0001065088-26-000027,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-006,0000815097,CCL,Carnival Corporation,0000815097-26-000007,2025,2026-01-27,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-007,0001121788,GRMN,Garmin,0001193125-26-056028,2025,2026-02-18,1.0.3,0.3.0,denominator_zero,AI sentence count is zero; AI-level values are missing
+P2025-007,0001121788,GRMN,Garmin,0001193125-26-056028,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-008,0001403568,ULTA,Ulta Beauty,0001558370-25-003810,2025,2025-03-27,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-009,0001286681,DPZ,Domino's,0001193125-26-062321,2025,2026-02-23,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-010,0000109198,TJX,TJX Companies,0000109198-25-000010,2025,2025-04-02,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-011,0000906163,NVR,"NVR, Inc.",0000906163-26-000018,2025,2026-02-11,1.0.3,0.3.0,single_ai_sentence,AI-level values retained from one direct AI sentence
+P2025-011,0000906163,NVR,"NVR, Inc.",0000906163-26-000018,2025,2026-02-11,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-012,0001792789,DASH,DoorDash,0001792789-26-000013,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-013,0001513761,NCLH,Norwegian Cruise Line Holdings,0001104659-26-022067,2025,2026-03-02,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-014,0000037996,F,Ford Motor Company,0000037996-26-000015,2025,2026-02-11,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-015,0000313927,CHD,Church & Dwight,0001193125-26-048139,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-016,0000040704,GIS,General Mills,0001193125-25-147079,2025,2025-06-26,1.0.3,0.3.0,denominator_zero,AI sentence count is zero; AI-level values are missing
+P2025-016,0000040704,GIS,General Mills,0001193125-25-147079,2025,2025-06-26,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-017,0000021665,CL,Colgate-Palmolive,0000021665-26-000006,2025,2026-02-23,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-018,0000016918,STZ,Constellation Brands,0000016918-25-000022,2025,2025-04-23,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-019,0000091419,SJM,J.M. Smucker Company (The),0000091419-25-000056,2025,2025-06-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-020,0000100493,TSN,Tyson Foods,0000100493-25-000095,2025,2025-11-10,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-021,0000104169,WMT,Walmart,0000104169-25-000021,2025,2025-03-14,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-022,0000034088,XOM,ExxonMobil,0000034088-26-000045,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-023,0001539838,FANG,Diamondback Energy,0001539838-26-000010,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-024,0000045012,HAL,Halliburton,0000045012-26-000015,2025,2026-02-06,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-025,0000093410,CVX,Chevron Corporation,0000093410-26-000078,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-026,0001140536,WTW,Willis Towers Watson,0001193125-26-069307,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-027,0001141391,MA,Mastercard,0001141391-26-000013,2025,2026-02-11,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-028,0000093751,STT,State Street Corporation,0000093751-26-000124,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-029,0000070858,BAC,Bank of America,0000070858-26-000157,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-030,0000038777,BEN,Franklin Resources,0000038777-25-000238,2025,2025-11-10,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-031,0001393818,BX,Blackstone Inc.,0001193125-26-082531,2025,2026-02-27,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-032,0001281761,RF,Regions Financial Corporation,0001281761-26-000019,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-033,0000895421,MS,Morgan Stanley,0000895421-26-000086,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-034,0000004977,AFL,Aflac,0001628280-26-011402,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-035,0001136893,FIS,Fidelity National Information Services,0001136893-26-000013,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-036,0000036270,MTB,M&T Bank,0000036270-26-000010,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-037,0001512673,XYZ,"Block, Inc.",0001628280-26-012254,2025,2026-02-26,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-038,0002012383,BLK,BlackRock,0001193125-26-071966,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-039,0000072971,WFC,Wells Fargo,0000072971-26-000133,2025,2026-02-24,1.0.3,0.3.0,single_ai_sentence,AI-level values retained from one direct AI sentence
+P2025-039,0000072971,WFC,Wells Fargo,0000072971-26-000133,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-040,0000315293,AON,Aon plc,0001628280-26-008116,2025,2026-02-13,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-041,0001035267,ISRG,Intuitive Surgical,0001035267-26-000010,2025,2026-02-03,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-042,0000313616,DHR,Danaher Corporation,0000313616-26-000062,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-043,0000860730,HCA,HCA Healthcare,0001193125-26-044769,2025,2026-02-10,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-044,0000872589,REGN,Regeneron Pharmaceuticals,0000872589-26-000008,2025,2026-02-04,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-045,0001071739,CNC,Centene Corporation,0001071739-26-000049,2025,2026-02-17,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-046,0001000228,HSIC,Henry Schein,0001000228-26-000013,2025,2026-02-24,1.0.3,0.3.0,single_ai_sentence,AI-level values retained from one direct AI sentence
+P2025-046,0001000228,HSIC,Henry Schein,0001000228-26-000013,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-047,0001000697,WAT,Waters Corporation,0001193125-26-062604,2025,2026-02-23,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-048,0000731766,UNH,UnitedHealth Group,0000731766-26-000062,2025,2026-03-02,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-049,0001555280,ZTS,Zoetis,0001555280-26-000011,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-050,0000010456,BAX,Baxter International,0001628280-26-007733,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-051,0000842023,TECH,Bio-Techne,0001558370-25-011716,2025,2025-08-22,1.0.3,0.3.0,denominator_zero,AI sentence count is zero; AI-level values are missing
+P2025-051,0000842023,TECH,Bio-Techne,0001558370-25-011716,2025,2025-08-22,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-052,0001093557,DXCM,Dexcom,0001093557-26-000027,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-053,0000936468,LMT,Lockheed Martin,0001628280-26-004195,2025,2026-01-29,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-054,0000702165,NSC,Norfolk Southern,0001628280-26-006268,2025,2026-02-09,1.0.3,0.3.0,single_ai_sentence,AI-level values retained from one direct AI sentence
+P2025-054,0000702165,NSC,Norfolk Southern,0001628280-26-006268,2025,2026-02-09,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-055,0000052988,J,Jacobs Solutions,0001628280-25-053316,2025,2025-11-20,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-056,0000105634,EME,Emcor,0000105634-26-000025,2025,2026-02-26,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-057,0000076334,PH,Parker Hannifin,0000076334-25-000035,2025,2025-08-22,1.0.3,0.3.0,single_ai_sentence,AI-level values retained from one direct AI sentence
+P2025-057,0000076334,PH,Parker Hannifin,0000076334-25-000035,2025,2025-08-22,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-058,0000900075,CPRT,Copart,0001628280-25-042946,2025,2025-09-26,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-060,0001090727,UPS,United Parcel Service,0001628280-26-008432,2025,2026-02-17,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-061,0001048911,FDX,FedEx,0001048911-25-000011,2025,2025-07-21,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-062,0001067701,URI,United Rentals,0001067701-26-000007,2025,2026-01-28,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-063,0001316835,BLDR,Builders FirstSource,0001193125-26-054643,2025,2026-02-17,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-064,0000040545,GE,GE Aerospace,0000040545-26-000008,2025,2026-01-29,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-065,0001035983,FIX,Comfort Systems USA,0001104659-26-017530,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-066,0000062996,MAS,Masco,0000062996-26-000005,2025,2026-02-10,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-067,0001474735,GNRC,Generac,0001437749-26-004568,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-068,0000092380,LUV,Southwest Airlines,0000092380-26-000004,2025,2026-02-05,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-069,0001535527,CRWD,CrowdStrike,0001535527-25-000009,2025,2025-03-10,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-070,0000864749,TRMB,Trimble Inc.,0000864749-25-000090,2025,2025-04-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-071,0000050863,INTC,Intel,0000050863-26-000011,2025,2026-01-23,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-072,0001561550,DDOG,Datadog,0001628280-26-008819,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-073,0000820313,APH,Amphenol,0001104659-26-013549,2025,2026-02-11,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-074,0001645590,HPE,Hewlett Packard Enterprise,0001645590-25-000130,2025,2025-12-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-075,0000319201,KLAC,KLA Corporation,0000319201-25-000024,2025,2025-08-08,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-076,0000068505,MSI,Motorola Solutions,0000068505-26-000010,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-077,0001045810,NVDA,Nvidia,0001045810-25-000023,2025,2025-02-26,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-078,0001601046,KEYS,Keysight Technologies,0001601046-25-000127,2025,2025-12-17,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-079,0001327811,WDAY,"Workday, Inc.",0001327811-25-000056,2025,2025-03-11,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-080,0001137789,STX,Seagate Technology,0001137789-25-000157,2025,2025-08-01,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-081,0001262039,FTNT,Fortinet,0001262039-26-000007,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-082,0001467373,ACN,Accenture,0001467373-25-000217,2025,2025-10-10,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-083,0000916076,MLM,Martin Marietta Materials,0001193125-26-059193,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-084,0000079879,PPG,PPG Industries,0000079879-26-000046,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-085,0001396009,VMC,Vulcan Materials Company,0001628280-26-009546,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-086,0000009389,BALL,Ball Corporation,0001104659-26-017410,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-087,0000849395,CRH,CRH plc,0001628280-26-009043,2025,2026-02-18,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-088,0000034903,FRT,Federal Realty Investment Trust,0000034903-26-000017,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-089,0001289490,EXR,Extra Space Storage,0001289490-26-000011,2025,2026-02-20,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-090,0001297996,DLR,Digital Realty,0001104659-26-015365,2025,2026-02-13,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-091,0000920522,ESS,Essex Property Trust,0000920522-26-000003,2025,2026-02-20,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-092,0001705696,VICI,Vici Properties,0001705696-26-000034,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-093,0000074208,UDR,"UDR, Inc.",0000074208-26-000013,2025,2026-02-17,1.0.3,0.3.0,single_ai_sentence,AI-level values retained from one direct AI sentence
+P2025-093,0000074208,UDR,"UDR, Inc.",0000074208-26-000013,2025,2026-02-17,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-094,0001687229,INVH,Invitation Homes,0001687229-26-000016,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-095,0001004980,PCG,PG&E Corporation,0001004980-26-000009,2025,2026-02-12,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-096,0000715957,D,Dominion Energy,0001193125-26-063120,2025,2026-02-23,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-097,0000764622,PNW,Pinnacle West Capital,0000764622-26-000011,2025,2026-02-25,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-098,0000065984,ETR,Entergy,0000065984-26-000174,2025,2026-02-19,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-099,0001013871,NRG,NRG Energy,0001013871-26-000004,2025,2026-02-24,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-100,0000788784,PEG,Public Service Enterprise Group,0001193125-26-077446,2025,2026-02-26,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
+P2025-R001,0000049826,ITW,Illinois Tool Works,0000049826-26-000008,2025,2026-02-13,1.0.3,0.3.0,stem_collisions,ambiguous Porter stems excluded without score averaging
