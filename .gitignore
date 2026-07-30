@@ -11,6 +11,8 @@ __pycache__/
 2023/sample_500/metadata/sec_requests.jsonl
 2022/sample_500/cache/
 2022/sample_500/metadata/sec_requests.jsonl
+2021/sample_500/cache/
+2021/sample_500/metadata/sec_requests.jsonl
 references/dictionaries/loughran_mcdonald_master_dictionary/original_source_files/*
 references/dictionaries/loughran_mcdonald_master_dictionary/analysis_ready_dictionary/*
 !references/dictionaries/loughran_mcdonald_master_dictionary/original_source_files/.gitkeep
