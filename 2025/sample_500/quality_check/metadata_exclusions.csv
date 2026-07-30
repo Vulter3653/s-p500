@@ -1,0 +1,4 @@
+_company_key,cik,ticker,gics_sector,within_sector_random_order,reason
+cik:0000217346,0000217346,TXT,Industrials,7,no_unique_eligible_2025_report_date_10k
+cik:0000091440,0000091440,SNA,Industrials,20,no_unique_eligible_2025_report_date_10k
+cik:0000093556,0000093556,SWK,Industrials,63,no_unique_eligible_2025_report_date_10k
