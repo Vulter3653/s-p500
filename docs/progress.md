@@ -8,6 +8,7 @@
 - 구현: OAuth refresh, Drive root 권한·quota, R2 연결, 한 객체 upload·동일 객체 skip, 전체 이전·checkpoint·size/SHA 검증을 수행하는 전용 workflow와 실행기를 추가했다. (codex)
 - 안전: R2 삭제·overwrite, SEC 재수집, 기존 언어 결과·2,829행 패널 수정 및 raw HTML Git 추적은 수행하지 않는다. 실제 이전은 연결 시험 성공 후에만 실행한다. (codex)
 - 검증: Python compile, workflow YAML parse, `git diff --check`를 최소 검증으로 사용하며 전체 68개 테스트는 실행하지 않는다. (codex)
+- 실행: Actions run `30543859858`은 실제 secret 주입 확인에서 client ID와 client secret이 빈 값으로 확인되어 38초 후 중단됐다. refresh token, root folder ID 및 R2 네 변수는 주입됐으며 OAuth 요청·Drive/R2 객체 접근·이전은 수행되지 않았다. (codex)
 
 ## 2026-07-30 - SnowballC와 NLTK Porter 소규모 fixture 비교
 

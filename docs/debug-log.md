@@ -7,7 +7,8 @@
 - 문제 요약: Codespaces에는 Google OAuth 값이 없고 repository secrets에만 설정되어 있어 로컬에서 Drive 연결과 실제 이전을 검증할 수 없다. (codex)
 - 조치: secret 값을 출력하지 않는 GitHub Actions 전용 workflow를 만들고, 한 객체 시험과 전체 이전을 별도 dispatch mode로 분리했다. 시험은 OAuth refresh, root 접근·생성 권한, quota, R2 연결, upload 검증 및 재실행 skip을 모두 확인한다. (codex)
 - 안전장치: Drive 기존 동일 파일의 size 또는 SHA가 다르면 conflict, 동명 파일·폴더가 복수이면 ambiguous로 중단하며 R2와 Drive 기존 파일을 overwrite하거나 삭제하지 않는다. (codex)
-- 상태: workflow 배포 후 `test` mode가 성공해야만 `full` mode를 실행한다. (codex)
+- 검증 결과: run `30543859858`에서 secret 이름 네 개는 repository metadata에 존재했지만 실제 job에는 `GOOGLE_DRIVE_CLIENT_ID`와 `GOOGLE_DRIVE_CLIENT_SECRET`이 빈 값으로 주입됐다. 나머지 Google 두 변수와 R2 네 변수는 set으로 확인됐다. (codex)
+- 상태: OAuth 요청 전 안전하게 중단했으며 `test` mode가 성공해야만 `full` mode를 실행한다. 누락된 두 secret을 비어 있지 않은 값으로 다시 저장해야 한다. (codex)
 
 ## 2026-07-30 - SnowballC와 NLTK Porter 직접 비교 확인
 
