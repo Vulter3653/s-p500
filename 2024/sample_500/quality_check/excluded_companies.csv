@@ -1,0 +1,14 @@
+universe_order,_company_key,ticker,company_name,cik,reason
+37,name:ansys,ANSS,Ansys,,cik_missing_in_2024_universe
+132,name:coterra energy,CTRA,Coterra Energy,,cik_missing_in_2024_universe
+141,name:dayforce,DAY,Dayforce,,cik_missing_in_2024_universe
+150,name:discover financial,DFS,Discover Financial,,cik_missing_in_2024_universe
+228,name:hess corporation,HES,Hess Corporation,,cik_missing_in_2024_universe
+231,name:hologic,HOLX,Hologic,,cik_missing_in_2024_universe
+253,name:interpublic group,IPG,Interpublic Group,,cik_missing_in_2024_universe
+267,name:juniper networks,JNPR,Juniper Networks,,cik_missing_in_2024_universe
+270,name:kellanova,K,Kellanova,,cik_missing_in_2024_universe
+280,cik:0000202058,LHX,L3Harris,0000202058,no_unique_eligible_2024_report_date_10k
+286,cik:0001336920,LDOS,Leidos,0001336920,no_unique_eligible_2024_report_date_10k
+449,cik:0000864749,TRMB,Trimble Inc.,0000864749,no_unique_eligible_2024_report_date_10k
+479,name:walgreens boots alliance,WBA,Walgreens Boots Alliance,,cik_missing_in_2024_universe
