@@ -1,0 +1,29 @@
+# 2024 10-K Language Sample Run Summary
+
+- final_status: partial_final_sample_below_500
+- workflow_run_id: 30530297712
+- workflow_url: https://github.com/Vulter3653/s-p500/actions/runs/30530297712
+- batch_1_rows: 100
+- batch_2_rows: 100
+- batch_3_rows: 100
+- batch_4_rows: 100
+- batch_5_rows: 87
+- merge_job_status: success
+- manifest_rows: 487
+- combined_rows: 487
+- r2_rows: 487
+- r2_uploaded: 487
+- r2_skipped: 0
+- r2_conflicts: 0
+- extraction_success: 307
+- extraction_warning: 180
+- extraction_failed: 0
+- language_completed: 487
+- failed_rows: 0
+- warning_rows: 596
+- ai_sentence_rows: 5701
+- ai_disclosure_firms: 431
+- ai_non_disclosure_firms: 56
+- single_ai_sentence_firms: 53
+- stem_collision_warning_firms: 487
+- version: 0.12.0
