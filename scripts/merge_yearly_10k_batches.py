@@ -46,7 +46,12 @@ def ensure_unique(rows: list[dict], fields: tuple[str, ...], label: str) -> None
             raise ValueError(f"duplicate {field} in merged {label}")
 
 
-def merge(input_root: Path, output_root: Path, report_year: str) -> dict:
+def merge(
+    input_root: Path,
+    output_root: Path,
+    report_year: str,
+    expected_batches: set[int] | None = None,
+) -> dict:
     output_root.mkdir(parents=True, exist_ok=True)
     language_fields, language_rows = collect_rows(
         input_root, "company_language_full_sample_results.csv"
@@ -128,7 +133,8 @@ def merge(input_root: Path, output_root: Path, report_year: str) -> dict:
         for item in summaries
         if str(item.get("batch_id", "")).isdigit()
     }
-    missing_batches = sorted(set(range(1, 6)) - present_batches)
+    expected_batches = expected_batches or set(range(1, 6))
+    missing_batches = sorted(expected_batches - present_batches)
     failed_batches = sorted(
         int(item["batch_id"])
         for item in summaries
@@ -182,7 +188,7 @@ def merge(input_root: Path, output_root: Path, report_year: str) -> dict:
     )
     summary = {
         "report_year": report_year,
-        "expected_batches": 5,
+        "expected_batches": sorted(expected_batches),
         "available_batch_summaries": len(summaries),
         "missing_batches": missing_batches,
         "failed_batches": failed_batches,
@@ -208,9 +214,16 @@ def parse_arguments():
     parser.add_argument("--report-year", required=True)
     parser.add_argument("--input-dir", required=True, type=Path)
     parser.add_argument("--output-dir", required=True, type=Path)
+    parser.add_argument("--expected-batches", default="1,2,3,4,5")
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_arguments()
-    merge(args.input_dir.resolve(), args.output_dir.resolve(), args.report_year)
+    expected = {int(value) for value in args.expected_batches.split(",") if value}
+    merge(
+        args.input_dir.resolve(),
+        args.output_dir.resolve(),
+        args.report_year,
+        expected,
+    )

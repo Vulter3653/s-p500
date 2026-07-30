@@ -33,6 +33,16 @@ on:
         required: true
         type: boolean
         default: false
+      batch_ids:
+        description: Comma-separated batch IDs to run
+        required: true
+        type: string
+        default: "1,2,3,4,5"
+      sample_namespace:
+        description: Private R2 namespace for this sample
+        required: true
+        type: string
+        default: "sample_500"
 
 permissions:
   contents: read
@@ -44,6 +54,7 @@ concurrency:
 jobs:
   process-batches:
     name: Batch ${{ matrix.batch_id }}
+    if: contains(format(',{0},', inputs.batch_ids), format(',{0},', matrix.batch_id))
     runs-on: ubuntu-latest
     timeout-minutes: 120
     strategy:
@@ -57,6 +68,7 @@ jobs:
       RUN_EXTRACTION: ${{ inputs.run_extraction }}
       RUN_LANGUAGE: ${{ inputs.run_language }}
       FORCE_RUN: ${{ inputs.force }}
+      SAMPLE_NAMESPACE: ${{ inputs.sample_namespace }}
       R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
       R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
       R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
@@ -83,6 +95,7 @@ jobs:
             --report-year "$REPORT_YEAR"
             --batch-id "${{ matrix.batch_id }}"
             --manifest "$SAMPLE_MANIFEST"
+            --sample-namespace "$SAMPLE_NAMESPACE"
             --output-dir "outputs/$REPORT_YEAR/batch_${{ matrix.batch_id }}"
           )
           if [[ "$RUN_COLLECTION" == "true" ]]; then
@@ -117,6 +130,7 @@ jobs:
     timeout-minutes: 30
     env:
       REPORT_YEAR: ${{ inputs.report_year }}
+      BATCH_IDS: ${{ inputs.batch_ids }}
 
     steps:
       - name: Check out repository
@@ -139,13 +153,14 @@ jobs:
           python scripts/merge_yearly_10k_batches.py \
             --report-year "$REPORT_YEAR" \
             --input-dir downloaded-batches \
-            --output-dir "outputs/$REPORT_YEAR/merged"
+            --output-dir "outputs/$REPORT_YEAR/merged" \
+            --expected-batches "$BATCH_IDS"
 
       - name: Upload merged yearly artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: 10k-${{ inputs.report_year }}-merged-results
+          name: 10k-${{ inputs.report_year }}-${{ inputs.sample_namespace }}-merged-results
           path: outputs/${{ inputs.report_year }}/merged/
           if-no-files-found: error
           retention-days: 30

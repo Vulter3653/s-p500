@@ -1,0 +1,32 @@
+name: Build 2025 sample 300 manifest
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-manifest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Build deterministic manifest
+        run: python scripts/build_2025_sample_300.py
+      - name: Upload manifest artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sample-manifest-2025-300
+          path: |
+            2025/sample_300/sample_manifest_2025_300.csv
+            2025/sample_300/quality_check/metadata_exclusions.csv
+          if-no-files-found: error
+          retention-days: 14

@@ -163,9 +163,9 @@ def r2_client():
     )
 
 
-def r2_key(report_year: str, row: dict) -> str:
+def r2_key(report_year: str, sample_namespace: str, row: dict) -> str:
     return (
-        f"{report_year}/sample_500/html/raw/{row['cik']}/"
+        f"{report_year}/{sample_namespace}/html/raw/{row['cik']}/"
         f"{row['accession_number']}.html"
     )
 
@@ -259,6 +259,7 @@ def collect_and_upload(
     output_root: Path,
     rows: list[dict],
     report_year: str,
+    sample_namespace: str,
 ) -> list[dict]:
     validate_collection_rows(rows, report_year)
     require_environment(("SEC_USER_AGENT",))
@@ -282,7 +283,7 @@ def collect_and_upload(
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_bytes(payload)
         digest = sha256_file(destination)
-        object_key = r2_key(report_year, row)
+        object_key = r2_key(report_year, sample_namespace, row)
         upload_status = upload_without_overwrite(
             client, destination, object_key, row
         )
@@ -330,12 +331,13 @@ def download_html_from_r2(
     output_root: Path,
     rows: list[dict],
     report_year: str,
+    sample_namespace: str,
 ) -> list[dict]:
     client = r2_client()
     html_manifest = []
     object_rows = []
     for row in rows:
-        key = r2_key(report_year, row)
+        key = r2_key(report_year, sample_namespace, row)
         head = remote_head(client, key)
         if head is None:
             raise FileNotFoundError(
@@ -614,13 +616,21 @@ def run_batch(arguments) -> dict:
             if arguments.run_collection:
                 failed_stage = "collection"
                 collect_and_upload(
-                    work_root, output_root, rows, arguments.report_year
+                    work_root,
+                    output_root,
+                    rows,
+                    arguments.report_year,
+                    arguments.sample_namespace,
                 )
             if arguments.run_extraction:
                 failed_stage = "extraction_input"
                 if not arguments.run_collection:
                     download_html_from_r2(
-                        work_root, output_root, rows, arguments.report_year
+                        work_root,
+                        output_root,
+                        rows,
+                        arguments.report_year,
+                        arguments.sample_namespace,
                     )
                 failed_stage = "extraction"
                 extraction_summary = extract(
@@ -691,6 +701,7 @@ def parse_arguments():
     parser.add_argument("--report-year", required=True)
     parser.add_argument("--batch-id", required=True, type=int, choices=range(1, 6))
     parser.add_argument("--manifest", required=True, type=Path)
+    parser.add_argument("--sample-namespace", default="sample_500")
     parser.add_argument("--run-collection", action="store_true")
     parser.add_argument("--run-extraction", action="store_true")
     parser.add_argument("--run-language", action="store_true")
