@@ -1,0 +1,825 @@
+company_id,cik,accession_number,warning_type,warning_detail
+S2021-001,0000066740,0000066740-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-002,0000091142,0000091142-22-000028,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-002,0000091142,0000091142-22-000028,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-003,0000874761,0000874761-22-000022,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-003,0000874761,0000874761-22-000022,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-004,0001841666,0001784031-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-004,0001841666,0001784031-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-005,0000732717,0000732717-22-000015,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-005,0000732717,0000732717-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-006,0001551152,0001551152-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-006,0001551152,0001551152-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-007,0000001800,0001104659-22-025141,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-007,0000001800,0001104659-22-025141,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-008,0001467373,0001467373-21-000229,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-009,0000796343,0000796343-22-000032,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-010,0001158449,0001158449-21-000036,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-011,0000002488,0000002488-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-012,0000004977,0000004977-22-000058,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-012,0000004977,0000004977-22-000058,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-013,0001090872,0001090872-21-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-014,0000002969,0000002969-21-000055,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-014,0000002969,0000002969-21-000055,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-015,0001086222,0001086222-22-000058,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-015,0001086222,0001086222-22-000058,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-016,0000766421,0000766421-22-000009,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-016,0000766421,0000766421-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-017,0000915913,0000915913-22-000027,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-017,0000915913,0000915913-22-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-018,0001035443,0001035443-22-000040,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-018,0001035443,0001035443-22-000040,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-019,0001097149,0001097149-22-000011,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-019,0001097149,0001097149-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-020,0001579241,0001579241-22-000019,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-020,0001579241,0001579241-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-021,0000352541,0000352541-22-000020,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-021,0000352541,0000352541-22-000020,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-022,0000899051,0000899051-22-000015,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-022,0000899051,0000899051-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-023,0001652044,0001652044-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-024,0000764180,0000764180-22-000019,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-024,0000764180,0000764180-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-025,0001018724,0001018724-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-026,0001748790,0001748790-21-000031,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-026,0001748790,0001748790-21-000031,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-027,0001002910,0001002910-22-000038,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-027,0001002910,0001002910-22-000038,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-028,0000006201,0000006201-22-000026,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-028,0000006201,0000006201-22-000026,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-029,0000004904,0000004904-22-000024,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-029,0000004904,0000004904-22-000024,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-030,0000004962,0000004962-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-031,0000005272,0001104659-22-024701,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-032,0001053507,0001053507-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-032,0001053507,0001053507-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-033,0001410636,0001410636-22-000048,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-033,0001410636,0001410636-22-000048,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-034,0000820027,0000820027-22-000016,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-034,0000820027,0000820027-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-035,0001140859,0001140859-21-000058,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-035,0001140859,0001140859-21-000058,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-036,0001037868,0001037868-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-036,0001037868,0001037868-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-037,0000318154,0000318154-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-037,0000318154,0000318154-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-038,0000820313,0001558370-22-000961,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-038,0000820313,0001558370-22-000961,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-039,0000006281,0000006281-21-000294,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-039,0000006281,0000006281-21-000294,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-040,0001156039,0001156039-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-040,0001156039,0001156039-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-041,0000315293,0001628280-22-003180,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-041,0000315293,0001628280-22-003180,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-042,0000320193,0000320193-21-000105,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-042,0000320193,0000320193-21-000105,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-043,0000006951,0000006951-21-000043,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-044,0001521332,0001521332-22-000010,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-044,0001521332,0001521332-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-045,0000007084,0000007084-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-045,0000007084,0000007084-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-046,0001596532,0001596532-22-000026,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-047,0000354190,0001564590-22-005714,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-048,0001267238,0001267238-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-048,0001267238,0001267238-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-049,0000731802,0000731802-21-000040,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-049,0000731802,0000731802-21-000040,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-050,0000866787,0001558370-21-013446,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-050,0000866787,0001558370-21-013446,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-051,0000769397,0000769397-21-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-052,0000008670,0000008670-21-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-053,0000915912,0000915912-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-053,0000915912,0000915912-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-054,0000008818,0001193125-21-055146,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-054,0000008818,0001193125-21-055146,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-055,0001037540,0001656423-22-000013,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-055,0001037540,0001656423-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-056,0001701605,0001701605-22-000050,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-057,0000009389,0001558370-22-001251,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-057,0000009389,0001558370-22-001251,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-058,0000070858,0000070858-22-000062,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-059,0001390777,0001390777-22-000043,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-059,0001390777,0001390777-22-000043,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-060,0000701985,0000701985-21-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-060,0000701985,0000701985-21-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-061,0000010456,0001628280-22-003432,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-061,0000010456,0001628280-22-003432,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-062,0000010795,0000010795-21-000091,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-062,0000010795,0000010795-21-000091,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-063,0001067983,0001564590-22-007322,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-063,0001067983,0001564590-22-007322,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-064,0000764478,0000764478-21-000024,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-064,0000764478,0000764478-21-000024,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-065,0000012208,0000012208-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-065,0000012208,0000012208-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-066,0000842023,0001437749-21-020980,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-066,0000842023,0001437749-21-020980,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-067,0000875045,0000875045-22-000007,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-067,0000875045,0000875045-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-068,0000012927,0000012927-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-068,0000012927,0000012927-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-069,0001075531,0001075531-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-070,0000908255,0000908255-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-070,0000908255,0000908255-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-071,0000885725,0000885725-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-071,0000885725,0000885725-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-072,0000014272,0000014272-22-000051,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-072,0000014272,0000014272-22-000051,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-073,0001730168,0001730168-21-000153,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-074,0001383312,0001383312-21-000047,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-074,0001383312,0001383312-21-000047,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-075,0000079282,0000950170-22-001654,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-075,0000079282,0000950170-22-001654,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-076,0000014693,0000014693-21-000091,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-076,0000014693,0000014693-21-000091,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-077,0001043277,0001043277-22-000006,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-077,0001043277,0001043277-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-078,0001138118,0001138118-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-078,0001138118,0001138118-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-079,0001402057,0001402057-22-000020,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-080,0001324404,0001324404-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-080,0001324404,0001324404-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-081,0001156375,0001156375-22-000076,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-081,0001156375,0001156375-22-000076,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-082,0000811156,0000811156-22-000048,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-082,0000811156,0000811156-22-000048,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-083,0000277948,0000277948-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-083,0000277948,0000277948-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-084,0000064803,0000064803-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-085,0000813672,0000813672-21-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-086,0001590895,0001590895-22-000061,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-086,0001590895,0001590895-22-000061,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-087,0000016732,0000016732-21-000103,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-087,0000016732,0000016732-21-000103,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-088,0000927628,0000927628-22-000106,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-089,0001170010,0001170010-21-000053,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-089,0001170010,0001170010-21-000053,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-090,0000721371,0000721371-21-000080,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-090,0000721371,0000721371-21-000080,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-091,0000815097,0000815097-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-091,0000815097,0000815097-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-092,0001783180,0001783180-22-000010,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-092,0001783180,0001783180-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-093,0000018230,0000018230-22-000050,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-093,0000018230,0000018230-22-000050,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-094,0001374310,0001558370-22-001386,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-094,0001374310,0001558370-22-001386,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-095,0001306830,0001306830-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-095,0001306830,0001306830-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-096,0001071739,0001071739-22-000071,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-097,0001130310,0001130310-22-000023,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-097,0001130310,0001130310-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-098,0001100682,0001100682-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-099,0000316709,0000316709-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-099,0000316709,0000316709-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-100,0001091667,0001091667-22-000024,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-100,0001091667,0001091667-22-000024,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-101,0000093410,0000093410-22-000019,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-101,0000093410,0000093410-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-102,0001058090,0001058090-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-102,0001058090,0001058090-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-103,0000896159,0000896159-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-103,0000896159,0000896159-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-104,0000313927,0001564590-22-005528,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-104,0000313927,0001564590-22-005528,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-105,0001739940,0001739940-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-106,0000020286,0000020286-22-000012,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-106,0000020286,0000020286-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-107,0000723254,0000723254-21-000021,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-107,0000723254,0000723254-21-000021,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-108,0000858877,0000858877-21-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-109,0000831001,0000831001-22-000036,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-109,0000831001,0000831001-22-000036,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-110,0000759944,0000759944-22-000025,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-111,0000021076,0000021076-21-000016,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-111,0000021076,0000021076-21-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-112,0000021344,0000021344-22-000009,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-112,0000021344,0000021344-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-113,0001058290,0001058290-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-114,0000021665,0000021665-22-000003,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-114,0000021665,0000021665-22-000003,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-115,0001166691,0001166691-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-115,0001166691,0001166691-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-116,0000023217,0001564590-21-037738,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-116,0000023217,0001564590-21-037738,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-117,0001163165,0001562762-22-000031,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-117,0001163165,0001562762-22-000031,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-118,0001047862,0001047862-22-000039,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-118,0001047862,0001047862-22-000039,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-119,0000016918,0000016918-21-000060,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-119,0000016918,0000016918-21-000060,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-120,0000711404,0000711404-21-000038,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-120,0000711404,0000711404-21-000038,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-121,0000900075,0000900075-21-000022,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-121,0000900075,0000900075-21-000022,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-122,0000024741,0001437749-22-003247,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-122,0000024741,0001437749-22-003247,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-123,0001755672,0001755672-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-123,0001755672,0001755672-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-124,0000909832,0000909832-21-000014,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-124,0000909832,0000909832-21-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-125,0001051470,0001051470-22-000019,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-125,0001051470,0001051470-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-126,0000026172,0000026172-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-126,0000026172,0000026172-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-127,0000882184,0000882184-21-000190,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-127,0000882184,0000882184-21-000190,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-128,0000936340,0000936340-22-000077,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-128,0000936340,0000936340-22-000077,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-129,0001688568,0001688568-21-000029,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-130,0000927066,0000927066-22-000012,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-130,0000927066,0000927066-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-131,0000313616,0000313616-22-000061,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-131,0000313616,0000313616-22-000061,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-132,0000940944,0000940944-21-000041,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-132,0000940944,0000940944-21-000041,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-133,0000315189,0001558370-21-016864,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-133,0000315189,0001558370-21-016864,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-134,0000027904,0000027904-22-000003,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-134,0000027904,0000027904-22-000003,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-135,0000818479,0000818479-22-000015,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-135,0000818479,0000818479-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-136,0001090012,0001564590-22-005321,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-136,0001090012,0001564590-22-005321,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-137,0001093557,0001093557-22-000014,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-137,0001093557,0001093557-22-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-138,0001539838,0001539838-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-138,0001539838,0001539838-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-139,0001297996,0001558370-22-002195,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-139,0001297996,0001558370-22-002195,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-140,0000029534,0001558370-21-003245,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-140,0000029534,0001558370-21-003245,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-141,0000935703,0000935703-21-000014,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-141,0000935703,0000935703-21-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-142,0000715957,0001564590-22-006589,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-142,0000715957,0001564590-22-006589,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-143,0001286681,0001193125-21-055734,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-143,0001286681,0001193125-21-055734,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-144,0000029905,0000029905-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-145,0001751788,0001751788-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-145,0001751788,0001751788-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-146,0001666700,0001666700-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-146,0001666700,0001666700-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-147,0001326160,0001326160-22-000072,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-147,0001326160,0001326160-22-000072,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-148,0000821189,0000821189-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-148,0000821189,0000821189-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-149,0001352010,0001352010-22-000020,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-150,0000915389,0000915389-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-151,0001551182,0001551182-22-000004,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-151,0001551182,0001551182-22-000004,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-152,0000031462,0001558370-22-002059,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-152,0000031462,0001558370-22-002059,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-153,0000827052,0000827052-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-153,0000827052,0000827052-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-154,0001099800,0001099800-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-155,0000712515,0000712515-21-000064,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-155,0000712515,0000712515-21-000064,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-156,0000032604,0000032604-21-000038,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-156,0000032604,0000032604-21-000038,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-157,0001463101,0001463101-22-000016,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-157,0001463101,0001463101-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-158,0000065984,0000065984-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-158,0000065984,0000065984-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-159,0000033185,0000033185-22-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-160,0001101239,0001628280-22-003171,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-160,0001101239,0001628280-22-003171,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-161,0000906107,0001564590-22-005566,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-161,0000906107,0001564590-22-005566,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-162,0000920522,0000920522-22-000019,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-162,0000920522,0000920522-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-163,0001001250,0001001250-21-000127,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-163,0001001250,0001001250-21-000127,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-164,0001370637,0001370637-22-000024,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-165,0001711269,0001711269-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-165,0001711269,0001711269-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-166,0000072741,0000072741-22-000015,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-166,0000072741,0000072741-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-167,0001109357,0001109357-22-000039,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-167,0001109357,0001109357-22-000039,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-168,0001324424,0001324424-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-169,0000746515,0001564590-22-010381,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-169,0000746515,0001564590-22-010381,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-170,0001289490,0001628280-22-004274,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-170,0001289490,0001628280-22-004274,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-171,0000034088,0000034088-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-171,0000034088,0000034088-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-172,0001048695,0001048695-21-000044,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-173,0000037785,0000037785-22-000025,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-173,0000037785,0000037785-22-000025,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-174,0001326801,0001326801-22-000018,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-175,0001013237,0001013237-21-000142,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-176,0000815556,0000815556-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-176,0000815556,0000815556-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-177,0001048911,0001564590-21-037031,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-177,0001048911,0001564590-21-037031,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-178,0000034903,0000034903-22-000023,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-178,0000034903,0000034903-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-179,0001136893,0001136893-22-000038,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-180,0000035527,0000035527-22-000119,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-180,0000035527,0000035527-22-000119,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-181,0001031296,0001031296-22-000013,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-181,0001031296,0001031296-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-182,0000798354,0000798354-22-000004,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-182,0000798354,0000798354-22-000004,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-183,0000037996,0000037996-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-184,0001262039,0001262039-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-185,0001659166,0001659166-22-000054,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-185,0001659166,0001659166-22-000054,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-186,0001754301,0001564590-21-043103,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-186,0001754301,0001564590-21-043103,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-187,0000038777,0000038777-21-000205,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-187,0000038777,0000038777-21-000205,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-188,0000831259,0000831259-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-188,0000831259,0000831259-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-189,0000040545,0000040545-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-190,0001121788,0000950170-22-001303,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-190,0001121788,0000950170-22-001303,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-191,0000749251,0000749251-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-191,0000749251,0000749251-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-192,0001474735,0001437749-22-004080,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-192,0001474735,0001437749-22-004080,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-193,0000040533,0000040533-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-194,0000040704,0001193125-21-204830,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-194,0000040704,0001193125-21-204830,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-195,0001467858,0001467858-22-000034,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-195,0001467858,0001467858-22-000034,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-196,0000040987,0000040987-22-000013,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-196,0000040987,0000040987-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-197,0000882095,0000882095-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-197,0000882095,0000882095-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-198,0001123360,0001123360-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-198,0001123360,0001123360-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-199,0000320335,0000320335-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-199,0000320335,0000320335-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-200,0000886982,0001193125-22-052682,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-200,0000886982,0001193125-22-052682,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-201,0000860730,0001193125-22-046707,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-201,0000860730,0001193125-22-046707,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-202,0000047217,0000047217-21-000060,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-202,0000047217,0000047217-21-000060,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-203,0000045012,0000045012-22-000013,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-203,0000045012,0000045012-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-204,0000874766,0000874766-22-000019,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-204,0000874766,0000874766-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-205,0000046080,0000046080-22-000023,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-205,0000046080,0000046080-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-206,0000765880,0001628280-22-002117,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-206,0000765880,0001628280-22-002117,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-207,0001000228,0001000228-22-000016,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-207,0001000228,0001000228-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-208,0000047111,0000047111-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-208,0000047111,0000047111-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-209,0001645590,0001645590-21-000068,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-210,0001585689,0001585689-22-000013,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-210,0001585689,0001585689-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-211,0000354950,0000354950-21-000089,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-211,0000354950,0000354950-21-000089,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-212,0000773840,0000773840-22-000018,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-212,0000773840,0000773840-22-000018,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-213,0000048465,0000048465-21-000067,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-213,0000048465,0000048465-21-000067,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-214,0001070750,0000950170-22-001965,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-214,0001070750,0000950170-22-001965,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-215,0000004281,0000004281-22-000004,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-215,0000004281,0000004281-22-000004,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-216,0000049071,0000049071-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-216,0000049071,0000049071-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-217,0000049196,0000049196-22-000023,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-217,0000049196,0000049196-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-218,0001501585,0001501585-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-219,0000051143,0001558370-22-001584,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-220,0000832101,0000832101-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-220,0000832101,0000832101-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-221,0001111928,0001111928-22-000025,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-221,0001111928,0001111928-22-000025,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-222,0001478242,0001478242-22-000041,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-222,0001478242,0001478242-22-000041,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-223,0000874716,0000874716-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-223,0000874716,0000874716-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-224,0000049826,0000049826-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-224,0000049826,0000049826-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-225,0001110803,0001110803-21-000015,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-225,0001110803,0001110803-21-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-226,0000879169,0001558370-22-000902,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-226,0000879169,0001558370-22-000902,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-227,0001699150,0001628280-22-003991,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-227,0001699150,0001628280-22-003991,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-228,0000050863,0000050863-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-229,0001571949,0001571949-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-230,0000051253,0000051253-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-230,0000051253,0000051253-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-231,0000051434,0000051434-22-000016,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-231,0000051434,0000051434-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-232,0000896878,0000896878-21-000233,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-233,0001035267,0001035267-22-000014,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-233,0001035267,0001035267-22-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-234,0000914208,0000914208-22-000319,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-234,0000914208,0000914208-22-000319,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-235,0001020569,0001020569-22-000035,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-236,0000728535,0001437749-22-004457,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-236,0000728535,0001437749-22-004457,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-237,0000091419,0000091419-21-000048,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-237,0000091419,0000091419-21-000048,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-238,0000019617,0000019617-22-000272,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-238,0000019617,0000019617-22-000272,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-239,0000779152,0000779152-21-000073,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-239,0000779152,0000779152-21-000073,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-240,0000052988,0000052988-21-000065,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-241,0000200406,0000200406-21-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-241,0000200406,0000200406-21-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-242,0000833444,0000833444-21-000046,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-243,0000319201,0000319201-21-000029,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-244,0000091576,0000091576-22-000029,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-244,0000091576,0000091576-22-000029,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-245,0001601046,0001601046-21-000197,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-246,0000055785,0000055785-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-246,0000055785,0000055785-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-247,0000879101,0001437749-22-004700,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-247,0000879101,0001437749-22-004700,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-248,0001506307,0001506307-22-000018,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-248,0001506307,0001506307-22-000018,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-249,0001637459,0001637459-22-000018,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-249,0001637459,0001637459-22-000018,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-250,0000056873,0001558370-21-003706,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-250,0000056873,0001558370-21-003706,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-251,0001065696,0001065696-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-251,0001065696,0001065696-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-252,0000920148,0000920148-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-253,0000707549,0000707549-21-000136,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-254,0001679273,0001558370-21-009330,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-254,0001679273,0001558370-21-009330,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-255,0001300514,0001300514-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-255,0001300514,0001300514-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-256,0000920760,0001628280-22-001450,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-256,0000920760,0001628280-22-001450,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-257,0000059478,0000059478-22-000068,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-257,0000059478,0000059478-22-000068,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-258,0000059558,0000059558-22-000008,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-258,0000059558,0000059558-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-259,0001707925,0001628280-22-004180,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-259,0001707925,0001628280-22-004180,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-260,0001335258,0001335258-22-000019,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-260,0001335258,0001335258-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-261,0000936468,0000936468-22-000008,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-261,0000936468,0000936468-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-262,0000060086,0000060086-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-262,0000060086,0000060086-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-263,0000060667,0000060667-21-000026,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-263,0000060667,0000060667-21-000026,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-264,0000018926,0000018926-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-264,0000018926,0000018926-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-265,0001489393,0001489393-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-265,0001489393,0001489393-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-266,0000036270,0001564590-22-005400,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-266,0000036270,0001564590-22-005400,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-267,0000789570,0000789570-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-267,0000789570,0000789570-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-268,0001408198,0001564590-22-004803,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-268,0001408198,0001564590-22-004803,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-269,0001510295,0001510295-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-269,0001510295,0001510295-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-270,0001278021,0000950170-22-001811,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-270,0001278021,0000950170-22-001811,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-271,0001048286,0001628280-22-002666,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-271,0001048286,0001628280-22-002666,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-272,0000062709,0000062709-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-273,0000916076,0001564590-22-005965,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-273,0000916076,0001564590-22-005965,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-274,0000062996,0000062996-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-274,0000062996,0000062996-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-275,0001141391,0001141391-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-276,0000891103,0000891103-22-000020,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-276,0000891103,0000891103-22-000020,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-277,0000063754,0000063754-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-277,0000063754,0000063754-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-278,0000063908,0000063908-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-278,0000063908,0000063908-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-279,0000927653,0000927653-21-000039,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-279,0000927653,0000927653-21-000039,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-280,0001613103,0001613103-21-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-281,0000310158,0000310158-22-000003,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-281,0000310158,0000310158-22-000003,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-282,0001099219,0001099219-22-000014,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-282,0001099219,0001099219-22-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-283,0001037646,0001037646-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-283,0001037646,0001037646-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-284,0000827054,0000827054-21-000106,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-284,0000827054,0000827054-21-000106,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-285,0000723125,0000723125-21-000065,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-286,0000789019,0001564590-21-039151,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-287,0000912595,0000950170-22-001423,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-287,0000912595,0000950170-22-001423,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-288,0001682852,0001682852-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-289,0000851968,0000851968-22-000026,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-289,0000851968,0000851968-22-000026,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-290,0000024545,0000024545-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-290,0000024545,0000024545-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-291,0001103982,0001103982-22-000003,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-291,0001103982,0001103982-22-000003,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-292,0001280452,0001437749-22-004460,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-292,0001280452,0001437749-22-004460,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-293,0000865752,0001104659-22-028182,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-293,0000865752,0001104659-22-028182,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-294,0001059556,0001059556-22-000012,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-294,0001059556,0001059556-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-295,0000895421,0000895421-22-000400,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-295,0000895421,0000895421-22-000400,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-296,0001285785,0001618034-22-000004,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-296,0001285785,0001618034-22-000004,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-297,0000068505,0000068505-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-298,0001013871,0001013871-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-298,0001013871,0001013871-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-299,0000906163,0000906163-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-299,0000906163,0000906163-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-300,0001413447,0001413447-22-000008,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-300,0001413447,0001413447-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-301,0001120193,0001120193-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-301,0001120193,0001120193-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-302,0001002047,0001564590-21-033645,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-303,0001065280,0001065280-22-000036,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-303,0001065280,0001065280-22-000036,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-304,0000814453,0000814453-22-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-304,0000814453,0000814453-22-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-305,0001164727,0001164727-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-305,0001164727,0001164727-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-306,0001564708,0001564708-21-000029,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-306,0001564708,0001564708-21-000029,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-307,0000753308,0000753308-22-000014,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-307,0000753308,0000753308-22-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-308,0001111711,0001111711-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-308,0001111711,0001111711-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-309,0000320187,0000320187-21-000028,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-309,0000320187,0000320187-21-000028,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-310,0000702165,0000702165-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-310,0000702165,0000702165-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-311,0000073124,0000073124-22-000071,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-311,0000073124,0000073124-22-000071,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-312,0001133421,0001133421-22-000004,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-313,0000849399,0000849399-21-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-313,0000849399,0000849399-21-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-314,0001513761,0001558370-22-002516,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-314,0001513761,0001558370-22-002516,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-315,0000073309,0001564590-22-007679,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-315,0000073309,0001564590-22-007679,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-316,0001045810,0001045810-21-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-317,0000797468,0000797468-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-317,0000797468,0000797468-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-318,0000878927,0001564590-22-006303,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-318,0000878927,0001564590-22-006303,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-319,0000029989,0000029989-22-000012,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-319,0000029989,0000029989-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-320,0001039684,0001039684-22-000015,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-320,0001039684,0001039684-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-321,0001341439,0001564590-21-033616,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-322,0001821825,0001821825-22-000002,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-322,0001821825,0001821825-22-000002,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-323,0001781335,0001781335-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-323,0001781335,0001781335-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-324,0000898173,0000898173-22-000012,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-324,0000898173,0000898173-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-325,0000713676,0000713676-22-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-326,0000079879,0000079879-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-326,0000079879,0000079879-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-327,0000922224,0000922224-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-327,0000922224,0000922224-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-328,0000857005,0001564590-21-057806,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-329,0000078239,0000078239-21-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-329,0000078239,0000078239-21-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-330,0000075362,0001564590-22-006237,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-330,0000075362,0001564590-22-006237,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-331,0000075677,0000950170-22-001913,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-331,0000075677,0000950170-22-001913,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-332,0000076334,0000076334-21-000187,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-332,0000076334,0000076334-21-000187,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-333,0001633917,0001633917-22-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-334,0000723531,0000723531-21-000035,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-335,0001590955,0001564590-22-005562,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-335,0001590955,0001564590-22-005562,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-336,0000921738,0000921738-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-336,0000921738,0000921738-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-337,0000077360,0000077360-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-337,0000077360,0000077360-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-338,0000077476,0000077476-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-339,0000031791,0000031791-21-000003,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-339,0000031791,0000031791-21-000003,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-340,0000078003,0000078003-22-000027,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-340,0000078003,0000078003-22-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-341,0001413329,0001413329-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-341,0001413329,0001413329-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-342,0001534701,0001534701-22-000078,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-342,0001534701,0001534701-22-000078,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-343,0000764622,0000764622-22-000014,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-343,0000764622,0000764622-22-000014,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-344,0000945841,0000945841-22-000023,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-344,0000945841,0000945841-22-000023,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-345,0001126328,0001104659-22-020401,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-345,0001126328,0001104659-22-020401,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-346,0000080424,0000080424-21-000100,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-346,0000080424,0000080424-21-000100,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-347,0000080661,0000080661-22-000046,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-348,0001045609,0001564590-22-004436,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-348,0001045609,0001564590-22-004436,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-349,0001137774,0001137774-22-000038,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-349,0001137774,0001137774-22-000038,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-350,0000788784,0001628280-22-003860,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-350,0000788784,0001628280-22-003860,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-351,0001393311,0001393311-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-351,0001393311,0001393311-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-352,0000822416,0000822416-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-352,0000822416,0000822416-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-353,0001604778,0001604778-21-000032,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-353,0001604778,0001604778-21-000032,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-354,0000804328,0001728949-21-000076,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-355,0001050915,0001050915-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-355,0001050915,0001050915-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-356,0001022079,0001022079-22-000027,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-357,0000101829,0000101829-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-357,0000101829,0000101829-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-358,0001037038,0001037038-21-000022,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-358,0001037038,0001037038-21-000022,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-359,0000720005,0000720005-21-000106,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-359,0000720005,0000720005-21-000106,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-360,0000726728,0000726728-22-000046,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-360,0000726728,0000726728-22-000046,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-361,0000910606,0000950170-22-001418,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-361,0000910606,0000950170-22-001418,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-362,0000872589,0001804220-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-362,0000872589,0001804220-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-363,0001281761,0001281761-22-000016,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-363,0001281761,0001281761-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-364,0001060391,0001060391-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-364,0001060391,0001060391-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-365,0000943819,0000943819-21-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-365,0000943819,0000943819-21-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-366,0000315213,0000315213-22-000018,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-367,0001024478,0001024478-21-000083,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-368,0000084839,0000084839-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-368,0000084839,0000084839-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-369,0000882835,0000882835-22-000012,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-369,0000882835,0000882835-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-370,0000745732,0000745732-21-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-370,0000745732,0000745732-21-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-371,0000884887,0000884887-22-000008,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-371,0000884887,0000884887-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-372,0000064040,0000064040-22-000055,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-372,0000064040,0000064040-22-000055,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-373,0001034054,0001034054-22-000002,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-373,0001034054,0001034054-22-000002,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-374,0001108524,0001108524-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-375,0000087347,0001564590-22-002421,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-376,0001137789,0001137789-21-000049,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-377,0001032208,0001032208-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-377,0001032208,0001032208-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-378,0001373715,0001373715-22-000024,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-379,0000089800,0000089800-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-379,0000089800,0000089800-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-380,0001063761,0001558370-22-001845,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-380,0001063761,0001558370-22-001845,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-381,0000004127,0000004127-21-000058,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-381,0000004127,0000004127-21-000058,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-382,0000091440,0000091440-21-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-382,0000091440,0000091440-21-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-383,0001419612,0001178913-22-000760,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-383,0001419612,0001178913-22-000760,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-384,0000092122,0000092122-22-000003,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-384,0000092122,0000092122-22-000003,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-385,0000092380,0000092380-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-385,0000092380,0000092380-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-386,0000093556,0000093556-21-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-387,0000829224,0000829224-21-000086,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-387,0000829224,0000829224-21-000086,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-388,0000093751,0000093751-22-000424,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-389,0001757898,0001757898-21-000017,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-389,0001757898,0001757898-21-000017,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-390,0000310764,0000310764-22-000028,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-391,0001601712,0001601712-22-000053,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-392,0000883241,0000883241-21-000022,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-393,0000096021,0000096021-21-000093,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-393,0000096021,0000096021-21-000093,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-394,0001283699,0001283699-22-000018,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-394,0001283699,0001283699-22-000018,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-395,0001113169,0001113169-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-395,0001113169,0001113169-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-396,0001385157,0001558370-21-015228,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-396,0001385157,0001558370-21-015228,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-397,0000109198,0000109198-21-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-397,0000109198,0000109198-21-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-398,0000946581,0001628280-21-010627,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-398,0000946581,0001628280-21-010627,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-399,0001116132,0001116132-21-000020,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-399,0001116132,0001116132-21-000020,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-400,0000027419,0000027419-21-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-400,0000027419,0000027419-21-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-401,0001094285,0001094285-21-000066,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-401,0001094285,0001094285-21-000066,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-402,0000096943,0000096943-22-000016,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-402,0000096943,0000096943-22-000016,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-403,0000097210,0001193125-22-049828,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-403,0000097210,0001193125-22-049828,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-404,0001318605,0000950170-22-000796,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-405,0000097476,0000097476-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-405,0000097476,0000097476-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-406,0000217346,0000217346-21-000019,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-406,0000217346,0000217346-21-000019,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-407,0000097745,0000097745-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-407,0000097745,0000097745-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-408,0000916365,0000916365-22-000049,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-408,0000916365,0000916365-22-000049,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-409,0001466258,0001466258-22-000031,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-409,0001466258,0001466258-22-000031,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-410,0001260221,0001260221-21-000134,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-410,0001260221,0001260221-21-000134,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-411,0000086312,0000086312-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-412,0000092230,0000092230-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-412,0000092230,0000092230-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-413,0000860731,0000860731-22-000011,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-413,0000860731,0000860731-22-000011,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-414,0000100493,0000100493-21-000122,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-415,0000036104,0001193125-22-048709,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-415,0000036104,0001193125-22-048709,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-416,0000074208,0000074208-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-416,0000074208,0000074208-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-417,0001403568,0001558370-21-003523,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-418,0001336917,0001336917-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-418,0001336917,0001336917-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-419,0000100885,0001437749-22-002494,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-419,0000100885,0001437749-22-002494,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-420,0000100517,0000100517-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-420,0000100517,0000100517-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-421,0001090727,0001090727-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-421,0001090727,0001090727-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-422,0001067701,0001067701-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-422,0001067701,0001067701-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-423,0000731766,0000731766-22-000008,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-423,0000731766,0000731766-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-424,0000352915,0001564590-22-006717,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-424,0000352915,0001564590-22-006717,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-425,0000103379,0000103379-21-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-425,0000103379,0000103379-21-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-426,0001035002,0001035002-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-426,0001035002,0001035002-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-427,0000740260,0000740260-22-000057,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-427,0000740260,0000740260-22-000057,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-428,0001014473,0001014473-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-428,0001014473,0001014473-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-429,0001442145,0001437749-22-004083,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-430,0000732712,0000732712-22-000008,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-430,0000732712,0000732712-22-000008,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-431,0000875320,0000875320-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-431,0000875320,0000875320-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-432,0000813828,0000813828-22-000005,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-432,0000813828,0000813828-22-000005,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-433,0001792044,0001792044-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-433,0001792044,0001792044-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-434,0001403161,0001403161-21-000060,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-434,0001403161,0001403161-21-000060,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-435,0000899689,0000899689-22-000006,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-435,0000899689,0000899689-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-436,0001396009,0001396009-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-436,0001396009,0001396009-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-437,0000011544,0000011544-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-437,0000011544,0000011544-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-438,0000277135,0000277135-22-000012,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-438,0000277135,0000277135-22-000012,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-439,0000783325,0000107815-22-000116,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-439,0000783325,0000107815-22-000116,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-440,0000943452,0001628280-22-002997,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-441,0000104169,0000104169-21-000033,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-441,0000104169,0000104169-21-000033,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-442,0001744489,0001744489-21-000220,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-442,0001744489,0001744489-21-000220,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-443,0000823768,0001558370-22-001179,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-443,0000823768,0001558370-22-001179,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-444,0001000697,0001193125-22-051509,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-444,0001000697,0001193125-22-051509,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-445,0000072971,0000072971-22-000096,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-445,0000072971,0000072971-22-000096,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-446,0000766704,0000766704-22-000013,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-446,0000766704,0000766704-22-000013,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-447,0000105770,0001628280-22-003342,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-447,0000105770,0001628280-22-003342,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-448,0001732845,0001564590-21-057778,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-448,0001732845,0001564590-21-057778,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-449,0000106040,0000106040-21-000040,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-449,0000106040,0000106040-21-000040,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-450,0000106535,0001564590-22-005707,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-450,0000106535,0001564590-22-005707,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-451,0000106640,0000106640-22-000015,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-451,0000106640,0000106640-22-000015,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-452,0000107263,0000107263-22-000007,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-452,0000107263,0000107263-22-000007,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-453,0001174922,0001174922-22-000031,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-453,0001174922,0001174922-22-000031,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-454,0000072903,0000072903-22-000010,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-454,0000072903,0000072903-22-000010,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-455,0001524472,0001524472-22-000009,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-455,0001524472,0001524472-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-456,0001041061,0001041061-22-000009,single_ai_sentence,AI-level values retained from one direct AI sentence
+S2021-456,0001041061,0001041061-22-000009,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-457,0000877212,0000877212-22-000026,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-458,0001136869,0001564590-22-007160,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-459,0000109380,0000109380-22-000072,denominator_zero,AI sentence count is zero; AI-level values are missing
+S2021-459,0000109380,0000109380-22-000072,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-460,0001555280,0001555280-22-000078,stem_collisions,ambiguous Porter stems excluded without score averaging
+S2021-461,0001065088,0001065088-22-000006,stem_collisions,ambiguous Porter stems excluded without score averaging
