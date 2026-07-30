@@ -1,0 +1,55 @@
+name: Recover excluded firm-years
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+      R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Audit identities and SEC filings
+        run: |
+          test -n "$SEC_USER_AGENT"
+          python scripts/recover_excluded_firm_years_2020_2025.py \
+            --output-dir outputs/recovery
+      - name: Process recovered firm-years only
+        run: |
+          for year in 2020 2021 2022 2023 2024 2025; do
+            manifest="outputs/recovery/processing_manifests/recovery_${year}.csv"
+            if [ -f "$manifest" ]; then
+              python scripts/run_yearly_10k_batch.py \
+                --report-year "$year" \
+                --batch-id 1 \
+                --manifest "$manifest" \
+                --sample-namespace sample_500 \
+                --run-collection \
+                --run-extraction \
+                --run-language \
+                --output-dir "outputs/recovery/processed/${year}"
+            fi
+          done
+      - name: Upload recovery artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: excluded-firm-year-recovery
+          path: outputs/recovery
+          if-no-files-found: error
+          retention-days: 14
