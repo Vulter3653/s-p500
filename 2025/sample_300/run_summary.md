@@ -1,0 +1,22 @@
+# 2025 Sample 300 Run Summary
+
+- workflow_run_id: 30526454303
+- workflow_url: https://github.com/Vulter3653/s-p500/actions/runs/30526454303
+- batch_2_status: success
+- batch_3_status: success
+- merge_job_status: success
+- manifest_rows: 300
+- combined_rows: 300
+- r2_rows: 300
+- new_r2_rows: 200
+- r2_uploaded: 200
+- r2_skipped: 0
+- r2_conflicts: 0
+- failed_rows: 0
+- warning_rows_new_batches: 223
+- ai_sentence_rows: 5364
+- ai_disclosure_firms: 289
+- ai_non_disclosure_firms: 11
+- single_ai_sentence_firms: 22
+- stem_collision_warning_firms: 300
+- version: 0.12.0
