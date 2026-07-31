@@ -16,6 +16,12 @@
 - 안전: 파일 내용·파일명·Drive 파일 ID는 변경하지 않으며, 동일 이름 목적지나 중복 폴더는 덮어쓰지 않고 실패로 기록한다. (codex)
 - 검증: 실행기 `py_compile`, workflow YAML parsing 및 `git diff --check`를 통과했다. Drive 실제 변경은 workflow dry-run 확인 후 execute에서만 수행한다. (codex)
 
+## 2026-07-31 - Google Drive raw HTML 파일명 변경 준비
+
+- 요구: 평탄화가 완료된 뒤 각 연도 leaf 폴더의 HTML 이름을 `0_기업명_SYMBOL_CIK.html` 형식으로 변경한다. 숫자는 해당 연도 manifest의 `sample_order - 1`이다. (codex)
+- 구현: `rename_google_drive_raw_html.py`와 별도 수동 workflow를 추가했다. 연도별 manifest의 기업명·ticker·CIK를 사용하며 파일 내용·file ID는 변경하지 않는다. (codex)
+- 안전: accession이 manifest와 일치하지 않거나 목적지 파일명이 충돌하면 해당 파일을 변경하지 않고 실패로 기록한다. (codex)
+
 ## 2026-07-31 - 2020–2025 기술통계·상관분석 산출
 
 - 실행: Actions run `30620803314`의 6개 연도 측정 job이 모두 성공했고 연도별 feature artifact를 확보했다. (codex)

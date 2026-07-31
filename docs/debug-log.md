@@ -7,6 +7,12 @@
 - 조치: `flatten_google_drive_raw_html.py`와 수동 실행 전용 workflow를 추가했다. 파일별 이동이 아니라 leaf 폴더의 parent만 변경하며, 중복 목적지·예상치 못한 폴더·비어 있지 않은 wrapper는 안전하게 중단한다. (codex)
 - 검증: Python compile과 YAML parsing을 통과했다. 실제 Drive 접근·dry-run·execute는 커밋 후 workflow에서 수행한다. (codex)
 
+## 2026-07-31 - Google Drive raw HTML 파일명 변경 준비
+
+- 요청: 폴더 평탄화 완료 후 파일명을 `0_기업명_SYMBOL_CIK.html` 형식으로 바꾼다. (codex)
+- 판단: 기존 Drive 파일은 accession 이름이고 migration 코드상 leaf 폴더는 CIK이므로, 연도별 sample manifest를 accession·CIK 연결의 source of truth로 사용한다. (codex)
+- 조치: 파일명만 변경하는 dry-run/execute workflow를 추가했다. 기존 파일 ID와 내용은 유지하고 중복 목적지·manifest 불일치는 중단한다. (codex)
+
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
 ## 2026-07-31 - Markdown 표시용 표 재생성 오류 수정
