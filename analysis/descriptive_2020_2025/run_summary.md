@@ -11,26 +11,39 @@
 
 ## 분석 표본
 
-전체 firm-year: 2,829행, 고유 기업: 545개
-연도별 행 수: [{'report_year': 2020, 'firm_year_count': 446}, {'report_year': 2021, 'firm_year_count': 462}, {'report_year': 2022, 'firm_year_count': 471}, {'report_year': 2023, 'firm_year_count': 479}, {'report_year': 2024, 'firm_year_count': 487}, {'report_year': 2025, 'firm_year_count': 484}]
-AI 공시 firm-year: 1,660개, AI 미공시 firm-year: 1,169개
+전체 관측치: 2,829 firm-year
+고유 기업: 545개
+균형 패널: 397개 기업
+불균형 패널: 148개 기업
+AI 공시 firm-year: 1,660개
+AI 미공시 firm-year: 1,169개
 
-## 확장 패널 결과
+|   보고연도 |   firm-year 수 |
+|-----------:|---------------:|
+|       2020 |            446 |
+|       2021 |            462 |
+|       2022 |            471 |
+|       2023 |            479 |
+|       2024 |            487 |
+|       2025 |            484 |
 
-기존 열은 변경하지 않고 신규 측정 변수만 결합했다. 상세 품질 수치는 `measurement_quality_summary.csv`에 기록했다.
+## 기존 변수 감사 결과
 
-## 기술통계 및 상관분석
+기존 패널 열과 측정값은 수정하지 않았다. 기존 열 변경 셀은 0개이다.
 
-기술통계표, 연도별 변화표, Pearson·Spearman 상관표 및 VIF표를 `tables/`에 생성했다.
+## 신규 변수
 
-## 그래프
+spaCy 기반 시제·수동태, AI Fog 및 텍스트 통제변수를 확장 패널에 결합했다. 재무·기업 통제변수는 이번 단계에서 수집하지 않았다.
 
-연도별 핵심 변수와 AI disclosure 그룹별 그림을 `figures/`에 생성했다.
+## 품질관리 결과
 
-## 결측 및 warning
+확장 패널 행 수 2,829, company-year·CIK-year·accession 중복 0, 신규 count 음수 0, share 범위 위반 0, infinity 0이다.
+warning firm-year: 2,729개
 
-AI 문장 0개에 대한 AI 수준 평균·비율과 전년 부재 lag는 결측으로 유지했다. 기존 warning은 관측치 삭제 없이 보존했다.
+## 생성 파일
+
+기술통계표 15개, 핵심 그래프 10개(PNG·SVG) 및 보조 그래프·보고서를 생성했다.
 
 ## 원본 보존
 
-기존 패널·연도별 결과·Google Drive 원본 HTML·R2 객체는 수정하지 않았다. SEC 재수집과 기존 정상 firm-year 재처리는 수행하지 않았다.
+기존 CSV·Parquet, Google Drive raw HTML, R2 객체와 기존 언어 측정 결과를 수정하지 않았다.
