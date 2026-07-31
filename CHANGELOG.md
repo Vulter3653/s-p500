@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 
+- Added: Google Drive 이전이 검증된 manifest의 R2 raw HTML key만 최대 1,000개 단위로 삭제하고 API 오류를 감사하는 수동 실행기와 GitHub Actions workflow를 추가했다. (codex)
 - Added: R2 manifest에 고정된 2020–2025 raw 10-K HTML을 overwrite 없이 Google Drive로 이전하고 size·SHA metadata를 검증하는 전용 실행기와 GitHub Actions workflow를 추가했다. (codex)
 - Analysis: SnowballC 0.7.0과 NLTK 3.10.0 ORIGINAL_ALGORITHM의 소규모 Porter fixture 36개를 직접 비교해 모두 동일함을 확인했으며, 기존 구체성 결과는 변경하지 않았다. (codex)
 - Added: Ubuntu R 4.3.3 환경과 CRAN archive의 SnowballC 0.7.0을 프로젝트 전용 library에 고정하는 설치·검증 스크립트를 추가했다. (codex)

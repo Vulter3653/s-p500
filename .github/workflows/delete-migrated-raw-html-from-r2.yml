@@ -1,0 +1,125 @@
+name: Delete migrated raw HTML from R2
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Validate only or execute manifest-pinned deletion
+        required: true
+        type: choice
+        options:
+          - dry_run
+          - execute
+        default: dry_run
+      source_run_id:
+        description: Successful Google Drive migration run
+        required: true
+        default: "30544560261"
+      artifact_name:
+        description: Migration audit artifact
+        required: true
+        default: r2-google-drive-migration-full
+      confirmation:
+        description: Required only for execute
+        required: false
+        default: ""
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: r2-raw-html-deletion
+  cancel-in-progress: false
+
+jobs:
+  delete:
+    name: ${{ inputs.mode == 'execute' && 'Delete manifest-pinned R2 raw HTML' || 'Dry-run R2 raw HTML deletion' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GH_TOKEN: ${{ github.token }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+      R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Validate execution confirmation
+        if: inputs.mode == 'execute'
+        env:
+          CONFIRMATION: ${{ inputs.confirmation }}
+        run: |
+          test "$CONFIRMATION" = "DELETE_R2_RAW_HTML_2829"
+
+      - name: Confirm required R2 secrets are injected
+        if: inputs.mode == 'execute'
+        shell: bash
+        run: |
+          missing=0
+          for name in R2_ACCESS_KEY_ID R2_SECRET_ACCESS_KEY R2_ENDPOINT_URL R2_BUCKET_NAME
+          do
+            if [[ -n "${!name:-}" ]]; then
+              echo "$name=set"
+            else
+              echo "$name=missing"
+              missing=1
+            fi
+          done
+          exit "$missing"
+
+      - name: Download migration artifact
+        env:
+          SOURCE_RUN_ID: ${{ inputs.source_run_id }}
+          ARTIFACT_NAME: ${{ inputs.artifact_name }}
+        run: |
+          mkdir -p /tmp/r2_drive_migration_artifact
+          gh run download "$SOURCE_RUN_ID" \
+            --name "$ARTIFACT_NAME" \
+            --dir /tmp/r2_drive_migration_artifact
+
+      - name: Confirm migration failure list is empty
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+          path = Path("/tmp/r2_drive_migration_artifact/migration_failed_cases.csv")
+          with path.open(encoding="utf-8-sig", newline="") as handle:
+              failures = list(csv.DictReader(handle))
+          if failures:
+              raise SystemExit(f"migration failure rows present: {len(failures)}")
+          print("migration_failed_rows=0")
+          PY
+
+      - name: Run deletion validation or execution
+        run: |
+          mode_flag="--dry-run"
+          if [[ "${{ inputs.mode }}" == "execute" ]]; then
+            mode_flag="--execute"
+          fi
+          python scripts/delete_migrated_raw_html_from_r2.py \
+            --manifest /tmp/r2_drive_migration_artifact/raw_html_google_drive_manifest.csv \
+            "$mode_flag" \
+            --expected-count 2829 \
+            --output-dir r2_deletion_audit
+
+      - name: Upload deletion audit artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: r2-raw-html-deletion-${{ inputs.mode }}
+          path: r2_deletion_audit/
+          if-no-files-found: error
+          retention-days: 30

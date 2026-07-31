@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-31 - R2 raw HTML 삭제 범위 고정
+
+- 문제 요약: Google Drive 이전을 완료한 뒤 R2 비용을 중단하려면 bucket 또는 prefix가 아니라 검증 완료 manifest의 정확한 2,829개 object key만 삭제해야 한다. (codex)
+- 확인: run `30544560261` artifact에서 manifest 2,829행, 고유 key 2,829개, 빈·중복 key 0개, 성공 상태 2,829개 및 failure CSV 데이터 행 0개를 확인했다. (codex)
+- 조치: 기본 비삭제, `--execute` 명시, 기대 행 수·상태·중복·빈 key fail-closed, 최대 1,000개 batch 및 응답 `Errors` 기록을 구현했다. workflow execute에는 `DELETE_R2_RAW_HTML_2829` 확인 문자열과 단일 concurrency group을 적용했다. (codex)
+- 검증: 실제 artifact dry run에서 2,829개가 모두 eligible이며 delete API 미호출을 확인했고, count 불일치·중복·빈 key·manifest 외 key 방지·API error 기록 mock test 6개가 통과했다. (codex)
+- 상태: 실제 R2 삭제는 workflow 코드를 원격 main에 반영한 뒤 단 한 번 실행하고 결과 artifact를 확인해야 한다. (codex)
+
 ## 2026-07-30 - Google Drive migration 연결 시험 분리
 
 - 문제 요약: Codespaces에는 Google OAuth 값이 없고 repository secrets에만 설정되어 있어 로컬에서 Drive 연결과 실제 이전을 검증할 수 없다. (codex)
