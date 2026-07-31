@@ -6,7 +6,7 @@ from unittest.mock import Mock
 
 from scripts.delete_migrated_raw_html_from_r2 import (
     delete_manifest_keys,
-    find_remaining_manifest_keys,
+    inspect_bucket_manifest_keys,
     load_and_validate_manifest,
 )
 
@@ -87,10 +87,12 @@ class DeleteMigratedRawHtmlFromR2Tests(unittest.TestCase):
             {"Contents": [{"Key": "target-b"}]},
         ]
         client.get_paginator.return_value = paginator
-        remaining = find_remaining_manifest_keys(
+        remaining, object_count, total_bytes = inspect_bucket_manifest_keys(
             client, "bucket", ["target-a", "target-b", "missing"]
         )
         self.assertEqual(remaining, ["target-a", "target-b"])
+        self.assertEqual(object_count, 3)
+        self.assertEqual(total_bytes, 0)
 
 
 if __name__ == "__main__":

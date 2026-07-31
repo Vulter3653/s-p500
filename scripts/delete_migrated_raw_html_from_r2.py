@@ -135,16 +135,22 @@ def delete_manifest_keys(client, bucket: str, keys: list[str]) -> tuple[list[dic
     return results, batch_count
 
 
-def find_remaining_manifest_keys(client, bucket: str, keys: list[str]) -> list[str]:
+def inspect_bucket_manifest_keys(
+    client, bucket: str, keys: list[str]
+) -> tuple[list[str], int, int]:
     target_keys = set(keys)
     remaining: list[str] = []
+    bucket_object_count = 0
+    bucket_total_bytes = 0
     paginator = client.get_paginator("list_objects_v2")
     for page in paginator.paginate(Bucket=bucket):
         for item in page.get("Contents", []):
+            bucket_object_count += 1
+            bucket_total_bytes += int(item.get("Size", 0))
             key = item.get("Key", "")
             if key in target_keys:
                 remaining.append(key)
-    return sorted(remaining)
+    return sorted(remaining), bucket_object_count, bucket_total_bytes
 
 
 def write_outputs(
@@ -217,9 +223,15 @@ def main() -> int:
 
     client = make_r2_client()
     if args.verify_absence:
-        remaining = find_remaining_manifest_keys(
+        remaining, bucket_object_count, bucket_total_bytes = inspect_bucket_manifest_keys(
             client, os.environ["R2_BUCKET_NAME"], keys
         )
+        validation.update({
+            "remaining_manifest_objects": len(remaining),
+            "bucket_object_count": bucket_object_count,
+            "bucket_total_bytes": bucket_total_bytes,
+            "manifest_external_object_count": bucket_object_count - len(remaining),
+        })
         results = [{
             "object_key": key,
             "delete_attempted": 0,
@@ -230,6 +242,9 @@ def main() -> int:
         } for key in remaining]
         write_outputs(args.output_dir, validation, results, 0, "verify_absence")
         print(f"remaining_manifest_objects={len(remaining)}")
+        print(f"bucket_object_count={bucket_object_count}")
+        print(f"bucket_total_bytes={bucket_total_bytes}")
+        print(f"manifest_external_object_count={bucket_object_count - len(remaining)}")
         return 1 if remaining else 0
 
     results, batch_count = delete_manifest_keys(client, os.environ["R2_BUCKET_NAME"], keys)

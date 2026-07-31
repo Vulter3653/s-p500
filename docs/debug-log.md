@@ -6,6 +6,7 @@
 
 - 후속 문제: 사용자가 R2 데이터가 남아 있음을 확인했다. 최초 구현은 `DeleteObjects`의 `Quiet=True` 응답에서 `Errors`가 없으면 성공으로 계산했지만 실제 객체 부재를 확인하지 않아 성공 판정 근거가 불충분했다. (codex)
 - 후속 조치: 전체 object 내용을 다운로드하거나 SHA를 재계산하지 않고, `ListObjectsV2` 결과와 manifest key 집합의 교집합만 계산하는 읽기 전용 `verify_absence` mode를 추가했다. 잔존 객체가 확인된 경우에만 해당 key 재삭제를 검토한다. (codex)
+- 실제 확인: verify run `30618948813`에서 manifest 대상 2,829개 중 R2 잔존 key는 0개였다. 사용자가 확인한 잔존 데이터의 성격을 구분하기 위해 동일 목록 응답에서 버킷 전체 객체 수와 총 bytes도 민감정보 없이 집계하도록 보강했다. (codex)
 - 문제 요약: Google Drive 이전을 완료한 뒤 R2 비용을 중단하려면 bucket 또는 prefix가 아니라 검증 완료 manifest의 정확한 2,829개 object key만 삭제해야 한다. (codex)
 - 확인: run `30544560261` artifact에서 manifest 2,829행, 고유 key 2,829개, 빈·중복 key 0개, 성공 상태 2,829개 및 failure CSV 데이터 행 0개를 확인했다. (codex)
 - 조치: 기본 비삭제, `--execute` 명시, 기대 행 수·상태·중복·빈 key fail-closed, 최대 1,000개 batch 및 응답 `Errors` 기록을 구현했다. workflow execute에는 `DELETE_R2_RAW_HTML_2829` 확인 문자열과 단일 concurrency group을 적용했다. (codex)
