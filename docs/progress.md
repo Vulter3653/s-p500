@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-31 - 2020–2025 기술통계용 확장 언어 변수 준비
+
+- 감사: 기존 2,829행·147열 패널에서 AI 공시, LM 7범주, report/AI concreteness, report Fog, 길이 및 숫자 비율을 확인해 재측정 대상에서 제외했다. (codex)
+- 입력: 연도별 기존 Actions artifact와 2025 pilot/recovery extraction에서 accession 고유 정제 텍스트 2,829개를 확보했으며 Google Drive raw HTML과 R2는 읽거나 변경하지 않았다. (codex)
+- 신규 방법: spaCy 3.8.7·en_core_web_sm 3.8.0 POS/dependency로 whole-report/AI 시제와 수동태를 측정하고 기존 deterministic heuristic으로 AI Fog를 생성한다. (codex)
+- smoke test: 연도별 AI 공시·미공시·문서 길이 차이를 포함한 18개 firm-year를 전체 파싱했다. 4 worker는 메모리로 종료되어 1 worker로 고정했으며, 최초 AI 연결 오류는 안정 company_id가 아닌 고유 accession으로 연결해 수정했다. (codex)
+- 다음 단계: 6개 연도 matrix job의 신규 측정 완료 후 기존 값 불변 2,829행 확장 패널, 기술통계, 상관관계, VIF, 한글 표·그래프·보고서를 생성한다. (codex)
+
 ## 2026-07-31 - Google Drive 이전 완료 R2 raw HTML 삭제 준비
 
 - 후속 확인: 최초 run의 `Errors=0`은 quiet 응답에 근거한 API 접수 결과일 뿐 실제 객체 부재 검증이 아니므로, manifest key의 R2 잔존 여부를 bucket 목록에서 읽기 전용으로 확인하는 `verify_absence` mode를 추가했다. (codex)

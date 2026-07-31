@@ -2,6 +2,13 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-31 - 확장 언어 측정 smoke test
+
+- 문제 1: spaCy dependency parser 4 worker가 긴 10-K를 동시에 처리하면서 `BrokenProcessPool`이 발생했다. 동일 18개 smoke 표본을 worker 1개로 재실행해 정상 완료했으며 전체 Actions도 연도별 job 내부 worker 1개로 고정했다. (codex)
+- 문제 2: 최초 smoke 결과에서 AI 문장이 모두 0으로 연결됐다. 패널의 안정 `company_id`와 연도별 source ID가 다르기 때문이며, 고유 accession을 기준으로 AI 문장 상세를 연결하도록 수정했다. (codex)
+- 입력 검증: 임시 extraction artifact와 저장소 pilot/recovery 텍스트를 합쳐 accession 2,829개가 패널 2,829행과 누락·중복 없이 일치한다. raw HTML 재다운로드·재추출은 수행하지 않는다. (codex)
+- 상태: 관련 fixture는 통과했으며 accession 수정 후 18개 smoke 결과를 재확인하고 6개 연도 병렬 전체 측정을 진행한다. (codex)
+
 ## 2026-07-31 - R2 raw HTML 삭제 범위 고정
 
 - 후속 문제: 사용자가 R2 데이터가 남아 있음을 확인했다. 최초 구현은 `DeleteObjects`의 `Quiet=True` 응답에서 `Errors`가 없으면 성공으로 계산했지만 실제 객체 부재를 확인하지 않아 성공 판정 근거가 불충분했다. (codex)

@@ -1,0 +1,95 @@
+name: Measure 2020-2025 descriptive language extensions
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: descriptive-language-extension-2020-2025
+  cancel-in-progress: false
+
+jobs:
+  measure:
+    name: Measure ${{ matrix.year }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - year: 2020
+            source_run: "30536764397"
+          - year: 2021
+            source_run: "30535111082"
+          - year: 2022
+            source_run: "30533585643"
+          - year: 2023
+            source_run: "30532069306"
+          - year: 2024
+            source_run: "30530297712"
+          - year: 2025
+            source_run: "30528839298"
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Download existing extraction artifacts
+        shell: bash
+        run: |
+          mkdir -p /tmp/descriptive_artifacts
+          if [[ "${{ matrix.year }}" == "2025" ]]; then
+            for batch in 2 3; do
+              gh run download 30526454303 \
+                --name "10k-2025-batch-$batch" \
+                --dir "/tmp/descriptive_artifacts/batch_$batch"
+            done
+            for batch in 4 5; do
+              gh run download 30528839298 \
+                --name "10k-2025-batch-$batch" \
+                --dir "/tmp/descriptive_artifacts/batch_$batch"
+            done
+          else
+            for batch in 1 2 3 4 5; do
+              gh run download "${{ matrix.source_run }}" \
+                --name "10k-${{ matrix.year }}-batch-$batch" \
+                --dir "/tmp/descriptive_artifacts/batch_$batch"
+            done
+          fi
+          if [[ "${{ matrix.year }}" == "2020" || "${{ matrix.year }}" == "2021" ]]; then
+            gh run download 30538773351 \
+              --name excluded-firm-year-recovery \
+              --dir /tmp/descriptive_artifacts/recovery
+          fi
+
+      - name: Measure tense, passive voice, and text controls
+        run: |
+          python scripts/measure_extended_language_features.py \
+            --panel panel_2020_2025/firm_year_language_panel.parquet \
+            --artifact-root /tmp/descriptive_artifacts \
+            --output "extended_features_${{ matrix.year }}.csv" \
+            --workers 1 \
+            --years "${{ matrix.year }}"
+
+      - name: Upload yearly feature artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: extended-language-features-${{ matrix.year }}
+          path: extended_features_${{ matrix.year }}.csv
+          if-no-files-found: error
+          retention-days: 30

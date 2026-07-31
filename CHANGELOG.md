@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 
+- Added: 2020–2025 firm-year 패널에 공개 spaCy POS/dependency 기반 시제·수동태와 AI Fog·텍스트 통제를 추가하는 연도별 병렬 측정 workflow 및 확장 패널 builder를 추가했다. (codex)
 - Fixed: R2 multi-delete의 quiet 응답만으로 성공을 추정하지 않고 bucket 목록과 migration manifest를 대조해 실제 잔존 객체 수를 확인하는 읽기 전용 검증 mode를 추가했다. (codex)
 - Added: Google Drive 이전이 검증된 manifest의 R2 raw HTML key만 최대 1,000개 단위로 삭제하고 API 오류를 감사하는 수동 실행기와 GitHub Actions workflow를 추가했다. (codex)
 - Added: R2 manifest에 고정된 2020–2025 raw 10-K HTML을 overwrite 없이 Google Drive로 이전하고 size·SHA metadata를 검증하는 전용 실행기와 GitHub Actions workflow를 추가했다. (codex)
