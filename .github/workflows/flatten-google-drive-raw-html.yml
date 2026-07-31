@@ -1,0 +1,70 @@
+name: Flatten Google Drive raw HTML folders
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Dry run or move folders
+        required: true
+        type: choice
+        options: [dry_run, execute]
+        default: dry_run
+      confirmation:
+        description: Required for execute mode
+        required: false
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+
+concurrency:
+  group: google-drive-raw-html-flattening
+  cancel-in-progress: false
+
+jobs:
+  flatten:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GOOGLE_DRIVE_CLIENT_ID: ${{ secrets.GOOGLE_DRIVE_CLIENT_ID }}
+      GOOGLE_DRIVE_CLIENT_SECRET: ${{ secrets.GOOGLE_DRIVE_CLIENT_SECRET }}
+      GOOGLE_DRIVE_REFRESH_TOKEN: ${{ secrets.GOOGLE_DRIVE_REFRESH_TOKEN }}
+      GOOGLE_DRIVE_ROOT_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_ROOT_FOLDER_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Check secrets without printing values
+        run: |
+          missing=0
+          for name in GOOGLE_DRIVE_CLIENT_ID GOOGLE_DRIVE_CLIENT_SECRET GOOGLE_DRIVE_REFRESH_TOKEN GOOGLE_DRIVE_ROOT_FOLDER_ID; do
+            if [[ -n "${!name:-}" ]]; then echo "$name=set"; else echo "$name=missing"; missing=1; fi
+          done
+          exit "$missing"
+      - name: Check execute confirmation
+        if: inputs.mode == 'execute'
+        run: |
+          if [[ "${{ inputs.confirmation }}" != "FLATTEN_GOOGLE_DRIVE_RAW_HTML" ]]; then
+            echo "confirmation mismatch"
+            exit 1
+          fi
+      - name: Flatten Drive folders
+        run: |
+          python scripts/flatten_google_drive_raw_html.py \
+            --years 2020,2021,2022,2023,2024,2025 \
+            --drive-root-folder-id "$GOOGLE_DRIVE_ROOT_FOLDER_ID" \
+            --mode "${{ inputs.mode }}" \
+            --remove-empty-wrappers \
+            --output-dir google_drive_flattening
+      - name: Upload flattening audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: google-drive-raw-html-flattening-${{ inputs.mode }}
+          path: google_drive_flattening/
+          if-no-files-found: error
+          retention-days: 30

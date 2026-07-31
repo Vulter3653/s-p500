@@ -1,5 +1,12 @@
 # Debug Log
 
+## 2026-07-31 - Google Drive raw HTML 폴더 구조 변경 준비
+
+- 요청: `연도/sample_500/html/raw/<leaf>/<raw HTML>` 구조를 `연도/<leaf>/<raw HTML>`로 변경한다. (codex)
+- 확인: 저장소의 기존 migration 코드가 leaf 폴더를 ticker가 아닌 CIK 값으로 생성한다. 따라서 이번 변경에서는 식별자 이름을 임의로 ticker로 바꾸지 않고 기존 leaf 폴더와 파일을 그대로 이동한다. (codex)
+- 조치: `flatten_google_drive_raw_html.py`와 수동 실행 전용 workflow를 추가했다. 파일별 이동이 아니라 leaf 폴더의 parent만 변경하며, 중복 목적지·예상치 못한 폴더·비어 있지 않은 wrapper는 안전하게 중단한다. (codex)
+- 검증: Python compile과 YAML parsing을 통과했다. 실제 Drive 접근·dry-run·execute는 커밋 후 workflow에서 수행한다. (codex)
+
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
 ## 2026-07-31 - Markdown 표시용 표 재생성 오류 수정

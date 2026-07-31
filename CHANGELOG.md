@@ -1,5 +1,7 @@
 # Changelog
 
+- Changed: Google Drive raw HTML 폴더를 연도 바로 아래 leaf 폴더로 평탄화하는 수동 workflow와 실행기를 추가했다. 파일 내용과 파일명은 변경하지 않고, 중복 목적지는 덮어쓰지 않는다. (codex)
+
 이 저장소의 모든 주요 변경 사항을 기록한다. 버전 형식은 Semantic Versioning을 따른다.
 
 ## [Unreleased]

@@ -9,6 +9,13 @@
 - 해석: AI 공시 포화, 연도 구성 효과, 2023년 전후 구조 변화, 제한적인 미래 조동사 측정, 상관·VIF 해석 주의사항을 보고서에 추가했다. (codex)
 - 검증: raw `nan`·소수점 연도·`p = 0.0000`·영문 원자료 열 제목 0개, 관련 테스트 7개 통과, 기존 확장 패널과 통계 CSV 변경 0건을 확인했다. (codex)
 
+## 2026-07-31 - Google Drive raw HTML 폴더 평탄화 준비
+
+- 확인: 기존 Google Drive migration 실행기는 `연도/sample_500/html/raw/<CIK>/<accession>.html` 구조를 사용하며 leaf 폴더 이름은 CIK이다. (codex)
+- 구현: leaf 폴더를 해당 연도 바로 아래로 이동하고 빈 `sample_500`·`html`·`raw` wrapper만 선택적으로 제거하는 수동 workflow와 실행기를 추가했다. (codex)
+- 안전: 파일 내용·파일명·Drive 파일 ID는 변경하지 않으며, 동일 이름 목적지나 중복 폴더는 덮어쓰지 않고 실패로 기록한다. (codex)
+- 검증: 실행기 `py_compile`, workflow YAML parsing 및 `git diff --check`를 통과했다. Drive 실제 변경은 workflow dry-run 확인 후 execute에서만 수행한다. (codex)
+
 ## 2026-07-31 - 2020–2025 기술통계·상관분석 산출
 
 - 실행: Actions run `30620803314`의 6개 연도 측정 job이 모두 성공했고 연도별 feature artifact를 확보했다. (codex)
