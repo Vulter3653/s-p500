@@ -9,6 +9,7 @@ on:
         type: choice
         options:
           - dry_run
+          - verify_absence
           - execute
         default: dry_run
       source_run_id:
@@ -65,7 +66,7 @@ jobs:
           test "$CONFIRMATION" = "DELETE_R2_RAW_HTML_2829"
 
       - name: Confirm required R2 secrets are injected
-        if: inputs.mode == 'execute'
+        if: inputs.mode != 'dry_run'
         shell: bash
         run: |
           missing=0
@@ -108,6 +109,8 @@ jobs:
           mode_flag="--dry-run"
           if [[ "${{ inputs.mode }}" == "execute" ]]; then
             mode_flag="--execute"
+          elif [[ "${{ inputs.mode }}" == "verify_absence" ]]; then
+            mode_flag="--verify-absence"
           fi
           python scripts/delete_migrated_raw_html_from_r2.py \
             --manifest /tmp/r2_drive_migration_artifact/raw_html_google_drive_manifest.csv \

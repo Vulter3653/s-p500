@@ -6,6 +6,7 @@ from unittest.mock import Mock
 
 from scripts.delete_migrated_raw_html_from_r2 import (
     delete_manifest_keys,
+    find_remaining_manifest_keys,
     load_and_validate_manifest,
 )
 
@@ -77,6 +78,19 @@ class DeleteMigratedRawHtmlFromR2Tests(unittest.TestCase):
         self.assertEqual(batches, 1)
         self.assertEqual(sum(row["delete_api_error"] for row in results), 1)
         self.assertEqual(results[1]["error_code"], "AccessDenied")
+
+    def test_absence_check_reports_only_manifest_keys(self):
+        client = Mock()
+        paginator = Mock()
+        paginator.paginate.return_value = [
+            {"Contents": [{"Key": "target-a"}, {"Key": "unrelated"}]},
+            {"Contents": [{"Key": "target-b"}]},
+        ]
+        client.get_paginator.return_value = paginator
+        remaining = find_remaining_manifest_keys(
+            client, "bucket", ["target-a", "target-b", "missing"]
+        )
+        self.assertEqual(remaining, ["target-a", "target-b"])
 
 
 if __name__ == "__main__":

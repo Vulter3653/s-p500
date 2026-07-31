@@ -4,6 +4,7 @@
 
 ## 2026-07-31 - Google Drive 이전 완료 R2 raw HTML 삭제 준비
 
+- 후속 확인: 최초 run의 `Errors=0`은 quiet 응답에 근거한 API 접수 결과일 뿐 실제 객체 부재 검증이 아니므로, manifest key의 R2 잔존 여부를 bucket 목록에서 읽기 전용으로 확인하는 `verify_absence` mode를 추가했다. (codex)
 - 기준: migration run `30544560261` artifact의 2,829행은 고유 object key 2,829개, `uploaded` 2,828개, `skipped_existing_match` 1개, size·SHA 검증 2,829개이며 실패·중복·빈 key가 없다. (codex)
 - 구현: prefix 또는 bucket 전체 삭제 없이 manifest key만 최대 1,000개씩 삭제하고 `--execute`에서만 R2 delete API를 호출하는 실행기와 confirmation이 필요한 수동 workflow를 추가했다. (codex)
 - 검증: 관련 mock test 6개, Python compile, workflow YAML parse, 실제 artifact dry run 및 `git diff --check`가 통과했다. dry run의 delete API 호출은 0회이며 전체 테스트는 실행하지 않았다. (codex)

@@ -135,6 +135,18 @@ def delete_manifest_keys(client, bucket: str, keys: list[str]) -> tuple[list[dic
     return results, batch_count
 
 
+def find_remaining_manifest_keys(client, bucket: str, keys: list[str]) -> list[str]:
+    target_keys = set(keys)
+    remaining: list[str] = []
+    paginator = client.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=bucket):
+        for item in page.get("Contents", []):
+            key = item.get("Key", "")
+            if key in target_keys:
+                remaining.append(key)
+    return sorted(remaining)
+
+
 def write_outputs(
     output_dir: Path,
     validation: dict[str, int | bool],
@@ -187,6 +199,7 @@ def parse_args() -> argparse.Namespace:
     mode = parser.add_mutually_exclusive_group(required=True)
     mode.add_argument("--dry-run", action="store_true")
     mode.add_argument("--execute", action="store_true")
+    mode.add_argument("--verify-absence", action="store_true")
     parser.add_argument("--expected-count", type=int, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
     return parser.parse_args()
@@ -203,6 +216,22 @@ def main() -> int:
         return 0
 
     client = make_r2_client()
+    if args.verify_absence:
+        remaining = find_remaining_manifest_keys(
+            client, os.environ["R2_BUCKET_NAME"], keys
+        )
+        results = [{
+            "object_key": key,
+            "delete_attempted": 0,
+            "delete_api_error": 1,
+            "error_code": "ObjectStillPresent",
+            "error_message": "manifest object remains in R2 after deletion run",
+            "deleted_at_utc": "",
+        } for key in remaining]
+        write_outputs(args.output_dir, validation, results, 0, "verify_absence")
+        print(f"remaining_manifest_objects={len(remaining)}")
+        return 1 if remaining else 0
+
     results, batch_count = delete_manifest_keys(client, os.environ["R2_BUCKET_NAME"], keys)
     write_outputs(args.output_dir, validation, results, batch_count, "execute")
     error_count = sum(int(row["delete_api_error"]) for row in results)
