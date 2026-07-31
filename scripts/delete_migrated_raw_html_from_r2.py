@@ -171,11 +171,14 @@ def write_outputs(
         writer.writerow(["metric", "value"])
         writer.writerows(summary.items())
     with (output_dir / "run_summary.md").open("w", encoding="utf-8") as handle:
-        handle.write("# R2 migrated raw HTML deletion\n\n")
+        handle.write("# Google Drive 이전 완료 R2 원본 HTML 삭제 결과\n\n")
+        handle.write("## 실행 결과\n\n")
         for key, value in summary.items():
             handle.write(f"- {key}: {str(value).lower() if isinstance(value, bool) else value}\n")
-        handle.write("- bucket deleted: no\n")
-        handle.write("- manifest-external objects targeted: no\n")
+        handle.write("\n## 보존 확인\n\n")
+        handle.write("- R2 버킷 삭제 여부: 아니요\n")
+        handle.write("- manifest 외 객체 삭제 대상 포함 여부: 아니요\n")
+        handle.write("- Google Drive 파일 수정 여부: 아니요\n")
 
 
 def parse_args() -> argparse.Namespace:

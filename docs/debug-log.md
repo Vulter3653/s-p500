@@ -8,7 +8,8 @@
 - 확인: run `30544560261` artifact에서 manifest 2,829행, 고유 key 2,829개, 빈·중복 key 0개, 성공 상태 2,829개 및 failure CSV 데이터 행 0개를 확인했다. (codex)
 - 조치: 기본 비삭제, `--execute` 명시, 기대 행 수·상태·중복·빈 key fail-closed, 최대 1,000개 batch 및 응답 `Errors` 기록을 구현했다. workflow execute에는 `DELETE_R2_RAW_HTML_2829` 확인 문자열과 단일 concurrency group을 적용했다. (codex)
 - 검증: 실제 artifact dry run에서 2,829개가 모두 eligible이며 delete API 미호출을 확인했고, count 불일치·중복·빈 key·manifest 외 key 방지·API error 기록 mock test 6개가 통과했다. (codex)
-- 상태: 실제 R2 삭제는 workflow 코드를 원격 main에 반영한 뒤 단 한 번 실행하고 결과 artifact를 확인해야 한다. (codex)
+- 실행 결과: workflow run `30618552630`은 2,829개 key를 1,000개 이하의 3개 batch로 delete 요청했고 응답 `Errors`는 0개였다. checkpoint 2,829행과 헤더만 있는 실패 CSV를 artifact로 확인했다. (codex)
+- 상태: 해결됨. 객체별 HEAD·SHA 재검증이나 전체 다운로드는 반복하지 않았고, Google Drive·기존 패널·분석 결과는 수정하지 않았다. (codex)
 
 ## 2026-07-30 - Google Drive migration 연결 시험 분리
 
