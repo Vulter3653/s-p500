@@ -1,0 +1,15 @@
+requested_variable,existing_column,existing_method,existing_coverage,new_measurement_required,notes
+AI 공시 여부,ai_disclosure_flag,기존 패널 값 재사용,1.0,0,기존 값 유지
+AI 직접 문장 수,ai_sentence_count,기존 패널 값 재사용,1.0,0,기존 값 유지
+AI 문장 비율,ai_sentence_ratio,기존 패널 값 재사용,1.0,0,기존 값 유지
+whole-report concreteness,report_concreteness_mean,기존 패널 값 재사용,1.0,0,기존 값 유지
+AI concreteness,ai_concreteness_mean,기존 패널 값 재사용,0.5864262990455992,0,기존 값 유지
+whole-report LM uncertainty,report_uncertainty_ratio,기존 패널 값 재사용,1.0,0,기존 값 유지
+AI LM uncertainty,ai_uncertainty_ratio,기존 패널 값 재사용,0.5867797808412867,0,기존 값 유지
+whole-report Fog Index,report_fog_index,기존 패널 값 재사용,1.0,0,기존 값 유지
+whole-report past/present/future,,,,1,spaCy 신규 측정
+AI past/present/future,,,,1,spaCy 신규 측정
+whole-report passive voice,,,,1,spaCy 신규 측정
+AI passive voice,,,,1,spaCy 신규 측정
+AI Fog Index,,,,1,spaCy 신규 측정
+재무·기업 통제변수,,,,0,현재 저장소에 신뢰할 수 있는 재무자료가 없어 보류

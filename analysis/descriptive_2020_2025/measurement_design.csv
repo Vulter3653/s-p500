@@ -1,0 +1,8 @@
+variable_name,concept,scope,numerator,denominator,method,missing_rule,zero_rule
+ai_disclosure,AI disclosure,firm-year,AI direct sentence count >= 1,없음,기존 ai_disclosure_flag 별칭,원자료 결측 유지,AI 문장 0이면 0
+past_tense_share,과거 시제,whole report,VBD count,분류 가능한 finite verb count,spaCy POS tag,분모 0이면 결측,count 0 유지
+present_tense_share,현재 시제,whole report,VBP/VBZ count,분류 가능한 finite verb count,spaCy POS tag,분모 0이면 결측,count 0 유지
+future_tense_share,미래 시제,whole report,will/shall/'ll AUX count,분류 가능한 finite verb count,spaCy POS tag,분모 0이면 결측,count 0 유지
+passive_voice_sentence_share,수동태,whole report,auxpass 또는 nsubjpass 문장 수,spaCy 문장 수,spaCy dependency parse,문장 수 0이면 결측,count 0 유지
+ai_fog_index,AI 문장 가독성,AI direct sentences,평균 문장 길이와 복잡 단어 비율의 결합,AI 문장·단어 수,기존 readability heuristic,AI 문장 0이면 결측,AI 문장 count 0 유지
+lm_uncertainty_share,LM uncertainty,whole report,기존 LM uncertainty count,기존 유효 token count,기존 Loughran–McDonald 결과,기존 결측 유지,기존 0 유지

@@ -149,6 +149,18 @@ def build(panel_path: Path, feature_paths: list[Path], output_dir: Path) -> pd.D
     pd.DataFrame(audit_rows).to_csv(
         output_dir / "variable_measurement_audit.csv", index=False, lineterminator="\n"
     )
+    design_rows = [
+        {"variable_name": "ai_disclosure", "concept": "AI disclosure", "scope": "firm-year", "numerator": "AI direct sentence count >= 1", "denominator": "없음", "method": "기존 ai_disclosure_flag 별칭", "missing_rule": "원자료 결측 유지", "zero_rule": "AI 문장 0이면 0"},
+        {"variable_name": "past_tense_share", "concept": "과거 시제", "scope": "whole report", "numerator": "VBD count", "denominator": "분류 가능한 finite verb count", "method": "spaCy POS tag", "missing_rule": "분모 0이면 결측", "zero_rule": "count 0 유지"},
+        {"variable_name": "present_tense_share", "concept": "현재 시제", "scope": "whole report", "numerator": "VBP/VBZ count", "denominator": "분류 가능한 finite verb count", "method": "spaCy POS tag", "missing_rule": "분모 0이면 결측", "zero_rule": "count 0 유지"},
+        {"variable_name": "future_tense_share", "concept": "미래 시제", "scope": "whole report", "numerator": "will/shall/'ll AUX count", "denominator": "분류 가능한 finite verb count", "method": "spaCy POS tag", "missing_rule": "분모 0이면 결측", "zero_rule": "count 0 유지"},
+        {"variable_name": "passive_voice_sentence_share", "concept": "수동태", "scope": "whole report", "numerator": "auxpass 또는 nsubjpass 문장 수", "denominator": "spaCy 문장 수", "method": "spaCy dependency parse", "missing_rule": "문장 수 0이면 결측", "zero_rule": "count 0 유지"},
+        {"variable_name": "ai_fog_index", "concept": "AI 문장 가독성", "scope": "AI direct sentences", "numerator": "평균 문장 길이와 복잡 단어 비율의 결합", "denominator": "AI 문장·단어 수", "method": "기존 readability heuristic", "missing_rule": "AI 문장 0이면 결측", "zero_rule": "AI 문장 count 0 유지"},
+        {"variable_name": "lm_uncertainty_share", "concept": "LM uncertainty", "scope": "whole report", "numerator": "기존 LM uncertainty count", "denominator": "기존 유효 token count", "method": "기존 Loughran–McDonald 결과", "missing_rule": "기존 결측 유지", "zero_rule": "기존 0 유지"},
+    ]
+    pd.DataFrame(design_rows).to_csv(
+        output_dir / "measurement_design.csv", index=False, lineterminator="\n"
+    )
 
     dictionary_rows = []
     old_dictionary = pd.read_csv("panel_2020_2025/panel_variable_dictionary.csv")
@@ -187,7 +199,10 @@ def build(panel_path: Path, feature_paths: list[Path], output_dir: Path) -> pd.D
         output_dir / "extended_variable_dictionary.csv", index=False, lineterminator="\n"
     )
 
-    shares = [column for column in extended if column.endswith(("_share", "_ratio", "_coverage"))]
+    # Existing ``*_ratio`` columns use their historical units and are not
+    # assumed to be 0--1.  The new standardized ``*_share``/coverage fields
+    # are the fields subject to the proportion-range check.
+    shares = [column for column in extended if column.endswith(("_share", "_coverage"))]
     counts = [column for column in extended if column.endswith("_count")]
     numeric = extended.select_dtypes(include=[np.number])
     quality = [

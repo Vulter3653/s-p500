@@ -4,6 +4,7 @@
 
 ## [Unreleased]
 
+- Analysis: 2020–2025년 2,829 firm-year 패널에 기존 측정값을 보존한 확장 패널, 시제·수동태·AI Fog 및 텍스트 통제변수, 기술통계·상관관계·VIF·한글 보고서와 그래프를 추가했다. (codex)
 - Added: 2020–2025 firm-year 패널에 공개 spaCy POS/dependency 기반 시제·수동태와 AI Fog·텍스트 통제를 추가하는 연도별 병렬 측정 workflow 및 확장 패널 builder를 추가했다. (codex)
 - Fixed: R2 multi-delete의 quiet 응답만으로 성공을 추정하지 않고 bucket 목록과 migration manifest를 대조해 실제 잔존 객체 수를 확인하는 읽기 전용 검증 mode를 추가했다. (codex)
 - Added: Google Drive 이전이 검증된 manifest의 R2 raw HTML key만 최대 1,000개 단위로 삭제하고 API 오류를 감사하는 수동 실행기와 GitHub Actions workflow를 추가했다. (codex)

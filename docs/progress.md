@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-31 - 2020–2025 기술통계·상관분석 산출
+
+- 실행: Actions run `30620803314`의 6개 연도 측정 job이 모두 성공했고 연도별 feature artifact를 확보했다. (codex)
+- 결과: 기존 2,829행·147개 열은 변경 없이 유지했으며 204개 열의 확장 패널, 기술통계표, Pearson·Spearman 상관표, VIF표, 연도별·동일 기업 변화표를 생성했다. (codex)
+- 표본: 연도별 행 수는 446, 462, 471, 479, 487, 484개이며 AI disclosure firm-year는 1,660개다. (codex)
+- 신규 측정: spaCy 3.8.7·en_core_web_sm 3.8.0 기반 시제·수동태와 기존 readability heuristic 기반 AI Fog를 사용했다. 원본 HTML 재수집·R2·Google Drive 변경은 없었다. (codex)
+- 검증: 기존 값 변경 셀 0, company-year·CIK-year·accession 중복 0, 신규 count 음수 0, share 범위 위반 0, infinity 0, AI 0문장 수준 구조적 결측 위반 0을 확인했다. 관련 테스트 4개와 `py_compile`, `git diff --check`를 실행했다. (codex)
+- 산출물: `analysis/descriptive_2020_2025/` 아래 확장 패널, variable dictionary, measurement audit/design, 품질 요약, CSV 표, PNG/SVG 그림 및 한글 Markdown 보고서를 생성했다. (codex)
+
 ## 2026-07-31 - 2020–2025 기술통계용 확장 언어 변수 준비
 
 - 감사: 기존 2,829행·147열 패널에서 AI 공시, LM 7범주, report/AI concreteness, report Fog, 길이 및 숫자 비율을 확인해 재측정 대상에서 제외했다. (codex)

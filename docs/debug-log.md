@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-07-31 - 기술통계 파이프라인 검증 보완
+
+- 문제: 초기 통계 quality check가 기존 `*_ratio` 열도 신규 0–1 share로 간주해 2,829건의 범위 위반을 보고했다. 기존 ratio 열은 역사적 단위를 유지해야 하므로 해당 검사는 잘못된 것이었다. (codex)
+- 원인: 신규 proportion 검사 대상에 기존 ratio 열을 포함한 구현 오류였다. (codex)
+- 조치: quality check를 신규 `*_share`와 `*_coverage` 열로 제한하고 기존 ratio 값은 변경하지 않았다. (codex)
+- 추가 문제: correlation fixture에서 자기 자신과의 상관을 계산할 때 pandas 중복 열 이름으로 `Series`가 반환됐다. 대각선 pair를 단일 열 DataFrame으로 처리하도록 수정했다. (codex)
+- 검증: `PYTHONPATH=. pytest -q tests/test_descriptive_analysis.py tests/test_extended_language_features.py` 결과 4 passed, 확장 패널 2,829행·204열, 기존 열 변경 셀 0, 중복·음수 count·share 위반·infinity 0을 확인했다. (codex)
+- 상태: 해결됨. (codex)
+
 ## 2026-07-31 - 확장 언어 측정 smoke test
 
 - 문제 1: spaCy dependency parser 4 worker가 긴 10-K를 동시에 처리하면서 `BrokenProcessPool`이 발생했다. 동일 18개 smoke 표본을 worker 1개로 재실행해 정상 완료했으며 전체 Actions도 연도별 job 내부 worker 1개로 고정했다. (codex)

@@ -1,0 +1,16 @@
+sample,method,variable_1,variable_2,correlation,pairwise_N,pvalue,absolute_correlation
+ai_disclosers,pearson,ai_past_tense_share,ai_present_tense_share,-0.8573562790659351,1593,0.0,0.8573562790659351
+ai_disclosers,pearson,ai_sentence_count,log1p_ai_sentence_count,0.8370888009815758,1660,0.0,0.8370888009815758
+ai_disclosers,spearman,ai_sentence_count,log1p_ai_sentence_count,0.9999999999999999,1660,0.0,0.9999999999999999
+ai_disclosers,spearman,ai_past_tense_share,ai_present_tense_share,-0.8031962564509249,1593,0.0,0.8031962564509249
+full_sample,pearson,past_tense_share,present_tense_share,-0.9775696184610573,2829,0.0,0.9775696184610573
+full_sample,pearson,log_report_word_count,report_word_count,0.9297205172276582,2829,0.0,0.9297205172276582
+full_sample,pearson,ai_past_tense_share,ai_present_tense_share,-0.8573562790659351,1593,0.0,0.8573562790659351
+full_sample,pearson,ai_sentence_count,log1p_ai_sentence_count,0.7953258362811312,2829,0.0,0.7953258362811312
+full_sample,pearson,ai_disclosure,log1p_ai_sentence_count,0.7819837720858317,2829,0.0,0.7819837720858317
+full_sample,spearman,ai_sentence_count,log1p_ai_sentence_count,1.0,2829,0.0,1.0
+full_sample,spearman,log_report_word_count,report_word_count,1.0,2829,0.0,1.0
+full_sample,spearman,past_tense_share,present_tense_share,-0.9739028553410227,2829,0.0,0.9739028553410227
+full_sample,spearman,ai_disclosure,ai_sentence_count,0.8855719138236507,2829,0.0,0.8855719138236507
+full_sample,spearman,ai_disclosure,log1p_ai_sentence_count,0.8855719138236507,2829,0.0,0.8855719138236507
+full_sample,spearman,ai_past_tense_share,ai_present_tense_share,-0.8031962564509249,1593,0.0,0.8031962564509249

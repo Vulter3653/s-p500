@@ -1,0 +1,11 @@
+check_name,value
+input_rows,2829
+output_rows,2829
+output_columns,204
+duplicate_company_year,0
+changed_existing_cells,0
+negative_new_count_values,0
+invalid_share_values,0
+infinity_values,0
+ai_zero_rows,1169
+ai_zero_nonmissing_ai_fog,0
