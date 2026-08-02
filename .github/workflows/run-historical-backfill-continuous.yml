@@ -79,6 +79,7 @@ jobs:
       batch_count: ${{ steps.plan.outputs.batch_count }}
       expected_batches: ${{ steps.plan.outputs.expected_batches }}
       minimum_year: ${{ steps.plan.outputs.minimum_year }}
+      manifest: ${{ steps.plan.outputs.manifest }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -114,7 +115,7 @@ jobs:
           chain_id = os.environ["CHAIN_ID"] or f"historical-{os.environ['START_YEAR']}"
           minimum = int(os.environ["MINIMUM_YEAR"]) or 1900
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as target:
-              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\n")
+              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\nmanifest={manifest}\n")
               target.write(f"expected_batches={','.join(map(str, range(1, count + 1)))}\nminimum_year={minimum}\n")
           print(json.dumps({"year": year, "rows": len(rows), "batch_count": count, "dry_run": os.environ["EXECUTE"].lower() != "true"}))
           PY
@@ -145,7 +146,7 @@ jobs:
       - name: Process valid batch
         if: matrix.batch_id <= fromJSON(needs.prepare.outputs.batch_count)
         run: |
-          args=(--report-year "${{ needs.prepare.outputs.current_year }}" --batch-id "${{ matrix.batch_id }}" --manifest "${{ inputs.sample_manifest }}" --sample-namespace "${{ inputs.sample_namespace }}" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/batch_${{ matrix.batch_id }}")
+          args=(--report-year "${{ needs.prepare.outputs.current_year }}" --batch-id "${{ matrix.batch_id }}" --manifest "${{ needs.prepare.outputs.manifest }}" --sample-namespace "${{ inputs.sample_namespace }}" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/batch_${{ matrix.batch_id }}")
           [[ "${{ inputs.run_collection }}" == "true" ]] && args+=(--run-collection)
           [[ "${{ inputs.run_extraction }}" == "true" ]] && args+=(--run-extraction)
           [[ "${{ inputs.run_language }}" == "true" ]] && args+=(--run-language)
