@@ -1,0 +1,87 @@
+name: Build full historical S&P 500 constituents
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_date:
+        description: Raw-source snapshot date (YYYY-MM-DD)
+        required: true
+        default: '2026-08-02'
+      start_year:
+        description: Optional lower research year; blank uses earliest supported year
+        required: false
+        default: ''
+      end_year:
+        description: Optional upper research year; blank uses latest supported year
+        required: false
+        default: ''
+      overwrite_existing:
+        description: Overwrite existing annual CSVs, including 2020-2025
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  reconstruct:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install constituent dependencies
+        run: python -m pip install 'pandas>=2.0,<3.0' 'lxml>=5.0,<7.0'
+      - name: Compile scripts
+        run: |
+          python -m py_compile scripts/build_annual_constituents.py
+          python -m py_compile scripts/build_full_historical_constituents.py
+      - name: Reconstruct source-supported years
+        shell: bash
+        run: |
+          args=(--source-date '${{ inputs.source_date }}')
+          if [[ -n '${{ inputs.start_year }}' ]]; then args+=(--start-year '${{ inputs.start_year }}'); fi
+          if [[ -n '${{ inputs.end_year }}' ]]; then args+=(--end-year '${{ inputs.end_year }}'); fi
+          if [[ '${{ inputs.overwrite_existing }}' == 'true' ]]; then args+=(--overwrite-existing); fi
+          python scripts/build_full_historical_constituents.py "${args[@]}"
+      - name: Validate generated files
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import pandas as pd
+
+          root = Path('.')
+          manifest_path = root / 'data/processed/full_historical_constituents_manifest.json'
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          rows = manifest['generated_snapshots']
+          if not rows:
+              raise SystemExit('no historical snapshots generated')
+          for item in rows:
+              securities = pd.read_csv(root / item['security_output'], dtype=str, keep_default_na=False)
+              companies = pd.read_csv(root / item['company_output'], dtype=str, keep_default_na=False)
+              if securities.empty or companies.empty:
+                  raise SystemExit(f"empty output for {item['sample_year']}")
+              if securities['symbol'].duplicated().any():
+                  raise SystemExit(f"duplicate symbol for {item['sample_year']}")
+              if not securities['sample_year'].eq(str(item['sample_year'])).all():
+                  raise SystemExit(f"sample year mismatch for {item['sample_year']}")
+          print(f"validated {len(rows)} generated annual snapshots")
+          PY
+      - name: Upload reconstructed snapshots
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-historical-constituents-${{ inputs.source_date }}
+          path: |
+            [0-9][0-9][0-9][0-9]/sp500_companies.csv
+            [0-9][0-9][0-9][0-9]/sp500_securities.csv
+            data/raw/wikipedia_sp500_${{ inputs.source_date }}.html
+            data/raw/sec_company_tickers_${{ inputs.source_date }}.json
+            data/raw/sp500_historical_components_${{ inputs.source_date }}.csv
+            data/processed/full_historical_constituents_manifest.json
+          if-no-files-found: error
+          retention-days: 30

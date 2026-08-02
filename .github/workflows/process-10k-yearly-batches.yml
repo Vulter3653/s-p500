@@ -34,12 +34,12 @@ on:
         type: boolean
         default: false
       batch_ids:
-        description: Comma-separated batch IDs to run
+        description: Comma-separated batch IDs to run; up to six batches for at most 503 firms
         required: true
         type: string
         default: "1,2,3,4,5"
       sample_namespace:
-        description: Private R2 namespace for this sample
+        description: Private R2 namespace for this sample (for example sample_503)
         required: true
         type: string
         default: "sample_500"

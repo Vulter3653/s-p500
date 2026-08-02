@@ -1,4 +1,25 @@
+## 2026-08-02 - continuous backfill 최소 구현 검증
+
+- 관찰: 원격 integration branch에는 handoff만 있었고 orchestration·state·panel append·dashboard 입력 일반화가 없었다. (codex)
+- 조치: 기존 yearly runner와 merge를 호출하는 단일 workflow, `ai_term_count` 결측 fail-closed 집계, zero-streak 상태 전이, 원자적 candidate panel writer 및 generator의 동적 입력 인수를 추가했다. (codex)
+- 검증: `pytest -q tests/test_continuous_backfill.py tests/test_yearly_batch_generalization.py`는 21건 통과했고, dry-run은 chain-state 파일·commit·dispatch 없이 종료했다. (codex)
+- 남은 위험: 실제 Actions 환경의 artifact 경로, GitHub expression, publication branch 동기화 및 historical constituent manifest 연결은 실제 dry-run에서 확인해야 한다. (codex)
+
+## 2026-08-02 - Codespace 종료 대비 continuous backfill 인수인계
+
+- 관찰: Codespace 종료가 임박해 연속 historical backfill의 orchestration, atomic panel publication 및 dashboard preview를 이 환경에서 구현·실행하기에는 안전한 검증 시간이 부족하다. (codex)
+- 조치: 실제 외부 쓰기 없이 원격 `codex/historical-backfill-continuous` branch에 인수인계 문서와 재접속 명령을 보존했다. runner PR #3 fixture Actions 성공 상태와 보호 대상 파일을 명시했다. (codex)
+- 제한: 실제 SEC 요청, R2/Google Drive 쓰기, annual run, self-dispatch 및 Cloudflare preview는 수행하지 않았다. 다음 Codespace에서 schema·CLI를 재확인한 뒤 구현해야 한다. (codex)
+
 # Debug Log
+
+## 2026-08-02 - yearly runner의 503개 표본·6개 batch 일반화
+
+- 관찰: 기존 `run_yearly_10k_batch.py`는 `batch_id`를 1–5로 제한하고 임시 HTML·텍스트 경로를 `2025/pilot_100`으로 고정했다. `merge_yearly_10k_batches.py`의 기본 기대 batch도 1–5였다. (codex)
+- 원인: 100개 단위 분할 자체는 존재했지만 전체 manifest 상한·전체 중복/결측 검증·batch 6 범위 metadata·연도/namespace 경로 전달이 없어 501–503개 historical 표본을 안전하게 처리할 수 없었다. (codex)
+- 조치: 전체 manifest를 최대 503개로 fail-closed 검증하고 `ceil(n/100)`으로 batch 수를 계산했다. 동적 `report_year/sample_namespace` stage 경로를 collection·R2 download·extraction·language에 전달하고, merge에서 batch range overlap과 summary metadata를 검증한다. (codex)
+- 검증: `pytest -q tests/test_yearly_batch_generalization.py` 16 passed, `PYTHONPATH=. pytest -q tests/test_10k_text_extraction.py tests/test_html_download.py tests/test_yearly_batch_generalization.py tests/test_pilot_sampling.py tests/test_pilot_replacement.py` 33 passed, 4개 script `py_compile` 및 `git diff --check` 통과. 외부 네트워크·R2·Drive 쓰기 없음. (codex)
+- 상태: 코드와 fixture 검증은 완료했으나 `.git` 읽기 전용으로 branch/commit/push는 보류되었다. (codex)
 
 ## 2026-08-02 - 연구보고서 Figure 통합 검증
 
@@ -356,3 +377,14 @@
 
 - 조치: 회귀계수·t-stat을 포함하지 않는 설계표도 현재 화면에 불필요하다는 요청에 따라 제거했다. (codex)
 - 상태: Table 1 기술통계표와 기존 측정 설명만 남겼다. (codex)
+# 2026-08-02 - 503개 runner 원격 검증선 분리
+
+- 관찰: runner 코드는 원격 branch `codex/generalize-yearly-10k-runner-503`의 `24fb65d`에 보존되어 있었으나, dashboard와 독립된 fixture 전용 PR 검증 workflow와 새 Codespaces 인수인계 문서가 없었다. (codex)
+- 조치: 외부 secret이나 collection flag 없이 compile·`tests/test_yearly_batch_generalization.py`만 실행하는 `.github/workflows/test-yearly-runner-generalization.yml`을 추가하고, 원격 branch 재개 절차를 `docs/handoff-runner-503.md`에 기록했다. (codex)
+- 제한: 이 환경은 `.git/FETCH_HEAD` 쓰기가 차단되어 `git fetch`를 수행할 수 없고, GitHub CLI 토큰이 만료되어 PR은 연결된 GitHub 도구로 생성한다. (codex)
+
+# 2026-08-02 - runner fixture CI의 pytest 의존성 누락
+
+- 관찰: PR #3의 Actions run `30741636264`에서 requirements 설치와 Python compile은 성공했으나 `pytest -q tests/test_yearly_batch_generalization.py`가 `pytest: command not found`로 실패했다. (codex)
+- 원인: 저장소 `requirements.txt`에는 runtime 의존성만 있고 pytest가 포함되어 있지 않다. (codex)
+- 조치: runner 전용 workflow에서 requirements 설치 후 `python -m pip install pytest`를 추가한다. 실제 SEC/R2/Google Drive 접근은 여전히 없다. (codex)

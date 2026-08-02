@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Apply the validated language pipeline to the 2025 pilot sample of 100 firms."""
+"""Apply the validated language pipeline to one prepared yearly batch."""
 
 from __future__ import annotations
 
@@ -41,13 +41,31 @@ FULL_ROOT = Path(
         ROOT / "2025/pilot_100/language_full_sample",
     )
 ).resolve()
-SAMPLE_PATH = ROOT / "2025/pilot_100/sample/final_analysis_sample_100.csv"
-EXTRACTION_PATH = (
-    ROOT
-    / "2025/pilot_100/text/extraction_results/company_text_extraction_results.csv"
-)
-SENTENCE_PATH = ROOT / "2025/pilot_100/text/analysis_tables/sentences.csv.gz"
-PARAGRAPH_PATH = ROOT / "2025/pilot_100/text/analysis_tables/paragraphs.csv.gz"
+SAMPLE_PATH = Path(
+    os.environ.get(
+        "S_P500_LANGUAGE_SAMPLE_PATH",
+        ROOT / "2025/pilot_100/sample/final_analysis_sample_100.csv",
+    )
+).resolve()
+EXTRACTION_PATH = Path(
+    os.environ.get(
+        "S_P500_LANGUAGE_EXTRACTION_PATH",
+        ROOT
+        / "2025/pilot_100/text/extraction_results/company_text_extraction_results.csv",
+    )
+).resolve()
+SENTENCE_PATH = Path(
+    os.environ.get(
+        "S_P500_LANGUAGE_SENTENCE_PATH",
+        ROOT / "2025/pilot_100/text/analysis_tables/sentences.csv.gz",
+    )
+).resolve()
+PARAGRAPH_PATH = Path(
+    os.environ.get(
+        "S_P500_LANGUAGE_PARAGRAPH_PATH",
+        ROOT / "2025/pilot_100/text/analysis_tables/paragraphs.csv.gz",
+    )
+).resolve()
 LM_PATH = (
     REPOSITORY_ROOT
     / "references/dictionaries/loughran_mcdonald_master_dictionary/"

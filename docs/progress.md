@@ -1,4 +1,27 @@
+## 2026-08-02 - continuous backfill 최소 구현
+
+- 구현: `.github/workflows/run-historical-backfill-continuous.yml`에 prepare·최대 6개 process-batches·finalize-and-dispatch 구조를 추가했다. 기본값은 dry-run이며 `execute=true`와 명시적 confirmation 없이는 외부 쓰기와 dispatch를 수행하지 않는다. (codex)
+- 구현: `scripts/continuous_backfill.py`가 실제 `ai_term_count`를 사용해 결측을 0으로 오인하지 않고, 3년 연속 검증 0 상태 전이와 원자적 CSV·Parquet candidate append를 처리한다. (codex)
+- 구현: `generate_web_analysis_data.py`가 `--panel`, `--analysis-dir`, `--start-year`, `--end-year`를 받아 historical candidate 입력을 사용할 수 있게 했다. (codex)
+- 검증: continuous fixture 4건과 runner 일반화 테스트를 합쳐 21건 통과, Python compile, workflow YAML parse, dry-run no-write, `git diff --check`를 확인했다. (codex)
+- 제한: 실제 SEC/R2/Google Drive 수집, historical manifest 생성, publication branch push 및 self-dispatch는 아직 실행하지 않았다. (codex)
+
+## 2026-08-02 - 연속 historical backfill 인수인계 보존
+
+- 조치: `codex/historical-backfill-continuous` 원격 branch를 runner 구현 기준에서 생성하고 `docs/handoff-historical-backfill-continuous.md`를 커밋했다. 2019부터 과거 방향으로 계속 진행하고 완전히 검증된 3개 연속 `annual_ai_keyword_count=0`에서만 종료하는 요구사항, candidate panel·dashboard preview·self-dispatch 순서를 기록했다. (codex)
+- 상태: Codespace 종료 대비 원격 보존 완료. 실제 historical 수집, panel 갱신, dashboard publication, SEC/R2/Drive 쓰기 및 main 병합은 아직 수행하지 않았다. (codex)
+- 다음: 새 Codespace에서 PR #2·PR #3와 실제 schema/CLI를 재감사한 뒤 fixture/mock·dry-run을 먼저 구현하고 검증한다. 사용자 승인 전에는 2019 실제 실행을 dispatch하지 않는다. (codex)
+
 # Project Progress and Session Handoff
+
+## 2026-08-02 - 503개 표본·6개 batch runner 일반화
+
+- 변경: `scripts/run_yearly_10k_batch.py`에 `MAX_SAMPLE_SIZE=503`, `BATCH_SIZE=100`, `MAX_BATCH_COUNT=6`을 적용하고 전체 manifest의 중복·결측·Form·보고연도와 상한을 시작 시 검증한다. (codex)
+- 변경: 503개 행을 100·100·100·100·100·3으로 원래 manifest 순서대로 분할하며 batch 6을 허용하고 batch 7·0·음수와 504개·0개 manifest를 거부한다. (codex)
+- 변경: `extract_10k_analysis_text.py`와 `run_language_full_sample.py`가 runner가 전달하는 연도·sample namespace 경로를 사용할 수 있도록 선택적 경로 인수를 추가했다. 기존 2025 기본 경로는 유지한다. (codex)
+- 변경: `merge_yearly_10k_batches.py`가 최대 6개 batch summary의 범위 겹침과 manifest 행 수를 검증하고 batch 순서를 보존한다. (codex)
+- 검증: 503개 fixture·batch 6·batch coverage·runner summary·merge summary 테스트 16건 및 기존 HTML/extraction/download/pilot 관련 테스트 33건이 통과했다. `py_compile`과 `git diff --check`도 통과했다. (codex)
+- 제한: `.git/refs`가 읽기 전용으로 마운트되어 별도 branch 생성, commit 및 push는 이 환경에서 수행하지 못했다. 실제 SEC/R2/Google Drive 쓰기와 historical backfill은 수행하지 않았다. (codex)
 
 ## 2026-08-02 - 논문용 Figure 웹 통합
 
@@ -339,3 +362,9 @@
 
 - 변경: 사용자의 요청에 따라 대시보드 Table 2 결정요인 분석 설계표를 제거했다. (codex)
 - 유지: 실제 산출값을 사용하는 Table 1 기술통계표, 수식·측정 방법 및 기존 패널 분석 결과는 유지한다. (codex)
+# 2026-08-02 - 503개 runner 원격 인수인계 및 fixture CI
+
+- 추가: `.github/workflows/test-yearly-runner-generalization.yml`이 runner 관련 파일 변경 시 fixture·mock 테스트와 Python compile만 실행하도록 구성했다. `contents: read`, runner 전용 concurrency, 14일 artifact 보존을 사용하며 SEC·R2·Google Drive secret을 주입하지 않는다. (codex)
+- 추가: `docs/handoff-runner-503.md`에 원격 branch, 상수, dashboard와의 작업선 분리, 새 Codespaces 재접속 명령 및 historical 실행 전 조건을 기록했다. (codex)
+- 상태: runner branch `24fb65d` 기반 작업을 PR로 보존하며 main에는 병합하지 않는다. 실제 historical 수집과 외부 저장소 쓰기는 실행하지 않는다. (codex)
+- 후속: PR #3 첫 CI run `30741636264`는 pytest 미설치로 실패했으며, workflow에 pytest 설치를 추가해 재실행한다. (codex)

@@ -1,4 +1,18 @@
+## 2026-08-02
+
+- Added: 비용을 줄이기 위한 단일 continuous historical backfill workflow, `ai_term_count` 기반 3년 연속 0 종료 상태 전이, 원자적 candidate panel append 및 dashboard generator 입력 경로 일반화를 구현했다. 실제 historical 실행은 별도 승인 전까지 수행하지 않는다. (codex)
+
+## 2026-08-02
+
+- Added: Codespace 종료 후 재개할 수 있도록 `codex/historical-backfill-continuous` integration branch의 연속 historical backfill 인수인계를 원격 문서로 고정했다. 실제 SEC·R2·Google Drive 실행과 main 병합은 수행하지 않았다. (codex)
+
 # Changelog
+
+## 2026-08-02
+
+- Changed: yearly 10-K runner가 firm-level manifest를 최대 503개까지 검증하고 100개 단위 최대 6개 batch로 순서 보존 분할하도록 일반화했다. 기존 R2 overwrite 방지와 2025 경로 호환성은 유지한다. (codex)
+- Changed: batch runner의 임시 HTML·텍스트·언어 경로를 `report_year/sample_namespace` 기준으로 계산하고, extraction·language 단계가 해당 동적 경로를 사용하도록 연결했다. (codex)
+- Added: six-batch summary range 검증과 503개 fixture 기반 batch coverage 테스트를 추가했다. 실제 SEC·R2·Google Drive 쓰기는 수행하지 않았다. (codex)
 
 ## 2026-08-02
 
@@ -147,3 +161,6 @@
 - Added: 저장소 작업, 기록 보존, 검증 및 완료 보고 기준을 정의한 `AGENTS.md`를 추가했다. (codex)
 - Added: 변경 이력, 진행 상황, 디버그 및 데이터 분석 기록 방식을 정의한 작성 규칙을 추가했다. (codex)
 - Added: 버전, 진행 상황 및 디버그 기록을 위한 초기 관리 파일을 추가했다. (codex)
+# Unreleased
+
+- Added: runner branch 인수인계를 위한 fixture 전용 GitHub Actions와 Codespaces 재접속 문서를 추가했다. dashboard 및 실제 SEC/R2/Google Drive 실행과 분리했다. (codex)
