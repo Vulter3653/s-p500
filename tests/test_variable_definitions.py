@@ -1,4 +1,5 @@
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -30,3 +31,10 @@ def test_dashboard_navigation_contains_research_pages():
     app = (ROOT / "web/src/App.jsx").read_text()
     for page in ("#variables", "#methods", "#results", "#reproducibility", "#limitations"):
         assert page in app
+
+
+def test_display_text_uses_full_loughran_mcdonald_name():
+    paths = [ROOT / "web/src/App.jsx", ROOT / "config/variable_definitions.yaml"]
+    paths.extend((ROOT / "web/docs").glob("*.md"))
+    for path in paths:
+        assert not re.search(r"\bLM\b", path.read_text()), path

@@ -1,5 +1,11 @@
 # Debug Log
 
+## 2026-08-02 - Loughran–McDonald 축약 표기 제거
+
+- 문제: 웹 설명과 자동 생성 변수 정의에 `LM` 축약이 남아 있어 공식 명칭 표기가 일관되지 않았다.
+- 조치: 사용자 표시 문구와 수식을 `Loughran–McDonald`로 통일하고 generic variable display name도 `lm` token을 공식 명칭으로 확장했다.
+- 검증: UI·config·웹 Markdown에서 standalone `LM` 검색 0건, pytest 9건과 frontend build 통과. 데이터 열 이름은 변경하지 않았다.
+
 ## 2026-08-02 - 전체 평균 및 연구 설명 확장
 
 - 문제: 전체 연도 카드가 연도별 평균의 단순평균을 사용했고, 방법론·결과·재현성·한계 설명이 별도 문서에만 축약되어 있었다.

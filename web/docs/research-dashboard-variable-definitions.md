@@ -171,16 +171,16 @@
 
 ## 패널 D. Loughran–McDonald 변수
 
-### `lm_uncertainty_share` — LM uncertainty 비율
+### `lm_uncertainty_share` — Loughran–McDonald uncertainty 비율
 
-**상세 정의:** Loughran–McDonald financial dictionary의 Uncertainty 범주에 일치한 유효 token 수를 전체 유효 LM token 수로 나눈 상대 비중이다. 심리 상태가 아니라 금융공시 어휘의 비중이다.
+**상세 정의:** Loughran–McDonald financial dictionary의 Uncertainty 범주에 일치한 유효 token 수를 전체 유효 Loughran–McDonald token 수로 나눈 상대 비중이다. 심리 상태가 아니라 금융공시 어휘의 비중이다.
 
 **분석 수준:** Whole 10-K report
-**수식:** `LM Uncertainty Shareᵢₜ = Uncertainty Token Countᵢₜ / Eligible LM Token Countᵢₜ`
+**수식:** `Loughran–McDonald Uncertainty Shareᵢₜ = Uncertainty Token Countᵢₜ / Eligible Loughran–McDonald Token Countᵢₜ`
 **분자:** report_uncertainty_count
 **분모:** report_total_eligible_word_count
 **단위:** Proportion
-**토큰 규칙:** Existing LM eligible tokenization and normalization
+**토큰 규칙:** 기존 Loughran–McDonald 적격 tokenization 및 normalization 규칙
 **문장 규칙:** All included report sentences
 **사전/NLP:** Loughran–McDonald Master Dictionary
 **전처리:** Existing lowercase/token normalization; category active rules
@@ -191,7 +191,7 @@
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`
 **Measurement script:** `scripts/run_language_full_sample.py, scripts/build_extended_language_panel.py`
 **검증:** Non-missing proportion within [0, 1].
-**해석:** Relative use of LM uncertainty vocabulary.
+**해석:** Loughran–McDonald uncertainty 어휘의 상대적 사용 비중이다.
 **한계:** Dictionary matching ignores local syntax, negation and polysemy.
 
 ## 패널 E. 시제 변수
@@ -1216,7 +1216,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_total_lm_matched_word_count` — Ai Total Lm Matched Word Count
+### `ai_total_lm_matched_word_count` — Ai Total Loughran–McDonald Matched Word Count
 
 **상세 정의:** ai_total_lm_matched_word_count is retained from the validated extended panel without remeasurement.
 
@@ -2573,7 +2573,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `report_total_lm_matched_word_count` — Report Total Lm Matched Word Count
+### `report_total_lm_matched_word_count` — Report Total Loughran–McDonald Matched Word Count
 
 **상세 정의:** report_total_lm_matched_word_count is retained from the validated extended panel without remeasurement.
 
@@ -2642,7 +2642,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_ai_status` — Lm Ai Status
+### `lm_ai_status` — Loughran–McDonald Ai Status
 
 **상세 정의:** lm_ai_status is retained from the validated extended panel without remeasurement.
 
@@ -2665,7 +2665,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_report_status` — Lm Report Status
+### `lm_report_status` — Loughran–McDonald Report Status
 
 **상세 정의:** lm_report_status is retained from the validated extended panel without remeasurement.
 
@@ -4390,7 +4390,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_positive_share` — Lm Positive Share
+### `lm_positive_share` — Loughran–McDonald Positive Share
 
 **상세 정의:** lm_positive_share is retained from the validated extended panel without remeasurement.
 
@@ -4413,7 +4413,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_negative_share` — Lm Negative Share
+### `lm_negative_share` — Loughran–McDonald Negative Share
 
 **상세 정의:** lm_negative_share is retained from the validated extended panel without remeasurement.
 
@@ -4436,7 +4436,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_litigious_share` — Lm Litigious Share
+### `lm_litigious_share` — Loughran–McDonald Litigious Share
 
 **상세 정의:** lm_litigious_share is retained from the validated extended panel without remeasurement.
 
@@ -4459,7 +4459,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_strong_modal_share` — Lm Strong Modal Share
+### `lm_strong_modal_share` — Loughran–McDonald Strong Modal Share
 
 **상세 정의:** lm_strong_modal_share is retained from the validated extended panel without remeasurement.
 
@@ -4482,7 +4482,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_weak_modal_share` — Lm Weak Modal Share
+### `lm_weak_modal_share` — Loughran–McDonald Weak Modal Share
 
 **상세 정의:** lm_weak_modal_share is retained from the validated extended panel without remeasurement.
 
@@ -4505,7 +4505,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `lm_constraining_share` — Lm Constraining Share
+### `lm_constraining_share` — Loughran–McDonald Constraining Share
 
 **상세 정의:** lm_constraining_share is retained from the validated extended panel without remeasurement.
 
@@ -4528,7 +4528,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_positive_share` — Ai Lm Positive Share
+### `ai_lm_positive_share` — Ai Loughran–McDonald Positive Share
 
 **상세 정의:** ai_lm_positive_share is retained from the validated extended panel without remeasurement.
 
@@ -4551,7 +4551,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_negative_share` — Ai Lm Negative Share
+### `ai_lm_negative_share` — Ai Loughran–McDonald Negative Share
 
 **상세 정의:** ai_lm_negative_share is retained from the validated extended panel without remeasurement.
 
@@ -4574,7 +4574,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_uncertainty_share` — Ai Lm Uncertainty Share
+### `ai_lm_uncertainty_share` — Ai Loughran–McDonald Uncertainty Share
 
 **상세 정의:** ai_lm_uncertainty_share is retained from the validated extended panel without remeasurement.
 
@@ -4597,7 +4597,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_litigious_share` — Ai Lm Litigious Share
+### `ai_lm_litigious_share` — Ai Loughran–McDonald Litigious Share
 
 **상세 정의:** ai_lm_litigious_share is retained from the validated extended panel without remeasurement.
 
@@ -4620,7 +4620,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_strong_modal_share` — Ai Lm Strong Modal Share
+### `ai_lm_strong_modal_share` — Ai Loughran–McDonald Strong Modal Share
 
 **상세 정의:** ai_lm_strong_modal_share is retained from the validated extended panel without remeasurement.
 
@@ -4643,7 +4643,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_weak_modal_share` — Ai Lm Weak Modal Share
+### `ai_lm_weak_modal_share` — Ai Loughran–McDonald Weak Modal Share
 
 **상세 정의:** ai_lm_weak_modal_share is retained from the validated extended panel without remeasurement.
 
@@ -4666,7 +4666,7 @@
 **해석:** Interpret according to the source variable dictionary.
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
 
-### `ai_lm_constraining_share` — Ai Lm Constraining Share
+### `ai_lm_constraining_share` — Ai Loughran–McDonald Constraining Share
 
 **상세 정의:** ai_lm_constraining_share is retained from the validated extended panel without remeasurement.
 

@@ -26,7 +26,7 @@ SEC 요청은 User-Agent와 속도 제한을 적용하고, response bytes·파�
 
 ## 7. 언어 측정
 
-구체성은 `scripts/measure_linguistic_concreteness.py`의 Brysbaert 사전, SMART stopword 제거, Porter stemming과 unique-stem fallback을 따른다. LM 범주는 Loughran–McDonald 사전의 유효 token 비율로 계산한다. tense와 passive voice는 `spaCy` POS·dependency 규칙을 사용하며, Fog와 문서 길이는 `scripts/measure_readability.py` 및 기존 확장 측정 script를 따른다. 모든 변수의 상세 수식은 `research-dashboard-variable-definitions.md`와 `config/variable_definitions.yaml`에 있다.
+구체성은 `scripts/measure_linguistic_concreteness.py`의 Brysbaert 사전, SMART stopword 제거, Porter stemming과 unique-stem fallback을 따른다. Loughran–McDonald 범주는 해당 금융사전의 유효 token 비율로 계산한다. tense와 passive voice는 `spaCy` POS·dependency 규칙을 사용하며, Fog와 문서 길이는 `scripts/measure_readability.py` 및 기존 확장 측정 script를 따른다. 모든 변수의 상세 수식은 `research-dashboard-variable-definitions.md`와 `config/variable_definitions.yaml`에 있다.
 
 ## 8. 패널 구성
 

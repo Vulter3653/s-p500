@@ -2,6 +2,12 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - Loughran–McDonald 표기 통일
+
+- 변경: UI, 변수 정의 metadata 및 생성 Markdown에서 표시용 `LM`을 `Loughran–McDonald`로 변경했다. (codex)
+- 호환: 실제 데이터 열의 `lm_` 접두사는 column 호환성을 위해 변경하지 않았다. (codex)
+- 검증: standalone `LM` 표시 0건, 관련 테스트 9건 및 frontend build 통과. (codex)
+
 ## 2026-08-02 - 논문 보고용 대시보드 설명 및 결과 페이지 확장
 
 - 수정: 전체 연도 `ai_sentence_count` 카드를 연도별 단순평균이 아닌 전체 descriptive statistics 평균과 연결했다. (codex)

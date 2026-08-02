@@ -79,8 +79,9 @@ def generic_definition(column: str) -> dict:
         unit, formula = "Binary indicator", f"{column} = source-defined indicator"
     else:
         unit, formula = "Source value", f"{column} = copied source value"
+    display_parts = ["Loughran–McDonald" if part.lower() == "lm" else part.title() for part in column.split("_")]
     return {
-        "display_name": column.replace("_", " ").title(), "group": "Source / Derived",
+        "display_name": " ".join(display_parts), "group": "Source / Derived",
         "analysis_level": "Firm-year", "definition": f"{column} is retained from the validated extended panel without remeasurement.",
         "conceptual_meaning": "Source-defined panel value.", "operationalization": "Value copied from the source extended panel.",
         "formula": formula, "numerator": "Source-defined or not applicable", "denominator": "Source-defined or not applicable",

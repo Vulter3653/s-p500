@@ -1309,7 +1309,7 @@
     "variable": "ai_net_tone_by_words"
   },
   {
-    "display_name": "Ai Total Lm Matched Word Count",
+    "display_name": "Ai Total Loughran–McDonald Matched Word Count",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_total_lm_matched_word_count is retained from the validated extended panel without remeasurement.",
@@ -3172,7 +3172,7 @@
     "variable": "report_sentiment_word_coverage"
   },
   {
-    "display_name": "Report Total Lm Matched Word Count",
+    "display_name": "Report Total Loughran–McDonald Matched Word Count",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "report_total_lm_matched_word_count is retained from the validated extended panel without remeasurement.",
@@ -3265,7 +3265,7 @@
     "variable": "concreteness_status"
   },
   {
-    "display_name": "Lm Ai Status",
+    "display_name": "Loughran–McDonald Ai Status",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_ai_status is retained from the validated extended panel without remeasurement.",
@@ -3296,7 +3296,7 @@
     "variable": "lm_ai_status"
   },
   {
-    "display_name": "Lm Report Status",
+    "display_name": "Loughran–McDonald Report Status",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_report_status is retained from the validated extended panel without remeasurement.",
@@ -5908,7 +5908,7 @@
     "variable": "fog_index"
   },
   {
-    "display_name": "Lm Positive Share",
+    "display_name": "Loughran–McDonald Positive Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_positive_share is retained from the validated extended panel without remeasurement.",
@@ -5939,7 +5939,7 @@
     "variable": "lm_positive_share"
   },
   {
-    "display_name": "Lm Negative Share",
+    "display_name": "Loughran–McDonald Negative Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_negative_share is retained from the validated extended panel without remeasurement.",
@@ -5970,17 +5970,17 @@
     "variable": "lm_negative_share"
   },
   {
-    "display_name": "LM uncertainty 비율",
+    "display_name": "Loughran–McDonald uncertainty 비율",
     "group": "Loughran–McDonald",
     "analysis_level": "Whole 10-K report",
-    "definition": "Loughran–McDonald financial dictionary의 Uncertainty 범주에 일치한 유효 token 수를 전체 유효 LM token 수로 나눈 상대 비중이다. 심리 상태가 아니라 금융공시 어휘의 비중이다.",
+    "definition": "Loughran–McDonald financial dictionary의 Uncertainty 범주에 일치한 유효 token 수를 전체 유효 Loughran–McDonald token 수로 나눈 상대 비중이다. 심리 상태가 아니라 금융공시 어휘의 비중이다.",
     "conceptual_meaning": "보고서에서 uncertainty 범주 어휘가 차지하는 비중이다.",
     "operationalization": "report_uncertainty_ratio를 표준 별칭으로 연결한다.",
-    "formula": "LM Uncertainty Shareᵢₜ = Uncertainty Token Countᵢₜ / Eligible LM Token Countᵢₜ",
+    "formula": "Loughran–McDonald Uncertainty Shareᵢₜ = Uncertainty Token Countᵢₜ / Eligible Loughran–McDonald Token Countᵢₜ",
     "numerator": "report_uncertainty_count",
     "denominator": "report_total_eligible_word_count",
     "unit": "Proportion",
-    "token_rule": "Existing LM eligible tokenization and normalization",
+    "token_rule": "기존 Loughran–McDonald 적격 tokenization 및 normalization 규칙",
     "sentence_rule": "All included report sentences",
     "method": "Loughran–McDonald Master Dictionary",
     "preprocessing": "Existing lowercase/token normalization; category active rules",
@@ -5999,7 +5999,7 @@
       "scripts/build_extended_language_panel.py"
     ],
     "validation_rule": "Non-missing proportion within [0, 1].",
-    "interpretation": "Relative use of LM uncertainty vocabulary.",
+    "interpretation": "Loughran–McDonald uncertainty 어휘의 상대적 사용 비중이다.",
     "limitation": "Dictionary matching ignores local syntax, negation and polysemy.",
     "aliases": [
       "ai_lm_uncertainty_share"
@@ -6007,7 +6007,7 @@
     "variable": "lm_uncertainty_share"
   },
   {
-    "display_name": "Lm Litigious Share",
+    "display_name": "Loughran–McDonald Litigious Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_litigious_share is retained from the validated extended panel without remeasurement.",
@@ -6038,7 +6038,7 @@
     "variable": "lm_litigious_share"
   },
   {
-    "display_name": "Lm Strong Modal Share",
+    "display_name": "Loughran–McDonald Strong Modal Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_strong_modal_share is retained from the validated extended panel without remeasurement.",
@@ -6069,7 +6069,7 @@
     "variable": "lm_strong_modal_share"
   },
   {
-    "display_name": "Lm Weak Modal Share",
+    "display_name": "Loughran–McDonald Weak Modal Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_weak_modal_share is retained from the validated extended panel without remeasurement.",
@@ -6100,7 +6100,7 @@
     "variable": "lm_weak_modal_share"
   },
   {
-    "display_name": "Lm Constraining Share",
+    "display_name": "Loughran–McDonald Constraining Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "lm_constraining_share is retained from the validated extended panel without remeasurement.",
@@ -6131,7 +6131,7 @@
     "variable": "lm_constraining_share"
   },
   {
-    "display_name": "Ai Lm Positive Share",
+    "display_name": "Ai Loughran–McDonald Positive Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_positive_share is retained from the validated extended panel without remeasurement.",
@@ -6162,7 +6162,7 @@
     "variable": "ai_lm_positive_share"
   },
   {
-    "display_name": "Ai Lm Negative Share",
+    "display_name": "Ai Loughran–McDonald Negative Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_negative_share is retained from the validated extended panel without remeasurement.",
@@ -6193,7 +6193,7 @@
     "variable": "ai_lm_negative_share"
   },
   {
-    "display_name": "Ai Lm Uncertainty Share",
+    "display_name": "Ai Loughran–McDonald Uncertainty Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_uncertainty_share is retained from the validated extended panel without remeasurement.",
@@ -6224,7 +6224,7 @@
     "variable": "ai_lm_uncertainty_share"
   },
   {
-    "display_name": "Ai Lm Litigious Share",
+    "display_name": "Ai Loughran–McDonald Litigious Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_litigious_share is retained from the validated extended panel without remeasurement.",
@@ -6255,7 +6255,7 @@
     "variable": "ai_lm_litigious_share"
   },
   {
-    "display_name": "Ai Lm Strong Modal Share",
+    "display_name": "Ai Loughran–McDonald Strong Modal Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_strong_modal_share is retained from the validated extended panel without remeasurement.",
@@ -6286,7 +6286,7 @@
     "variable": "ai_lm_strong_modal_share"
   },
   {
-    "display_name": "Ai Lm Weak Modal Share",
+    "display_name": "Ai Loughran–McDonald Weak Modal Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_weak_modal_share is retained from the validated extended panel without remeasurement.",
@@ -6317,7 +6317,7 @@
     "variable": "ai_lm_weak_modal_share"
   },
   {
-    "display_name": "Ai Lm Constraining Share",
+    "display_name": "Ai Loughran–McDonald Constraining Share",
     "group": "Source / Derived",
     "analysis_level": "Firm-year",
     "definition": "ai_lm_constraining_share is retained from the validated extended panel without remeasurement.",

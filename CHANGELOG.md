@@ -1,5 +1,7 @@
 # Changelog
 
+- Changed: 웹 화면과 생성 문서의 표시용 `LM` 축약을 `Loughran–McDonald`로 통일하고, `lm_` 데이터 열 이름만 호환성을 위해 유지했다. (codex)
+
 - Expanded: 전체 연도 평균을 source 전체 평균으로 연결하고, 실제 source 경로 검증·결과/재현성/한계 페이지·추가 JSON/CSV 산출물을 연구 대시보드에 추가했다. (codex)
 
 - Fixed: 실제 descriptive statistics 열 이름과 화면 renderer의 별칭 불일치로 발생한 초기 렌더링 예외를 수정하고, 변수 정의 페이지의 문자열·목록 metadata를 모두 안전하게 표시하도록 보완했다. (codex)
