@@ -12,6 +12,8 @@ async function openAndAudit(page, path, screenshotPath) {
   const response = await page.goto(`${path}?diagnostic=1`, { waitUntil: "networkidle", timeout: 120000 });
   console.log(JSON.stringify({ httpStatus: response?.status(), consoleErrors, pageErrors, failedRequests }));
   await page.screenshot({ path: screenshotPath, fullPage: true });
+  const artifactName = screenshotPath.includes("mobile") ? "production-report-mobile-with-figures.png" : "production-report-desktop-with-figures.png";
+  await page.screenshot({ path: `artifacts/${artifactName}`, fullPage: true });
   expect(response?.status()).toBe(200);
   expect(pageErrors).toEqual([]);
   expect(consoleErrors).toEqual([]);
