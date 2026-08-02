@@ -121,8 +121,6 @@ tbody th { color: var(--ink); font-weight: 700; }
 .paper-table tbody th small { display: block; margin-top: 3px; color: var(--muted); font-size: .67rem; font-weight: 400; }
 .paper-table code { color: var(--ink); font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .72rem; }
 .table-note { margin: 13px 0 0; color: var(--muted); font-size: .73rem; line-height: 1.6; }
-.model-table { min-width: 850px; }
-.model-table td:last-child { color: #9a6b32; font-weight: 700; }
 .result-body { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 18px; }
 .result-body div { display: grid; gap: 2px; padding-bottom: 7px; border-bottom: 1px solid #edf1f4; }
 .result-body div strong { color: var(--ink); font-size: .73rem; }

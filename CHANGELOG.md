@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- Reverted: 대시보드에서 Table 2 결정요인 분석 설계표를 제거하고 Table 1 기술통계표만 유지했다. (codex)
 - Reverted: `문헌정리.pdf`를 문헌 배경으로 표시한 대시보드 영역을 제거하고, 해당 자료는 수식·측정 형식 확인에만 사용하도록 정정했다. (codex)
 - Added: 논문 표 형식에 맞춘 `Table 1 · Descriptive statistics` 요약표와, 계수를 임의로 채우지 않는 `Table 2 · Determinants design` 분석 설계표를 대시보드에 추가했다. (codex)
 - Added: `문헌정리.pdf`를 검토해 AI 공시, 금융 텍스트 사전, 10-K 가독성·복잡성, 미래지향·구체성 문헌과 본 연구의 측정 위치를 대시보드에 추가했다. (codex)
