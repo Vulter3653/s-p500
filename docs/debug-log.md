@@ -6,7 +6,7 @@
 - 원인: figure 집계 CSV가 생성되었어도 frontend 데이터 로더와 Figure 컴포넌트가 연결되어 있지 않았다. (codex)
 - 조치: `scripts/generate_web_analysis_data.py`가 기존 figure 집계·집단·within-firm CSV와 분석표를 읽어 `figure-data.json`, `figure-manifest.json`, 다운로드 CSV를 생성하도록 추가하고, React에 방어적인 SVG Figure 컴포넌트를 통합했다. (codex)
 - 검증: source SHA·열·생성 script가 manifest에 존재하고, local production preview에서 desktop/mobile pageerror·console error·failed request가 모두 0이며 7개 Figure의 SVG·figcaption·source details·CSV download가 DOM에 표시된다. (codex)
-- 남은 위험: 실제 production 재배포 전에는 새 Figure가 공개 URL에 반영되지 않았으며, 현재 Codespaces Chromium은 `page.pdf` 호출 시 sandbox 종료 오류로 PDF를 만들지 못했다. (codex)
+- 남은 위험: 커밋 `6d6f68c` push 후 production root의 새 asset 반영은 HTTP로 확인했지만, 원격 Playwright는 `sandbox_host_linux.cc` 종료 오류로 실행되지 않았다. local preview 브라우저 검증은 통과했으며, 현재 Codespaces Chromium은 `page.pdf`도 같은 이유로 생성하지 못했다. (codex)
 
 ## 2026-08-02 - production blank screen의 첫 pageerror 확인
 

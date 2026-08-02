@@ -5,7 +5,7 @@
 - 감사: `analysis/descriptive_2020_2025/figures/`의 기존 PNG·SVG·집계 CSV를 확인하고 본문·부록·표 전용 사용 결정을 `web/docs/figure-audit.md`에 기록했다. (codex)
 - 구현: 기존 figure 집계값을 수정하지 않고 `figure-data.json`·`figure-manifest.json`과 source CSV 다운로드를 생성하며, React SVG Figure 7종을 연구보고서의 결과 절에 통합했다. (codex)
 - 검증: Figure source·manifest 테스트 2건을 포함한 관련 pytest 14건, generator `py_compile`, Vite build 및 local Playwright desktop/mobile(pageerror·console error·failed request 0, Figure SVG·caption·source·download 확인)를 실행했다. (codex)
-- 미실행: production 배포와 production 브라우저 재검증은 아직 남아 있다. Chromium PDF 생성은 현재 환경의 sandbox 종료 오류로 생성하지 못했다. (codex)
+- 배포: 커밋 `6d6f68c` push 후 production root가 새 Vite asset을 제공하는 것을 확인했다. production 브라우저 테스트는 현재 환경의 `sandbox_host_linux.cc` 종료 오류로 실행되지 않았고, local preview desktop/mobile 검증은 통과했다. Chromium PDF 생성도 같은 sandbox 제약으로 보류했다. (codex)
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 

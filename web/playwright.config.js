@@ -7,6 +7,7 @@ export default defineConfig({
   reporter: process.env.CI ? [["line"], ["html", { outputFolder: "playwright-report", open: "never" }]] : "line",
   use: {
     baseURL: process.env.PLAYWRIGHT_BASE_URL || "https://s-p500.pages.dev",
+    launchOptions: { args: ["--no-sandbox", "--disable-setuid-sandbox"] },
     trace: "retain-on-failure",
     screenshot: "only-on-failure",
   },
