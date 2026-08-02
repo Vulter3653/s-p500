@@ -10,6 +10,12 @@
 - 검증: generator·py_compile·Vite production build·preview HTTP smoke test와 생성 파일 응답 200을 확인했다. 브라우저 엔진과 Playwright가 Codespaces에 없어 screenshot 기반 검증은 아직 수행하지 못했다. (codex)
 - 상태: 기존 패널·언어 결과·원본 HTML은 수정하지 않았으며, 다음 단계는 커밋 후 Cloudflare Pages production 배포와 실제 브라우저 screenshot 확인이다. (codex)
 
+## 2026-08-02 - 연구보고서형 화면 production 반영 확인
+
+- 배포: `5595ff3`을 `origin/main`에 push했고 `https://s-p500.pages.dev/`가 HTTP 200을 반환했다. 최신 asset에서 연구 요약·표본 구축·변수 측정·분석 결과·Fog Index 수식·Loughran–McDonald 표기를 확인했다. (codex)
+- 검증: production의 분석 JSON·변수 정의 JSON·source manifest·감사 Markdown endpoint가 모두 HTTP 200이며 print CSS가 포함되어 있다. (codex)
+- 제한: Codespaces에 Chromium·Firefox·Playwright가 없어 desktop/mobile screenshot과 실제 브라우저 상호작용 검증은 수행하지 못했다. (codex)
+
 ## 2026-08-02 - Loughran–McDonald 표기 통일
 
 - 변경: UI, 변수 정의 metadata 및 생성 Markdown에서 표시용 `LM`을 `Loughran–McDonald`로 변경했다. (codex)

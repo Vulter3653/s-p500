@@ -8,6 +8,12 @@
 - 검증: `python scripts/generate_web_analysis_data.py`, `python -m py_compile scripts/generate_web_analysis_data.py`, `cd web && npm run build`, Vite preview HTTP smoke test를 통과했다. 로컬 환경에 Chromium/Playwright가 없어 실제 screenshot 브라우저 테스트는 보류했다.
 - 상태: 코드 수준의 루트 재구성은 해결됨. production 배포와 브라우저 screenshot은 push 이후 별도 확인이 필요하다.
 
+## 2026-08-02 - production asset 반영과 브라우저 검증 환경 제한
+
+- 확인: `5595ff3` push 후 `https://s-p500.pages.dev/`가 HTTP 200을 반환했고, 초기 캐시 응답 이후 최신 `index-wyBcecrj.js`와 `index-DXe8XX9p.css` asset으로 갱신되었다.
+- 확인 내용: 최신 JavaScript asset에 `연구 요약`, `표본 구축`, `변수 측정`, `분석 결과`, `Fog Index 구현식`, `Loughran–McDonald`가 포함되고 CSS에 `@media print`가 포함된다.
+- 제한: 실행 환경에 브라우저 실행 파일과 Playwright가 모두 없어 실제 DOM screenshot·mobile viewport·navigation click 검증은 재현할 수 없었다. HTTP endpoint와 정적 asset 검증으로 대체했으며, 이는 사용자 지정 PASS 조건의 브라우저 검증을 충족하지 않는다.
+
 ## 2026-08-02 - Loughran–McDonald 축약 표기 제거
 
 - 문제: 웹 설명과 자동 생성 변수 정의에 `LM` 축약이 남아 있어 공식 명칭 표기가 일관되지 않았다.
