@@ -205,6 +205,9 @@ def write_definition_markdown(path: Path, definitions: list[dict]) -> None:
 
 def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYSIS,
              start_year: int | None = None, end_year: int | None = None) -> dict:
+    output = output.resolve()
+    panel_path = panel_path.resolve()
+    analysis_dir = analysis_dir.resolve()
     panel = pd.read_parquet(panel_path) if panel_path.suffix == ".parquet" else pd.read_csv(panel_path)
     required_sources = source_paths(analysis_dir)
     missing_sources = [str(path) for path in required_sources.values() if not path.exists()]
