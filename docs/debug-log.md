@@ -251,3 +251,9 @@
 - 조치: `web/src/App.jsx`에 탐색 영역, 핵심 메시지 headline, KPI, CSS 막대그래프, 표본 표와 연구 주석을 구성하고 `web/src/styles.css`에 데스크탑 우선 반응형 스타일을 적용했다. (codex)
 - 안전: 디자인 이미지를 생성하지 않았고, 기존 집계 fallback 값과 API 경로를 유지했다. (codex)
 - 검증: 빌드 및 diff 검증 후 Cloudflare Pages에서 최신 `main` 커밋을 재배포해야 한다. (codex)
+## 2026-08-02 - 패널 분석값의 대시보드 표시 누락
+
+- 문제 요약: 초기 대시보드는 연도별 관측치·AI 공시 수만 표시하여 확장 패널의 언어 지표와 구조적 요약을 충분히 노출하지 않았다. (codex)
+- 원인: UI scaffold가 API fallback용 최소 연도 배열만 사용하고, `analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv`의 확장 열을 연결하지 않았다. (codex)
+- 조치: 패널 산출값에서 생성한 표시용 요약 모듈을 추가하고 연도별 언어 지표 표·핵심 변화·상관관계 주의사항을 대시보드에 연결했다. (codex)
+- 검증: `npm run build` 성공, `git diff --check` 통과. (codex)

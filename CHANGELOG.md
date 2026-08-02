@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- Changed: 2020–2025 확장 패널의 연도별 AI 공시, AI 직접 문장 수, 구체성, 시제, LM uncertainty, Fog Index 및 주요 상관관계를 대시보드에 반영했다. (codex)
 - Changed: Cloudflare Pages 대시보드를 데스크탑 발표 화면에 가까운 sidebar·headline·KPI·차트·표 구조로 재배치하고, 검색해 확인한 UI 원칙에 맞춰 여백·위계·대비·일관성을 정리했다. (codex)
 - Added: Cloudflare Pages 루트 빌드 설정과 호환되는 `web/` React + Vite dashboard scaffold를 추가했다. 루트 `npm run build`는 `web`을 빌드해 `dist/`를 생성하며, 비밀정보와 raw HTML은 포함하지 않는다. (codex)
 - Docs: 루트·연도별 README, 인수인계, repository structure, sample definition 및 constituent method 문서를 현재 2020–2025 완료 상태와 2019–2017 역사 확장 계획에 맞게 정리했다. `VERSION`은 `0.12.0`으로 유지했다. (codex)

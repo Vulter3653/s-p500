@@ -237,3 +237,9 @@
 - 원칙: 참고한 UI 지침의 공간을 통한 그룹화, 명확한 시각적 위계, 목적 있는 색상, 단일 sans-serif, 좌측 정렬 및 충분한 행간을 적용했다. (codex)
 - 범위: 분석값·raw HTML·기존 패널은 변경하지 않았으며 새 이미지나 외부 자산을 추가하지 않았다. (codex)
 - 검증: `npm run build`, `git diff --check`를 실행한다. (codex)
+## 2026-08-02 - 2020–2025 패널 분석값 대시보드 반영
+
+- 변경: `analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv`와 패널 품질 요약에 기반한 표시용 분석 요약을 `web/src/data/analysisSummary.js`로 추가했다. (codex)
+- 화면: AI 공시 비율, firm-year 수, AI 직접 문장 평균, 균형·불균형 패널 수, 구체성·시제·uncertainty·Fog Index 및 상관관계 주의사항을 대시보드에 표시한다. (codex)
+- 안전: 원본 패널·분석 CSV·raw HTML은 변경하지 않고, API 응답이 부분 요약만 제공해도 정적 패널값과 병합하도록 처리했다. (codex)
+- 검증: `npm run build`, `git diff --check` 통과. (codex)
