@@ -2,6 +2,12 @@
 
 ## 2026-08-02
 
+- Changed: yearly 10-K runner가 firm-level manifest를 최대 503개까지 검증하고 100개 단위 최대 6개 batch로 순서 보존 분할하도록 일반화했다. 기존 R2 overwrite 방지와 2025 경로 호환성은 유지한다. (codex)
+- Changed: batch runner의 임시 HTML·텍스트·언어 경로를 `report_year/sample_namespace` 기준으로 계산하고, extraction·language 단계가 해당 동적 경로를 사용하도록 연결했다. (codex)
+- Added: six-batch summary range 검증과 503개 fixture 기반 batch coverage 테스트를 추가했다. 실제 SEC·R2·Google Drive 쓰기는 수행하지 않았다. (codex)
+
+## 2026-08-02
+
 - Added: 기존 분석 figure CSV를 source로 사용하는 논문용 반응형 SVG Figure 7종, Figure manifest, source CSV 다운로드 및 웹 Figure 감사 문서를 추가했다. (codex)
 - Changed: 연구보고서의 분석 결과 절에 AI 공시 확산·강도·구체성·시제·Loughran–McDonald·효과크기·동일 기업 변화 Figure를 통합했다. (codex)
 - Tested: Figure source 검증, Python 관련 테스트, Vite build 및 local preview Playwright desktop/mobile 검증을 실행했다. production HTTP asset 반영은 확인했으나 원격 Chromium sandbox 오류로 DOM 검증은 보류했다. (codex)

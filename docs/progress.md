@@ -1,5 +1,14 @@
 # Project Progress and Session Handoff
 
+## 2026-08-02 - 503개 표본·6개 batch runner 일반화
+
+- 변경: `scripts/run_yearly_10k_batch.py`에 `MAX_SAMPLE_SIZE=503`, `BATCH_SIZE=100`, `MAX_BATCH_COUNT=6`을 적용하고 전체 manifest의 중복·결측·Form·보고연도와 상한을 시작 시 검증한다. (codex)
+- 변경: 503개 행을 100·100·100·100·100·3으로 원래 manifest 순서대로 분할하며 batch 6을 허용하고 batch 7·0·음수와 504개·0개 manifest를 거부한다. (codex)
+- 변경: `extract_10k_analysis_text.py`와 `run_language_full_sample.py`가 runner가 전달하는 연도·sample namespace 경로를 사용할 수 있도록 선택적 경로 인수를 추가했다. 기존 2025 기본 경로는 유지한다. (codex)
+- 변경: `merge_yearly_10k_batches.py`가 최대 6개 batch summary의 범위 겹침과 manifest 행 수를 검증하고 batch 순서를 보존한다. (codex)
+- 검증: 503개 fixture·batch 6·batch coverage·runner summary·merge summary 테스트 16건 및 기존 HTML/extraction/download/pilot 관련 테스트 33건이 통과했다. `py_compile`과 `git diff --check`도 통과했다. (codex)
+- 제한: `.git/refs`가 읽기 전용으로 마운트되어 별도 branch 생성, commit 및 push는 이 환경에서 수행하지 못했다. 실제 SEC/R2/Google Drive 쓰기와 historical backfill은 수행하지 않았다. (codex)
+
 ## 2026-08-02 - 논문용 Figure 웹 통합
 
 - 감사: `analysis/descriptive_2020_2025/figures/`의 기존 PNG·SVG·집계 CSV를 확인하고 본문·부록·표 전용 사용 결정을 `web/docs/figure-audit.md`에 기록했다. (codex)

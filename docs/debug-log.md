@@ -1,5 +1,13 @@
 # Debug Log
 
+## 2026-08-02 - yearly runner의 503개 표본·6개 batch 일반화
+
+- 관찰: 기존 `run_yearly_10k_batch.py`는 `batch_id`를 1–5로 제한하고 임시 HTML·텍스트 경로를 `2025/pilot_100`으로 고정했다. `merge_yearly_10k_batches.py`의 기본 기대 batch도 1–5였다. (codex)
+- 원인: 100개 단위 분할 자체는 존재했지만 전체 manifest 상한·전체 중복/결측 검증·batch 6 범위 metadata·연도/namespace 경로 전달이 없어 501–503개 historical 표본을 안전하게 처리할 수 없었다. (codex)
+- 조치: 전체 manifest를 최대 503개로 fail-closed 검증하고 `ceil(n/100)`으로 batch 수를 계산했다. 동적 `report_year/sample_namespace` stage 경로를 collection·R2 download·extraction·language에 전달하고, merge에서 batch range overlap과 summary metadata를 검증한다. (codex)
+- 검증: `pytest -q tests/test_yearly_batch_generalization.py` 16 passed, `PYTHONPATH=. pytest -q tests/test_10k_text_extraction.py tests/test_html_download.py tests/test_yearly_batch_generalization.py tests/test_pilot_sampling.py tests/test_pilot_replacement.py` 33 passed, 4개 script `py_compile` 및 `git diff --check` 통과. 외부 네트워크·R2·Drive 쓰기 없음. (codex)
+- 상태: 코드와 fixture 검증은 완료했으나 `.git` 읽기 전용으로 branch/commit/push는 보류되었다. (codex)
+
 ## 2026-08-02 - 연구보고서 Figure 통합 검증
 
 - 관찰: 기존 figure 산출물은 `analysis/descriptive_2020_2025/figures/`에 존재했지만 웹 결과 절에는 표만 표시되었다. (codex)

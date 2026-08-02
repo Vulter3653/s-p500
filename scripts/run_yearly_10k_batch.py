@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Split and orchestrate one independent yearly 10-K batch of at most 100 firms."""
+"""Split and orchestrate one independent yearly 10-K batch."""
 
 from __future__ import annotations
 
@@ -45,7 +45,9 @@ from load_smart_stopwords import (
 )
 
 
+MAX_SAMPLE_SIZE = 503
 BATCH_SIZE = 100
+MAX_BATCH_COUNT = 6
 TIDYTEXT_URL = (
     "https://cran.r-project.org/src/contrib/Archive/tidytext/tidytext_0.3.1.tar.gz"
 )
@@ -90,17 +92,71 @@ def read_manifest(path: Path) -> tuple[list[str], list[dict]]:
 
 def normalized_row(row: dict) -> dict:
     item = dict(row)
-    item.setdefault("final_sample_id", item.get("company_id", ""))
-    item.setdefault("company_id", item.get("final_sample_id", ""))
-    item.setdefault("symbol", item.get("ticker", ""))
-    item.setdefault("ticker", item.get("symbol", ""))
-    item.setdefault("security", item.get("company_name", ""))
+    item["final_sample_id"] = (
+        item.get("final_sample_id") or item.get("company_id") or ""
+    )
+    item["company_id"] = item.get("company_id") or item["final_sample_id"]
+    item["symbol"] = item.get("symbol") or item.get("ticker") or ""
+    item["ticker"] = item.get("ticker") or item["symbol"]
+    item["security"] = item.get("security") or item.get("company_name") or ""
     return item
 
 
+def batch_count(row_count: int) -> int:
+    if row_count < 1:
+        raise ValueError("manifest must contain at least one row")
+    if row_count > MAX_SAMPLE_SIZE:
+        raise ValueError(
+            f"manifest exceeds maximum sample size: {row_count} > {MAX_SAMPLE_SIZE}"
+        )
+    count = (row_count + BATCH_SIZE - 1) // BATCH_SIZE
+    if count > MAX_BATCH_COUNT:
+        raise ValueError(
+            f"manifest requires too many batches: {count} > {MAX_BATCH_COUNT}"
+        )
+    return count
+
+
+def validate_source_manifest(rows: list[dict], report_year: str) -> list[dict]:
+    normalized = [normalized_row(row) for row in rows]
+    batch_count(len(normalized))
+    required = {
+        "final_sample_id",
+        "cik",
+        "accession_number",
+        "form",
+        "report_date",
+    }
+    if not normalized:
+        raise ValueError("manifest must contain at least one row")
+    missing = required - set(normalized[0])
+    if missing:
+        raise ValueError(f"manifest missing columns: {sorted(missing)}")
+    for field in ("final_sample_id", "cik", "accession_number"):
+        values = [row.get(field, "") for row in normalized]
+        if any(not value for value in values):
+            raise ValueError(f"manifest contains an empty {field}")
+        if len(values) != len(set(values)):
+            raise ValueError(f"manifest contains duplicate {field}")
+    for row in normalized:
+        if row["form"] != "10-K":
+            raise ValueError(f"non-10-K input: {row['final_sample_id']}")
+        if not row["report_date"].startswith(f"{report_year}-"):
+            raise ValueError(f"report year mismatch: {row['final_sample_id']}")
+    return normalized
+
+
 def split_batch(rows: list[dict], batch_id: int) -> list[dict]:
+    total_batches = batch_count(len(rows))
+    if batch_id < 1:
+        raise ValueError("batch_id must be at least 1")
+    if batch_id > total_batches:
+        raise ValueError(
+            f"batch_id {batch_id} exceeds manifest batch count {total_batches}"
+        )
     start = (batch_id - 1) * BATCH_SIZE
-    return rows[start : start + BATCH_SIZE]
+    end = min(start + BATCH_SIZE, len(rows))
+    return rows[start:end]
 
 
 def validate_batch(rows: list[dict]) -> None:
@@ -126,6 +182,10 @@ def write_batch_manifest(path: Path, fields: list[str], rows: list[dict]) -> Non
         if field not in output_fields:
             output_fields.append(field)
     write_csv(path, rows, output_fields)
+
+
+def stage_root(work_root: Path, report_year: str, sample_namespace: str) -> Path:
+    return work_root / report_year / sample_namespace
 
 
 def require_environment(names: tuple[str, ...]) -> None:
@@ -271,10 +331,16 @@ def collect_and_upload(
     )
     html_manifest = []
     object_rows = []
+    sample_root = stage_root(work_root, report_year, sample_namespace)
     for row in rows:
         accession = row["accession_number"]
         relative = Path(
-            f"2025/pilot_100/html/raw/{row['cik']}/{accession}.html"
+            report_year,
+            sample_namespace,
+            "html",
+            "raw",
+            row["cik"],
+            f"{accession}.html",
         )
         destination = work_root / relative
         payload, status, timestamp = downloader.download(
@@ -314,7 +380,7 @@ def collect_and_upload(
             }
         )
     write_csv(
-        work_root / "2025/pilot_100/html/manifest/html_manifest.csv",
+        sample_root / "html/manifest/html_manifest.csv",
         html_manifest,
         list(html_manifest[0]),
     )
@@ -336,6 +402,7 @@ def download_html_from_r2(
     client = r2_client()
     html_manifest = []
     object_rows = []
+    sample_root = stage_root(work_root, report_year, sample_namespace)
     for row in rows:
         key = r2_key(report_year, sample_namespace, row)
         head = remote_head(client, key)
@@ -350,8 +417,12 @@ def download_html_from_r2(
                 f"R2 metadata incomplete for accession {row['accession_number']}"
             )
         relative = Path(
-            f"2025/pilot_100/html/raw/{row['cik']}/"
-            f"{row['accession_number']}.html"
+            report_year,
+            sample_namespace,
+            "html",
+            "raw",
+            row["cik"],
+            f"{row['accession_number']}.html",
         )
         destination = work_root / relative
         destination.parent.mkdir(parents=True, exist_ok=True)
@@ -389,7 +460,7 @@ def download_html_from_r2(
             }
         )
     write_csv(
-        work_root / "2025/pilot_100/html/manifest/html_manifest.csv",
+        sample_root / "html/manifest/html_manifest.csv",
         html_manifest,
         list(html_manifest[0]),
     )
@@ -417,9 +488,12 @@ def filter_gzip_csv(source: Path, destination: Path, ids: set[str]) -> None:
                 writer.writerow(row)
 
 
-def find_existing_text_root(manifest_path: Path, report_year: str) -> Path:
+def find_existing_text_root(
+    manifest_path: Path, report_year: str, sample_namespace: str = "sample_500"
+) -> Path:
     candidates = [
         manifest_path.resolve().parent.parent / "text",
+        ROOT / report_year / sample_namespace / "text",
         ROOT / report_year / "sample_500/text",
         ROOT / report_year / "pilot_100/text",
     ]
@@ -438,8 +512,11 @@ def stage_existing_text(
     manifest_path: Path,
     rows: list[dict],
     report_year: str,
+    sample_namespace: str = "sample_500",
 ) -> None:
-    source_text = find_existing_text_root(manifest_path, report_year)
+    source_text = find_existing_text_root(
+        manifest_path, report_year, sample_namespace
+    )
     ids = {row["final_sample_id"] for row in rows}
     extraction_path = (
         source_text
@@ -449,11 +526,27 @@ def stage_existing_text(
     selected = [row for row in extraction_rows if row["company_id"] in ids]
     if len(selected) != len(ids):
         raise ValueError("existing extraction results do not cover the batch")
-    destination_text = work_root / "2025/pilot_100/text"
+    destination_text = stage_root(work_root, report_year, sample_namespace) / "text"
+    staged_rows = []
+    for row in selected:
+        staged = dict(row)
+        for field in ("analysis_text_file", "table_text_file"):
+            source = ROOT / row[field]
+            if not source.is_file():
+                raise FileNotFoundError(f"missing existing {field}: {row[field]}")
+            try:
+                suffix = source.relative_to(source_text).as_posix()
+            except ValueError:
+                suffix = Path(row[field]).name
+            destination = destination_text / suffix
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, destination)
+            staged[field] = destination.relative_to(work_root).as_posix()
+        staged_rows.append(staged)
     write_csv(
         destination_text
         / "extraction_results/company_text_extraction_results.csv",
-        selected,
+        staged_rows,
         fields,
     )
     filter_gzip_csv(
@@ -466,12 +559,6 @@ def stage_existing_text(
         destination_text / "analysis_tables/paragraphs.csv.gz",
         ids,
     )
-    for row in selected:
-        for field in ("analysis_text_file", "table_text_file"):
-            source = ROOT / row[field]
-            destination = work_root / row[field]
-            destination.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(source, destination)
 
 
 def download_file(url: str, destination: Path, expected_sha: str) -> None:
@@ -510,12 +597,22 @@ def ensure_language_resources() -> None:
     load_smart_stopwords(write_analysis_file=True)
 
 
-def copy_extraction_artifacts(work_root: Path, output_root: Path) -> None:
-    source = work_root / "2025/pilot_100/text"
+def copy_extraction_artifacts(
+    work_root: Path,
+    output_root: Path,
+    report_year: str = "2025",
+    sample_namespace: str = "sample_500",
+) -> None:
+    source = stage_root(work_root, report_year, sample_namespace) / "text"
     shutil.copytree(source, output_root / "extraction", dirs_exist_ok=True)
 
 
-def run_language(work_root: Path, output_root: Path, report_year: str) -> None:
+def run_language(
+    work_root: Path,
+    output_root: Path,
+    report_year: str,
+    sample_namespace: str = "sample_500",
+) -> None:
     ensure_language_resources()
     environment = os.environ.copy()
     environment["S_P500_PIPELINE_ROOT"] = str(work_root)
@@ -523,6 +620,19 @@ def run_language(work_root: Path, output_root: Path, report_year: str) -> None:
         output_root / "language"
     )
     environment["S_P500_REPORT_YEAR"] = report_year
+    sample_root = stage_root(work_root, report_year, sample_namespace)
+    environment["S_P500_LANGUAGE_SAMPLE_PATH"] = str(
+        sample_root / "sample" / "batch_manifest.csv"
+    )
+    environment["S_P500_LANGUAGE_EXTRACTION_PATH"] = str(
+        sample_root / "text/extraction_results/company_text_extraction_results.csv"
+    )
+    environment["S_P500_LANGUAGE_SENTENCE_PATH"] = str(
+        sample_root / "text/analysis_tables/sentences.csv.gz"
+    )
+    environment["S_P500_LANGUAGE_PARAGRAPH_PATH"] = str(
+        sample_root / "text/analysis_tables/paragraphs.csv.gz"
+    )
     subprocess.run(
         [sys.executable, str(ROOT / "scripts/run_language_full_sample.py")],
         cwd=ROOT,
@@ -569,16 +679,29 @@ def run_batch(arguments) -> dict:
     output_root = arguments.output_dir.resolve()
     output_root.mkdir(parents=True, exist_ok=True)
     fields, source_rows = read_manifest(manifest_path)
-    rows = [normalized_row(row) for row in split_batch(source_rows, arguments.batch_id)]
+    source_rows = validate_source_manifest(source_rows, arguments.report_year)
+    rows = split_batch(source_rows, arguments.batch_id)
     validate_batch(rows)
     batch_manifest = output_root / "batch_manifest.csv"
     write_batch_manifest(batch_manifest, fields, rows)
     write_empty_support_files(output_root)
     summary = {
         "report_year": arguments.report_year,
+        "sample_namespace": arguments.sample_namespace,
         "batch_id": arguments.batch_id,
         "source_manifest": manifest_path.name,
         "source_rows": len(source_rows),
+        "manifest_row_count": len(source_rows),
+        "batch_size_limit": BATCH_SIZE,
+        "batch_count": batch_count(len(source_rows)),
+        "batch_start_index": (arguments.batch_id - 1) * BATCH_SIZE,
+        "batch_end_index_exclusive": (
+            (arguments.batch_id - 1) * BATCH_SIZE + len(rows)
+        ),
+        "batch_row_count": len(rows),
+        "maximum_sample_size": MAX_SAMPLE_SIZE,
+        "duplicate_count": 0,
+        "missing_count": 0,
         "batch_rows": len(rows),
         "row_start": (arguments.batch_id - 1) * BATCH_SIZE + 1,
         "row_end": (arguments.batch_id - 1) * BATCH_SIZE + len(rows),
@@ -608,10 +731,10 @@ def run_batch(arguments) -> dict:
             prefix=f"s-p500-{arguments.report_year}-batch-{arguments.batch_id}-"
         ) as temporary:
             work_root = Path(temporary)
-            fixed_sample = (
-                work_root
-                / "2025/pilot_100/sample/final_analysis_sample_100.csv"
+            sample_root = stage_root(
+                work_root, arguments.report_year, arguments.sample_namespace
             )
+            fixed_sample = sample_root / "sample/batch_manifest.csv"
             write_batch_manifest(fixed_sample, fields, rows)
             if arguments.run_collection:
                 failed_stage = "collection"
@@ -635,12 +758,20 @@ def run_batch(arguments) -> dict:
                 failed_stage = "extraction"
                 extraction_summary = extract(
                     work_root,
+                    input_relative=sample_root.relative_to(work_root)
+                    / "html/manifest/html_manifest.csv",
+                    output_relative=sample_root.relative_to(work_root) / "text",
                     retry_warning=arguments.force,
                     retry_failed=arguments.force,
                 )
                 if int(extraction_summary["failed"]):
                     raise RuntimeError("one or more extraction records failed")
-                copy_extraction_artifacts(work_root, output_root)
+                copy_extraction_artifacts(
+                    work_root,
+                    output_root,
+                    arguments.report_year,
+                    arguments.sample_namespace,
+                )
             if arguments.run_language:
                 failed_stage = "language_input"
                 if not arguments.run_extraction:
@@ -649,9 +780,15 @@ def run_batch(arguments) -> dict:
                         manifest_path,
                         rows,
                         arguments.report_year,
+                        arguments.sample_namespace,
                     )
                 failed_stage = "language"
-                run_language(work_root, output_root, arguments.report_year)
+                run_language(
+                    work_root,
+                    output_root,
+                    arguments.report_year,
+                    arguments.sample_namespace,
+                )
         failed_stage = ""
     except Exception as error:
         summary["status"] = "failed"
@@ -699,7 +836,7 @@ def run_batch(arguments) -> dict:
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument("--report-year", required=True)
-    parser.add_argument("--batch-id", required=True, type=int, choices=range(1, 6))
+    parser.add_argument("--batch-id", required=True, type=int)
     parser.add_argument("--manifest", required=True, type=Path)
     parser.add_argument("--sample-namespace", default="sample_500")
     parser.add_argument("--run-collection", action="store_true")
@@ -710,6 +847,8 @@ def parse_arguments():
     arguments = parser.parse_args()
     if not re.fullmatch(r"\d{4}", arguments.report_year):
         parser.error("--report-year must be a four-digit year")
+    if arguments.batch_id < 1:
+        parser.error("--batch-id must be at least 1")
     return arguments
 
 

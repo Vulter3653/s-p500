@@ -60,10 +60,10 @@ def validate_input(root: Path, manifest: pd.DataFrame) -> None:
             raise ValueError(f"HTML SHA mismatch: {row['accession_number']}")
 
 
-def file_paths(root: Path, row: dict) -> dict[str, Path]:
-    company = root / OUTPUT / "company_text" / row["cik"]
+def file_paths(root: Path, row: dict, output_relative: Path = OUTPUT) -> dict[str, Path]:
+    company = root / output_relative / "company_text" / row["cik"]
     accession = row["accession_number"]
-    section = root / OUTPUT / "section_text" / row["cik"] / accession
+    section = root / output_relative / "section_text" / row["cik"] / accession
     return {
         "analysis": company / f"{accession}_analysis_text.txt",
         "structure": company / f"{accession}_structure_preserved_text.txt",
@@ -72,11 +72,16 @@ def file_paths(root: Path, row: dict) -> dict[str, Path]:
     }
 
 
-def can_skip(root: Path, row: dict, prior: dict[str, dict]) -> bool:
+def can_skip(
+    root: Path,
+    row: dict,
+    prior: dict[str, dict],
+    output_relative: Path = OUTPUT,
+) -> bool:
     previous = prior.get(row["accession_number"])
     if not previous:
         return False
-    paths = file_paths(root, row)
+    paths = file_paths(root, row, output_relative)
     return (
         previous.get("source_html_sha256") == row["sha256"]
         and previous.get("parser_version") == PARSER_VERSION
@@ -105,10 +110,17 @@ def write_text(path: Path, text: str) -> None:
     path.write_text(text.strip() + "\n" if text.strip() else "", encoding="utf-8")
 
 
-def extract(root: Path, *, retry_warning: bool = False, retry_failed: bool = False) -> dict:
-    manifest = pd.read_csv(root / INPUT, dtype=str, keep_default_na=False)
+def extract(
+    root: Path,
+    *,
+    input_relative: Path = INPUT,
+    output_relative: Path = OUTPUT,
+    retry_warning: bool = False,
+    retry_failed: bool = False,
+) -> dict:
+    manifest = pd.read_csv(root / input_relative, dtype=str, keep_default_na=False)
     validate_input(root, manifest)
-    output = root / OUTPUT
+    output = root / output_relative
     tables_dir = output / "analysis_tables"
     results_dir = output / "extraction_results"
     logs_dir = output / "processing_logs"
@@ -124,7 +136,10 @@ def extract(root: Path, *, retry_warning: bool = False, retry_failed: bool = Fal
         {row["accession_number"]: row for row in prior_frame.to_dict("records")}
         if not prior_frame.empty else {}
     )
-    all_skipped = bool(prior) and all(can_skip(root, row, prior) for row in manifest.to_dict("records"))
+    all_skipped = bool(prior) and all(
+        can_skip(root, row, prior, output_relative)
+        for row in manifest.to_dict("records")
+    )
     if all_skipped and not retry_warning and not retry_failed:
         summary = {
             "input_html": len(manifest), "processed": 0, "skipped": len(manifest),
@@ -181,9 +196,9 @@ def extract(root: Path, *, retry_warning: bool = False, retry_failed: bool = Fal
         sentence_writer.writeheader()
 
         for row in manifest.to_dict("records"):
-            paths = file_paths(root, row)
+            paths = file_paths(root, row, output_relative)
             previous = prior.get(row["accession_number"], {})
-            skip = can_skip(root, row, prior)
+            skip = can_skip(root, row, prior, output_relative)
             if retry_warning and int(previous.get("warning_count", "0") or 0) > 0:
                 skip = False
             if skip:
@@ -372,7 +387,20 @@ def extract(root: Path, *, retry_warning: bool = False, retry_failed: bool = Fal
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
+    parser.add_argument("--input-relative", type=Path, default=INPUT)
+    parser.add_argument("--output-relative", type=Path, default=OUTPUT)
     parser.add_argument("--retry-warning", action="store_true")
     parser.add_argument("--retry-failed", action="store_true")
     args = parser.parse_args()
-    print(json.dumps(extract(args.root.resolve(), retry_warning=args.retry_warning, retry_failed=args.retry_failed), sort_keys=True))
+    print(
+        json.dumps(
+            extract(
+                args.root.resolve(),
+                input_relative=args.input_relative,
+                output_relative=args.output_relative,
+                retry_warning=args.retry_warning,
+                retry_failed=args.retry_failed,
+            ),
+            sort_keys=True,
+        )
+    )
