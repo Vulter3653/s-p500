@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - 2019–2017년 역사적 표본 확장 계획 기록
+
+- 계획: 현재 최저 분석연도 2020년의 직전 3개 연도인 2019, 2018, 2017을 역순으로 처리한다. (codex)
+- 표본: 역사적 S&P 500 503 securities를 기준으로 하되, SEC의 유일한 적격 Form 10-K 조건을 충족하는 행만 포함하고 제외 사유를 보존한다. (codex)
+- 실행: 연도별로 manifest 생성, SEC 수집, R2 저장, 추출·언어 측정, Google Drive 이전을 순차 수행한다. 한 연도 검증 전 다음 연도를 시작하지 않는다. (codex)
+- Free Tier 보호: workflow 동시 실행을 막고 `max-parallel: 1`, checkpoint·resume, rate-limit 지연, 최소 artifact와 수동 실행을 사용한다. 503개는 100·100·100·100·100·3의 6개 batch로 나눈다. (codex)
+- 상태: 계획만 기록했으며 2019–2017년 workflow 실행, SEC 수집, R2·Google Drive 변경은 아직 수행하지 않았다. (codex)
+- 감사: 기존 2020–2025 실행기는 `2025/pilot_100` 경로와 1–5 batch를 하드코딩하고 있어 historical 6개 batch를 직접 처리할 수 없다. 기존 검증 pipeline을 깨뜨리지 않도록 전용 historical runner/workflow가 필요하다. (codex)
+
 ## 2026-07-31 - 기술통계 Markdown 보고서 표시·해석 보완
 
 - 변경: `write_descriptive_reports.py`가 기존 통계 CSV를 수정하지 않고 한글 열 제목, 정수 연도·관측치 수, 백분율, p-value 및 `-` 구조적 결측 표시로 Markdown을 재생성하도록 개선했다. (codex)

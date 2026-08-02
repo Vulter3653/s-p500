@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- Docs: 기존 2020–2025 실행기의 2025 pilot 경로·1–5 batch 하드코딩을 감사하고, historical 처리는 기존 pipeline을 깨뜨리지 않는 전용 runner/workflow로 분리해야 함을 기록했다. (codex)
 - Changed: Google Drive 신규 migration의 기본 저장 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 고정하고, 기존 중첩 폴더 형식은 `legacy_nested` 호환 옵션으로만 유지한다. (codex)
 - Docs: 기술통계 Markdown 보고서와 논문용 표를 한글 표시용 열 제목, 정수·백분율·p-value 형식, 구조적 결측 기호, 4개 연도별 패널 및 2023년 구조 변화 해석으로 보완했다. (codex)
 - Analysis: 2020–2025년 2,829 firm-year 패널에 기존 측정값을 보존한 확장 패널, 시제·수동태·AI Fog 및 텍스트 통제변수, 기술통계·상관관계·VIF·한글 보고서와 그래프를 추가했다. (codex)

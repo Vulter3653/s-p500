@@ -1,5 +1,14 @@
 # Debug Log
 
+## 2026-08-02 - 2019–2017년 역사적 확장 작업의 실행 전 조건 기록
+
+- 요청: 2019년부터 2017년까지 역순으로 역사적 S&P 500 표본을 복구하고, R2 저장·분석·Google Drive 이전을 반복한다. (codex)
+- 확인: 현재 저장소의 기준 연도는 2020–2025년이며, R2는 이전 삭제 검증에서 빈 상태로 기록되어 있다. 역사적 구성종목 원천자료와 PR #2는 별도 검토가 필요하다. (codex)
+- 안전 계획: 여러 연도 동시 실행을 금지하고, 연도별 `max-parallel: 1`, rate-limit 지연, checkpoint·resume, 수동 workflow를 사용한다. (codex)
+- 표본 주의: 503 securities는 기존 5개 100행 batch만으로 처리할 수 없으므로 100·100·100·100·100·3의 6개 batch로 분할한다. (codex)
+- 상태: 아직 workflow를 실행하지 않았고 SEC, R2, Google Drive 또는 기존 분석 결과를 변경하지 않았다. (codex)
+- 감사 결과: `process-10k-yearly-batches.yml`, `run_yearly_10k_batch.py`, 추출기 및 language runner에 2025 pilot 경로와 1–5 batch 전제가 남아 있다. 이 전제를 전역 수정하지 않고 historical 전용 실행기로 분리하는 것이 안전하다. (codex)
+
 ## 2026-08-02 - Google Drive 신규 저장 형식 기본값
 
 - 요청: 이후 Google Drive raw HTML 저장의 기본 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 유지한다. (codex)
