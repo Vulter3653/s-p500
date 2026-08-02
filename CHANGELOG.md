@@ -1,3 +1,7 @@
+## 2026-08-02
+
+- Added: Codespace 종료 후 재개할 수 있도록 `codex/historical-backfill-continuous` integration branch의 연속 historical backfill 인수인계를 원격 문서로 고정했다. 실제 SEC·R2·Google Drive 실행과 main 병합은 수행하지 않았다. (codex)
+
 # Changelog
 
 ## 2026-08-02
