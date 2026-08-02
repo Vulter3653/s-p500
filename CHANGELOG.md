@@ -8,10 +8,11 @@
 
 ## [Unreleased]
 
+- Reverted: `문헌정리.pdf`를 문헌 배경으로 표시한 대시보드 영역을 제거하고, 해당 자료는 수식·측정 형식 확인에만 사용하도록 정정했다. (codex)
+- Added: `문헌정리.pdf`를 검토해 AI 공시, 금융 텍스트 사전, 10-K 가독성·복잡성, 미래지향·구체성 문헌과 본 연구의 측정 위치를 대시보드에 추가했다. (codex)
 - Changed: 2020–2025 확장 패널의 연도별 AI 공시, AI 직접 문장 수, 구체성, 시제, LM uncertainty, Fog Index 및 주요 상관관계를 대시보드에 반영했다. (codex)
 - Added: 대시보드에 SEC·CIK·Form 10-K 수집 방법, 변수 정의, 기술통계·변화·상관·VIF 분석 방법과 핵심 결과를 펼쳐 볼 수 있는 연구 맥락 섹션을 추가했다. (codex)
 - Added: 대시보드 연구 맥락에 `ai_disclosure`, 시제·수동태·LM·Fog·구체성의 분자·분모·수식·결측 처리 및 측정 한계를 추가했다. (codex)
-- Added: `문헌정리.pdf`를 검토해 AI 공시, 금융 텍스트 사전, 10-K 가독성·복잡성, 미래지향·구체성 문헌과 본 연구의 측정 위치를 대시보드에 추가했다. (codex)
 - Changed: Cloudflare Pages 대시보드를 데스크탑 발표 화면에 가까운 sidebar·headline·KPI·차트·표 구조로 재배치하고, 검색해 확인한 UI 원칙에 맞춰 여백·위계·대비·일관성을 정리했다. (codex)
 - Added: Cloudflare Pages 루트 빌드 설정과 호환되는 `web/` React + Vite dashboard scaffold를 추가했다. 루트 `npm run build`는 `web`을 빌드해 `dist/`를 생성하며, 비밀정보와 raw HTML은 포함하지 않는다. (codex)
 - Docs: 루트·연도별 README, 인수인계, repository structure, sample definition 및 constituent method 문서를 현재 2020–2025 완료 상태와 2019–2017 역사 확장 계획에 맞게 정리했다. `VERSION`은 `0.12.0`으로 유지했다. (codex)

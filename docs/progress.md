@@ -255,9 +255,8 @@
 - 처리: AI 직접 문장이 없을 때의 count 0과 구조적 결측, 미래 시제 표지 범위, spaCy dependency, SMART·Porter·collision 규칙을 명시했다. (codex)
 - 범위: 기존 산출값은 재계산하지 않았고 표시 설명만 보강했다. (codex)
 - 검증: `npm run build`, `git diff --check`를 실행한다. (codex)
-## 2026-08-02 - 문헌정리 기반 연구 배경 반영
+## 2026-08-02 - 문헌 자료 사용 범위 정정
 
-- 자료: 작업공간의 `문헌정리.pdf`에서 AI 공시, Loughran–McDonald 금융 사전, 10-K readability·complexity, forward-looking·concrete language 문헌을 확인했다. (codex)
-- 변경: 대시보드에 문헌별 측정 흐름과 본 연구의 위치를 요약한 `문헌 근거와 본 연구의 위치` 영역을 추가했다. (codex)
-- 해석: 선행연구의 인과 결과를 현재 패널에 전이하지 않고, 변수 설계와 해석상 주의의 근거로만 사용했다. (codex)
-- 검증: `npm run build`, `git diff --check`를 실행한다. (codex)
+- 정정: `문헌정리.pdf`의 문헌 근거·연구 배경 표시는 제거했다. 해당 파일은 수식·측정 방법·표현 형식을 확인하는 참고자료로만 사용한다. (codex)
+- 유지: 대시보드의 수식, 분자·분모, 결측 처리 및 측정 절차 설명은 유지한다. (codex)
+- 검증: 문헌 표시 제거 후 `npm run build`, `git diff --check`를 실행한다. (codex)
