@@ -239,6 +239,19 @@ def generate(output: Path) -> dict:
     write_definition_markdown(downloads / "variable-definitions.md", definitions)
     (ROOT / "web/docs").mkdir(parents=True, exist_ok=True)
     write_definition_markdown(ROOT / "web/docs/research-dashboard-variable-definitions.md", definitions)
+    # The report UI renders these audited Markdown sources inside the integrated
+    # document. Keep a generated, public copy so the browser never depends on
+    # files outside the Vite public tree.
+    public_docs = ROOT / "web/public/docs"
+    public_docs.mkdir(parents=True, exist_ok=True)
+    for source_name in (
+        "research-dashboard-methodology.md",
+        "research-dashboard-results.md",
+        "research-dashboard-limitations.md",
+        "research-dashboard-reproducibility.md",
+    ):
+        source = ROOT / "web/docs" / source_name
+        public_docs.joinpath(source_name).write_text(source.read_text(encoding="utf-8"), encoding="utf-8")
     return {"panel_rows": len(panel), "definition_count": len(definitions), "source_count": len(manifest["sources"]), "generated_at": now, "git_commit": commit}
 
 

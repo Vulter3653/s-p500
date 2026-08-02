@@ -1,5 +1,13 @@
 # Debug Log
 
+## 2026-08-02 - 루트 화면이 논문 보고서형으로 보이지 않던 문제
+
+- 증상: `/`가 hero·요약 카드·간단 그래프 중심의 발표용 개요를 유지하고 상세 방법론·결과·변수 수식이 hash 페이지에만 노출됐다.
+- 원인: `web/src/App.jsx`의 기본 분기에서 overview를 먼저 렌더링하고, `methods`·`results`·`variables`를 별도 페이지로 반환했다. 방법론 Markdown도 웹 본문과 직접 연결되지 않았다.
+- 조치: 기본 렌더링을 통합 연구보고서로 교체하고, 실제 generated JSON에서 204개 변수 정의·연도별 표·집단 비교·상관·VIF를 읽어 표와 상세 블록으로 표시했다. 감사된 Markdown은 `web/public/docs/`에 generator가 복사해 `MarkdownLite`로 화면에 렌더링한다. A4 print stylesheet와 모바일 레이아웃도 추가했다.
+- 검증: `python scripts/generate_web_analysis_data.py`, `python -m py_compile scripts/generate_web_analysis_data.py`, `cd web && npm run build`, Vite preview HTTP smoke test를 통과했다. 로컬 환경에 Chromium/Playwright가 없어 실제 screenshot 브라우저 테스트는 보류했다.
+- 상태: 코드 수준의 루트 재구성은 해결됨. production 배포와 브라우저 screenshot은 push 이후 별도 확인이 필요하다.
+
 ## 2026-08-02 - Loughran–McDonald 축약 표기 제거
 
 - 문제: 웹 설명과 자동 생성 변수 정의에 `LM` 축약이 남아 있어 공식 명칭 표기가 일관되지 않았다.

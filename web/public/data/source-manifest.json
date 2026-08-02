@@ -1,8 +1,8 @@
 {
   "analysis_period": "2020-2025",
   "unit_of_analysis": "firm-year",
-  "git_commit": "6c1d77e080db1236ffa27730f0c9cdc9a9e197c9",
-  "generated_at": "2026-08-02T07:26:36.350338+00:00",
+  "git_commit": "0b91daa14bb6214225ff6523f09902d2d246ad78",
+  "generated_at": "2026-08-02T07:38:55.092282+00:00",
   "sources": [
     {
       "dataset_id": "yearly_statistics",

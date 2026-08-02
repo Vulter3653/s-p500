@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Changed: 루트 Cloudflare Pages 화면을 발표형 카드 대시보드에서 논문 보고서형 통합 문서로 재구성하고, 표·수식·source note·변수 정의 부록을 실제 분석 JSON과 연결했다. (codex)
+- Added: production preview에서 제공할 감사된 방법론·결과·한계·재현성 Markdown 사본과 A4 인쇄용 stylesheet를 생성한다. (codex)
+
 - Changed: 웹 화면과 생성 문서의 표시용 `LM` 축약을 `Loughran–McDonald`로 통일하고, `lm_` 데이터 열 이름만 호환성을 위해 유지했다. (codex)
 
 - Expanded: 전체 연도 평균을 source 전체 평균으로 연결하고, 실제 source 경로 검증·결과/재현성/한계 페이지·추가 JSON/CSV 산출물을 연구 대시보드에 추가했다. (codex)

@@ -2,6 +2,14 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - 루트 연구보고서형 대시보드 재구성
+
+- 변경: `web/src/App.jsx`의 루트 화면을 표지·초록·연구설계·표본 구축·자료 수집·텍스트 처리·변수 측정·통계 분석·결과·논의·한계·재현성·부록 순서의 통합 보고서로 전면 재구성했다. (codex)
+- 연결: 실제 `analysis/descriptive_2020_2025/`에서 생성된 JSON, 204개 변수 정의, 연도별 표, Welch 비교, 상관 및 VIF를 화면에 표시하고 각 표에 N·조건·source note를 추가했다. (codex)
+- 디자인: sticky 목차, 학술 표, 수식 블록, 표 가로 스크롤, 모바일 반응형 및 A4 print stylesheet를 추가했다. (codex)
+- 검증: generator·py_compile·Vite production build·preview HTTP smoke test와 생성 파일 응답 200을 확인했다. 브라우저 엔진과 Playwright가 Codespaces에 없어 screenshot 기반 검증은 아직 수행하지 못했다. (codex)
+- 상태: 기존 패널·언어 결과·원본 HTML은 수정하지 않았으며, 다음 단계는 커밋 후 Cloudflare Pages production 배포와 실제 브라우저 screenshot 확인이다. (codex)
+
 ## 2026-08-02 - Loughran–McDonald 표기 통일
 
 - 변경: UI, 변수 정의 metadata 및 생성 Markdown에서 표시용 `LM`을 `Loughran–McDonald`로 변경했다. (codex)
