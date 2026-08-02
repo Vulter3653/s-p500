@@ -1,3 +1,9 @@
+## 2026-08-02 - 연속 historical backfill 인수인계 보존
+
+- 조치: `codex/historical-backfill-continuous` 원격 branch를 runner 구현 기준에서 생성하고 `docs/handoff-historical-backfill-continuous.md`를 커밋했다. 2019부터 과거 방향으로 계속 진행하고 완전히 검증된 3개 연속 `annual_ai_keyword_count=0`에서만 종료하는 요구사항, candidate panel·dashboard preview·self-dispatch 순서를 기록했다. (codex)
+- 상태: Codespace 종료 대비 원격 보존 완료. 실제 historical 수집, panel 갱신, dashboard publication, SEC/R2/Drive 쓰기 및 main 병합은 아직 수행하지 않았다. (codex)
+- 다음: 새 Codespace에서 PR #2·PR #3와 실제 schema/CLI를 재감사한 뒤 fixture/mock·dry-run을 먼저 구현하고 검증한다. 사용자 승인 전에는 2019 실제 실행을 dispatch하지 않는다. (codex)
+
 # Project Progress and Session Handoff
 
 ## 2026-08-02 - 503개 표본·6개 batch runner 일반화
