@@ -243,3 +243,9 @@
 - 화면: AI 공시 비율, firm-year 수, AI 직접 문장 평균, 균형·불균형 패널 수, 구체성·시제·uncertainty·Fog Index 및 상관관계 주의사항을 대시보드에 표시한다. (codex)
 - 안전: 원본 패널·분석 CSV·raw HTML은 변경하지 않고, API 응답이 부분 요약만 제공해도 정적 패널값과 병합하도록 처리했다. (codex)
 - 검증: `npm run build`, `git diff --check` 통과. (codex)
+## 2026-08-02 - 대시보드 연구 방법·변수·결과 상세화
+
+- 변경: 데이터 수집, 변수 정의, 분석 방법, 분석 결과를 데스크탑 대시보드의 접이식 연구 맥락 섹션으로 추가했다. (codex)
+- 내용: SEC CIK·reportDate·Form 10-K 기준, Google Drive 원문 보관, AI·구체성·시제·수동태·LM·Fog 변수, 기술통계·연도 변화·within-firm·상관·VIF 절차를 설명한다. (codex)
+- 결과: AI 공시 확산, AI 문장 수 증가, AI 구체성 하락, 현재 시제 증가, Fog Index 변화의 기존 산출값을 표시한다. (codex)
+- 검증: `npm run build`, `git diff --check`를 실행한다. (codex)
