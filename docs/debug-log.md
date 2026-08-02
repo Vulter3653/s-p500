@@ -1,3 +1,10 @@
+## 2026-08-02 - continuous backfill 최소 구현 검증
+
+- 관찰: 원격 integration branch에는 handoff만 있었고 orchestration·state·panel append·dashboard 입력 일반화가 없었다. (codex)
+- 조치: 기존 yearly runner와 merge를 호출하는 단일 workflow, `ai_term_count` 결측 fail-closed 집계, zero-streak 상태 전이, 원자적 candidate panel writer 및 generator의 동적 입력 인수를 추가했다. (codex)
+- 검증: `pytest -q tests/test_continuous_backfill.py tests/test_yearly_batch_generalization.py`는 21건 통과했고, dry-run은 chain-state 파일·commit·dispatch 없이 종료했다. (codex)
+- 남은 위험: 실제 Actions 환경의 artifact 경로, GitHub expression, publication branch 동기화 및 historical constituent manifest 연결은 실제 dry-run에서 확인해야 한다. (codex)
+
 ## 2026-08-02 - Codespace 종료 대비 continuous backfill 인수인계
 
 - 관찰: Codespace 종료가 임박해 연속 historical backfill의 orchestration, atomic panel publication 및 dashboard preview를 이 환경에서 구현·실행하기에는 안전한 검증 시간이 부족하다. (codex)
