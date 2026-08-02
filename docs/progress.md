@@ -2,6 +2,12 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - 배포 화면 런타임 예외 수정
+
+- 원인: 배포된 `analysis-summary.json`은 `N`, `standard_deviation`, `p25`, `p75`를 제공했지만 화면은 다른 키를 참조했다. (codex)
+- 수정: 생성기에서 실제 CSV 열을 화면용 별칭으로 자동 정규화하고, correlation 키와 변수 정의 metadata 타입도 실제 JSON 구조에 맞췄다. (codex)
+- 확인: 배포 URL의 HTML·`/data/analysis-summary.json` 모두 HTTP 200이며 새 build와 관련 테스트가 통과했다. (codex)
+
 ## 2026-08-02 - 대시보드 초기 로딩 오류 수정
 
 - 원인: `summary`가 준비되기 전에는 반환하고 준비된 뒤에만 `useMemo`를 호출하여 React Hook 순서가 렌더 사이에서 바뀌었다. (codex)

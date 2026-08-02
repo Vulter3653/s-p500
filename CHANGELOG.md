@@ -1,5 +1,7 @@
 # Changelog
 
+- Fixed: 실제 descriptive statistics 열 이름과 화면 renderer의 별칭 불일치로 발생한 초기 렌더링 예외를 수정하고, 변수 정의 페이지의 문자열·목록 metadata를 모두 안전하게 표시하도록 보완했다. (codex)
+
 - Fixed: 초기 데이터 로딩 중 조기 반환으로 React Hook 호출 순서가 달라져 화면이 멈출 수 있던 문제를 수정하고, 정적 분석 JSON 요청 실패 메시지와 재시도 UI를 추가했다. (codex)
 
 - Added: 실제 분석 CSV·패널에서 웹 JSON을 생성하고 논문 부록 수준의 변수 정의, source metadata, `/variables`·`/methods` 페이지를 제공한다. (codex)

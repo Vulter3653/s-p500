@@ -1,5 +1,12 @@
 # Debug Log
 
+## 2026-08-02 - 배포 JSON 열 이름 불일치로 인한 빈 화면
+
+- 관찰: `https://s-p500.pages.dev/`와 `/data/analysis-summary.json`은 HTTP 200으로 응답했으므로 정적 파일 경로는 정상이었다.
+- 원인: `summary.descriptiveTable`의 원자료 행에는 `N`, `standard_deviation`, `p25`, `p75`가 있었으나 React가 `item.n`, `item.sd`, `item.q1`, `item.q3`를 호출했다. `undefined.toLocaleString()`으로 첫 화면 렌더링이 중단될 수 있었다. 변수 정의 페이지의 문자열 metadata에 `.join()`을 호출하는 추가 오류도 확인했다.
+- 수정: 생성기에서 `n`, `sd`, `q1`, `q3`, `kind`, `label` 별칭을 자동 생성하고, React에서 문자열·목록을 모두 처리하도록 수정했다. correlation 필드도 실제 `correlation` 열을 사용한다.
+- 검증: 생성기, `py_compile`, 관련 pytest 5건, `npm run build`, `git diff --check` 통과. 원자료와 패널은 변경하지 않았다.
+
 ## 2026-08-02 - 웹 대시보드 로딩 중단 원인 및 수정
 
 - 증상: Cloudflare Pages 화면이 로딩되지 않거나 로딩 상태에서 멈춤.

@@ -131,6 +131,24 @@ def definition_rows(definitions: list[dict]) -> list[dict]:
     return rows
 
 
+def dashboard_descriptive_rows(frame: pd.DataFrame) -> list[dict]:
+    """Normalize source table names for the read-only dashboard renderer."""
+    rows = []
+    for row in records(frame):
+        variable = row.get("variable", "")
+        kind = "share" if variable.endswith(("_share", "_ratio", "_coverage")) else "number" if variable.endswith(("_count", "_words", "_word_count", "_sentence_count")) else "continuous"
+        rows.append({
+            **row,
+            "label": variable.replace("_", " ").title(),
+            "kind": kind,
+            "n": row.get("N"),
+            "sd": row.get("standard_deviation"),
+            "q1": row.get("p25"),
+            "q3": row.get("p75"),
+        })
+    return rows
+
+
 def write_definition_markdown(path: Path, definitions: list[dict]) -> None:
     panels = {
         "Identification": "패널 A. 식별 변수", "AI Communication": "패널 B. AI 커뮤니케이션 변수",
@@ -186,7 +204,7 @@ def generate(output: Path) -> dict:
         sample = sample_rows[year]
         years.append({"year": year, "observations": int(sample["firm_year_count"]), "disclosure": int(sample["ai_disclosure_count"]), "aiSentenceCount": row.get("mean_ai_sentence_count_all"), "wholeReportConcreteness": row.get("whole_report_concreteness"), "aiConcreteness": row.get("ai_concreteness"), "past": row.get("past_tense_share"), "present": row.get("present_tense_share"), "future": row.get("future_tense_share"), "uncertainty": row.get("lm_uncertainty_share"), "passive": row.get("passive_voice_sentence_share"), "fog": row.get("fog_index"), "reportWords": row.get("report_word_count"), "aiPositive": row.get("ai_lm_positive_share"), "aiNegative": row.get("ai_lm_negative_share"), "aiUncertainty": row.get("ai_lm_uncertainty_share")})
     high_pairs = records(sources["high_correlations"])
-    summary = {"panel": {"observations": len(panel), "companies": int(panel.company_id.nunique()), "balanced_companies": int(panel.groupby("company_id").report_year.nunique().eq(6).sum()), "unbalanced_companies": int(panel.company_id.nunique() - panel.groupby("company_id").report_year.nunique().eq(6).sum())}, "years": years, "descriptiveTable": records(sources["descriptive_statistics"]), "correlations": high_pairs[:10], "generated_at": now, "git_commit": commit}
+    summary = {"panel": {"observations": len(panel), "companies": int(panel.company_id.nunique()), "balanced_companies": int(panel.groupby("company_id").report_year.nunique().eq(6).sum()), "unbalanced_companies": int(panel.company_id.nunique() - panel.groupby("company_id").report_year.nunique().eq(6).sum())}, "years": years, "descriptiveTable": dashboard_descriptive_rows(sources["descriptive_statistics"]), "correlations": high_pairs[:10], "generated_at": now, "git_commit": commit}
     payloads = {
         "analysis-summary.json": summary,
         "yearly-statistics.json": records(sources["yearly_statistics"]),
