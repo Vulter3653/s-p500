@@ -1,3 +1,11 @@
+## 2026-08-02 - continuous backfill 최소 구현
+
+- 구현: `.github/workflows/run-historical-backfill-continuous.yml`에 prepare·최대 6개 process-batches·finalize-and-dispatch 구조를 추가했다. 기본값은 dry-run이며 `execute=true`와 명시적 confirmation 없이는 외부 쓰기와 dispatch를 수행하지 않는다. (codex)
+- 구현: `scripts/continuous_backfill.py`가 실제 `ai_term_count`를 사용해 결측을 0으로 오인하지 않고, 3년 연속 검증 0 상태 전이와 원자적 CSV·Parquet candidate append를 처리한다. (codex)
+- 구현: `generate_web_analysis_data.py`가 `--panel`, `--analysis-dir`, `--start-year`, `--end-year`를 받아 historical candidate 입력을 사용할 수 있게 했다. (codex)
+- 검증: continuous fixture 4건과 runner 일반화 테스트를 합쳐 21건 통과, Python compile, workflow YAML parse, dry-run no-write, `git diff --check`를 확인했다. (codex)
+- 제한: 실제 SEC/R2/Google Drive 수집, historical manifest 생성, publication branch push 및 self-dispatch는 아직 실행하지 않았다. (codex)
+
 ## 2026-08-02 - 연속 historical backfill 인수인계 보존
 
 - 조치: `codex/historical-backfill-continuous` 원격 branch를 runner 구현 기준에서 생성하고 `docs/handoff-historical-backfill-continuous.md`를 커밋했다. 2019부터 과거 방향으로 계속 진행하고 완전히 검증된 3개 연속 `annual_ai_keyword_count=0`에서만 종료하는 요구사항, candidate panel·dashboard preview·self-dispatch 순서를 기록했다. (codex)
