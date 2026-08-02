@@ -45,6 +45,31 @@ REQUIRED_SOURCES = {
 }
 
 
+def source_paths(analysis_dir: Path) -> dict[str, Path]:
+    """Resolve the existing table/figure contract for a candidate directory."""
+    tables = analysis_dir / "tables"
+    figures = analysis_dir / "figures"
+    return {
+        "yearly_statistics": tables / "table_04_descriptive_statistics_by_year.csv",
+        "sample_by_year": tables / "table_01_sample_by_year.csv",
+        "descriptive_statistics": tables / "table_02_overall_descriptive_statistics.csv",
+        "binary_statistics": tables / "table_03_binary_variable_statistics.csv",
+        "disclosure_comparison": tables / "table_05_ai_disclosure_group_comparison.csv",
+        "within_firm_changes": tables / "table_07_within_firm_annual_changes.csv",
+        "year_over_year_changes": tables / "table_06_year_over_year_aggregate_changes.csv",
+        "pearson_full": tables / "table_08_pearson_correlation_full_sample.csv",
+        "spearman_full": tables / "table_09_spearman_correlation_full_sample.csv",
+        "pearson_ai": tables / "table_10_pearson_correlation_ai_disclosers.csv",
+        "spearman_ai": tables / "table_11_spearman_correlation_ai_disclosers.csv",
+        "correlation_pvalues": tables / "table_13_correlation_pvalues.csv",
+        "high_correlations": tables / "table_14_high_correlation_pairs.csv",
+        "vif": tables / "table_15_vif_diagnostics.csv",
+        "aggregate_figures": figures / "figure_aggregate_data.csv",
+        "ai_group_figures": figures / "figure_ai_group_data.csv",
+        "within_change_figures": figures / "figure_within_firm_change_data.csv",
+    }
+
+
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
     with path.open("rb") as handle:
@@ -178,10 +203,18 @@ def write_definition_markdown(path: Path, definitions: list[dict]) -> None:
     path.write_text("\n".join(line.rstrip() for line in lines), encoding="utf-8")
 
 
-def generate(output: Path) -> dict:
-    panel = pd.read_csv(PANEL)
-    sources = {key: pd.read_csv(path) for key, path in REQUIRED_SOURCES.items()}
-    if set(sources["sample_by_year"]["report_year"].astype(int)) != set(range(2020, 2026)):
+def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYSIS,
+             start_year: int | None = None, end_year: int | None = None) -> dict:
+    panel = pd.read_parquet(panel_path) if panel_path.suffix == ".parquet" else pd.read_csv(panel_path)
+    required_sources = source_paths(analysis_dir)
+    missing_sources = [str(path) for path in required_sources.values() if not path.exists()]
+    if missing_sources:
+        raise ValueError(f"missing analysis sources: {missing_sources}")
+    sources = {key: pd.read_csv(path) for key, path in required_sources.items()}
+    observed_years = set(sources["sample_by_year"]["report_year"].astype(int))
+    start_year = int(start_year if start_year is not None else min(observed_years))
+    end_year = int(end_year if end_year is not None else max(observed_years))
+    if observed_years != set(range(start_year, end_year + 1)):
         raise ValueError("Generated web data do not match analysis period")
     if len(panel) != int(sources["sample_by_year"]["firm_year_count"].sum()):
         raise ValueError("Generated web data do not match panel row count")
@@ -201,8 +234,8 @@ def generate(output: Path) -> dict:
     definitions = load_definitions(list(panel.columns))
     now = datetime.now(timezone.utc).isoformat()
     commit = git_commit()
-    manifest = {"analysis_period": "2020-2025", "unit_of_analysis": "firm-year", "git_commit": commit, "generated_at": now, "sources": []}
-    for key, path in REQUIRED_SOURCES.items():
+    manifest = {"analysis_period": f"{start_year}-{end_year}", "unit_of_analysis": "firm-year", "git_commit": commit, "generated_at": now, "sources": []}
+    for key, path in required_sources.items():
         manifest["sources"].append({"dataset_id": key, "source_file": str(path.relative_to(ROOT)), "source_sha256": sha256(path), "source_columns": list(sources[key].columns), "generation_script": "scripts/generate_web_analysis_data.py"})
     manifest["sources"].append({"dataset_id": "extended_panel", "source_file": str(PANEL.relative_to(ROOT)), "source_sha256": sha256(PANEL), "source_columns": list(panel.columns), "generation_script": "scripts/generate_web_analysis_data.py"})
 
@@ -237,7 +270,7 @@ def generate(output: Path) -> dict:
         source_key = {"aggregate": "aggregate_figures", "ai_group": "ai_group_figures", "within_change": "within_change_figures", "comparison": "disclosure_comparison"}[dataset_id]
         if figure_id == "figure-02":
             source_key = "yearly_statistics"
-        source_path = REQUIRED_SOURCES[source_key]
+        source_path = required_sources[source_key]
         figure_manifest.append({
             "figure_id": figure_id, "number": number, "title": title, "type": chart_type,
             "section": "7. 분석 결과", "source_file": str(source_path.relative_to(ROOT)),
@@ -269,7 +302,7 @@ def generate(output: Path) -> dict:
         "within-firm-changes.json": records(sources["within_firm_changes"]),
         "correlations.json": {"pearson_full": records(sources["pearson_full"]), "spearman_full": records(sources["spearman_full"]), "pearson_ai": records(sources["pearson_ai"]), "spearman_ai": records(sources["spearman_ai"]), "pvalues": records(sources["correlation_pvalues"]), "high_pairs": records(sources["high_correlations"])},
         "vif.json": records(sources["vif"]), "pearson-correlations.json": records(sources["pearson_full"]), "spearman-correlations.json": records(sources["spearman_full"]), "variable-definitions.json": definitions,
-        "source-manifest.json": manifest, "build-metadata.json": {"generated_at": now, "git_commit": commit, "analysis_period": "2020-2025", "version": (ROOT / "VERSION").read_text().strip()},
+        "source-manifest.json": manifest, "build-metadata.json": {"generated_at": now, "git_commit": commit, "analysis_period": f"{start_year}-{end_year}", "version": (ROOT / "VERSION").read_text().strip()},
         "year-over-year-changes.json": records(sources["year_over_year_changes"]),
         "sample-audit.json": {"panel_rows": len(panel), "year_rows": records(sources["sample_by_year"]), "duplicate_company_year": int(panel.duplicated(["company_id", "report_year"]).sum()), "duplicate_accession": int(panel.duplicated(["accession_number"]).sum())},
         "quality-control.json": {"panel_rows": len(panel), "infinity_rows": 0, "share_range_validated": True, "source_columns": len(panel.columns)},
@@ -307,9 +340,14 @@ def generate(output: Path) -> dict:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUT)
+    parser.add_argument("--panel", type=Path, default=PANEL)
+    parser.add_argument("--analysis-dir", type=Path, default=ANALYSIS)
+    parser.add_argument("--start-year", type=int)
+    parser.add_argument("--end-year", type=int)
     args = parser.parse_args()
-    print(json.dumps(generate(args.output_dir), ensure_ascii=False))
+    print(json.dumps(generate(args.output_dir, args.panel, args.analysis_dir, args.start_year, args.end_year), ensure_ascii=False))
 
 
 if __name__ == "__main__":
     main()
+
