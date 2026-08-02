@@ -268,3 +268,9 @@
 - 문제 요약: 변수명과 결과값은 표시했지만 분석자가 분자·분모와 결측 처리 규칙을 화면에서 확인할 수 없었다. (codex)
 - 조치: 수식·측정 방법 카드를 추가해 기존 `measurement_design.csv`, `measurement_notes.md`, 변수 사전의 규칙을 표시했다. (codex)
 - 검증: 수치 재계산 없이 `npm run build`와 `git diff --check`를 수행한다. (codex)
+## 2026-08-02 - 문헌 근거 미표시
+
+- 문제 요약: 대시보드가 측정 수식은 설명했지만, AI 공시·금융 텍스트·가독성·구체성 변수의 문헌적 배경을 표시하지 않았다. (codex)
+- 확인: `/workspaces/codespaces-blank/문헌정리.pdf` 11쪽을 추출해 관련 연구의 측정 대상과 연구 질문을 확인했다. (codex)
+- 조치: 문헌 축별 카드와 본 연구의 연구 범위·비인과 해석 주의사항을 추가했다. (codex)
+- 검증: PDF 원문은 저장소에 복사하지 않았으며 `npm run build`, `git diff --check`를 수행한다. (codex)
