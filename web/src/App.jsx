@@ -1,8 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
 
-const DATA_FILES = {
+const CORE_FILES = {
   summary: "analysis-summary.json",
   definitions: "variable-definitions.json",
+  sourceManifest: "source-manifest.json",
+};
+
+const SUPPLEMENTAL_FILES = {
   yearly: "yearly-statistics.json",
   descriptive: "descriptive-statistics.json",
   comparison: "disclosure-comparison.json",
@@ -13,7 +17,6 @@ const DATA_FILES = {
   vif: "vif.json",
   sampleAudit: "sample-audit.json",
   quality: "quality-control.json",
-  sourceManifest: "source-manifest.json",
   buildMetadata: "build-metadata.json",
 };
 
@@ -61,6 +64,10 @@ function SourceNote({ source, generatedBy = "scripts/generate_web_analysis_data.
   return <div className="source-note"><strong>출처:</strong> <code>{source || "web/public/data/"}</code> · <strong>생성:</strong> <code>{generatedBy}</code>{n !== undefined && <> · <strong>N:</strong> {formatInteger(n)}</>}{condition && <> · <strong>조건:</strong> {condition}</>}</div>;
 }
 
+function SupplementalError({ source }) {
+  return <p className="section-error">해당 분석 산출물을 불러오지 못했습니다. Expected source: <code>{source}</code></p>;
+}
+
 function MetricTable({ rows, columns, caption, source, condition }) {
   return <div className="table-card"><div className="table-scroll"><table className="paper-table"><caption>{caption}</caption><thead><tr>{columns.map(([key, label]) => <th key={key}>{label}</th>)}</tr></thead><tbody>{rows.map((row, index) => <tr key={`${row.variable || row.report_year || row.year || "row"}-${index}`}>{columns.map(([key]) => <td key={key}>{row[key] === null || row[key] === undefined ? "-" : row[key]}</td>)}</tr>)}</tbody></table></div><SourceNote source={source} condition={condition} /></div>;
 }
@@ -70,7 +77,7 @@ function FormulaBlock({ title, formula, note }) {
 }
 
 function VariableBlock({ item }) {
-  return <details className="variable-block"><summary><span><code>{item.variable}</code><strong>{item.display_name}</strong></span><em>{item.analysis_level}</em></summary><div className="variable-detail"><p><strong>개념적 정의</strong>{item.conceptual_meaning}</p><p><strong>조작적 정의</strong>{item.definition} {item.operationalization}</p><FormulaBlock title="수식" formula={item.formula} /><div className="definition-grid"><p><strong>분자</strong>{display(item.numerator)}</p><p><strong>분모</strong>{display(item.denominator)}</p><p><strong>단위</strong>{display(item.unit)}</p><p><strong>적격 토큰</strong>{display(item.token_rule)}</p><p><strong>적격 문장</strong>{display(item.sentence_rule)}</p><p><strong>사전/NLP</strong>{display(item.method)}</p><p><strong>전처리</strong>{display(item.preprocessing)}</p><p><strong>결측 처리</strong>{display(item.missing_rule)}</p><p><strong>0 처리</strong>{display(item.zero_rule)}</p><p><strong>조건부 표본</strong>{display(item.conditional_sample)}</p><p><strong>Source column</strong><code>{display(item.source_columns)}</code></p><p><strong>Source dataset</strong><code>{item.source_dataset}</code></p><p><strong>Source script</strong><code>{display(item.source_scripts)}</code></p><p><strong>검증 규칙</strong>{display(item.validation_rule)}</p><p><strong>해석</strong>{display(item.interpretation)}</p><p><strong>한계</strong>{display(item.limitation)}</p><p><strong>별칭</strong><code>{display(item.aliases)}</code></p></div></div></details>;
+  return <details className="variable-block" data-variable-definition={item.variable}><summary><span><code>{item.variable}</code><strong>{item.display_name}</strong></span><em>{item.analysis_level}</em></summary><div className="variable-detail"><p><strong>개념적 정의</strong>{item.conceptual_meaning}</p><p><strong>조작적 정의</strong>{item.definition} {item.operationalization}</p><FormulaBlock title="수식" formula={item.formula} /><div className="definition-grid"><p><strong>분자</strong>{display(item.numerator)}</p><p><strong>분모</strong>{display(item.denominator)}</p><p><strong>단위</strong>{display(item.unit)}</p><p><strong>적격 토큰</strong>{display(item.token_rule)}</p><p><strong>적격 문장</strong>{display(item.sentence_rule)}</p><p><strong>사전/NLP</strong>{display(item.method)}</p><p><strong>전처리</strong>{display(item.preprocessing)}</p><p><strong>결측 처리</strong>{display(item.missing_rule)}</p><p><strong>0 처리</strong>{display(item.zero_rule)}</p><p><strong>조건부 표본</strong>{display(item.conditional_sample)}</p><p><strong>Source column</strong><code>{display(item.source_columns)}</code></p><p><strong>Source dataset</strong><code>{item.source_dataset}</code></p><p><strong>Source script</strong><code>{display(item.source_scripts)}</code></p><p><strong>검증 규칙</strong>{display(item.validation_rule)}</p><p><strong>해석</strong>{display(item.interpretation)}</p><p><strong>한계</strong>{display(item.limitation)}</p><p><strong>별칭</strong><code>{display(item.aliases)}</code></p></div></div></details>;
 }
 
 function Section({ id, number, title, kicker, children }) {
@@ -78,7 +85,7 @@ function Section({ id, number, title, kicker, children }) {
 }
 
 function Report({ data }) {
-  const { summary, definitions, yearly, descriptive, comparison, within, changes, pearson, spearman, vif, sampleAudit, quality, sourceManifest, buildMetadata, docs } = data;
+  const { summary, definitions, yearly, descriptive, comparison, within, changes, pearson, spearman, vif, sampleAudit, quality, sourceManifest, buildMetadata, docs = {}, supplementalErrors = {} } = data;
   const years = safeRows(yearly);
   const first = years[0] || {};
   const last = years[years.length - 1] || {};
@@ -112,13 +119,13 @@ function Report({ data }) {
 
       <Section id="statistics" number="6" title="통계 분석" kicker="STATISTICAL ANALYSIS"><div className="analysis-methods"><div><h3>기술통계</h3><p>전체 및 연도별 firm-year에 대해 N, 결측 N, 평균, 표준편차, 사분위수와 최댓값을 산출한다. AI 직접 문장 수준 변수는 AI 공시 firm-year 조건부 N을 별도로 유지한다.</p></div><div><h3>집단 비교</h3><p>AI 공시·미공시 집단의 평균 차이, 표준화 평균 차이와 Welch t-test를 표시한다. 연도·산업·규모를 통제하지 않은 단순 비교이다.</p></div><div><h3>변화</h3><p>연도별 절대 변화와 전년 대비 변화율, 실제 연속연도 firm-year의 동일 기업 내 변화(ΔX<sub>i,t</sub> = X<sub>i,t</sub> − X<sub>i,t−1</sub>)를 구분한다.</p></div><div><h3>연관성·진단</h3><p>Pearson·Spearman 상관과 후보 통제변수 VIF를 산출한다. 구성적 관계와 기계적으로 파생된 변수쌍은 동일 모형 투입 시 주의한다.</p></div></div><SourceNote source="analysis/descriptive_2020_2025/tables/" generatedBy="scripts/run_descriptive_statistics.py; scripts/run_correlation_analysis.py" /></Section>
 
-      <Section id="results" number="7" title="분석 결과" kicker="RESULTS"><h3>7.1 표본 특성 및 AI 공시 확산</h3><p>{first.report_year}년 AI 공시 비율은 {formatPercent(first.ai_disclosure_rate)}이고 {last.report_year}년에는 {formatPercent(last.ai_disclosure_rate)}이다. 연도별 관측치 수가 다르므로 전체 평균은 연도 평균의 단순평균이 아니라 원자료 전체 N을 기준으로 한다.</p><MetricTable caption="표 2. 연도별 핵심 기술통계" rows={resultRows} columns={[["report_year", "보고연도"], ["ai_disclosure_rate", "AI 공시 비율"], ["mean_ai_sentence_count_all", "AI 문장 평균(전체)"], ["mean_ai_sentence_count_disclosers", "AI 문장 평균(공시)"], ["mean_whole_report_concreteness_all", "전체 보고서 구체성"], ["mean_ai_concreteness_disclosers", "AI 구체성(공시)"], ["mean_present_tense_share_all", "현재 시제"], ["mean_future_tense_share_all", "미래 표지"], ["mean_lm_uncertainty_share_all", "Loughran–McDonald uncertainty"], ["mean_passive_voice_sentence_share_all", "수동태"], ["mean_fog_index_all", "Fog Index"], ["mean_report_word_count_all", "보고서 단어 수"]]} source="analysis/descriptive_2020_2025/tables/table_04_descriptive_statistics_by_year.csv" condition="AI 수준 값은 공시 firm-year 조건부" /><h3>7.2 전체 기술통계</h3><MetricTable caption="표 3. 전체 표본 기술통계" rows={descriptiveRows} columns={[["variable", "변수"], ["N", "N"], ["mean", "평균"], ["standard_deviation", "표준편차"], ["p25", "제1사분위수"], ["median", "중앙값"], ["p75", "제3사분위수"]]} source="analysis/descriptive_2020_2025/tables/table_02_overall_descriptive_statistics.csv" condition="전체 firm-year; AI 수준 변수는 유효 분모 조건부" /><h3>7.3 공시·미공시 비교</h3><MetricTable caption="표 4. AI 공시 여부별 단순 비교" rows={comparisonRows} columns={[["variable", "변수"], ["disclosure_N", "공시 N"], ["disclosure_mean", "공시 평균"], ["non_disclosure_N", "미공시 N"], ["non_disclosure_mean", "미공시 평균"], ["mean_difference", "평균 차이"], ["standardized_mean_difference", "표준화 차이"], ["welch_t", "Welch t"], ["welch_pvalue", "p-value"]]} source="analysis/descriptive_2020_2025/tables/table_05_ai_disclosure_group_comparison.csv" condition="연도·산업·규모 통제 없는 단순 집단 비교" /><h3>7.4 상관관계</h3><MetricTable caption="표 5. Pearson 상관관계 일부" rows={corrRows} columns={[["variable", "행 변수"], ["ai_disclosure", "AI 공시"], ["ai_sentence_count", "AI 문장 수"], ["whole_report_concreteness", "전체 구체성"], ["lm_uncertainty_share", "Loughran–McDonald uncertainty"], ["fog_index", "Fog Index"], ["report_word_count", "보고서 단어 수"]]} source="analysis/descriptive_2020_2025/tables/table_08_pearson_correlation_full_sample.csv" condition="pairwise complete observations" /><h3>7.5 동일 기업 변화와 VIF</h3><div className="two-column"><div><p>동일 기업 내 변화 산출물은 {formatInteger(within?.length)}개 변수·연도 조합이며, 실제 전년도 관측치가 있는 pair만 포함한다. 전체 변화표는 <code>year-over-year-changes.json</code>에서 연결한다.</p></div><MetricTable caption="표 6. VIF 진단" rows={vifRows} columns={[["variable", "변수"], ["N", "N"], ["VIF", "VIF"]]} source="analysis/descriptive_2020_2025/tables/table_15_vif_diagnostics.csv" condition="후보 텍스트 통제변수" /></div><p className="caution">상관계수와 VIF는 변수 간 연관성과 중복 가능성을 진단할 뿐 인과효과를 의미하지 않는다. 특히 count와 log count, count와 share, Fog와 평균 문장 길이, past·present·future share는 함께 투입할 때 구조적 중복을 검토해야 한다.</p></Section>
+      <Section id="results" number="7" title="분석 결과" kicker="RESULTS"><h3>7.1 표본 특성 및 AI 공시 확산</h3><p>{first.report_year || "-"}년 AI 공시 비율은 {formatPercent(first.ai_disclosure_rate)}이고 {last.report_year || "-"}년에는 {formatPercent(last.ai_disclosure_rate)}이다. 연도별 관측치 수가 다르므로 전체 평균은 연도 평균의 단순평균이 아니라 원자료 전체 N을 기준으로 한다.</p>{supplementalErrors.yearly ? <SupplementalError source="/data/yearly-statistics.json" /> : <MetricTable caption="표 2. 연도별 핵심 기술통계" rows={resultRows} columns={[["report_year", "보고연도"], ["ai_disclosure_rate", "AI 공시 비율"], ["mean_ai_sentence_count_all", "AI 문장 평균(전체)"], ["mean_ai_sentence_count_disclosers", "AI 문장 평균(공시)"], ["mean_whole_report_concreteness_all", "전체 보고서 구체성"], ["mean_ai_concreteness_disclosers", "AI 구체성(공시)"], ["mean_present_tense_share_all", "현재 시제"], ["mean_future_tense_share_all", "미래 표지"], ["mean_lm_uncertainty_share_all", "Loughran–McDonald uncertainty"], ["mean_passive_voice_sentence_share_all", "수동태"], ["mean_fog_index_all", "Fog Index"], ["mean_report_word_count_all", "보고서 단어 수"]]} source="analysis/descriptive_2020_2025/tables/table_04_descriptive_statistics_by_year.csv" condition="AI 수준 값은 공시 firm-year 조건부" />}<h3>7.2 전체 기술통계</h3>{supplementalErrors.descriptive ? <SupplementalError source="/data/descriptive-statistics.json" /> : <MetricTable caption="표 3. 전체 표본 기술통계" rows={descriptiveRows} columns={[["variable", "변수"], ["N", "N"], ["mean", "평균"], ["standard_deviation", "표준편차"], ["p25", "제1사분위수"], ["median", "중앙값"], ["p75", "제3사분위수"]]} source="analysis/descriptive_2020_2025/tables/table_02_overall_descriptive_statistics.csv" condition="전체 firm-year; AI 수준 변수는 유효 분모 조건부" />}<h3>7.3 공시·미공시 비교</h3>{supplementalErrors.comparison ? <SupplementalError source="/data/disclosure-comparison.json" /> : <MetricTable caption="표 4. AI 공시 여부별 단순 비교" rows={comparisonRows} columns={[["variable", "변수"], ["disclosure_N", "공시 N"], ["disclosure_mean", "공시 평균"], ["non_disclosure_N", "미공시 N"], ["non_disclosure_mean", "미공시 평균"], ["mean_difference", "평균 차이"], ["standardized_mean_difference", "표준화 차이"], ["welch_t", "Welch t"], ["welch_pvalue", "p-value"]]} source="analysis/descriptive_2020_2025/tables/table_05_ai_disclosure_group_comparison.csv" condition="연도·산업·규모 통제 없는 단순 집단 비교" />}<h3>7.4 상관관계</h3>{supplementalErrors.pearson ? <SupplementalError source="/data/pearson-correlations.json" /> : <MetricTable caption="표 5. Pearson 상관관계 일부" rows={corrRows} columns={[["variable", "행 변수"], ["ai_disclosure", "AI 공시"], ["ai_sentence_count", "AI 문장 수"], ["whole_report_concreteness", "전체 구체성"], ["lm_uncertainty_share", "Loughran–McDonald uncertainty"], ["fog_index", "Fog Index"], ["report_word_count", "보고서 단어 수"]]} source="analysis/descriptive_2020_2025/tables/table_08_pearson_correlation_full_sample.csv" condition="pairwise complete observations" />}<h3>7.5 동일 기업 변화와 VIF</h3><div className="two-column"><div>{supplementalErrors.within ? <SupplementalError source="/data/within-firm-changes.json" /> : <p>동일 기업 내 변화 산출물은 {formatInteger(within?.length)}개 변수·연도 조합이며, 실제 전년도 관측치가 있는 pair만 포함한다. 전체 변화표는 <code>year-over-year-changes.json</code>에서 연결한다.</p>}</div>{supplementalErrors.vif ? <SupplementalError source="/data/vif.json" /> : <MetricTable caption="표 6. VIF 진단" rows={vifRows} columns={[["variable", "변수"], ["N", "N"], ["VIF", "VIF"]]} source="analysis/descriptive_2020_2025/tables/table_15_vif_diagnostics.csv" condition="후보 텍스트 통제변수" />}</div><p className="caution">상관계수와 VIF는 변수 간 연관성과 중복 가능성을 진단할 뿐 인과효과를 의미하지 않는다. 특히 count와 log count, count와 share, Fog와 평균 문장 길이, past·present·future share는 함께 투입할 때 구조적 중복을 검토해야 한다.</p></Section>
 
       <Section id="discussion" number="8" title="논의" kicker="DISCUSSION"><p>AI 공시 비율과 AI 직접 문장 수는 후기 연도로 갈수록 확대되지만, 이 변화는 보고 관행과 표본 구성의 변화가 함께 반영된 기술적 패턴이다. 2023년 전후의 큰 폭 변화는 year fixed effects 또는 명시적인 시기 구분을 고려할 필요성을 보여주지만, 이 화면은 원인이나 사건을 확정하지 않는다.</p><p>AI 공시 여부가 후기 연도에 포화되면 이진변수의 횡단면 변별력이 감소할 수 있다. 후속 분석에서는 AI 문장 수, 문장 비율, 구체성, 시제 및 Loughran–McDonald 범주와 같은 연속형 특성을 별도로 검토할 수 있다.</p></Section>
 
-      <Section id="limitations" number="9" title="한계" kicker="LIMITATIONS"><MarkdownLite value={docs.limitations} /><SourceNote source="web/docs/research-dashboard-limitations.md" /></Section>
+      <Section id="limitations" number="9" title="한계" kicker="LIMITATIONS">{supplementalErrors.limitations ? <SupplementalError source="/docs/research-dashboard-limitations.md" /> : <MarkdownLite value={docs.limitations} />}<SourceNote source="web/docs/research-dashboard-limitations.md" /></Section>
 
-      <Section id="reproducibility" number="10" title="재현성" kicker="REPRODUCIBILITY"><MarkdownLite value={docs.reproducibility} /><div className="download-grid"><a href="/data/analysis-summary.json" download>분석 요약 JSON</a><a href="/data/variable-definitions.json" download>변수 정의 JSON</a><a href="/downloads/table-variable-definitions.csv" download>변수 정의 CSV</a><a href="/data/source-manifest.json" download>Source manifest</a></div><SourceNote source="web/public/data/source-manifest.json" /></Section>
+      <Section id="reproducibility" number="10" title="재현성" kicker="REPRODUCIBILITY">{supplementalErrors.reproducibility ? <SupplementalError source="/docs/research-dashboard-reproducibility.md" /> : <MarkdownLite value={docs.reproducibility} />}<div className="download-grid"><a href="/data/analysis-summary.json" download>분석 요약 JSON</a><a href="/data/variable-definitions.json" download>변수 정의 JSON</a><a href="/downloads/table-variable-definitions.csv" download>변수 정의 CSV</a><a href="/data/source-manifest.json" download>Source manifest</a></div><SourceNote source="web/public/data/source-manifest.json" /></Section>
 
       <span id="variables" className="anchor-alias" aria-hidden="true" /><Section id="appendix" number="부록 A" title="변수 정의" kicker="APPENDIX A · VARIABLE DEFINITIONS"><p>총 {formatInteger(definitions.length)}개 변수의 상세 정의를 패널별로 제공한다. 각 행을 펼치면 개념, 조작화, 수식, 분자·분모, 적격 단위, 전처리, 결측·0 처리, 조건부 표본, source와 한계를 확인할 수 있다.</p><div className="appendix-tools"><input placeholder="변수명 검색" aria-label="변수명 검색" onChange={(event) => { const value = event.target.value.toLowerCase(); document.querySelectorAll(".variable-block").forEach((node) => { node.hidden = value && !node.textContent.toLowerCase().includes(value); }); }} /></div><div className="appendix-list">{definitions.map((item) => <VariableBlock key={item.variable} item={item} />)}</div><SourceNote source="web/public/data/variable-definitions.json" n={definitions.length} /></Section>
 
@@ -131,8 +138,23 @@ export default function App() {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   useEffect(() => {
-    Promise.all(Object.entries(DATA_FILES).map(async ([key, filename]) => [key, await loadJson(filename)]).concat(DOCUMENTS.map(async ([key, filename]) => [key, await fetch(`/docs/${filename}`).then((response) => { if (!response.ok) throw new Error(`${filename}: ${response.status}`); return response.text(); })])))
-      .then((entries) => setData(Object.fromEntries(entries)))
+    const loadText = async (filename) => {
+      const response = await fetch(`/docs/${filename}`);
+      if (!response.ok) throw new Error(`${filename}: ${response.status}`);
+      return response.text();
+    };
+    Promise.all(Object.entries(CORE_FILES).map(async ([key, filename]) => [key, await loadJson(filename)]))
+      .then(async (coreEntries) => {
+        const optionalEntries = [...Object.entries(SUPPLEMENTAL_FILES).map(([key, filename]) => [key, loadJson(filename)]), ...DOCUMENTS.map(([key, filename]) => [key, loadText(filename)])];
+        const settled = await Promise.allSettled(optionalEntries.map(([, promise]) => promise));
+        const supplemental = {};
+        const supplementalErrors = {};
+        optionalEntries.forEach(([key], index) => {
+          if (settled[index].status === "fulfilled") supplemental[key] = settled[index].value;
+          else supplementalErrors[key] = settled[index].reason?.message || "request failed";
+        });
+        setData({ ...Object.fromEntries(coreEntries), ...supplemental, docs: { methodology: supplemental.methodology, results: supplemental.results, limitations: supplemental.limitations, reproducibility: supplemental.reproducibility }, supplementalErrors });
+      })
       .catch((reason) => setError(reason.message));
   }, []);
   if (error) return <main className="loading-shell"><h1>분석 보고서를 불러오지 못했습니다.</h1><p>{error}</p><button type="button" onClick={() => window.location.reload()}>다시 시도</button></main>;

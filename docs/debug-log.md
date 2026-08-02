@@ -1,5 +1,15 @@
 # Debug Log
 
+## 2026-08-02 - production blank screen의 첫 pageerror 확인
+
+- 재현 명령: `cd web && npx playwright test tests/production-smoke.spec.js --reporter=line`를 production base URL로 실행했다.
+- 관찰: HTTP 200, console error 0, failed request 0이었지만 `pageerror`는 다음과 같았다: `TypeError: Cannot read properties of undefined (reading 'limitations')` at `b0 (https://s-p500.pages.dev/assets/index-wyBcecrj.js:49:57861)`.
+- 원인: `Report` 함수에서 `docs.limitations`와 `docs.reproducibility`를 읽었으나 production 데이터 조합 객체에 `docs`가 존재하지 않았다. React root 전체가 예외로 중단되어 흰 화면이 되었다.
+- 수정: `docs = {}` 기본값을 추가하고, core data와 supplemental data를 분리했다. supplemental JSON/Markdown은 `Promise.allSettled()`로 로드하고 실패 시 해당 section에 Expected source 오류를 표시한다. `ErrorBoundary`가 남은 렌더 오류를 사용자에게 보여준다.
+- 추가 원인: mobile viewport에서 긴 source path가 `scrollWidth=706`(viewport 390)을 만들었다. source note 줄바꿈과 `min-width:0`·table containment로 수정했다.
+- 재검증: local production preview에서 desktop/mobile 모두 `pageerror=[]`, `consoleErrors=[]`, `failedRequests=[]`, 필수 heading 표시, appendix 204개, horizontal overflow false로 통과했다.
+- 상태: local 수정 해결. production은 새 commit push 및 재배포 후 동일 테스트를 수행한다.
+
 ## 2026-08-02 - 루트 화면이 논문 보고서형으로 보이지 않던 문제
 
 - 증상: `/`가 hero·요약 카드·간단 그래프 중심의 발표용 개요를 유지하고 상세 방법론·결과·변수 수식이 hash 페이지에만 노출됐다.

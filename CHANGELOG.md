@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Fixed: production blank screen의 실제 원인은 `docs` 객체가 설정되기 전에 `docs.limitations`를 읽은 React 런타임 예외였으며, 선택 데이터 로딩을 `Promise.allSettled()`로 분리하고 기본값·section error를 추가했다. (codex)
+- Added: `ErrorBoundary`, Playwright production/local smoke test, desktop·mobile screenshot 생성 및 `test:browser` script를 추가했다. (codex)
+- Fixed: 모바일 source note와 표가 body 폭을 밀어내던 overflow를 수정했다. (codex)
+
 - Changed: 루트 Cloudflare Pages 화면을 발표형 카드 대시보드에서 논문 보고서형 통합 문서로 재구성하고, 표·수식·source note·변수 정의 부록을 실제 분석 JSON과 연결했다. (codex)
 - Added: production preview에서 제공할 감사된 방법론·결과·한계·재현성 Markdown 사본과 A4 인쇄용 stylesheet를 생성한다. (codex)
 

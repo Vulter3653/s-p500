@@ -2,6 +2,15 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - production blank screen 원인 확인 및 브라우저 검증
+
+- 재현: Playwright Chromium으로 `https://s-p500.pages.dev/?diagnostic=1`을 실행한 결과 `TypeError: Cannot read properties of undefined (reading 'limitations')`가 첫 `pageerror`로 발생했다. HTTP status는 200이었고 failed request·console error는 0이었다. (codex)
+- 원인: production bundle의 `Report`가 `data.docs.limitations`를 읽었지만 optional 문서 로딩 결과를 `docs` 객체로 묶기 전에 렌더링했다. (codex)
+- 조치: `ErrorBoundary`를 root에 적용하고, core JSON과 supplemental JSON/Markdown을 분리해 optional 자료를 `Promise.allSettled()`로 로드하며 `docs = {}` 기본값과 section-level 오류 안내를 추가했다. (codex)
+- 추가 수정: 모바일에서 긴 source 경로가 body `scrollWidth`를 확장하던 문제를 `overflow-wrap`, `min-width: 0`, table containment으로 수정했다. (codex)
+- 검증: local production preview Playwright desktop/mobile 2개 테스트가 pageerror·console error·failed request 0, 필수 heading 표시, appendix 204개 DOM, mobile horizontal overflow 없음으로 통과했다. (codex)
+- 상태: 수정 후 production 재배포 및 동일 Playwright test 재실행이 필요하다. (codex)
+
 ## 2026-08-02 - 루트 연구보고서형 대시보드 재구성
 
 - 변경: `web/src/App.jsx`의 루트 화면을 표지·초록·연구설계·표본 구축·자료 수집·텍스트 처리·변수 측정·통계 분석·결과·논의·한계·재현성·부록 순서의 통합 보고서로 전면 재구성했다. (codex)

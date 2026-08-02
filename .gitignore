@@ -26,4 +26,7 @@ references/dictionaries/brysbaert_concreteness/analysis_ready_dictionary/*
 references/software/r_library/
 node_modules/
 web/node_modules/
+web/test-results/
+web/playwright-report/
+web/artifacts/
 dist/
