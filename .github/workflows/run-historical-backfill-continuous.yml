@@ -247,6 +247,10 @@ jobs:
             --start-year "$(python -c 'import pandas as pd; print(int(pd.read_parquet("panel_historical_candidate/firm_year_language_panel_full_candidate.parquet").report_year.min()))')" \
             --end-year 2025 \
             --output-dir web/public/data/historical-candidate
+          cd web
+          npm ci --prefer-offline --no-audit --no-fund
+          npm run build
+          cd ..
           mkdir -p automation/historical_backfill/year-status
           cp "outputs/$year/merged/annual_validation.json" "automation/historical_backfill/year-status/$year.json"
           rm -rf /tmp/historical-publication-files
