@@ -1,3 +1,9 @@
+## 2026-08-02 - Codespace 종료 대비 continuous backfill 인수인계
+
+- 관찰: Codespace 종료가 임박해 연속 historical backfill의 orchestration, atomic panel publication 및 dashboard preview를 이 환경에서 구현·실행하기에는 안전한 검증 시간이 부족하다. (codex)
+- 조치: 실제 외부 쓰기 없이 원격 `codex/historical-backfill-continuous` branch에 인수인계 문서와 재접속 명령을 보존했다. runner PR #3 fixture Actions 성공 상태와 보호 대상 파일을 명시했다. (codex)
+- 제한: 실제 SEC 요청, R2/Google Drive 쓰기, annual run, self-dispatch 및 Cloudflare preview는 수행하지 않았다. 다음 Codespace에서 schema·CLI를 재확인한 뒤 구현해야 한다. (codex)
+
 # Debug Log
 
 ## 2026-08-02 - yearly runner의 503개 표본·6개 batch 일반화
