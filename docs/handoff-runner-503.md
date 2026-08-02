@@ -4,7 +4,8 @@
 
 - Repository: `Vulter3653/s-p500`
 - Branch: `codex/generalize-yearly-10k-runner-503`
-- Commit: `24fb65db13f1c15b0554335d86d42e9820a1bd61`
+- Runner implementation commit: `24fb65db13f1c15b0554335d86d42e9820a1bd61`
+- Latest handoff commits: `c0e51c9111be4bfc3932d9383ea0d441e9e771d7`, `296bea64e72d689b0f5053430ad8366032fda82a`
 - Base main: `eb7d410daf10f1271f313b1cd0e0bc63d6db2ab5`
 - VERSION: `0.12.0`
 
@@ -17,8 +18,8 @@ commit과 Pull Request를 재개 기준으로 사용한다.
 - fixture/mock validation: `PASS` (34 tests)
 - actual historical collection: 실행하지 않음
 - main merge: 수행하지 않음
-- runner PR: 생성 절차 진행 중
-- runner Actions: PR 생성 후 fixture 전용 workflow가 실행됨
+- runner PR: [#3](https://github.com/Vulter3653/s-p500/pull/3)
+- runner Actions: [run 30741703453](https://github.com/Vulter3653/s-p500/actions/runs/30741703453), 성공
 - 실제 SEC/R2/Google Drive 쓰기: 0
 
 ## 상수와 분할 규칙
