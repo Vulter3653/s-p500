@@ -355,13 +355,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `source_company_id`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -378,13 +378,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `sample_order`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -401,13 +401,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `batch_id`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -424,13 +424,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_date`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -447,13 +447,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `form`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -470,13 +470,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `r2_object_key`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -493,13 +493,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `cik`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -516,13 +516,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ticker`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -539,13 +539,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `company_name`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -562,13 +562,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `accession_number`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -585,13 +585,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `filing_date`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -608,13 +608,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `parser_version`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -631,13 +631,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `language_measurement_version`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -654,13 +654,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_disclosure_binary`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -677,13 +677,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_term_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -700,13 +700,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_terms_per_1000_words`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -723,13 +723,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `total_analysis_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -746,13 +746,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `total_analysis_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -769,13 +769,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_detection_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -792,13 +792,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_uncertainty_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -815,13 +815,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_uncertainty_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -838,13 +838,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_litigious_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -861,13 +861,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_litigious_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -884,13 +884,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_weak_modal_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -907,13 +907,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_weak_modal_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -930,13 +930,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_strong_modal_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -953,13 +953,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_strong_modal_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -976,13 +976,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_constraining_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -999,13 +999,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_constraining_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1022,13 +1022,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_total_eligible_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1045,13 +1045,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `uncertainty_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1068,13 +1068,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_positive_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1091,13 +1091,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_negative_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1114,13 +1114,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_positive_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1137,13 +1137,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_negative_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1160,13 +1160,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_net_tone`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1183,13 +1183,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_sentiment_word_coverage`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1206,13 +1206,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_net_tone_by_words`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1229,13 +1229,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_total_lm_matched_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1252,13 +1252,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `sentiment_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1275,13 +1275,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_mean`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1298,13 +1298,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_median`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1321,13 +1321,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_standard_deviation`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1344,13 +1344,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_min`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1367,13 +1367,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_max`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1390,13 +1390,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_matched_token_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1413,13 +1413,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_eligible_token_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1436,13 +1436,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_unmatched_token_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1459,13 +1459,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_coverage`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1482,13 +1482,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_unique_dictionary_entries`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1505,13 +1505,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_stem_collision_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1528,13 +1528,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1551,13 +1551,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_mean`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1574,13 +1574,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_median`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1597,13 +1597,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_standard_deviation`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1620,13 +1620,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_min`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1643,13 +1643,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_max`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1666,13 +1666,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_matched_token_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1689,13 +1689,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_eligible_token_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1712,13 +1712,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_unmatched_token_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1735,13 +1735,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_coverage`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1758,13 +1758,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_unique_dictionary_entries`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1781,13 +1781,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_stem_collision_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1804,13 +1804,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1827,13 +1827,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `log_report_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1850,13 +1850,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1873,13 +1873,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_paragraph_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1896,13 +1896,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_mean_sentence_length`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1919,13 +1919,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_fog_index`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1942,13 +1942,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_numeric_token_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1965,13 +1965,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_ai_term_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -1988,13 +1988,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_ai_terms_per_1000_words`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2011,13 +2011,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_table_text_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2034,13 +2034,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_table_text_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2057,13 +2057,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `source_html_bytes`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2080,13 +2080,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `analysis_text_bytes`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2103,13 +2103,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `analysis_text_to_html_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2126,13 +2126,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_control_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2149,13 +2149,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_positive_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2172,13 +2172,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_negative_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2195,13 +2195,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_net_tone`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2218,13 +2218,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_uncertainty_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2241,13 +2241,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_uncertainty_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2264,13 +2264,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_weak_modal_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2287,13 +2287,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_weak_modal_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2310,13 +2310,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_strong_modal_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2333,13 +2333,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_strong_modal_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2356,13 +2356,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_litigious_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2379,13 +2379,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_litigious_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2402,13 +2402,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_constraining_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2425,13 +2425,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_constraining_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2448,13 +2448,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_forward_looking_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2471,13 +2471,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_forward_looking_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2494,13 +2494,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_positive_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2517,13 +2517,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_negative_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2540,13 +2540,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_net_tone_by_words`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2563,13 +2563,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_sentiment_word_coverage`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2586,13 +2586,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_total_lm_matched_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2609,13 +2609,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_total_eligible_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2632,13 +2632,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `concreteness_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2655,13 +2655,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_ai_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2678,13 +2678,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_report_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2701,13 +2701,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `matching_strategy_version`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2724,13 +2724,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `concreteness_preprocessing_version`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2747,13 +2747,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `warning_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2770,13 +2770,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_single_ai_sentence_warning`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2793,13 +2793,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_stem_collision_warning`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2816,13 +2816,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_denominator_zero_warning`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2839,13 +2839,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_extraction_warning`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2862,13 +2862,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_any_warning`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2885,13 +2885,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_failed_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2908,13 +2908,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_disclosure_flag`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2931,13 +2931,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `panel_start_year`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2954,13 +2954,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `panel_end_year`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -2977,13 +2977,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `panel_year_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3000,13 +3000,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `is_balanced_2020_2025`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3023,13 +3023,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `has_gap_within_observed_period`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3046,13 +3046,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ticker_changed_within_panel`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3069,13 +3069,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `company_name_changed_within_panel`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3092,13 +3092,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `cik_changed_within_panel`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3115,13 +3115,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `first_observed_year`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3138,13 +3138,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `last_observed_year`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3161,13 +3161,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_disclosure_flag_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3184,13 +3184,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_disclosure_flag_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3207,13 +3207,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_sentence_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3230,13 +3230,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_sentence_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3253,13 +3253,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_mean_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3276,13 +3276,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_concreteness_mean_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3299,13 +3299,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_mean_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3322,13 +3322,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_concreteness_mean_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3345,13 +3345,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_positive_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3368,13 +3368,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_positive_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3391,13 +3391,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_negative_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3414,13 +3414,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_negative_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3437,13 +3437,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_uncertainty_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3460,13 +3460,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_uncertainty_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3483,13 +3483,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_positive_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3506,13 +3506,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_positive_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3529,13 +3529,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_negative_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3552,13 +3552,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_negative_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3575,13 +3575,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_uncertainty_count_lag1`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3598,13 +3598,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_uncertainty_count_change`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3621,13 +3621,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `past_tense_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3644,13 +3644,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `present_tense_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3667,13 +3667,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `future_tense_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3690,13 +3690,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `finite_verb_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3713,13 +3713,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `passive_voice_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3736,13 +3736,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `spacy_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3759,13 +3759,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_past_tense_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3782,13 +3782,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_present_tense_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3805,13 +3805,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_future_tense_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3828,13 +3828,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_finite_verb_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3851,13 +3851,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_past_tense_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3874,13 +3874,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_present_tense_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3897,13 +3897,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_future_tense_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3920,13 +3920,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_passive_voice_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3943,13 +3943,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_passive_voice_sentence_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3966,13 +3966,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_spacy_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -3989,13 +3989,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `report_character_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4012,13 +4012,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `average_word_length`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4035,13 +4035,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lexical_density`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4058,13 +4058,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `root_type_token_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4081,13 +4081,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `type_token_ratio`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4104,13 +4104,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `percentage_expression_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4127,13 +4127,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `currency_expression_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4150,13 +4150,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4173,13 +4173,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `log_ai_word_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4196,13 +4196,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_fog_index`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4219,13 +4219,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_average_sentence_length`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4242,13 +4242,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_complex_word_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4265,13 +4265,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `tense_measurement_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4288,13 +4288,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `passive_voice_measurement_status`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4311,13 +4311,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `dependency_model`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4334,13 +4334,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `dependency_model_version`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4357,13 +4357,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `extended_measurement_version`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4380,13 +4380,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `log1p_ai_sentence_count`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4403,13 +4403,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_positive_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4426,13 +4426,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_negative_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4449,13 +4449,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_litigious_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4472,13 +4472,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_strong_modal_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4495,13 +4495,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_weak_modal_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4518,13 +4518,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `lm_constraining_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4541,13 +4541,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_positive_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4564,13 +4564,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_negative_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4587,13 +4587,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_uncertainty_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4610,13 +4610,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_litigious_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4633,13 +4633,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_strong_modal_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4656,13 +4656,13 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_weak_modal_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
 
@@ -4679,12 +4679,12 @@
 **문장 규칙:** Inherited from source measurement.  
 **사전/NLP:** Existing source measurement  
 **전처리:** No transformation beyond serialization.  
-**결측:** Source missing remains null.  
-**0 처리:** Source zero remains zero.  
+**결측:** 원자료의 결측값은 결측으로 유지한다.  
+**0 처리:** 원자료의 0은 0으로 유지한다.  
 **조건부 표본:** Source-defined sample  
 **Source column:** `ai_lm_constraining_share`  
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`  
 **Measurement script:** `scripts/build_extended_language_panel.py`  
-**검증:** Source column exists; null semantics preserved.  
+**검증:** 원자료 열의 존재와 결측 의미를 검증한다.  
 **해석:** Interpret according to the source variable dictionary.  
 **한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.  
