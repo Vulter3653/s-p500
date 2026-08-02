@@ -1,5 +1,7 @@
 # Changelog
 
+- Fixed: 초기 데이터 로딩 중 조기 반환으로 React Hook 호출 순서가 달라져 화면이 멈출 수 있던 문제를 수정하고, 정적 분석 JSON 요청 실패 메시지와 재시도 UI를 추가했다. (codex)
+
 - Added: 실제 분석 CSV·패널에서 웹 JSON을 생성하고 논문 부록 수준의 변수 정의, source metadata, `/variables`·`/methods` 페이지를 제공한다. (codex)
 
 - Changed: Google Drive 평탄화 후 raw HTML 파일명을 `0_기업명_SYMBOL_CIK.html` 형식으로 변경하는 별도 수동 workflow를 추가했다. 파일 내용과 Drive file ID는 유지하고, manifest와 일치하지 않는 파일은 덮어쓰지 않는다. (codex)

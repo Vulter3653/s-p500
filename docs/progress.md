@@ -2,6 +2,12 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - 대시보드 초기 로딩 오류 수정
+
+- 원인: `summary`가 준비되기 전에는 반환하고 준비된 뒤에만 `useMemo`를 호출하여 React Hook 순서가 렌더 사이에서 바뀌었다. (codex)
+- 수정: `useMemo`를 모든 렌더에서 동일하게 호출하도록 이동하고, 분석 JSON 요청의 HTTP 오류 검사를 추가했다. (codex)
+- 검증: `npm run build`, `git diff --check` 통과. (codex)
+
 ## 2026-08-02 - 연구 보고용 웹 데이터·변수 정의 자동화
 
 - 추가: `scripts/generate_web_analysis_data.py`가 기존 분석 산출물에서 웹 JSON·CSV와 상세 변수 정의 문서를 생성한다. (codex)

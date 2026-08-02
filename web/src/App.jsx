@@ -6,27 +6,28 @@ const tableStat = (value, kind) => kind === "share" ? percent(value) : kind === 
 function App() {
   const [summary, setSummary] = useState(null);
   const [definitions, setDefinitions] = useState([]);
+  const [loadError, setLoadError] = useState(null);
   const [year, setYear] = useState("all");
   const [page, setPage] = useState(() => window.location.hash.replace("#", "") || "overview");
 
   useEffect(() => {
-    Promise.all([fetch("/data/analysis-summary.json").then((response) => response.json()), fetch("/data/variable-definitions.json").then((response) => response.json())])
+    Promise.all([fetch("/data/analysis-summary.json").then((response) => { if (!response.ok) throw new Error(`analysis-summary.json: ${response.status}`); return response.json(); }), fetch("/data/variable-definitions.json").then((response) => { if (!response.ok) throw new Error(`variable-definitions.json: ${response.status}`); return response.json(); })])
       .then(([data, variableData]) => { setSummary(data); setDefinitions(variableData); })
-      .catch(() => undefined);
+      .catch((error) => setLoadError(error.message));
     const onHashChange = () => setPage(window.location.hash.replace("#", "") || "overview");
     window.addEventListener("hashchange", onHashChange);
     return () => window.removeEventListener("hashchange", onHashChange);
   }, []);
 
-  if (!summary) return <main className="loading-shell"><p>분석 산출물을 불러오는 중입니다.</p></main>;
-  if (page === "variables") return <VariablesPage definitions={definitions} />;
-  if (page === "methods") return <MethodsPage />;
-
-  const years = summary.years;
+  const years = summary?.years ?? [];
   const selected = useMemo(
     () => (year === "all" ? years : years.filter((item) => String(item.year) === year)),
     [year, years],
   );
+  if (loadError) return <main className="loading-shell"><div><h1>분석 산출물을 불러오지 못했습니다.</h1><p>{loadError}</p><button type="button" onClick={() => window.location.reload()}>다시 시도</button></div></main>;
+  if (!summary) return <main className="loading-shell"><p>분석 산출물을 불러오는 중입니다.</p></main>;
+  if (page === "variables") return <VariablesPage definitions={definitions} />;
+  if (page === "methods") return <MethodsPage />;
   const observations = selected.reduce((total, item) => total + item.observations, 0);
   const disclosure = selected.reduce((total, item) => total + item.disclosure, 0);
   const rate = observations ? ((disclosure / observations) * 100).toFixed(1) : "-";
