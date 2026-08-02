@@ -2,6 +2,13 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - 논문 보고용 대시보드 설명 및 결과 페이지 확장
+
+- 수정: 전체 연도 `ai_sentence_count` 카드를 연도별 단순평균이 아닌 전체 descriptive statistics 평균과 연결했다. (codex)
+- 검증: 모든 variable definition의 source dataset·source script 존재를 생성 단계에서 확인하고 잘못된 concreteness script 경로를 수정했다. (codex)
+- 추가: `#results`, `#reproducibility`, `#limitations` 페이지와 연도 변화·상관·VIF·품질 JSON 및 다운로드 CSV를 추가했다. (codex)
+- 검증: 관련 테스트 8건, generator, frontend build, `git diff --check`를 실행했다. (codex)
+
 ## 2026-08-02 - 배포 화면 런타임 예외 수정
 
 - 원인: 배포된 `analysis-summary.json`은 `N`, `standard_deviation`, `p25`, `p75`를 제공했지만 화면은 다른 키를 참조했다. (codex)

@@ -1,8 +1,8 @@
 {
   "analysis_period": "2020-2025",
   "unit_of_analysis": "firm-year",
-  "git_commit": "9c617faf02f5d6f5a9c3f9261f0b8be9a144ce64",
-  "generated_at": "2026-08-02T07:13:06.498788+00:00",
+  "git_commit": "63e5913b6d7bc3e8be8282ee6696aaa0936ab966",
+  "generated_at": "2026-08-02T07:24:13.656909+00:00",
   "sources": [
     {
       "dataset_id": "yearly_statistics",
@@ -112,6 +112,20 @@
         "standard_deviation",
         "p25",
         "p75"
+      ],
+      "generation_script": "scripts/generate_web_analysis_data.py"
+    },
+    {
+      "dataset_id": "year_over_year_changes",
+      "source_file": "analysis/descriptive_2020_2025/tables/table_06_year_over_year_aggregate_changes.csv",
+      "source_sha256": "3bd587312cf4cbf6854b80ebc9f4de9cf81c7e01bccde8973fd6057204dd4a5c",
+      "source_columns": [
+        "variable",
+        "report_year",
+        "mean_value",
+        "year_over_year_absolute_change",
+        "year_over_year_change_rate",
+        "change_from_2020"
       ],
       "generation_script": "scripts/generate_web_analysis_data.py"
     },

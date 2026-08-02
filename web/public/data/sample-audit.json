@@ -1,0 +1,49 @@
+{
+  "panel_rows": 2829,
+  "year_rows": [
+    {
+      "report_year": 2020,
+      "firm_year_count": 446,
+      "unique_company_count": 446,
+      "ai_disclosure_count": 123,
+      "ai_disclosure_rate": 0.2757847533632287
+    },
+    {
+      "report_year": 2021,
+      "firm_year_count": 462,
+      "unique_company_count": 462,
+      "ai_disclosure_count": 144,
+      "ai_disclosure_rate": 0.3116883116883117
+    },
+    {
+      "report_year": 2022,
+      "firm_year_count": 471,
+      "unique_company_count": 471,
+      "ai_disclosure_count": 167,
+      "ai_disclosure_rate": 0.3545647558386411
+    },
+    {
+      "report_year": 2023,
+      "firm_year_count": 479,
+      "unique_company_count": 479,
+      "ai_disclosure_count": 327,
+      "ai_disclosure_rate": 0.6826722338204593
+    },
+    {
+      "report_year": 2024,
+      "firm_year_count": 487,
+      "unique_company_count": 487,
+      "ai_disclosure_count": 431,
+      "ai_disclosure_rate": 0.8850102669404517
+    },
+    {
+      "report_year": 2025,
+      "firm_year_count": 484,
+      "unique_company_count": 484,
+      "ai_disclosure_count": 468,
+      "ai_disclosure_rate": 0.9669421487603306
+    }
+  ],
+  "duplicate_company_year": 0,
+  "duplicate_accession": 0
+}

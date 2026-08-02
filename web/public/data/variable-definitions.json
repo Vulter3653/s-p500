@@ -20,7 +20,7 @@
     "source_columns": [
       "company_id"
     ],
-    "source_dataset": "panel_2020_2025/firm_year_language_extended.csv",
+    "source_dataset": "analysis/descriptive_2020_2025/firm_year_language_extended.csv",
     "source_scripts": [
       "scripts/build_2020_2025_language_panel.py"
     ],
@@ -361,7 +361,7 @@
     "source_columns": [
       "report_year"
     ],
-    "source_dataset": "panel_2020_2025/firm_year_language_extended.csv",
+    "source_dataset": "analysis/descriptive_2020_2025/firm_year_language_extended.csv",
     "source_scripts": [
       "scripts/build_2020_2025_language_panel.py"
     ],
@@ -5824,7 +5824,7 @@
     ],
     "source_dataset": "analysis/descriptive_2020_2025/firm_year_language_extended.csv",
     "source_scripts": [
-      "scripts/measure_brysbaert_concreteness.py",
+      "scripts/measure_linguistic_concreteness.py",
       "scripts/build_extended_language_panel.py"
     ],
     "validation_rule": "Coverage is within [0, 1]; collision counts retained.",
@@ -5861,7 +5861,7 @@
     ],
     "source_dataset": "analysis/descriptive_2020_2025/firm_year_language_extended.csv",
     "source_scripts": [
-      "scripts/measure_brysbaert_concreteness.py"
+      "scripts/measure_linguistic_concreteness.py"
     ],
     "validation_rule": "AI coverage within [0, 1]; N reflects valid AI-level observations.",
     "interpretation": "Higher score indicates more concrete matched AI vocabulary.",

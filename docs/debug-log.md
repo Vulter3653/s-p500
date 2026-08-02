@@ -1,5 +1,11 @@
 # Debug Log
 
+## 2026-08-02 - 전체 평균 및 연구 설명 확장
+
+- 문제: 전체 연도 카드가 연도별 평균의 단순평균을 사용했고, 방법론·결과·재현성·한계 설명이 별도 문서에만 축약되어 있었다.
+- 조치: `summary.descriptiveTable`의 source 전체 평균을 사용하도록 수정하고, 실제 source 경로 검증 및 상세 연구 페이지를 추가했다.
+- 검증: source dataset·script 204개 정의 검증, 관련 pytest 8건, frontend build, `git diff --check` 통과.
+
 ## 2026-08-02 - 배포 JSON 열 이름 불일치로 인한 빈 화면
 
 - 관찰: `https://s-p500.pages.dev/`와 `/data/analysis-summary.json`은 HTTP 200으로 응답했으므로 정적 파일 경로는 정상이었다.

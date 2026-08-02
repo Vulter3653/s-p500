@@ -24,3 +24,9 @@ def test_core_definitions_have_detailed_fields():
         assert item["denominator"]
         assert item["method"]
         assert item["limitation"]
+
+
+def test_dashboard_navigation_contains_research_pages():
+    app = (ROOT / "web/src/App.jsx").read_text()
+    for page in ("#variables", "#methods", "#results", "#reproducibility", "#limitations"):
+        assert page in app

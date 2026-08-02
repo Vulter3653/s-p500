@@ -18,7 +18,7 @@ company_id:
   zero_rule: "Not applicable"
   conditional_sample: "All firm-year observations"
   source_columns: [company_id]
-  source_dataset: "panel_2020_2025/firm_year_language_extended.csv"
+  source_dataset: "analysis/descriptive_2020_2025/firm_year_language_extended.csv"
   source_scripts: [scripts/build_2020_2025_language_panel.py]
   validation_rule: "company_id + report_year duplicate count = 0"
   interpretation: "Longitudinal firm key."
@@ -44,7 +44,7 @@ report_year:
   zero_rule: "Zero is invalid."
   conditional_sample: "All firm-year observations"
   source_columns: [report_year]
-  source_dataset: "panel_2020_2025/firm_year_language_extended.csv"
+  source_dataset: "analysis/descriptive_2020_2025/firm_year_language_extended.csv"
   source_scripts: [scripts/build_2020_2025_language_panel.py]
   validation_rule: "Values must be in 2020–2025."
   interpretation: "Research year."
@@ -149,7 +149,7 @@ whole_report_concreteness:
   conditional_sample: "All firm-year observations with valid report matches"
   source_columns: [whole_report_concreteness, report_concreteness_mean, report_concreteness_matched_token_count, report_concreteness_coverage]
   source_dataset: "analysis/descriptive_2020_2025/firm_year_language_extended.csv"
-  source_scripts: [scripts/measure_brysbaert_concreteness.py, scripts/build_extended_language_panel.py]
+  source_scripts: [scripts/measure_linguistic_concreteness.py, scripts/build_extended_language_panel.py]
   validation_rule: "Coverage is within [0, 1]; collision counts retained."
   interpretation: "Higher score indicates more concrete matched vocabulary under the lexicon."
   limitation: "Lexicon coverage and contextual meaning may not capture document-level abstraction."
@@ -175,7 +175,7 @@ ai_concreteness:
   conditional_sample: "AI disclosure firm-years only"
   source_columns: [ai_concreteness, ai_concreteness_mean, ai_concreteness_matched_token_count, ai_concreteness_coverage]
   source_dataset: "analysis/descriptive_2020_2025/firm_year_language_extended.csv"
-  source_scripts: [scripts/measure_brysbaert_concreteness.py]
+  source_scripts: [scripts/measure_linguistic_concreteness.py]
   validation_rule: "AI coverage within [0, 1]; N reflects valid AI-level observations."
   interpretation: "Higher score indicates more concrete matched AI vocabulary."
   limitation: "Conditional sample and sparse AI text can make the mean unstable."

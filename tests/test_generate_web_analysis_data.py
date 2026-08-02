@@ -26,3 +26,9 @@ def test_dashboard_summary_normalizes_descriptive_statistics_fields():
     first = summary["descriptiveTable"][0]
     for field in ("n", "sd", "q1", "q3", "kind", "label"):
         assert field in first
+
+
+def test_source_paths_are_real_files():
+    manifest = json.loads((ROOT / "web/public/data/source-manifest.json").read_text())
+    for source in manifest["sources"]:
+        assert (ROOT / source["source_file"]).exists()

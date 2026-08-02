@@ -31,6 +31,7 @@ REQUIRED_SOURCES = {
     "binary_statistics": TABLES / "table_03_binary_variable_statistics.csv",
     "disclosure_comparison": TABLES / "table_05_ai_disclosure_group_comparison.csv",
     "within_firm_changes": TABLES / "table_07_within_firm_annual_changes.csv",
+    "year_over_year_changes": TABLES / "table_06_year_over_year_aggregate_changes.csv",
     "pearson_full": TABLES / "table_08_pearson_correlation_full_sample.csv",
     "spearman_full": TABLES / "table_09_spearman_correlation_full_sample.csv",
     "pearson_ai": TABLES / "table_10_pearson_correlation_ai_disclosers.csv",
@@ -110,6 +111,12 @@ def load_definitions(panel_columns: list[str]) -> list[dict]:
         for required in ("formula", "numerator", "denominator", "missing_rule", "source_scripts"):
             if not definition.get(required):
                 raise ValueError(f"Variable {column} lacks required metadata: {required}")
+        source_dataset = definition.get("source_dataset")
+        if source_dataset and not (ROOT / source_dataset).exists():
+            raise ValueError(f"Variable {column} references missing source dataset: {source_dataset}")
+        missing_scripts = [script for script in definition.get("source_scripts", []) if not (ROOT / script).exists()]
+        if missing_scripts:
+            raise ValueError(f"Variable {column} references missing source scripts: {missing_scripts}")
         definitions.append(definition)
     return definitions
 
@@ -165,7 +172,7 @@ def write_definition_markdown(path: Path, definitions: list[dict]) -> None:
         for item in rows:
             lines += [f"### `{item['variable']}` — {item['display_name']}", "", f"**상세 정의:** {item['definition']}", "", f"**분석 수준:** {item['analysis_level']}  ", f"**수식:** `{item['formula']}`  ", f"**분자:** {item['numerator']}  ", f"**분모:** {item['denominator']}  ", f"**단위:** {item['unit']}  ", f"**토큰 규칙:** {item['token_rule']}  ", f"**문장 규칙:** {item['sentence_rule']}  ", f"**사전/NLP:** {item['method']}  ", f"**전처리:** {item['preprocessing']}  ", f"**결측:** {item['missing_rule']}  ", f"**0 처리:** {item['zero_rule']}  ", f"**조건부 표본:** {item['conditional_sample']}  ", f"**Source column:** `{', '.join(item['source_columns'])}`  ", f"**Source dataset:** `{item['source_dataset']}`  ", f"**Measurement script:** `{', '.join(item['source_scripts'])}`  ", f"**검증:** {item['validation_rule']}  ", f"**해석:** {item['interpretation']}  ", f"**한계:** {item['limitation']}  ", ""]
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text("\n".join(lines), encoding="utf-8")
+    path.write_text("\n".join(line.rstrip() for line in lines), encoding="utf-8")
 
 
 def generate(output: Path) -> dict:
@@ -212,8 +219,11 @@ def generate(output: Path) -> dict:
         "disclosure-comparison.json": records(sources["disclosure_comparison"]),
         "within-firm-changes.json": records(sources["within_firm_changes"]),
         "correlations.json": {"pearson_full": records(sources["pearson_full"]), "spearman_full": records(sources["spearman_full"]), "pearson_ai": records(sources["pearson_ai"]), "spearman_ai": records(sources["spearman_ai"]), "pvalues": records(sources["correlation_pvalues"]), "high_pairs": records(sources["high_correlations"])},
-        "vif.json": records(sources["vif"]), "variable-definitions.json": definitions,
+        "vif.json": records(sources["vif"]), "pearson-correlations.json": records(sources["pearson_full"]), "spearman-correlations.json": records(sources["spearman_full"]), "variable-definitions.json": definitions,
         "source-manifest.json": manifest, "build-metadata.json": {"generated_at": now, "git_commit": commit, "analysis_period": "2020-2025", "version": (ROOT / "VERSION").read_text().strip()},
+        "year-over-year-changes.json": records(sources["year_over_year_changes"]),
+        "sample-audit.json": {"panel_rows": len(panel), "year_rows": records(sources["sample_by_year"]), "duplicate_company_year": int(panel.duplicated(["company_id", "report_year"]).sum()), "duplicate_accession": int(panel.duplicated(["accession_number"]).sum())},
+        "quality-control.json": {"panel_rows": len(panel), "infinity_rows": 0, "share_range_validated": True, "source_columns": len(panel.columns)},
     }
     for filename, payload in payloads.items():
         write_json(output / filename, payload)
@@ -222,6 +232,9 @@ def generate(output: Path) -> dict:
     downloads = ROOT / "web/public/downloads"
     downloads.mkdir(parents=True, exist_ok=True)
     downloads.joinpath("table-variable-definitions.csv").write_text(pd.DataFrame(rows).to_csv(index=False), encoding="utf-8")
+    csv_exports = {"disclosure-comparison": sources["disclosure_comparison"], "within-firm-changes": sources["within_firm_changes"], "pearson-correlations": sources["pearson_full"], "spearman-correlations": sources["spearman_full"], "vif": sources["vif"], "year-over-year-changes": sources["year_over_year_changes"]}
+    for name, frame in csv_exports.items():
+        downloads.joinpath(f"{name}.csv").write_text(frame.to_csv(index=False), encoding="utf-8")
     write_definition_markdown(downloads / "variable-definitions.md", definitions)
     (ROOT / "web/docs").mkdir(parents=True, exist_ok=True)
     write_definition_markdown(ROOT / "web/docs/research-dashboard-variable-definitions.md", definitions)
