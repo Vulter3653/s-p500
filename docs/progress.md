@@ -249,3 +249,9 @@
 - 내용: SEC CIK·reportDate·Form 10-K 기준, Google Drive 원문 보관, AI·구체성·시제·수동태·LM·Fog 변수, 기술통계·연도 변화·within-firm·상관·VIF 절차를 설명한다. (codex)
 - 결과: AI 공시 확산, AI 문장 수 증가, AI 구체성 하락, 현재 시제 증가, Fog Index 변화의 기존 산출값을 표시한다. (codex)
 - 검증: `npm run build`, `git diff --check`를 실행한다. (codex)
+## 2026-08-02 - 대시보드 수식 및 측정 방법 반영
+
+- 변경: AI 공시, 시제 share, 수동태 share, LM share, Fog Index, concreteness 평균의 수식과 분자·분모를 접이식 연구 카드에 추가했다. (codex)
+- 처리: AI 직접 문장이 없을 때의 count 0과 구조적 결측, 미래 시제 표지 범위, spaCy dependency, SMART·Porter·collision 규칙을 명시했다. (codex)
+- 범위: 기존 산출값은 재계산하지 않았고 표시 설명만 보강했다. (codex)
+- 검증: `npm run build`, `git diff --check`를 실행한다. (codex)

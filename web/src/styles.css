@@ -105,6 +105,13 @@ tbody th { color: var(--ink); font-weight: 700; }
 .research-body dl { display: grid; grid-template-columns: minmax(110px, .8fr) 1.4fr; gap: 7px 14px; margin: 0; }
 .research-body dt { color: var(--ink); font-weight: 700; }
 .research-body dd { margin: 0; }
+.formula-card { grid-column: 1 / -1; }
+.formula-body { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px 20px; }
+.formula-body > div { display: grid; align-content: start; gap: 5px; padding: 12px; border-radius: 8px; background: #f6f8fa; }
+.formula-body > div strong { color: var(--ink); font-size: .74rem; }
+.formula-body > div code { color: var(--blue); font-size: .75rem; line-height: 1.5; white-space: normal; }
+.formula-body > div span { color: var(--muted); font-size: .72rem; line-height: 1.5; }
+.formula-body > p { grid-column: 1 / -1; }
 .result-body { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 18px; }
 .result-body div { display: grid; gap: 2px; padding-bottom: 7px; border-bottom: 1px solid #edf1f4; }
 .result-body div strong { color: var(--ink); font-size: .73rem; }
@@ -138,6 +145,8 @@ footer { padding: 22px 2px 0; color: #7f8b98; font-size: .72rem; }
   .cards { grid-template-columns: 1fr; }
   .method-panel, .method-copy { grid-template-columns: 1fr; gap: 14px; }
   .research-body { padding-left: 19px; }
+  .formula-body { grid-template-columns: 1fr; }
+  .formula-body > p { grid-column: auto; }
   .result-body { grid-template-columns: 1fr; }
   .result-body p { grid-column: auto; }
 }
