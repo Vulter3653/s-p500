@@ -11,6 +11,12 @@
 - 상태: 계획만 기록했으며 2019–2017년 workflow 실행, SEC 수집, R2·Google Drive 변경은 아직 수행하지 않았다. (codex)
 - 감사: 기존 2020–2025 실행기는 `2025/pilot_100` 경로와 1–5 batch를 하드코딩하고 있어 historical 6개 batch를 직접 처리할 수 없다. 기존 검증 pipeline을 깨뜨리지 않도록 전용 historical runner/workflow가 필요하다. (codex)
 
+## 2026-08-02 - 저장소 문서·버전·인수인계 상태 전수조사
+
+- 감사: 루트 `README.md`, 연도별 README, `2025/pilot_100/README.md`, `docs/current_project_handover.md`, `docs/repository-structure.md`, `docs/sample-definition.md`, `docs/constituent-data-method.md`의 과거 상태 설명을 현재 2020–2025 완료 및 2019–2017 계획과 일치하도록 정리했다. (codex)
+- 버전: `VERSION`은 실제 릴리스 변경이 없으므로 `0.12.0`으로 유지하고, 임의의 `0.13.0` 변경은 반영하지 않았다. (codex)
+- 보호: 기존 분석 결과·Google Drive 파일·R2 객체를 변경하지 않았으며, 역사 workflow도 실행하지 않았다. (codex)
+
 ## 2026-07-31 - 기술통계 Markdown 보고서 표시·해석 보완
 
 - 변경: `write_descriptive_reports.py`가 기존 통계 CSV를 수정하지 않고 한글 열 제목, 정수 연도·관측치 수, 백분율, p-value 및 `-` 구조적 결측 표시로 Markdown을 재생성하도록 개선했다. (codex)

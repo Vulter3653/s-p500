@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- Docs: 루트·연도별 README, 인수인계, repository structure, sample definition 및 constituent method 문서를 현재 2020–2025 완료 상태와 2019–2017 역사 확장 계획에 맞게 정리했다. `VERSION`은 `0.12.0`으로 유지했다. (codex)
 - Docs: 기존 2020–2025 실행기의 2025 pilot 경로·1–5 batch 하드코딩을 감사하고, historical 처리는 기존 pipeline을 깨뜨리지 않는 전용 runner/workflow로 분리해야 함을 기록했다. (codex)
 - Changed: Google Drive 신규 migration의 기본 저장 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 고정하고, 기존 중첩 폴더 형식은 `legacy_nested` 호환 옵션으로만 유지한다. (codex)
 - Docs: 기술통계 Markdown 보고서와 논문용 표를 한글 표시용 열 제목, 정수·백분율·p-value 형식, 구조적 결측 기호, 4개 연도별 패널 및 2023년 구조 변화 해석으로 보완했다. (codex)

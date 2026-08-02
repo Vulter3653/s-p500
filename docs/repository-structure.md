@@ -1,6 +1,6 @@
 # Repository Structure and File Guide
 
-Updated: 2026-07-24
+Updated: 2026-08-02
 
 이 문서는 `main` 브랜치의 디렉터리 구조, 각 파일의 역할, 수정 원칙 및
 파일 간 생성 관계를 설명한다. 실제 파일을 추가·이동·삭제할 때는 이 문서와
@@ -10,7 +10,7 @@ Updated: 2026-07-24
 
 ```text
 s-p500/
-├── 2020/ ... 2025/                    # 연구연도별 최종 표본 저장 영역
+├── 2017/ ... 2025/                    # 연구연도별 표본·결과 저장 영역
 │   ├── README.md                      # 연도별 기준일과 파일 안내
 │   ├── sp500_companies.csv            # 기업 단위 분석·10-K 수집의 기준 목록
 │   ├── sp500_securities.csv           # 주식 종류를 보존한 추적·감사용 목록
@@ -26,12 +26,16 @@ s-p500/
 │   └── processed/
 │       └── annual_constituents_manifest.json
 │                                          # 원본 URL·해시·생성법·연도별 품질 요약
+├── panel_2020_2025/                    # 기존 firm-year 패널과 복구 기록
+├── analysis/descriptive_2020_2025/     # 확장 언어 기술통계·상관분석 결과
 ├── docs/
 │   ├── repository-structure.md            # 현재 문서: 구조 및 파일 역할
 │   ├── sample-definition.md               # 연구연도와 S&P 500 기준일 정의
 │   ├── constituent-data-method.md         # 연도별 목록 생성·보정 방법
 │   ├── writing-rules.md                   # 문서·데이터·분석 기록 규칙
 │   ├── progress.md                        # 최신 진행 상태와 인수인계
+│   ├── current_project_handover.md        # 현재 상태와 다음 작업
+│   └── historical-reconstruction-2019-2017-plan.md # 역사 연도 확장 계획
 │   └── debug-log.md                       # 오류·원인·조치·검증 기록
 ├── scripts/
 │   ├── build_annual_constituents.py       # raw 자료를 읽어 연도별 CSV와 manifest 생성

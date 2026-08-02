@@ -1,13 +1,15 @@
 # Annual Constituent Data Method
 
-Updated: 2026-07-24
+Updated: 2026-08-02
+
+현재 저장소에는 2020–2025년 결과가 완료되어 있다. 2019–2017년은 역사 구성종목 원천자료와 SEC 적격 filing을 확인하면서 역순으로 확장할 계획이며, 기존 연도 산출물을 덮어쓰지 않는다.
 
 ## 산출물
 
 각 연구연도 폴더에는 두 종류의 목록을 둔다.
 
-- `sp500_companies.csv`: SEC CIK와 동일 기업명 기준으로 복수 주식 종류를 통합한 500개 기업 목록
-- `sp500_securities.csv`: 복수 주식 종류를 유지한 종목 단위 감사 목록
+- `sp500_companies.csv`: SEC CIK와 동일 기업명 기준으로 복수 주식 종류를 통합한 기업 목록
+- `sp500_securities.csv`: 복수 주식 종류를 유지한 종목 단위 감사 목록. 역사 자료에서는 503 securities가 될 수 있다.
 
 연도별 기준일은 `docs/sample-definition.md`에서 확정한 대로 연구연도 다음 해 1월 1일이다.
 

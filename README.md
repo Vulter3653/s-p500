@@ -1,65 +1,37 @@
-# S&P 500 Project
+# S&P 500 10-K 언어 분석 프로젝트
 
-이 저장소는 **2020년부터 2025년까지 S&P 500에 해당하는 전체 기업의 10-K 보고서를 수집하고 분석하는 프로젝트**를 위한 공간이다.
+이 저장소는 S&P 500 구성종목의 SEC Form 10-K를 firm-year 단위로 수집·추출·측정하고, 언어 분석 결과를 재현 가능하게 관리하는 프로젝트다.
 
-## 프로젝트 목적
+## 현재 상태
 
-본 프로젝트의 핵심 목적은 다음과 같다.
+- 완료된 분석 연도: 2020–2025
+- 기존 firm-year 패널: 2,829행
+- 기존 연도별 결과와 Google Drive raw HTML: 보존
+- R2: 이전 삭제 검증 후 빈 상태이며, 역사 연도 신규 수집 시에만 사용
+- 역사 확장 계획: 2019 → 2018 → 2017
+- 역사 연도 처리: 503 securities 목표, 실제 SEC 적격 filing만 포함
+- Free Tier 보호: 한 번에 한 연도, 기본 `max-parallel: 1`, checkpoint·resume, rate-limit 지연
 
-1. 2020-2025년 연구대상 S&P 500 기업 목록을 재현 가능한 기준으로 구축한다.
-2. 각 기업과 연도에 대응하는 10-K 원문 및 filing metadata를 SEC EDGAR에서 수집한다.
-3. 기업, CIK, ticker, 보고연도, 회계연도 종료일, filing date, accession number 및 원문 경로를 연결한다.
-4. 중복, 누락, 수정신고서, 기업명·ticker 변경 및 지수 편입·편출을 검증한다.
-5. 검증된 10-K corpus에서 기업의 서술적·언어적 특성을 측정하고 분석한다.
-6. 모든 표본 구축, 전처리, 변수 계산 및 분석 결과를 코드와 로그를 통해 재현 가능하게 관리한다.
+역사 연도 작업은 기존 2020–2025 실행기를 전역 수정하지 않고 전용 runner/workflow로 분리한다. 현재 역사 연도 workflow는 아직 실행되지 않았다.
 
-## 연구 범위
+## 연구 목적과 범위
 
-- 대상 기간: 2020-2025년
-- 대상 기업: 확정된 표본 정의에 따라 각 연도 S&P 500에 해당하는 전체 기업
-- 대상 공시: 미국 SEC Form 10-K
-- 주요 자료원: SEC EDGAR 및 검증 가능한 S&P 500 구성기업 자료
-- 분석 단위: 기본적으로 기업-보고연도 10-K filing
+1. 연도별 S&P 500 구성종목과 SEC CIK를 재현 가능한 기준으로 구축한다.
+2. 정확한 `reportDate` 기준의 Form `10-K` filing metadata와 primary HTML을 연결한다.
+3. 원문 추출, AI disclosure, Loughran–McDonald, Brysbaert concreteness 및 텍스트 통제변수를 측정한다.
+4. 기존 결과를 변경하지 않고 연도별 결과와 통합 패널을 생성한다.
 
-## 저장소 구조
+분석 단위는 기업-보고연도 `firm-year`이며, `10-K/A`, `NT 10-K`, `8-K`, PDF annual report는 적격 filing에서 제외한다.
 
-```text
-s-p500/
-├── 2020/ ... 2025/                 # 연구연도별 확정 표본과 향후 10-K 자료
-│   ├── README.md                   # 해당 연도의 기준일·파일 용도·관리 주의사항
-│   ├── sp500_companies.csv         # CIK/기업명 기준으로 통합한 500개 기업 표본
-│   ├── sp500_securities.csv        # 복수 주식 종류를 유지한 종목 단위 감사표
-│   └── pilot_100/                   # 2025 파일럿 표본·SEC metadata·원문 HTML
-├── data/
-│   ├── raw/                        # 수정하지 않는 외부 원천자료 스냅숏
-│   │   ├── wikipedia_sp500_2026-07-24.html
-│   │   ├── sp500_historical_components_2026-07-24.csv
-│   │   └── sec_company_tickers_2026-07-24.json
-│   └── processed/
-│       └── annual_constituents_manifest.json # 생성 조건·해시·연도별 검증 요약
-├── docs/                           # 표본·자료·운영·진행·디버그 문서
-├── scripts/
-│   ├── build_annual_constituents.py    # 원천자료에서 연도별 표본을 재생성
-│   ├── validate_annual_constituents.py # 구조·행 수·키·해시·manifest 검증
-│   ├── apply_pilot_replacement.py      # 승인된 TXT→ITW 교체 및 최종 표본 생성
-│   ├── download_10k_html.py            # 최종 파일럿 SEC 원문 HTML 수집
-│   └── extract_10k_analysis_text.py    # 분석용 본문·문단·문장·section 생성
-├── AGENTS.md                       # 모든 작업자가 따라야 하는 저장소 운영 규칙
-├── CHANGELOG.md                    # 버전별 변경 이력
-├── VERSION                         # 현재 Semantic Version
-├── requirements.txt                # Python 재현 환경의 직접 의존성
-└── .gitignore                      # Git 추적 제외 규칙
-```
+## 연도별 기준일
 
-각 경로와 개별 파일의 상세 역할, 수정 가능 여부 및 생성 관계는
-`docs/repository-structure.md`를 기준으로 한다.
+연도 `t`의 구성종목은 다음 해 1월 1일 기준으로 확정한다.
 
-## 연도별 S&P 500 표본 기준
-
-연도 `t`의 S&P 500 기업 표본은 **다음 해 1월 1일 현재 구성기업**으로 확정한다.
-
-| 연구연도 | 구성기업 확정 기준일 |
-| --- | --- |
+| 연구연도 | 기준일 |
+| ---: | --- |
+| 2017 | 2018-01-01 |
+| 2018 | 2019-01-01 |
+| 2019 | 2020-01-01 |
 | 2020 | 2021-01-01 |
 | 2021 | 2022-01-01 |
 | 2022 | 2023-01-01 |
@@ -67,75 +39,55 @@ s-p500/
 | 2024 | 2025-01-01 |
 | 2025 | 2026-01-01 |
 
-변경 이력은 `Effective Date`를 기준으로 적용한다. 각 확정 기준일에 이미 효력이 발생한 변경은 포함하고, 확정 기준일 이후에 효력이 발생한 변경은 해당 연구연도 표본에서 제외한다. 세부 규칙은 `docs/sample-definition.md`를 따른다.
+역사 구성종목 원천자료가 제공하지 않는 기간은 추정하거나 보간하지 않는다.
 
-## 연도별 폴더
+## 저장소 구조
 
-연구연도별 자료는 저장소 루트의 `2020/`, `2021/`, `2022/`, `2023/`, `2024/`, `2025/` 폴더에서 구분하여 관리한다. 각 폴더의 `README.md`에는 해당 연도의 구성기업 확정 기준일과 공통 표본 규칙이 기록되어 있다.
-
-각 연도 폴더의 `sp500_companies.csv`는 복수 주식 종류를 통합한 500개 기업 목록이며, `sp500_securities.csv`는 복수 주식 종류를 유지한 감사용 종목 목록이다. 생성 방법과 자료별 역할은 `docs/constituent-data-method.md`에 기록되어 있다.
-
-## 구성기업 목록 재현
-
-```bash
-python -m pip install -r requirements.txt
-python scripts/build_annual_constituents.py --source-date 2026-07-24
-python scripts/validate_annual_constituents.py
+```text
+s-p500/
+├── 2017/ ... 2025/                 # 연도별 구성종목·manifest·결과
+├── panel_2020_2025/                 # 기존 2020–2025 firm-year 패널
+├── analysis/descriptive_2020_2025/  # 기존 기술통계·상관분석 산출물
+├── data/raw/                        # 원천자료 snapshot
+├── data/processed/                  # 구성종목 manifest
+├── docs/                            # 방법·진행·디버그·역사 확장 계획
+├── scripts/                         # 표본·수집·추출·측정·저장 실행기
+├── .github/workflows/               # 수동·checkpoint 기반 workflow
+├── AGENTS.md
+├── CHANGELOG.md
+├── VERSION
+└── requirements.txt
 ```
 
-검증 스크립트는 연도별 행 수와 기준일뿐 아니라 필수 열, ticker 및 기업 키
-고유성, CIK 형식, manifest 출력 경로, 원본 파일 SHA-256도 확인한다.
+## 역사 연도 처리 순서
 
-## 2025 파일럿 HTML
+역사 확장은 다음 순서로 한 연도씩 진행한다.
 
-2025 파일럿의 100개 SEC primary filing HTML 수집이 완료되었다. 수집의
-유일한 입력은 `2025/pilot_100/sample/final_analysis_sample_100.csv`이며,
-원문과 SHA-256 manifest는 `2025/pilot_100/html/`에 있다. 아직 본문 추출,
-NLP 및 언어 분석은 수행하지 않았다.
-
-## 2025 파일럿 텍스트
-
-100개 HTML에서 표와 숨김 inline XBRL metadata를 제외한 언어 분석용 본문,
-원문 구조 보존 텍스트, 표 텍스트, 문단·문장 및 주요 10-K Item 자료를
-생성했다. 상세 문단과 문장 CSV는 각각 `paragraphs.csv.gz`와
-`sentences.csv.gz`로 저장한다.
-
-전체 확장 전 smoke test로 warning 없는 5개 기업에서 AI 용어·문장, Fog 및
-사전 비의존 보고서 통제변수를 계산했다. 구체성·금융 감성·불확실성 사전과
-dependency parser가 필요한 시제·수동태는 가짜 대체값 없이 blocked
-dependency로 기록했다. 100개 전체 언어 측정과 Cloudflare R2 작업은 하지
-않았다.
-
-```bash
-python scripts/select_language_smoke_test_companies.py
-python scripts/run_language_smoke_test.py
-python scripts/check_language_smoke_test_quality.py
+```text
+2019 → 2018 → 2017
 ```
 
-## 추가로 확정할 사항
+503 securities는 다음 6개 batch로 나눈다.
 
-다음 사항은 데이터 수집 전에 명시적으로 확정하고 문서화한다.
+```text
+100 · 100 · 100 · 100 · 100 · 3
+```
 
-- 10-K/A를 별도 관측치로 포함할지, 원 10-K의 수정본으로 처리할지
-- 기업의 합병, 분할, 상장폐지, CIK·ticker 변경을 어떻게 연결할지
-- 2025년 보고연도와 2025년 filing year 중 어느 기준을 사용할지
+각 연도는 manifest 생성 → SEC metadata 확정 → R2 수집·검증 → 추출·언어 측정 → Google Drive 이전·검증 순서로 처리한다. 다음 연도는 이전 연도의 품질검사가 끝난 뒤에만 시작한다.
 
-이 결정들이 확정되기 전에는 예상 관측치 수를 임의로 500개 기업 × 6개 연도로 단정하지 않는다.
+## Google Drive 저장 형식
 
-## 예정 작업 단계
+신규 이전의 기본 형식은 다음과 같다.
 
-1. 표본 및 연도 정의
-2. 연도별 S&P 500 구성기업 명단 구축
-3. 기업 식별자와 SEC CIK 매핑
-4. 10-K filing 목록과 metadata 수집
-5. 원문 다운로드 및 무결성 검사
-6. 본문 추출과 정제
-7. 언어 변수 측정과 타당성 검증
-8. 통계 분석 및 결과 보고
+```text
+연도/번호_연도_기업명_SYMBOL_CIK.html
+```
 
-## 저장소 운영
+기존 Drive 파일과 기존 패널·언어 결과는 읽기 전용으로 보존한다. R2 객체는 Drive 이전과 검증이 끝나기 전까지 삭제하지 않는다.
 
-작업 전 반드시 다음 문서를 확인한다.
+## 재현과 운영
+
+작업 전 다음 문서를 순서대로 확인한다.
 
 1. `AGENTS.md`
 2. `docs/writing-rules.md`
@@ -143,18 +95,6 @@ python scripts/check_language_smoke_test_quality.py
 4. `CHANGELOG.md`
 5. `docs/debug-log.md`
 
-현재 버전은 `VERSION` 파일에서 확인한다.
-# 0.11.0 language smoke-test update
+현재 버전은 `VERSION`에서 확인한다. 현재 `VERSION`은 `0.12.0`이며, 역사 확장 실행기와 workflow가 실제로 추가·검증되기 전에는 임의로 변경하지 않는다.
 
-The five-company smoke test now applies the official University of Notre Dame Loughran-McDonald Master Dictionary release 1993–2025 to direct AI-related sentences and whole-report analysis text. Category values greater than zero are active; zero and negative removal markers are excluded; overlapping categories remain independent.
-
-The dictionary is free for academic research, but public redistribution permission is not explicit. The original and complete derived dictionary are therefore local-only and Git-ignored. See `references/dictionaries/loughran_mcdonald_master_dictionary/README.md` for the official download, expected SHA-256, and validation command.
-
-Brysbaert concreteness and dependency-based tense/passive voice remain blocked. The measurements have not been expanded to all 100 companies, and no R2 work was performed.
-# 0.12.0 textual concreteness update
-
-Textual concreteness is the primary language measure in the five-company smoke test. The pipeline follows Baek, Ihm, and Kang (2023): SMART stopword removal, Porter stemming, and the mean of matched Brysbaert et al. (2014) concreteness scores.
-
-The official Springer supplementary XLSX and tidytext 0.3.1 source are SHA-verified but local-only. Matching uses exact original entries first and only unique Porter-stem fallback; ambiguous stems remain unmatched. AI-sentence and whole-report results are separate.
-
-LIWC2015 time focusing, dependency passive voice, the 100-company expansion, and R2 remain out of scope.
+역사 확장 계획과 기존 실행기의 규칙 감사 결과는 `docs/historical-reconstruction-2019-2017-plan.md`에 기록되어 있다.

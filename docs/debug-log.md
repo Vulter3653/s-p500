@@ -9,6 +9,12 @@
 - 상태: 아직 workflow를 실행하지 않았고 SEC, R2, Google Drive 또는 기존 분석 결과를 변경하지 않았다. (codex)
 - 감사 결과: `process-10k-yearly-batches.yml`, `run_yearly_10k_batch.py`, 추출기 및 language runner에 2025 pilot 경로와 1–5 batch 전제가 남아 있다. 이 전제를 전역 수정하지 않고 historical 전용 실행기로 분리하는 것이 안전하다. (codex)
 
+## 2026-08-02 - 문서·버전 상태 전수조사
+
+- 문제: 루트 README, 연도별 README, 인수인계 문서와 구성종목 방법 문서에 초기 파일럿 단계와 현재 2020–2025 완료 상태가 혼재했다. (codex)
+- 조치: 현재 완료 표본, Google Drive 보관, R2 빈 상태, 2019–2017 역순 계획, historical 실행기 분리 원칙을 문서에 반영했다. `VERSION`은 실제 코드 릴리스가 아니므로 변경하지 않았다. (codex)
+- 검증: 수정 문서의 상태·연도·버전 검색과 `git diff --check`를 수행한다. 기존 데이터와 외부 저장소는 변경하지 않는다. (codex)
+
 ## 2026-08-02 - Google Drive 신규 저장 형식 기본값
 
 - 요청: 이후 Google Drive raw HTML 저장의 기본 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 유지한다. (codex)

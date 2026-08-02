@@ -1,193 +1,67 @@
-# S&P 500 10-K AI Language Research
-# Current Project Handover
+# S&P 500 10-K 언어 분석 프로젝트 인수인계
 
-## 1. 연구 목적
+## 현재 저장소 상태
 
-- S&P 500 기업의 10-K에서 AI 관련 언어 특성을 분석한다.
-- 현재 primary language measure는 textual concreteness다.
-- AI 관련 직접 문장 수준과 전체 보고서 수준을 분리한다.
-- 현재는 2025년 pilot 100 중 5개 기업 smoke test를 완료한 상태다.
-
-## 2. 현재 Git 상태
-
-- VERSION: `0.12.0`
-- HEAD: `d7c5738581b1248954470baf3f43e11d8fdc3b8c`
 - branch: `main`
-- `origin/main`과 일치
-- working tree clean
+- 현재 VERSION: `0.12.0`
+- 기준 연도 결과: 2020–2025
+- 기존 firm-year 패널: 2,829행
+- 현재 HEAD와 `origin/main`: `65d35c4b03ecc2ba3240698cc542fe21c54d84cb`
+- working tree: clean
 
-## 3. 완료된 주요 단계
+## 완료된 분석
 
-### 3.1 2025년 HTML 수집
+| 연도 | 적격 firm-year |
+| ---: | ---: |
+| 2020 | 445 |
+| 2021 | 461 |
+| 2022 | 471 |
+| 2023 | 479 |
+| 2024 | 487 |
+| 2025 | 484 |
 
-- 대상 100개
-- HTML 100/100 성공
-- commit: `e675522e12ce012224ed7ff2356c2c3d86bfc277`
-- VERSION `0.8.0`
+기존 연도별 manifest, extraction 결과, language 결과, 패널 및 Google Drive raw HTML은 읽기 전용으로 보존한다.
 
-### 3.2 10-K text extraction
+## 저장소 상태
 
-- 100/100 처리
-- success 59
-- warning 41
-- failed 0
-- total words 6,172,973
-- paragraphs 141,796
-- sentences 298,250
-- commit: `4a6995ca02e50df07a40364053782abd0d5ad0b0`
-- VERSION `0.9.0`
+- Google Drive 신규 기본 형식: `연도/번호_연도_기업명_SYMBOL_CIK.html`
+- R2: 이전 완료 객체 삭제 후 API 목록 기준 빈 상태
+- historical 구성종목 PR #2: 검토 상태이며 실제 workflow 실행 전
+- VERSION: 기존 버전 `0.12.0` 유지
 
-### 3.3 5개 기업 language smoke test
+## 다음 작업 계획
 
-기업:
+역사 확장은 다음 순서로 한 연도씩 진행한다.
 
-- NVDA
-- HPE
-- TECH
-- WAT
-- NSC
+```text
+2019 → 2018 → 2017
+```
 
-AI 관련 직접 문장:
+목표는 historical S&P 500 503 securities지만 실제 SEC 적격 Form `10-K`가 유일하게 확정되는 행만 포함한다. 503개는 `100·100·100·100·100·3`의 6개 batch로 분할한다.
 
-- NVDA 137
-- HPE 119
-- TECH 0
-- WAT 16
-- NSC 1
-- 총 273개
+각 연도 처리 순서:
 
-- commit: `3678213701e21d4185f562de04803869fd272c24`
-- VERSION `0.10.0`
+1. historical membership 기반 manifest 생성
+2. SEC `reportDate`와 Form `10-K` 검증
+3. R2 raw HTML 수집·SHA·크기 검증
+4. 본문 추출과 기존 언어 pipeline 실행
+5. 연도별 결과와 품질검사 생성
+6. Google Drive 이전 및 size·SHA 검증
+7. checkpoint와 artifact 확인 후 다음 연도 시작
 
-### 3.4 Loughran-McDonald 측정
+Free Tier 보호를 위해 여러 연도와 batch를 동시에 실행하지 않고, `max-parallel: 1`, `concurrency`, rate-limit 지연, checkpoint·resume을 사용한다.
 
-- 공식 1993-2025 사전 사용
-- AI 수준과 보고서 수준 측정 완료
-- TECH AI 수준 missing
-- LM 결과 정상 생성
-- commit: `c5b2399cd197dc00d88e60e81e0262966241402a`
-- VERSION `0.11.0`
+## 확인된 구현 주의사항
 
-### 3.5 Brysbaert 구체성 측정
+기존 `process-10k-yearly-batches.yml`, `run_yearly_10k_batch.py`, 추출기와 language runner는 2025 pilot 경로 및 1–5 batch를 전제로 한다. 기존 2020–2025 결과를 보호하기 위해 historical 처리는 전용 runner/workflow로 분리해야 한다. 기존 실행기를 전역 수정하거나 기존 결과를 재처리하지 않는다.
 
-공식 사전:
+## 금지 사항
 
-- 39,954행
-- single word 37,058
-- bigram 2,896
-- 점수 범위 1.04-5.00
+- 기존 2020–2025 결과 재측정·재추출 금지
+- 기존 Google Drive 파일과 R2 manifest 삭제·overwrite 금지
+- raw HTML의 Git 추가 금지
+- secret·token·endpoint·bucket 이름 기록 금지
+- VERSION 임의 변경 금지
+- 전체 테스트 68개 실행 금지
 
-전처리:
-
-- tokenization
-- lowercase
-- SMART stopword 제거
-- Porter stemming
-- Brysbaert matching
-- matched score 평균
-
-SMART:
-
-- tidytext 0.3.1 공식 자료
-- 571행
-- `would` 중복
-- 570개 고유어
-
-Matching:
-
-1. 원형 exact match
-2. exact 실패 시 unique Porter stem fallback
-3. collision stem 제외
-4. collision score 평균 금지
-
-AI 수준 구체성:
-
-- NVDA mean 2.9936, coverage 0.6505
-- HPE mean 2.8757, coverage 0.6651
-- TECH missing
-- WAT mean 2.5553, coverage 0.7007
-- NSC mean 2.7013, coverage 0.8421
-
-보고서 수준 구체성:
-
-- NVDA 2.8954
-- HPE 2.8689
-- TECH 2.8676
-- WAT 2.9003
-- NSC 2.9014
-
-- commit: `4578c7c6a50b45f9c94fdf201672f46fbb44b5ea`
-- VERSION `0.12.0`
-- 현재 판정: `partial_with_documented_warnings`
-
-경고:
-
-- 논문 SMART 1,149개와 실제 SMART subset 570개 차이
-- Porter stem collision
-- R SnowballC와 NLTK 직접 비교 미완료
-
-### 3.6 R 및 SnowballC 환경 고정
-
-- R 4.3.3
-- SnowballC 0.7.0
-- Ubuntu 24.04.4 LTS
-- SnowballC archive SHA-256:
-  `b10fee9d322f567a22c580b49b5d4ba1c86eae40a71794ca92552c726b3895f3`
-- 설치 및 smoke test PASS
-- commit: `d7c5738581b1248954470baf3f43e11d8fdc3b8c`
-- VERSION `0.12.0` 유지
-
-## 4. 현재 변수 상태
-
-- AI mention extraction: `success`
-- Loughran-McDonald: `success`
-- textual concreteness: `partial_with_documented_warnings`
-- time focusing: `blocked_liwc2015_license_required`
-- passive voice: `blocked_model_missing`
-- human review: `pending`
-- R2: `deferred`
-- Colab: `deferred`
-
-## 5. 주요 주의사항
-
-- 구체성이 primary language measure다.
-- AI 문장 수준과 보고서 수준을 분리한다.
-- TECH AI-level은 denominator zero이므로 missing이다.
-- NSC는 AI 문장 1개이므로 warning이다.
-- collision stem 점수는 평균하지 않는다.
-- 미매칭 token에 임의 점수를 부여하지 않는다.
-- 공식 사전 값은 논문 예시에 맞추어 수정하지 않는다.
-- 계산은 full precision을 유지하고 표에서만 반올림한다.
-- 원본 및 전체 파생 사전은 Git에서 제외한다.
-- 5개 기업 결과로 효과를 추론하지 않는다.
-
-## 6. 다음 작업 순서
-
-1. R SnowballC 0.7.0과 NLTK Porter 비교
-2. 차이가 있으면 5개 기업 구체성 재측정
-3. 구체성 결과 연구자 검토
-4. 31개 AI 문장 인간 검토
-5. TECH 및 NSC 확인
-6. 이후 100개 확장 여부 결정
-
-현재 보류:
-
-- LIWC2015 time focusing
-- passive voice
-- R2
-- Colab
-
-## 7. 주요 경로
-
-- `2025/pilot_100/`
-- `2025/pilot_100/language_smoke_test/`
-- `2025/pilot_100/language_smoke_test/ai_related_sentences/`
-- `2025/pilot_100/language_smoke_test/textual_concreteness/`
-- `2025/pilot_100/language_smoke_test/combined_language_results/`
-- `2025/pilot_100/language_smoke_test/quality_check/`
-- `2025/pilot_100/language_smoke_test/reproducibility/`
-- `references/dictionaries/loughran_mcdonald_master_dictionary/`
-- `references/dictionaries/brysbaert_concreteness/`
-- `references/software/r_snowballc_environment/`
-- `scripts/`
-- `tests/`
+세부 계획과 감사 결과는 `docs/historical-reconstruction-2019-2017-plan.md`, 진행 기록은 `docs/progress.md`, 오류 기록은 `docs/debug-log.md`를 기준으로 한다.
