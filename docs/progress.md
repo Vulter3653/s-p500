@@ -19,7 +19,7 @@
 
 ## 2026-08-02 - Cloudflare Pages React dashboard scaffold 추가
 
-- 추가: 저장소 루트의 Cloudflare Pages 설정을 유지하면서 `web/`에 React + Vite 반응형 dashboard 구조를 만들고, 루트 `npm run build`가 `dist/`를 생성하도록 연결했다. (codex)
+- 추가: 저장소 루트의 Cloudflare Pages 설정을 유지하면서 `web/`에 React + Vite 반응형 dashboard 구조를 만들고, 루트 `npm run build`가 `web/dist/`를 생성하도록 연결했다. (codex)
 - 화면: 연도 선택, firm-year 수, AI 공시 수·비율, 연도별 요약표와 `/api/summary` 연결 준비 상태를 추가했다. 현재 fallback 수치는 기존 확정 표본 요약만 사용한다. (codex)
 - 안전: R2·Google OAuth secret, raw HTML, 기존 패널과 분석 결과는 frontend bundle에 포함하지 않았다. (codex)
 - 검증: `npm install --prefix web --no-audit --no-fund`와 루트 `npm run build`가 성공했고, Vite가 루트 `dist/`를 생성했다. `git diff --check`도 통과했다. (codex)

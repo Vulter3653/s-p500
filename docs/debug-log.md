@@ -22,6 +22,12 @@
 - 안전: frontend는 `/api/summary`가 없을 때 기존 확정 표본 요약을 fallback으로 표시하며, raw HTML·R2 credential·Google OAuth 값은 포함하지 않는다. (codex)
 - 검증: `npm install --prefix web --no-audit --no-fund`와 `npm run build`가 성공했다. Cloudflare 실제 배포는 아직 실행하지 않았다. (codex)
 
+## 2026-08-02 - Cloudflare Pages 출력 디렉터리 불일치 수정
+
+- 증상: Pages가 `web/dist`를 검증했지만 기존 Vite 설정이 루트 `dist`를 생성해 `Output directory "web/dist" not found`가 발생했다. (codex)
+- 원인: Cloudflare Pages의 저장된 출력 경로와 Vite `outDir`가 서로 달랐다. (codex)
+- 조치: `web/vite.config.js`의 `outDir`를 `dist`로 변경해 루트 build shim 실행 시 `web/dist`가 생성되도록 맞췄다. (codex)
+
 ## 2026-08-02 - Google Drive 신규 저장 형식 기본값
 
 - 요청: 이후 Google Drive raw HTML 저장의 기본 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 유지한다. (codex)
