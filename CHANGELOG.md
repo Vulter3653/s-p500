@@ -1,5 +1,9 @@
 ## 2026-08-02
 
+- Added: 비용을 줄이기 위한 단일 continuous historical backfill workflow, `ai_term_count` 기반 3년 연속 0 종료 상태 전이, 원자적 candidate panel append 및 dashboard generator 입력 경로 일반화를 구현했다. 실제 historical 실행은 별도 승인 전까지 수행하지 않는다. (codex)
+
+## 2026-08-02
+
 - Added: Codespace 종료 후 재개할 수 있도록 `codex/historical-backfill-continuous` integration branch의 연속 historical backfill 인수인계를 원격 문서로 고정했다. 실제 SEC·R2·Google Drive 실행과 main 병합은 수행하지 않았다. (codex)
 
 # Changelog
