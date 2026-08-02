@@ -2,6 +2,12 @@
 
 최신 기록을 위쪽에 추가하고 기존 기록을 삭제하지 않는다.
 
+## 2026-08-02 - 연구 보고용 웹 데이터·변수 정의 자동화
+
+- 추가: `scripts/generate_web_analysis_data.py`가 기존 분석 산출물에서 웹 JSON·CSV와 상세 변수 정의 문서를 생성한다. (codex)
+- 추가: `/variables`와 `/methods` hash 페이지, source SHA-256 metadata 및 Cloudflare `_redirects`를 구성했다. (codex)
+- 보호: 기존 패널·언어 결과·원본 HTML은 수정하지 않았으며 실제 통계값은 frontend에 하드코딩하지 않는다. (codex)
+
 ## 2026-08-02 - 2019–2017년 역사적 표본 확장 계획 기록
 
 - 계획: 현재 최저 분석연도 2020년의 직전 3개 연도인 2019, 2018, 2017을 역순으로 처리한다. (codex)
