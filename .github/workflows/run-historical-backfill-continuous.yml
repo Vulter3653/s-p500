@@ -1,0 +1,279 @@
+name: Run Historical Backfill Continuously
+
+on:
+  workflow_dispatch:
+    inputs:
+      chain_id:
+        required: false
+        type: string
+        default: ""
+      start_year:
+        required: true
+        type: number
+        default: 2019
+      current_year:
+        required: false
+        type: string
+        default: ""
+      minimum_year:
+        required: true
+        type: number
+        default: 0
+      sample_manifest:
+        description: Collection-ready manifest for the current year
+        required: true
+        type: string
+        default: ""
+      sample_namespace:
+        required: true
+        type: string
+        default: sample_503
+      batch_ids:
+        required: true
+        type: string
+        default: 1,2,3,4,5,6
+      zero_streak:
+        required: true
+        type: number
+        default: 0
+      visited_years:
+        required: false
+        type: string
+        default: ""
+      run_collection:
+        required: true
+        type: boolean
+        default: false
+      run_extraction:
+        required: true
+        type: boolean
+        default: true
+      run_language:
+        required: true
+        type: boolean
+        default: true
+      execute:
+        required: true
+        type: boolean
+        default: false
+      confirmation:
+        required: false
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+  actions: write
+  pull-requests: write
+
+concurrency:
+  group: historical-chain-${{ inputs.chain_id || format('historical-{0}', inputs.start_year) }}
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      current_year: ${{ steps.plan.outputs.current_year }}
+      chain_id: ${{ steps.plan.outputs.chain_id }}
+      batch_count: ${{ steps.plan.outputs.batch_count }}
+      expected_batches: ${{ steps.plan.outputs.expected_batches }}
+      minimum_year: ${{ steps.plan.outputs.minimum_year }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - id: plan
+        env:
+          START_YEAR: ${{ inputs.start_year }}
+          CURRENT_YEAR: ${{ inputs.current_year }}
+          MINIMUM_YEAR: ${{ inputs.minimum_year }}
+          CHAIN_ID: ${{ inputs.chain_id }}
+          SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
+          EXECUTE: ${{ inputs.execute }}
+          CONFIRMATION: ${{ inputs.confirmation }}
+        run: |
+          python - <<'PY'
+          import csv, json, math, os
+          from pathlib import Path
+          from scripts.run_yearly_10k_batch import validate_source_manifest
+          year = int(os.environ.get("CURRENT_YEAR") or os.environ["START_YEAR"])
+          manifest = os.environ["SAMPLE_MANIFEST"] or f"{year}/sample_503/sample/final_analysis_sample_503.csv"
+          path = Path(manifest)
+          if not path.exists():
+              raise SystemExit(f"collection-ready manifest not found: {manifest}")
+          with path.open(encoding="utf-8-sig", newline="") as handle:
+              rows = list(csv.DictReader(handle))
+          validate_source_manifest(rows, str(year))
+          count = math.ceil(len(rows) / 100)
+          if os.environ["EXECUTE"].lower() == "true" and os.environ["CONFIRMATION"] != "RUN_CONTINUOUS_HISTORICAL_BACKFILL":
+              raise SystemExit("execute=true requires RUN_CONTINUOUS_HISTORICAL_BACKFILL")
+          chain_id = os.environ["CHAIN_ID"] or f"historical-{os.environ['START_YEAR']}"
+          minimum = int(os.environ["MINIMUM_YEAR"]) or 1900
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as target:
+              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\n")
+              target.write(f"expected_batches={','.join(map(str, range(1, count + 1)))}\nminimum_year={minimum}\n")
+          print(json.dumps({"year": year, "rows": len(rows), "batch_count": count, "dry_run": os.environ["EXECUTE"].lower() != "true"}))
+          PY
+
+  process-batches:
+    needs: prepare
+    if: needs.prepare.result == 'success'
+    strategy:
+      fail-fast: true
+      max-parallel: 6
+      matrix:
+        batch_id: [1, 2, 3, 4, 5, 6]
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+      R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Process valid batch
+        if: matrix.batch_id <= fromJSON(needs.prepare.outputs.batch_count)
+        run: |
+          args=(--report-year "${{ needs.prepare.outputs.current_year }}" --batch-id "${{ matrix.batch_id }}" --manifest "${{ inputs.sample_manifest }}" --sample-namespace "${{ inputs.sample_namespace }}" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/batch_${{ matrix.batch_id }}")
+          [[ "${{ inputs.run_collection }}" == "true" ]] && args+=(--run-collection)
+          [[ "${{ inputs.run_extraction }}" == "true" ]] && args+=(--run-extraction)
+          [[ "${{ inputs.run_language }}" == "true" ]] && args+=(--run-language)
+          python scripts/run_yearly_10k_batch.py "${args[@]}"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: historical-${{ needs.prepare.outputs.current_year }}-batch-${{ matrix.batch_id }}
+          path: outputs/${{ needs.prepare.outputs.current_year }}/batch_${{ matrix.batch_id }}/
+          if-no-files-found: ignore
+          retention-days: 14
+
+  finalize-and-dispatch:
+    needs: [prepare, process-batches]
+    if: needs.prepare.result == 'success' && needs.process-batches.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: historical-${{ needs.prepare.outputs.current_year }}-batch-*
+          path: outputs/${{ needs.prepare.outputs.current_year }}/batches
+      - name: Merge yearly batches
+        run: |
+          python scripts/merge_yearly_10k_batches.py --report-year "${{ needs.prepare.outputs.current_year }}" --input-dir "outputs/${{ needs.prepare.outputs.current_year }}/batches" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/merged" --expected-batches "${{ needs.prepare.outputs.expected_batches }}"
+      - name: Validate annual AI keyword count
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import pandas as pd
+          root = Path("outputs/${{ needs.prepare.outputs.current_year }}/merged")
+          frame = pd.read_csv(root / "company_language_results.csv")
+          if "ai_term_count" not in frame.columns or frame["ai_term_count"].isna().any():
+              raise SystemExit("ai_term_count is missing; zero cannot be inferred")
+          payload = {"status": "success", "annual_ai_keyword_count": int(frame["ai_term_count"].sum()), "rows": len(frame), "source_column": "ai_term_count"}
+          (root / "annual_validation.json").write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+          print(json.dumps(payload))
+          PY
+      - name: Calculate fail-closed chain transition
+        run: |
+          count=$(python -c 'import json; print(json.load(open("outputs/${{ needs.prepare.outputs.current_year }}/merged/annual_validation.json"))["annual_ai_keyword_count"])')
+          python scripts/continuous_backfill.py --chain-id "${{ needs.prepare.outputs.chain_id }}" --start-year "${{ inputs.start_year }}" --current-year "${{ needs.prepare.outputs.current_year }}" --minimum-year "${{ needs.prepare.outputs.minimum_year }}" --zero-streak "${{ inputs.zero_streak }}" --visited-years "${{ inputs.visited_years }}" --annual-keyword-count "$count" --chain-state "outputs/${{ needs.prepare.outputs.current_year }}/chain-state.json" --dry-run
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: historical-${{ needs.prepare.outputs.current_year }}-annual-result
+          path: outputs/${{ needs.prepare.outputs.current_year }}/merged/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Block external publication until explicit approval
+        if: inputs.execute != true
+        run: echo "dry-run complete; no panel commit, dashboard publication, or next-year dispatch"
+      - name: Update candidate panel and dashboard
+        if: inputs.execute == true && inputs.confirmation == 'RUN_CONTINUOUS_HISTORICAL_BACKFILL'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          year="${{ needs.prepare.outputs.current_year }}"
+          merged="outputs/$year/merged/company_language_results.csv"
+          mkdir -p /tmp/historical-candidate
+          if git ls-remote --exit-code origin refs/heads/historical-dashboard-data >/dev/null 2>&1; then
+            git fetch --no-tags origin historical-dashboard-data
+            git archive origin/historical-dashboard-data | tar -x -C /tmp/historical-candidate
+          fi
+          prior="/tmp/historical-candidate/panel_historical_candidate/firm_year_language_panel_full_candidate.parquet"
+          if [[ ! -f "$prior" ]]; then
+            prior="analysis/descriptive_2020_2025/firm_year_language_extended.csv"
+          fi
+          mkdir -p panel_historical_candidate
+          python scripts/continuous_backfill.py \
+            --current-panel "$merged" \
+            --prior-panel "$prior" \
+            --protected-panel analysis/descriptive_2020_2025/firm_year_language_extended.csv \
+            --output-csv panel_historical_candidate/firm_year_language_panel_full_candidate.csv \
+            --output-parquet panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --chain-state automation/historical_backfill/chain-state.json \
+            --chain-id "${{ needs.prepare.outputs.chain_id }}" \
+            --start-year "${{ inputs.start_year }}" \
+            --current-year "$year" \
+            --minimum-year "${{ needs.prepare.outputs.minimum_year }}" \
+            --zero-streak "${{ inputs.zero_streak }}" \
+            --visited-years "${{ inputs.visited_years }}" \
+            --annual-status success \
+            --annual-keyword-count "$(python -c 'import json; print(json.load(open("outputs/'"$year"'/merged/annual_validation.json"))["annual_ai_keyword_count"])')"
+          python scripts/run_descriptive_pipeline.py --statistics-only \
+            --extended-panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --output-dir analysis/historical_candidate
+          python scripts/generate_web_analysis_data.py \
+            --panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --analysis-dir analysis/historical_candidate \
+            --start-year "$(python -c 'import pandas as pd; print(int(pd.read_parquet("panel_historical_candidate/firm_year_language_panel_full_candidate.parquet").report_year.min()))')" \
+            --end-year 2025 \
+            --output-dir web/public/data/historical-candidate
+          mkdir -p automation/historical_backfill/year-status
+          cp "outputs/$year/merged/annual_validation.json" "automation/historical_backfill/year-status/$year.json"
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add panel_historical_candidate web/public/data/historical-candidate automation/historical_backfill
+          git commit -m "Add validated $year historical panel and dashboard data"
+          git push origin HEAD:historical-dashboard-data
+          state="automation/historical_backfill/chain-state.json"
+          next_year=$(python -c 'import json; print(json.load(open("'"$state"'"))["next_year"] or "")')
+          streak=$(python -c 'import json; print(json.load(open("'"$state"'"))["zero_streak"])')
+          if [[ -n "$next_year" && "$streak" -lt 3 ]]; then
+            gh workflow run run-historical-backfill-continuous.yml \
+              --ref codex/historical-backfill-continuous \
+              -f chain_id="${{ needs.prepare.outputs.chain_id }}" \
+              -f start_year="${{ inputs.start_year }}" \
+              -f current_year="$next_year" \
+              -f minimum_year="${{ inputs.minimum_year }}" \
+              -f sample_manifest="$next_year/${{ inputs.sample_namespace }}/sample/final_analysis_sample_503.csv" \
+              -f sample_namespace="${{ inputs.sample_namespace }}" \
+              -f batch_ids="1,2,3,4,5,6" \
+              -f zero_streak="$streak" \
+              -f visited_years="${{ inputs.visited_years }},$year" \
+              -f run_collection="${{ inputs.run_collection }}" \
+              -f run_extraction="${{ inputs.run_extraction }}" \
+              -f run_language="${{ inputs.run_language }}" \
+              -f execute=true \
+              -f confirmation=RUN_CONTINUOUS_HISTORICAL_BACKFILL
+          else
+            echo "historical chain stopped: streak=$streak next_year=$next_year"
+          fi
+
