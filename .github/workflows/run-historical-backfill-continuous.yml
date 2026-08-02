@@ -249,11 +249,26 @@ jobs:
             --output-dir web/public/data/historical-candidate
           mkdir -p automation/historical_backfill/year-status
           cp "outputs/$year/merged/annual_validation.json" "automation/historical_backfill/year-status/$year.json"
+          rm -rf /tmp/historical-publication-files
+          mkdir -p /tmp/historical-publication-files
+          cp -a panel_historical_candidate /tmp/historical-publication-files/
+          cp -a web/public/data/historical-candidate /tmp/historical-publication-files/
+          cp -a automation/historical_backfill /tmp/historical-publication-files/
+          if git ls-remote --exit-code origin refs/heads/historical-dashboard-data >/dev/null 2>&1; then
+            git fetch --no-tags origin historical-dashboard-data
+            git checkout -B historical-publication origin/historical-dashboard-data
+          else
+            git checkout -b historical-publication
+          fi
+          cp -a /tmp/historical-publication-files/panel_historical_candidate .
+          mkdir -p web/public/data automation/historical_backfill
+          cp -a /tmp/historical-publication-files/historical-candidate web/public/data/
+          cp -a /tmp/historical-publication-files/historical_backfill/. automation/historical_backfill/
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add panel_historical_candidate web/public/data/historical-candidate automation/historical_backfill
           git commit -m "Add validated $year historical panel and dashboard data"
-          git push origin HEAD:historical-dashboard-data
+          git push origin historical-publication:historical-dashboard-data
           state="automation/historical_backfill/chain-state.json"
           next_year=$(python -c 'import json; print(json.load(open("'"$state"'"))["next_year"] or "")')
           streak=$(python -c 'import json; print(json.load(open("'"$state"'"))["zero_streak"])')
