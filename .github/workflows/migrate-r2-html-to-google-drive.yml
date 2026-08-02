@@ -11,6 +11,14 @@ on:
           - test
           - full
         default: test
+      drive_layout:
+        description: Drive storage layout for future migrations
+        required: true
+        type: choice
+        options:
+          - year_flat
+          - legacy_nested
+        default: year_flat
 
 permissions:
   contents: read
@@ -71,6 +79,7 @@ jobs:
           python scripts/migrate_r2_html_to_google_drive.py \
             --years 2020 \
             --drive-root-folder-id "$GOOGLE_DRIVE_ROOT_FOLDER_ID" \
+            --drive-layout "${{ inputs.drive_layout }}" \
             --workers 1 \
             --test-first-object \
             --output-dir google_drive_storage
@@ -81,6 +90,7 @@ jobs:
           python scripts/migrate_r2_html_to_google_drive.py \
             --years 2020,2021,2022,2023,2024,2025 \
             --drive-root-folder-id "$GOOGLE_DRIVE_ROOT_FOLDER_ID" \
+            --drive-layout "${{ inputs.drive_layout }}" \
             --workers 5 \
             --output-dir google_drive_storage
 

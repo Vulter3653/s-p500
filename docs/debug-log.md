@@ -1,5 +1,12 @@
 # Debug Log
 
+## 2026-08-02 - Google Drive 신규 저장 형식 기본값
+
+- 요청: 이후 Google Drive raw HTML 저장의 기본 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 유지한다. (codex)
+- 확인: 기존 migration 실행기는 `연도/sample_500/html/raw/CIK/accession.html` 중첩 형식을 기본으로 사용하고 있었다. (codex)
+- 조치: `--drive-layout` 선택지를 추가하고 기본값을 `year_flat`으로 변경했다. 연도별 sample manifest에서 `sample_order`, `company_name`, `symbol`을 읽어 파일명을 결정하며, `legacy_nested` 옵션은 호환용으로 남겼다. (codex)
+- 검증: `python -m py_compile scripts/migrate_r2_html_to_google_drive.py`, workflow YAML 파싱 및 `git diff --check`가 통과했다. Google Drive/R2 실데이터에는 접근하거나 변경하지 않았다. (codex)
+
 ## 2026-07-31 - Google Drive raw HTML 폴더 구조 변경 준비
 
 - 요청: `연도/sample_500/html/raw/<leaf>/<raw HTML>` 구조를 `연도/<leaf>/<raw HTML>`로 변경한다. (codex)

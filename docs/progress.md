@@ -9,6 +9,12 @@
 - 해석: AI 공시 포화, 연도 구성 효과, 2023년 전후 구조 변화, 제한적인 미래 조동사 측정, 상관·VIF 해석 주의사항을 보고서에 추가했다. (codex)
 - 검증: raw `nan`·소수점 연도·`p = 0.0000`·영문 원자료 열 제목 0개, 관련 테스트 7개 통과, 기존 확장 패널과 통계 CSV 변경 0건을 확인했다. (codex)
 
+## 2026-08-02 - Google Drive 신규 저장 형식 기본값 고정
+
+- 변경: 향후 Google Drive migration의 기본 `drive_layout`을 `year_flat`으로 설정했다. 파일은 각 연도 폴더 바로 아래 `번호_연도_기업명_SYMBOL_CIK.html` 형식으로 저장된다. (codex)
+- 호환: 기존 `legacy_nested` 형식은 명시적 옵션으로만 유지하며, 기존 Drive 파일·패널·R2 객체는 변경하지 않았다. (codex)
+- 검증: migration 실행기 `py_compile`, workflow YAML 파싱 및 `git diff --check`를 통과했다. 실제 migration은 실행하지 않았다. (codex)
+
 ## 2026-07-31 - Google Drive raw HTML 폴더 평탄화 준비
 
 - 확인: 기존 Google Drive migration 실행기는 `연도/sample_500/html/raw/<CIK>/<accession>.html` 구조를 사용하며 leaf 폴더 이름은 CIK이다. (codex)

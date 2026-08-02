@@ -12,6 +12,7 @@ import shutil
 import tempfile
 import threading
 import time
+import re
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -44,6 +45,7 @@ MANIFEST_FIELDS = [
     "drive_file_name", "drive_mime_type", "drive_size",
     "drive_sha256_app_property", "migration_status", "verification_status",
     "migrated_at_utc", "error_type", "error_message",
+    "drive_layout",
 ]
 CHECKPOINT_FIELDS = [
     "report_year", "cik", "accession_number", "r2_object_key",
@@ -54,6 +56,7 @@ _folder_lock = threading.Lock()
 _checkpoint_lock = threading.Lock()
 _thread_local = threading.local()
 _folder_cache: dict[tuple[str, str], str] = {}
+DEFAULT_DRIVE_LAYOUT = "year_flat"
 
 
 def utc_now() -> str:
@@ -201,6 +204,46 @@ def folder_chain(service, root_id: str, year: str, cik: str) -> dict[str, str]:
     }
 
 
+def sample_manifest_path(year: str) -> Path:
+    """Return the yearly manifest used to build the display filename."""
+    candidates = [
+        ROOT / year / "sample_500" / f"sample_manifest_{year}_500.csv",
+        ROOT / year / "pilot_100/sample/final_analysis_sample_100.csv",
+    ]
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    raise FileNotFoundError(f"sample manifest not found for {year}")
+
+
+def load_sample_identity(year: str) -> dict[tuple[str, str], dict]:
+    index = {}
+    with sample_manifest_path(year).open(encoding="utf-8-sig", newline="") as handle:
+        for row in csv.DictReader(handle):
+            cik = row.get("cik", "").strip().zfill(10)
+            accession = row.get("accession_number", "").strip()
+            if cik and accession:
+                index[(cik, accession)] = row
+    return index
+
+
+def safe_filename_part(value: str, fallback: str) -> str:
+    value = (value or "").strip()
+    value = re.sub(r"[\\/:*?\"<>|]", "_", value)
+    value = re.sub(r"\s+", "_", value)
+    value = re.sub(r"_+", "_", value).strip("._")
+    return value or fallback
+
+
+def drive_filename(year: str, row: dict, identity: dict) -> str:
+    sample_order = int(identity.get("sample_order", ""))
+    company = safe_filename_part(identity.get("company_name", ""), "unknown_company")
+    symbol = safe_filename_part(
+        identity.get("symbol") or identity.get("ticker", ""), "unknown_symbol"
+    )
+    return f"{sample_order - 1}_{year}_{company}_{symbol}_{row['cik']}.html"
+
+
 def sha256_file(path: Path) -> str:
     digest = hashlib.sha256()
     with path.open("rb") as handle:
@@ -271,6 +314,7 @@ def result_fields(status: str, verification: str, error_type: str = "", error: s
         "migration_status": status, "verification_status": verification,
         "migrated_at_utc": utc_now(), "error_type": error_type,
         "error_message": error[:500],
+        "drive_layout": DEFAULT_DRIVE_LAYOUT,
     }
 
 
@@ -290,7 +334,10 @@ def append_checkpoint(path: Path, row: dict, retry_count: int = 0) -> None:
             handle.write(json.dumps(item, sort_keys=True) + "\n")
 
 
-def process_target(row: dict, root_id: str, temp_root: Path, checkpoint: Path) -> dict:
+def process_target(
+    row: dict, root_id: str, temp_root: Path, checkpoint: Path,
+    drive_layout: str, identity_index: dict[tuple[str, str], dict],
+) -> dict:
     result = dict(row)
     local = temp_root / row["report_year"] / row["cik"] / f"{row['accession_number']}.html"
     try:
@@ -313,10 +360,34 @@ def process_target(row: dict, root_id: str, temp_root: Path, checkpoint: Path) -
             raise RuntimeError("failed_r2_download:download_verification_failed")
 
         service = drive_service()
-        folders = folder_chain(service, root_id, row["report_year"], row["cik"])
+        identity = identity_index.get((row["cik"], row["accession_number"]))
+        if drive_layout == "year_flat" and identity is None:
+            raise RuntimeError("missing_sample_identity_for_drive_filename")
+        folders = (
+            folder_chain(service, root_id, row["report_year"], row["cik"])
+            if drive_layout == "legacy_nested"
+            else {
+                "drive_year_folder_id": ensure_folder(
+                    service, root_id, row["report_year"]
+                ),
+                "drive_sample_folder_id": "",
+                "drive_html_folder_id": "",
+                "drive_raw_folder_id": "",
+                "drive_cik_folder_id": "",
+            }
+        )
         result.update(folders)
-        filename = f"{row['accession_number']}.html"
-        matches = find_child(service, folders["drive_cik_folder_id"], filename)
+        filename = (
+            f"{row['accession_number']}.html"
+            if drive_layout == "legacy_nested"
+            else drive_filename(row["report_year"], row, identity)
+        )
+        parent_id = (
+            folders["drive_cik_folder_id"]
+            if drive_layout == "legacy_nested"
+            else folders["drive_year_folder_id"]
+        )
+        matches = find_child(service, parent_id, filename)
         if len(matches) > 1:
             result.update(result_fields(
                 "ambiguous_duplicate_drive_files", "not_verified",
@@ -347,7 +418,7 @@ def process_target(row: dict, root_id: str, temp_root: Path, checkpoint: Path) -
             )
             body = {
                 "name": filename,
-                "parents": [folders["drive_cik_folder_id"]],
+                "parents": [parent_id],
                 "appProperties": {
                     "sha256": row["r2_sha256"], "cik": row["cik"],
                     "accession": row["accession_number"],
@@ -376,10 +447,13 @@ def process_target(row: dict, root_id: str, temp_root: Path, checkpoint: Path) -
                 "drive_mime_type": created.get("mimeType", "text/html"),
                 "drive_size": str(size), "drive_sha256_app_property": app_sha,
             })
+        result["drive_layout"] = drive_layout
     except Exception as error:
         message = str(error)
         if "ambiguous_duplicate_drive_folders" in message:
             status = "ambiguous_duplicate_drive_folders"
+        elif message.startswith("missing_sample_identity"):
+            status = "failed_drive_upload"
         elif message.startswith("missing_r2_object"):
             status = "missing_r2_object"
         elif message.startswith("failed_r2_head"):
@@ -445,7 +519,7 @@ def write_csv(path: Path, fields: list[str], rows: list[dict]) -> None:
 def write_outputs(
     output_dir: Path, results: list[dict], invalid: list[dict],
     source_counts: dict[str, int], connection: dict, temp_remaining: int,
-    test_rerun_skip: bool,
+    test_rerun_skip: bool, drive_layout: str,
 ) -> None:
     all_rows = sorted(results + invalid, key=lambda r: (r["report_year"], r["cik"], r["accession_number"]))
     write_csv(output_dir / "raw_html_google_drive_manifest.csv", MANIFEST_FIELDS, all_rows)
@@ -481,6 +555,7 @@ def write_outputs(
         f"- Google Drive root folder ID: `{os.environ.get('GOOGLE_DRIVE_ROOT_FOLDER_ID', '')}`",
         "- Google Drive stated capacity: 5 TB",
         f"- Drive quota query: {connection['drive_quota_result']}",
+        f"- Drive layout: `{drive_layout}` (default: `{DEFAULT_DRIVE_LAYOUT}`)",
         f"- Target years: {', '.join(source_counts)}",
         f"- Source manifest rows: {sum(source_counts.values())}",
         f"- Valid migration targets: {len(results)}",
@@ -506,6 +581,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--years", default="2020,2021,2022,2023,2024,2025")
     parser.add_argument("--drive-root-folder-id", default=os.environ.get("GOOGLE_DRIVE_ROOT_FOLDER_ID", ""))
     parser.add_argument("--workers", type=int, default=5)
+    parser.add_argument(
+        "--drive-layout", choices=("year_flat", "legacy_nested"),
+        default=DEFAULT_DRIVE_LAYOUT,
+        help="Drive layout; year_flat is the default future storage format",
+    )
     parser.add_argument("--output-dir", type=Path, default=Path("google_drive_storage"))
     parser.add_argument("--check-connections-only", action="store_true")
     parser.add_argument("--test-first-object", action="store_true")
@@ -529,6 +609,7 @@ def main() -> int:
     if args.check_connections_only:
         return 0
     targets, invalid, source_counts = load_targets(years)
+    identity_indexes = {year: load_sample_identity(year) for year in years}
     if args.test_first_object:
         targets = targets[:1]
         source_counts = {years[0]: source_counts[years[0]]}
@@ -545,9 +626,15 @@ def main() -> int:
     try:
         if args.test_first_object:
             progress("test_upload_started", started)
-            first = process_target(targets[0], args.drive_root_folder_id, temp_root, checkpoint)
+            first = process_target(
+                targets[0], args.drive_root_folder_id, temp_root, checkpoint,
+                args.drive_layout, identity_indexes[targets[0]["report_year"]],
+            )
             progress("test_rerun_started", started)
-            second = process_target(targets[0], args.drive_root_folder_id, temp_root, checkpoint)
+            second = process_target(
+                targets[0], args.drive_root_folder_id, temp_root, checkpoint,
+                args.drive_layout, identity_indexes[targets[0]["report_year"]],
+            )
             if first["migration_status"] not in SUCCESS_STATUSES or second["migration_status"] != "skipped_existing_match":
                 raise RuntimeError("test migration or rerun skip failed")
             results = [second]
@@ -556,7 +643,11 @@ def main() -> int:
         else:
             with ThreadPoolExecutor(max_workers=max(1, min(args.workers, 5))) as pool:
                 futures = {
-                    pool.submit(process_target, row, args.drive_root_folder_id, temp_root, checkpoint): row
+                    pool.submit(
+                        process_target, row, args.drive_root_folder_id, temp_root,
+                        checkpoint, args.drive_layout,
+                        identity_indexes[row["report_year"]],
+                    ): row
                     for row in targets
                 }
                 for future in as_completed(futures):
@@ -569,7 +660,7 @@ def main() -> int:
         progress("verification_and_summary_started", started)
         write_outputs(
             output_dir, results, invalid, source_counts, connection,
-            remaining_files, test_rerun_skip,
+            remaining_files, test_rerun_skip, args.drive_layout,
         )
         failures = [r for r in results + invalid if r["migration_status"] not in SUCCESS_STATUSES]
         progress("completed", started, len(results), len(targets))

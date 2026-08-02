@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- Changed: Google Drive 신규 migration의 기본 저장 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 고정하고, 기존 중첩 폴더 형식은 `legacy_nested` 호환 옵션으로만 유지한다. (codex)
 - Docs: 기술통계 Markdown 보고서와 논문용 표를 한글 표시용 열 제목, 정수·백분율·p-value 형식, 구조적 결측 기호, 4개 연도별 패널 및 2023년 구조 변화 해석으로 보완했다. (codex)
 - Analysis: 2020–2025년 2,829 firm-year 패널에 기존 측정값을 보존한 확장 패널, 시제·수동태·AI Fog 및 텍스트 통제변수, 기술통계·상관관계·VIF·한글 보고서와 그래프를 추가했다. (codex)
 - Added: 2020–2025 firm-year 패널에 공개 spaCy POS/dependency 기반 시제·수동태와 AI Fog·텍스트 통제를 추가하는 연도별 병렬 측정 workflow 및 확장 패널 builder를 추가했다. (codex)
