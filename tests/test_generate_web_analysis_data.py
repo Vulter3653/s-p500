@@ -19,3 +19,10 @@ def test_generated_data_has_no_nonfinite_strings():
 def test_required_generated_files_exist():
     for name in ("analysis-summary.json", "yearly-statistics.json", "descriptive-statistics.json", "variable-definitions.json", "variable-definitions.csv", "source-manifest.json"):
         assert (ROOT / "web/public/data" / name).exists()
+
+
+def test_dashboard_summary_normalizes_descriptive_statistics_fields():
+    summary = json.loads((ROOT / "web/public/data/analysis-summary.json").read_text())
+    first = summary["descriptiveTable"][0]
+    for field in ("n", "sd", "q1", "q3", "kind", "label"):
+        assert field in first
