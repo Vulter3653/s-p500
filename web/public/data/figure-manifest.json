@@ -1,0 +1,191 @@
+[
+  {
+    "figure_id": "figure-01",
+    "number": "Figure 1",
+    "title": "연도별 AI 공시 확산",
+    "type": "line",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
+    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_columns": [
+      "report_year",
+      "ai_disclosure_rate"
+    ],
+    "sample": "전체 firm-year; 연도별 N을 분모로 사용",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": null,
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "LineFigure",
+    "static_svg": "figures/01_ai_disclosure_rate_by_year.svg",
+    "source_download": "/downloads/figure_aggregate_data.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  },
+  {
+    "figure_id": "figure-02",
+    "number": "Figure 2",
+    "title": "AI 커뮤니케이션 강도 추이",
+    "type": "line",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/tables/table_04_descriptive_statistics_by_year.csv",
+    "source_sha256": "6965537934a416da59d310b053c3d1cbc8dde30c78f2c8818e35a3366dfd5416",
+    "source_columns": [
+      "report_year",
+      "mean_ai_sentence_count_all",
+      "mean_ai_sentence_count_disclosers"
+    ],
+    "sample": "전체 firm-year 평균과 AI 공시 firm-year 조건부 평균",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": "ai_disclosure=1은 조건부 표본",
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "LineFigure",
+    "static_svg": "figures/02_mean_ai_sentence_count_by_year.svg",
+    "source_download": "/downloads/figure_aggregate_data.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  },
+  {
+    "figure_id": "figure-03",
+    "number": "Figure 3",
+    "title": "구체성 추이",
+    "type": "line",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
+    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_columns": [
+      "report_year",
+      "whole_report_concreteness",
+      "ai_concreteness"
+    ],
+    "sample": "전체 보고서와 AI 직접 문장 수준",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": "AI 구체성은 AI 공시 firm-year 조건부",
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "LineFigure",
+    "static_svg": "figures/03_whole_report_concreteness_by_year.svg",
+    "source_download": "/downloads/figure_aggregate_data.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  },
+  {
+    "figure_id": "figure-04",
+    "number": "Figure 4",
+    "title": "시제 구성 변화",
+    "type": "line",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
+    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_columns": [
+      "report_year",
+      "past_tense_share",
+      "present_tense_share",
+      "future_tense_share"
+    ],
+    "sample": "전체 firm-year; finite tense count 분모",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": "미래 표지는 제한적 조동사 조건부",
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "LineFigure",
+    "static_svg": "figures/05_tense_shares_by_year.svg",
+    "source_download": "/downloads/figure_aggregate_data.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  },
+  {
+    "figure_id": "figure-05",
+    "number": "Figure 5",
+    "title": "AI 직접 문장의 Loughran–McDonald 언어 추이",
+    "type": "line",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
+    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_columns": [
+      "report_year",
+      "ai_lm_positive_share",
+      "ai_lm_negative_share",
+      "ai_lm_uncertainty_share"
+    ],
+    "sample": "AI 공시 firm-year 조건부",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": "Loughran–McDonald 금융사전 기반 상대 빈도",
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "LineFigure",
+    "static_svg": "figures/09_ai_sentiment_by_year.svg",
+    "source_download": "/downloads/figure_aggregate_data.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  },
+  {
+    "figure_id": "figure-06",
+    "number": "Figure 6",
+    "title": "AI 공시·미공시 표준화 평균 차이",
+    "type": "effect",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/tables/table_05_ai_disclosure_group_comparison.csv",
+    "source_sha256": "882527bb604213bac6d8ea73e8e46f3209b3d3c678090723ca4a7d2f120dba82",
+    "source_columns": [
+      "variable",
+      "standardized_mean_difference"
+    ],
+    "sample": "전체 firm-year 단순 집단 비교",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": "연도·산업·규모를 통제하지 않은 비교",
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "EffectSizeFigure",
+    "static_svg": null,
+    "source_download": "/downloads/table_05_ai_disclosure_group_comparison.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  },
+  {
+    "figure_id": "figure-07",
+    "number": "Figure 7",
+    "title": "동일 기업 내 전년 대비 변화",
+    "type": "change",
+    "section": "7. 분석 결과",
+    "source_file": "analysis/descriptive_2020_2025/figures/figure_within_firm_change_data.csv",
+    "source_sha256": "6b26e988d8a0fffcb28d754a81a72ba2ddc18a4bf314357bf9c6afe740e4e3cd",
+    "source_columns": [
+      "variable",
+      "report_year",
+      "mean_within_firm_change"
+    ],
+    "sample": "연속된 두 연도의 firm pair",
+    "n_rule": "연도별 또는 pairwise 유효 관측치",
+    "conditional_sample": "변수별 단위가 다르므로 패널을 분리해 해석",
+    "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+    "generation_script": "scripts/generate_web_analysis_data.py",
+    "chart_component": "WithinChangeFigure",
+    "static_svg": null,
+    "source_download": "/downloads/figure_within_firm_change_data.csv",
+    "notes": [
+      "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
+    ],
+    "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+    "generated_at": "2026-08-02T08:19:06.661951+00:00"
+  }
+]

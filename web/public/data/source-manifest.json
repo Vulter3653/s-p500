@@ -1,8 +1,8 @@
 {
   "analysis_period": "2020-2025",
   "unit_of_analysis": "firm-year",
-  "git_commit": "0b91daa14bb6214225ff6523f09902d2d246ad78",
-  "generated_at": "2026-08-02T07:38:55.092282+00:00",
+  "git_commit": "62b0647db78ffa8a9ae062fbd25b9e0d72b7f75f",
+  "generated_at": "2026-08-02T08:19:06.661951+00:00",
   "sources": [
     {
       "dataset_id": "yearly_statistics",
@@ -305,6 +305,40 @@
         "ai_lm_negative_share",
         "ai_lm_uncertainty_share",
         "report_word_count"
+      ],
+      "generation_script": "scripts/generate_web_analysis_data.py"
+    },
+    {
+      "dataset_id": "ai_group_figures",
+      "source_file": "analysis/descriptive_2020_2025/figures/figure_ai_group_data.csv",
+      "source_sha256": "493d207b00c30872760ca662bdea7daa460c04c59221db24522b71b961157a2c",
+      "source_columns": [
+        "report_year",
+        "ai_disclosure",
+        "N",
+        "whole_report_concreteness",
+        "lm_uncertainty_share",
+        "passive_voice_sentence_share",
+        "fog_index",
+        "report_word_count",
+        "lm_positive_share",
+        "lm_negative_share"
+      ],
+      "generation_script": "scripts/generate_web_analysis_data.py"
+    },
+    {
+      "dataset_id": "within_change_figures",
+      "source_file": "analysis/descriptive_2020_2025/figures/figure_within_firm_change_data.csv",
+      "source_sha256": "6b26e988d8a0fffcb28d754a81a72ba2ddc18a4bf314357bf9c6afe740e4e3cd",
+      "source_columns": [
+        "variable",
+        "report_year",
+        "paired_firm_count",
+        "mean_within_firm_change",
+        "median_within_firm_change",
+        "standard_deviation",
+        "p25",
+        "p75"
       ],
       "generation_script": "scripts/generate_web_analysis_data.py"
     },

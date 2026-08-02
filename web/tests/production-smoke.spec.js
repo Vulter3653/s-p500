@@ -20,16 +20,26 @@ async function openAndAudit(page, path, screenshotPath) {
   await expect(page.getByRole("heading", { name: /S&P 500|10-K|연구 보고서/ }).first()).toBeVisible();
   for (const heading of headings) await expect(page.getByRole("heading", { name: heading, exact: true }).first()).toBeVisible();
   await expect(page.locator("#appendix [data-variable-definition]")).toHaveCount(204);
+  const figures = page.locator("figure[data-figure-id]");
+  await expect(figures.first()).toBeVisible();
+  expect(await figures.count()).toBeGreaterThanOrEqual(5);
+  for (const figure of await figures.all()) {
+    await expect(figure.locator("svg")).toBeVisible();
+    await expect(figure.locator("figcaption")).toBeVisible();
+    await expect(figure.locator(".figure-source")).toBeVisible();
+    await expect(figure.locator("a[download]")).toBeVisible();
+    await expect(figure.locator("svg[aria-label]")).toBeVisible();
+  }
   return { consoleErrors, pageErrors, failedRequests };
 }
 
 test("production report renders without runtime errors", async ({ page }, testInfo) => {
-  await openAndAudit(page, "/", testInfo.outputPath("production-desktop.png"));
+  await openAndAudit(page, "/", testInfo.outputPath("production-report-desktop-with-figures.png"));
 });
 
 test("mobile report renders and remains horizontally contained", async ({ page }, testInfo) => {
   await page.setViewportSize({ width: 390, height: 844 });
-  await openAndAudit(page, "/", testInfo.outputPath("production-mobile.png"));
+  await openAndAudit(page, "/", testInfo.outputPath("production-report-mobile-with-figures.png"));
   const overflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
   expect(overflow).toBe(false);
 });

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-02
+
+- Added: 기존 분석 figure CSV를 source로 사용하는 논문용 반응형 SVG Figure 7종, Figure manifest, source CSV 다운로드 및 웹 Figure 감사 문서를 추가했다. (codex)
+- Changed: 연구보고서의 분석 결과 절에 AI 공시 확산·강도·구체성·시제·Loughran–McDonald·효과크기·동일 기업 변화 Figure를 통합했다. (codex)
+- Tested: Figure source 검증, Python 관련 테스트, Vite build 및 Playwright desktop/mobile 검증을 실행했다. (codex)
+
 ## Unreleased
 
 - Fixed: production blank screen의 실제 원인은 `docs` 객체가 설정되기 전에 `docs.limitations`를 읽은 React 런타임 예외였으며, 선택 데이터 로딩을 `Promise.allSettled()`로 분리하고 기본값·section error를 추가했다. (codex)

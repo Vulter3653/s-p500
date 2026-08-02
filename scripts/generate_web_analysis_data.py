@@ -40,6 +40,8 @@ REQUIRED_SOURCES = {
     "high_correlations": TABLES / "table_14_high_correlation_pairs.csv",
     "vif": TABLES / "table_15_vif_diagnostics.csv",
     "aggregate_figures": FIGURES / "figure_aggregate_data.csv",
+    "ai_group_figures": FIGURES / "figure_ai_group_data.csv",
+    "within_change_figures": FIGURES / "figure_within_firm_change_data.csv",
 }
 
 
@@ -204,6 +206,52 @@ def generate(output: Path) -> dict:
         manifest["sources"].append({"dataset_id": key, "source_file": str(path.relative_to(ROOT)), "source_sha256": sha256(path), "source_columns": list(sources[key].columns), "generation_script": "scripts/generate_web_analysis_data.py"})
     manifest["sources"].append({"dataset_id": "extended_panel", "source_file": str(PANEL.relative_to(ROOT)), "source_sha256": sha256(PANEL), "source_columns": list(panel.columns), "generation_script": "scripts/generate_web_analysis_data.py"})
 
+    # Figure data are copied from the existing, reproducibly generated figure
+    # tables.  The frontend receives only these records; it never embeds
+    # analysis values in React source.
+    aggregate_for_web = sources["aggregate_figures"].merge(
+        sources["yearly_statistics"][["report_year", "mean_ai_sentence_count_disclosers"]],
+        on="report_year", how="left", validate="one_to_one",
+    )
+    figure_sources = {
+        "aggregate": aggregate_for_web,
+        "ai_group": sources["ai_group_figures"],
+        "within_change": sources["within_change_figures"],
+        "comparison": sources["disclosure_comparison"],
+        "pearson": sources["pearson_full"],
+        "vif": sources["vif"],
+    }
+    figure_data = {name: records(frame) for name, frame in figure_sources.items()}
+    write_json(output / "figure-data.json", figure_data)
+    figure_manifest = []
+    figure_specs = [
+        ("figure-01", "Figure 1", "연도별 AI 공시 확산", "line", "aggregate", ["report_year", "ai_disclosure_rate"], "전체 firm-year; 연도별 N을 분모로 사용", None, "figures/01_ai_disclosure_rate_by_year.svg", "figure_aggregate_data.csv"),
+        ("figure-02", "Figure 2", "AI 커뮤니케이션 강도 추이", "line", "aggregate", ["report_year", "mean_ai_sentence_count_all", "mean_ai_sentence_count_disclosers"], "전체 firm-year 평균과 AI 공시 firm-year 조건부 평균", "ai_disclosure=1은 조건부 표본", "figures/02_mean_ai_sentence_count_by_year.svg", "figure_aggregate_data.csv"),
+        ("figure-03", "Figure 3", "구체성 추이", "line", "aggregate", ["report_year", "whole_report_concreteness", "ai_concreteness"], "전체 보고서와 AI 직접 문장 수준", "AI 구체성은 AI 공시 firm-year 조건부", "figures/03_whole_report_concreteness_by_year.svg", "figure_aggregate_data.csv"),
+        ("figure-04", "Figure 4", "시제 구성 변화", "line", "aggregate", ["report_year", "past_tense_share", "present_tense_share", "future_tense_share"], "전체 firm-year; finite tense count 분모", "미래 표지는 제한적 조동사 조건부", "figures/05_tense_shares_by_year.svg", "figure_aggregate_data.csv"),
+        ("figure-05", "Figure 5", "AI 직접 문장의 Loughran–McDonald 언어 추이", "line", "aggregate", ["report_year", "ai_lm_positive_share", "ai_lm_negative_share", "ai_lm_uncertainty_share"], "AI 공시 firm-year 조건부", "Loughran–McDonald 금융사전 기반 상대 빈도", "figures/09_ai_sentiment_by_year.svg", "figure_aggregate_data.csv"),
+        ("figure-06", "Figure 6", "AI 공시·미공시 표준화 평균 차이", "effect", "comparison", ["variable", "standardized_mean_difference"], "전체 firm-year 단순 집단 비교", "연도·산업·규모를 통제하지 않은 비교", None, "table_05_ai_disclosure_group_comparison.csv"),
+        ("figure-07", "Figure 7", "동일 기업 내 전년 대비 변화", "change", "within_change", ["variable", "report_year", "mean_within_firm_change"], "연속된 두 연도의 firm pair", "변수별 단위가 다르므로 패널을 분리해 해석", None, "figure_within_firm_change_data.csv"),
+    ]
+    for figure_id, number, title, chart_type, dataset_id, columns, sample, condition, static_svg, source_name in figure_specs:
+        source_key = {"aggregate": "aggregate_figures", "ai_group": "ai_group_figures", "within_change": "within_change_figures", "comparison": "disclosure_comparison"}[dataset_id]
+        if figure_id == "figure-02":
+            source_key = "yearly_statistics"
+        source_path = REQUIRED_SOURCES[source_key]
+        figure_manifest.append({
+            "figure_id": figure_id, "number": number, "title": title, "type": chart_type,
+            "section": "7. 분석 결과", "source_file": str(source_path.relative_to(ROOT)),
+            "source_sha256": sha256(source_path), "source_columns": columns, "sample": sample,
+            "n_rule": "연도별 또는 pairwise 유효 관측치", "conditional_sample": condition,
+            "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
+            "generation_script": "scripts/generate_web_analysis_data.py",
+            "chart_component": {"line": "LineFigure", "effect": "EffectSizeFigure", "change": "WithinChangeFigure"}[chart_type],
+            "static_svg": static_svg, "source_download": f"/downloads/{source_name}",
+            "notes": ["기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"],
+            "git_commit": commit, "generated_at": now,
+        })
+    write_json(output / "figure-manifest.json", figure_manifest)
+
     sample_rows = {int(row["report_year"]): row for row in records(sources["sample_by_year"])}
     yearly_source = records(sources["aggregate_figures"])
     years = []
@@ -233,7 +281,7 @@ def generate(output: Path) -> dict:
     downloads = ROOT / "web/public/downloads"
     downloads.mkdir(parents=True, exist_ok=True)
     downloads.joinpath("table-variable-definitions.csv").write_text(pd.DataFrame(rows).to_csv(index=False), encoding="utf-8")
-    csv_exports = {"disclosure-comparison": sources["disclosure_comparison"], "within-firm-changes": sources["within_firm_changes"], "pearson-correlations": sources["pearson_full"], "spearman-correlations": sources["spearman_full"], "vif": sources["vif"], "year-over-year-changes": sources["year_over_year_changes"]}
+    csv_exports = {"disclosure-comparison": sources["disclosure_comparison"], "within-firm-changes": sources["within_firm_changes"], "pearson-correlations": sources["pearson_full"], "spearman-correlations": sources["spearman_full"], "vif": sources["vif"], "year-over-year-changes": sources["year_over_year_changes"], "figure-aggregate-data": aggregate_for_web, "figure-ai-group-data": sources["ai_group_figures"], "figure-within-firm-change-data": sources["within_change_figures"]}
     for name, frame in csv_exports.items():
         downloads.joinpath(f"{name}.csv").write_text(frame.to_csv(index=False), encoding="utf-8")
     write_definition_markdown(downloads / "variable-definitions.md", definitions)
@@ -249,6 +297,7 @@ def generate(output: Path) -> dict:
         "research-dashboard-results.md",
         "research-dashboard-limitations.md",
         "research-dashboard-reproducibility.md",
+        "figure-audit.md",
     ):
         source = ROOT / "web/docs" / source_name
         public_docs.joinpath(source_name).write_text(source.read_text(encoding="utf-8"), encoding="utf-8")

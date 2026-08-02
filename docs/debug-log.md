@@ -1,5 +1,13 @@
 # Debug Log
 
+## 2026-08-02 - 연구보고서 Figure 통합 검증
+
+- 관찰: 기존 figure 산출물은 `analysis/descriptive_2020_2025/figures/`에 존재했지만 웹 결과 절에는 표만 표시되었다. (codex)
+- 원인: figure 집계 CSV가 생성되었어도 frontend 데이터 로더와 Figure 컴포넌트가 연결되어 있지 않았다. (codex)
+- 조치: `scripts/generate_web_analysis_data.py`가 기존 figure 집계·집단·within-firm CSV와 분석표를 읽어 `figure-data.json`, `figure-manifest.json`, 다운로드 CSV를 생성하도록 추가하고, React에 방어적인 SVG Figure 컴포넌트를 통합했다. (codex)
+- 검증: source SHA·열·생성 script가 manifest에 존재하고, local production preview에서 desktop/mobile pageerror·console error·failed request가 모두 0이며 7개 Figure의 SVG·figcaption·source details·CSV download가 DOM에 표시된다. (codex)
+- 남은 위험: 실제 production 재배포 전에는 새 Figure가 공개 URL에 반영되지 않았으며, 현재 Codespaces Chromium은 `page.pdf` 호출 시 sandbox 종료 오류로 PDF를 만들지 못했다. (codex)
+
 ## 2026-08-02 - production blank screen의 첫 pageerror 확인
 
 - 재현 명령: `cd web && npx playwright test tests/production-smoke.spec.js --reporter=line`를 production base URL로 실행했다.
