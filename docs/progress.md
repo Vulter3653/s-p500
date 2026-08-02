@@ -11,6 +11,14 @@
 - 검증: local production preview Playwright desktop/mobile 2개 테스트가 pageerror·console error·failed request 0, 필수 heading 표시, appendix 204개 DOM, mobile horizontal overflow 없음으로 통과했다. (codex)
 - 상태: 수정 후 production 재배포 및 동일 Playwright test 재실행이 필요하다. (codex)
 
+## 2026-08-02 - production 브라우저 검증 완료
+
+- 배포: `e4a74fd`를 `origin/main`에 push한 뒤 production asset이 `index-DfcvgHXl.js`와 `index-Mdlp60ng.css`로 갱신되었다. (codex)
+- production Playwright: desktop·mobile 2개 테스트가 모두 통과했으며 HTTP 200, `pageerror=0`, console error 0, failed request 0, 필수 heading 표시, appendix 204개 DOM, 모바일 horizontal overflow 없음이 확인됐다. (codex)
+- 산출물: 실제 production desktop/mobile screenshot을 `web/test-results/`에서 생성하고 로컬 보관용 `web/artifacts/`로 복사했다. 해당 디렉터리는 Git에서 제외한다. (codex)
+- API 검증: production JSON parse 성공, JSON·Markdown endpoint 12개 HTTP 200, 파일 크기 0 초과와 content-type을 확인했다. (codex)
+- 상태: production 화면 정상 렌더링으로 전환되었으며, 최신 검증 문서 기록을 별도 commit으로 남긴다. (codex)
+
 ## 2026-08-02 - 루트 연구보고서형 대시보드 재구성
 
 - 변경: `web/src/App.jsx`의 루트 화면을 표지·초록·연구설계·표본 구축·자료 수집·텍스트 처리·변수 측정·통계 분석·결과·논의·한계·재현성·부록 순서의 통합 보고서로 전면 재구성했다. (codex)

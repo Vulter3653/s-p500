@@ -10,6 +10,15 @@
 - 재검증: local production preview에서 desktop/mobile 모두 `pageerror=[]`, `consoleErrors=[]`, `failedRequests=[]`, 필수 heading 표시, appendix 204개, horizontal overflow false로 통과했다.
 - 상태: local 수정 해결. production은 새 commit push 및 재배포 후 동일 테스트를 수행한다.
 
+## 2026-08-02 - 수정 후 production 브라우저 검증 통과
+
+- 배포: `e4a74fd` push 후 production HTML이 `index-DfcvgHXl.js`를 제공했다.
+- 실행: `cd web && npx playwright test tests/production-smoke.spec.js --reporter=line`.
+- 결과: desktop·mobile 모두 `httpStatus=200`, `consoleErrors=[]`, `pageErrors=[]`, `failedRequests=[]`; 필수 연구 절 heading과 `#appendix [data-variable-definition]` 204개가 표시됐다.
+- 모바일: `document.documentElement.scrollWidth > window.innerWidth + 1`가 false로 확인되어 body-level horizontal overflow가 제거됐다. 표 내부 가로 스크롤은 유지된다.
+- 정적 검증: JSON 8개와 Markdown 4개 endpoint가 HTTP 200이고 JSON parse가 성공했다. content-type과 파일 크기도 확인했다.
+- 상태: production blank screen 해결됨. 실제 desktop/mobile screenshot은 Playwright test-results에 생성되며 test output 디렉터리는 `.gitignore`로 제외한다.
+
 ## 2026-08-02 - 루트 화면이 논문 보고서형으로 보이지 않던 문제
 
 - 증상: `/`가 hero·요약 카드·간단 그래프 중심의 발표용 개요를 유지하고 상세 방법론·결과·변수 수식이 hash 페이지에만 노출됐다.
