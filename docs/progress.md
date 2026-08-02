@@ -260,3 +260,9 @@
 - 정정: `문헌정리.pdf`의 문헌 근거·연구 배경 표시는 제거했다. 해당 파일은 수식·측정 방법·표현 형식을 확인하는 참고자료로만 사용한다. (codex)
 - 유지: 대시보드의 수식, 분자·분모, 결측 처리 및 측정 절차 설명은 유지한다. (codex)
 - 검증: 문헌 표시 제거 후 `npm run build`, `git diff --check`를 실행한다. (codex)
+## 2026-08-02 - 논문용 Table 1·Table 2 형식 반영
+
+- 변경: `table_02_overall_descriptive_statistics.csv`의 실제 산출값을 `Mean`, `Std Dev.`, `Q1`, `Median`, `Q3`, `N` 열로 표시하는 Table 1 형식 표를 추가했다. (codex)
+- 추가: 텍스트 특성 결정요인 분석은 아직 실행하지 않았으므로, 종속변수·모형·설명변수·통제·상태를 보여주는 Table 2 설계표만 추가했다. 계수·t-stat·p-value는 생성하지 않았다. (codex)
+- 안전: 제공된 예시의 재무변수나 회귀계수를 현재 패널에 임의로 이식하지 않았다. (codex)
+- 검증: `npm run build`, `git diff --check`를 실행한다. (codex)
