@@ -15,6 +15,13 @@
 - 조치: 현재 완료 표본, Google Drive 보관, R2 빈 상태, 2019–2017 역순 계획, historical 실행기 분리 원칙을 문서에 반영했다. `VERSION`은 실제 코드 릴리스가 아니므로 변경하지 않았다. (codex)
 - 검증: 수정 문서의 상태·연도·버전 검색과 `git diff --check`를 수행한다. 기존 데이터와 외부 저장소는 변경하지 않는다. (codex)
 
+## 2026-08-02 - Cloudflare Pages 루트 설정과 React 앱 경로 정렬
+
+- 문제: Cloudflare Pages 입력은 Root directory `/`, Build command `npm run build`, Output directory `dist`로 저장되어 있으나 저장소에 frontend `package.json`이 없었다. (codex)
+- 조치: 루트 `package.json`을 build shim으로 추가하고 실제 React + Vite 앱을 `web/`에 배치했다. `web/vite.config.js`는 빌드 결과를 루트 `dist/`로 출력한다. (codex)
+- 안전: frontend는 `/api/summary`가 없을 때 기존 확정 표본 요약을 fallback으로 표시하며, raw HTML·R2 credential·Google OAuth 값은 포함하지 않는다. (codex)
+- 검증: `npm install --prefix web --no-audit --no-fund`와 `npm run build`가 성공했다. Cloudflare 실제 배포는 아직 실행하지 않았다. (codex)
+
 ## 2026-08-02 - Google Drive 신규 저장 형식 기본값
 
 - 요청: 이후 Google Drive raw HTML 저장의 기본 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 유지한다. (codex)

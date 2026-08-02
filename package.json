@@ -1,0 +1,8 @@
+{
+  "name": "s-p500-dashboard",
+  "private": true,
+  "version": "0.12.0",
+  "scripts": {
+    "build": "npm --prefix web run build"
+  }
+}

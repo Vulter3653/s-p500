@@ -24,3 +24,6 @@ references/dictionaries/brysbaert_concreteness/analysis_ready_dictionary/*
 !references/dictionaries/brysbaert_concreteness/original_source_files/.gitkeep
 !references/dictionaries/brysbaert_concreteness/analysis_ready_dictionary/.gitkeep
 references/software/r_library/
+node_modules/
+web/node_modules/
+dist/

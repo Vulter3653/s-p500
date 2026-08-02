@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- Added: Cloudflare Pages 루트 빌드 설정과 호환되는 `web/` React + Vite dashboard scaffold를 추가했다. 루트 `npm run build`는 `web`을 빌드해 `dist/`를 생성하며, 비밀정보와 raw HTML은 포함하지 않는다. (codex)
 - Docs: 루트·연도별 README, 인수인계, repository structure, sample definition 및 constituent method 문서를 현재 2020–2025 완료 상태와 2019–2017 역사 확장 계획에 맞게 정리했다. `VERSION`은 `0.12.0`으로 유지했다. (codex)
 - Docs: 기존 2020–2025 실행기의 2025 pilot 경로·1–5 batch 하드코딩을 감사하고, historical 처리는 기존 pipeline을 깨뜨리지 않는 전용 runner/workflow로 분리해야 함을 기록했다. (codex)
 - Changed: Google Drive 신규 migration의 기본 저장 형식을 `연도/번호_연도_기업명_SYMBOL_CIK.html`로 고정하고, 기존 중첩 폴더 형식은 `legacy_nested` 호환 옵션으로만 유지한다. (codex)

@@ -17,6 +17,13 @@
 - 버전: `VERSION`은 실제 릴리스 변경이 없으므로 `0.12.0`으로 유지하고, 임의의 `0.13.0` 변경은 반영하지 않았다. (codex)
 - 보호: 기존 분석 결과·Google Drive 파일·R2 객체를 변경하지 않았으며, 역사 workflow도 실행하지 않았다. (codex)
 
+## 2026-08-02 - Cloudflare Pages React dashboard scaffold 추가
+
+- 추가: 저장소 루트의 Cloudflare Pages 설정을 유지하면서 `web/`에 React + Vite 반응형 dashboard 구조를 만들고, 루트 `npm run build`가 `dist/`를 생성하도록 연결했다. (codex)
+- 화면: 연도 선택, firm-year 수, AI 공시 수·비율, 연도별 요약표와 `/api/summary` 연결 준비 상태를 추가했다. 현재 fallback 수치는 기존 확정 표본 요약만 사용한다. (codex)
+- 안전: R2·Google OAuth secret, raw HTML, 기존 패널과 분석 결과는 frontend bundle에 포함하지 않았다. (codex)
+- 검증: `npm install --prefix web --no-audit --no-fund`와 루트 `npm run build`가 성공했고, Vite가 루트 `dist/`를 생성했다. `git diff --check`도 통과했다. (codex)
+
 ## 2026-07-31 - 기술통계 Markdown 보고서 표시·해석 보완
 
 - 변경: `write_descriptive_reports.py`가 기존 통계 CSV를 수정하지 않고 한글 열 제목, 정수 연도·관측치 수, 백분율, p-value 및 `-` 구조적 결측 표시로 Markdown을 재생성하도록 개선했다. (codex)
