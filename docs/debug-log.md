@@ -369,3 +369,9 @@
 - 관찰: runner 코드는 원격 branch `codex/generalize-yearly-10k-runner-503`의 `24fb65d`에 보존되어 있었으나, dashboard와 독립된 fixture 전용 PR 검증 workflow와 새 Codespaces 인수인계 문서가 없었다. (codex)
 - 조치: 외부 secret이나 collection flag 없이 compile·`tests/test_yearly_batch_generalization.py`만 실행하는 `.github/workflows/test-yearly-runner-generalization.yml`을 추가하고, 원격 branch 재개 절차를 `docs/handoff-runner-503.md`에 기록했다. (codex)
 - 제한: 이 환경은 `.git/FETCH_HEAD` 쓰기가 차단되어 `git fetch`를 수행할 수 없고, GitHub CLI 토큰이 만료되어 PR은 연결된 GitHub 도구로 생성한다. (codex)
+
+# 2026-08-02 - runner fixture CI의 pytest 의존성 누락
+
+- 관찰: PR #3의 Actions run `30741636264`에서 requirements 설치와 Python compile은 성공했으나 `pytest -q tests/test_yearly_batch_generalization.py`가 `pytest: command not found`로 실패했다. (codex)
+- 원인: 저장소 `requirements.txt`에는 runtime 의존성만 있고 pytest가 포함되어 있지 않다. (codex)
+- 조치: runner 전용 workflow에서 requirements 설치 후 `python -m pip install pytest`를 추가한다. 실제 SEC/R2/Google Drive 접근은 여전히 없다. (codex)
