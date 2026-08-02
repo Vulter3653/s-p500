@@ -153,3 +153,6 @@
 - Added: 저장소 작업, 기록 보존, 검증 및 완료 보고 기준을 정의한 `AGENTS.md`를 추가했다. (codex)
 - Added: 변경 이력, 진행 상황, 디버그 및 데이터 분석 기록 방식을 정의한 작성 규칙을 추가했다. (codex)
 - Added: 버전, 진행 상황 및 디버그 기록을 위한 초기 관리 파일을 추가했다. (codex)
+# Unreleased
+
+- Added: runner branch 인수인계를 위한 fixture 전용 GitHub Actions와 Codespaces 재접속 문서를 추가했다. dashboard 및 실제 SEC/R2/Google Drive 실행과 분리했다. (codex)

@@ -364,3 +364,8 @@
 
 - 조치: 회귀계수·t-stat을 포함하지 않는 설계표도 현재 화면에 불필요하다는 요청에 따라 제거했다. (codex)
 - 상태: Table 1 기술통계표와 기존 측정 설명만 남겼다. (codex)
+# 2026-08-02 - 503개 runner 원격 검증선 분리
+
+- 관찰: runner 코드는 원격 branch `codex/generalize-yearly-10k-runner-503`의 `24fb65d`에 보존되어 있었으나, dashboard와 독립된 fixture 전용 PR 검증 workflow와 새 Codespaces 인수인계 문서가 없었다. (codex)
+- 조치: 외부 secret이나 collection flag 없이 compile·`tests/test_yearly_batch_generalization.py`만 실행하는 `.github/workflows/test-yearly-runner-generalization.yml`을 추가하고, 원격 branch 재개 절차를 `docs/handoff-runner-503.md`에 기록했다. (codex)
+- 제한: 이 환경은 `.git/FETCH_HEAD` 쓰기가 차단되어 `git fetch`를 수행할 수 없고, GitHub CLI 토큰이 만료되어 PR은 연결된 GitHub 도구로 생성한다. (codex)

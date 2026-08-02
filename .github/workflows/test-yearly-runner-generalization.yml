@@ -1,0 +1,61 @@
+name: Test yearly 10-K runner generalization
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/process-10k-yearly-batches.yml"
+      - ".github/workflows/test-yearly-runner-generalization.yml"
+      - "scripts/run_yearly_10k_batch.py"
+      - "scripts/extract_10k_analysis_text.py"
+      - "scripts/run_language_full_sample.py"
+      - "scripts/merge_yearly_10k_batches.py"
+      - "tests/test_yearly_batch_generalization.py"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: runner-503-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  fixture-tests:
+    name: Fixture and mock validation
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Compile runner modules
+        run: |
+          python -m py_compile \
+            scripts/run_yearly_10k_batch.py \
+            scripts/extract_10k_analysis_text.py \
+            scripts/run_language_full_sample.py \
+            scripts/merge_yearly_10k_batches.py
+
+      - name: Run generalization tests
+        run: pytest -q tests/test_yearly_batch_generalization.py
+
+      - name: Upload test evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: yearly-runner-generalization-evidence
+          path: |
+            .pytest_cache
+            tests/test_yearly_batch_generalization.py
+          if-no-files-found: ignore
+          retention-days: 14

@@ -348,3 +348,8 @@
 
 - 변경: 사용자의 요청에 따라 대시보드 Table 2 결정요인 분석 설계표를 제거했다. (codex)
 - 유지: 실제 산출값을 사용하는 Table 1 기술통계표, 수식·측정 방법 및 기존 패널 분석 결과는 유지한다. (codex)
+# 2026-08-02 - 503개 runner 원격 인수인계 및 fixture CI
+
+- 추가: `.github/workflows/test-yearly-runner-generalization.yml`이 runner 관련 파일 변경 시 fixture·mock 테스트와 Python compile만 실행하도록 구성했다. `contents: read`, runner 전용 concurrency, 14일 artifact 보존을 사용하며 SEC·R2·Google Drive secret을 주입하지 않는다. (codex)
+- 추가: `docs/handoff-runner-503.md`에 원격 branch, 상수, dashboard와의 작업선 분리, 새 Codespaces 재접속 명령 및 historical 실행 전 조건을 기록했다. (codex)
+- 상태: runner branch `24fb65d` 기반 작업을 PR로 보존하며 main에는 병합하지 않는다. 실제 historical 수집과 외부 저장소 쓰기는 실행하지 않는다. (codex)
