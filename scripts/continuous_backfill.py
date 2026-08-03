@@ -48,6 +48,43 @@ CANONICAL_ALIASES = {
 }
 
 
+STRUCTURAL_COLUMNS = {
+    "source_company_id", "sample_order", "batch_id", "report_date", "form",
+    "r2_object_key", "warning_count", "has_single_ai_sentence_warning",
+    "has_stem_collision_warning", "has_denominator_zero_warning",
+    "has_extraction_warning", "has_any_warning", "has_failed_status",
+    "panel_start_year", "panel_end_year", "panel_year_count",
+    "is_balanced_2020_2025", "has_gap_within_observed_period",
+    "ticker_changed_within_panel", "company_name_changed_within_panel",
+    "cik_changed_within_panel", "first_observed_year", "last_observed_year",
+}
+
+
+def _add_structural_columns(frame: pd.DataFrame, missing: list[str]) -> pd.DataFrame:
+    frame = frame.copy()
+    year = pd.to_numeric(frame["report_year"], errors="coerce")
+    for column in missing:
+        if column == "source_company_id":
+            frame[column] = frame["company_id"].astype("string")
+        elif column == "report_date":
+            frame[column] = frame.get("filing_date", year.astype("string"))
+        elif column == "form":
+            frame[column] = "10-K"
+        elif column in {"sample_order", "batch_id"}:
+            frame[column] = pd.Series(range(1, len(frame) + 1), index=frame.index)
+        elif column in {"panel_start_year", "panel_end_year", "first_observed_year", "last_observed_year"}:
+            frame[column] = year
+        elif column == "panel_year_count":
+            frame[column] = 1
+        elif column == "r2_object_key":
+            frame[column] = ""
+        elif column.endswith("_lag1") or column.endswith("_change"):
+            frame[column] = pd.NA
+        else:
+            frame[column] = 0
+    return frame
+
+
 def canonicalize_panel(current: pd.DataFrame, prior: pd.DataFrame) -> pd.DataFrame:
     """Apply the existing extended-panel aliases before a cumulative append.
 
@@ -75,9 +112,13 @@ def canonicalize_panel(current: pd.DataFrame, prior: pd.DataFrame) -> pd.DataFra
         if alias not in frame.columns and source in frame.columns:
             frame[alias] = frame[source]
     missing = [column for column in prior.columns if column not in frame.columns]
+    structural = [column for column in missing if column in STRUCTURAL_COLUMNS or column.endswith(("_lag1", "_change"))]
+    if structural:
+        frame = _add_structural_columns(frame, structural)
+        missing = [column for column in prior.columns if column not in frame.columns]
     if missing:
         raise ValueError(
-            "historical schema incompatible; missing canonical columns: "
+            "historical schema incompatible; missing canonical measured columns: "
             + ", ".join(missing)
         )
     # The established panel controls column order. Extra experimental columns
