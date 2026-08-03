@@ -94,6 +94,14 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: python -m pip install -r requirements.txt
+      - name: Restore collection manifest artifact for finalize-only recovery
+        if: inputs.reuse_run_id != ''
+        uses: actions/download-artifact@v4
+        with:
+          name: historical-${{ inputs.start_year }}-collection-manifest
+          path: /tmp/reused-collection-manifest
+          run-id: ${{ inputs.reuse_run_id }}
+          github-token: ${{ github.token }}
       - name: Resolve SEC ticker metadata cache
         id: sec-cache
         env:
@@ -112,9 +120,17 @@ jobs:
         env:
           REPORT_YEAR: ${{ inputs.current_year || inputs.start_year }}
           SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
+          REUSE_RUN_ID: ${{ inputs.reuse_run_id }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: |
           manifest="${SAMPLE_MANIFEST:-${REPORT_YEAR}/sample_503/sample/final_analysis_sample_503.csv}"
+          if [[ ! -f "$manifest" && -n "$REUSE_RUN_ID" ]]; then
+            reused=$(find /tmp/reused-collection-manifest -type f -name "*.csv" -print -quit)
+            [[ -n "$reused" ]] || { echo "reused collection manifest artifact is empty" >&2; exit 1; }
+            mkdir -p "$(dirname "$manifest")"
+            cp "$reused" "$manifest"
+            echo "restored collection-ready manifest from run $REUSE_RUN_ID: $manifest"
+          fi
           if [[ ! -f "$manifest" ]]; then
             python scripts/build_historical_sample_manifest.py --root . --report-year "$REPORT_YEAR" --output "$manifest"
           else
