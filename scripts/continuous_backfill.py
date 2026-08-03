@@ -200,6 +200,7 @@ def build_state(args: argparse.Namespace, annual_count: int | None, panel_result
     next_value = None if streak >= 3 or args.dry_run else next_year(current, visited, int(args.minimum_year))
     return {
         "chain_id": args.chain_id,
+        "sample_namespace": getattr(args, "sample_namespace", "sample_503"),
         "start_year": int(args.start_year),
         "current_year": current,
         "last_completed_year": current if status == "success" else (visited[-2] if len(visited) > 1 else None),
@@ -226,6 +227,7 @@ def main() -> None:
     parser.add_argument("--keyword-column", default=AI_KEYWORD_COLUMN)
     parser.add_argument("--chain-state", type=Path, required=True)
     parser.add_argument("--chain-id", required=True)
+    parser.add_argument("--sample-namespace", default="sample_503")
     parser.add_argument("--start-year", type=int, required=True)
     parser.add_argument("--current-year", type=int, required=True)
     parser.add_argument("--minimum-year", type=int, default=0)
