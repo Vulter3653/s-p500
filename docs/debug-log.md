@@ -1,5 +1,16 @@
 # Debug Log
 
+## 2026-08-03 - historical backfill dashboard generation dependency failure
+
+- Run: `30788228058`.
+- Successful steps: prepare, SEC ticker cache resolution, manifest generation, five valid batch jobs, batch merge, and `ai_term_count` annual validation.
+- Failure: `scripts/generate_web_analysis_data.py` raised `ModuleNotFoundError: No module named 'yaml'`.
+- Cause: `requirements.txt` omitted the PyYAML package although the generator imports `yaml`.
+- Fix: added `PyYAML==6.0.2` to `requirements.txt` on `main`.
+- Impact: no panel commit, dashboard publication, next-year dispatch, or additional SEC/R2/Drive write occurred after the failure.
+- Next verification: one corrected workflow run only.
+ (codex)
+
 ## 2026-08-03 - package 실행 시 batch runner import 실패
 
 - 재현: run `30786636801`의 prepare manifest validation에서 `ModuleNotFoundError: No module named 'download_10k_html'`가 발생했다. `scripts.run_yearly_10k_batch`가 package 형태로 import될 때 script-local absolute import가 실패한 것이다. (codex)
