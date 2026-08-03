@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import math
 import json
 import os
 import tempfile
@@ -67,7 +68,9 @@ def canonicalize_panel(current: pd.DataFrame, prior: pd.DataFrame) -> pd.DataFra
     if "log1p_ai_sentence_count" in prior.columns and "log1p_ai_sentence_count" not in frame.columns:
         counts = pd.to_numeric(frame.get("ai_sentence_count"), errors="coerce")
         if counts is not None:
-            frame["log1p_ai_sentence_count"] = (counts.clip(lower=0) + 1).map(__import__("math").log)
+            if counts.isna().any():
+                raise ValueError("ai_sentence_count contains missing values; cannot derive log1p")
+            frame["log1p_ai_sentence_count"] = (counts.clip(lower=0) + 1).map(math.log)
     for alias, source in CANONICAL_ALIASES.items():
         if alias not in frame.columns and source in frame.columns:
             frame[alias] = frame[source]
