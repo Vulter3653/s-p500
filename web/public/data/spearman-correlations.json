@@ -52,8 +52,8 @@
     "ai_lm_uncertainty_share": 0.2021316627557648,
     "ai_passive_voice_sentence_share": 0.3980014384780851,
     "ai_fog_index": -0.1959336319143023,
-    "log_report_word_count": 0.1205422747172482,
-    "report_word_count": 0.1205422747172482,
+    "log_report_word_count": 0.1362709984320052,
+    "report_word_count": 0.1362709984320052,
     "numeric_token_share": -0.4040791129757232,
     "average_word_length": 0.1882375091668936,
     "lexical_density": 0.021159568247304,
@@ -632,7 +632,7 @@
   {
     "variable": "log_report_word_count",
     "ai_disclosure": 0.1024443922109481,
-    "ai_sentence_count": 0.1205422747172482,
+    "ai_sentence_count": 0.1362709984320052,
     "log1p_ai_sentence_count": 0.1205422747172482,
     "whole_report_concreteness": -0.1977860496248236,
     "ai_concreteness": -0.1125847172242191,
@@ -662,7 +662,7 @@
   {
     "variable": "report_word_count",
     "ai_disclosure": 0.1024443922109481,
-    "ai_sentence_count": 0.1205422747172482,
+    "ai_sentence_count": 0.1362709984320052,
     "log1p_ai_sentence_count": 0.1205422747172482,
     "whole_report_concreteness": -0.1977860496248236,
     "ai_concreteness": -0.1125847172242191,

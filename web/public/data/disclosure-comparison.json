@@ -2,24 +2,24 @@
   {
     "variable": "whole_report_concreteness",
     "disclosure_N": 1660,
-    "disclosure_mean": 2.8916837693975905,
+    "disclosure_mean": 2.89168376939759,
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 2.910088132095808,
-    "mean_difference": -0.0184043626982175,
-    "standardized_mean_difference": -0.4288237761856285,
-    "welch_t": -10.98930635199284,
-    "welch_pvalue": 2.0294047669742957e-27
+    "mean_difference": -0.0184043626982179,
+    "standardized_mean_difference": -0.4288237761856388,
+    "welch_t": -10.989306351993104,
+    "welch_pvalue": 2.0294047669686253e-27
   },
   {
     "variable": "past_tense_share",
     "disclosure_N": 1660,
-    "disclosure_mean": 0.2172843676708452,
+    "disclosure_mean": 0.2172843676708453,
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 0.2451615038052188,
     "mean_difference": -0.0278771361343735,
-    "standardized_mean_difference": -0.6331505500386826,
-    "welch_t": -16.434205003036716,
-    "welch_pvalue": 1.2408784010517476e-57
+    "standardized_mean_difference": -0.6331505500386819,
+    "welch_t": -16.4342050030367,
+    "welch_pvalue": 1.240878401052066e-57
   },
   {
     "variable": "present_tense_share",
@@ -39,9 +39,9 @@
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 0.0331665647298281,
     "mean_difference": -0.0007533209892478,
-    "standardized_mean_difference": -0.0771954575983975,
-    "welch_t": -2.0114208183593507,
-    "welch_pvalue": 0.044389565445091
+    "standardized_mean_difference": -0.0771954575983968,
+    "welch_t": -2.011420818359332,
+    "welch_pvalue": 0.044389565445093
   },
   {
     "variable": "lm_uncertainty_share",
@@ -50,31 +50,31 @@
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 0.0168554793413173,
     "mean_difference": 0.0013851971526585,
-    "standardized_mean_difference": 0.531076402857211,
-    "welch_t": 13.958213793982118,
-    "welch_pvalue": 1.0108225565120498e-42
+    "standardized_mean_difference": 0.5310764028572098,
+    "welch_t": 13.958213793982084,
+    "welch_pvalue": 1.0108225565125118e-42
   },
   {
     "variable": "passive_voice_sentence_share",
     "disclosure_N": 1660,
     "disclosure_mean": 0.2928935755876342,
     "non_disclosure_N": 1169,
-    "non_disclosure_mean": 0.3001285755325592,
-    "mean_difference": -0.007234999944925,
-    "standardized_mean_difference": -0.2183450321939453,
-    "welch_t": -5.670553282201517,
-    "welch_pvalue": 1.5914483362448778e-08
+    "non_disclosure_mean": 0.3001285755325593,
+    "mean_difference": -0.0072349999449251,
+    "standardized_mean_difference": -0.218345032193947,
+    "welch_t": -5.67055328220156,
+    "welch_pvalue": 1.591448336244489e-08
   },
   {
     "variable": "fog_index",
     "disclosure_N": 1660,
-    "disclosure_mean": 20.88969376733735,
+    "disclosure_mean": 20.889693767337352,
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 20.628769734610778,
-    "mean_difference": 0.2609240327265709,
-    "standardized_mean_difference": 0.2570582795331397,
-    "welch_t": 6.557657190464262,
-    "welch_pvalue": 6.749012439676536e-11
+    "mean_difference": 0.2609240327265745,
+    "standardized_mean_difference": 0.2570582795331432,
+    "welch_t": 6.557657190464351,
+    "welch_pvalue": 6.749012439672637e-11
   },
   {
     "variable": "report_word_count",
@@ -85,7 +85,7 @@
     "mean_difference": 3742.194896265988,
     "standardized_mean_difference": 0.1531985550685862,
     "welch_t": 3.988850358451327,
-    "welch_pvalue": 6.83317709250414e-05
+    "welch_pvalue": 6.833177092504142e-05
   },
   {
     "variable": "lm_positive_share",
@@ -94,9 +94,9 @@
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 0.0055591714542343,
     "mean_difference": 0.0006063458409463,
-    "standardized_mean_difference": 0.4119665914634225,
-    "welch_t": 10.826392548662124,
-    "welch_pvalue": 9.781294933740635e-27
+    "standardized_mean_difference": 0.411966591463422,
+    "welch_t": 10.826392548662108,
+    "welch_pvalue": 9.78129493374232e-27
   },
   {
     "variable": "lm_negative_share",
@@ -105,8 +105,8 @@
     "non_disclosure_N": 1169,
     "non_disclosure_mean": 0.0180881315911035,
     "mean_difference": 0.0021295470655229,
-    "standardized_mean_difference": 0.5158836388205411,
+    "standardized_mean_difference": 0.5158836388205412,
     "welch_t": 13.648734925425384,
-    "welch_pvalue": 5.133938708387823e-41
+    "welch_pvalue": 5.133938708387821e-41
   }
 ]

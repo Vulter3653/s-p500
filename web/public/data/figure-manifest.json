@@ -5,8 +5,8 @@
     "title": "연도별 AI 공시 확산",
     "type": "line",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
-    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
+    "source_sha256": "4ef4464073868ac50055ee1b1e58412c5db1c0b079ad7bbfe0f6559ca3938dd9",
     "source_columns": [
       "report_year",
       "ai_disclosure_rate"
@@ -22,8 +22,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   },
   {
     "figure_id": "figure-02",
@@ -31,8 +31,8 @@
     "title": "AI 커뮤니케이션 강도 추이",
     "type": "line",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/tables/table_04_descriptive_statistics_by_year.csv",
-    "source_sha256": "6965537934a416da59d310b053c3d1cbc8dde30c78f2c8818e35a3366dfd5416",
+    "source_file": "analysis/historical_candidate/tables/table_04_descriptive_statistics_by_year.csv",
+    "source_sha256": "705d9c11f88eb7efb65d81434715e325bbdd4dd9accc11b1cc64b860107552b6",
     "source_columns": [
       "report_year",
       "mean_ai_sentence_count_all",
@@ -49,8 +49,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   },
   {
     "figure_id": "figure-03",
@@ -58,8 +58,8 @@
     "title": "구체성 추이",
     "type": "line",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
-    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
+    "source_sha256": "4ef4464073868ac50055ee1b1e58412c5db1c0b079ad7bbfe0f6559ca3938dd9",
     "source_columns": [
       "report_year",
       "whole_report_concreteness",
@@ -76,8 +76,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   },
   {
     "figure_id": "figure-04",
@@ -85,8 +85,8 @@
     "title": "시제 구성 변화",
     "type": "line",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
-    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
+    "source_sha256": "4ef4464073868ac50055ee1b1e58412c5db1c0b079ad7bbfe0f6559ca3938dd9",
     "source_columns": [
       "report_year",
       "past_tense_share",
@@ -104,8 +104,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   },
   {
     "figure_id": "figure-05",
@@ -113,8 +113,8 @@
     "title": "AI 직접 문장의 Loughran–McDonald 언어 추이",
     "type": "line",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/figures/figure_aggregate_data.csv",
-    "source_sha256": "4d8a7cfb3a32dc897eac642fca594f9e112cf9720faf030c7c31db0309383e72",
+    "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
+    "source_sha256": "4ef4464073868ac50055ee1b1e58412c5db1c0b079ad7bbfe0f6559ca3938dd9",
     "source_columns": [
       "report_year",
       "ai_lm_positive_share",
@@ -132,8 +132,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   },
   {
     "figure_id": "figure-06",
@@ -141,8 +141,8 @@
     "title": "AI 공시·미공시 표준화 평균 차이",
     "type": "effect",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/tables/table_05_ai_disclosure_group_comparison.csv",
-    "source_sha256": "882527bb604213bac6d8ea73e8e46f3209b3d3c678090723ca4a7d2f120dba82",
+    "source_file": "analysis/historical_candidate/tables/table_05_ai_disclosure_group_comparison.csv",
+    "source_sha256": "4527a58c088617c667a5f37a903265468c8549cdfbf4f39a9aff91b25f4d998c",
     "source_columns": [
       "variable",
       "standardized_mean_difference"
@@ -158,8 +158,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   },
   {
     "figure_id": "figure-07",
@@ -167,7 +167,7 @@
     "title": "동일 기업 내 전년 대비 변화",
     "type": "change",
     "section": "7. 분석 결과",
-    "source_file": "analysis/descriptive_2020_2025/figures/figure_within_firm_change_data.csv",
+    "source_file": "analysis/historical_candidate/figures/figure_within_firm_change_data.csv",
     "source_sha256": "6b26e988d8a0fffcb28d754a81a72ba2ddc18a4bf314357bf9c6afe740e4e3cd",
     "source_columns": [
       "variable",
@@ -185,7 +185,7 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "6d6f68c2caf6fe13be6b998e52e7c1baf0ab2649",
-    "generated_at": "2026-08-02T08:25:16.960186+00:00"
+    "git_commit": "a7c870a56fecbec3bf7b5e8c2161b3638c4840c9",
+    "generated_at": "2026-08-03T06:41:17.853348+00:00"
   }
 ]
