@@ -1,6 +1,13 @@
 {
-  "panel_rows": 3270,
+  "panel_rows": 3654,
   "year_rows": [
+    {
+      "report_year": 2018,
+      "firm_year_count": 384,
+      "unique_company_count": 384,
+      "ai_disclosure_count": 64,
+      "ai_disclosure_rate": 0.1666666666666666
+    },
     {
       "report_year": 2019,
       "firm_year_count": 441,
