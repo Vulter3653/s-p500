@@ -1,5 +1,16 @@
 # Debug Log
 
+## 2026-08-03 - historical publication shell continuation failure
+
+- Run: `30788897235`.
+- Successful: prepare, five batch jobs, merge, annual AI keyword validation, and candidate analysis generation.
+- Failure: `continuous_backfill.py` reported missing required `--chain-state`, `--chain-id`, `--start-year`, and `--current-year` arguments.
+- Cause: the workflow update stored two literal backslashes at each multiline shell continuation; the command terminated before its arguments were passed.
+- Secondary prevention: missing-manifest generation now uses `current_year` (falling back to `start_year` only for the first run), preventing later years from being generated under the initial year.
+- Impact: no annual publication PR, main merge, or next-year dispatch occurred.
+- Next verification: one finalize-only retry using the completed batch artifacts.
+ (codex)
+
 ## 2026-08-03 - historical backfill dashboard generation dependency failure
 
 - Run: `30788228058`.
