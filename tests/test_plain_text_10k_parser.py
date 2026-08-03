@@ -76,3 +76,20 @@ def test_plain_text_submission_passes_extraction_retry_guard():
     assert parsed is not None
     assert attempts == 1
     assert error == ""
+
+
+def test_normal_html_keeps_existing_html_parser_path():
+    paragraph = " ".join(
+        "This ordinary HTML filing paragraph contains substantive business "
+        "discussion for the annual report."
+        for _ in range(12)
+    )
+    payload = (
+        "<html><body><h1>ITEM 1. BUSINESS</h1>"
+        f"<p>{paragraph}</p>"
+        "<h1>ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS</h1>"
+        f"<p>{paragraph}</p></body></html>"
+    ).encode("utf-8")
+    parsed = parse_html(payload)
+    assert parsed["blocks"]
+    assert all(block.source_element != "plain_text" for block in parsed["blocks"])
