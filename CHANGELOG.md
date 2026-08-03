@@ -2,6 +2,10 @@
 
 ## 2026-08-03
 
+- Fixed: historical dashboard generation now installs the PyYAML dependency required by `generate_web_analysis_data.py`. (codex)
+
+## 2026-08-03
+
 - Fixed: yearly batch runner가 package import와 direct script 실행 모두에서 관련 `scripts` 모듈을 로드하도록 import fallback을 보정했다. (codex)
 
 ## 2026-08-03
