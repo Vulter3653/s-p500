@@ -1,3 +1,7 @@
+## 0.12.0
+
+- Fixed finalize-only historical recovery after skipped batch jobs by preserving downstream job evaluation with an explicit `always()` guard. (codex)
+
 # Changelog
 
 ## 2026-08-03
