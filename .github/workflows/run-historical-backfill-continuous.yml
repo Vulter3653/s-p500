@@ -320,31 +320,19 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git commit -m "Add validated $year historical panel and dashboard data"
           git push origin "$publication_branch"
-          pr_url=$(gh pr create --repo "${{ github.repository }}" --base main --head "$publication_branch" \
-            --title "Add validated $year historical panel and dashboard data" \
-            --body "Automated annual historical backfill publication for $year. Includes the validated cumulative panel, dashboard data, chain state, and annual validation summary.")
-          gh pr merge "$pr_url" --repo "${{ github.repository }}" --merge --delete-branch
-          state="automation/historical_backfill/chain-state.json"
-          next_year=$(python -c 'import json; print(json.load(open("'"$state"'"))["next_year"] or "")')
-          streak=$(python -c 'import json; print(json.load(open("'"$state"'"))["zero_streak"])')
-          if [[ -n "$next_year" && "$streak" -lt 3 ]]; then
-            gh workflow run run-historical-backfill-continuous.yml \
-              --repo "${{ github.repository }}" \
-              --ref main \
-              -f chain_id="${{ needs.prepare.outputs.chain_id }}" \
-              -f start_year="${{ inputs.start_year }}" \
-              -f current_year="$next_year" \
-              -f minimum_year="${{ inputs.minimum_year }}" \
-              -f sample_manifest="$next_year/${{ inputs.sample_namespace }}/sample/final_analysis_sample_503.csv" \
-              -f sample_namespace="${{ inputs.sample_namespace }}" \
-              -f batch_ids="1,2,3,4,5,6" \
-              -f zero_streak="$streak" \
-              -f visited_years="${{ inputs.visited_years }},$year" \
-              -f run_collection="${{ inputs.run_collection }}" \
-              -f run_extraction="${{ inputs.run_extraction }}" \
-              -f run_language="${{ inputs.run_language }}" \
-              -f execute=true \
-              -f confirmation=RUN_CONTINUOUS_HISTORICAL_BACKFILL
-          else
-            echo "historical chain stopped: streak=$streak next_year=$next_year"
-          fi
+          echo "publication_required=true" >> "$GITHUB_OUTPUT"
+          echo "publication_branch=$publication_branch" >> "$GITHUB_OUTPUT"
+          publication_head=$(git rev-parse HEAD)
+          echo "publication_head=$publication_head" >> "$GITHUB_OUTPUT"
+          compare_url="https://github.com/${{ github.repository }}/compare/main...$publication_branch"
+          {
+            echo "## Annual publication ready"
+            echo ""
+            echo "- Branch: \`$publication_branch\`"
+            echo "- Head: \`$publication_head\`"
+            echo "- Compare: $compare_url"
+            echo "- PR creation/merge is intentionally external; no \`gh pr create\` or \`gh pr merge\` is used."
+            echo "- Merge this branch into \`main\` after schema review. The main-push continuation workflow will dispatch the next year."
+          } >> "$GITHUB_STEP_SUMMARY"
+          echo "publication branch pushed: $publication_branch ($publication_head)"
+          echo "compare URL: $compare_url"
