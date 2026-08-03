@@ -9,6 +9,7 @@ import pytest
 from scripts.continuous_backfill import (
     annual_ai_keyword_count,
     append_panel,
+    canonicalize_panel,
     next_year,
     update_zero_streak,
 )
@@ -56,3 +57,36 @@ def test_atomic_panel_append_preserves_rows(tmp_path: Path):
     assert result["candidate_rows"] == 2
     result_frame = pd.read_csv(output_path)
     assert result_frame["report_year"].tolist() == [2019, 2020]
+
+
+def test_canonical_mapping_reuses_existing_measurement_columns():
+    prior = pd.DataFrame({
+        "company_id": ["A"], "report_year": [2020], "accession_number": ["a"],
+        "ai_sentence_count": [2], "ai_term_count": [4],
+        "ai_disclosure_flag": [1],
+        "whole_report_concreteness": [2.5],
+        "fog_index": [20.0],
+    })
+    current = pd.DataFrame({
+        "company_id": ["B"], "report_year": [2019], "accession_number": ["b"],
+        "ai_sentence_count": [1], "ai_term_count": [3],
+        "report_concreteness_mean": [2.4],
+        "report_fog_index": [19.0],
+    })
+    mapped = canonicalize_panel(current, prior)
+    assert mapped["ai_disclosure_flag"].tolist() == [1]
+    assert mapped["whole_report_concreteness"].tolist() == [2.4]
+    assert mapped["fog_index"].tolist() == [19.0]
+    assert list(mapped.columns) == list(prior.columns)
+
+
+def test_canonical_mapping_fails_closed_for_missing_measurement():
+    prior = pd.DataFrame({
+        "company_id": ["A"], "report_year": [2020], "accession_number": ["a"],
+        "whole_report_concreteness": [2.5],
+    })
+    current = pd.DataFrame({
+        "company_id": ["B"], "report_year": [2019], "accession_number": ["b"],
+    })
+    with pytest.raises(ValueError, match="canonical columns"):
+        canonicalize_panel(current, prior)
