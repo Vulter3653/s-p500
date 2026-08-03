@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Parse modern SEC inline-XBRL HTML into narrative, table, and section blocks."""
+"""Parse SEC 10-K HTML into narrative, table, and section blocks."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from dataclasses import dataclass
 
 from lxml import etree, html
 
-PARSER_VERSION = "1.0.3"
+PARSER_VERSION = "1.0.4"
 BLOCK_TAGS = {
     "p", "div", "li", "h1", "h2", "h3", "h4", "h5", "h6",
     "blockquote", "pre", "center", "section", "article",
@@ -21,7 +21,7 @@ REMOVE_TAGS = {
 }
 XBRL_METADATA_TAGS = {
     "header", "hidden", "resources", "references", "context", "unit",
-    "schemaref", "linkbaseref", "roleType", "arcroleType",
+    "schemaref", "linkbaseref", "roletype", "arcroletype",
 }
 ZERO_WIDTH = re.compile("[\u200b\u200c\u200d\u2060\ufeff]")
 SPACE = re.compile(r"[ \t\f\v]+")
@@ -29,6 +29,10 @@ PAGE_NUMBER = re.compile(r"^(?:page\s+)?\d{1,4}$", re.I)
 ITEM_PATTERN = re.compile(
     r"^\s*(?:part\s+[ivx]+\s*[-—:]\s*)?item\s+"
     r"(1a|1b|1c|1|2|3|5|7a|7|8)(?=$|\s|[.:\-—])\s*[.:\-—]?\s*(.*)$",
+    re.I,
+)
+LAYOUT_ITEM_PATTERN = re.compile(
+    r"\bitem\s+(?:1a|1b|1c|1|2|3|5|7a|7|8)(?=$|\s|[.:\-—])",
     re.I,
 )
 
@@ -44,7 +48,9 @@ SECTIONS = [
     ("item_7a", "Market Risk", "item_7a_market_risk.txt"),
     ("item_8", "Financial Statements and Supplementary Data", "item_8_financial_statements.txt"),
 ]
-SECTION_BY_TOKEN = {code.removeprefix("item_"): (code, name) for code, name, _ in SECTIONS}
+SECTION_BY_TOKEN = {
+    code.removeprefix("item_"): (code, name) for code, name, _ in SECTIONS
+}
 
 
 @dataclass
@@ -107,6 +113,31 @@ def should_remove(element) -> bool:
     return False
 
 
+def is_layout_table(table) -> bool:
+    """Return True for legacy layout tables that contain filing narrative.
+
+    Older SEC filings frequently wrap most or all narrative content in a table.
+    Dropping those tables as if they were financial data tables removes the
+    complete document body. Preserve a table as layout when it contains a
+    substantial amount of text and either multiple block descendants or
+    several Form 10-K item headings.
+    """
+    text = visible_text(table)
+    word_count = len(text.split())
+    if word_count < 500:
+        return False
+    block_descendants = table.xpath(
+        ".//*[local-name()='p' or local-name()='div' or "
+        "local-name()='h1' or local-name()='h2' or local-name()='h3' or "
+        "local-name()='h4' or local-name()='h5' or local-name()='h6' or "
+        "local-name()='li' or local-name()='blockquote' or "
+        "local-name()='pre' or local-name()='center' or "
+        "local-name()='section' or local-name()='article']"
+    )
+    item_heading_count = len(LAYOUT_ITEM_PATTERN.findall(text))
+    return len(block_descendants) >= 5 or item_heading_count >= 3
+
+
 def clean_tree(root) -> tuple[object, list[str]]:
     table_texts: list[str] = []
     for comment in root.xpath("//comment()"):
@@ -119,6 +150,11 @@ def clean_tree(root) -> tuple[object, list[str]]:
         if should_remove(element):
             element.drop_tree()
     for table in list(root.xpath("//*[local-name()='table']")):
+        if table.getparent() is None:
+            continue
+        if is_layout_table(table):
+            table.drop_tag()
+            continue
         text = visible_text(table)
         if text:
             table_texts.append(text)
@@ -220,15 +256,22 @@ def detect_sections(blocks: list[TextBlock]) -> dict[str, dict]:
         ]
         if not viable:
             detected[code] = {
-                "code": code, "name": name, "filename": filename,
-                "status": "not_present", "heading_index": None, "heading_text": "",
+                "code": code,
+                "name": name,
+                "filename": filename,
+                "status": "not_present",
+                "heading_index": None,
+                "heading_text": "",
                 "warning": "",
             }
             continue
         index, score = max(viable, key=lambda item: (item[1], item[0]))
         detected[code] = {
-            "code": code, "name": name, "filename": filename,
-            "status": "detected", "heading_index": index,
+            "code": code,
+            "name": name,
+            "filename": filename,
+            "status": "detected",
+            "heading_index": index,
             "heading_text": blocks[index].text,
             "warning": "low_heading_score" if score < 3 else "",
         }
@@ -245,10 +288,13 @@ def detect_sections(blocks: list[TextBlock]) -> dict[str, dict]:
         entry["start"] = start
         entry["end"] = end
         narrative_words = sum(
-            len(block.text.split()) for block in blocks[start:end] if not block.is_table
+            len(block.text.split()) for block in blocks[start:end]
+            if not block.is_table
         )
         if narrative_words < 50:
-            entry["warning"] = ";".join(filter(None, [entry["warning"], "section_too_short"]))
+            entry["warning"] = ";".join(
+                filter(None, [entry["warning"], "section_too_short"])
+            )
         for block in blocks[start:end]:
             block.section_code = code
             block.section_name = entry["name"]
@@ -262,9 +308,17 @@ def sentence_split(text: str) -> list[str]:
         text,
     )
     replacements = {
-        "U.S.": "U§S§", "U.K.": "U§K§", "Inc.": "Inc§", "Corp.": "Corp§",
-        "Co.": "Co§", "Ltd.": "Ltd§", "No.": "No§", "Fig.": "Fig§",
-        "Mr.": "Mr§", "Ms.": "Ms§", "Dr.": "Dr§",
+        "U.S.": "U§S§",
+        "U.K.": "U§K§",
+        "Inc.": "Inc§",
+        "Corp.": "Corp§",
+        "Co.": "Co§",
+        "Ltd.": "Ltd§",
+        "No.": "No§",
+        "Fig.": "Fig§",
+        "Mr.": "Mr§",
+        "Ms.": "Ms§",
+        "Dr.": "Dr§",
     }
     for original, replacement in replacements.items():
         protected = protected.replace(original, replacement)
