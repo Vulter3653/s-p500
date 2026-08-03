@@ -1,5 +1,12 @@
 # Debug Log
 
+## 2026-08-03 - completed batch artifact reuse for publication recovery
+
+- The prior failure occurred after all batch jobs completed, so repeating collection would waste SEC/R2/language resources.
+- Added workflow input `reuse_run_id` and a finalize condition that downloads batch artifacts from that prior run while skipping the matrix batch jobs.
+- Recovery target: `30788897235`; no new external collection request is needed for the retry.
+ (codex)
+
 ## 2026-08-03 - historical publication shell continuation failure
 
 - Run: `30788897235`.
