@@ -10,6 +10,11 @@ on:
       - "scripts/run_language_full_sample.py"
       - "scripts/merge_yearly_10k_batches.py"
       - "tests/test_yearly_batch_generalization.py"
+      - "tests/test_continuous_backfill.py"
+      - "scripts/continuous_backfill.py"
+      - "scripts/measure_extended_language_features.py"
+      - ".github/workflows/run-historical-backfill-continuous.yml"
+      - ".github/workflows/continue-historical-backfill-after-main.yml"
   workflow_dispatch:
 
 permissions:
@@ -46,10 +51,12 @@ jobs:
             scripts/run_yearly_10k_batch.py \
             scripts/extract_10k_analysis_text.py \
             scripts/run_language_full_sample.py \
-            scripts/merge_yearly_10k_batches.py
+            scripts/merge_yearly_10k_batches.py \
+            scripts/continuous_backfill.py \
+            scripts/measure_extended_language_features.py
 
       - name: Run generalization tests
-        run: pytest -q tests/test_yearly_batch_generalization.py
+        run: pytest -q tests/test_yearly_batch_generalization.py tests/test_continuous_backfill.py
 
       - name: Upload test evidence
         if: always()
