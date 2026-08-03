@@ -2,6 +2,10 @@
 
 ## 2026-08-03
 
+- Added: continuous backfill accepts `reuse_run_id` to recover finalization from completed batch artifacts without repeating collection or language measurement. (codex)
+
+## 2026-08-03
+
 - Fixed: continuous historical publication now passes multiline shell arguments correctly and resolves missing manifests from the current processing year. (codex)
 
 ## 2026-08-03
