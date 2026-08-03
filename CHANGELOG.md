@@ -1,5 +1,9 @@
 ## 0.12.0
 
+- Added finalize-only recovery support that restores the completed collection manifest artifact instead of regenerating it through SEC metadata requests. (codex)
+
+## 0.12.0
+
 - Fixed finalize-only historical recovery after skipped batch jobs by preserving downstream job evaluation with an explicit `always()` guard. (codex)
 
 # Changelog
