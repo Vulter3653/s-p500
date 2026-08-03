@@ -1,3 +1,11 @@
+## 2026-08-03 — Historical schema/publication fix (codex)
+
+- Rebased implementation work on `origin/main` in `codex/fix-historical-reuse-and-publication`.
+- Historical rows now map through the established panel aliases and fail closed when a measured canonical column is absent.
+- Annual workflow pushes a publication branch and reports the compare URL; it no longer calls `gh pr create` or `gh pr merge`.
+- Added a main-push continuation workflow to dispatch only the next descending year after a reviewed annual merge.
+- Existing 2019 collection, extraction, language results, and R2 objects remain reusable; no historical network run was started.
+
 ## 2026-08-03 (codex)
 
 - Recovery workflow now restores `historical-<start-year>-collection-manifest` from the source run when `reuse_run_id` is provided, avoiding duplicate manifest generation.
