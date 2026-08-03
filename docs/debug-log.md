@@ -1,3 +1,7 @@
+## 2026-08-03 (codex)
+
+- Root cause of the skipped recovery: a job that `needs` a skipped matrix job is skipped by GitHub Actions unless its job-level condition includes `always()`. Added that guard to the finalize job.
+
 # Debug Log
 
 ## 2026-08-03 - completed batch artifact reuse for publication recovery
