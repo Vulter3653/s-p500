@@ -104,13 +104,16 @@ jobs:
               output.write('sec_metadata_path=data/processed/sec_ticker_metadata.json\n')
           PY
       - name: Generate collection-ready historical manifest when absent
-        if: inputs.sample_manifest == ''
         env:
           REPORT_YEAR: ${{ inputs.start_year }}
           SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
         run: |
           manifest="${SAMPLE_MANIFEST:-${REPORT_YEAR}/sample_503/sample/final_analysis_sample_503.csv}"
-          python scripts/build_historical_sample_manifest.py --root . --report-year "$REPORT_YEAR" --output "$manifest"
+          if [[ ! -f "$manifest" ]]; then
+            python scripts/build_historical_sample_manifest.py --root . --report-year "$REPORT_YEAR" --output "$manifest"
+          else
+            echo "reusing existing collection-ready manifest: $manifest"
+          fi
       - id: plan
         env:
           START_YEAR: ${{ inputs.start_year }}

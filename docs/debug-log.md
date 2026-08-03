@@ -6,6 +6,11 @@
 - 조치: 기존 SEC filing 선택 함수와 cache-aware `SecClient`를 호출하는 최소 adapter를 추가하고, workflow prepare에서만 manifest를 생성해 artifact로 process matrix에 전달하도록 했다. SEC ticker cache는 별도 재요청하지 않는다. (codex)
 - 상태: 코드 경로와 YAML은 정적 검증 완료. manifest 생성은 Actions의 `SEC_USER_AGENT` 환경에서 수행해야 하며, 그 전에는 workflow를 실행하지 않았다. (codex)
 
+## 2026-08-03 - workflow dispatch 필수 입력 보정
+
+- 관찰: GitHub dispatch API가 required `sample_manifest`의 빈 값을 거부해 workflow run을 만들지 않았다(HTTP 422, run ID 없음). (codex)
+- 조치: dispatch에는 목표 경로를 명시하고 prepare 단계가 해당 경로의 파일이 없을 때만 adapter를 실행하도록 변경했다. (codex)
+
 ## 2026-08-03 - workflow 실행 보류: 2019 input manifest 부재
 
 - 확인: cache-first constituent reconstruction과 관련 테스트는 통과했고 작업 branch commit `8ff545f`는 원격 historical branch에 push됐다. (codex)
