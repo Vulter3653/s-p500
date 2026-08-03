@@ -1,5 +1,13 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - historical publication shell continuation fix
+
+- Run `30788897235`: all five valid batches, merge, and annual validation succeeded; final publication failed because generated workflow lines used doubled shell continuations, so `continuous_backfill.py` received no required arguments.
+- Fixed on `main`: normalized shell continuations to one backslash and changed missing-manifest generation to use the resolved `current_year`.
+- No annual panel/dashboard PR or next-year dispatch was created by the failed run.
+- Next: rerun the existing 2019 artifacts through the corrected finalization path once; do not recollect completed batches.
+ (codex)
+
 ## 2026-08-03 - historical backfill dashboard dependency fix
 
 - Run `30788228058`: prepare, all five valid batches, merge, and annual AI keyword validation succeeded; dashboard generation failed because `yaml` was unavailable.
