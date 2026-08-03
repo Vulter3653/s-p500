@@ -80,6 +80,7 @@ jobs:
       expected_batches: ${{ steps.plan.outputs.expected_batches }}
       minimum_year: ${{ steps.plan.outputs.minimum_year }}
       manifest: ${{ steps.plan.outputs.manifest }}
+      manifest_dir: ${{ steps.plan.outputs.manifest_dir }}
       sec_metadata_path: ${{ steps.sec-cache.outputs.sec_metadata_path }}
     steps:
       - uses: actions/checkout@v4
@@ -102,6 +103,14 @@ jobs:
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
               output.write('sec_metadata_path=data/processed/sec_ticker_metadata.json\n')
           PY
+      - name: Generate collection-ready historical manifest when absent
+        if: inputs.sample_manifest == ''
+        env:
+          REPORT_YEAR: ${{ inputs.start_year }}
+          SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
+        run: |
+          manifest="${SAMPLE_MANIFEST:-${REPORT_YEAR}/sample_503/sample/final_analysis_sample_503.csv}"
+          python scripts/build_historical_sample_manifest.py --root . --report-year "$REPORT_YEAR" --output "$manifest"
       - id: plan
         env:
           START_YEAR: ${{ inputs.start_year }}
@@ -130,10 +139,17 @@ jobs:
           chain_id = os.environ["CHAIN_ID"] or f"historical-{os.environ['START_YEAR']}"
           minimum = int(os.environ["MINIMUM_YEAR"]) or 1900
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as target:
-              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\nmanifest={manifest}\n")
+              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\nmanifest={manifest}\nmanifest_dir={Path(manifest).parent}\n")
               target.write(f"expected_batches={','.join(map(str, range(1, count + 1)))}\nminimum_year={minimum}\n")
           print(json.dumps({"year": year, "rows": len(rows), "batch_count": count, "dry_run": os.environ["EXECUTE"].lower() != "true"}))
           PY
+      - name: Preserve collection manifest for batch jobs
+        uses: actions/upload-artifact@v4
+        with:
+          name: historical-${{ inputs.start_year }}-collection-manifest
+          path: ${{ steps.plan.outputs.manifest }}
+          if-no-files-found: error
+          retention-days: 30
 
   process-batches:
     needs: prepare
@@ -158,6 +174,10 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: python -m pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: historical-${{ inputs.start_year }}-collection-manifest
+          path: ${{ needs.prepare.outputs.manifest_dir }}
       - name: Process valid batch
         if: matrix.batch_id <= fromJSON(needs.prepare.outputs.batch_count)
         run: |

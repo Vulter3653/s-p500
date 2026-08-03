@@ -1,5 +1,11 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - 2019 collection-ready manifest 생성 경로 연결
+
+- 확인: tracked branch와 관련 history에 `2019/sample_503/sample/final_analysis_sample_503.csv` 및 2019 filing manifest는 없었고, 기존 2019 constituent CSV만 존재했다. (codex)
+- 변경: 기존 2020 filing selector와 `SecClient`를 재사용하는 `scripts/build_historical_sample_manifest.py`를 추가했다. workflow prepare 단계가 2019 manifest를 생성하고 artifact로 batch jobs에 전달한다. (codex)
+- 검증: 새 adapter Python compile, workflow YAML parse, `git diff --check` 통과. 아직 Actions 실행·SEC filing 요청·R2 write는 수행하지 않았다. (codex)
+
 ## 2026-08-03 - historical branch push 및 workflow 입력 blocker
 
 - 배포: `8ff545f35d5bbd7c9b0a802333fafde43f76715c`를 `origin/codex/historical-backfill-continuous`에 push했다. main에는 push·merge하지 않았다. (codex)
