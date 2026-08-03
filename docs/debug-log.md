@@ -1,5 +1,12 @@
 # Debug Log
 
+## 2026-08-03 - workflow 실행 보류: 2019 input manifest 부재
+
+- 확인: cache-first constituent reconstruction과 관련 테스트는 통과했고 작업 branch commit `8ff545f`는 원격 historical branch에 push됐다. (codex)
+- 관찰: workflow 기본 입력인 `2019/sample_503/sample/final_analysis_sample_503.csv`가 현재 branch에 존재하지 않는다. (codex)
+- 판단: manifest가 없거나 연도·batch input이 불명확한 상태에서 Actions를 실행하면 partial 처리·중복 SEC/R2 작업 위험이 있으므로 실행하지 않았다. R2·Google Drive write는 0이다. (codex)
+- 후속: 기존 artifact/manifest를 복구한 후에만 workflow를 1회 실행한다. (codex)
+
 ## 2026-08-03 - historical constituent 단계의 SEC 403 재요청 방지
 
 - 재현: historical reconstruction이 `data/raw/sec_company_tickers_*.json`을 찾지 못하면 `https://www.sec.gov/files/company_tickers.json`을 새로 요청했고, Actions run `30742995468`에서 `HTTP 403 Forbidden`으로 중단됐다. (codex)

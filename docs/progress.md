@@ -1,5 +1,11 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - historical branch push 및 workflow 입력 blocker
+
+- 배포: `8ff545f35d5bbd7c9b0a802333fafde43f76715c`를 `origin/codex/historical-backfill-continuous`에 push했다. main에는 push·merge하지 않았다. (codex)
+- 보류: continuous workflow는 실행하지 않았다. 현재 저장소에 필요한 `2019/sample_503/sample/final_analysis_sample_503.csv`가 없어 workflow input manifest가 불명확하며, partial 입력으로 실행하지 않았다. (codex)
+- 다음 정확한 작업: 기존 artifact 또는 constituent manifest에서 2019 collection-ready sample manifest를 복구한 뒤, cache preflight가 동일 SEC source를 재사용하는 것을 확인하고 workflow를 1회 실행한다. (codex)
+
 ## 2026-08-03 - SEC metadata cache-first 복구 및 2019 constituent 검증
 
 - 상태: 작업 시작 HEAD는 `296bea6`; 원격 runner HEAD는 `38a3f1086ac1cbb3dea8cc83244b360db24522dc`, 원격 historical branch HEAD는 `0b997b601e48234b565452c2951cb21512fdbb95`, 원격 main HEAD는 `cc162b21719fb1bf12c0dfaeab1818ad1d2c1d41`이다. `git fetch --all --prune`은 Codespaces의 `.git/FETCH_HEAD` 읽기 전용 제약으로 실행되지 않았다. 종료 당시 미커밋 4개 파일은 모두 복구되었고, 원격 historical branch 구현과 비교해 끝 개행 외 차이가 없었다. (codex)
