@@ -291,6 +291,7 @@ jobs:
             --output-parquet panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
             --chain-state automation/historical_backfill/chain-state.json \
             --chain-id "${{ needs.prepare.outputs.chain_id }}" \
+            --sample-namespace "${{ inputs.sample_namespace }}" \
             --start-year "${{ inputs.start_year }}" \
             --current-year "$year" \
             --minimum-year "${{ needs.prepare.outputs.minimum_year }}" \
