@@ -22,6 +22,65 @@ import pandas as pd
 AI_KEYWORD_COLUMN = "ai_term_count"
 REQUIRED_KEYS = ("company_id", "report_year", "accession_number")
 
+# These aliases are the canonical names emitted by the existing extended-panel
+# builder. Historical rows must be converted to this schema before append.
+CANONICAL_ALIASES = {
+    "ai_disclosure": "ai_disclosure_flag",
+    "whole_report_concreteness": "report_concreteness_mean",
+    "ai_concreteness": "ai_concreteness_mean",
+    "fog_index": "report_fog_index",
+    "lm_positive_share": "report_positive_ratio",
+    "lm_negative_share": "report_negative_ratio",
+    "lm_uncertainty_share": "report_uncertainty_ratio",
+    "lm_litigious_share": "report_litigious_ratio",
+    "lm_strong_modal_share": "report_strong_modal_ratio",
+    "lm_weak_modal_share": "report_weak_modal_ratio",
+    "lm_constraining_share": "report_constraining_ratio",
+    "ai_lm_positive_share": "ai_positive_ratio",
+    "ai_lm_negative_share": "ai_negative_ratio",
+    "ai_lm_uncertainty_share": "ai_uncertainty_ratio",
+    "ai_lm_litigious_share": "ai_litigious_ratio",
+    "ai_lm_strong_modal_share": "ai_strong_modal_ratio",
+    "ai_lm_weak_modal_share": "ai_weak_modal_ratio",
+    "ai_lm_constraining_share": "ai_constraining_ratio",
+    "numeric_token_share": "report_numeric_token_ratio",
+}
+
+
+def canonicalize_panel(current: pd.DataFrame, prior: pd.DataFrame) -> pd.DataFrame:
+    """Apply the existing extended-panel aliases before a cumulative append.
+
+    The prior verified panel is the schema contract. Missing measured columns are
+    a hard failure; silently filling them with NA was the cause of the 2019
+    publication error.
+    """
+    frame = current.copy()
+    if "ai_disclosure_flag" not in frame.columns:
+        if "ai_sentence_count" in frame.columns:
+            frame["ai_disclosure_flag"] = (
+                pd.to_numeric(frame["ai_sentence_count"], errors="coerce") >= 1
+            ).astype("Int64")
+        elif "ai_disclosure_binary" in frame.columns:
+            frame["ai_disclosure_flag"] = pd.to_numeric(
+                frame["ai_disclosure_binary"], errors="coerce"
+            ).astype("Int64")
+    if "log1p_ai_sentence_count" in prior.columns and "log1p_ai_sentence_count" not in frame.columns:
+        counts = pd.to_numeric(frame.get("ai_sentence_count"), errors="coerce")
+        if counts is not None:
+            frame["log1p_ai_sentence_count"] = (counts.clip(lower=0) + 1).map(__import__("math").log)
+    for alias, source in CANONICAL_ALIASES.items():
+        if alias not in frame.columns and source in frame.columns:
+            frame[alias] = frame[source]
+    missing = [column for column in prior.columns if column not in frame.columns]
+    if missing:
+        raise ValueError(
+            "historical schema incompatible; missing canonical columns: "
+            + ", ".join(missing)
+        )
+    # The established panel controls column order. Extra experimental columns
+    # are not allowed to change the production schema.
+    return frame.loc[:, list(prior.columns)].copy()
+
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).isoformat()
@@ -102,16 +161,7 @@ def append_panel(
     if prior_path and prior_path.exists():
         prior = pd.read_parquet(prior_path) if prior_path.suffix == ".parquet" else pd.read_csv(prior_path)
         _validate_keys(prior, "prior panel")
-        # Historical language output can contain a subset of the established
-        # panel. Preserve the prior column order and append genuinely new
-        # measured columns; absent values remain structural missingness.
-        new_columns = [column for column in current.columns if column not in prior.columns]
-        for column in new_columns:
-            prior[column] = pd.NA
-        for column in prior.columns:
-            if column not in current.columns:
-                current[column] = pd.NA
-        current = current[list(prior.columns) + new_columns]
+        current = canonicalize_panel(current, prior)
     combined = pd.concat([prior, current], ignore_index=True) if prior is not None else current
     _validate_keys(combined, "combined panel")
     if protected_path and protected_path.exists():
