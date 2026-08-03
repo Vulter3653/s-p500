@@ -69,7 +69,6 @@ on:
 permissions:
   contents: write
   actions: write
-  pull-requests: write
 
 concurrency:
   group: historical-chain-${{ inputs.chain_id || format('historical-{0}', inputs.start_year) }}
@@ -219,7 +218,7 @@ jobs:
           if-no-files-found: ignore
           retention-days: 14
 
-  finalize-and-dispatch:
+  finalize-and-publish:
     needs: [prepare, process-batches]
     if: always() && needs.prepare.result == 'success' && (needs.process-batches.result == 'success' || (needs.process-batches.result == 'skipped' && inputs.reuse_run_id != ''))
     runs-on: ubuntu-latest
@@ -331,7 +330,7 @@ jobs:
             echo "- Branch: \`$publication_branch\`"
             echo "- Head: \`$publication_head\`"
             echo "- Compare: $compare_url"
-            echo "- PR creation/merge is intentionally external; no \`gh pr create\` or \`gh pr merge\` is used."
+            echo "- PR creation and merge are intentionally external to this workflow."
             echo "- Merge this branch into \`main\` after schema review. The main-push continuation workflow will dispatch the next year."
           } >> "$GITHUB_STEP_SUMMARY"
           echo "publication branch pushed: $publication_branch ($publication_head)"
