@@ -23,7 +23,7 @@ def preserve_extraction_diagnostics(
     """Copy extraction evidence before TemporaryDirectory removes it."""
     diagnostics_root = output_root / "extraction_diagnostics"
     diagnostics_root.mkdir(parents=True, exist_ok=True)
-    sample_root = stage_root(
+    sample_root = core.stage_root(
         work_root, arguments.report_year, arguments.sample_namespace
     )
     sources = {
@@ -50,7 +50,7 @@ def preserve_extraction_diagnostics(
             core.shutil.copy2(source, destination)
 
     metadata = {
-        "preserved_at": utc_now(),
+        "preserved_at": core.utc_now(),
         "report_year": arguments.report_year,
         "sample_namespace": arguments.sample_namespace,
         "batch_id": arguments.batch_id,
@@ -108,13 +108,15 @@ def run_batch(arguments) -> dict:
     manifest_path = arguments.manifest.resolve()
     output_root = arguments.output_dir.resolve()
     output_root.mkdir(parents=True, exist_ok=True)
-    fields, source_rows = read_manifest(manifest_path)
-    source_rows = validate_source_manifest(source_rows, arguments.report_year)
-    rows = split_batch(source_rows, arguments.batch_id)
-    validate_batch(rows)
+    fields, source_rows = core.read_manifest(manifest_path)
+    source_rows = core.validate_source_manifest(
+        source_rows, arguments.report_year
+    )
+    rows = core.split_batch(source_rows, arguments.batch_id)
+    core.validate_batch(rows)
     batch_manifest = output_root / "batch_manifest.csv"
-    write_batch_manifest(batch_manifest, fields, rows)
-    write_empty_support_files(output_root)
+    core.write_batch_manifest(batch_manifest, fields, rows)
+    core.write_empty_support_files(output_root)
     summary = {
         "report_year": arguments.report_year,
         "sample_namespace": arguments.sample_namespace,
@@ -122,19 +124,21 @@ def run_batch(arguments) -> dict:
         "source_manifest": manifest_path.name,
         "source_rows": len(source_rows),
         "manifest_row_count": len(source_rows),
-        "batch_size_limit": BATCH_SIZE,
-        "batch_count": batch_count(len(source_rows)),
-        "batch_start_index": (arguments.batch_id - 1) * BATCH_SIZE,
+        "batch_size_limit": core.BATCH_SIZE,
+        "batch_count": core.batch_count(len(source_rows)),
+        "batch_start_index": (arguments.batch_id - 1) * core.BATCH_SIZE,
         "batch_end_index_exclusive": (
-            (arguments.batch_id - 1) * BATCH_SIZE + len(rows)
+            (arguments.batch_id - 1) * core.BATCH_SIZE + len(rows)
         ),
         "batch_row_count": len(rows),
-        "maximum_sample_size": MAX_SAMPLE_SIZE,
+        "maximum_sample_size": core.MAX_SAMPLE_SIZE,
         "duplicate_count": 0,
         "missing_count": 0,
         "batch_rows": len(rows),
-        "row_start": (arguments.batch_id - 1) * BATCH_SIZE + 1,
-        "row_end": (arguments.batch_id - 1) * BATCH_SIZE + len(rows),
+        "row_start": (arguments.batch_id - 1) * core.BATCH_SIZE + 1,
+        "row_end": (
+            (arguments.batch_id - 1) * core.BATCH_SIZE + len(rows)
+        ),
         "run_collection": arguments.run_collection,
         "run_extraction": arguments.run_extraction,
         "run_language": arguments.run_language,
@@ -146,8 +150,10 @@ def run_batch(arguments) -> dict:
         "completed_at": "",
     }
     if not rows:
-        summary["elapsed_seconds"] = round(core.time.monotonic() - started, 3)
-        summary["completed_at"] = utc_now()
+        summary["elapsed_seconds"] = round(
+            core.time.monotonic() - started, 3
+        )
+        summary["completed_at"] = core.utc_now()
         (output_root / "batch_summary.json").write_text(
             core.json.dumps(summary, indent=2, sort_keys=True) + "\n",
             encoding="utf-8",
@@ -158,20 +164,23 @@ def run_batch(arguments) -> dict:
     failed_stage = "preparation"
     try:
         with core.tempfile.TemporaryDirectory(
-            prefix=f"s-p500-{arguments.report_year}-batch-{arguments.batch_id}-"
+            prefix=(
+                f"s-p500-{arguments.report_year}-batch-"
+                f"{arguments.batch_id}-"
+            )
         ) as temporary:
             work_root = core.Path(temporary)
             try:
-                sample_root = stage_root(
+                sample_root = core.stage_root(
                     work_root,
                     arguments.report_year,
                     arguments.sample_namespace,
                 )
                 fixed_sample = sample_root / "sample/batch_manifest.csv"
-                write_batch_manifest(fixed_sample, fields, rows)
+                core.write_batch_manifest(fixed_sample, fields, rows)
                 if arguments.run_collection:
                     failed_stage = "collection"
-                    collect_and_upload(
+                    core.collect_and_upload(
                         work_root,
                         output_root,
                         rows,
@@ -181,7 +190,7 @@ def run_batch(arguments) -> dict:
                 if arguments.run_extraction:
                     failed_stage = "extraction_input"
                     if not arguments.run_collection:
-                        download_html_from_r2(
+                        core.download_html_from_r2(
                             work_root,
                             output_root,
                             rows,
@@ -189,7 +198,7 @@ def run_batch(arguments) -> dict:
                             arguments.sample_namespace,
                         )
                     failed_stage = "extraction"
-                    extraction_summary = extract(
+                    extraction_summary = core.extract(
                         work_root,
                         input_relative=sample_root.relative_to(work_root)
                         / "html/manifest/html_manifest.csv",
@@ -202,7 +211,7 @@ def run_batch(arguments) -> dict:
                         raise RuntimeError(
                             "one or more extraction records failed"
                         )
-                    copy_extraction_artifacts(
+                    core.copy_extraction_artifacts(
                         work_root,
                         output_root,
                         arguments.report_year,
@@ -211,7 +220,7 @@ def run_batch(arguments) -> dict:
                 if arguments.run_language:
                     failed_stage = "language_input"
                     if not arguments.run_extraction:
-                        stage_existing_text(
+                        core.stage_existing_text(
                             work_root,
                             manifest_path,
                             rows,
@@ -219,7 +228,7 @@ def run_batch(arguments) -> dict:
                             arguments.sample_namespace,
                         )
                     failed_stage = "language"
-                    run_language(
+                    core.run_language(
                         work_root,
                         output_root,
                         arguments.report_year,
@@ -245,7 +254,7 @@ def run_batch(arguments) -> dict:
         summary["status"] = "failed"
         summary["failed_stage"] = failed_stage
         summary["error_type"] = type(error).__name__
-        write_csv(
+        core.write_csv(
             output_root / "quality_check/failed_companies.csv",
             [
                 {
@@ -268,7 +277,7 @@ def run_batch(arguments) -> dict:
         summary["elapsed_seconds"] = round(
             core.time.monotonic() - started, 3
         )
-        summary["completed_at"] = utc_now()
+        summary["completed_at"] = core.utc_now()
         (output_root / "batch_summary.json").write_text(
             core.json.dumps(summary, indent=2, sort_keys=True) + "\n",
             encoding="utf-8",
@@ -277,7 +286,7 @@ def run_batch(arguments) -> dict:
         raise
 
     summary["elapsed_seconds"] = round(core.time.monotonic() - started, 3)
-    summary["completed_at"] = utc_now()
+    summary["completed_at"] = core.utc_now()
     (output_root / "batch_summary.json").write_text(
         core.json.dumps(summary, indent=2, sort_keys=True) + "\n",
         encoding="utf-8",
@@ -314,3 +323,9 @@ if __name__ == "__main__":
             file=core.sys.stderr,
         )
         raise SystemExit(1)
+else:
+    core.preserve_extraction_diagnostics = preserve_extraction_diagnostics
+    core.write_diagnostic_hook_failure = write_diagnostic_hook_failure
+    core.run_batch = run_batch
+    core.parse_arguments = parse_arguments
+    core.sys.modules[__name__] = core
