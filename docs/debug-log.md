@@ -1,5 +1,9 @@
 ## 2026-08-03 (codex)
 
+- The second recovery attempt was stopped after waiting in manifest generation. The workflow was updated to download and restore the existing collection-manifest artifact before planning.
+
+## 2026-08-03 (codex)
+
 - Root cause of the skipped recovery: a job that `needs` a skipped matrix job is skipped by GitHub Actions unless its job-level condition includes `always()`. Added that guard to the finalize job.
 
 # Debug Log
