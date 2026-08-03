@@ -1,3 +1,10 @@
+## 2026-08-03 — 2019 publication schema and PR-permission failure (codex)
+
+- Run `30790873561` completed collection, extraction, language measurement, merge, and annual validation (`ai_term_count` sum 571) but failed only when the workflow attempted `gh pr create` with the Actions token.
+- PR #7 showed 441 new rows but canonical extended variables were missing for 2019 because the append helper filled absent canonical columns with `NA` instead of applying the existing alias/derivation rules.
+- The fix makes the prior verified panel the schema contract, derives `ai_disclosure_flag` from the existing sentence/binary fields, applies canonical aliases, and raises a schema incompatibility error instead of publishing fabricated missingness.
+- The annual workflow now stops after pushing the publication branch. A separate main-push continuation workflow handles next-year dispatch after merge.
+
 ## 2026-08-03 (codex)
 
 - The second recovery attempt was stopped after waiting in manifest generation. The workflow was updated to download and restore the existing collection-manifest artifact before planning.
