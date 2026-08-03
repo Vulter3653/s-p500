@@ -10,7 +10,7 @@ from dataclasses import dataclass
 
 from lxml import etree, html
 
-PARSER_VERSION = "1.0.4"
+PARSER_VERSION = "1.0.5"
 BLOCK_TAGS = {
     "p", "div", "li", "h1", "h2", "h3", "h4", "h5", "h6",
     "blockquote", "pre", "center", "section", "article",
@@ -333,7 +333,201 @@ def sentence_split(text: str) -> list[str]:
     return sentences
 
 
+PLAIN_TEXT_HTML_BLOCK = re.compile(
+    r"<\s*(?:html|body|p|div|tr|td|th|h[1-6]|ul|ol|li)\b",
+    re.I,
+)
+PLAIN_TEXT_METADATA_LINE = re.compile(
+    r"^\s*<(?:TYPE|SEQUENCE|FILENAME|DESCRIPTION)>.*$",
+    re.I,
+)
+PLAIN_TEXT_CONTROL_LINE = re.compile(
+    r"^\s*</?(?:DOCUMENT|TEXT|PAGE)>\s*$",
+    re.I,
+)
+PLAIN_TEXT_TABLE_START = "__SEC_TABLE_START__"
+PLAIN_TEXT_TABLE_END = "__SEC_TABLE_END__"
+
+
+def decode_filing_payload(payload: bytes) -> str:
+    for encoding in ("utf-8", "cp1252", "latin-1"):
+        try:
+            return payload.decode(encoding)
+        except UnicodeDecodeError:
+            continue
+    return payload.decode("utf-8", errors="replace")
+
+
+def is_probably_plain_text_filing(payload: bytes) -> bool:
+    decoded = decode_filing_payload(payload).replace("\x00", "")
+    words = re.findall(r"[A-Za-z][A-Za-z0-9'’-]*", decoded)
+    if len(words) < 100:
+        return False
+    html_block_count = len(PLAIN_TEXT_HTML_BLOCK.findall(decoded))
+    has_sec_sgml = bool(
+        re.search(
+            r"(?im)^\s*<(?:DOCUMENT|TYPE|SEQUENCE|FILENAME|DESCRIPTION|TEXT)>",
+            decoded,
+        )
+    )
+    return html_block_count < 8 and (has_sec_sgml or decoded.count("\n") >= 10)
+
+
+def plain_text_table_like(lines: list[str]) -> bool:
+    if len(lines) < 2:
+        return False
+    text = "\n".join(lines)
+    tokens = re.findall(r"\S+", text)
+    if not tokens:
+        return False
+    numeric_tokens = sum(
+        bool(re.fullmatch(r"[$(]?[-+]?\d[\d,]*(?:\.\d+)?%?[)]?", token))
+        for token in tokens
+    )
+    numeric_ratio = numeric_tokens / len(tokens)
+    column_lines = sum(
+        bool(re.search(r"\S(?:\s{2,}|\t+)\S", line)) for line in lines
+    )
+    return (
+        column_lines >= max(2, len(lines) // 2) and numeric_ratio >= 0.15
+    ) or numeric_ratio >= 0.50
+
+
+def extract_plain_text_blocks(
+    payload: bytes,
+) -> tuple[list[TextBlock], list[str], int]:
+    body = decode_filing_payload(payload).replace("\x00", "")
+    text_match = re.search(r"(?is)<TEXT[^>]*>(.*?)</TEXT>", body)
+    if text_match:
+        body = text_match.group(1)
+    body = re.sub(
+        r"(?i)<TABLE(?:\s[^>]*)?>",
+        f"\n{PLAIN_TEXT_TABLE_START}\n",
+        body,
+    )
+    body = re.sub(
+        r"(?i)</TABLE>",
+        f"\n{PLAIN_TEXT_TABLE_END}\n",
+        body,
+    )
+    body = re.sub(r"(?i)</?PAGE[^>]*>", "\n\n", body)
+    retained_lines = []
+    for line in body.replace("\r\n", "\n").replace("\r", "\n").split("\n"):
+        if PLAIN_TEXT_METADATA_LINE.match(line) or PLAIN_TEXT_CONTROL_LINE.match(line):
+            continue
+        retained_lines.append(line)
+    body = "\n".join(retained_lines)
+    body = re.sub(r"<[^>\r\n]+>", " ", body)
+    body = html_module.unescape(body)
+    body = unicodedata.normalize("NFKC", body)
+    body = body.replace("\xa0", " ").replace("\u00ad", "")
+    body = ZERO_WIDTH.sub("", body)
+
+    groups: list[tuple[bool, list[str]]] = []
+    buffer: list[str] = []
+    buffer_table = False
+    in_table = False
+
+    def flush() -> None:
+        nonlocal buffer
+        if buffer:
+            groups.append((buffer_table, buffer))
+            buffer = []
+
+    for raw_line in body.splitlines():
+        stripped = raw_line.strip()
+        if stripped == PLAIN_TEXT_TABLE_START:
+            flush()
+            in_table = True
+            buffer_table = True
+            continue
+        if stripped == PLAIN_TEXT_TABLE_END:
+            flush()
+            in_table = False
+            buffer_table = False
+            continue
+        cleaned = SPACE.sub(" ", stripped).strip()
+        if not cleaned:
+            flush()
+            continue
+        if PAGE_NUMBER.fullmatch(cleaned):
+            flush()
+            continue
+        if not in_table and ITEM_PATTERN.match(cleaned):
+            flush()
+            groups.append((False, [cleaned]))
+            continue
+        uppercase_heading = (
+            not in_table
+            and len(cleaned) <= 140
+            and any(character.isalpha() for character in cleaned)
+            and cleaned == cleaned.upper()
+        )
+        if uppercase_heading:
+            flush()
+            groups.append((False, [cleaned]))
+            continue
+        if buffer and buffer_table != in_table:
+            flush()
+        buffer_table = in_table
+        buffer.append(raw_line.rstrip())
+    flush()
+
+    blocks: list[TextBlock] = []
+    table_texts: list[str] = []
+    duplicates = 0
+    previous = ""
+    for explicit_table, lines in groups:
+        text = normalize_text("\n".join(lines))
+        if not text:
+            continue
+        if text.lower() in {"table of contents", "end privacy-enhanced message"}:
+            continue
+        canonical = re.sub(r"\s+", " ", text).strip()
+        if canonical == previous:
+            duplicates += 1
+            continue
+        previous = canonical
+        is_table = explicit_table or plain_text_table_like(lines)
+        table_number = 0
+        if is_table:
+            table_texts.append(text)
+            table_number = len(table_texts)
+        blocks.append(
+            TextBlock(
+                order=len(blocks) + 1,
+                text=text,
+                source_element="plain_text",
+                is_heading=(
+                    bool(ITEM_PATTERN.match(text[:300]))
+                    or (
+                        len(text) <= 140
+                        and any(character.isalpha() for character in text)
+                        and text == text.upper()
+                    )
+                ),
+                is_table=is_table,
+                table_number=table_number,
+            )
+        )
+    return blocks, table_texts, duplicates
+
+
 def parse_html(payload: bytes) -> dict:
+    if is_probably_plain_text_filing(payload):
+        plain_blocks, plain_tables, plain_duplicates = extract_plain_text_blocks(payload)
+        plain_words = sum(
+            len(block.text.split()) for block in plain_blocks if not block.is_table
+        )
+        if plain_words >= 100:
+            sections = detect_sections(plain_blocks)
+            return {
+                "blocks": plain_blocks,
+                "table_texts": plain_tables,
+                "sections": sections,
+                "duplicate_blocks_removed": plain_duplicates,
+            }
+
     parser = html.HTMLParser(encoding="utf-8", recover=True, huge_tree=True)
     root = html.fromstring(payload, parser=parser)
     root, table_texts = clean_tree(root)
