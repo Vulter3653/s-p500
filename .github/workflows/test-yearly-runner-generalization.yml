@@ -14,6 +14,7 @@ on:
       - "tests/test_yearly_batch_generalization.py"
       - "tests/test_run_yearly_10k_batch_diagnostics.py"
       - "tests/test_plain_text_10k_parser.py"
+      - "tests/test_lm_dictionary_fallback.py"
       - "tests/test_continuous_backfill.py"
       - "scripts/continuous_backfill.py"
       - "scripts/measure_extended_language_features.py"
@@ -67,6 +68,7 @@ jobs:
             tests/test_yearly_batch_generalization.py \
             tests/test_run_yearly_10k_batch_diagnostics.py \
             tests/test_plain_text_10k_parser.py \
+            tests/test_lm_dictionary_fallback.py \
             tests/test_continuous_backfill.py
 
       - name: Upload test evidence
@@ -79,5 +81,6 @@ jobs:
             tests/test_yearly_batch_generalization.py
             tests/test_run_yearly_10k_batch_diagnostics.py
             tests/test_plain_text_10k_parser.py
+            tests/test_lm_dictionary_fallback.py
           if-no-files-found: ignore
           retention-days: 14
