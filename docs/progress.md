@@ -1,3 +1,9 @@
+## 2026-08-03 — Codespace handoff for active run (codex)
+
+- Main historical fixes are saved in merge commit `e271eb31809f3d8d85a47cf625eb88843d7c7cf8`.
+- Actions run `30794955519` is running from `main` with `reuse_run_id=30788897235`; prepare and batch merge passed, and canonical language extension measurement was still in progress at handoff.
+- Added `docs/handoff-current-run.md` with the resume commands and the rule not to duplicate the 2019 run. (codex)
+
 ## 2026-08-03 — Offline extension reuse added (codex)
 
 - The annual workflow now consumes the existing batch artifacts before append, runs the repository's `measure_extended_language_features.py`, merges the resulting tense/passive/text-control fields, and applies batch-manifest identity fields.
