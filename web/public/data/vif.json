@@ -1,42 +1,42 @@
 [
   {
     "variable": "whole_report_concreteness",
-    "N": 4393,
-    "VIF": 1.6551382402301764
+    "N": 4529,
+    "VIF": 1.6702328108472182
   },
   {
     "variable": "lm_uncertainty_share",
-    "N": 4393,
-    "VIF": 1.9265106574256827
+    "N": 4529,
+    "VIF": 1.9281595186606648
   },
   {
     "variable": "lm_positive_share",
-    "N": 4393,
-    "VIF": 1.2694259590679011
+    "N": 4529,
+    "VIF": 1.2736970484921375
   },
   {
     "variable": "lm_negative_share",
-    "N": 4393,
-    "VIF": 1.6749728151677847
+    "N": 4529,
+    "VIF": 1.6651096043453355
   },
   {
     "variable": "passive_voice_sentence_share",
-    "N": 4393,
-    "VIF": 1.2814138922131213
+    "N": 4529,
+    "VIF": 1.2810512431819645
   },
   {
     "variable": "fog_index",
-    "N": 4393,
-    "VIF": 1.5126061536379154
+    "N": 4529,
+    "VIF": 1.5098508338472918
   },
   {
     "variable": "log_report_word_count",
-    "N": 4393,
-    "VIF": 1.3361559219877823
+    "N": 4529,
+    "VIF": 1.3384645196216338
   },
   {
     "variable": "numeric_token_share",
-    "N": 4393,
-    "VIF": 1.469992494614664
+    "N": 4529,
+    "VIF": 1.47123453962643
   }
 ]

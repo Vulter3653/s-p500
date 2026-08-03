@@ -2,25 +2,26 @@
   "chain_id": "historical-2019",
   "sample_namespace": "sample_503",
   "start_year": 2019,
-  "current_year": 2015,
-  "last_completed_year": 2015,
-  "processed_year_count": 5,
+  "current_year": 2014,
+  "last_completed_year": 2014,
+  "processed_year_count": 6,
   "visited_years": [
     2019,
     2018,
     2017,
     2016,
-    2015
+    2015,
+    2014
   ],
   "zero_streak": 0,
-  "annual_ai_keyword_count": 13,
-  "next_year": 2014,
+  "annual_ai_keyword_count": 2,
+  "next_year": 2013,
   "status": "success",
   "stop_reason": null,
   "panel": {
-    "prior_rows": 4213,
-    "current_rows": 180,
-    "candidate_rows": 4393,
+    "prior_rows": 4393,
+    "current_rows": 136,
+    "candidate_rows": 4529,
     "validation": "PASS"
   },
   "sec_ticker_metadata": {
@@ -31,5 +32,5 @@
     "retrieved_at_utc": "2026-07-24T00:00:00+00:00",
     "retryable": false
   },
-  "generated_at": "2026-08-03T12:30:05.492686+00:00"
+  "generated_at": "2026-08-03T13:07:56.838717+00:00"
 }
