@@ -1,0 +1,67 @@
+name: Diagnose language resource downloads
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/diagnose-language-resource-download.yml"
+      - ".github/language-resource-diagnostic-trigger"
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Reproduce validated downloads
+        run: |
+          python - <<'PY'
+          from __future__ import annotations
+
+          import hashlib
+          from urllib.request import Request, urlopen
+
+          resources = [
+              (
+                  "LM",
+                  "https://drive.usercontent.google.com/download?id=1iq2RUf8qGFEAk1g8wQntP3habOnR3fXF&export=download&confirm=t",
+                  "e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d",
+              ),
+              (
+                  "Brysbaert",
+                  "https://media.springernature.com/original/springer-static/esm/art%3A10.3758%2Fs13428-013-0403-5/MediaObjects/13428_2013_403_MOESM1_ESM.xlsx",
+                  "1673ead761e28833a40e82c0d20f10782955ced9366d600eafeefee0f2254545",
+              ),
+              (
+                  "tidytext",
+                  "https://cran.r-project.org/src/contrib/Archive/tidytext/tidytext_0.3.1.tar.gz",
+                  "30b96058d69733a5f49cff4ff471605f47deb549a40d4517dcdffc7f4b534fa0",
+              ),
+          ]
+
+          for name, url, expected in resources:
+              print(f"RESOURCE={name}")
+              try:
+                  request = Request(url, headers={"User-Agent": "s-p500-research-workflow"})
+                  with urlopen(request, timeout=180) as response:
+                      payload = response.read()
+                      print(f"status={getattr(response, 'status', '')}")
+                      print(f"final_url={response.geturl()}")
+                      print(f"content_type={response.headers.get('Content-Type', '')}")
+                      print(f"content_disposition={response.headers.get('Content-Disposition', '')}")
+                  actual = hashlib.sha256(payload).hexdigest()
+                  print(f"bytes={len(payload)}")
+                  print(f"expected_sha256={expected}")
+                  print(f"actual_sha256={actual}")
+                  print(f"sha_match={actual == expected}")
+                  print(f"prefix_hex={payload[:64].hex()}")
+              except Exception as error:
+                  print(f"exception_type={type(error).__name__}")
+                  print(f"exception_message={error}")
+              print("---")
+          PY
