@@ -262,16 +262,47 @@ jobs:
           from pathlib import Path
           import pandas as pd
           root = Path("outputs/${{ needs.prepare.outputs.current_year }}/merged")
-          base = pd.read_parquet(root / "annual_base_panel.parquet")
-          features = pd.read_csv(root / "extended_features.csv")
+          batch_root = Path("outputs/${{ needs.prepare.outputs.current_year }}/batches")
+          base = pd.read_parquet(root / "annual_base_panel.parquet").rename(
+              columns={"company_id": "source_company_id"}
+          )
+          features = pd.read_csv(root / "extended_features.csv").rename(
+              columns={"company_id": "source_company_id"}
+          )
           feature_only = features.drop(columns=["cik", "accession_number"], errors="ignore")
           merged = base.merge(
               feature_only,
-              on=["company_id", "report_year"],
+              on=["source_company_id", "report_year"],
               how="left",
               validate="one_to_one",
               suffixes=("", "_feature"),
           )
+          manifests = sorted(batch_root.rglob("batch_manifest.csv"))
+          if not manifests:
+              raise SystemExit("historical batch manifests are missing")
+          manifest = pd.concat([pd.read_csv(path) for path in manifests], ignore_index=True)
+          manifest = manifest.rename(
+              columns={"company_id": "source_company_id", "_company_key": "company_id"}
+          )
+          required_manifest = [
+              "source_company_id", "company_id", "sample_order", "batch_id",
+              "report_date", "form", "r2_object_key",
+          ]
+          missing_manifest = [column for column in required_manifest if column not in manifest]
+          if missing_manifest:
+              raise SystemExit(f"historical manifest schema is missing: {missing_manifest}")
+          manifest = manifest[required_manifest]
+          if manifest["source_company_id"].duplicated().any():
+              raise SystemExit("historical batch manifests contain duplicate source IDs")
+          merged = merged.merge(
+              manifest,
+              on="source_company_id",
+              how="left",
+              validate="one_to_one",
+              suffixes=("", "_manifest"),
+          )
+          if merged["company_id"].isna().any():
+              raise SystemExit("historical manifest identity coverage is incomplete")
           duplicates = [column for column in merged if column.endswith("_feature")]
           if duplicates:
               raise SystemExit(f"extension duplicated base columns: {duplicates}")
