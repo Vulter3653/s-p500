@@ -90,6 +90,36 @@ SMART_ANALYSIS = (
     "analysis_ready_dictionary/smart_stopwords_tidytext_0.3.1.txt"
 )
 
+LM_FALLBACK_URL = (
+    "https://docs.google.com/spreadsheets/d/"
+    "1P3KtWuDyQT2Eu_VwTU3D2sEeQxR9dWCS/export?format=csv"
+)
+LM_FALLBACK_SHA256 = (
+    "147cb24a1687ccde60363a0fa29c62be4097debcc698c01a83e51bb8a176dbb3"
+)
+LM_FALLBACK_ANALYSIS_SHA256 = (
+    "b1f67155d27b32086553cc79049df89e940c42ce9106e8640a0d631160187ad7"
+)
+LM_FALLBACK_EXPECTED_ROW_COUNT = 86553
+LM_FALLBACK_EXPECTED_CATEGORY_COUNTS = {
+    "positive": 347,
+    "negative": 2345,
+    "uncertainty": 297,
+    "litigious": 903,
+    "strong_modal": 19,
+    "weak_modal": 27,
+    "constraining": 184,
+}
+LM_FALLBACK_EXPECTED_NEGATIVE_SOURCE_COUNTS = {
+    "positive": 7,
+    "negative": 10,
+    "uncertainty": 0,
+    "litigious": 2,
+    "strong_modal": 0,
+    "weak_modal": 0,
+    "constraining": 0,
+}
+
 
 def utc_now() -> str:
     return datetime.now(timezone.utc).isoformat()
@@ -596,12 +626,79 @@ def download_file(url: str, destination: Path, expected_sha: str) -> None:
     temporary.replace(destination)
 
 
+def ensure_lm_resource() -> None:
+    """Build the validated LM analysis file with an official fallback."""
+    if LM_ANALYSIS.is_file():
+        return
+
+    source_sha = sha256_file(LM_SOURCE) if LM_SOURCE.is_file() else ""
+    if source_sha not in {LM_SHA256, LM_FALLBACK_SHA256}:
+        LM_SOURCE.unlink(missing_ok=True)
+        try:
+            download_file(LM_URL, LM_SOURCE, LM_SHA256)
+            source_sha = LM_SHA256
+        except Exception as primary_error:
+            try:
+                download_file(
+                    LM_FALLBACK_URL,
+                    LM_SOURCE,
+                    LM_FALLBACK_SHA256,
+                )
+                source_sha = LM_FALLBACK_SHA256
+            except Exception as fallback_error:
+                raise RuntimeError(
+                    "LM dictionary download failed for both the primary "
+                    "file and official Google Sheets export; primary "
+                    f"error={type(primary_error).__name__}: {primary_error}"
+                ) from fallback_error
+
+    if source_sha == LM_SHA256:
+        load_lm(write_analysis_file=True)
+        return
+
+    mappings, metadata = load_lm(
+        expected_sha256=LM_FALLBACK_SHA256,
+        write_analysis_file=True,
+    )
+    if metadata.get("row_count") != LM_FALLBACK_EXPECTED_ROW_COUNT:
+        LM_ANALYSIS.unlink(missing_ok=True)
+        raise ValueError(
+            "LM fallback row count mismatch: "
+            f"expected {LM_FALLBACK_EXPECTED_ROW_COUNT}, "
+            f"got {metadata.get('row_count')}"
+        )
+    if len(mappings) != LM_FALLBACK_EXPECTED_ROW_COUNT:
+        LM_ANALYSIS.unlink(missing_ok=True)
+        raise ValueError(
+            "LM fallback mapping count mismatch: "
+            f"expected {LM_FALLBACK_EXPECTED_ROW_COUNT}, "
+            f"got {len(mappings)}"
+        )
+    if (
+        metadata.get("category_word_counts")
+        != LM_FALLBACK_EXPECTED_CATEGORY_COUNTS
+    ):
+        LM_ANALYSIS.unlink(missing_ok=True)
+        raise ValueError("LM fallback category counts mismatch")
+    if (
+        metadata.get("negative_source_value_counts")
+        != LM_FALLBACK_EXPECTED_NEGATIVE_SOURCE_COUNTS
+    ):
+        LM_ANALYSIS.unlink(missing_ok=True)
+        raise ValueError("LM fallback source-value counts mismatch")
+    analysis_sha = sha256_file(LM_ANALYSIS)
+    if analysis_sha != LM_FALLBACK_ANALYSIS_SHA256:
+        LM_ANALYSIS.unlink(missing_ok=True)
+        raise ValueError(
+            "LM fallback analysis SHA mismatch: "
+            f"expected {LM_FALLBACK_ANALYSIS_SHA256}, got {analysis_sha}"
+        )
+
+
 def ensure_language_resources() -> None:
     if LM_ANALYSIS.is_file() and BRYSBAERT_ANALYSIS.is_file() and SMART_ANALYSIS.is_file():
         return
-    if not LM_SOURCE.is_file():
-        download_file(LM_URL, LM_SOURCE, LM_SHA256)
-    load_lm(write_analysis_file=True)
+    ensure_lm_resource()
     if not BRYSBAERT_SOURCE.is_file():
         download_file(BRYSBAERT_URL, BRYSBAERT_SOURCE, BRYSBAERT_SHA256)
     load_brysbaert(write_analysis_file=True)
