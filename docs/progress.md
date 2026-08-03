@@ -1,5 +1,12 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - finalize-only artifact recovery
+
+- Added `reuse_run_id` to the continuous workflow. When supplied, batch processing is skipped and finalize downloads the completed run's batch artifacts through `actions/download-artifact`.
+- This is intended for run `30788897235`, whose five batches succeeded but publication failed; it avoids recollecting or remeasuring the 441 rows.
+- Next: run one finalize-only recovery with `reuse_run_id=30788897235`.
+ (codex)
+
 ## 2026-08-03 - historical publication shell continuation fix
 
 - Run `30788897235`: all five valid batches, merge, and annual validation succeeded; final publication failed because generated workflow lines used doubled shell continuations, so `continuous_backfill.py` received no required arguments.
