@@ -118,7 +118,7 @@ def canonicalize_panel(current: pd.DataFrame, prior: pd.DataFrame) -> pd.DataFra
         missing = [column for column in prior.columns if column not in frame.columns]
     if missing:
         raise ValueError(
-            "historical schema incompatible; missing canonical measured columns: "
+            "historical schema incompatible; missing canonical columns (measured): "
             + ", ".join(missing)
         )
     # The established panel controls column order. Extra experimental columns
