@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import math
 import json
 import os
 import tempfile
@@ -21,6 +22,108 @@ import pandas as pd
 
 AI_KEYWORD_COLUMN = "ai_term_count"
 REQUIRED_KEYS = ("company_id", "report_year", "accession_number")
+
+# These aliases are the canonical names emitted by the existing extended-panel
+# builder. Historical rows must be converted to this schema before append.
+CANONICAL_ALIASES = {
+    "ai_disclosure": "ai_disclosure_flag",
+    "whole_report_concreteness": "report_concreteness_mean",
+    "ai_concreteness": "ai_concreteness_mean",
+    "fog_index": "report_fog_index",
+    "lm_positive_share": "report_positive_ratio",
+    "lm_negative_share": "report_negative_ratio",
+    "lm_uncertainty_share": "report_uncertainty_ratio",
+    "lm_litigious_share": "report_litigious_ratio",
+    "lm_strong_modal_share": "report_strong_modal_ratio",
+    "lm_weak_modal_share": "report_weak_modal_ratio",
+    "lm_constraining_share": "report_constraining_ratio",
+    "ai_lm_positive_share": "ai_positive_ratio",
+    "ai_lm_negative_share": "ai_negative_ratio",
+    "ai_lm_uncertainty_share": "ai_uncertainty_ratio",
+    "ai_lm_litigious_share": "ai_litigious_ratio",
+    "ai_lm_strong_modal_share": "ai_strong_modal_ratio",
+    "ai_lm_weak_modal_share": "ai_weak_modal_ratio",
+    "ai_lm_constraining_share": "ai_constraining_ratio",
+    "numeric_token_share": "report_numeric_token_ratio",
+}
+
+
+STRUCTURAL_COLUMNS = {
+    "source_company_id", "sample_order", "batch_id", "report_date", "form",
+    "r2_object_key", "warning_count", "has_single_ai_sentence_warning",
+    "has_stem_collision_warning", "has_denominator_zero_warning",
+    "has_extraction_warning", "has_any_warning", "has_failed_status",
+    "panel_start_year", "panel_end_year", "panel_year_count",
+    "is_balanced_2020_2025", "has_gap_within_observed_period",
+    "ticker_changed_within_panel", "company_name_changed_within_panel",
+    "cik_changed_within_panel", "first_observed_year", "last_observed_year",
+}
+
+
+def _add_structural_columns(frame: pd.DataFrame, missing: list[str]) -> pd.DataFrame:
+    frame = frame.copy()
+    year = pd.to_numeric(frame["report_year"], errors="coerce")
+    for column in missing:
+        if column == "source_company_id":
+            frame[column] = frame["company_id"].astype("string")
+        elif column == "report_date":
+            frame[column] = frame.get("filing_date", year.astype("string"))
+        elif column == "form":
+            frame[column] = "10-K"
+        elif column in {"sample_order", "batch_id"}:
+            frame[column] = pd.Series(range(1, len(frame) + 1), index=frame.index)
+        elif column in {"panel_start_year", "panel_end_year", "first_observed_year", "last_observed_year"}:
+            frame[column] = year
+        elif column == "panel_year_count":
+            frame[column] = 1
+        elif column == "r2_object_key":
+            frame[column] = ""
+        elif column.endswith("_lag1") or column.endswith("_change"):
+            frame[column] = pd.NA
+        else:
+            frame[column] = 0
+    return frame
+
+
+def canonicalize_panel(current: pd.DataFrame, prior: pd.DataFrame) -> pd.DataFrame:
+    """Apply the existing extended-panel aliases before a cumulative append.
+
+    The prior verified panel is the schema contract. Missing measured columns are
+    a hard failure; silently filling them with NA was the cause of the 2019
+    publication error.
+    """
+    frame = current.copy()
+    if "ai_disclosure_flag" not in frame.columns:
+        if "ai_sentence_count" in frame.columns:
+            frame["ai_disclosure_flag"] = (
+                pd.to_numeric(frame["ai_sentence_count"], errors="coerce") >= 1
+            ).astype("Int64")
+        elif "ai_disclosure_binary" in frame.columns:
+            frame["ai_disclosure_flag"] = pd.to_numeric(
+                frame["ai_disclosure_binary"], errors="coerce"
+            ).astype("Int64")
+    if "log1p_ai_sentence_count" in prior.columns and "log1p_ai_sentence_count" not in frame.columns:
+        counts = pd.to_numeric(frame.get("ai_sentence_count"), errors="coerce")
+        if counts is not None:
+            if counts.isna().any():
+                raise ValueError("ai_sentence_count contains missing values; cannot derive log1p")
+            frame["log1p_ai_sentence_count"] = (counts.clip(lower=0) + 1).map(math.log)
+    for alias, source in CANONICAL_ALIASES.items():
+        if alias not in frame.columns and source in frame.columns:
+            frame[alias] = frame[source]
+    missing = [column for column in prior.columns if column not in frame.columns]
+    structural = [column for column in missing if column in STRUCTURAL_COLUMNS or column.endswith(("_lag1", "_change"))]
+    if structural:
+        frame = _add_structural_columns(frame, structural)
+        missing = [column for column in prior.columns if column not in frame.columns]
+    if missing:
+        raise ValueError(
+            "historical schema incompatible; missing canonical columns (measured): "
+            + ", ".join(missing)
+        )
+    # The established panel controls column order. Extra experimental columns
+    # are not allowed to change the production schema.
+    return frame.loc[:, list(prior.columns)].copy()
 
 
 def utc_now() -> str:
@@ -102,16 +205,7 @@ def append_panel(
     if prior_path and prior_path.exists():
         prior = pd.read_parquet(prior_path) if prior_path.suffix == ".parquet" else pd.read_csv(prior_path)
         _validate_keys(prior, "prior panel")
-        # Historical language output can contain a subset of the established
-        # panel. Preserve the prior column order and append genuinely new
-        # measured columns; absent values remain structural missingness.
-        new_columns = [column for column in current.columns if column not in prior.columns]
-        for column in new_columns:
-            prior[column] = pd.NA
-        for column in prior.columns:
-            if column not in current.columns:
-                current[column] = pd.NA
-        current = current[list(prior.columns) + new_columns]
+        current = canonicalize_panel(current, prior)
     combined = pd.concat([prior, current], ignore_index=True) if prior is not None else current
     _validate_keys(combined, "combined panel")
     if protected_path and protected_path.exists():
@@ -147,6 +241,7 @@ def build_state(args: argparse.Namespace, annual_count: int | None, panel_result
     next_value = None if streak >= 3 or args.dry_run else next_year(current, visited, int(args.minimum_year))
     return {
         "chain_id": args.chain_id,
+        "sample_namespace": getattr(args, "sample_namespace", "sample_503"),
         "start_year": int(args.start_year),
         "current_year": current,
         "last_completed_year": current if status == "success" else (visited[-2] if len(visited) > 1 else None),
@@ -173,6 +268,7 @@ def main() -> None:
     parser.add_argument("--keyword-column", default=AI_KEYWORD_COLUMN)
     parser.add_argument("--chain-state", type=Path, required=True)
     parser.add_argument("--chain-id", required=True)
+    parser.add_argument("--sample-namespace", default="sample_503")
     parser.add_argument("--start-year", type=int, required=True)
     parser.add_argument("--current-year", type=int, required=True)
     parser.add_argument("--minimum-year", type=int, default=0)

@@ -184,15 +184,34 @@ def index_text_paths(artifact_root: Path, repository_root: Path) -> dict[str, st
     return indexed
 
 
-def load_ai_sentences(repository_root: Path) -> dict[str, list[str]]:
+def load_ai_sentences(
+    repository_root: Path,
+    artifact_root: Path,
+) -> dict[str, list[str]]:
     grouped: dict[str, list[str]] = {}
+    # Reuse sentence-level artifacts from the current run when present. This
+    # avoids a second SEC/R2 collection pass for historical years.
+    for path in sorted(artifact_root.rglob("ai_related_sentences.csv.gz")):
+        rows = pd.read_csv(
+            path,
+            compression="gzip",
+            dtype={"accession_number": "string"},
+        )
+        for accession, group in rows.groupby("accession_number", sort=False):
+            grouped.setdefault(str(accession), []).extend(
+                group["sentence_text"].fillna("").tolist()
+            )
     for year in range(2020, 2026):
         path = repository_root / (
             f"{year}/sample_500/language_results/ai_related_sentences.csv.gz"
         )
+        if not path.exists():
+            continue
         rows = pd.read_csv(path, dtype={"accession_number": "string"})
         for accession, group in rows.groupby("accession_number", sort=False):
-            grouped[str(accession)] = group["sentence_text"].fillna("").tolist()
+            grouped.setdefault(str(accession), []).extend(
+                group["sentence_text"].fillna("").tolist()
+            )
     return grouped
 
 
@@ -226,7 +245,7 @@ def run(
     if smoke:
         panel = select_smoke(panel)
     paths = index_text_paths(artifact_root, repository_root)
-    ai_by_key = load_ai_sentences(repository_root)
+    ai_by_key = load_ai_sentences(repository_root, artifact_root)
     missing = panel[~panel["accession_number"].astype(str).isin(paths)]
     if not missing.empty:
         raise ValueError(f"missing analysis text files: {len(missing)}")

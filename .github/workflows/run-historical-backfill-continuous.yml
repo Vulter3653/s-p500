@@ -69,7 +69,6 @@ on:
 permissions:
   contents: write
   actions: write
-  pull-requests: write
 
 concurrency:
   group: historical-chain-${{ inputs.chain_id || format('historical-{0}', inputs.start_year) }}
@@ -219,11 +218,11 @@ jobs:
           if-no-files-found: ignore
           retention-days: 14
 
-  finalize-and-dispatch:
+  finalize-and-publish:
     needs: [prepare, process-batches]
     if: always() && needs.prepare.result == 'success' && (needs.process-batches.result == 'success' || (needs.process-batches.result == 'skipped' && inputs.reuse_run_id != ''))
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -240,6 +239,79 @@ jobs:
       - name: Merge yearly batches
         run: |
           python scripts/merge_yearly_10k_batches.py --report-year "${{ needs.prepare.outputs.current_year }}" --input-dir "outputs/${{ needs.prepare.outputs.current_year }}/batches" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/merged" --expected-batches "${{ needs.prepare.outputs.expected_batches }}"
+      - name: Measure canonical language extensions from existing artifacts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import pandas as pd
+          root = Path("outputs/${{ needs.prepare.outputs.current_year }}/merged")
+          frame = pd.read_csv(root / "company_language_results.csv")
+          frame["ai_disclosure_flag"] = (
+              pd.to_numeric(frame["ai_sentence_count"], errors="coerce") >= 1
+          ).astype("Int64")
+          frame["report_year"] = pd.to_numeric(frame["report_year"], errors="raise").astype("int64")
+          frame.to_parquet(root / "annual_base_panel.parquet", index=False)
+          PY
+          python scripts/measure_extended_language_features.py \
+            --panel "outputs/${{ needs.prepare.outputs.current_year }}/merged/annual_base_panel.parquet" \
+            --artifact-root "outputs/${{ needs.prepare.outputs.current_year }}/batches" \
+            --output "outputs/${{ needs.prepare.outputs.current_year }}/merged/extended_features.csv" \
+            --workers 1 \
+            --years "${{ needs.prepare.outputs.current_year }}"
+          python - <<'PY'
+          from pathlib import Path
+          import pandas as pd
+          root = Path("outputs/${{ needs.prepare.outputs.current_year }}/merged")
+          batch_root = Path("outputs/${{ needs.prepare.outputs.current_year }}/batches")
+          base = pd.read_parquet(root / "annual_base_panel.parquet").rename(
+              columns={"company_id": "source_company_id"}
+          )
+          features = pd.read_csv(root / "extended_features.csv").rename(
+              columns={"company_id": "source_company_id"}
+          )
+          feature_only = features.drop(columns=["cik", "accession_number"], errors="ignore")
+          merged = base.merge(
+              feature_only,
+              on=["source_company_id", "report_year"],
+              how="left",
+              validate="one_to_one",
+              suffixes=("", "_feature"),
+          )
+          manifests = sorted(batch_root.rglob("batch_manifest.csv"))
+          if not manifests:
+              raise SystemExit("historical batch manifests are missing")
+          manifest = pd.concat([pd.read_csv(path) for path in manifests], ignore_index=True)
+          manifest = manifest.rename(
+              columns={"company_id": "source_company_id", "_company_key": "company_id"}
+          )
+          required_manifest = [
+              "source_company_id", "company_id", "sample_order", "batch_id",
+              "report_date", "form", "r2_object_key",
+          ]
+          missing_manifest = [column for column in required_manifest if column not in manifest]
+          if missing_manifest:
+              raise SystemExit(f"historical manifest schema is missing: {missing_manifest}")
+          manifest = manifest[required_manifest]
+          if manifest["source_company_id"].duplicated().any():
+              raise SystemExit("historical batch manifests contain duplicate source IDs")
+          merged = merged.merge(
+              manifest,
+              on="source_company_id",
+              how="left",
+              validate="one_to_one",
+              suffixes=("", "_manifest"),
+          )
+          if merged["company_id"].isna().any():
+              raise SystemExit("historical manifest identity coverage is incomplete")
+          duplicates = [column for column in merged if column.endswith("_feature")]
+          if duplicates:
+              raise SystemExit(f"extension duplicated base columns: {duplicates}")
+          if len(merged) != len(base) or merged["company_id"].isna().any():
+              raise SystemExit("extension changed annual row coverage")
+          merged.to_csv(root / "company_language_results.csv", index=False, lineterminator="\n")
+          print({"rows": len(merged), "extension_columns": len(features.columns)})
+          PY
+
       - name: Validate annual AI keyword count
         run: |
           python - <<'PY'
@@ -292,6 +364,7 @@ jobs:
             --output-parquet panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
             --chain-state automation/historical_backfill/chain-state.json \
             --chain-id "${{ needs.prepare.outputs.chain_id }}" \
+            --sample-namespace "${{ inputs.sample_namespace }}" \
             --start-year "${{ inputs.start_year }}" \
             --current-year "$year" \
             --minimum-year "${{ needs.prepare.outputs.minimum_year }}" \
@@ -320,31 +393,19 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git commit -m "Add validated $year historical panel and dashboard data"
           git push origin "$publication_branch"
-          pr_url=$(gh pr create --repo "${{ github.repository }}" --base main --head "$publication_branch" \
-            --title "Add validated $year historical panel and dashboard data" \
-            --body "Automated annual historical backfill publication for $year. Includes the validated cumulative panel, dashboard data, chain state, and annual validation summary.")
-          gh pr merge "$pr_url" --repo "${{ github.repository }}" --merge --delete-branch
-          state="automation/historical_backfill/chain-state.json"
-          next_year=$(python -c 'import json; print(json.load(open("'"$state"'"))["next_year"] or "")')
-          streak=$(python -c 'import json; print(json.load(open("'"$state"'"))["zero_streak"])')
-          if [[ -n "$next_year" && "$streak" -lt 3 ]]; then
-            gh workflow run run-historical-backfill-continuous.yml \
-              --repo "${{ github.repository }}" \
-              --ref main \
-              -f chain_id="${{ needs.prepare.outputs.chain_id }}" \
-              -f start_year="${{ inputs.start_year }}" \
-              -f current_year="$next_year" \
-              -f minimum_year="${{ inputs.minimum_year }}" \
-              -f sample_manifest="$next_year/${{ inputs.sample_namespace }}/sample/final_analysis_sample_503.csv" \
-              -f sample_namespace="${{ inputs.sample_namespace }}" \
-              -f batch_ids="1,2,3,4,5,6" \
-              -f zero_streak="$streak" \
-              -f visited_years="${{ inputs.visited_years }},$year" \
-              -f run_collection="${{ inputs.run_collection }}" \
-              -f run_extraction="${{ inputs.run_extraction }}" \
-              -f run_language="${{ inputs.run_language }}" \
-              -f execute=true \
-              -f confirmation=RUN_CONTINUOUS_HISTORICAL_BACKFILL
-          else
-            echo "historical chain stopped: streak=$streak next_year=$next_year"
-          fi
+          echo "publication_required=true" >> "$GITHUB_OUTPUT"
+          echo "publication_branch=$publication_branch" >> "$GITHUB_OUTPUT"
+          publication_head=$(git rev-parse HEAD)
+          echo "publication_head=$publication_head" >> "$GITHUB_OUTPUT"
+          compare_url="https://github.com/${{ github.repository }}/compare/main...$publication_branch"
+          {
+            echo "## Annual publication ready"
+            echo ""
+            echo "- Branch: \`$publication_branch\`"
+            echo "- Head: \`$publication_head\`"
+            echo "- Compare: $compare_url"
+            echo "- PR creation and merge are intentionally external to this workflow."
+            echo "- Merge this branch into \`main\` after schema review. The main-push continuation workflow will dispatch the next year."
+          } >> "$GITHUB_STEP_SUMMARY"
+          echo "publication branch pushed: $publication_branch ($publication_head)"
+          echo "compare URL: $compare_url"

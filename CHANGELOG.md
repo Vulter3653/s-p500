@@ -1,3 +1,7 @@
+## 0.13.0
+
+- Fixed historical publication to reuse the canonical extended-panel schema and stop before Actions PR creation; added main-push continuation dispatch. (codex)
+
 ## 0.12.0
 
 - Added finalize-only recovery support that restores the completed collection manifest artifact instead of regenerating it through SEC metadata requests. (codex)
