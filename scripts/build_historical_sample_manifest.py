@@ -5,13 +5,17 @@ from __future__ import annotations
 
 import argparse
 import csv
+import io
+from datetime import date
 from pathlib import Path
 
 try:
     from scripts import build_2020_sample_500 as selector
+    from scripts import build_annual_constituents as constituents
     from scripts.sec_client import SecClient, normalize_cik
 except ModuleNotFoundError:
     import build_2020_sample_500 as selector
+    import build_annual_constituents as constituents
     from sec_client import SecClient, normalize_cik
 
 
@@ -25,8 +29,87 @@ FIELDS = [
 ]
 
 
-def build(root: Path, report_year: int, output: Path) -> dict[str, int]:
+def ensure_historical_universe(root: Path, report_year: int) -> Path:
+    """Create a missing annual constituent universe before manifest selection.
+
+    The reconstruction is cache-first for local raw inputs and SEC ticker metadata.
+    Only the requested year is written, so protected existing annual snapshots are not
+    regenerated or overwritten.
+    """
     universe_path = root / str(report_year) / "sp500_companies.csv"
+    if universe_path.is_file():
+        return universe_path
+
+    source_date = date.today().isoformat()
+    wikipedia_path = root / "data" / "raw" / f"wikipedia_sp500_{source_date}.html"
+    if wikipedia_path.is_file():
+        wikipedia_content = wikipedia_path.read_bytes()
+    else:
+        wikipedia_content = constituents.fetch_source(wikipedia_path)
+
+    sec_content, _ = constituents.resolve_sec_ticker_cache(root, source_date)
+    sec_map = constituents.sec_ticker_map(sec_content)
+
+    historical_path = (
+        root
+        / "data"
+        / "raw"
+        / f"sp500_historical_components_{source_date}.csv"
+    )
+    if historical_path.is_file():
+        historical_content = historical_path.read_bytes()
+    else:
+        historical_content = constituents.fetch_url(
+            constituents.HISTORICAL_COMPONENTS_URL,
+            historical_path,
+        )
+
+    history = constituents.pd.read_csv(io.BytesIO(historical_content))
+    history["date"] = constituents.pd.to_datetime(history["date"], errors="coerce")
+    snapshot_date = constituents.pd.Timestamp(
+        year=report_year + 1,
+        month=1,
+        day=1,
+    )
+    eligible = history.loc[history["date"] <= snapshot_date]
+    if eligible.empty:
+        raise ValueError(
+            f"No historical constituent row for {snapshot_date.date()}"
+        )
+    validated_tickers = {
+        constituents.clean_symbol(ticker)
+        for ticker in eligible.iloc[-1]["tickers"].split(",")
+    }
+
+    components = constituents.normalize_components(
+        constituents.load_components(wikipedia_content)
+    )
+    changes = constituents.parse_changes(wikipedia_content)
+    reconstructed = {
+        row["symbol"]: row.to_dict() for _, row in components.iterrows()
+    }
+    for _, change in changes[
+        changes["effective_date"] > snapshot_date
+    ].iterrows():
+        constituents.reverse_change(reconstructed, change)
+
+    constituents.write_snapshot(
+        report_year,
+        date(report_year + 1, 1, 1),
+        reconstructed,
+        root,
+        sec_map,
+        validated_tickers,
+    )
+    if not universe_path.is_file():
+        raise FileNotFoundError(
+            f"historical constituent reconstruction did not create {universe_path}"
+        )
+    return universe_path
+
+
+def build(root: Path, report_year: int, output: Path) -> dict[str, int]:
+    universe_path = ensure_historical_universe(root, report_year)
     with universe_path.open(encoding="utf-8-sig", newline="") as handle:
         universe = list(csv.DictReader(handle))
     if not universe:
