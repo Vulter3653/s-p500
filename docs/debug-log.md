@@ -1,3 +1,10 @@
+## 2026-08-03 — 2019 artifact schema guard (codex)
+
+- Downloaded the existing `historical-2019-annual-result` artifact from run `30790873561` without rerunning collection or language measurement.
+- The merged 2019 result has 103 columns; the verified 204-column extended panel requires additional panel identity/lag fields and tense, passive-voice, and text-control measures.
+- Canonical append therefore fails closed with `historical schema incompatible; missing canonical columns` rather than publishing 441 rows of fabricated missingness.
+- This is a real source incompatibility blocker: the existing 2019 artifact must first be passed through the established extended-language measurement/panel builder before PR #7 can be updated or merged.
+
 ## 2026-08-03 — 2019 publication schema and PR-permission failure (codex)
 
 - Run `30790873561` completed collection, extraction, language measurement, merge, and annual validation (`ai_term_count` sum 571) but failed only when the workflow attempted `gh pr create` with the Actions token.
