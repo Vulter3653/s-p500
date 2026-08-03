@@ -1,3 +1,9 @@
+## 2026-08-03 — Existing artifact extension path (codex)
+
+- The five existing 2019 batch artifacts were downloaded from run `30788897235`; 441 analysis-text files are available after the fourth artifact was refreshed.
+- The annual workflow now measures the missing extension fields from those artifacts and joins batch manifest identity before canonical append. It does not request SEC metadata or write R2 during this reuse step.
+- A local full spaCy measurement was not used as the gate because the Codespace process was terminated under the available memory; the authoritative run is the configured Actions job with one worker and the existing 360-minute extension budget.
+
 ## 2026-08-03 — 2019 artifact schema guard (codex)
 
 - Downloaded the existing `historical-2019-annual-result` artifact from run `30790873561` without rerunning collection or language measurement.
