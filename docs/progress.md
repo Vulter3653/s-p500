@@ -1,5 +1,9 @@
 ## 2026-08-03 (codex)
 
+- Recovery workflow now restores `historical-<start-year>-collection-manifest` from the source run when `reuse_run_id` is provided, avoiding duplicate manifest generation.
+
+## 2026-08-03 (codex)
+
 - Updated the continuous backfill workflow so finalize-only recovery runs after the batch matrix is intentionally skipped; this allows completed artifacts from run `30788897235` to be published without re-collecting data.
 
 # Project Progress and Session Handoff
