@@ -240,7 +240,7 @@ def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYS
     manifest = {"analysis_period": f"{start_year}-{end_year}", "unit_of_analysis": "firm-year", "git_commit": commit, "generated_at": now, "sources": []}
     for key, path in required_sources.items():
         manifest["sources"].append({"dataset_id": key, "source_file": str(path.relative_to(ROOT)), "source_sha256": sha256(path), "source_columns": list(sources[key].columns), "generation_script": "scripts/generate_web_analysis_data.py"})
-    manifest["sources"].append({"dataset_id": "extended_panel", "source_file": str(PANEL.relative_to(ROOT)), "source_sha256": sha256(PANEL), "source_columns": list(panel.columns), "generation_script": "scripts/generate_web_analysis_data.py"})
+    manifest["sources"].append({"dataset_id": "extended_panel", "source_file": str(panel_path.relative_to(ROOT)), "source_sha256": sha256(panel_path), "source_columns": list(panel.columns), "generation_script": "scripts/generate_web_analysis_data.py"})
 
     # Figure data are copied from the existing, reproducibly generated figure
     # tables.  The frontend receives only these records; it never embeds
@@ -353,4 +353,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

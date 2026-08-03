@@ -1,12 +1,18 @@
-## 2026-08-02
-
-- Added: 비용을 줄이기 위한 단일 continuous historical backfill workflow, `ai_term_count` 기반 3년 연속 0 종료 상태 전이, 원자적 candidate panel append 및 dashboard generator 입력 경로 일반화를 구현했다. 실제 historical 실행은 별도 승인 전까지 수행하지 않는다. (codex)
-
-## 2026-08-02
-
-- Added: Codespace 종료 후 재개할 수 있도록 `codex/historical-backfill-continuous` integration branch의 연속 historical backfill 인수인계를 원격 문서로 고정했다. 실제 SEC·R2·Google Drive 실행과 main 병합은 수행하지 않았다. (codex)
-
 # Changelog
+
+## 2026-08-03
+
+- Fixed: yearly batch runner가 package import와 direct script 실행 모두에서 관련 `scripts` 모듈을 로드하도록 import fallback을 보정했다. (codex)
+
+## 2026-08-03
+
+- Added: 기존 2019 constituent universe를 사용해 SEC filing metadata만 수집하는 collection-ready manifest adapter를 추가하고, continuous workflow가 manifest를 생성·artifact로 matrix job에 전달하도록 연결했다. (codex)
+
+## 2026-08-03
+
+- Fixed: SEC ticker metadata를 현재 branch의 `data/raw`와 복구 cache에서 먼저 검증·재사용하고, 유효 cache가 있으면 네트워크 요청을 0회로 유지하도록 constituent reconstruction을 수정했다. cache SHA-256·source path·origin·network 여부·timestamp를 manifest와 chain state에 기록한다. (codex)
+- Added: 손상 cache 거부, 결정론적 cache 선택, SEC 요청 최대 1회, HTTP 403 non-retryable 기록 및 `SEC_USER_AGENT` 환경변수 검증을 위한 직접 테스트를 추가했다. (codex)
+- Added: source-supported historical constituent builder와 continuous workflow의 cache preflight를 연결했다. 2020–2025 production panel/dashboard, R2 및 Google Drive는 변경하지 않았다. (codex)
 
 ## 2026-08-02
 

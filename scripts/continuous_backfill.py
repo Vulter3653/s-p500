@@ -135,7 +135,8 @@ def write_json_atomic(path: Path, payload: dict) -> None:
     _atomic_write(path, lambda temporary: temporary.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"))
 
 
-def build_state(args: argparse.Namespace, annual_count: int | None, panel_result: dict | None) -> dict:
+def build_state(args: argparse.Namespace, annual_count: int | None, panel_result: dict | None,
+                sec_metadata: dict | None = None) -> dict:
     prior_streak = int(args.zero_streak)
     status = args.annual_status
     streak = update_zero_streak(prior_streak, status, annual_count) if not args.dry_run else prior_streak
@@ -157,6 +158,7 @@ def build_state(args: argparse.Namespace, annual_count: int | None, panel_result
         "status": "completed" if streak >= 3 else status,
         "stop_reason": "three_consecutive_verified_zero_ai_keyword_years" if streak >= 3 else None,
         "panel": panel_result or {},
+        "sec_ticker_metadata": sec_metadata or {},
         "generated_at": utc_now(),
     }
 
@@ -178,6 +180,7 @@ def main() -> None:
     parser.add_argument("--visited-years", default="")
     parser.add_argument("--annual-status", default="success")
     parser.add_argument("--annual-keyword-count", type=int)
+    parser.add_argument("--sec-metadata", type=Path)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
     panel_result = None
@@ -189,7 +192,10 @@ def main() -> None:
             if not args.output_csv:
                 raise SystemExit("--output-csv is required when publishing a panel")
             panel_result = append_panel(args.prior_panel, args.current_panel, args.output_csv, args.output_parquet, args.protected_panel, False)
-    state = build_state(args, count, panel_result)
+    sec_metadata = None
+    if args.sec_metadata:
+        sec_metadata = json.loads(args.sec_metadata.read_text(encoding="utf-8"))
+    state = build_state(args, count, panel_result, sec_metadata)
     if not args.dry_run:
         write_json_atomic(args.chain_state, state)
     print(json.dumps(state, ensure_ascii=False, sort_keys=True))
@@ -197,4 +203,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

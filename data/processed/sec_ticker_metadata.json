@@ -1,0 +1,8 @@
+{
+  "source_path": "data/raw/sec_company_tickers_2026-07-24.json",
+  "source_sha256": "133a1b0210ca0359abb608698b160a693b95212d53d26b1b9292812d28463a9c",
+  "source_origin": "current_branch_data_raw",
+  "network_requested": false,
+  "retrieved_at_utc": "2026-07-24T00:00:00+00:00",
+  "retryable": false
+}

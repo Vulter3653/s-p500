@@ -56,4 +56,3 @@ def test_atomic_panel_append_preserves_rows(tmp_path: Path):
     assert result["candidate_rows"] == 2
     result_frame = pd.read_csv(output_path)
     assert result_frame["report_year"].tolist() == [2019, 2020]
-

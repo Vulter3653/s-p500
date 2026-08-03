@@ -1,17 +1,49 @@
-## 2026-08-02 - continuous backfill 최소 구현 검증
-
-- 관찰: 원격 integration branch에는 handoff만 있었고 orchestration·state·panel append·dashboard 입력 일반화가 없었다. (codex)
-- 조치: 기존 yearly runner와 merge를 호출하는 단일 workflow, `ai_term_count` 결측 fail-closed 집계, zero-streak 상태 전이, 원자적 candidate panel writer 및 generator의 동적 입력 인수를 추가했다. (codex)
-- 검증: `pytest -q tests/test_continuous_backfill.py tests/test_yearly_batch_generalization.py`는 21건 통과했고, dry-run은 chain-state 파일·commit·dispatch 없이 종료했다. (codex)
-- 남은 위험: 실제 Actions 환경의 artifact 경로, GitHub expression, publication branch 동기화 및 historical constituent manifest 연결은 실제 dry-run에서 확인해야 한다. (codex)
-
-## 2026-08-02 - Codespace 종료 대비 continuous backfill 인수인계
-
-- 관찰: Codespace 종료가 임박해 연속 historical backfill의 orchestration, atomic panel publication 및 dashboard preview를 이 환경에서 구현·실행하기에는 안전한 검증 시간이 부족하다. (codex)
-- 조치: 실제 외부 쓰기 없이 원격 `codex/historical-backfill-continuous` branch에 인수인계 문서와 재접속 명령을 보존했다. runner PR #3 fixture Actions 성공 상태와 보호 대상 파일을 명시했다. (codex)
-- 제한: 실제 SEC 요청, R2/Google Drive 쓰기, annual run, self-dispatch 및 Cloudflare preview는 수행하지 않았다. 다음 Codespace에서 schema·CLI를 재확인한 뒤 구현해야 한다. (codex)
-
 # Debug Log
+
+## 2026-08-03 - package 실행 시 batch runner import 실패
+
+- 재현: run `30786636801`의 prepare manifest validation에서 `ModuleNotFoundError: No module named 'download_10k_html'`가 발생했다. `scripts.run_yearly_10k_batch`가 package 형태로 import될 때 script-local absolute import가 실패한 것이다. (codex)
+- 수정: `run_yearly_10k_batch.py`의 직접 관련 모듈을 package-relative import 우선, direct-script absolute import fallback으로 변경했다. (codex)
+- 검증: Python compile와 `validate_source_manifest` import가 성공했으며, SEC/R2/Drive 작업은 수행하지 않았다. (codex)
+
+## 2026-08-03 - historical manifest adapter의 SEC_USER_AGENT 누락
+
+- 관찰: run `30786436157`의 최초 실패는 `SecClient` 생성 시 `ValueError: SEC_USER_AGENT is not set`이었다. (codex)
+- 영향: SEC filing metadata 요청, R2 write, process-batches 및 finalize는 실행되지 않았다. (codex)
+- 수정: manifest 생성 step 환경에 `${{ secrets.SEC_USER_AGENT }}`를 전달한다. (codex)
+
+## 2026-08-03 - collection-ready manifest 부재 해결 경로
+
+- 관찰: 2019 constituent 결과는 존재하지만 runner가 요구하는 accession·primary document·report date가 포함된 collection-ready manifest는 저장소, Git history, 관련 로컬 경로에 없었다. (codex)
+- 조치: 기존 SEC filing 선택 함수와 cache-aware `SecClient`를 호출하는 최소 adapter를 추가하고, workflow prepare에서만 manifest를 생성해 artifact로 process matrix에 전달하도록 했다. SEC ticker cache는 별도 재요청하지 않는다. (codex)
+- 상태: 코드 경로와 YAML은 정적 검증 완료. manifest 생성은 Actions의 `SEC_USER_AGENT` 환경에서 수행해야 하며, 그 전에는 workflow를 실행하지 않았다. (codex)
+
+## 2026-08-03 - workflow dispatch 필수 입력 보정
+
+- 관찰: GitHub dispatch API가 required `sample_manifest`의 빈 값을 거부해 workflow run을 만들지 않았다(HTTP 422, run ID 없음). (codex)
+- 조치: dispatch에는 목표 경로를 명시하고 prepare 단계가 해당 경로의 파일이 없을 때만 adapter를 실행하도록 변경했다. (codex)
+
+## 2026-08-03 - 첫 continuous run의 adapter import 실패
+
+- 관찰: run `30786328276`의 `prepare`가 `ModuleNotFoundError: No module named 'scripts'`로 실패했다. (codex)
+- 영향: SEC filing 요청, R2 write, batch 및 finalize job은 시작되지 않았다. (codex)
+- 수정: 기존 스크립트와 동일한 package/CLI 양쪽 import fallback을 adapter에 추가한다. (codex)
+
+## 2026-08-03 - workflow 실행 보류: 2019 input manifest 부재
+
+- 확인: cache-first constituent reconstruction과 관련 테스트는 통과했고 작업 branch commit `8ff545f`는 원격 historical branch에 push됐다. (codex)
+- 관찰: workflow 기본 입력인 `2019/sample_503/sample/final_analysis_sample_503.csv`가 현재 branch에 존재하지 않는다. (codex)
+- 판단: manifest가 없거나 연도·batch input이 불명확한 상태에서 Actions를 실행하면 partial 처리·중복 SEC/R2 작업 위험이 있으므로 실행하지 않았다. R2·Google Drive write는 0이다. (codex)
+- 후속: 기존 artifact/manifest를 복구한 후에만 workflow를 1회 실행한다. (codex)
+
+## 2026-08-03 - historical constituent 단계의 SEC 403 재요청 방지
+
+- 재현: historical reconstruction이 `data/raw/sec_company_tickers_*.json`을 찾지 못하면 `https://www.sec.gov/files/company_tickers.json`을 새로 요청했고, Actions run `30742995468`에서 `HTTP 403 Forbidden`으로 중단됐다. (codex)
+- 원인: 기존 SEC ticker metadata가 source/artifact에 존재해도 새 workspace로 전달·복원되지 않아 cache-first 경로가 없었다. 연락처 User-Agent 부재는 별도 위험이지만, 우선순위 위반으로 기존 source를 재사용하지 않은 것이 직접 원인이다. (codex)
+- 수정: 현재 branch `data/raw`, 복구 artifact cache, persistent cache를 우선순위와 결정론적 filename으로 탐색하고 JSON 필수 필드·SHA를 검증한다. 유효 cache는 `network_requested=false`로 metadata sidecar와 constituent manifest에 남긴다. cache가 없을 때만 `SEC_USER_AGENT`로 1회 요청하며 403은 재시도하지 않고 `retryable=false`와 HTTP status를 기록한다. (codex)
+- 검증: valid cache network 0회, cache miss network 1회, 403 호출 1회·non-retryable, corrupt cache 거부, 다중 cache 결정론적 선택, chain-state source metadata 및 continuous state transition 테스트를 포함한 `pytest -q tests/test_sec_metadata_cache.py tests/test_continuous_backfill.py`가 10 passed였다. compile·YAML parse·`git diff --check`도 통과했다. (codex)
+- 실제 단계: `build_full_historical_constituents.py`를 2019년에 한 번 실행했고 `sec_tickers_sha256=133a1b0210ca0359abb608698b160a693b95212d53d26b1b9292812d28463a9c`, source path `data/raw/sec_company_tickers_2026-07-24.json`, network 0회를 확인했다. (codex)
+- 남은 위험: `.git/FETCH_HEAD`가 읽기 전용이라 원격 fetch·commit·push를 수행하지 못했다. continuous workflow와 Actions run은 중복 비용 방지를 위해 실행하지 않았다. (codex)
 
 ## 2026-08-02 - yearly runner의 503개 표본·6개 batch 일반화
 

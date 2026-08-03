@@ -80,6 +80,8 @@ jobs:
       expected_batches: ${{ steps.plan.outputs.expected_batches }}
       minimum_year: ${{ steps.plan.outputs.minimum_year }}
       manifest: ${{ steps.plan.outputs.manifest }}
+      manifest_dir: ${{ steps.plan.outputs.manifest_dir }}
+      sec_metadata_path: ${{ steps.sec-cache.outputs.sec_metadata_path }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -87,6 +89,32 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: python -m pip install -r requirements.txt
+      - name: Resolve SEC ticker metadata cache
+        id: sec-cache
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          from scripts.build_annual_constituents import resolve_sec_ticker_cache
+          _, metadata = resolve_sec_ticker_cache(Path('.').resolve())
+          print(json.dumps(metadata, sort_keys=True))
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
+              output.write('sec_metadata_path=data/processed/sec_ticker_metadata.json\n')
+          PY
+      - name: Generate collection-ready historical manifest when absent
+        env:
+          REPORT_YEAR: ${{ inputs.start_year }}
+          SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          manifest="${SAMPLE_MANIFEST:-${REPORT_YEAR}/sample_503/sample/final_analysis_sample_503.csv}"
+          if [[ ! -f "$manifest" ]]; then
+            python scripts/build_historical_sample_manifest.py --root . --report-year "$REPORT_YEAR" --output "$manifest"
+          else
+            echo "reusing existing collection-ready manifest: $manifest"
+          fi
       - id: plan
         env:
           START_YEAR: ${{ inputs.start_year }}
@@ -115,10 +143,17 @@ jobs:
           chain_id = os.environ["CHAIN_ID"] or f"historical-{os.environ['START_YEAR']}"
           minimum = int(os.environ["MINIMUM_YEAR"]) or 1900
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as target:
-              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\nmanifest={manifest}\n")
+              target.write(f"current_year={year}\nchain_id={chain_id}\nbatch_count={count}\nmanifest={manifest}\nmanifest_dir={Path(manifest).parent}\n")
               target.write(f"expected_batches={','.join(map(str, range(1, count + 1)))}\nminimum_year={minimum}\n")
           print(json.dumps({"year": year, "rows": len(rows), "batch_count": count, "dry_run": os.environ["EXECUTE"].lower() != "true"}))
           PY
+      - name: Preserve collection manifest for batch jobs
+        uses: actions/upload-artifact@v4
+        with:
+          name: historical-${{ inputs.start_year }}-collection-manifest
+          path: ${{ steps.plan.outputs.manifest }}
+          if-no-files-found: error
+          retention-days: 30
 
   process-batches:
     needs: prepare
@@ -143,6 +178,10 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: python -m pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: historical-${{ inputs.start_year }}-collection-manifest
+          path: ${{ needs.prepare.outputs.manifest_dir }}
       - name: Process valid batch
         if: matrix.batch_id <= fromJSON(needs.prepare.outputs.batch_count)
         run: |
@@ -195,7 +234,7 @@ jobs:
       - name: Calculate fail-closed chain transition
         run: |
           count=$(python -c 'import json; print(json.load(open("outputs/${{ needs.prepare.outputs.current_year }}/merged/annual_validation.json"))["annual_ai_keyword_count"])')
-          python scripts/continuous_backfill.py --chain-id "${{ needs.prepare.outputs.chain_id }}" --start-year "${{ inputs.start_year }}" --current-year "${{ needs.prepare.outputs.current_year }}" --minimum-year "${{ needs.prepare.outputs.minimum_year }}" --zero-streak "${{ inputs.zero_streak }}" --visited-years "${{ inputs.visited_years }}" --annual-keyword-count "$count" --chain-state "outputs/${{ needs.prepare.outputs.current_year }}/chain-state.json" --dry-run
+          python scripts/continuous_backfill.py --chain-id "${{ needs.prepare.outputs.chain_id }}" --start-year "${{ inputs.start_year }}" --current-year "${{ needs.prepare.outputs.current_year }}" --minimum-year "${{ needs.prepare.outputs.minimum_year }}" --zero-streak "${{ inputs.zero_streak }}" --visited-years "${{ inputs.visited_years }}" --annual-keyword-count "$count" --sec-metadata "${{ needs.prepare.outputs.sec_metadata_path }}" --chain-state "outputs/${{ needs.prepare.outputs.current_year }}/chain-state.json" --dry-run
       - if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -237,6 +276,7 @@ jobs:
             --zero-streak "${{ inputs.zero_streak }}" \
             --visited-years "${{ inputs.visited_years }}" \
             --annual-status success \
+            --sec-metadata "${{ needs.prepare.outputs.sec_metadata_path }}" \
             --annual-keyword-count "$(python -c 'import json; print(json.load(open("outputs/'"$year"'/merged/annual_validation.json"))["annual_ai_keyword_count"])')"
           python scripts/run_descriptive_pipeline.py --statistics-only \
             --extended-panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
@@ -258,6 +298,9 @@ jobs:
           cp -a panel_historical_candidate /tmp/historical-publication-files/
           cp -a web/public/data/historical-candidate /tmp/historical-publication-files/
           cp -a automation/historical_backfill /tmp/historical-publication-files/
+          cache_path=$(python -c 'import json; print(json.load(open("data/processed/sec_ticker_metadata.json"))["source_path"])')
+          mkdir -p /tmp/historical-publication-files/sec-cache
+          cp "$cache_path" /tmp/historical-publication-files/sec-cache/
           if git ls-remote --exit-code origin refs/heads/historical-dashboard-data >/dev/null 2>&1; then
             git fetch --no-tags origin historical-dashboard-data
             git checkout -B historical-publication origin/historical-dashboard-data
@@ -268,9 +311,11 @@ jobs:
           mkdir -p web/public/data automation/historical_backfill
           cp -a /tmp/historical-publication-files/historical-candidate web/public/data/
           cp -a /tmp/historical-publication-files/historical_backfill/. automation/historical_backfill/
+          mkdir -p data/raw
+          cp -a /tmp/historical-publication-files/sec-cache/. data/raw/
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add panel_historical_candidate web/public/data/historical-candidate automation/historical_backfill
+          git add panel_historical_candidate web/public/data/historical-candidate automation/historical_backfill "data/raw/$(basename "$cache_path")"
           git commit -m "Add validated $year historical panel and dashboard data"
           git push origin historical-publication:historical-dashboard-data
           state="automation/historical_backfill/chain-state.json"
@@ -296,4 +341,3 @@ jobs:
           else
             echo "historical chain stopped: streak=$streak next_year=$next_year"
           fi
-

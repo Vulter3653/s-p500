@@ -1,18 +1,46 @@
-## 2026-08-02 - continuous backfill 최소 구현
-
-- 구현: `.github/workflows/run-historical-backfill-continuous.yml`에 prepare·최대 6개 process-batches·finalize-and-dispatch 구조를 추가했다. 기본값은 dry-run이며 `execute=true`와 명시적 confirmation 없이는 외부 쓰기와 dispatch를 수행하지 않는다. (codex)
-- 구현: `scripts/continuous_backfill.py`가 실제 `ai_term_count`를 사용해 결측을 0으로 오인하지 않고, 3년 연속 검증 0 상태 전이와 원자적 CSV·Parquet candidate append를 처리한다. (codex)
-- 구현: `generate_web_analysis_data.py`가 `--panel`, `--analysis-dir`, `--start-year`, `--end-year`를 받아 historical candidate 입력을 사용할 수 있게 했다. (codex)
-- 검증: continuous fixture 4건과 runner 일반화 테스트를 합쳐 21건 통과, Python compile, workflow YAML parse, dry-run no-write, `git diff --check`를 확인했다. (codex)
-- 제한: 실제 SEC/R2/Google Drive 수집, historical manifest 생성, publication branch push 및 self-dispatch는 아직 실행하지 않았다. (codex)
-
-## 2026-08-02 - 연속 historical backfill 인수인계 보존
-
-- 조치: `codex/historical-backfill-continuous` 원격 branch를 runner 구현 기준에서 생성하고 `docs/handoff-historical-backfill-continuous.md`를 커밋했다. 2019부터 과거 방향으로 계속 진행하고 완전히 검증된 3개 연속 `annual_ai_keyword_count=0`에서만 종료하는 요구사항, candidate panel·dashboard preview·self-dispatch 순서를 기록했다. (codex)
-- 상태: Codespace 종료 대비 원격 보존 완료. 실제 historical 수집, panel 갱신, dashboard publication, SEC/R2/Drive 쓰기 및 main 병합은 아직 수행하지 않았다. (codex)
-- 다음: 새 Codespace에서 PR #2·PR #3와 실제 schema/CLI를 재감사한 뒤 fixture/mock·dry-run을 먼저 구현하고 검증한다. 사용자 승인 전에는 2019 실제 실행을 dispatch하지 않는다. (codex)
-
 # Project Progress and Session Handoff
+
+## 2026-08-03 - yearly batch package import 보정
+
+- 변경: `scripts/run_yearly_10k_batch.py`의 직접 script import를 package-relative import와 direct fallback으로 바꿨다. collection/extraction/language 및 dictionary 모듈의 관련 import를 함께 보정했다. (codex)
+- 검증: `py_compile`, `from scripts.run_yearly_10k_batch import validate_source_manifest`, `git diff --check` 통과. manifest·SEC cache·2019 데이터는 재생성하지 않았다. (codex)
+- 다음: commit/push 후 continuous workflow를 기존 입력으로 1회 재실행하고 prepare 및 batch 진입만 확인한다. (codex)
+
+## 2026-08-03 - prepare의 SEC_USER_AGENT 전달 보정
+
+- run `30786436157`은 manifest adapter의 `SecClient` 초기화에서 `SEC_USER_AGENT is not set`으로 실패했다. SEC filing 요청·R2·batch는 시작되지 않았다. (codex)
+- manifest 생성 step에 repository `SEC_USER_AGENT` secret 전달을 추가한다. 명확한 단일 원인에 대한 허용된 추가 재실행을 수행한다. (codex)
+
+## 2026-08-03 - dispatch 입력 보정
+
+- 확인: 첫 `gh workflow run`은 required `sample_manifest` 빈 입력을 API가 거부해 run을 생성하지 않았다. (codex)
+- 조치: workflow가 명시된 2019 manifest 경로를 재사용하거나 파일 부재 시에만 adapter를 실행하도록 보정했다. (codex)
+
+## 2026-08-03 - 첫 workflow prepare 실패 및 최소 보정
+
+- run `30786328276`은 adapter의 `scripts` import 오류로 prepare 단계에서 실패했다. SEC 요청·R2·Drive 쓰기는 0이다. (codex)
+- package import fallback만 보정하고 허용된 재실행 1회를 준비한다. (codex)
+
+## 2026-08-03 - 2019 collection-ready manifest 생성 경로 연결
+
+- 확인: tracked branch와 관련 history에 `2019/sample_503/sample/final_analysis_sample_503.csv` 및 2019 filing manifest는 없었고, 기존 2019 constituent CSV만 존재했다. (codex)
+- 변경: 기존 2020 filing selector와 `SecClient`를 재사용하는 `scripts/build_historical_sample_manifest.py`를 추가했다. workflow prepare 단계가 2019 manifest를 생성하고 artifact로 batch jobs에 전달한다. (codex)
+- 검증: 새 adapter Python compile, workflow YAML parse, `git diff --check` 통과. 아직 Actions 실행·SEC filing 요청·R2 write는 수행하지 않았다. (codex)
+
+## 2026-08-03 - historical branch push 및 workflow 입력 blocker
+
+- 배포: `8ff545f35d5bbd7c9b0a802333fafde43f76715c`를 `origin/codex/historical-backfill-continuous`에 push했다. main에는 push·merge하지 않았다. (codex)
+- 보류: continuous workflow는 실행하지 않았다. 현재 저장소에 필요한 `2019/sample_503/sample/final_analysis_sample_503.csv`가 없어 workflow input manifest가 불명확하며, partial 입력으로 실행하지 않았다. (codex)
+- 다음 정확한 작업: 기존 artifact 또는 constituent manifest에서 2019 collection-ready sample manifest를 복구한 뒤, cache preflight가 동일 SEC source를 재사용하는 것을 확인하고 workflow를 1회 실행한다. (codex)
+
+## 2026-08-03 - SEC metadata cache-first 복구 및 2019 constituent 검증
+
+- 상태: 작업 시작 HEAD는 `296bea6`; 원격 runner HEAD는 `38a3f1086ac1cbb3dea8cc83244b360db24522dc`, 원격 historical branch HEAD는 `0b997b601e48234b565452c2951cb21512fdbb95`, 원격 main HEAD는 `cc162b21719fb1bf12c0dfaeab1818ad1d2c1d41`이다. `git fetch --all --prune`은 Codespaces의 `.git/FETCH_HEAD` 읽기 전용 제약으로 실행되지 않았다. 종료 당시 미커밋 4개 파일은 모두 복구되었고, 원격 historical branch 구현과 비교해 끝 개행 외 차이가 없었다. (codex)
+- 변경: `build_annual_constituents.py`와 `build_full_historical_constituents.py`가 SEC ticker JSON을 cache-first로 선택하고 JSON 필수 필드를 검증한다. 유효 cache는 SHA 중복을 하나로 처리하며, cache가 없을 때만 `SEC_USER_AGENT`로 단일 요청한다. HTTP 403은 retryable false로 기록한다. (codex)
+- 변경: continuous workflow가 SEC cache preflight를 수행하고, chain state에 source path·SHA-256·origin·network 여부·retrieved timestamp를 전달한다. candidate web generator가 입력 panel의 실제 source path/hash를 기록하도록 보완했다. (codex)
+- 실행: `python scripts/build_full_historical_constituents.py --source-date 2026-07-24 --start-year 2019 --end-year 2019`를 실제 저장소 cache·raw source로 1회 실행했다. 2019 snapshot은 505 securities·501 company rows이며 SEC network request는 0회였다. (codex)
+- 검증: 관련 pytest 10 passed, Python compile, workflow YAML parse 및 `git diff --check`가 통과했다. continuous GitHub Actions는 실행하지 않았고 R2·Google Drive write, main merge/push, 기존 2020–2025 panel/dashboard 변경은 0이다. (codex)
+- 다음: `.git` 쓰기 권한이 있는 환경에서 변경을 기능 단위 commit하고 `codex/historical-backfill-continuous`에 push한 뒤, 동일 workflow를 1회 dry-run/승인 실행한다. (codex)
 
 ## 2026-08-02 - 503개 표본·6개 batch runner 일반화
 
