@@ -1,3 +1,8 @@
+## 2026-08-03 — Codespace termination handoff (codex)
+
+- Active run: `30794955519`; no failure was observed before Codespace shutdown. The long-running step is canonical extension measurement over 441 reused historical documents.
+- No local uncommitted changes are required for continuation; remote `main` is the source of truth. Resume by reading `docs/handoff-current-run.md` and inspecting the first failed Actions step, if any. (codex)
+
 ## 2026-08-03 — Existing artifact extension path (codex)
 
 - The five existing 2019 batch artifacts were downloaded from run `30788897235`; 441 analysis-text files are available after the fourth artifact was refreshed.
