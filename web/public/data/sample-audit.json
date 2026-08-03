@@ -1,6 +1,13 @@
 {
-  "panel_rows": 4625,
+  "panel_rows": 4694,
   "year_rows": [
+    {
+      "report_year": 2012,
+      "firm_year_count": 69,
+      "unique_company_count": 69,
+      "ai_disclosure_count": 2,
+      "ai_disclosure_rate": 0.0289855072463768
+    },
     {
       "report_year": 2013,
       "firm_year_count": 96,
