@@ -1,5 +1,13 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - historical backfill dashboard dependency fix
+
+- Run `30788228058`: prepare, all five valid batches, merge, and annual AI keyword validation succeeded; dashboard generation failed because `yaml` was unavailable.
+- Fixed: added `PyYAML==6.0.2` to `requirements.txt` on `main`.
+- No rerun has been started after the fix. The failed run performed no panel/dashboard publication or next-year dispatch.
+- Next: dispatch one corrected `main` run and verify dashboard generation, annual main merge, and next-year dispatch.
+ (codex)
+
 ## 2026-08-03 - yearly batch package import 보정
 
 - 변경: `scripts/run_yearly_10k_batch.py`의 직접 script import를 package-relative import와 direct fallback으로 바꿨다. collection/extraction/language 및 dictionary 모듈의 관련 import를 함께 보정했다. (codex)
