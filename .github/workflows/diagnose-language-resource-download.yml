@@ -23,14 +23,21 @@ jobs:
           python - <<'PY'
           from __future__ import annotations
 
+          import csv
           import hashlib
+          import io
           from urllib.request import Request, urlopen
 
           resources = [
               (
-                  "LM",
+                  "LM Drive CSV",
                   "https://drive.usercontent.google.com/download?id=1iq2RUf8qGFEAk1g8wQntP3habOnR3fXF&export=download&confirm=t",
                   "e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d",
+              ),
+              (
+                  "LM Sheets CSV export",
+                  "https://docs.google.com/spreadsheets/d/1P3KtWuDyQT2Eu_VwTU3D2sEeQxR9dWCS/export?format=csv",
+                  "",
               ),
               (
                   "Brysbaert",
@@ -58,8 +65,16 @@ jobs:
                   print(f"bytes={len(payload)}")
                   print(f"expected_sha256={expected}")
                   print(f"actual_sha256={actual}")
-                  print(f"sha_match={actual == expected}")
+                  print(f"sha_match={bool(expected) and actual == expected}")
                   print(f"prefix_hex={payload[:64].hex()}")
+                  if name == "LM Sheets CSV export":
+                      text = payload.decode("utf-8-sig")
+                      reader = csv.DictReader(io.StringIO(text))
+                      rows = list(reader)
+                      print(f"fieldnames={reader.fieldnames}")
+                      print(f"row_count={len(rows)}")
+                      print(f"first_word={rows[0].get('Word', '') if rows else ''}")
+                      print(f"last_word={rows[-1].get('Word', '') if rows else ''}")
               except Exception as error:
                   print(f"exception_type={type(error).__name__}")
                   print(f"exception_message={error}")
