@@ -1,5 +1,11 @@
 # Debug Log
 
+## 2026-08-03 - historical manifest adapter의 SEC_USER_AGENT 누락
+
+- 관찰: run `30786436157`의 최초 실패는 `SecClient` 생성 시 `ValueError: SEC_USER_AGENT is not set`이었다. (codex)
+- 영향: SEC filing metadata 요청, R2 write, process-batches 및 finalize는 실행되지 않았다. (codex)
+- 수정: manifest 생성 step 환경에 `${{ secrets.SEC_USER_AGENT }}`를 전달한다. (codex)
+
 ## 2026-08-03 - collection-ready manifest 부재 해결 경로
 
 - 관찰: 2019 constituent 결과는 존재하지만 runner가 요구하는 accession·primary document·report date가 포함된 collection-ready manifest는 저장소, Git history, 관련 로컬 경로에 없었다. (codex)

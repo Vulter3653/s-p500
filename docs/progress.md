@@ -1,5 +1,10 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - prepare의 SEC_USER_AGENT 전달 보정
+
+- run `30786436157`은 manifest adapter의 `SecClient` 초기화에서 `SEC_USER_AGENT is not set`으로 실패했다. SEC filing 요청·R2·batch는 시작되지 않았다. (codex)
+- manifest 생성 step에 repository `SEC_USER_AGENT` secret 전달을 추가한다. 명확한 단일 원인에 대한 허용된 추가 재실행을 수행한다. (codex)
+
 ## 2026-08-03 - dispatch 입력 보정
 
 - 확인: 첫 `gh workflow run`은 required `sample_manifest` 빈 입력을 API가 거부해 run을 생성하지 않았다. (codex)

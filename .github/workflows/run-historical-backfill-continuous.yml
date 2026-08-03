@@ -107,6 +107,7 @@ jobs:
         env:
           REPORT_YEAR: ${{ inputs.start_year }}
           SAMPLE_MANIFEST: ${{ inputs.sample_manifest }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: |
           manifest="${SAMPLE_MANIFEST:-${REPORT_YEAR}/sample_503/sample/final_analysis_sample_503.csv}"
           if [[ ! -f "$manifest" ]]; then
