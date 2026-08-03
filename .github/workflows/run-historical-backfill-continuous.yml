@@ -60,6 +60,11 @@ on:
         required: false
         type: string
         default: ""
+      reuse_run_id:
+        description: Completed run whose batch artifacts should be reused for finalize-only recovery
+        required: false
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -157,7 +162,7 @@ jobs:
 
   process-batches:
     needs: prepare
-    if: needs.prepare.result == 'success'
+    if: needs.prepare.result == 'success' && inputs.reuse_run_id == ''
     strategy:
       fail-fast: true
       max-parallel: 6
@@ -200,7 +205,7 @@ jobs:
 
   finalize-and-dispatch:
     needs: [prepare, process-batches]
-    if: needs.prepare.result == 'success' && needs.process-batches.result == 'success'
+    if: needs.prepare.result == 'success' && (needs.process-batches.result == 'success' || (needs.process-batches.result == 'skipped' && inputs.reuse_run_id != ''))
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -214,6 +219,8 @@ jobs:
         with:
           pattern: historical-${{ needs.prepare.outputs.current_year }}-batch-*
           path: outputs/${{ needs.prepare.outputs.current_year }}/batches
+          run-id: ${{ inputs.reuse_run_id || github.run_id }}
+          github-token: ${{ github.token }}
       - name: Merge yearly batches
         run: |
           python scripts/merge_yearly_10k_batches.py --report-year "${{ needs.prepare.outputs.current_year }}" --input-dir "outputs/${{ needs.prepare.outputs.current_year }}/batches" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/merged" --expected-batches "${{ needs.prepare.outputs.expected_batches }}"
