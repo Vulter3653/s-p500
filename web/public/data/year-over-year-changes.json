@@ -1,11 +1,19 @@
 [
   {
     "variable": "ai_disclosure_all",
-    "report_year": 2018,
-    "mean_value": 0.1666666666666666,
+    "report_year": 2017,
+    "mean_value": 0.1061093247588424,
     "year_over_year_absolute_change": null,
     "year_over_year_change_rate": null,
     "change_from_2020": 0.0
+  },
+  {
+    "variable": "ai_disclosure_all",
+    "report_year": 2018,
+    "mean_value": 0.1666666666666666,
+    "year_over_year_absolute_change": 0.0605573419078242,
+    "year_over_year_change_rate": 0.5707070707070707,
+    "change_from_2020": 0.0605573419078242
   },
   {
     "variable": "ai_disclosure_all",
@@ -13,7 +21,7 @@
     "mean_value": 0.2244897959183673,
     "year_over_year_absolute_change": 0.0578231292517006,
     "year_over_year_change_rate": 0.3469387755102041,
-    "change_from_2020": 0.0578231292517006
+    "change_from_2020": 0.1183804711595249
   },
   {
     "variable": "ai_disclosure_all",
@@ -21,7 +29,7 @@
     "mean_value": 0.2757847533632287,
     "year_over_year_absolute_change": 0.0512949574448613,
     "year_over_year_change_rate": 0.2284957195271097,
-    "change_from_2020": 0.109118086696562
+    "change_from_2020": 0.1696754286043862
   },
   {
     "variable": "ai_disclosure_all",
@@ -29,7 +37,7 @@
     "mean_value": 0.3116883116883117,
     "year_over_year_absolute_change": 0.0359035583250829,
     "year_over_year_change_rate": 0.1301868862844471,
-    "change_from_2020": 0.145021645021645
+    "change_from_2020": 0.2055789869294692
   },
   {
     "variable": "ai_disclosure_all",
@@ -37,7 +45,7 @@
     "mean_value": 0.3545647558386411,
     "year_over_year_absolute_change": 0.0428764441503294,
     "year_over_year_change_rate": 0.1375619249823071,
-    "change_from_2020": 0.1878980891719745
+    "change_from_2020": 0.2484554310797987
   },
   {
     "variable": "ai_disclosure_all",
@@ -45,7 +53,7 @@
     "mean_value": 0.6826722338204593,
     "year_over_year_absolute_change": 0.3281074779818181,
     "year_over_year_change_rate": 0.9253809708349482,
-    "change_from_2020": 0.5160055671537926
+    "change_from_2020": 0.5765629090616169
   },
   {
     "variable": "ai_disclosure_all",
@@ -53,7 +61,7 @@
     "mean_value": 0.8850102669404517,
     "year_over_year_absolute_change": 0.2023380331199924,
     "year_over_year_change_rate": 0.2963911861298972,
-    "change_from_2020": 0.7183436002737851
+    "change_from_2020": 0.7789009421816093
   },
   {
     "variable": "ai_disclosure_all",
@@ -61,14 +69,22 @@
     "mean_value": 0.9669421487603306,
     "year_over_year_absolute_change": 0.0819318818198788,
     "year_over_year_change_rate": 0.0925773235412552,
-    "change_from_2020": 0.800275482093664
+    "change_from_2020": 0.8608328240014882
+  },
+  {
+    "variable": "ai_disclosure_disclosers",
+    "report_year": 2017,
+    "mean_value": 1.0,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_disclosure_disclosers",
     "report_year": 2018,
     "mean_value": 1.0,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
+    "year_over_year_absolute_change": 0.0,
+    "year_over_year_change_rate": 0.0,
     "change_from_2020": 0.0
   },
   {
@@ -129,11 +145,19 @@
   },
   {
     "variable": "ai_sentence_count_all",
-    "report_year": 2018,
-    "mean_value": 0.6953125,
+    "report_year": 2017,
+    "mean_value": 0.4340836012861736,
     "year_over_year_absolute_change": null,
     "year_over_year_change_rate": null,
     "change_from_2020": 0.0
+  },
+  {
+    "variable": "ai_sentence_count_all",
+    "report_year": 2018,
+    "mean_value": 0.6953125,
+    "year_over_year_absolute_change": 0.2612288987138264,
+    "year_over_year_change_rate": 0.6017939814814816,
+    "change_from_2020": 0.2612288987138264
   },
   {
     "variable": "ai_sentence_count_all",
@@ -141,7 +165,7 @@
     "mean_value": 0.979591836734694,
     "year_over_year_absolute_change": 0.2842793367346938,
     "year_over_year_change_rate": 0.4088511809218069,
-    "change_from_2020": 0.2842793367346938
+    "change_from_2020": 0.5455082354485202
   },
   {
     "variable": "ai_sentence_count_all",
@@ -149,7 +173,7 @@
     "mean_value": 1.3789237668161436,
     "year_over_year_absolute_change": 0.3993319300814497,
     "year_over_year_change_rate": 0.4076513452914799,
-    "change_from_2020": 0.6836112668161436
+    "change_from_2020": 0.94484016552997
   },
   {
     "variable": "ai_sentence_count_all",
@@ -157,7 +181,7 @@
     "mean_value": 1.5952380952380951,
     "year_over_year_absolute_change": 0.2163143284219517,
     "year_over_year_change_rate": 0.15687185443283,
-    "change_from_2020": 0.8999255952380953
+    "change_from_2020": 1.1611544939519218
   },
   {
     "variable": "ai_sentence_count_all",
@@ -165,7 +189,7 @@
     "mean_value": 1.872611464968153,
     "year_over_year_absolute_change": 0.2773733697300575,
     "year_over_year_change_rate": 0.1738758437113793,
-    "change_from_2020": 1.177298964968153
+    "change_from_2020": 1.4385278636819794
   },
   {
     "variable": "ai_sentence_count_all",
@@ -173,7 +197,7 @@
     "mean_value": 6.225469728601253,
     "year_over_year_absolute_change": 4.3528582636331,
     "year_over_year_change_rate": 2.324485535341485,
-    "change_from_2020": 5.530157228601253
+    "change_from_2020": 5.791386127315079
   },
   {
     "variable": "ai_sentence_count_all",
@@ -181,7 +205,7 @@
     "mean_value": 11.706365503080082,
     "year_over_year_absolute_change": 5.48089577447883,
     "year_over_year_change_rate": 0.8803987511654459,
-    "change_from_2020": 11.011053003080082
+    "change_from_2020": 11.272281901793908
   },
   {
     "variable": "ai_sentence_count_all",
@@ -189,15 +213,23 @@
     "mean_value": 17.892561983471076,
     "year_over_year_absolute_change": 6.1861964803909935,
     "year_over_year_change_rate": 0.5284472348623774,
-    "change_from_2020": 17.197249483471076
+    "change_from_2020": 17.458478382184904
+  },
+  {
+    "variable": "ai_sentence_count_disclosers",
+    "report_year": 2017,
+    "mean_value": 4.090909090909091,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_sentence_count_disclosers",
     "report_year": 2018,
     "mean_value": 4.171875,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0809659090909091,
+    "year_over_year_change_rate": 0.0197916666666666,
+    "change_from_2020": 0.0809659090909091
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -205,7 +237,7 @@
     "mean_value": 4.363636363636363,
     "year_over_year_absolute_change": 0.1917613636363633,
     "year_over_year_change_rate": 0.0459652706843717,
-    "change_from_2020": 0.1917613636363633
+    "change_from_2020": 0.2727272727272725
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -213,7 +245,7 @@
     "mean_value": 5.0,
     "year_over_year_absolute_change": 0.6363636363636367,
     "year_over_year_change_rate": 0.1458333333333334,
-    "change_from_2020": 0.828125
+    "change_from_2020": 0.9090909090909092
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -221,7 +253,7 @@
     "mean_value": 5.118055555555555,
     "year_over_year_absolute_change": 0.1180555555555553,
     "year_over_year_change_rate": 0.023611111111111,
-    "change_from_2020": 0.9461805555555554
+    "change_from_2020": 1.0271464646464643
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -229,7 +261,7 @@
     "mean_value": 5.281437125748503,
     "year_over_year_absolute_change": 0.1633815701929473,
     "year_over_year_change_rate": 0.031922586306356,
-    "change_from_2020": 1.1095621257485029
+    "change_from_2020": 1.1905280348394118
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -237,7 +269,7 @@
     "mean_value": 9.119266055045872,
     "year_over_year_absolute_change": 3.837828929297369,
     "year_over_year_change_rate": 0.72666375418669,
-    "change_from_2020": 4.947391055045872
+    "change_from_2020": 5.028356964136781
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -245,7 +277,7 @@
     "mean_value": 13.22737819025522,
     "year_over_year_absolute_change": 4.10811213520935,
     "year_over_year_change_rate": 0.450487145611488,
-    "change_from_2020": 9.05550319025522
+    "change_from_2020": 9.13646909934613
   },
   {
     "variable": "ai_sentence_count_disclosers",
@@ -253,15 +285,23 @@
     "mean_value": 18.504273504273502,
     "year_over_year_absolute_change": 5.276895314018285,
     "year_over_year_change_rate": 0.3989373584181513,
-    "change_from_2020": 14.332398504273506
+    "change_from_2020": 14.413364413364416
+  },
+  {
+    "variable": "whole_report_concreteness_all",
+    "report_year": 2017,
+    "mean_value": 2.917254283022508,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "whole_report_concreteness_all",
     "report_year": 2018,
     "mean_value": 2.913220973125,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": -0.0040333098975078,
+    "year_over_year_change_rate": -0.001382570563348,
+    "change_from_2020": -0.0040333098975078
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -269,7 +309,7 @@
     "mean_value": 2.9084264399092965,
     "year_over_year_absolute_change": -0.0047945332157035,
     "year_over_year_change_rate": -0.0016457842573337,
-    "change_from_2020": -0.0047945332157035
+    "change_from_2020": -0.0088278431132113
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -277,7 +317,7 @@
     "mean_value": 2.9040343928026906,
     "year_over_year_absolute_change": -0.0043920471066059,
     "year_over_year_change_rate": -0.0015101111193112,
-    "change_from_2020": -0.0091865803223094
+    "change_from_2020": -0.0132198902198172
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -285,7 +325,7 @@
     "mean_value": 2.9030481245238096,
     "year_over_year_absolute_change": -0.000986268278881,
     "year_over_year_change_rate": -0.0003396200407699,
-    "change_from_2020": -0.0101728486011904
+    "change_from_2020": -0.0142061584986983
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -293,7 +333,7 @@
     "mean_value": 2.902210867983015,
     "year_over_year_absolute_change": -0.0008372565407945,
     "year_over_year_change_rate": -0.0002884060149474,
-    "change_from_2020": -0.011010105141985
+    "change_from_2020": -0.0150434150394929
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -301,7 +341,7 @@
     "mean_value": 2.8987624537787053,
     "year_over_year_absolute_change": -0.0034484142043096,
     "year_over_year_change_rate": -0.0011882024984305,
-    "change_from_2020": -0.0144585193462947
+    "change_from_2020": -0.0184918292438025
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -309,7 +349,7 @@
     "mean_value": 2.89629148412731,
     "year_over_year_absolute_change": -0.0024709696513953,
     "year_over_year_change_rate": -0.0008524222632228,
-    "change_from_2020": -0.01692948899769
+    "change_from_2020": -0.0209627988951979
   },
   {
     "variable": "whole_report_concreteness_all",
@@ -317,15 +357,23 @@
     "mean_value": 2.892020710640496,
     "year_over_year_absolute_change": -0.0042707734868145,
     "year_over_year_change_rate": -0.0014745661858345,
-    "change_from_2020": -0.0212002624845046
+    "change_from_2020": -0.0252335723820125
+  },
+  {
+    "variable": "ai_concreteness_all",
+    "report_year": 2017,
+    "mean_value": 3.0573025687878794,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_concreteness_all",
     "report_year": 2018,
     "mean_value": 2.993203204375,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": -0.0640993644128795,
+    "year_over_year_change_rate": -0.0209659865095697,
+    "change_from_2020": -0.0640993644128795
   },
   {
     "variable": "ai_concreteness_all",
@@ -333,7 +381,7 @@
     "mean_value": 3.001840639292929,
     "year_over_year_absolute_change": 0.008637434917929,
     "year_over_year_change_rate": 0.0028856827713214,
-    "change_from_2020": 0.008637434917929
+    "change_from_2020": -0.0554619294949505
   },
   {
     "variable": "ai_concreteness_all",
@@ -341,7 +389,7 @@
     "mean_value": 2.9943537375609752,
     "year_over_year_absolute_change": -0.0074869017319536,
     "year_over_year_change_rate": -0.0024941036622507,
-    "change_from_2020": 0.0011505331859753
+    "change_from_2020": -0.0629488312269042
   },
   {
     "variable": "ai_concreteness_all",
@@ -349,7 +397,7 @@
     "mean_value": 2.984715715069445,
     "year_over_year_absolute_change": -0.0096380224915306,
     "year_over_year_change_rate": -0.0032187320992279,
-    "change_from_2020": -0.0084874893055553
+    "change_from_2020": -0.0725868537184348
   },
   {
     "variable": "ai_concreteness_all",
@@ -357,7 +405,7 @@
     "mean_value": 2.9506996165662653,
     "year_over_year_absolute_change": -0.0340160985031792,
     "year_over_year_change_rate": -0.0113967632935479,
-    "change_from_2020": -0.0425035878087345
+    "change_from_2020": -0.106602952221614
   },
   {
     "variable": "ai_concreteness_all",
@@ -365,7 +413,7 @@
     "mean_value": 2.792480911284404,
     "year_over_year_absolute_change": -0.158218705281862,
     "year_over_year_change_rate": -0.0536207428209793,
-    "change_from_2020": -0.2007222930905965
+    "change_from_2020": -0.2648216575034761
   },
   {
     "variable": "ai_concreteness_all",
@@ -373,7 +421,7 @@
     "mean_value": 2.7411476831322505,
     "year_over_year_absolute_change": -0.0513332281521528,
     "year_over_year_change_rate": -0.0183826603593655,
-    "change_from_2020": -0.2520555212427493
+    "change_from_2020": -0.3161548856556289
   },
   {
     "variable": "ai_concreteness_all",
@@ -381,15 +429,23 @@
     "mean_value": 2.7356576442521368,
     "year_over_year_absolute_change": -0.0054900388801137,
     "year_over_year_change_rate": -0.0020028249166934,
-    "change_from_2020": -0.2575455601228631
+    "change_from_2020": -0.3216449245357426
+  },
+  {
+    "variable": "ai_concreteness_disclosers",
+    "report_year": 2017,
+    "mean_value": 3.0573025687878785,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_concreteness_disclosers",
     "report_year": 2018,
     "mean_value": 2.9932032043750003,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": -0.0640993644128782,
+    "year_over_year_change_rate": -0.0209659865095693,
+    "change_from_2020": -0.0640993644128782
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -397,7 +453,7 @@
     "mean_value": 3.0018406392929293,
     "year_over_year_absolute_change": 0.008637434917929,
     "year_over_year_change_rate": 0.0028856827713214,
-    "change_from_2020": 0.008637434917929
+    "change_from_2020": -0.0554619294949492
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -405,7 +461,7 @@
     "mean_value": 2.994353737560976,
     "year_over_year_absolute_change": -0.0074869017319536,
     "year_over_year_change_rate": -0.0024941036622507,
-    "change_from_2020": 0.0011505331859753
+    "change_from_2020": -0.0629488312269028
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -413,7 +469,7 @@
     "mean_value": 2.984715715069445,
     "year_over_year_absolute_change": -0.0096380224915311,
     "year_over_year_change_rate": -0.003218732099228,
-    "change_from_2020": -0.0084874893055557
+    "change_from_2020": -0.0725868537184339
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -421,7 +477,7 @@
     "mean_value": 2.9506996165662653,
     "year_over_year_absolute_change": -0.0340160985031792,
     "year_over_year_change_rate": -0.0113967632935479,
-    "change_from_2020": -0.0425035878087349
+    "change_from_2020": -0.1066029522216132
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -429,7 +485,7 @@
     "mean_value": 2.792480911284404,
     "year_over_year_absolute_change": -0.1582187052818615,
     "year_over_year_change_rate": -0.0536207428209791,
-    "change_from_2020": -0.2007222930905965
+    "change_from_2020": -0.2648216575034747
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -437,7 +493,7 @@
     "mean_value": 2.7411476831322505,
     "year_over_year_absolute_change": -0.0513332281521532,
     "year_over_year_change_rate": -0.0183826603593657,
-    "change_from_2020": -0.2520555212427497
+    "change_from_2020": -0.316154885655628
   },
   {
     "variable": "ai_concreteness_disclosers",
@@ -445,15 +501,23 @@
     "mean_value": 2.7356576442521368,
     "year_over_year_absolute_change": -0.0054900388801137,
     "year_over_year_change_rate": -0.0020028249166934,
-    "change_from_2020": -0.2575455601228635
+    "change_from_2020": -0.3216449245357418
+  },
+  {
+    "variable": "past_tense_share_all",
+    "report_year": 2017,
+    "mean_value": 0.2582403816355202,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "past_tense_share_all",
     "report_year": 2018,
     "mean_value": 0.259017223382968,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0007768417474477,
+    "year_over_year_change_rate": 0.0030082117387209,
+    "change_from_2020": 0.0007768417474477
   },
   {
     "variable": "past_tense_share_all",
@@ -461,7 +525,7 @@
     "mean_value": 0.2498492535151678,
     "year_over_year_absolute_change": -0.0091679698678001,
     "year_over_year_change_rate": -0.0353952132914532,
-    "change_from_2020": -0.0091679698678001
+    "change_from_2020": -0.0083911281203523
   },
   {
     "variable": "past_tense_share_all",
@@ -469,7 +533,7 @@
     "mean_value": 0.2482586002618229,
     "year_over_year_absolute_change": -0.0015906532533449,
     "year_over_year_change_rate": -0.0063664518943554,
-    "change_from_2020": -0.010758623121145
+    "change_from_2020": -0.0099817813736973
   },
   {
     "variable": "past_tense_share_all",
@@ -477,7 +541,7 @@
     "mean_value": 0.2389298130012546,
     "year_over_year_absolute_change": -0.0093287872605682,
     "year_over_year_change_rate": -0.0375768946200847,
-    "change_from_2020": -0.0200874103817133
+    "change_from_2020": -0.0193105686342655
   },
   {
     "variable": "past_tense_share_all",
@@ -485,7 +549,7 @@
     "mean_value": 0.2331491175972518,
     "year_over_year_absolute_change": -0.0057806954040028,
     "year_over_year_change_rate": -0.0241941151310929,
-    "change_from_2020": -0.0258681057857161
+    "change_from_2020": -0.0250912640382684
   },
   {
     "variable": "past_tense_share_all",
@@ -493,7 +557,7 @@
     "mean_value": 0.2230673386847842,
     "year_over_year_absolute_change": -0.0100817789124675,
     "year_over_year_change_rate": -0.0432417631100929,
-    "change_from_2020": -0.0359498846981837
+    "change_from_2020": -0.035173042950736
   },
   {
     "variable": "past_tense_share_all",
@@ -501,7 +565,7 @@
     "mean_value": 0.217387116806511,
     "year_over_year_absolute_change": -0.0056802218782732,
     "year_over_year_change_rate": -0.0254641576474805,
-    "change_from_2020": -0.041630106576457
+    "change_from_2020": -0.0408532648290092
   },
   {
     "variable": "past_tense_share_all",
@@ -509,15 +573,23 @@
     "mean_value": 0.2141465360650065,
     "year_over_year_absolute_change": -0.0032405807415044,
     "year_over_year_change_rate": -0.0149069585590428,
-    "change_from_2020": -0.0448706873179614
+    "change_from_2020": -0.0440938455705137
+  },
+  {
+    "variable": "present_tense_share_all",
+    "report_year": 2017,
+    "mean_value": 0.702132557202036,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "present_tense_share_all",
     "report_year": 2018,
     "mean_value": 0.7037846742080539,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0016521170060178,
+    "year_over_year_change_rate": 0.0023529987166546,
+    "change_from_2020": 0.0016521170060178
   },
   {
     "variable": "present_tense_share_all",
@@ -525,7 +597,7 @@
     "mean_value": 0.7157679742040579,
     "year_over_year_absolute_change": 0.011983299996004,
     "year_over_year_change_rate": 0.0170269408174999,
-    "change_from_2020": 0.011983299996004
+    "change_from_2020": 0.0136354170020218
   },
   {
     "variable": "present_tense_share_all",
@@ -533,7 +605,7 @@
     "mean_value": 0.7181197356464725,
     "year_over_year_absolute_change": 0.0023517614424145,
     "year_over_year_change_rate": 0.003285647761804,
-    "change_from_2020": 0.0143350614384185
+    "change_from_2020": 0.0159871784444364
   },
   {
     "variable": "present_tense_share_all",
@@ -541,7 +613,7 @@
     "mean_value": 0.72786505666608,
     "year_over_year_absolute_change": 0.0097453210196075,
     "year_over_year_change_rate": 0.0135706074291838,
-    "change_from_2020": 0.0240803824580261
+    "change_from_2020": 0.0257324994640439
   },
   {
     "variable": "present_tense_share_all",
@@ -549,7 +621,7 @@
     "mean_value": 0.7340804672846265,
     "year_over_year_absolute_change": 0.0062154106185464,
     "year_over_year_change_rate": 0.0085392347958227,
-    "change_from_2020": 0.0302957930765725
+    "change_from_2020": 0.0319479100825904
   },
   {
     "variable": "present_tense_share_all",
@@ -557,7 +629,7 @@
     "mean_value": 0.7448144985729604,
     "year_over_year_absolute_change": 0.0107340312883339,
     "year_over_year_change_rate": 0.0146224177957482,
-    "change_from_2020": 0.0410298243649065
+    "change_from_2020": 0.0426819413709244
   },
   {
     "variable": "present_tense_share_all",
@@ -565,7 +637,7 @@
     "mean_value": 0.7503539683716886,
     "year_over_year_absolute_change": 0.0055394697987281,
     "year_over_year_change_rate": 0.0074373818035786,
-    "change_from_2020": 0.0465692941636346
+    "change_from_2020": 0.0482214111696525
   },
   {
     "variable": "present_tense_share_all",
@@ -573,15 +645,23 @@
     "mean_value": 0.7533904280103063,
     "year_over_year_absolute_change": 0.0030364596386177,
     "year_over_year_change_rate": 0.0040467029783384,
-    "change_from_2020": 0.0496057538022524
+    "change_from_2020": 0.0512578708082702
+  },
+  {
+    "variable": "future_tense_share_all",
+    "report_year": 2017,
+    "mean_value": 0.0396270611624436,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "future_tense_share_all",
     "report_year": 2018,
     "mean_value": 0.0371981024089779,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": -0.0024289587534656,
+    "year_over_year_change_rate": -0.0612954552321864,
+    "change_from_2020": -0.0024289587534656
   },
   {
     "variable": "future_tense_share_all",
@@ -589,7 +669,7 @@
     "mean_value": 0.0343827722807742,
     "year_over_year_absolute_change": -0.0028153301282037,
     "year_over_year_change_rate": -0.0756847781440656,
-    "change_from_2020": -0.0028153301282037
+    "change_from_2020": -0.0052442888816694
   },
   {
     "variable": "future_tense_share_all",
@@ -597,7 +677,7 @@
     "mean_value": 0.0336216640917044,
     "year_over_year_absolute_change": -0.0007611081890697,
     "year_over_year_change_rate": -0.0221363240536415,
-    "change_from_2020": -0.0035764383172735
+    "change_from_2020": -0.0060053970707391
   },
   {
     "variable": "future_tense_share_all",
@@ -605,7 +685,7 @@
     "mean_value": 0.0332051303326652,
     "year_over_year_absolute_change": -0.0004165337590392,
     "year_over_year_change_rate": -0.0123888501741951,
-    "change_from_2020": -0.0039929720763127
+    "change_from_2020": -0.0064219308297784
   },
   {
     "variable": "future_tense_share_all",
@@ -613,7 +693,7 @@
     "mean_value": 0.0327704151181216,
     "year_over_year_absolute_change": -0.0004347152145435,
     "year_over_year_change_rate": -0.013091808711136,
-    "change_from_2020": -0.0044276872908563
+    "change_from_2020": -0.006856646044322
   },
   {
     "variable": "future_tense_share_all",
@@ -621,7 +701,7 @@
     "mean_value": 0.0321181627422552,
     "year_over_year_absolute_change": -0.0006522523758664,
     "year_over_year_change_rate": -0.0199036958645582,
-    "change_from_2020": -0.0050799396667227
+    "change_from_2020": -0.0075088984201884
   },
   {
     "variable": "future_tense_share_all",
@@ -629,7 +709,7 @@
     "mean_value": 0.0322589148218005,
     "year_over_year_absolute_change": 0.0001407520795453,
     "year_over_year_change_rate": 0.0043823203921976,
-    "change_from_2020": -0.0049391875871774
+    "change_from_2020": -0.0073681463406431
   },
   {
     "variable": "future_tense_share_all",
@@ -637,15 +717,23 @@
     "mean_value": 0.032463035924687,
     "year_over_year_absolute_change": 0.0002041211028865,
     "year_over_year_change_rate": 0.0063275873975964,
-    "change_from_2020": -0.0047350664842908
+    "change_from_2020": -0.0071640252377565
+  },
+  {
+    "variable": "lm_uncertainty_share_all",
+    "report_year": 2017,
+    "mean_value": 0.0168138569131832,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "lm_uncertainty_share_all",
     "report_year": 2018,
     "mean_value": 0.0167827753385416,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": -3.108157464161085e-05,
+    "year_over_year_change_rate": -0.0018485689988976,
+    "change_from_2020": -3.108157464161085e-05
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -653,7 +741,7 @@
     "mean_value": 0.0170140998639455,
     "year_over_year_absolute_change": 0.0002313245254039,
     "year_over_year_change_rate": 0.0137834488478598,
-    "change_from_2020": 0.0002313245254039
+    "change_from_2020": 0.0002002429507623
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -661,7 +749,7 @@
     "mean_value": 0.0170672157174887,
     "year_over_year_absolute_change": 5.311585354321122e-05,
     "year_over_year_change_rate": 0.0031218726801861,
-    "change_from_2020": 0.0002844403789471
+    "change_from_2020": 0.0002533588043055
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -669,7 +757,7 @@
     "mean_value": 0.0173614975757575,
     "year_over_year_absolute_change": 0.0002942818582687,
     "year_over_year_change_rate": 0.017242522924652,
-    "change_from_2020": 0.0005787222372159
+    "change_from_2020": 0.0005476406625742
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -677,7 +765,7 @@
     "mean_value": 0.0174523022929936,
     "year_over_year_absolute_change": 9.080471723605515e-05,
     "year_over_year_change_rate": 0.0052302352858574,
-    "change_from_2020": 0.0006695269544519
+    "change_from_2020": 0.0006384453798103
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -685,7 +773,7 @@
     "mean_value": 0.0177683760125261,
     "year_over_year_absolute_change": 0.0003160737195324,
     "year_over_year_change_rate": 0.0181107176707202,
-    "change_from_2020": 0.0009856006739844
+    "change_from_2020": 0.0009545190993428
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -693,7 +781,7 @@
     "mean_value": 0.0179907001232032,
     "year_over_year_absolute_change": 0.0002223241106771,
     "year_over_year_change_rate": 0.0125123483722122,
-    "change_from_2020": 0.0012079247846616
+    "change_from_2020": 0.00117684321002
   },
   {
     "variable": "lm_uncertainty_share_all",
@@ -701,15 +789,23 @@
     "mean_value": 0.0183017165082644,
     "year_over_year_absolute_change": 0.0003110163850611,
     "year_over_year_change_rate": 0.0172876198775635,
-    "change_from_2020": 0.0015189411697227
+    "change_from_2020": 0.0014878595950811
+  },
+  {
+    "variable": "passive_voice_sentence_share_all",
+    "report_year": 2017,
+    "mean_value": 0.3007325755552487,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "passive_voice_sentence_share_all",
     "report_year": 2018,
     "mean_value": 0.3002931648596825,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": -0.0004394106955661,
+    "year_over_year_change_rate": -0.0014611343475341,
+    "change_from_2020": -0.0004394106955661
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -717,7 +813,7 @@
     "mean_value": 0.3037540823731282,
     "year_over_year_absolute_change": 0.0034609175134457,
     "year_over_year_change_rate": 0.0115251291685673,
-    "change_from_2020": 0.0034609175134457
+    "change_from_2020": 0.0030215068178795
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -725,7 +821,7 @@
     "mean_value": 0.2975994750109306,
     "year_over_year_absolute_change": -0.0061546073621976,
     "year_over_year_change_rate": -0.0202618095339287,
-    "change_from_2020": -0.0026936898487519
+    "change_from_2020": -0.003133100544318
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -733,7 +829,7 @@
     "mean_value": 0.2960937170657882,
     "year_over_year_absolute_change": -0.0015057579451423,
     "year_over_year_change_rate": -0.0050596794402511,
-    "change_from_2020": -0.0041994477938942
+    "change_from_2020": -0.0046388584894604
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -741,7 +837,7 @@
     "mean_value": 0.2961628214097758,
     "year_over_year_absolute_change": 6.910434398754717e-05,
     "year_over_year_change_rate": 0.0002333867286086,
-    "change_from_2020": -0.0041303434499067
+    "change_from_2020": -0.0045697541454728
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -749,7 +845,7 @@
     "mean_value": 0.2951054179173315,
     "year_over_year_absolute_change": -0.0010574034924442,
     "year_over_year_change_rate": -0.0035703451480198,
-    "change_from_2020": -0.0051877469423509
+    "change_from_2020": -0.0056271576379171
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -757,7 +853,7 @@
     "mean_value": 0.2955604311664751,
     "year_over_year_absolute_change": 0.0004550132491435,
     "year_over_year_change_rate": 0.0015418668093415,
-    "change_from_2020": -0.0047327336932073
+    "change_from_2020": -0.0051721443887735
   },
   {
     "variable": "passive_voice_sentence_share_all",
@@ -765,15 +861,23 @@
     "mean_value": 0.2949232708456318,
     "year_over_year_absolute_change": -0.0006371603208433,
     "year_over_year_change_rate": -0.0021557700343333,
-    "change_from_2020": -0.0053698940140506
+    "change_from_2020": -0.0058093047096168
+  },
+  {
+    "variable": "fog_index_all",
+    "report_year": 2017,
+    "mean_value": 20.474688388745985,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "fog_index_all",
     "report_year": 2018,
     "mean_value": 20.569500382369792,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0948119936238072,
+    "year_over_year_change_rate": 0.0046306928742281,
+    "change_from_2020": 0.0948119936238072
   },
   {
     "variable": "fog_index_all",
@@ -781,7 +885,7 @@
     "mean_value": 20.56574815632653,
     "year_over_year_absolute_change": -0.0037522260432609,
     "year_over_year_change_rate": -0.0001824169753037,
-    "change_from_2020": -0.0037522260432609
+    "change_from_2020": 0.0910597675805462
   },
   {
     "variable": "fog_index_all",
@@ -789,7 +893,7 @@
     "mean_value": 20.63685592585201,
     "year_over_year_absolute_change": 0.0711077695254829,
     "year_over_year_change_rate": 0.0034575824319626,
-    "change_from_2020": 0.0673555434822219
+    "change_from_2020": 0.1621675371060291
   },
   {
     "variable": "fog_index_all",
@@ -797,7 +901,7 @@
     "mean_value": 20.69061202794372,
     "year_over_year_absolute_change": 0.0537561020917074,
     "year_over_year_change_rate": 0.0026048591066804,
-    "change_from_2020": 0.1211116455739294
+    "change_from_2020": 0.2159236391977366
   },
   {
     "variable": "fog_index_all",
@@ -805,7 +909,7 @@
     "mean_value": 20.75517585732484,
     "year_over_year_absolute_change": 0.0645638293811181,
     "year_over_year_change_rate": 0.0031204407725552,
-    "change_from_2020": 0.1856754749550475
+    "change_from_2020": 0.2804874685788547
   },
   {
     "variable": "fog_index_all",
@@ -813,7 +917,7 @@
     "mean_value": 20.831561455553235,
     "year_over_year_absolute_change": 0.0763855982283949,
     "year_over_year_change_rate": 0.0036803156356508,
-    "change_from_2020": 0.2620610731834425
+    "change_from_2020": 0.3568730668072497
   },
   {
     "variable": "fog_index_all",
@@ -821,7 +925,7 @@
     "mean_value": 20.878191541540044,
     "year_over_year_absolute_change": 0.0466300859868091,
     "year_over_year_change_rate": 0.0022384345065203,
-    "change_from_2020": 0.3086911591702517
+    "change_from_2020": 0.4035031527940589
   },
   {
     "variable": "fog_index_all",
@@ -829,15 +933,23 @@
     "mean_value": 20.88251637801653,
     "year_over_year_absolute_change": 0.0043248364764849,
     "year_over_year_change_rate": 0.0002071461250788,
-    "change_from_2020": 0.3130159956467366
+    "change_from_2020": 0.4078279892705438
+  },
+  {
+    "variable": "ai_lm_positive_share_all",
+    "report_year": 2017,
+    "mean_value": 0.0170095324242424,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_lm_positive_share_all",
     "report_year": 2018,
     "mean_value": 0.0228773501562499,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0058678177320075,
+    "year_over_year_change_rate": 0.3449723123279158,
+    "change_from_2020": 0.0058678177320075
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -845,7 +957,7 @@
     "mean_value": 0.0207114276767676,
     "year_over_year_absolute_change": -0.0021659224794823,
     "year_over_year_change_rate": -0.0946754088515186,
-    "change_from_2020": -0.0021659224794823
+    "change_from_2020": 0.0037018952525252
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -853,7 +965,7 @@
     "mean_value": 0.0200059574796747,
     "year_over_year_absolute_change": -0.0007054701970928,
     "year_over_year_change_rate": -0.0340618815903365,
-    "change_from_2020": -0.0028713926765752
+    "change_from_2020": 0.0029964250554323
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -861,7 +973,7 @@
     "mean_value": 0.0204567575,
     "year_over_year_absolute_change": 0.0004508000203252,
     "year_over_year_change_rate": 0.0225332889357181,
-    "change_from_2020": -0.0024205926562499
+    "change_from_2020": 0.0034472250757575
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -869,7 +981,7 @@
     "mean_value": 0.0191766290419161,
     "year_over_year_absolute_change": -0.0012801284580838,
     "year_over_year_change_rate": -0.0625772905644422,
-    "change_from_2020": -0.0037007211143338
+    "change_from_2020": 0.0021670966176737
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -877,7 +989,7 @@
     "mean_value": 0.0156073929051987,
     "year_over_year_absolute_change": -0.0035692361367173,
     "year_over_year_change_rate": -0.1861242728800652,
-    "change_from_2020": -0.0072699572510512
+    "change_from_2020": -0.0014021395190436
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -885,7 +997,7 @@
     "mean_value": 0.0133287811600928,
     "year_over_year_absolute_change": -0.0022786117451059,
     "year_over_year_change_rate": -0.1459956674985077,
-    "change_from_2020": -0.0095485689961571
+    "change_from_2020": -0.0036807512641496
   },
   {
     "variable": "ai_lm_positive_share_all",
@@ -893,15 +1005,23 @@
     "mean_value": 0.0139194044017094,
     "year_over_year_absolute_change": 0.0005906232416165,
     "year_over_year_change_rate": 0.0443118717700128,
-    "change_from_2020": -0.0089579457545405
+    "change_from_2020": -0.003090128022533
+  },
+  {
+    "variable": "ai_lm_positive_share_disclosers",
+    "report_year": 2017,
+    "mean_value": 0.0170095324242424,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
     "report_year": 2018,
     "mean_value": 0.02287735015625,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0058678177320075,
+    "year_over_year_change_rate": 0.3449723123279163,
+    "change_from_2020": 0.0058678177320075
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -909,7 +1029,7 @@
     "mean_value": 0.0207114276767676,
     "year_over_year_absolute_change": -0.0021659224794823,
     "year_over_year_change_rate": -0.0946754088515184,
-    "change_from_2020": -0.0021659224794823
+    "change_from_2020": 0.0037018952525252
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -917,7 +1037,7 @@
     "mean_value": 0.0200059574796748,
     "year_over_year_absolute_change": -0.0007054701970928,
     "year_over_year_change_rate": -0.0340618815903365,
-    "change_from_2020": -0.0028713926765751
+    "change_from_2020": 0.0029964250554323
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -925,7 +1045,7 @@
     "mean_value": 0.0204567575,
     "year_over_year_absolute_change": 0.0004508000203251,
     "year_over_year_change_rate": 0.0225332889357178,
-    "change_from_2020": -0.00242059265625
+    "change_from_2020": 0.0034472250757575
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -933,7 +1053,7 @@
     "mean_value": 0.0191766290419161,
     "year_over_year_absolute_change": -0.0012801284580838,
     "year_over_year_change_rate": -0.0625772905644422,
-    "change_from_2020": -0.0037007211143338
+    "change_from_2020": 0.0021670966176737
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -941,7 +1061,7 @@
     "mean_value": 0.0156073929051987,
     "year_over_year_absolute_change": -0.0035692361367173,
     "year_over_year_change_rate": -0.1861242728800652,
-    "change_from_2020": -0.0072699572510512
+    "change_from_2020": -0.0014021395190436
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -949,7 +1069,7 @@
     "mean_value": 0.0133287811600928,
     "year_over_year_absolute_change": -0.0022786117451059,
     "year_over_year_change_rate": -0.1459956674985078,
-    "change_from_2020": -0.0095485689961571
+    "change_from_2020": -0.0036807512641496
   },
   {
     "variable": "ai_lm_positive_share_disclosers",
@@ -957,15 +1077,23 @@
     "mean_value": 0.0139194044017094,
     "year_over_year_absolute_change": 0.0005906232416165,
     "year_over_year_change_rate": 0.0443118717700129,
-    "change_from_2020": -0.0089579457545405
+    "change_from_2020": -0.003090128022533
+  },
+  {
+    "variable": "ai_lm_negative_share_all",
+    "report_year": 2017,
+    "mean_value": 0.0057512445454545,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_lm_negative_share_all",
     "report_year": 2018,
     "mean_value": 0.00579356984375,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 4.232529829545449e-05,
+    "year_over_year_change_rate": 0.007359328569832,
+    "change_from_2020": 4.232529829545449e-05
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -973,7 +1101,7 @@
     "mean_value": 0.0090245047474747,
     "year_over_year_absolute_change": 0.0032309349037247,
     "year_over_year_change_rate": 0.5576760082059291,
-    "change_from_2020": 0.0032309349037247
+    "change_from_2020": 0.0032732602020202
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -981,7 +1109,7 @@
     "mean_value": 0.0101144177235772,
     "year_over_year_absolute_change": 0.0010899129761024,
     "year_over_year_change_rate": 0.1207726082040646,
-    "change_from_2020": 0.0043208478798272
+    "change_from_2020": 0.0043631731781226
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -989,7 +1117,7 @@
     "mean_value": 0.0105281116666666,
     "year_over_year_absolute_change": 0.0004136939430894,
     "year_over_year_change_rate": 0.0409014096901581,
-    "change_from_2020": 0.0047345418229166
+    "change_from_2020": 0.0047768671212121
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -997,7 +1125,7 @@
     "mean_value": 0.0122128747904191,
     "year_over_year_absolute_change": 0.0016847631237524,
     "year_over_year_change_rate": 0.1600251951246556,
-    "change_from_2020": 0.0064193049466691
+    "change_from_2020": 0.0064616302449646
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -1005,7 +1133,7 @@
     "mean_value": 0.0296239074006116,
     "year_over_year_absolute_change": 0.0174110326101924,
     "year_over_year_change_rate": 1.4256293386264127,
-    "change_from_2020": 0.0238303375568616
+    "change_from_2020": 0.023872662855157
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -1013,7 +1141,7 @@
     "mean_value": 0.0357157935962877,
     "year_over_year_absolute_change": 0.006091886195676,
     "year_over_year_change_rate": 0.2056408735449364,
-    "change_from_2020": 0.0299222237525377
+    "change_from_2020": 0.0299645490508331
   },
   {
     "variable": "ai_lm_negative_share_all",
@@ -1021,15 +1149,23 @@
     "mean_value": 0.0371927984401709,
     "year_over_year_absolute_change": 0.0014770048438832,
     "year_over_year_change_rate": 0.0413543896176162,
-    "change_from_2020": 0.0313992285964209
+    "change_from_2020": 0.0314415538947164
+  },
+  {
+    "variable": "ai_lm_negative_share_disclosers",
+    "report_year": 2017,
+    "mean_value": 0.0057512445454545,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
     "report_year": 2018,
     "mean_value": 0.00579356984375,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 4.232529829545449e-05,
+    "year_over_year_change_rate": 0.007359328569832,
+    "change_from_2020": 4.232529829545449e-05
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1037,7 +1173,7 @@
     "mean_value": 0.0090245047474747,
     "year_over_year_absolute_change": 0.0032309349037247,
     "year_over_year_change_rate": 0.5576760082059291,
-    "change_from_2020": 0.0032309349037247
+    "change_from_2020": 0.0032732602020202
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1045,7 +1181,7 @@
     "mean_value": 0.0101144177235772,
     "year_over_year_absolute_change": 0.0010899129761024,
     "year_over_year_change_rate": 0.1207726082040646,
-    "change_from_2020": 0.0043208478798272
+    "change_from_2020": 0.0043631731781226
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1053,7 +1189,7 @@
     "mean_value": 0.0105281116666666,
     "year_over_year_absolute_change": 0.0004136939430894,
     "year_over_year_change_rate": 0.0409014096901581,
-    "change_from_2020": 0.0047345418229166
+    "change_from_2020": 0.0047768671212121
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1061,7 +1197,7 @@
     "mean_value": 0.0122128747904191,
     "year_over_year_absolute_change": 0.0016847631237524,
     "year_over_year_change_rate": 0.1600251951246556,
-    "change_from_2020": 0.0064193049466691
+    "change_from_2020": 0.0064616302449646
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1069,7 +1205,7 @@
     "mean_value": 0.0296239074006116,
     "year_over_year_absolute_change": 0.0174110326101924,
     "year_over_year_change_rate": 1.4256293386264127,
-    "change_from_2020": 0.0238303375568616
+    "change_from_2020": 0.023872662855157
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1077,7 +1213,7 @@
     "mean_value": 0.0357157935962877,
     "year_over_year_absolute_change": 0.006091886195676,
     "year_over_year_change_rate": 0.2056408735449364,
-    "change_from_2020": 0.0299222237525377
+    "change_from_2020": 0.0299645490508331
   },
   {
     "variable": "ai_lm_negative_share_disclosers",
@@ -1085,15 +1221,23 @@
     "mean_value": 0.0371927984401709,
     "year_over_year_absolute_change": 0.0014770048438832,
     "year_over_year_change_rate": 0.0413543896176162,
-    "change_from_2020": 0.0313992285964209
+    "change_from_2020": 0.0314415538947164
+  },
+  {
+    "variable": "ai_lm_uncertainty_share_all",
+    "report_year": 2017,
+    "mean_value": 0.0063731927272727,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
     "report_year": 2018,
     "mean_value": 0.0070561134374999,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0006829207102272,
+    "year_over_year_change_rate": 0.1071551951198426,
+    "change_from_2020": 0.0006829207102272
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1101,7 +1245,7 @@
     "mean_value": 0.0083606181818181,
     "year_over_year_absolute_change": 0.0013045047443181,
     "year_over_year_change_rate": 0.1848758180934762,
-    "change_from_2020": 0.0013045047443181
+    "change_from_2020": 0.0019874254545454
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1109,7 +1253,7 @@
     "mean_value": 0.0097596756910569,
     "year_over_year_absolute_change": 0.0013990575092387,
     "year_over_year_change_rate": 0.1673390027882454,
-    "change_from_2020": 0.0027035622535569
+    "change_from_2020": 0.0033864829637841
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1117,7 +1261,7 @@
     "mean_value": 0.0093654719444444,
     "year_over_year_absolute_change": -0.0003942037466124,
     "year_over_year_change_rate": -0.0403910702661653,
-    "change_from_2020": 0.0023093585069444
+    "change_from_2020": 0.0029922792171717
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1125,7 +1269,7 @@
     "mean_value": 0.0122841904191616,
     "year_over_year_absolute_change": 0.0029187184747172,
     "year_over_year_change_rate": 0.3116467052627926,
-    "change_from_2020": 0.0052280769816616
+    "change_from_2020": 0.0059109976918889
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1133,7 +1277,7 @@
     "mean_value": 0.0257930607645259,
     "year_over_year_absolute_change": 0.0135088703453643,
     "year_over_year_change_rate": 1.0996956156176405,
-    "change_from_2020": 0.0187369473270259
+    "change_from_2020": 0.0194198680372532
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1141,7 +1285,7 @@
     "mean_value": 0.0295592080046403,
     "year_over_year_absolute_change": 0.0037661472401143,
     "year_over_year_change_rate": 0.146013971528888,
-    "change_from_2020": 0.0225030945671403
+    "change_from_2020": 0.0231860152773676
   },
   {
     "variable": "ai_lm_uncertainty_share_all",
@@ -1149,15 +1293,23 @@
     "mean_value": 0.0297319358333333,
     "year_over_year_absolute_change": 0.0001727278286929,
     "year_over_year_change_rate": 0.0058434525263953,
-    "change_from_2020": 0.0226758223958333
+    "change_from_2020": 0.0233587431060606
+  },
+  {
+    "variable": "ai_lm_uncertainty_share_disclosers",
+    "report_year": 2017,
+    "mean_value": 0.0063731927272727,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
     "report_year": 2018,
     "mean_value": 0.0070561134374999,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 0.0006829207102272,
+    "year_over_year_change_rate": 0.1071551951198426,
+    "change_from_2020": 0.0006829207102272
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1165,7 +1317,7 @@
     "mean_value": 0.0083606181818181,
     "year_over_year_absolute_change": 0.0013045047443181,
     "year_over_year_change_rate": 0.1848758180934762,
-    "change_from_2020": 0.0013045047443181
+    "change_from_2020": 0.0019874254545454
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1173,7 +1325,7 @@
     "mean_value": 0.0097596756910569,
     "year_over_year_absolute_change": 0.0013990575092387,
     "year_over_year_change_rate": 0.1673390027882454,
-    "change_from_2020": 0.0027035622535569
+    "change_from_2020": 0.0033864829637841
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1181,7 +1333,7 @@
     "mean_value": 0.0093654719444444,
     "year_over_year_absolute_change": -0.0003942037466124,
     "year_over_year_change_rate": -0.0403910702661653,
-    "change_from_2020": 0.0023093585069444
+    "change_from_2020": 0.0029922792171717
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1189,7 +1341,7 @@
     "mean_value": 0.0122841904191616,
     "year_over_year_absolute_change": 0.0029187184747172,
     "year_over_year_change_rate": 0.3116467052627926,
-    "change_from_2020": 0.0052280769816616
+    "change_from_2020": 0.0059109976918889
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1197,7 +1349,7 @@
     "mean_value": 0.0257930607645259,
     "year_over_year_absolute_change": 0.0135088703453643,
     "year_over_year_change_rate": 1.0996956156176405,
-    "change_from_2020": 0.0187369473270259
+    "change_from_2020": 0.0194198680372532
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1205,7 +1357,7 @@
     "mean_value": 0.0295592080046403,
     "year_over_year_absolute_change": 0.0037661472401143,
     "year_over_year_change_rate": 0.146013971528888,
-    "change_from_2020": 0.0225030945671403
+    "change_from_2020": 0.0231860152773676
   },
   {
     "variable": "ai_lm_uncertainty_share_disclosers",
@@ -1213,15 +1365,23 @@
     "mean_value": 0.0297319358333333,
     "year_over_year_absolute_change": 0.0001727278286929,
     "year_over_year_change_rate": 0.0058434525263953,
-    "change_from_2020": 0.0226758223958333
+    "change_from_2020": 0.0233587431060606
+  },
+  {
+    "variable": "report_word_count_all",
+    "report_year": 2017,
+    "mean_value": 51152.81993569132,
+    "year_over_year_absolute_change": null,
+    "year_over_year_change_rate": null,
+    "change_from_2020": 0.0
   },
   {
     "variable": "report_word_count_all",
     "report_year": 2018,
     "mean_value": 51611.63541666666,
-    "year_over_year_absolute_change": null,
-    "year_over_year_change_rate": null,
-    "change_from_2020": 0.0
+    "year_over_year_absolute_change": 458.8154809753469,
+    "year_over_year_change_rate": 0.0089695051328971,
+    "change_from_2020": 458.8154809753469
   },
   {
     "variable": "report_word_count_all",
@@ -1229,7 +1389,7 @@
     "mean_value": 51429.179138322,
     "year_over_year_absolute_change": -182.45627834466725,
     "year_over_year_change_rate": -0.0035351772303217,
-    "change_from_2020": -182.45627834466725
+    "change_from_2020": 276.35920263067965
   },
   {
     "variable": "report_word_count_all",
@@ -1237,7 +1397,7 @@
     "mean_value": 58001.64349775785,
     "year_over_year_absolute_change": 6572.4643594358495,
     "year_over_year_change_rate": 0.1277964079838567,
-    "change_from_2020": 6390.008081091182
+    "change_from_2020": 6848.823562066529
   },
   {
     "variable": "report_word_count_all",
@@ -1245,7 +1405,7 @@
     "mean_value": 56964.49350649351,
     "year_over_year_absolute_change": -1037.1499912643412,
     "year_over_year_change_rate": -0.0178813897110421,
-    "change_from_2020": 5352.858089826841
+    "change_from_2020": 5811.673570802188
   },
   {
     "variable": "report_word_count_all",
@@ -1253,7 +1413,7 @@
     "mean_value": 58009.49681528663,
     "year_over_year_absolute_change": 1045.0033087931224,
     "year_over_year_change_rate": 0.0183448187540542,
-    "change_from_2020": 6397.861398619963
+    "change_from_2020": 6856.67687959531
   },
   {
     "variable": "report_word_count_all",
@@ -1261,7 +1421,7 @@
     "mean_value": 58149.19832985386,
     "year_over_year_absolute_change": 139.70151456723397,
     "year_over_year_change_rate": 0.0024082524799701,
-    "change_from_2020": 6537.562913187197
+    "change_from_2020": 6996.378394162544
   },
   {
     "variable": "report_word_count_all",
@@ -1269,7 +1429,7 @@
     "mean_value": 58819.90759753594,
     "year_over_year_absolute_change": 670.7092676820757,
     "year_over_year_change_rate": 0.0115342822763857,
-    "change_from_2020": 7208.272180869273
+    "change_from_2020": 7667.08766184462
   },
   {
     "variable": "report_word_count_all",
@@ -1277,6 +1437,6 @@
     "mean_value": 59030.57231404959,
     "year_over_year_absolute_change": 210.6647165136528,
     "year_over_year_change_rate": 0.0035815206979767,
-    "change_from_2020": 7418.936897382926
+    "change_from_2020": 7877.752378358273
   }
 ]

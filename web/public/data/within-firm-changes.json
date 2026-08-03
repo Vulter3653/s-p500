@@ -1,6 +1,16 @@
 [
   {
     "variable": "whole_report_concreteness",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": -0.0028904433333333,
+    "median_within_firm_change": -0.00171173,
+    "standard_deviation": 0.0140704281581942,
+    "p25": -0.0080465374999998,
+    "p75": 0.0034131149999998
+  },
+  {
+    "variable": "whole_report_concreteness",
     "report_year": 2019,
     "paired_firm_count": 373,
     "mean_within_firm_change": -0.0034962254155496,
@@ -68,6 +78,16 @@
     "standard_deviation": 0.008159019679623,
     "p25": -0.0072208299999999,
     "p75": 0.0015969799999999
+  },
+  {
+    "variable": "past_tense_share",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": -0.0002487396758455,
+    "median_within_firm_change": -0.0004190284974096,
+    "standard_deviation": 0.0203746400851618,
+    "p25": -0.0110285818175295,
+    "p75": 0.011963662858676
   },
   {
     "variable": "past_tense_share",
@@ -141,6 +161,16 @@
   },
   {
     "variable": "present_tense_share",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": 0.0026120461561001,
+    "median_within_firm_change": 0.0027717495372596,
+    "standard_deviation": 0.0189124529588458,
+    "p25": -0.0083539677217625,
+    "p75": 0.0130792097871637
+  },
+  {
+    "variable": "present_tense_share",
     "report_year": 2019,
     "paired_firm_count": 373,
     "mean_within_firm_change": 0.0114765827557548,
@@ -208,6 +238,16 @@
     "standard_deviation": 0.0156867411953439,
     "p25": -0.0069888835812603,
     "p75": 0.0117511991774632
+  },
+  {
+    "variable": "future_tense_share",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": -0.0023633064802546,
+    "median_within_firm_change": -0.002756813322597,
+    "standard_deviation": 0.0064088164089587,
+    "p25": -0.006077097164711,
+    "p75": 0.0010144315454055
   },
   {
     "variable": "future_tense_share",
@@ -281,6 +321,16 @@
   },
   {
     "variable": "lm_uncertainty_share",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": -2.91277450980391e-05,
+    "median_within_firm_change": -1.789500000000041e-05,
+    "standard_deviation": 0.0009710594810863,
+    "p25": -0.0004202074999999,
+    "p75": 0.00039027
+  },
+  {
+    "variable": "lm_uncertainty_share",
     "report_year": 2019,
     "paired_firm_count": 373,
     "mean_within_firm_change": 0.0002436630831099,
@@ -348,6 +398,16 @@
     "standard_deviation": 0.000638043344757,
     "p25": -0.0001115049999999,
     "p75": 0.000563495
+  },
+  {
+    "variable": "passive_voice_sentence_share",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": 0.0002835624658344,
+    "median_within_firm_change": -0.0003233690277484,
+    "standard_deviation": 0.0123245541834206,
+    "p25": -0.0070560698362809,
+    "p75": 0.0076023801319559
   },
   {
     "variable": "passive_voice_sentence_share",
@@ -421,6 +481,16 @@
   },
   {
     "variable": "fog_index",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": 0.0810018900653594,
+    "median_within_firm_change": 0.0696161300000017,
+    "standard_deviation": 0.254042114740269,
+    "p25": -0.043680975,
+    "p75": 0.1686581875000001
+  },
+  {
+    "variable": "fog_index",
     "report_year": 2019,
     "paired_firm_count": 373,
     "mean_within_firm_change": -0.0058338397050938,
@@ -491,6 +561,16 @@
   },
   {
     "variable": "ai_sentence_count",
+    "report_year": 2018,
+    "paired_firm_count": 306,
+    "mean_within_firm_change": 0.2581699346405229,
+    "median_within_firm_change": 0.0,
+    "standard_deviation": 1.4582771950438342,
+    "p25": 0.0,
+    "p75": 0.0
+  },
+  {
+    "variable": "ai_sentence_count",
     "report_year": 2019,
     "paired_firm_count": 373,
     "mean_within_firm_change": 0.1930294906166219,
@@ -558,6 +638,16 @@
     "standard_deviation": 7.678488109581496,
     "p25": 1.0,
     "p75": 8.0
+  },
+  {
+    "variable": "ai_net_tone",
+    "report_year": 2018,
+    "paired_firm_count": 21,
+    "mean_within_firm_change": -0.0458604142857142,
+    "median_within_firm_change": 0.0,
+    "standard_deviation": 0.1918815067523006,
+    "p25": 0.0,
+    "p75": 0.0
   },
   {
     "variable": "ai_net_tone",
