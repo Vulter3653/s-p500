@@ -1,3 +1,7 @@
+## 2026-08-03
+
+- Added: current Actions run handoff record for Codespace restart; the active run reuses completed 2019 artifacts and must not be duplicated. (codex)
+
 ## 0.13.0
 
 - Fixed historical publication to reuse the canonical extended-panel schema and stop before Actions PR creation; added main-push continuation dispatch. (codex)
