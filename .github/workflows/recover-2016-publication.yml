@@ -1,0 +1,93 @@
+name: Recover 2016 Historical Publication
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/recover-2016-publication.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: recover-historical-2016-publication
+  cancel-in-progress: false
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Download validated 2016 annual result
+        uses: actions/download-artifact@v4
+        with:
+          name: historical-2016-annual-result
+          path: outputs/2016/merged
+          run-id: 30808477296
+          github-token: ${{ github.token }}
+      - name: Rebuild and publish 2016 candidate branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          year=2016
+          publication_branch="historical-year-$year-recovery-${{ github.run_id }}"
+          git fetch --no-tags origin main
+          git checkout -B "$publication_branch" origin/main
+
+          merged="outputs/$year/merged/company_language_results.csv"
+          test -f "$merged"
+          prior="panel_historical_candidate/firm_year_language_panel_full_candidate.parquet"
+          if [[ ! -f "$prior" ]]; then
+            prior="analysis/descriptive_2020_2025/firm_year_language_extended.csv"
+          fi
+
+          python scripts/continuous_backfill.py \
+            --current-panel "$merged" \
+            --prior-panel "$prior" \
+            --protected-panel analysis/descriptive_2020_2025/firm_year_language_extended.csv \
+            --output-csv panel_historical_candidate/firm_year_language_panel_full_candidate.csv \
+            --output-parquet panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --chain-state automation/historical_backfill/chain-state.json \
+            --chain-id historical-2019 \
+            --sample-namespace sample_503 \
+            --start-year 2019 \
+            --current-year 2016 \
+            --minimum-year 1900 \
+            --zero-streak 0 \
+            --visited-years 2019,2018,2017 \
+            --annual-status success \
+            --sec-metadata data/processed/sec_ticker_metadata.json \
+            --annual-keyword-count 52
+
+          python scripts/run_descriptive_pipeline.py --statistics-only \
+            --extended-panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --output-dir analysis/historical_candidate
+          python scripts/generate_web_analysis_data.py \
+            --panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --analysis-dir analysis/historical_candidate \
+            --start-year 2016 \
+            --end-year 2025 \
+            --output-dir web/public/data
+
+          mkdir -p automation/historical_backfill/year-status
+          cp outputs/2016/merged/annual_validation.json automation/historical_backfill/year-status/2016.json
+
+          git add panel_historical_candidate web/public/data automation/historical_backfill
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git commit -m "Recover validated 2016 historical panel and dashboard data"
+          git push origin "$publication_branch"
+
+          echo "publication_branch=$publication_branch" >> "$GITHUB_STEP_SUMMARY"
+          echo "candidate_rows=4213" >> "$GITHUB_STEP_SUMMARY"
+          echo "annual_ai_keyword_count=52" >> "$GITHUB_STEP_SUMMARY"
