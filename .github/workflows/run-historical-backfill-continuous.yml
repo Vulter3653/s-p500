@@ -205,7 +205,7 @@ jobs:
 
   finalize-and-dispatch:
     needs: [prepare, process-batches]
-    if: needs.prepare.result == 'success' && (needs.process-batches.result == 'success' || (needs.process-batches.result == 'skipped' && inputs.reuse_run_id != ''))
+    if: always() && needs.prepare.result == 'success' && (needs.process-batches.result == 'success' || (needs.process-batches.result == 'skipped' && inputs.reuse_run_id != ''))
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
