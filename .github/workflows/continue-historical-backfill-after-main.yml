@@ -1,0 +1,94 @@
+name: Continue Historical Backfill After Main Merge
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "panel_historical_candidate/**"
+      - "automation/historical_backfill/**"
+      - "web/public/data/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: historical-chain-continuation
+  cancel-in-progress: false
+
+jobs:
+  dispatch-next-year:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main state
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Read chain state
+        id: state
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          path = Path("automation/historical_backfill/chain-state.json")
+          if not path.exists():
+              print("chain state is absent; no continuation")
+              raise SystemExit(0)
+          state = json.loads(path.read_text(encoding="utf-8"))
+          next_year = state.get("next_year")
+          streak = int(state.get("zero_streak", 0))
+          status = state.get("status")
+          if status in {"completed", "blocked", "stopped"} or not next_year or streak >= 3:
+              print({"status": status, "next_year": next_year, "zero_streak": streak, "dispatch": False})
+              raise SystemExit(0)
+          current = int(state.get("current_year"))
+          if int(next_year) >= current:
+              raise SystemExit(f"invalid descending state: current={current} next={next_year}")
+          visited = [int(value) for value in state.get("visited_years", [])]
+          if int(next_year) in visited:
+              raise SystemExit(f"year already visited: {next_year}")
+          outputs = os.environ["GITHUB_OUTPUT"]
+          with open(outputs, "a", encoding="utf-8") as out:
+              out.write(f"dispatch=true\n")
+              out.write(f"chain_id={state.get('chain_id', '')}\n")
+              out.write(f"start_year={state.get('start_year', current)}\n")
+              out.write(f"current_year={next_year}\n")
+              out.write(f"zero_streak={streak}\n")
+              out.write(f"visited_years={','.join(map(str, visited))}\n")
+              out.write(f"sample_namespace={state.get('sample_namespace', 'sample_503')}\n")
+          print({"status": status, "current_year": current, "next_year": next_year, "zero_streak": streak, "dispatch": True})
+          PY
+
+      - name: Dispatch next year from main
+        if: steps.state.outputs.dispatch == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run run-historical-backfill-continuous.yml \
+            --repo "${{ github.repository }}" \
+            --ref main \
+            -f chain_id="${{ steps.state.outputs.chain_id }}" \
+            -f start_year="${{ steps.state.outputs.start_year }}" \
+            -f current_year="${{ steps.state.outputs.current_year }}" \
+            -f minimum_year=0 \
+            -f sample_manifest="${{ steps.state.outputs.current_year }}/${{ steps.state.outputs.sample_namespace }}/sample/final_analysis_sample_503.csv" \
+            -f sample_namespace="${{ steps.state.outputs.sample_namespace }}" \
+            -f batch_ids=1,2,3,4,5,6 \
+            -f zero_streak="${{ steps.state.outputs.zero_streak }}" \
+            -f visited_years="${{ steps.state.outputs.visited_years }}" \
+            -f run_collection=true \
+            -f run_extraction=true \
+            -f run_language=true \
+            -f execute=true \
+            -f confirmation=RUN_CONTINUOUS_HISTORICAL_BACKFILL
+          {
+            echo "## Historical continuation dispatched"
+            echo ""
+            echo "- Chain: \`${{ steps.state.outputs.chain_id }}\`"
+            echo "- Next year: \`${{ steps.state.outputs.current_year }}\`"
+            echo "- Triggered from main commit: \`${{ github.sha }}\`"
+          } >> "$GITHUB_STEP_SUMMARY"
