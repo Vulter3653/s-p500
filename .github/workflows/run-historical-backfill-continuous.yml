@@ -245,98 +245,82 @@ jobs:
       - name: Block external publication until explicit approval
         if: inputs.execute != true
         run: echo "dry-run complete; no panel commit, dashboard publication, or next-year dispatch"
-      - name: Update candidate panel and dashboard
+      - name: Publish annual panel and dashboard to main
         if: inputs.execute == true && inputs.confirmation == 'RUN_CONTINUOUS_HISTORICAL_BACKFILL'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          set -euo pipefail
           year="${{ needs.prepare.outputs.current_year }}"
           merged="outputs/$year/merged/company_language_results.csv"
           mkdir -p /tmp/historical-candidate
-          if git ls-remote --exit-code origin refs/heads/historical-dashboard-data >/dev/null 2>&1; then
-            git fetch --no-tags origin historical-dashboard-data
-            git archive origin/historical-dashboard-data | tar -x -C /tmp/historical-candidate
-          fi
+          git fetch --no-tags origin main
+          git archive origin/main | tar -x -C /tmp/historical-candidate
           prior="/tmp/historical-candidate/panel_historical_candidate/firm_year_language_panel_full_candidate.parquet"
           if [[ ! -f "$prior" ]]; then
             prior="analysis/descriptive_2020_2025/firm_year_language_extended.csv"
           fi
           mkdir -p panel_historical_candidate
-          python scripts/continuous_backfill.py \
-            --current-panel "$merged" \
-            --prior-panel "$prior" \
-            --protected-panel analysis/descriptive_2020_2025/firm_year_language_extended.csv \
-            --output-csv panel_historical_candidate/firm_year_language_panel_full_candidate.csv \
-            --output-parquet panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
-            --chain-state automation/historical_backfill/chain-state.json \
-            --chain-id "${{ needs.prepare.outputs.chain_id }}" \
-            --start-year "${{ inputs.start_year }}" \
-            --current-year "$year" \
-            --minimum-year "${{ needs.prepare.outputs.minimum_year }}" \
-            --zero-streak "${{ inputs.zero_streak }}" \
-            --visited-years "${{ inputs.visited_years }}" \
-            --annual-status success \
-            --sec-metadata "${{ needs.prepare.outputs.sec_metadata_path }}" \
+          python scripts/continuous_backfill.py \\
+            --current-panel "$merged" \\
+            --prior-panel "$prior" \\
+            --protected-panel analysis/descriptive_2020_2025/firm_year_language_extended.csv \\
+            --output-csv panel_historical_candidate/firm_year_language_panel_full_candidate.csv \\
+            --output-parquet panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \\
+            --chain-state automation/historical_backfill/chain-state.json \\
+            --chain-id "${{ needs.prepare.outputs.chain_id }}" \\
+            --start-year "${{ inputs.start_year }}" \\
+            --current-year "$year" \\
+            --minimum-year "${{ needs.prepare.outputs.minimum_year }}" \\
+            --zero-streak "${{ inputs.zero_streak }}" \\
+            --visited-years "${{ inputs.visited_years }}" \\
+            --annual-status success \\
+            --sec-metadata "${{ needs.prepare.outputs.sec_metadata_path }}" \\
             --annual-keyword-count "$(python -c 'import json; print(json.load(open("outputs/'"$year"'/merged/annual_validation.json"))["annual_ai_keyword_count"])')"
-          python scripts/run_descriptive_pipeline.py --statistics-only \
-            --extended-panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+          python scripts/run_descriptive_pipeline.py --statistics-only \\
+            --extended-panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \\
             --output-dir analysis/historical_candidate
-          python scripts/generate_web_analysis_data.py \
-            --panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
-            --analysis-dir analysis/historical_candidate \
-            --start-year "$(python -c 'import pandas as pd; print(int(pd.read_parquet("panel_historical_candidate/firm_year_language_panel_full_candidate.parquet").report_year.min()))')" \
-            --end-year 2025 \
-            --output-dir web/public/data/historical-candidate
-          cd web
-          npm ci --prefer-offline --no-audit --no-fund
-          npm run build
-          cd ..
+          python scripts/generate_web_analysis_data.py \\
+            --panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \\
+            --analysis-dir analysis/historical_candidate \\
+            --start-year "$(python -c 'import pandas as pd; print(int(pd.read_parquet("panel_historical_candidate/firm_year_language_panel_full_candidate.parquet").report_year.min()))')" \\
+            --end-year 2025 \\
+            --output-dir web/public/data
           mkdir -p automation/historical_backfill/year-status
           cp "outputs/$year/merged/annual_validation.json" "automation/historical_backfill/year-status/$year.json"
-          rm -rf /tmp/historical-publication-files
-          mkdir -p /tmp/historical-publication-files
-          cp -a panel_historical_candidate /tmp/historical-publication-files/
-          cp -a web/public/data/historical-candidate /tmp/historical-publication-files/
-          cp -a automation/historical_backfill /tmp/historical-publication-files/
           cache_path=$(python -c 'import json; print(json.load(open("data/processed/sec_ticker_metadata.json"))["source_path"])')
-          mkdir -p /tmp/historical-publication-files/sec-cache
-          cp "$cache_path" /tmp/historical-publication-files/sec-cache/
-          if git ls-remote --exit-code origin refs/heads/historical-dashboard-data >/dev/null 2>&1; then
-            git fetch --no-tags origin historical-dashboard-data
-            git checkout -B historical-publication origin/historical-dashboard-data
-          else
-            git checkout -b historical-publication
-          fi
-          cp -a /tmp/historical-publication-files/panel_historical_candidate .
-          mkdir -p web/public/data automation/historical_backfill
-          cp -a /tmp/historical-publication-files/historical-candidate web/public/data/
-          cp -a /tmp/historical-publication-files/historical_backfill/. automation/historical_backfill/
-          mkdir -p data/raw
-          cp -a /tmp/historical-publication-files/sec-cache/. data/raw/
+          publication_branch="historical-year-$year-${{ github.run_id }}"
+          git checkout -B "$publication_branch" origin/main
+          git add panel_historical_candidate web/public/data automation/historical_backfill
+          git add "data/raw/$(basename "$cache_path")" 2>/dev/null || true
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add panel_historical_candidate web/public/data/historical-candidate automation/historical_backfill "data/raw/$(basename "$cache_path")"
           git commit -m "Add validated $year historical panel and dashboard data"
-          git push origin historical-publication:historical-dashboard-data
+          git push origin "$publication_branch"
+          pr_url=$(gh pr create --repo "${{ github.repository }}" --base main --head "$publication_branch" \\
+            --title "Add validated $year historical panel and dashboard data" \\
+            --body "Automated annual historical backfill publication for $year. Includes the validated cumulative panel, dashboard data, chain state, and annual validation summary.")
+          gh pr merge "$pr_url" --repo "${{ github.repository }}" --merge --delete-branch
           state="automation/historical_backfill/chain-state.json"
           next_year=$(python -c 'import json; print(json.load(open("'"$state"'"))["next_year"] or "")')
           streak=$(python -c 'import json; print(json.load(open("'"$state"'"))["zero_streak"])')
           if [[ -n "$next_year" && "$streak" -lt 3 ]]; then
-            gh workflow run run-historical-backfill-continuous.yml \
-              --ref codex/historical-backfill-continuous \
-              -f chain_id="${{ needs.prepare.outputs.chain_id }}" \
-              -f start_year="${{ inputs.start_year }}" \
-              -f current_year="$next_year" \
-              -f minimum_year="${{ inputs.minimum_year }}" \
-              -f sample_manifest="$next_year/${{ inputs.sample_namespace }}/sample/final_analysis_sample_503.csv" \
-              -f sample_namespace="${{ inputs.sample_namespace }}" \
-              -f batch_ids="1,2,3,4,5,6" \
-              -f zero_streak="$streak" \
-              -f visited_years="${{ inputs.visited_years }},$year" \
-              -f run_collection="${{ inputs.run_collection }}" \
-              -f run_extraction="${{ inputs.run_extraction }}" \
-              -f run_language="${{ inputs.run_language }}" \
-              -f execute=true \
+            gh workflow run run-historical-backfill-continuous.yml \\
+              --repo "${{ github.repository }}" \\
+              --ref main \\
+              -f chain_id="${{ needs.prepare.outputs.chain_id }}" \\
+              -f start_year="${{ inputs.start_year }}" \\
+              -f current_year="$next_year" \\
+              -f minimum_year="${{ inputs.minimum_year }}" \\
+              -f sample_manifest="$next_year/${{ inputs.sample_namespace }}/sample/final_analysis_sample_503.csv" \\
+              -f sample_namespace="${{ inputs.sample_namespace }}" \\
+              -f batch_ids="1,2,3,4,5,6" \\
+              -f zero_streak="$streak" \\
+              -f visited_years="${{ inputs.visited_years }},$year" \\
+              -f run_collection="${{ inputs.run_collection }}" \\
+              -f run_extraction="${{ inputs.run_extraction }}" \\
+              -f run_language="${{ inputs.run_language }}" \\
+              -f execute=true \\
               -f confirmation=RUN_CONTINUOUS_HISTORICAL_BACKFILL
           else
             echo "historical chain stopped: streak=$streak next_year=$next_year"
