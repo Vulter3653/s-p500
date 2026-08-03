@@ -18,65 +18,50 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Reproduce validated downloads
+      - name: Compute official LM fallback fingerprints
         run: |
           python - <<'PY'
           from __future__ import annotations
 
-          import csv
           import hashlib
-          import io
+          import sys
+          import tempfile
+          from pathlib import Path
           from urllib.request import Request, urlopen
 
-          resources = [
-              (
-                  "LM Drive CSV",
-                  "https://drive.usercontent.google.com/download?id=1iq2RUf8qGFEAk1g8wQntP3habOnR3fXF&export=download&confirm=t",
-                  "e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d",
-              ),
-              (
-                  "LM Sheets CSV export",
-                  "https://docs.google.com/spreadsheets/d/1P3KtWuDyQT2Eu_VwTU3D2sEeQxR9dWCS/export?format=csv",
-                  "",
-              ),
-              (
-                  "Brysbaert",
-                  "https://media.springernature.com/original/springer-static/esm/art%3A10.3758%2Fs13428-013-0403-5/MediaObjects/13428_2013_403_MOESM1_ESM.xlsx",
-                  "1673ead761e28833a40e82c0d20f10782955ced9366d600eafeefee0f2254545",
-              ),
-              (
-                  "tidytext",
-                  "https://cran.r-project.org/src/contrib/Archive/tidytext/tidytext_0.3.1.tar.gz",
-                  "30b96058d69733a5f49cff4ff471605f47deb549a40d4517dcdffc7f4b534fa0",
-              ),
-          ]
+          sys.path.insert(0, str(Path.cwd() / "scripts"))
+          import load_loughran_mcdonald_dictionary as lm
 
-          for name, url, expected in resources:
-              print(f"RESOURCE={name}")
-              try:
-                  request = Request(url, headers={"User-Agent": "s-p500-research-workflow"})
-                  with urlopen(request, timeout=180) as response:
-                      payload = response.read()
-                      print(f"status={getattr(response, 'status', '')}")
-                      print(f"final_url={response.geturl()}")
-                      print(f"content_type={response.headers.get('Content-Type', '')}")
-                      print(f"content_disposition={response.headers.get('Content-Disposition', '')}")
-                  actual = hashlib.sha256(payload).hexdigest()
-                  print(f"bytes={len(payload)}")
-                  print(f"expected_sha256={expected}")
-                  print(f"actual_sha256={actual}")
-                  print(f"sha_match={bool(expected) and actual == expected}")
-                  print(f"prefix_hex={payload[:64].hex()}")
-                  if name == "LM Sheets CSV export":
-                      text = payload.decode("utf-8-sig")
-                      reader = csv.DictReader(io.StringIO(text))
-                      rows = list(reader)
-                      print(f"fieldnames={reader.fieldnames}")
-                      print(f"row_count={len(rows)}")
-                      print(f"first_word={rows[0].get('Word', '') if rows else ''}")
-                      print(f"last_word={rows[-1].get('Word', '') if rows else ''}")
-              except Exception as error:
-                  print(f"exception_type={type(error).__name__}")
-                  print(f"exception_message={error}")
-              print("---")
+          url = "https://docs.google.com/spreadsheets/d/1P3KtWuDyQT2Eu_VwTU3D2sEeQxR9dWCS/export?format=csv"
+          request = Request(url, headers={"User-Agent": "s-p500-research-workflow"})
+          with urlopen(request, timeout=180) as response:
+              payload = response.read()
+              print(f"status={getattr(response, 'status', '')}")
+              print(f"final_url={response.geturl()}")
+              print(f"content_type={response.headers.get('Content-Type', '')}")
+              print(f"content_disposition={response.headers.get('Content-Disposition', '')}")
+
+          raw_sha = hashlib.sha256(payload).hexdigest()
+          print(f"raw_bytes={len(payload)}")
+          print(f"raw_sha256={raw_sha}")
+
+          with tempfile.TemporaryDirectory() as temporary:
+              source = Path(temporary) / "lm_fallback.csv"
+              source.write_bytes(payload)
+              mappings, metadata = lm.load_dictionary(
+                  path=source,
+                  expected_sha256=raw_sha,
+                  write_analysis_file=True,
+              )
+              analysis = lm.ANALYSIS_PATH
+              analysis_payload = analysis.read_bytes()
+              print(f"analysis_bytes={len(analysis_payload)}")
+              print(f"analysis_sha256={hashlib.sha256(analysis_payload).hexdigest()}")
+              print(f"row_count={metadata['row_count']}")
+              print(f"column_count={metadata['column_count']}")
+              print(f"mapping_count={len(mappings)}")
+              print(f"first_word={next(iter(mappings))}")
+              print(f"last_word={next(reversed(mappings))}")
+              print(f"category_counts={metadata['category_word_counts']}")
+              print(f"negative_source_counts={metadata['negative_source_value_counts']}")
           PY
