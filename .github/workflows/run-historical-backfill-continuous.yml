@@ -222,7 +222,7 @@ jobs:
     needs: [prepare, process-batches]
     if: always() && needs.prepare.result == 'success' && (needs.process-batches.result == 'success' || (needs.process-batches.result == 'skipped' && inputs.reuse_run_id != ''))
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -239,6 +239,48 @@ jobs:
       - name: Merge yearly batches
         run: |
           python scripts/merge_yearly_10k_batches.py --report-year "${{ needs.prepare.outputs.current_year }}" --input-dir "outputs/${{ needs.prepare.outputs.current_year }}/batches" --output-dir "outputs/${{ needs.prepare.outputs.current_year }}/merged" --expected-batches "${{ needs.prepare.outputs.expected_batches }}"
+      - name: Measure canonical language extensions from existing artifacts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import pandas as pd
+          root = Path("outputs/${{ needs.prepare.outputs.current_year }}/merged")
+          frame = pd.read_csv(root / "company_language_results.csv")
+          frame["ai_disclosure_flag"] = (
+              pd.to_numeric(frame["ai_sentence_count"], errors="coerce") >= 1
+          ).astype("Int64")
+          frame["report_year"] = pd.to_numeric(frame["report_year"], errors="raise").astype("int64")
+          frame.to_parquet(root / "annual_base_panel.parquet", index=False)
+          PY
+          python scripts/measure_extended_language_features.py \
+            --panel "outputs/${{ needs.prepare.outputs.current_year }}/merged/annual_base_panel.parquet" \
+            --artifact-root "outputs/${{ needs.prepare.outputs.current_year }}/batches" \
+            --output "outputs/${{ needs.prepare.outputs.current_year }}/merged/extended_features.csv" \
+            --workers 1 \
+            --years "${{ needs.prepare.outputs.current_year }}"
+          python - <<'PY'
+          from pathlib import Path
+          import pandas as pd
+          root = Path("outputs/${{ needs.prepare.outputs.current_year }}/merged")
+          base = pd.read_parquet(root / "annual_base_panel.parquet")
+          features = pd.read_csv(root / "extended_features.csv")
+          feature_only = features.drop(columns=["cik", "accession_number"], errors="ignore")
+          merged = base.merge(
+              feature_only,
+              on=["company_id", "report_year"],
+              how="left",
+              validate="one_to_one",
+              suffixes=("", "_feature"),
+          )
+          duplicates = [column for column in merged if column.endswith("_feature")]
+          if duplicates:
+              raise SystemExit(f"extension duplicated base columns: {duplicates}")
+          if len(merged) != len(base) or merged["company_id"].isna().any():
+              raise SystemExit("extension changed annual row coverage")
+          merged.to_csv(root / "company_language_results.csv", index=False, lineterminator="\n")
+          print({"rows": len(merged), "extension_columns": len(features.columns)})
+          PY
+
       - name: Validate annual AI keyword count
         run: |
           python - <<'PY'
