@@ -8,10 +8,12 @@ on:
       - "scripts/run_yearly_10k_batch.py"
       - "scripts/run_yearly_10k_batch_core.py"
       - "scripts/extract_10k_analysis_text.py"
+      - "scripts/parse_sec_10k_html.py"
       - "scripts/run_language_full_sample.py"
       - "scripts/merge_yearly_10k_batches.py"
       - "tests/test_yearly_batch_generalization.py"
       - "tests/test_run_yearly_10k_batch_diagnostics.py"
+      - "tests/test_plain_text_10k_parser.py"
       - "tests/test_continuous_backfill.py"
       - "scripts/continuous_backfill.py"
       - "scripts/measure_extended_language_features.py"
@@ -53,6 +55,7 @@ jobs:
             scripts/run_yearly_10k_batch.py \
             scripts/run_yearly_10k_batch_core.py \
             scripts/extract_10k_analysis_text.py \
+            scripts/parse_sec_10k_html.py \
             scripts/run_language_full_sample.py \
             scripts/merge_yearly_10k_batches.py \
             scripts/continuous_backfill.py \
@@ -63,6 +66,7 @@ jobs:
           pytest -q \
             tests/test_yearly_batch_generalization.py \
             tests/test_run_yearly_10k_batch_diagnostics.py \
+            tests/test_plain_text_10k_parser.py \
             tests/test_continuous_backfill.py
 
       - name: Upload test evidence
@@ -74,5 +78,6 @@ jobs:
             .pytest_cache
             tests/test_yearly_batch_generalization.py
             tests/test_run_yearly_10k_batch_diagnostics.py
+            tests/test_plain_text_10k_parser.py
           if-no-files-found: ignore
           retention-days: 14
