@@ -1,0 +1,282 @@
+name: Apply direct extraction diagnostics patch
+
+on:
+  push:
+    branches:
+      - fix/direct-extraction-diagnostics
+
+permissions:
+  contents: write
+
+jobs:
+  patch-and-test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/direct-extraction-diagnostics
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install test dependencies
+        run: python -m pip install -r requirements.txt pytest
+      - name: Patch runner and add regression test
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          runner = Path('scripts/run_yearly_10k_batch.py')
+          text = runner.read_text(encoding='utf-8')
+
+          if 'import traceback\n' not in text:
+              text = text.replace('import time\n', 'import time\nimport traceback\n', 1)
+
+          helper_marker = '\n\ndef run_batch(arguments) -> dict:\n'
+          if helper_marker not in text:
+              raise SystemExit('run_batch marker not found')
+
+          helper = r'''
+
+
+def preserve_extraction_diagnostics(
+    work_root: Path,
+    output_root: Path,
+    arguments,
+    failed_stage: str,
+    error: BaseException,
+) -> None:
+    """Copy extraction failure evidence before TemporaryDirectory cleanup."""
+    diagnostics_root = output_root / "extraction_diagnostics"
+    diagnostics_root.mkdir(parents=True, exist_ok=True)
+    sample_root = stage_root(
+        work_root, arguments.report_year, arguments.sample_namespace
+    )
+    sources = {
+        "html_manifest": sample_root / "html/manifest",
+        "extraction_results": sample_root / "text/extraction_results",
+        "processing_logs": sample_root / "text/processing_logs",
+        "analysis_tables": sample_root / "text/analysis_tables",
+    }
+    copied_paths = {}
+    for name, source in sources.items():
+        destination = diagnostics_root / name
+        copied = source.exists()
+        copied_paths[name] = {
+            "source": str(source),
+            "destination": str(destination),
+            "copied": copied,
+        }
+        if not copied:
+            continue
+        if source.is_dir():
+            shutil.copytree(source, destination, dirs_exist_ok=True)
+        else:
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, destination)
+
+    metadata = {
+        "preserved_at": utc_now(),
+        "report_year": arguments.report_year,
+        "sample_namespace": arguments.sample_namespace,
+        "batch_id": arguments.batch_id,
+        "failed_stage": failed_stage,
+        "exception_type": type(error).__name__,
+        "exception_message": str(error),
+        "temporary_root": str(work_root),
+        "output_root": str(output_root),
+        "source_manifest": str(arguments.manifest),
+        "runner_arguments": {
+            "run_collection": arguments.run_collection,
+            "run_extraction": arguments.run_extraction,
+            "run_language": arguments.run_language,
+            "force": arguments.force,
+        },
+        "copied_paths": copied_paths,
+    }
+    (diagnostics_root / "diagnostic_metadata.json").write_text(
+        json.dumps(metadata, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    (diagnostics_root / "traceback.txt").write_text(
+        "".join(
+            traceback.format_exception(
+                type(error), error, error.__traceback__
+            )
+        ),
+        encoding="utf-8",
+    )
+'''
+          if 'def preserve_extraction_diagnostics(' not in text:
+              text = text.replace(helper_marker, helper + helper_marker, 1)
+
+          lines = text.splitlines(keepends=True)
+          work_line = next(
+              i for i, line in enumerate(lines)
+              if line == '            work_root = Path(temporary)\n'
+          )
+          end_line = next(
+              i for i in range(work_line + 1, len(lines))
+              if lines[i] == '        failed_stage = ""\n'
+          )
+          if lines[work_line + 1] != '            try:\n':
+              body = ['    ' + line if line.strip() else line for line in lines[work_line + 1:end_line]]
+              handler = [
+                  '            except Exception as error:\n',
+                  '                if failed_stage == "extraction":\n',
+                  '                    try:\n',
+                  '                        preserve_extraction_diagnostics(\n',
+                  '                            work_root,\n',
+                  '                            output_root,\n',
+                  '                            arguments,\n',
+                  '                            failed_stage,\n',
+                  '                            error,\n',
+                  '                        )\n',
+                  '                    except Exception as diagnostic_error:\n',
+                  '                        try:\n',
+                  '                            diagnostics_root = (\n',
+                  '                                output_root / "extraction_diagnostics"\n',
+                  '                            )\n',
+                  '                            diagnostics_root.mkdir(\n',
+                  '                                parents=True, exist_ok=True\n',
+                  '                            )\n',
+                  '                            (\n',
+                  '                                diagnostics_root\n',
+                  '                                / "diagnostic_hook_failure.txt"\n',
+                  '                            ).write_text(\n',
+                  '                                "".join(\n',
+                  '                                    traceback.format_exception(\n',
+                  '                                        type(diagnostic_error),\n',
+                  '                                        diagnostic_error,\n',
+                  '                                        diagnostic_error.__traceback__,\n',
+                  '                                    )\n',
+                  '                                ),\n',
+                  '                                encoding="utf-8",\n',
+                  '                            )\n',
+                  '                        except Exception:\n',
+                  '                            pass\n',
+                  '                raise\n',
+              ]
+              lines[work_line + 1:end_line] = ['            try:\n', *body, *handler]
+              text = ''.join(lines)
+
+          runner.write_text(text, encoding='utf-8')
+
+          test = Path('tests/test_run_yearly_10k_batch_diagnostics.py')
+          test.write_text(r'''from pathlib import Path
+from types import SimpleNamespace
+import json
+import sys
+
+import pytest
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from scripts import run_yearly_10k_batch as runner
+
+
+def test_extraction_failure_diagnostics_survive_temporary_cleanup(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+):
+    manifest = tmp_path / "manifest.csv"
+    manifest.write_text(
+        "final_sample_id,company_id,cik,symbol,ticker,security,accession_number,primary_document,form,report_date\n"
+        "TEST,TEST,0000000001,TST,TST,Test Company,0000000001-10-000001,test10k.htm,10-K,2010-12-31\n",
+        encoding="utf-8",
+    )
+    output_root = tmp_path / "output"
+    arguments = SimpleNamespace(
+        report_year="2010",
+        batch_id=1,
+        manifest=manifest,
+        sample_namespace="sample_503",
+        run_collection=True,
+        run_extraction=True,
+        run_language=False,
+        force=False,
+        output_dir=output_root,
+    )
+
+    def fake_collect(work_root, output_root, rows, report_year, sample_namespace):
+        sample_root = runner.stage_root(work_root, report_year, sample_namespace)
+        html_manifest = sample_root / "html/manifest"
+        html_manifest.mkdir(parents=True, exist_ok=True)
+        (html_manifest / "html_manifest.csv").write_text(
+            "final_sample_id,cik,accession_number\nTEST,0000000001,0000000001-10-000001\n",
+            encoding="utf-8",
+        )
+        return []
+
+    def fake_extract(work_root, **kwargs):
+        sample_root = runner.stage_root(work_root, "2010", "sample_503")
+        extraction_results = sample_root / "text/extraction_results"
+        processing_logs = sample_root / "text/processing_logs"
+        analysis_tables = sample_root / "text/analysis_tables"
+        extraction_results.mkdir(parents=True, exist_ok=True)
+        processing_logs.mkdir(parents=True, exist_ok=True)
+        analysis_tables.mkdir(parents=True, exist_ok=True)
+        (extraction_results / "company_text_extraction_results.csv").write_text(
+            "company_id,extraction_status\nTEST,failed_after_3_attempts\n",
+            encoding="utf-8",
+        )
+        (processing_logs / "text_extraction_log.jsonl").write_text(
+            '{"company_id":"TEST","error":"forced parser failure"}\n',
+            encoding="utf-8",
+        )
+        (analysis_tables / "sections.csv").write_text(
+            "company_id,section_code\n",
+            encoding="utf-8",
+        )
+        raise ValueError("forced parser failure")
+
+    monkeypatch.setattr(runner, "collect_and_upload", fake_collect)
+    monkeypatch.setattr(runner, "extract", fake_extract)
+
+    with pytest.raises(ValueError, match="forced parser failure"):
+        runner.run_batch(arguments)
+
+    diagnostics = output_root / "extraction_diagnostics"
+    metadata = json.loads(
+        (diagnostics / "diagnostic_metadata.json").read_text(encoding="utf-8")
+    )
+    assert metadata["failed_stage"] == "extraction"
+    assert metadata["exception_type"] == "ValueError"
+    assert metadata["exception_message"] == "forced parser failure"
+    assert (diagnostics / "traceback.txt").is_file()
+    assert "forced parser failure" in (
+        diagnostics / "traceback.txt"
+    ).read_text(encoding="utf-8")
+    assert (
+        diagnostics
+        / "html_manifest/html_manifest.csv"
+    ).is_file()
+    assert (
+        diagnostics
+        / "extraction_results/company_text_extraction_results.csv"
+    ).is_file()
+    assert (
+        diagnostics
+        / "processing_logs/text_extraction_log.jsonl"
+    ).is_file()
+    assert (
+        diagnostics
+        / "analysis_tables/sections.csv"
+    ).is_file()
+''', encoding='utf-8')
+
+          Path('.github/workflows/codex-direct-extraction-diagnostics.yml').unlink()
+          PY
+      - name: Run regression test
+        run: python -m pytest -q tests/test_run_yearly_10k_batch_diagnostics.py
+      - name: Validate patch
+        run: |
+          python -m py_compile scripts/run_yearly_10k_batch.py
+          git diff --check
+      - name: Commit tested patch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/run_yearly_10k_batch.py tests/test_run_yearly_10k_batch_diagnostics.py .github/workflows/codex-direct-extraction-diagnostics.yml
+          git commit -m "Preserve extraction diagnostics before temp cleanup"
+          git push origin HEAD:fix/direct-extraction-diagnostics
