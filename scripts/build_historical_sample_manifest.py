@@ -7,8 +7,12 @@ import argparse
 import csv
 from pathlib import Path
 
-from scripts import build_2020_sample_500 as selector
-from scripts.sec_client import SecClient, normalize_cik
+try:
+    from scripts import build_2020_sample_500 as selector
+    from scripts.sec_client import SecClient, normalize_cik
+except ModuleNotFoundError:
+    import build_2020_sample_500 as selector
+    from sec_client import SecClient, normalize_cik
 
 
 FIELDS = [

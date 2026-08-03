@@ -11,6 +11,12 @@
 - 관찰: GitHub dispatch API가 required `sample_manifest`의 빈 값을 거부해 workflow run을 만들지 않았다(HTTP 422, run ID 없음). (codex)
 - 조치: dispatch에는 목표 경로를 명시하고 prepare 단계가 해당 경로의 파일이 없을 때만 adapter를 실행하도록 변경했다. (codex)
 
+## 2026-08-03 - 첫 continuous run의 adapter import 실패
+
+- 관찰: run `30786328276`의 `prepare`가 `ModuleNotFoundError: No module named 'scripts'`로 실패했다. (codex)
+- 영향: SEC filing 요청, R2 write, batch 및 finalize job은 시작되지 않았다. (codex)
+- 수정: 기존 스크립트와 동일한 package/CLI 양쪽 import fallback을 adapter에 추가한다. (codex)
+
 ## 2026-08-03 - workflow 실행 보류: 2019 input manifest 부재
 
 - 확인: cache-first constituent reconstruction과 관련 테스트는 통과했고 작업 branch commit `8ff545f`는 원격 historical branch에 push됐다. (codex)

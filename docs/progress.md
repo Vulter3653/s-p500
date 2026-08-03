@@ -5,6 +5,11 @@
 - 확인: 첫 `gh workflow run`은 required `sample_manifest` 빈 입력을 API가 거부해 run을 생성하지 않았다. (codex)
 - 조치: workflow가 명시된 2019 manifest 경로를 재사용하거나 파일 부재 시에만 adapter를 실행하도록 보정했다. (codex)
 
+## 2026-08-03 - 첫 workflow prepare 실패 및 최소 보정
+
+- run `30786328276`은 adapter의 `scripts` import 오류로 prepare 단계에서 실패했다. SEC 요청·R2·Drive 쓰기는 0이다. (codex)
+- package import fallback만 보정하고 허용된 재실행 1회를 준비한다. (codex)
+
 ## 2026-08-03 - 2019 collection-ready manifest 생성 경로 연결
 
 - 확인: tracked branch와 관련 history에 `2019/sample_503/sample/final_analysis_sample_503.csv` 및 2019 filing manifest는 없었고, 기존 2019 constituent CSV만 존재했다. (codex)
