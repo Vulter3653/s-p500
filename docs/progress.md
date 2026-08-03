@@ -1,18 +1,13 @@
-## 2026-08-02 - continuous backfill 최소 구현
-
-- 구현: `.github/workflows/run-historical-backfill-continuous.yml`에 prepare·최대 6개 process-batches·finalize-and-dispatch 구조를 추가했다. 기본값은 dry-run이며 `execute=true`와 명시적 confirmation 없이는 외부 쓰기와 dispatch를 수행하지 않는다. (codex)
-- 구현: `scripts/continuous_backfill.py`가 실제 `ai_term_count`를 사용해 결측을 0으로 오인하지 않고, 3년 연속 검증 0 상태 전이와 원자적 CSV·Parquet candidate append를 처리한다. (codex)
-- 구현: `generate_web_analysis_data.py`가 `--panel`, `--analysis-dir`, `--start-year`, `--end-year`를 받아 historical candidate 입력을 사용할 수 있게 했다. (codex)
-- 검증: continuous fixture 4건과 runner 일반화 테스트를 합쳐 21건 통과, Python compile, workflow YAML parse, dry-run no-write, `git diff --check`를 확인했다. (codex)
-- 제한: 실제 SEC/R2/Google Drive 수집, historical manifest 생성, publication branch push 및 self-dispatch는 아직 실행하지 않았다. (codex)
-
-## 2026-08-02 - 연속 historical backfill 인수인계 보존
-
-- 조치: `codex/historical-backfill-continuous` 원격 branch를 runner 구현 기준에서 생성하고 `docs/handoff-historical-backfill-continuous.md`를 커밋했다. 2019부터 과거 방향으로 계속 진행하고 완전히 검증된 3개 연속 `annual_ai_keyword_count=0`에서만 종료하는 요구사항, candidate panel·dashboard preview·self-dispatch 순서를 기록했다. (codex)
-- 상태: Codespace 종료 대비 원격 보존 완료. 실제 historical 수집, panel 갱신, dashboard publication, SEC/R2/Drive 쓰기 및 main 병합은 아직 수행하지 않았다. (codex)
-- 다음: 새 Codespace에서 PR #2·PR #3와 실제 schema/CLI를 재감사한 뒤 fixture/mock·dry-run을 먼저 구현하고 검증한다. 사용자 승인 전에는 2019 실제 실행을 dispatch하지 않는다. (codex)
-
 # Project Progress and Session Handoff
+
+## 2026-08-03 - SEC metadata cache-first 복구 및 2019 constituent 검증
+
+- 상태: 작업 시작 HEAD는 `296bea6`; 원격 runner HEAD는 `38a3f1086ac1cbb3dea8cc83244b360db24522dc`, 원격 historical branch HEAD는 `0b997b601e48234b565452c2951cb21512fdbb95`, 원격 main HEAD는 `cc162b21719fb1bf12c0dfaeab1818ad1d2c1d41`이다. `git fetch --all --prune`은 Codespaces의 `.git/FETCH_HEAD` 읽기 전용 제약으로 실행되지 않았다. 종료 당시 미커밋 4개 파일은 모두 복구되었고, 원격 historical branch 구현과 비교해 끝 개행 외 차이가 없었다. (codex)
+- 변경: `build_annual_constituents.py`와 `build_full_historical_constituents.py`가 SEC ticker JSON을 cache-first로 선택하고 JSON 필수 필드를 검증한다. 유효 cache는 SHA 중복을 하나로 처리하며, cache가 없을 때만 `SEC_USER_AGENT`로 단일 요청한다. HTTP 403은 retryable false로 기록한다. (codex)
+- 변경: continuous workflow가 SEC cache preflight를 수행하고, chain state에 source path·SHA-256·origin·network 여부·retrieved timestamp를 전달한다. candidate web generator가 입력 panel의 실제 source path/hash를 기록하도록 보완했다. (codex)
+- 실행: `python scripts/build_full_historical_constituents.py --source-date 2026-07-24 --start-year 2019 --end-year 2019`를 실제 저장소 cache·raw source로 1회 실행했다. 2019 snapshot은 505 securities·501 company rows이며 SEC network request는 0회였다. (codex)
+- 검증: 관련 pytest 10 passed, Python compile, workflow YAML parse 및 `git diff --check`가 통과했다. continuous GitHub Actions는 실행하지 않았고 R2·Google Drive write, main merge/push, 기존 2020–2025 panel/dashboard 변경은 0이다. (codex)
+- 다음: `.git` 쓰기 권한이 있는 환경에서 변경을 기능 단위 commit하고 `codex/historical-backfill-continuous`에 push한 뒤, 동일 workflow를 1회 dry-run/승인 실행한다. (codex)
 
 ## 2026-08-02 - 503개 표본·6개 batch runner 일반화
 

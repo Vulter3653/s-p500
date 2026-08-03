@@ -1,17 +1,13 @@
-## 2026-08-02 - continuous backfill 최소 구현 검증
-
-- 관찰: 원격 integration branch에는 handoff만 있었고 orchestration·state·panel append·dashboard 입력 일반화가 없었다. (codex)
-- 조치: 기존 yearly runner와 merge를 호출하는 단일 workflow, `ai_term_count` 결측 fail-closed 집계, zero-streak 상태 전이, 원자적 candidate panel writer 및 generator의 동적 입력 인수를 추가했다. (codex)
-- 검증: `pytest -q tests/test_continuous_backfill.py tests/test_yearly_batch_generalization.py`는 21건 통과했고, dry-run은 chain-state 파일·commit·dispatch 없이 종료했다. (codex)
-- 남은 위험: 실제 Actions 환경의 artifact 경로, GitHub expression, publication branch 동기화 및 historical constituent manifest 연결은 실제 dry-run에서 확인해야 한다. (codex)
-
-## 2026-08-02 - Codespace 종료 대비 continuous backfill 인수인계
-
-- 관찰: Codespace 종료가 임박해 연속 historical backfill의 orchestration, atomic panel publication 및 dashboard preview를 이 환경에서 구현·실행하기에는 안전한 검증 시간이 부족하다. (codex)
-- 조치: 실제 외부 쓰기 없이 원격 `codex/historical-backfill-continuous` branch에 인수인계 문서와 재접속 명령을 보존했다. runner PR #3 fixture Actions 성공 상태와 보호 대상 파일을 명시했다. (codex)
-- 제한: 실제 SEC 요청, R2/Google Drive 쓰기, annual run, self-dispatch 및 Cloudflare preview는 수행하지 않았다. 다음 Codespace에서 schema·CLI를 재확인한 뒤 구현해야 한다. (codex)
-
 # Debug Log
+
+## 2026-08-03 - historical constituent 단계의 SEC 403 재요청 방지
+
+- 재현: historical reconstruction이 `data/raw/sec_company_tickers_*.json`을 찾지 못하면 `https://www.sec.gov/files/company_tickers.json`을 새로 요청했고, Actions run `30742995468`에서 `HTTP 403 Forbidden`으로 중단됐다. (codex)
+- 원인: 기존 SEC ticker metadata가 source/artifact에 존재해도 새 workspace로 전달·복원되지 않아 cache-first 경로가 없었다. 연락처 User-Agent 부재는 별도 위험이지만, 우선순위 위반으로 기존 source를 재사용하지 않은 것이 직접 원인이다. (codex)
+- 수정: 현재 branch `data/raw`, 복구 artifact cache, persistent cache를 우선순위와 결정론적 filename으로 탐색하고 JSON 필수 필드·SHA를 검증한다. 유효 cache는 `network_requested=false`로 metadata sidecar와 constituent manifest에 남긴다. cache가 없을 때만 `SEC_USER_AGENT`로 1회 요청하며 403은 재시도하지 않고 `retryable=false`와 HTTP status를 기록한다. (codex)
+- 검증: valid cache network 0회, cache miss network 1회, 403 호출 1회·non-retryable, corrupt cache 거부, 다중 cache 결정론적 선택, chain-state source metadata 및 continuous state transition 테스트를 포함한 `pytest -q tests/test_sec_metadata_cache.py tests/test_continuous_backfill.py`가 10 passed였다. compile·YAML parse·`git diff --check`도 통과했다. (codex)
+- 실제 단계: `build_full_historical_constituents.py`를 2019년에 한 번 실행했고 `sec_tickers_sha256=133a1b0210ca0359abb608698b160a693b95212d53d26b1b9292812d28463a9c`, source path `data/raw/sec_company_tickers_2026-07-24.json`, network 0회를 확인했다. (codex)
+- 남은 위험: `.git/FETCH_HEAD`가 읽기 전용이라 원격 fetch·commit·push를 수행하지 못했다. continuous workflow와 Actions run은 중복 비용 방지를 위해 실행하지 않았다. (codex)
 
 ## 2026-08-02 - yearly runner의 503개 표본·6개 batch 일반화
 

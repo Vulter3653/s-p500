@@ -7,10 +7,11 @@ import argparse
 import hashlib
 import io
 import json
+import os
 import re
-from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 import pandas as pd
@@ -46,6 +47,136 @@ HISTORICAL_TICKER_METADATA = {
 }
 
 
+class SecMetadataError(RuntimeError):
+    """A fail-closed SEC metadata resolution error with audit metadata."""
+
+    def __init__(self, message: str, metadata: dict[str, object]):
+        super().__init__(message)
+        self.metadata = metadata
+
+
+def _relative_source_path(root: Path, path: Path) -> str:
+    try:
+        return str(path.resolve().relative_to(root.resolve()))
+    except ValueError:
+        return str(path.resolve())
+
+
+def _cache_timestamp(path: Path) -> str | None:
+    match = re.search(r"(20\d{2}-\d{2}-\d{2})", path.name)
+    if match:
+        return f"{match.group(1)}T00:00:00+00:00"
+    return None
+
+
+def validate_sec_ticker_cache(content: bytes, path: Path | None = None) -> dict[str, dict[str, object]]:
+    """Validate the minimum SEC ticker snapshot contract before reuse."""
+    try:
+        payload = json.loads(content)
+    except (UnicodeDecodeError, json.JSONDecodeError) as exc:
+        raise ValueError(f"invalid SEC ticker JSON: {path or '<bytes>'}") from exc
+    if not isinstance(payload, dict) or not payload:
+        raise ValueError(f"SEC ticker cache must be a non-empty object: {path or '<bytes>'}")
+    for key, record in payload.items():
+        if not isinstance(record, dict):
+            raise ValueError(f"SEC ticker cache record is not an object: {key}")
+        required = {"ticker", "cik_str", "title"}
+        if not required.issubset(record):
+            raise ValueError(f"SEC ticker cache record is incomplete: {key}")
+        ticker = clean_symbol(record["ticker"])
+        title = clean_text(record["title"])
+        cik = str(record["cik_str"]).strip()
+        if not ticker or not title or not cik.isdigit() or not 1 <= len(cik) <= 10:
+            raise ValueError(f"SEC ticker cache record has invalid fields: {key}")
+    return payload
+
+
+def _sec_metadata_sidecar(root: Path, metadata: dict[str, object]) -> None:
+    path = root / "data" / "processed" / "sec_ticker_metadata.json"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def _sec_cache_candidates(root: Path, source_date: str | None) -> list[tuple[str, Path]]:
+    """Search cache layers in priority order with deterministic filenames."""
+    layers = [
+        ("current_branch_data_raw", root / "data" / "raw"),
+        ("restored_action_artifact", root / "automation" / "historical_backfill" / "cache"),
+        ("persistent_cache", root / ".cache" / "sec-metadata"),
+    ]
+    candidates: list[tuple[str, Path]] = []
+    for origin, directory in layers:
+        paths = sorted(directory.glob("sec_company_tickers_*.json")) if directory.exists() else []
+        if source_date:
+            exact = [path for path in paths if path.name == f"sec_company_tickers_{source_date}.json"]
+            paths = exact + [path for path in paths if path not in exact]
+        candidates.extend((origin, path) for path in paths)
+    return candidates
+
+
+def resolve_sec_ticker_cache(root: Path, source_date: str | None = None) -> tuple[bytes, dict[str, object]]:
+    """Reuse one valid SEC ticker cache, or perform at most one SEC request."""
+    seen_sha: set[str] = set()
+    invalid: list[str] = []
+    for origin, path in _sec_cache_candidates(root, source_date):
+        try:
+            content = path.read_bytes()
+            validate_sec_ticker_cache(content, path)
+        except (OSError, ValueError) as exc:
+            invalid.append(f"{path}: {exc}")
+            continue
+        source_sha = hashlib.sha256(content).hexdigest()
+        if source_sha in seen_sha:
+            continue
+        seen_sha.add(source_sha)
+        metadata = {
+            "source_path": _relative_source_path(root, path),
+            "source_sha256": source_sha,
+            "source_origin": origin,
+            "network_requested": False,
+            "retrieved_at_utc": _cache_timestamp(path),
+            "retryable": False,
+        }
+        _sec_metadata_sidecar(root, metadata)
+        return content, metadata
+
+    target = root / "data" / "raw" / f"sec_company_tickers_{source_date or date.today().isoformat()}.json"
+    metadata = {
+        "source_path": _relative_source_path(root, target),
+        "source_sha256": None,
+        "source_origin": "network",
+        "network_requested": True,
+        "retrieved_at_utc": None,
+        "retryable": True,
+        "invalid_cache_candidates": invalid,
+    }
+    user_agent = os.environ.get("SEC_USER_AGENT", "").strip()
+    if not user_agent:
+        metadata["network_requested"] = False
+        metadata["source_origin"] = "missing_cache_and_user_agent"
+        metadata["retryable"] = False
+        _sec_metadata_sidecar(root, metadata)
+        raise SecMetadataError("SEC ticker cache missing and SEC_USER_AGENT is not set", metadata)
+    try:
+        content = fetch_url(SEC_TICKERS_URL, target, user_agent=user_agent)
+        validate_sec_ticker_cache(content, target)
+    except HTTPError as exc:
+        metadata.update({"http_status": exc.code, "retryable": False, "error": str(exc)})
+        _sec_metadata_sidecar(root, metadata)
+        raise SecMetadataError(f"SEC ticker metadata request failed with HTTP {exc.code}", metadata) from exc
+    except ValueError as exc:
+        metadata.update({"retryable": False, "error": str(exc)})
+        _sec_metadata_sidecar(root, metadata)
+        raise SecMetadataError("SEC ticker metadata response is invalid", metadata) from exc
+    metadata.update({
+        "source_sha256": hashlib.sha256(content).hexdigest(),
+        "retrieved_at_utc": datetime.now(timezone.utc).isoformat(),
+        "retryable": False,
+    })
+    _sec_metadata_sidecar(root, metadata)
+    return content, metadata
+
+
 def clean_text(value: object) -> str:
     if pd.isna(value):
         return ""
@@ -74,8 +205,8 @@ def fetch_source(path: Path) -> bytes:
     return content
 
 
-def fetch_url(url: str, path: Path) -> bytes:
-    request = Request(url, headers={"User-Agent": USER_AGENT})
+def fetch_url(url: str, path: Path, user_agent: str | None = None) -> bytes:
+    request = Request(url, headers={"User-Agent": user_agent or USER_AGENT})
     with urlopen(request, timeout=60) as response:
         content = response.read()
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -315,8 +446,7 @@ def main() -> None:
     root = args.root.resolve()
     raw_path = root / "data" / "raw" / f"wikipedia_sp500_{args.source_date}.html"
     content = fetch_source(raw_path)
-    sec_raw_path = root / "data" / "raw" / f"sec_company_tickers_{args.source_date}.json"
-    sec_content = fetch_url(SEC_TICKERS_URL, sec_raw_path)
+    sec_content, sec_metadata = resolve_sec_ticker_cache(root, args.source_date)
     sec_map = sec_ticker_map(sec_content)
     historical_raw_path = (
         root
@@ -358,7 +488,8 @@ def main() -> None:
         "source_url": SOURCE_URL,
         "source_sha256": hashlib.sha256(content).hexdigest(),
         "sec_tickers_url": SEC_TICKERS_URL,
-        "sec_tickers_sha256": hashlib.sha256(sec_content).hexdigest(),
+        "sec_tickers_sha256": sec_metadata["source_sha256"],
+        "sec_ticker_metadata": sec_metadata,
         "historical_components_url": HISTORICAL_COMPONENTS_URL,
         "historical_components_sha256": hashlib.sha256(
             historical_content
