@@ -2,6 +2,10 @@
 
 ## 2026-08-03
 
+- Fixed: continuous historical publication now passes multiline shell arguments correctly and resolves missing manifests from the current processing year. (codex)
+
+## 2026-08-03
+
 - Fixed: historical dashboard generation now installs the PyYAML dependency required by `generate_web_analysis_data.py`. (codex)
 
 ## 2026-08-03
