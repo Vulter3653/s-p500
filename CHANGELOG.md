@@ -2,6 +2,10 @@
 
 ## 2026-08-03
 
+- Fixed: yearly batch runner가 package import와 direct script 실행 모두에서 관련 `scripts` 모듈을 로드하도록 import fallback을 보정했다. (codex)
+
+## 2026-08-03
+
 - Added: 기존 2019 constituent universe를 사용해 SEC filing metadata만 수집하는 collection-ready manifest adapter를 추가하고, continuous workflow가 manifest를 생성·artifact로 matrix job에 전달하도록 연결했다. (codex)
 
 ## 2026-08-03

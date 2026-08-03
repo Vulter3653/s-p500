@@ -1,5 +1,11 @@
 # Debug Log
 
+## 2026-08-03 - package 실행 시 batch runner import 실패
+
+- 재현: run `30786636801`의 prepare manifest validation에서 `ModuleNotFoundError: No module named 'download_10k_html'`가 발생했다. `scripts.run_yearly_10k_batch`가 package 형태로 import될 때 script-local absolute import가 실패한 것이다. (codex)
+- 수정: `run_yearly_10k_batch.py`의 직접 관련 모듈을 package-relative import 우선, direct-script absolute import fallback으로 변경했다. (codex)
+- 검증: Python compile와 `validate_source_manifest` import가 성공했으며, SEC/R2/Drive 작업은 수행하지 않았다. (codex)
+
 ## 2026-08-03 - historical manifest adapter의 SEC_USER_AGENT 누락
 
 - 관찰: run `30786436157`의 최초 실패는 `SecClient` 생성 시 `ValueError: SEC_USER_AGENT is not set`이었다. (codex)

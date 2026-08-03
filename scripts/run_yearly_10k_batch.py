@@ -22,27 +22,50 @@ from urllib.request import Request, urlopen
 
 from botocore.exceptions import ClientError
 
-from download_10k_html import HtmlDownloader, archive_url
-from extract_10k_analysis_text import extract
-from language_measurement_common import ROOT, write_csv
-from load_brysbaert_concreteness_dictionary import (
-    DEFAULT_PATH as BRYSBAERT_SOURCE,
-    DIRECT_URL as BRYSBAERT_URL,
-    EXPECTED_SHA256 as BRYSBAERT_SHA256,
-    load_dictionary as load_brysbaert,
-)
-from load_loughran_mcdonald_dictionary import (
-    DEFAULT_PATH as LM_SOURCE,
-    DIRECT_URL as LM_URL,
-    EXPECTED_SHA256 as LM_SHA256,
-    load_dictionary as load_lm,
-)
-from load_smart_stopwords import (
-    DEFAULT_PATH as SMART_SOURCE,
-    EXPECTED_SHA256 as SMART_SHA256,
-    TIDYTEXT_SOURCE_SHA256,
-    load_smart_stopwords,
-)
+try:
+    from .download_10k_html import HtmlDownloader, archive_url
+    from .extract_10k_analysis_text import extract
+    from .language_measurement_common import ROOT, write_csv
+    from .load_brysbaert_concreteness_dictionary import (
+        DEFAULT_PATH as BRYSBAERT_SOURCE,
+        DIRECT_URL as BRYSBAERT_URL,
+        EXPECTED_SHA256 as BRYSBAERT_SHA256,
+        load_dictionary as load_brysbaert,
+    )
+    from .load_loughran_mcdonald_dictionary import (
+        DEFAULT_PATH as LM_SOURCE,
+        DIRECT_URL as LM_URL,
+        EXPECTED_SHA256 as LM_SHA256,
+        load_dictionary as load_lm,
+    )
+    from .load_smart_stopwords import (
+        DEFAULT_PATH as SMART_SOURCE,
+        EXPECTED_SHA256 as SMART_SHA256,
+        TIDYTEXT_SOURCE_SHA256,
+        load_smart_stopwords,
+    )
+except ImportError:
+    from download_10k_html import HtmlDownloader, archive_url
+    from extract_10k_analysis_text import extract
+    from language_measurement_common import ROOT, write_csv
+    from load_brysbaert_concreteness_dictionary import (
+        DEFAULT_PATH as BRYSBAERT_SOURCE,
+        DIRECT_URL as BRYSBAERT_URL,
+        EXPECTED_SHA256 as BRYSBAERT_SHA256,
+        load_dictionary as load_brysbaert,
+    )
+    from load_loughran_mcdonald_dictionary import (
+        DEFAULT_PATH as LM_SOURCE,
+        DIRECT_URL as LM_URL,
+        EXPECTED_SHA256 as LM_SHA256,
+        load_dictionary as load_lm,
+    )
+    from load_smart_stopwords import (
+        DEFAULT_PATH as SMART_SOURCE,
+        EXPECTED_SHA256 as SMART_SHA256,
+        TIDYTEXT_SOURCE_SHA256,
+        load_smart_stopwords,
+    )
 
 
 MAX_SAMPLE_SIZE = 503

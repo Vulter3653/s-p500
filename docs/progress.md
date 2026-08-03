@@ -1,5 +1,11 @@
 # Project Progress and Session Handoff
 
+## 2026-08-03 - yearly batch package import 보정
+
+- 변경: `scripts/run_yearly_10k_batch.py`의 직접 script import를 package-relative import와 direct fallback으로 바꿨다. collection/extraction/language 및 dictionary 모듈의 관련 import를 함께 보정했다. (codex)
+- 검증: `py_compile`, `from scripts.run_yearly_10k_batch import validate_source_manifest`, `git diff --check` 통과. manifest·SEC cache·2019 데이터는 재생성하지 않았다. (codex)
+- 다음: commit/push 후 continuous workflow를 기존 입력으로 1회 재실행하고 prepare 및 batch 진입만 확인한다. (codex)
+
 ## 2026-08-03 - prepare의 SEC_USER_AGENT 전달 보정
 
 - run `30786436157`은 manifest adapter의 `SecClient` 초기화에서 `SEC_USER_AGENT is not set`으로 실패했다. SEC filing 요청·R2·batch는 시작되지 않았다. (codex)
