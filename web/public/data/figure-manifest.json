@@ -6,7 +6,7 @@
     "type": "line",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
-    "source_sha256": "cd782abe25da1141abce0a4b13fdbe09eeb6067342321644e0a04cbe31fab20c",
+    "source_sha256": "1bf2d3c5f43f9e043c9005589783377715a9c3a117967f5f6059f77b8b6c9295",
     "source_columns": [
       "report_year",
       "ai_disclosure_rate"
@@ -22,8 +22,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   },
   {
     "figure_id": "figure-02",
@@ -32,7 +32,7 @@
     "type": "line",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/tables/table_04_descriptive_statistics_by_year.csv",
-    "source_sha256": "5840fb0a8588a79a2205a9446f4c31030c0bf7c62c8f926935a25d469f2bc41b",
+    "source_sha256": "f82f1e2e5f6d37bfe484765c0213b598156c4161959a6923deafa8f5d8ddb095",
     "source_columns": [
       "report_year",
       "mean_ai_sentence_count_all",
@@ -49,8 +49,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   },
   {
     "figure_id": "figure-03",
@@ -59,7 +59,7 @@
     "type": "line",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
-    "source_sha256": "cd782abe25da1141abce0a4b13fdbe09eeb6067342321644e0a04cbe31fab20c",
+    "source_sha256": "1bf2d3c5f43f9e043c9005589783377715a9c3a117967f5f6059f77b8b6c9295",
     "source_columns": [
       "report_year",
       "whole_report_concreteness",
@@ -76,8 +76,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   },
   {
     "figure_id": "figure-04",
@@ -86,7 +86,7 @@
     "type": "line",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
-    "source_sha256": "cd782abe25da1141abce0a4b13fdbe09eeb6067342321644e0a04cbe31fab20c",
+    "source_sha256": "1bf2d3c5f43f9e043c9005589783377715a9c3a117967f5f6059f77b8b6c9295",
     "source_columns": [
       "report_year",
       "past_tense_share",
@@ -104,8 +104,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   },
   {
     "figure_id": "figure-05",
@@ -114,7 +114,7 @@
     "type": "line",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
-    "source_sha256": "cd782abe25da1141abce0a4b13fdbe09eeb6067342321644e0a04cbe31fab20c",
+    "source_sha256": "1bf2d3c5f43f9e043c9005589783377715a9c3a117967f5f6059f77b8b6c9295",
     "source_columns": [
       "report_year",
       "ai_lm_positive_share",
@@ -132,8 +132,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   },
   {
     "figure_id": "figure-06",
@@ -142,7 +142,7 @@
     "type": "effect",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/tables/table_05_ai_disclosure_group_comparison.csv",
-    "source_sha256": "d594dc178cdcd236d9a221db5cf360222d74d4aa337d969c0e5b0de09a18d1ee",
+    "source_sha256": "561bcce116d7a6efd8015c0e15d81ec037e6dc84fd0ceb95a4032b3d5922f629",
     "source_columns": [
       "variable",
       "standardized_mean_difference"
@@ -158,8 +158,8 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   },
   {
     "figure_id": "figure-07",
@@ -168,7 +168,7 @@
     "type": "change",
     "section": "7. 분석 결과",
     "source_file": "analysis/historical_candidate/figures/figure_within_firm_change_data.csv",
-    "source_sha256": "262479304cce372a291ecad954387e6d728c795e133c9b494de0a9c4993f35fb",
+    "source_sha256": "f03ea6b4687082a26dd369b813a610cbd8b37eb01a05e893535af4471a5ebfc8",
     "source_columns": [
       "variable",
       "report_year",
@@ -185,7 +185,7 @@
     "notes": [
       "기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"
     ],
-    "git_commit": "e271eb31809f3d8d85a47cf625eb88843d7c7cf8",
-    "generated_at": "2026-08-03T08:33:17.454097+00:00"
+    "git_commit": "2772f390ea5f0b89d009ea61f4bcd8df368a6f50",
+    "generated_at": "2026-08-03T09:49:58.388252+00:00"
   }
 ]
