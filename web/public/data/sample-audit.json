@@ -1,6 +1,13 @@
 {
-  "panel_rows": 4865,
+  "panel_rows": 4885,
   "year_rows": [
+    {
+      "report_year": 2007,
+      "firm_year_count": 20,
+      "unique_company_count": 20,
+      "ai_disclosure_count": 0,
+      "ai_disclosure_rate": 0.0
+    },
     {
       "report_year": 2008,
       "firm_year_count": 35,
