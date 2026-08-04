@@ -1,13 +1,13 @@
 {
-  "analysis_period": "2007-2025",
+  "analysis_period": "2006-2025",
   "unit_of_analysis": "firm-year",
-  "git_commit": "3de2001fad495e512ceb0d0d91ee9e0d4788a810",
-  "generated_at": "2026-08-04T02:53:47.988720+00:00",
+  "git_commit": "0d6a07aa6434a4a5cdeb50825a2efda9ad0d7b66",
+  "generated_at": "2026-08-04T03:12:02.775224+00:00",
   "sources": [
     {
       "dataset_id": "yearly_statistics",
       "source_file": "analysis/historical_candidate/tables/table_04_descriptive_statistics_by_year.csv",
-      "source_sha256": "512b7c0080e11af7cfd4eadb14caca4489590cf84742fc7efb130212b9434a40",
+      "source_sha256": "37dd9f9ab9b6860d65e764f4a70b955cddb6968c46f29c9e583873ec1a9a6e2d",
       "source_columns": [
         "report_year",
         "firm_year_count",
@@ -40,7 +40,7 @@
     {
       "dataset_id": "sample_by_year",
       "source_file": "analysis/historical_candidate/tables/table_01_sample_by_year.csv",
-      "source_sha256": "1fcbdc5dcf4b251584e9dde27cd44c712569dda2a14028c55c20ba4e8bd0f75b",
+      "source_sha256": "306e2187849b4ab1a13144e2ecca8d9aa9ae7542ffd55e70140bda6bd88df5b4",
       "source_columns": [
         "report_year",
         "firm_year_count",
@@ -53,7 +53,7 @@
     {
       "dataset_id": "descriptive_statistics",
       "source_file": "analysis/historical_candidate/tables/table_02_overall_descriptive_statistics.csv",
-      "source_sha256": "fb535832f47c1e9fb7d8b3d5e0d9ce9d4c41bf4580634ac3264a93728110b0f9",
+      "source_sha256": "06088ef77dac58674073ac50b4a0a4ceb1690e96c7c28ef73f0d128055eabce3",
       "source_columns": [
         "variable",
         "N",
@@ -71,7 +71,7 @@
     {
       "dataset_id": "binary_statistics",
       "source_file": "analysis/historical_candidate/tables/table_03_binary_variable_statistics.csv",
-      "source_sha256": "884821b8d9dfe31f56c0919f5ffc273103aeadbad8631c14bbbc32b59ad0ea2e",
+      "source_sha256": "fa9e5bb245556bc0971660279eb0a3408aeb71f2d573e42be208dcd9689fc72a",
       "source_columns": [
         "variable",
         "N",
@@ -85,7 +85,7 @@
     {
       "dataset_id": "disclosure_comparison",
       "source_file": "analysis/historical_candidate/tables/table_05_ai_disclosure_group_comparison.csv",
-      "source_sha256": "7b1f50931798d28e453fa77210a80b2a919fe7d974f2ee8422239a56fd0bacba",
+      "source_sha256": "a45198b8bcbc2580d39077febbff8d56183bd281e030efcbc5bb4eab81ae199f",
       "source_columns": [
         "variable",
         "disclosure_N",
@@ -102,7 +102,7 @@
     {
       "dataset_id": "within_firm_changes",
       "source_file": "analysis/historical_candidate/tables/table_07_within_firm_annual_changes.csv",
-      "source_sha256": "7c761b69a685b3e709c452cfff3758bbd59857f1d4e2d5414c5714cdbfd718cb",
+      "source_sha256": "6f5c8d362abb24d2c202cdfe78a5109fc18e6fe81768501dd7c92489c05a483c",
       "source_columns": [
         "variable",
         "report_year",
@@ -118,7 +118,7 @@
     {
       "dataset_id": "year_over_year_changes",
       "source_file": "analysis/historical_candidate/tables/table_06_year_over_year_aggregate_changes.csv",
-      "source_sha256": "d805b8acb3a011f266e04f53aba48fb1867f442f353fcafc89435a5e1fe4c8f8",
+      "source_sha256": "da9e40daf0054f9b22b5416054f9292af1c649721cebde9afd522f1832e0d2f2",
       "source_columns": [
         "variable",
         "report_year",
@@ -132,7 +132,7 @@
     {
       "dataset_id": "pearson_full",
       "source_file": "analysis/historical_candidate/tables/table_08_pearson_correlation_full_sample.csv",
-      "source_sha256": "2c224ded279a6bc263465d5d4f388f007d837895a2a13bb04846539498b863c2",
+      "source_sha256": "2276d475b0219aee41a40f50a5eef30a67fd76a4a6503896a0776d9b0d08bd3e",
       "source_columns": [
         "variable",
         "ai_disclosure",
@@ -168,7 +168,7 @@
     {
       "dataset_id": "spearman_full",
       "source_file": "analysis/historical_candidate/tables/table_09_spearman_correlation_full_sample.csv",
-      "source_sha256": "c05ce0d0612166fb15d82858f6d267659d6b72558bcce3e006101236b5b796f8",
+      "source_sha256": "ae87eb00e0c1589860ad9dae21e4a53bcc416d4965042fcd9fcb23e4aaa001bd",
       "source_columns": [
         "variable",
         "ai_disclosure",
@@ -204,7 +204,7 @@
     {
       "dataset_id": "pearson_ai",
       "source_file": "analysis/historical_candidate/tables/table_10_pearson_correlation_ai_disclosers.csv",
-      "source_sha256": "bfd9653dba1f67b75d100fde5309a796a2dff3e0ea8424e4ac9949d5ae28335e",
+      "source_sha256": "b9f9952f78647e5544fbf1a3469e5be364c26333a0ed2bfbcdaa8bc5f4b826eb",
       "source_columns": [
         "variable",
         "ai_sentence_count",
@@ -246,7 +246,7 @@
     {
       "dataset_id": "correlation_pvalues",
       "source_file": "analysis/historical_candidate/tables/table_13_correlation_pvalues.csv",
-      "source_sha256": "3ca52cde8c066df141d87ad55043fd8e49030c293e956d492c155fd528285ed5",
+      "source_sha256": "95b7fe0f96e7212e959e3426af0a6c3a34c0403d5bc77ef463ad5fcd9ecb07a5",
       "source_columns": [
         "sample",
         "method",
@@ -261,7 +261,7 @@
     {
       "dataset_id": "high_correlations",
       "source_file": "analysis/historical_candidate/tables/table_14_high_correlation_pairs.csv",
-      "source_sha256": "35b61f1788b18628f57580c7abf69aff756a00ec3e388615bf067ef5d1504ee8",
+      "source_sha256": "4522ee9d6a322d5ab6cf6cba7754b5987c09342b454ada1cb50b65409c2c14d1",
       "source_columns": [
         "sample",
         "method",
@@ -277,7 +277,7 @@
     {
       "dataset_id": "vif",
       "source_file": "analysis/historical_candidate/tables/table_15_vif_diagnostics.csv",
-      "source_sha256": "c825093ce6cf5868efe29a9e199dd5597fee1a785755bd2fd9367c5bbccbc0a6",
+      "source_sha256": "5ba61e10b098a5195010b63f61d09a3dde23e320bd949a56914922d2ff13f907",
       "source_columns": [
         "variable",
         "N",
@@ -288,7 +288,7 @@
     {
       "dataset_id": "aggregate_figures",
       "source_file": "analysis/historical_candidate/figures/figure_aggregate_data.csv",
-      "source_sha256": "0d5a67a6d5eb11ff2ec5ad1c9b0e33175bdb9298986c68a9b15f2a21be141348",
+      "source_sha256": "a14e3e8ae2b429346277028606d42419e47e24262d62e0227a78a3f7dff50c53",
       "source_columns": [
         "report_year",
         "ai_disclosure_rate",
@@ -311,7 +311,7 @@
     {
       "dataset_id": "ai_group_figures",
       "source_file": "analysis/historical_candidate/figures/figure_ai_group_data.csv",
-      "source_sha256": "24ff7c1aabea674c283707531779414e914e4a14383c49f56ea646849d117b26",
+      "source_sha256": "79babdc4962a0ce7a3bd48468422b28021dd6374be63a166ba965bcb4584f3e0",
       "source_columns": [
         "report_year",
         "ai_disclosure",
@@ -329,7 +329,7 @@
     {
       "dataset_id": "within_change_figures",
       "source_file": "analysis/historical_candidate/figures/figure_within_firm_change_data.csv",
-      "source_sha256": "26918a14699b605e28c767ba41f517a126a6ecc868c8cde833653f93d603e157",
+      "source_sha256": "d4749733350823e8c1810c0623d894b8ba579d2614b258ec81059b82bf01c8d4",
       "source_columns": [
         "variable",
         "report_year",
@@ -345,7 +345,7 @@
     {
       "dataset_id": "extended_panel",
       "source_file": "panel_historical_candidate/firm_year_language_panel_full_candidate.parquet",
-      "source_sha256": "5c99b5eb447b3990e04a398518694bd8ad2af698a4f4a3cc83289b090a4870a1",
+      "source_sha256": "13c06fe06a9a71877c4690d1bdc9f38531c4494b7b1827aeb5d7cecccc59a72c",
       "source_columns": [
         "company_id",
         "source_company_id",
