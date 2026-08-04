@@ -1,6 +1,16 @@
 [
   {
     "variable": "whole_report_concreteness",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": -0.0057098427272726,
+    "median_within_firm_change": -0.0068006599999996,
+    "standard_deviation": 0.0152071535515584,
+    "p25": -0.0171377600000002,
+    "p75": 0.0030044199999998
+  },
+  {
+    "variable": "whole_report_concreteness",
     "report_year": 2010,
     "paired_firm_count": 39,
     "mean_within_firm_change": -0.001657321025641,
@@ -158,6 +168,16 @@
     "standard_deviation": 0.008159019679623,
     "p25": -0.0072208299999999,
     "p75": 0.0015969799999999
+  },
+  {
+    "variable": "past_tense_share",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": 0.0001405991212911,
+    "median_within_firm_change": -0.0015447362958079,
+    "standard_deviation": 0.0218941870627791,
+    "p25": -0.0125691302161889,
+    "p75": 0.0130333066842126
   },
   {
     "variable": "past_tense_share",
@@ -321,6 +341,16 @@
   },
   {
     "variable": "present_tense_share",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": 0.0020340356387731,
+    "median_within_firm_change": 0.003760095896764,
+    "standard_deviation": 0.0218923660243798,
+    "p25": -0.0170198071088527,
+    "p75": 0.0135663083049113
+  },
+  {
+    "variable": "present_tense_share",
     "report_year": 2010,
     "paired_firm_count": 39,
     "mean_within_firm_change": 0.0074906041069459,
@@ -478,6 +508,16 @@
     "standard_deviation": 0.0156867411953439,
     "p25": -0.0069888835812603,
     "p75": 0.0117511991774632
+  },
+  {
+    "variable": "future_tense_share",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": -0.0021746347600642,
+    "median_within_firm_change": -0.0031394853845426,
+    "standard_deviation": 0.0063483776532197,
+    "p25": -0.0058599235569231,
+    "p75": 0.0017358490566037
   },
   {
     "variable": "future_tense_share",
@@ -641,6 +681,16 @@
   },
   {
     "variable": "lm_uncertainty_share",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": 3.7746969696969885e-05,
+    "median_within_firm_change": 7.855999999999835e-05,
+    "standard_deviation": 0.0008174618515888,
+    "p25": -0.0006192899999999,
+    "p75": 0.00048629
+  },
+  {
+    "variable": "lm_uncertainty_share",
     "report_year": 2010,
     "paired_firm_count": 39,
     "mean_within_firm_change": 0.0004235841025641,
@@ -798,6 +848,16 @@
     "standard_deviation": 0.000638043344757,
     "p25": -0.0001115049999999,
     "p75": 0.000563495
+  },
+  {
+    "variable": "passive_voice_sentence_share",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": -0.0021721691778826,
+    "median_within_firm_change": -0.0012679924869962,
+    "standard_deviation": 0.0146709415550661,
+    "p25": -0.007222469977638,
+    "p75": 0.0075929936088676
   },
   {
     "variable": "passive_voice_sentence_share",
@@ -961,6 +1021,16 @@
   },
   {
     "variable": "fog_index",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": 0.1242153072727271,
+    "median_within_firm_change": 0.0994772700000012,
+    "standard_deviation": 0.2498557027610309,
+    "p25": -0.0441878899999998,
+    "p75": 0.2732410099999995
+  },
+  {
+    "variable": "fog_index",
     "report_year": 2010,
     "paired_firm_count": 39,
     "mean_within_firm_change": 0.1575025158974358,
@@ -1118,6 +1188,16 @@
     "standard_deviation": 0.5997303514726323,
     "p25": -0.0508652000000005,
     "p75": 0.1635045024999994
+  },
+  {
+    "variable": "ai_sentence_count",
+    "report_year": 2009,
+    "paired_firm_count": 33,
+    "mean_within_firm_change": 0.0303030303030303,
+    "median_within_firm_change": 0.0,
+    "standard_deviation": 0.1740776559556978,
+    "p25": 0.0,
+    "p75": 0.0
   },
   {
     "variable": "ai_sentence_count",
