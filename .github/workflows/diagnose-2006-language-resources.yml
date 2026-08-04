@@ -1,0 +1,59 @@
+name: Diagnose 2006 Language Resources
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/workflows/diagnose-2006-language-resources.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Reproduce language resource preparation
+        run: |
+          python - <<'PY'
+          import json
+          import traceback
+          from pathlib import Path
+          from scripts import run_yearly_10k_batch_core as core
+
+          resources = {
+              'lm_source': core.LM_SOURCE,
+              'lm_analysis': core.LM_ANALYSIS,
+              'brysbaert_source': core.BRYSBAERT_SOURCE,
+              'brysbaert_analysis': core.BRYSBAERT_ANALYSIS,
+              'smart_source': core.SMART_SOURCE,
+              'smart_analysis': core.SMART_ANALYSIS,
+          }
+
+          def snapshot(label):
+              payload = {'label': label, 'resources': {}}
+              for name, path in resources.items():
+                  item = {'path': str(path), 'exists': path.is_file()}
+                  if path.is_file():
+                      item['size'] = path.stat().st_size
+                      item['sha256'] = core.sha256_file(path)
+                  payload['resources'][name] = item
+              print(json.dumps(payload, indent=2, sort_keys=True))
+
+          snapshot('before')
+          try:
+              core.ensure_language_resources()
+          except Exception as error:
+              print('DIAGNOSTIC_EXCEPTION_TYPE=' + type(error).__name__)
+              print('DIAGNOSTIC_EXCEPTION_MESSAGE=' + str(error))
+              traceback.print_exc()
+          else:
+              print('DIAGNOSTIC_RESULT=success')
+          snapshot('after')
+          PY
