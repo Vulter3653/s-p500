@@ -205,3 +205,9 @@
 # Unreleased
 
 - Added: runner branch 인수인계를 위한 fixture 전용 GitHub Actions와 Codespaces 재접속 문서를 추가했다. dashboard 및 실제 SEC/R2/Google Drive 실행과 분리했다. (codex)
+## 2026-08-06
+
+- Changed: 공개 웹 화면을 2020–2025년 고정 연구결과 보고서로 단순화하고 기간 설정, 기술 메타데이터, 재현성, 다운로드 UI를 제거했다. 내부 생성 산출물과 분석 계산은 유지했다. (codex)
+- Changed: 변수 정의·표·Figure가 하나의 한국어 변수명 매핑을 사용하도록 통일하고, 공개 변수 정의를 개념·조작적 정의·계산식·분자·분모·단위·조건부 표본·결측 및 0 처리로 제한했다. (codex)
+- Changed: Pearson 상관행렬을 10×10 정사각형 발산형 히트맵으로 교체하고, Figure에 변수명·단위·선 형태·수치 라벨 및 접근 가능한 값 설명을 추가했다. (codex)
+- Tested: 데이터 생성기, Python compile, Vite build, 정적 UI 계약 검사와 `git diff --check`를 통과했다. Playwright는 Chromium sandbox 권한 제약으로 페이지 실행 전에 종료되어 배포 후 확인 대상으로 남겼다. (codex)

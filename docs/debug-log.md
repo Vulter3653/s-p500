@@ -499,3 +499,10 @@
 
 - 최초 보조 점검식이 `pearson-core.json`과 `figure-manifest.json`을 모두 배열로 가정했으나, 실제 스키마는 각각 `rows`를 포함한 객체와 Figure 배열임을 확인함.
 - 저장소의 실제 JSON 스키마에 맞춘 점검식으로 재실행했으며 핵심 기술통계 10개, Pearson 10×10 행렬, model-free 관측치 2,829개 및 GroupMeanFigure manifest를 확인함.
+## 2026-08-06 — 1차 피드백 브라우저 검증 환경 제약 (codex)
+
+- 실행 명령: `npm --prefix web run test:browser`.
+- 관찰: 데스크톱·모바일 두 테스트 모두 페이지 요청 전에 Chromium이 `FATAL:content/browser/sandbox_host_linux.cc:41 Check failed: . shutdown: Operation not permitted (1)`로 종료됐다.
+- 판단: React 렌더링이나 네트워크 요청 이전의 실행 환경 sandbox 제약이며, 페이지 수준 console error·page error·failed request 검사는 수행되지 않았다.
+- 대체 검증: `npm --prefix web run test:static`에서 기간·재현성·다운로드 UI 부재, 2020–2025 고정, 연구변수 15개 한국어 매핑, Pearson 10×10 데이터와 `aspect-ratio: 1 / 1`, Figure `%`·`개`·`단어` 포맷을 확인했다. Vite production build도 통과했다.
+- 상태: 코드·정적 계약 검증 완료. 실제 모바일 overflow와 브라우저 런타임 오류는 배포 후 확인 대상으로 남는다.

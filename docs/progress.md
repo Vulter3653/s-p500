@@ -469,3 +469,12 @@
 - 원격 기준 commit: `542b437`.
 - PR 생성 및 배포는 수행하지 않음.
 - 배포 후 브라우저 검증은 사용자가 직접 수행 예정.
+## 2026-08-06 — 1차 사용자 피드백 공개 화면 단순화 (codex)
+
+- 미리보기 `https://e391a6d5.s-p500.pages.dev/`가 작업 시작 시점의 브랜치 자산 `index-BwZZ2Ghk.js`, `index-BGqLbHZa.css`를 제공함을 확인하고 최신 소스에 피드백을 적용했다.
+- 공개 React에서 기간 선택 상태·화면, 재현성 절, 개발자 메타데이터, 자료 경로와 다운로드를 제거하고 모든 표시를 2020–2025년 2,829개 기업-연도 핵심표본으로 고정했다. 내부 JSON·CSV·manifest·생성기는 삭제하지 않았다.
+- `web/src/variableLabels.js`의 공통 한국어 매핑을 변수 정의·표·Figure·범례가 공유한다. 변수 정의는 15개 연구변수의 논문 독자용 필드만 표시한다.
+- Pearson은 10×10 정사각형 히트맵으로 표시하며 셀별 상관계수, 발산형 색상, 유효 관측치 수와 p-value 접근성 설명을 유지한다. Figure에는 변수명·단위, 색상과 선 형태, 수치 라벨 또는 접근 가능한 값 설명을 제공한다.
+- 검증: `python -m py_compile scripts/generate_web_analysis_data.py`, `python scripts/generate_web_analysis_data.py`, `npm --prefix web run build`, `npm --prefix web run test:static`, `git diff --check` 통과.
+- 미실행: `npm --prefix web run test:browser`는 Chromium 실행 전 `sandbox_host_linux.cc:41` 권한 오류로 DOM 검증에 진입하지 못했다. 배포 후 데스크톱·모바일 브라우저 검증이 필요하다.
+- 외부 상태: 이번 변경은 아직 push·PR·배포하지 않았다.
