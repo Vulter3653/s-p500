@@ -16,7 +16,7 @@
 
 # Changelog
 
-## 2026-08-06
+## 0.14.0 - 2026-08-06
 
 - Added: 2020–2025년 2,829개 기업-연도 패널을 고정하는 핵심 기술통계·Pearson 상관행렬·Model-free 비교 산출물과 AI 관련 공시 있음·없음 평균 추이 Figure를 웹 생성기에 연결했다. (codex)
 - Changed: 연구 변수 정의에 AI 관련 공시 여부, AI 관련 문장 수, Gunning Fog Index 및 ln(Words) 로그 보고서 단어 수의 개념·계산식·조건부 표본을 반영하고, 핵심표에서 기술 메타데이터를 분리했다. (codex)
@@ -211,3 +211,4 @@
 - Changed: 변수 정의·표·Figure가 하나의 한국어 변수명 매핑을 사용하도록 통일하고, 공개 변수 정의를 개념·조작적 정의·계산식·분자·분모·단위·조건부 표본·결측 및 0 처리로 제한했다. (codex)
 - Changed: Pearson 상관행렬을 10×10 정사각형 발산형 히트맵으로 교체하고, Figure에 변수명·단위·선 형태·수치 라벨 및 접근 가능한 값 설명을 추가했다. (codex)
 - Tested: 데이터 생성기, Python compile, Vite build, 정적 UI 계약 검사와 `git diff --check`를 통과했다. Playwright는 Chromium sandbox 권한 제약으로 페이지 실행 전에 종료되어 배포 후 확인 대상으로 남겼다. (codex)
+- Changed: 공개 보고서 구조 변경에 맞춰 프로젝트 버전을 `0.14.0`으로 올리고 `VERSION`과 루트 package metadata를 동기화했다. 비공개 `web` 패키지의 내부 버전은 유지했다. (codex)
