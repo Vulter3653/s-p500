@@ -1,8 +1,8 @@
 {
   "analysis_period": "2006-2025",
   "unit_of_analysis": "firm-year",
-  "git_commit": "0d6a07aa6434a4a5cdeb50825a2efda9ad0d7b66",
-  "generated_at": "2026-08-04T03:12:02.775224+00:00",
+  "git_commit": "27ef8e9e9106596462e4bb2647cf2a7e62dd2f0c",
+  "generated_at": "2026-08-06T10:30:19.956628+00:00",
   "sources": [
     {
       "dataset_id": "yearly_statistics",
@@ -132,7 +132,7 @@
     {
       "dataset_id": "pearson_full",
       "source_file": "analysis/historical_candidate/tables/table_08_pearson_correlation_full_sample.csv",
-      "source_sha256": "2276d475b0219aee41a40f50a5eef30a67fd76a4a6503896a0776d9b0d08bd3e",
+      "source_sha256": "e6272a8e7cb15148ca63e45ad0dc89739f6b410c5d5a371153d077b43daee2a9",
       "source_columns": [
         "variable",
         "ai_disclosure",
@@ -204,7 +204,7 @@
     {
       "dataset_id": "pearson_ai",
       "source_file": "analysis/historical_candidate/tables/table_10_pearson_correlation_ai_disclosers.csv",
-      "source_sha256": "b9f9952f78647e5544fbf1a3469e5be364c26333a0ed2bfbcdaa8bc5f4b826eb",
+      "source_sha256": "bfd9653dba1f67b75d100fde5309a796a2dff3e0ea8424e4ac9949d5ae28335e",
       "source_columns": [
         "variable",
         "ai_sentence_count",
@@ -246,7 +246,7 @@
     {
       "dataset_id": "correlation_pvalues",
       "source_file": "analysis/historical_candidate/tables/table_13_correlation_pvalues.csv",
-      "source_sha256": "95b7fe0f96e7212e959e3426af0a6c3a34c0403d5bc77ef463ad5fcd9ecb07a5",
+      "source_sha256": "d5bd484e816339b7ab6529838592a2b7342b03a08241c89943c63b8bd0c05322",
       "source_columns": [
         "sample",
         "method",
@@ -261,7 +261,7 @@
     {
       "dataset_id": "high_correlations",
       "source_file": "analysis/historical_candidate/tables/table_14_high_correlation_pairs.csv",
-      "source_sha256": "4522ee9d6a322d5ab6cf6cba7754b5987c09342b454ada1cb50b65409c2c14d1",
+      "source_sha256": "fde1afbfcf0ffa95589c60400d61c3fd52cb16bf568440e251ebe69eedb50c0d",
       "source_columns": [
         "sample",
         "method",
@@ -277,7 +277,7 @@
     {
       "dataset_id": "vif",
       "source_file": "analysis/historical_candidate/tables/table_15_vif_diagnostics.csv",
-      "source_sha256": "5ba61e10b098a5195010b63f61d09a3dde23e320bd949a56914922d2ff13f907",
+      "source_sha256": "5021baa1b0c1dd7e3d4d2586691f065b5311a6ae7aab84933e688d7828453bbe",
       "source_columns": [
         "variable",
         "N",
