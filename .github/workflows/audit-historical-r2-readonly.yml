@@ -1,0 +1,84 @@
+name: Audit Historical R2 Objects (Read Only)
+
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "Comma-separated historical years to inspect"
+        required: true
+        type: string
+        default: "2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006"
+      sample_limit:
+        description: "Maximum object HEAD checks per year"
+        required: true
+        type: number
+        default: 3
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    env:
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+      R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Read-only prefix and object audit
+        env:
+          YEARS: ${{ inputs.years }}
+          SAMPLE_LIMIT: ${{ inputs.sample_limit }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          import boto3
+          from botocore.config import Config
+          client = boto3.client(
+              "s3",
+              endpoint_url=os.environ["R2_ENDPOINT_URL"],
+              aws_access_key_id=os.environ["R2_ACCESS_KEY_ID"],
+              aws_secret_access_key=os.environ["R2_SECRET_ACCESS_KEY"],
+              region_name="auto",
+              config=Config(retries={"max_attempts": 5, "mode": "standard"}),
+          )
+          years = [x.strip() for x in os.environ["YEARS"].split(",") if x.strip()]
+          limit = max(0, int(os.environ["SAMPLE_LIMIT"]))
+          report = {"generated_at": datetime.now(timezone.utc).isoformat(), "bucket": os.environ["R2_BUCKET_NAME"], "years": {}}
+          for year in years:
+              prefix = f"{year}/sample_503/html/raw/"
+              keys = []
+              paginator = client.get_paginator("list_objects_v2")
+              for page in paginator.paginate(Bucket=os.environ["R2_BUCKET_NAME"], Prefix=prefix):
+                  for item in page.get("Contents", []):
+                      keys.append({"key": item["Key"], "size": int(item.get("Size", 0)), "etag": item.get("ETag", "")})
+              samples = []
+              for item in keys[:limit]:
+                  head = client.head_object(Bucket=os.environ["R2_BUCKET_NAME"], Key=item["key"])
+                  samples.append({
+                      "key": item["key"],
+                      "content_length": int(head.get("ContentLength", 0)),
+                      "sha256_metadata": head.get("Metadata", {}).get("sha256", ""),
+                      "content_type": head.get("ContentType", ""),
+                  })
+              report["years"][year] = {"prefix": prefix, "object_count": len(keys), "total_bytes": sum(x["size"] for x in keys), "head_samples": samples}
+          with open("historical-r2-readonly-audit.json", "w", encoding="utf-8") as handle:
+              json.dump(report, handle, indent=2, sort_keys=True)
+          print(json.dumps(report, indent=2, sort_keys=True))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: historical-r2-readonly-audit
+          path: historical-r2-readonly-audit.json
+          retention-days: 30
