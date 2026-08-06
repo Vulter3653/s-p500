@@ -12,6 +12,9 @@ on:
       - "scripts/run_language_full_sample.py"
       - "scripts/merge_yearly_10k_batches.py"
       - "tests/test_yearly_batch_generalization.py"
+      - "scripts/build_historical_r2_migration_manifest.py"
+      - "scripts/migrate_r2_html_to_google_drive.py"
+      - ".github/workflows/migrate-historical-r2-window-to-google-drive.yml"
       - "tests/test_run_yearly_10k_batch_diagnostics.py"
       - "tests/test_plain_text_10k_parser.py"
       - "tests/test_lm_dictionary_fallback.py"
@@ -59,6 +62,8 @@ jobs:
             scripts/parse_sec_10k_html.py \
             scripts/run_language_full_sample.py \
             scripts/merge_yearly_10k_batches.py \
+          scripts/build_historical_r2_migration_manifest.py \
+          scripts/migrate_r2_html_to_google_drive.py \
             scripts/continuous_backfill.py \
             scripts/measure_extended_language_features.py
 

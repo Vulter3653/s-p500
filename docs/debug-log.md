@@ -1,4 +1,4 @@
-## 2026-08-03 — Codespace termination handoff (codex)
+## 2026-08-06 - historical source manifest and migration gap\n\n- Problem: published `web/public/data/source-manifest.json` referenced `analysis/historical_candidate` files that were not committed, and no historical R2-to-Drive workflow consumed the yearly collection manifests. (codex)\n- Fix: annual workflow now commits and validates analysis source tables, builds a persistent SHA-pinned migration manifest, and exposes a confirmation-gated migration workflow that reuses the existing verifier and deletion script. (codex)\n- Safety: dry-run performs no SEC, R2, Drive, panel, or dashboard writes; deletion is only available after verified Drive migration. (codex)\n\n## 2026-08-03 — Codespace termination handoff (codex)
 
 - Active run: `30794955519`; no failure was observed before Codespace shutdown. The long-running step is canonical extension measurement over 441 reused historical documents.
 - No local uncommitted changes are required for continuation; remote `main` is the source of truth. Resume by reading `docs/handoff-current-run.md` and inspecting the first failed Actions step, if any. (codex)

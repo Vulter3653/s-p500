@@ -1,0 +1,157 @@
+name: Migrate Historical R2 Window to Google Drive
+
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "Comma-separated completed historical years (maximum three)"
+        required: true
+        type: string
+      execute:
+        description: "Perform Drive upload and optional R2 deletion"
+        required: true
+        type: boolean
+        default: false
+      confirmation:
+        description: "Required for writes and deletion"
+        required: false
+        type: string
+        default: ""
+      delete_after_verify:
+        description: "Delete verified objects from R2 after Drive verification"
+        required: true
+        type: boolean
+        default: false
+      drive_layout:
+        description: "Google Drive layout"
+        required: true
+        type: choice
+        options:
+          - year_flat
+          - legacy_nested
+        default: year_flat
+
+permissions:
+  contents: read
+
+concurrency:
+  group: historical-r2-drive-migration
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    outputs:
+      years: ${{ steps.plan.outputs.years }}
+      manifest: ${{ steps.plan.outputs.manifest }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: plan
+        env:
+          YEARS: ${{ inputs.years }}
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import csv, json, os
+          from pathlib import Path
+          years = [x.strip() for x in os.environ["YEARS"].split(",") if x.strip()]
+          if not years or len(years) > 3 or len(set(years)) != len(years):
+              raise SystemExit("years must contain one to three unique values")
+          paths = [Path("automation/historical_backfill/r2-migration") / f"{year}.csv" for year in years]
+          missing = [str(path) for path in paths if not path.exists()]
+          if missing:
+              raise SystemExit("historical migration manifest missing: " + ", ".join(missing))
+          rows = []
+          for path in paths:
+              with path.open(encoding="utf-8-sig", newline="") as handle:
+                  rows.extend(csv.DictReader(handle))
+          if not rows:
+              raise SystemExit("historical migration manifest is empty")
+          keys = [row.get("r2_object_key", "") for row in rows]
+          if any(not key for key in keys) or len(keys) != len(set(keys)):
+              raise SystemExit("migration manifest contains missing or duplicate R2 keys")
+          output = Path("/tmp/historical-r2-drive-manifest.csv")
+          fields = list(rows[0])
+          with output.open("w", encoding="utf-8", newline="") as handle:
+              writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
+              writer.writeheader(); writer.writerows(rows)
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write("years=" + ",".join(years) + "\n")
+              out.write("manifest=" + str(output) + "\n")
+          print(json.dumps({"years": years, "rows": len(rows), "validation": "PASS"}))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: historical-r2-drive-manifest
+          path: /tmp/historical-r2-drive-manifest.csv
+          retention-days: 30
+
+  migrate:
+    needs: validate
+    if: ${{ inputs.execute == true && inputs.confirmation == 'RUN_HISTORICAL_R2_DRIVE_MIGRATION' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      GOOGLE_DRIVE_CLIENT_ID: ${{ secrets.GOOGLE_DRIVE_CLIENT_ID }}
+      GOOGLE_DRIVE_CLIENT_SECRET: ${{ secrets.GOOGLE_DRIVE_CLIENT_SECRET }}
+      GOOGLE_DRIVE_REFRESH_TOKEN: ${{ secrets.GOOGLE_DRIVE_REFRESH_TOKEN }}
+      GOOGLE_DRIVE_ROOT_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_ROOT_FOLDER_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+      R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: historical-r2-drive-manifest
+          path: /tmp/historical-r2-drive
+      - name: Migrate R2 objects with existing verifier
+        run: |
+          python scripts/migrate_r2_html_to_google_drive.py \
+            --manifest /tmp/historical-r2-drive/historical-r2-drive-manifest.csv \
+            --drive-layout "${{ inputs.drive_layout }}" \
+            --drive-root-folder-id "$GOOGLE_DRIVE_ROOT_FOLDER_ID" \
+            --output-dir historical-r2-drive-output
+      - name: Delete only verified objects
+        if: ${{ inputs.delete_after_verify == true }}
+        env:
+          CONFIRMATION: ${{ inputs.confirmation }}
+        run: |
+          [[ "$CONFIRMATION" == "RUN_HISTORICAL_R2_DRIVE_MIGRATION" ]] || { echo "deletion confirmation missing"; exit 1; }
+          python scripts/delete_migrated_raw_html_from_r2.py \
+            --manifest historical-r2-drive-output/raw_html_google_drive_manifest.csv \
+            --expected-count "$(python -c 'import csv; print(sum(1 for _ in csv.DictReader(open("historical-r2-drive-output/raw_html_google_drive_manifest.csv", encoding="utf-8"))))')" \
+            --output-dir historical-r2-drive-delete \
+            --execute \
+            --verify-absence
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: historical-r2-drive-result
+          path: |
+            historical-r2-drive-output
+            historical-r2-drive-delete
+          if-no-files-found: ignore
+          retention-days: 30
+
+  dry-run-summary:
+    needs: validate
+    if: ${{ inputs.execute != true }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "Validated historical R2/Drive manifest for ${{ needs.validate.outputs.years }}"
+          echo "No Google Drive upload or R2 deletion was executed."

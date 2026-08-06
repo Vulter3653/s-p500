@@ -382,12 +382,25 @@ jobs:
             --start-year "$(python -c 'import pandas as pd; print(int(pd.read_parquet("panel_historical_candidate/firm_year_language_panel_full_candidate.parquet").report_year.min()))')" \
             --end-year 2025 \
             --output-dir web/public/data
+          python scripts/build_historical_r2_migration_manifest.py \
+            --batch-root "outputs/$year/batches" \
+            --report-year "$year" \
+            --sample-namespace "${{ inputs.sample_namespace }}" \
+            --output "automation/historical_backfill/r2-migration/$year.csv"
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          manifest = json.loads(Path("web/public/data/source-manifest.json").read_text(encoding="utf-8"))
+          missing = [item["source_file"] for item in manifest.get("sources", []) if not Path(item["source_file"]).exists()]
+          if missing:
+              raise SystemExit("generated source manifest references missing files: " + ", ".join(missing))
+          PY
           mkdir -p automation/historical_backfill/year-status
           cp "outputs/$year/merged/annual_validation.json" "automation/historical_backfill/year-status/$year.json"
           cache_path=$(python -c 'import json; print(json.load(open("data/processed/sec_ticker_metadata.json"))["source_path"])')
           publication_branch="historical-year-$year-${{ github.run_id }}"
           git checkout -B "$publication_branch" origin/main
-          git add panel_historical_candidate web/public/data automation/historical_backfill
+          git add panel_historical_candidate analysis/historical_candidate web/public/data automation/historical_backfill
           git add "data/raw/$(basename "$cache_path")" 2>/dev/null || true
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com

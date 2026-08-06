@@ -304,6 +304,48 @@ def load_targets(years: list[str]) -> tuple[list[dict], list[dict], dict[str, in
     return targets, invalid, source_counts
 
 
+def load_targets_from_manifest(path: Path) -> tuple[list[dict], list[dict], dict[str, int]]:
+    """Load a persistent historical manifest without relying on sample_500 paths."""
+    targets, invalid = [], []
+    source_counts: dict[str, int] = Counter()
+    seen_keys: set[str] = set()
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        rows = list(csv.DictReader(handle))
+    for source in rows:
+        year = source.get("report_year", "").strip()
+        key = source.get("r2_object_key") or source.get("object_key", "")
+        key = key.strip()
+        row = {
+            "report_year": year,
+            "company_id": source.get("company_id", ""),
+            "source_company_id": source.get("source_company_id", source.get("company_id", "")),
+            "ticker": source.get("ticker", source.get("symbol", "")),
+            "company_name": source.get("company_name", ""),
+            "cik": source.get("cik", "").strip().zfill(10),
+            "accession_number": source.get("accession_number", "").strip(),
+            "r2_object_key": key,
+            "r2_html_bytes": (source.get("r2_html_bytes") or source.get("file_size", "")).strip(),
+            "r2_sha256": (source.get("r2_sha256") or source.get("sha256", "")).strip().lower(),
+        }
+        status = source.get("source_upload_status", source.get("upload_status", "uploaded")).strip()
+        required = (
+            year and key and row["cik"] and row["accession_number"]
+            and row["r2_html_bytes"].isdigit() and len(row["r2_sha256"]) == 64
+            and status in VALID_SOURCE_STATUSES
+        )
+        if not required:
+            row.update(result_fields("invalid_source_manifest_row", "not_verified", "invalid_source_manifest_row", "required historical manifest fields or status invalid"))
+            invalid.append(row)
+        elif key in seen_keys:
+            row.update(result_fields("invalid_source_manifest_row", "not_verified", "duplicate_r2_object_key", "duplicate object key excluded from transfer"))
+            invalid.append(row)
+        else:
+            seen_keys.add(key)
+            targets.append(row)
+            source_counts[year] += 1
+    return targets, invalid, dict(source_counts)
+
+
 def result_fields(status: str, verification: str, error_type: str = "", error: str = "") -> dict:
     return {
         "drive_year_folder_id": "", "drive_sample_folder_id": "",
@@ -579,6 +621,7 @@ def write_outputs(
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--years", default="2020,2021,2022,2023,2024,2025")
+    parser.add_argument("--manifest", type=Path, help="Persistent historical R2 migration manifest")
     parser.add_argument("--drive-root-folder-id", default=os.environ.get("GOOGLE_DRIVE_ROOT_FOLDER_ID", ""))
     parser.add_argument("--workers", type=int, default=5)
     parser.add_argument(
@@ -608,8 +651,15 @@ def main() -> int:
     )
     if args.check_connections_only:
         return 0
-    targets, invalid, source_counts = load_targets(years)
-    identity_indexes = {year: load_sample_identity(year) for year in years}
+    if args.manifest:
+        targets, invalid, source_counts = load_targets_from_manifest(args.manifest.resolve())
+        years = sorted(source_counts)
+        identity_indexes = {year: {} for year in years}
+        for row in targets:
+            identity_indexes[row["report_year"]][(row["cik"], row["accession_number"])] = row
+    else:
+        targets, invalid, source_counts = load_targets(years)
+        identity_indexes = {year: load_sample_identity(year) for year in years}
     if args.test_first_object:
         targets = targets[:1]
         source_counts = {years[0]: source_counts[years[0]]}

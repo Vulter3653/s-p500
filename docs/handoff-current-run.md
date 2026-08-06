@@ -1,5 +1,33 @@
 # Current historical backfill handoff
 
+Updated: 2026-08-06 (codex)
+
+## Remote source of truth
+
+- Repository: Vulter3653/s-p500
+- Fix branch: `codex/fix-historical-publication-verification`
+- Historical chain on main completed through 2006 with zero streak 3.
+- The branch adds reproducible analysis sources and guarded R2/Drive migration support.
+- No production dashboard or protected 2020–2025 analysis files are modified by this fix.
+
+## Resume procedure
+
+```bash
+git fetch --all --prune
+git switch main
+git pull --ff-only origin main
+gh workflow list
+gh workflow run migrate-historical-r2-window-to-google-drive.yml --ref main -f years=2008,2007,2006
+```
+
+The migration command above defaults to validation-only. Do not add `execute=true` until Google Drive and R2 credentials, manifest counts, SHA values, and the deletion scope have been reviewed. R2 deletion additionally requires `delete_after_verify=true` and the explicit confirmation `RUN_HISTORICAL_R2_DRIVE_MIGRATION`.
+
+Existing 2019--2006 panel and language artifacts are reused; no SEC recollection is required for migration.
+
+## Previous handoff history
+
+# Current historical backfill handoff
+
 Updated: 2026-08-03 (codex)
 
 ## Remote source of truth
