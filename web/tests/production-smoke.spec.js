@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-const headings = ["연구 요약", "연구설계", "표본 구축", "자료 수집", "텍스트 처리", "변수 정의", "통계 분석", "분석 결과", "논의", "한계"];
+const headings = ["연구 요약", "표본 구축", "자료 수집", "텍스트 처리", "변수 정의", "통계 분석", "분석 결과", "논의", "한계"];
 const prohibitedVisibleText = ["기간 설정", "기술 재현성 정보", "자료원 및 재현성", "변수 측정", "Repository", "Commit", "VERSION", "Source", "다운로드", "firm-year", "AI direct sentence", "AI communication", "LM uncertainty"];
 
 async function openAndAudit(page, path, screenshotPath) {
@@ -28,6 +28,13 @@ async function openAndAudit(page, path, screenshotPath) {
   await expect(page.locator("[download]")).toHaveCount(0);
   await expect(page.locator("body")).toContainText("2020–2025년");
   for (const text of prohibitedVisibleText) await expect(page.locator("body")).not.toContainText(text);
+  await expect(page.locator("body")).not.toContainText("연구설계");
+  await expect(page.locator("body")).not.toContainText("분석 본문");
+  await expect(page.locator("body")).not.toContainText("Gunning Fog Index");
+  await expect(page.locator("body")).toContainText("Fog Index");
+  await expect(page.locator("body")).toContainText("Cooper, Ewing, and Mishra (2022)");
+  await expect(page.locator("body")).toContainText("공시 유 N");
+  await expect(page.locator("body")).toContainText("공시 무 N");
   const figures = page.locator("figure[data-figure-id]");
   await expect(figures.first()).toBeVisible();
   expect(await figures.count()).toBeGreaterThanOrEqual(5);
@@ -38,13 +45,16 @@ async function openAndAudit(page, path, screenshotPath) {
     await expect(figure.locator("svg[aria-label]")).toBeVisible();
   }
   const heatmapCells = page.locator("[data-correlation-cell]");
-  await expect(heatmapCells).toHaveCount(100);
+  await expect(heatmapCells).toHaveCount(55);
   for (const cell of await heatmapCells.all()) {
     const box = await cell.boundingBox();
     expect(box).not.toBeNull();
     expect(Math.abs(box.width - box.height)).toBeLessThanOrEqual(1);
     await expect(cell).not.toHaveText("");
   }
+  await expect(page.locator("#figure-02 [data-point-value-label]")).toHaveCount(12);
+  await expect(page.locator("#figure-03 [data-point-value-label]")).toHaveCount(12);
+  expect(await page.locator("#figure-06 [data-effect-value-label]").count()).toBeGreaterThan(0);
   return { consoleErrors, pageErrors, failedRequests };
 }
 

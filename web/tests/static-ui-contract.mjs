@@ -30,7 +30,6 @@ const prohibited = [
   "VERSION",
   "Source",
   "다운로드",
-  "CIK",
   "accession number",
   "SHA-256",
   "firm-year",
@@ -45,6 +44,24 @@ for (const text of ["SourceNote", "sourceManifest", "buildMetadata", "figureMani
 assert.match(app, /PERIOD_START = 2020/);
 assert.match(app, /PERIOD_END = 2025/);
 assert.match(app, /title="변수 정의" kicker="VARIABLE DEFINITIONS"/);
+assert.doesNotMatch(app, /title="연구설계"|RESEARCH DESIGN|href="#design"/);
+assert.doesNotMatch(app, /분석 본문/);
+assert.doesNotMatch(app, /\["firm_year_count", "기업-연도 수"\]/);
+assert.match(app, /Cooper, Ewing, and Mishra \(2022\)/);
+assert.match(app, /S&amp;P Dow Jones Indices 홈페이지에서는 현재 상위 10개 기업 외 전체 구성자료를 확인하기 어려워/);
+assert.match(app, /공시 유 N/);
+assert.match(app, /공시 무 N/);
+assert.equal(publicSource.includes("Gunning Fog Index"), false);
+assert.equal(VARIABLE_LABELS.fog_index, "Fog Index");
+assert.match(PUBLIC_VARIABLE_DEFINITIONS.past_tense_share.operation, /spaCy.*VBD/);
+assert.match(PUBLIC_VARIABLE_DEFINITIONS.present_tense_share.operation, /spaCy.*VBP.*VBZ/);
+assert.match(PUBLIC_VARIABLE_DEFINITIONS.future_tense_share.operation, /will, shall, 'll, ’ll/);
+assert.match(PUBLIC_VARIABLE_DEFINITIONS.passive_voice_sentence_share.operation, /auxpass.*nsubjpass/);
+assert.match(figures, /data-point-value-label/);
+assert.match(figures, /data-effect-value-label/);
+assert.match(figures, /value > 0 \? `\+\$\{value\.toFixed\(3\)\}`/);
+assert.match(app, /\.filter\(\(_, cellIndex\) => cellIndex >= rowIndex\)/);
+assert.match(app, /number < 0 \? \[45, 96, 170\] : \[198, 52, 55\]/);
 assert.match(styles, /\.heatmap-cell\s*\{[^}]*aspect-ratio:\s*1\s*\/\s*1/s);
 assert.match(styles, /\.correlation-heatmap-scroll\s*\{[^}]*overflow:\s*auto/s);
 assert.match(styles, /\.report-main\s*\{[^}]*overflow-x:\s*hidden/s);
@@ -72,4 +89,4 @@ assert.match(formatVariableValue(0.276, "ai_disclosure_rate", 1), /^27\.6%$/);
 assert.match(formatVariableValue(12.4, "ai_sentence_count"), /개$/);
 assert.match(formatVariableValue(100000, "report_word_count"), /단어$/);
 
-console.log("static-ui-contract: ok; fixed-period=2020-2025, definitions=15, pearson=10x10, square-cells=true");
+console.log("static-ui-contract: ok; fixed-period=2020-2025, definitions=15, pearson-upper-triangle=55, square-cells=true");

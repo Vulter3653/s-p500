@@ -57,8 +57,8 @@ export function FigureShell({ id, number, title, introduction, caption, conditio
   </figure>;
 }
 
-export function LineFigure({ id, rows, keys, ariaLabel }) {
-  const width = 760; const height = 320; const left = 72; const right = 34; const top = 34; const bottom = 48;
+export function LineFigure({ id, rows, keys, ariaLabel, showAllValueLabels = false }) {
+  const width = 760; const height = 340; const left = 72; const right = 42; const top = 48; const bottom = 52;
   const validRows = (Array.isArray(rows) ? rows : []).filter((row) => finite(row.report_year) !== null);
   const [min, max] = extent(validRows, keys);
   const [minYear, maxYear] = yearDomain(validRows);
@@ -73,7 +73,7 @@ export function LineFigure({ id, rows, keys, ariaLabel }) {
       const series = validRows.filter((row) => finite(row[key]) !== null);
       const points = series.map((row) => `${x(Number(row.report_year))},${y(finite(row[key]))}`).join(" ");
       const last = series[series.length - 1];
-      return <g key={key}><polyline points={points} fill="none" stroke={COLORS[index % COLORS.length]} strokeWidth="3" strokeDasharray={DASHES[index % DASHES.length]} />{series.map((row) => { const value = finite(row[key]); const text = `${row.report_year}년 ${labelFor(key)} ${formatVariableValue(value, key)}`; return <circle key={`${key}-${row.report_year}`} cx={x(Number(row.report_year))} cy={y(value)} r="4.5" fill="#fff" stroke={COLORS[index % COLORS.length]} strokeWidth="3" aria-label={text}><title>{text}</title></circle>; })}{last && <text x={x(Number(last.report_year)) - 6} y={y(finite(last[key])) - 9 - index * 2} textAnchor="end" className="chart-value-label" fill={COLORS[index % COLORS.length]}>{formatVariableValue(finite(last[key]), key)}</text>}</g>;
+      return <g key={key}><polyline points={points} fill="none" stroke={COLORS[index % COLORS.length]} strokeWidth="3" strokeDasharray={DASHES[index % DASHES.length]} />{series.map((row, pointIndex) => { const value = finite(row[key]); const text = `${row.report_year}년 ${labelFor(key)} ${formatVariableValue(value, key)}`; const labelOffset = index % 2 === 0 ? -11 - (pointIndex % 2) * 2 : 17 + (pointIndex % 2) * 2; return <g key={`${key}-${row.report_year}`}><circle cx={x(Number(row.report_year))} cy={y(value)} r="4.5" fill="#fff" stroke={COLORS[index % COLORS.length]} strokeWidth="3" aria-label={text}><title>{text}</title></circle>{showAllValueLabels && <text data-point-value-label x={x(Number(row.report_year))} y={y(value) + labelOffset} textAnchor="middle" className="chart-value-label" fill={COLORS[index % COLORS.length]}>{formatVariableValue(value, key)}</text>}</g>; })}{!showAllValueLabels && last && <text x={x(Number(last.report_year)) - 6} y={y(finite(last[key])) - 9 - index * 2} textAnchor="end" className="chart-value-label" fill={COLORS[index % COLORS.length]}>{formatVariableValue(finite(last[key]), key)}</text>}</g>;
     })}
   </svg>;
 }
@@ -101,14 +101,14 @@ export function PanelABFigure({ id, rows, ariaLabel }) {
 }
 
 export function EffectSizeFigure({ id, rows, ariaLabel }) {
-  const width = 760; const rowHeight = 34; const left = 285; const right = 52; const top = 26;
+  const width = 760; const rowHeight = 36; const left = 285; const right = 78; const top = 28;
   const items = (Array.isArray(rows) ? rows : []).filter((row) => finite(row.standardized_mean_difference) !== null);
   const [min, max] = extent(items, ["standardized_mean_difference"], true);
   const x = (value) => left + (value - min) / (max - min) * (width - left - right);
   return <svg className="figure-svg effect-svg" data-svg-id={id} viewBox={`0 0 ${width} ${Math.max(170, top + items.length * rowHeight + 28)}`} role="img" aria-label={ariaLabel}>
-    <title>{ariaLabel}</title><desc>AI 관련 공시 기업과 미공시 기업의 표준화 평균 차이를 변수별로 표시한다.</desc>
+    <title>{ariaLabel}</title><desc>공시 유와 공시 무 기업의 표준화 평균 차이를 변수별로 표시한다.</desc>
     <line x1={x(0)} x2={x(0)} y1={top - 8} y2={top + items.length * rowHeight} className="chart-zero" />
-    {items.map((row, index) => { const y = top + index * rowHeight + 12; const value = finite(row.standardized_mean_difference); const color = value < 0 ? COLORS[3] : COLORS[0]; const text = `${labelFor(row.variable)} 표준화 평균 차이 ${value.toFixed(3)}`; return <g key={row.variable}><text x={left - 12} y={y + 4} textAnchor="end" className="chart-axis">{labelFor(row.variable)}</text><line x1={x(0)} x2={x(value)} y1={y} y2={y} stroke={color} strokeWidth="3" /><circle cx={x(value)} cy={y} r="5" fill={color} aria-label={text}><title>{text}</title></circle><text x={x(value) + (value < 0 ? -9 : 9)} y={y + 4} textAnchor={value < 0 ? "end" : "start"} className="chart-value-label">{value.toFixed(3)}</text></g>; })}
+    {items.map((row, index) => { const y = top + index * rowHeight + 12; const value = finite(row.standardized_mean_difference); const color = value < 0 ? COLORS[3] : COLORS[0]; const signed = value > 0 ? `+${value.toFixed(3)}` : value < 0 ? `−${Math.abs(value).toFixed(3)}` : "0.000"; const text = `${labelFor(row.variable)} 표준화 평균 차이 ${signed}`; return <g key={row.variable}><text x={left - 12} y={y + 4} textAnchor="end" className="chart-axis">{labelFor(row.variable)}</text><line x1={x(0)} x2={x(value)} y1={y} y2={y} stroke={color} strokeWidth="3" /><circle cx={x(value)} cy={y} r="5" fill={color} aria-label={text}><title>{text}</title></circle><text data-effect-value-label x={x(value) + (value < 0 ? -10 : 10)} y={y + 4} textAnchor={value < 0 ? "end" : "start"} className="chart-value-label" fill={color}>{signed}</text></g>; })}
   </svg>;
 }
 
@@ -117,7 +117,7 @@ export function GroupMeanFigure({ id, rows, ariaLabel }) {
   const width = 760; const panelHeight = 154; const left = 76; const right = 28; const top = 31;
   const valid = Array.isArray(rows) ? rows : [];
   const colors = { 0: COLORS[1], 1: COLORS[0] };
-  const labels = { 0: "AI 관련 공시 없음", 1: "AI 관련 공시 있음" };
+  const labels = { 0: "공시 무", 1: "공시 유" };
   return <svg className="figure-svg group-mean-svg" data-svg-id={id} viewBox={`0 0 ${width} ${panelHeight * variables.length}`} role="img" aria-label={ariaLabel}>
     <title>{ariaLabel}</title><desc>AI 관련 공시 여부에 따른 기업-연도 평균을 네 변수의 독립된 패널로 비교한다.</desc>
     {variables.map((variable, panelIndex) => {

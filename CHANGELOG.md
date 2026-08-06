@@ -18,6 +18,11 @@
 
 ## 0.14.0 - 2026-08-06
 
+- Changed: 독립 연구설계 절을 표본 구축에 병합하고, Table 1 중복 열·자료 수집·텍스트 처리 문안을 논문 독자 중심으로 간소화했다. (codex)
+- Changed: 시제·미래 조동사·수동태의 실제 spaCy 기반 판정 규칙을 변수 정의에 반영하고 사용자 표시명을 `Fog Index`로 통일했다. (codex)
+- Changed: Figure 2·3의 모든 연도별 값과 Figure 6 표준화 평균 차이에 수치 라벨을 추가하고, Pearson 히트맵을 파랑–흰색–빨강 상삼각 행렬로 변경했다. (codex)
+- Changed: Table 4와 관련 Figure의 집단 표시를 `공시 유`·`공시 무`로 통일했다. (codex)
+- Tested: Python compile·웹 데이터 생성·정적 UI 계약·Vite build·diff 검사를 통과했다. Playwright는 Chromium sandbox 권한 제한으로 페이지 실행 전에 종료됐다. (codex)
 - Added: 2020–2025년 2,829개 기업-연도 패널을 고정하는 핵심 기술통계·Pearson 상관행렬·Model-free 비교 산출물과 AI 관련 공시 있음·없음 평균 추이 Figure를 웹 생성기에 연결했다. (codex)
 - Changed: 연구 변수 정의에 AI 관련 공시 여부, AI 관련 문장 수, Gunning Fog Index 및 ln(Words) 로그 보고서 단어 수의 개념·계산식·조건부 표본을 반영하고, 핵심표에서 기술 메타데이터를 분리했다. (codex)
 - Changed: 표지 표제·부제, AI 관련 공시 용어, 기술 재현성 접기 영역 및 연구자 중심 다운로드 문구를 보완했다. (codex)

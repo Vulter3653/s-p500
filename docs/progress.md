@@ -485,3 +485,12 @@
 - Cloudflare Pages: 브랜치 미리보기 `https://codex-web-research-report.s-p500.pages.dev/`가 새 자산 `index-CnS5x3kD.js`, `index-DimEqedU.css`와 2020–2025년 보고서 meta description을 제공함을 확인했다.
 - 버전: 프로젝트 `0.14.0`; 비공개 `web` 패키지 내부 버전은 `0.1.0` 유지.
 - 상태: PR·main 병합·production 배포는 수행하지 않았다. 다음 단계는 새 브랜치 미리보기에서 사용자 2차 검수이다.
+## 2026-08-06 - 연구보고서 2차 사용자 피드백 구현
+
+- 변경: 독립 연구설계 절을 제거하고 분석단위·기간·AI 관련 공시의 대리 측정·비인과 해석 범위를 표본 구축 도입부에 병합했다. Table 1은 고유 기업 수만 유지했다. (codex)
+- 변경: 자료 수집을 S&P 500 구성기업과 Form 10-K 두 문단으로 축약하고, 텍스트 처리 흐름을 6단계로 정리했으며 Cooper, Ewing, and Mishra (2022)를 추가했다. (codex)
+- 변경: 실제 `measure_extended_language_features.py`에 근거해 VBD, VBP/VBZ, AUX인 will·shall·'ll·’ll 및 auxpass/nsubjpass 규칙과 분모·결측 처리를 변수 정의에 반영했다. 분석 코드와 기존 결과값은 변경하지 않았다. (codex)
+- 변경: Figure 2·3은 모든 연도·계열의 수치를 표시하고, 표준화 평균 차이 Figure를 Figure 6으로 배치해 부호 포함 수치를 표시했다. Pearson 히트맵은 대각선 포함 상삼각 55셀과 파랑(-1)–흰색(0)–빨강(+1) 범위를 사용한다. (codex)
+- 검증: `python -m py_compile scripts/generate_web_analysis_data.py`, 데이터 생성(panel_rows=2,829), `npm --prefix web run test:static`, `npm --prefix web run build`, `git diff --check`를 통과했다. (codex)
+- 제한: `npm --prefix web run test:browser -- --reporter=line`은 두 테스트 모두 Chromium `sandbox_host_linux.cc:41` 권한 오류로 페이지 실행 전에 종료됐다. 배포 후 데스크톱·모바일 표시, 라벨 겹침, overflow와 브라우저 오류를 확인해야 한다. (codex)
+- 외부 상태: push·PR·배포는 수행하지 않았다. (codex)

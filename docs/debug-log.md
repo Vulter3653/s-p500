@@ -506,3 +506,10 @@
 - 판단: React 렌더링이나 네트워크 요청 이전의 실행 환경 sandbox 제약이며, 페이지 수준 console error·page error·failed request 검사는 수행되지 않았다.
 - 대체 검증: `npm --prefix web run test:static`에서 기간·재현성·다운로드 UI 부재, 2020–2025 고정, 연구변수 15개 한국어 매핑, Pearson 10×10 데이터와 `aspect-ratio: 1 / 1`, Figure `%`·`개`·`단어` 포맷을 확인했다. Vite production build도 통과했다.
 - 상태: 코드·정적 계약 검증 완료. 실제 모바일 overflow와 브라우저 런타임 오류는 배포 후 확인 대상으로 남는다.
+## 2026-08-06 - 2차 UI 피드백의 브라우저 검증 환경 차단
+
+- 재현: `npm --prefix web run test:browser -- --reporter=line`을 실행했다. (codex)
+- 관찰: 데스크톱·모바일 테스트 모두 Chromium 시작 직후 `FATAL:content/browser/sandbox_host_linux.cc:41 Check failed: . shutdown: Operation not permitted (1)`로 종료됐다. 페이지 탐색 전 실패이므로 console error, page error, failed request와 시각적 라벨 겹침은 측정하지 못했다. (codex)
+- 원인: 현재 Codespaces의 Chromium sandbox 권한 제한이며, 동일 환경에서 앞선 검증 때 확인된 제한과 일치한다. 애플리케이션 런타임 오류로 판정하지 않았다. (codex)
+- 대체 검증: 정적 UI 계약에서 연구설계·분석 본문·Gunning Fog Index 제거, Table 1 열 계약, 시제·수동태 코드 근거, Figure 수치 라벨 hook, 상삼각 55셀·정사각형 CSS·색상 endpoint를 확인했다. 데이터 생성과 production build도 통과했다. (codex)
+- 남은 확인: 배포 후 실제 브라우저에서 Figure 2·3·6 라벨 겹침·잘림, 히트맵 내부 스크롤, 모바일 전체 overflow 및 console/page/request 오류를 확인한다. (codex)
