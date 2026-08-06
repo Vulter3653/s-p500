@@ -494,3 +494,9 @@
 - 검증: `python -m py_compile scripts/generate_web_analysis_data.py`, 데이터 생성(panel_rows=2,829), `npm --prefix web run test:static`, `npm --prefix web run build`, `git diff --check`를 통과했다. (codex)
 - 제한: `npm --prefix web run test:browser -- --reporter=line`은 두 테스트 모두 Chromium `sandbox_host_linux.cc:41` 권한 오류로 페이지 실행 전에 종료됐다. 배포 후 데스크톱·모바일 표시, 라벨 겹침, overflow와 브라우저 오류를 확인해야 한다. (codex)
 - 외부 상태: push·PR·배포는 수행하지 않았다. (codex)
+## 2026-08-06 - 2차 사용자 피드백 미리보기 배포
+
+- push: 커밋 `86475edf33d409d540055586a738c1fe0eb98794`를 `origin/codex/web-research-report`에 push했다. 강제 push, PR 및 main 병합은 수행하지 않았다. (codex)
+- 배포: Cloudflare Pages check run `92685944185`가 성공했으며 고유 미리보기는 `https://e0935f00.s-p500.pages.dev`, 브랜치 미리보기는 `https://codex-web-research-report.s-p500.pages.dev`이다. (codex)
+- 확인: 브랜치 미리보기 HTML이 로컬 production build와 동일한 `index-Cj67V9EQ.js` 및 `index-iziISClR.css`를 제공한다. (codex)
+- 다음: 배포 화면에서 Figure 2·3·6 라벨 겹침, 상삼각 히트맵 가독성, 모바일 overflow, Table 4 명칭과 브라우저 오류를 사용자 검수한다. (codex)

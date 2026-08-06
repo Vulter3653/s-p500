@@ -18,6 +18,7 @@
 
 ## 0.14.0 - 2026-08-06
 
+- Docs: 2차 사용자 피드백 커밋 `86475ed`의 원격 브랜치 push와 Cloudflare Pages 미리보기 배포 성공 상태를 기록했다. (codex)
 - Changed: 독립 연구설계 절을 표본 구축에 병합하고, Table 1 중복 열·자료 수집·텍스트 처리 문안을 논문 독자 중심으로 간소화했다. (codex)
 - Changed: 시제·미래 조동사·수동태의 실제 spaCy 기반 판정 규칙을 변수 정의에 반영하고 사용자 표시명을 `Fog Index`로 통일했다. (codex)
 - Changed: Figure 2·3의 모든 연도별 값과 Figure 6 표준화 평균 차이에 수치 라벨을 추가하고, Pearson 히트맵을 파랑–흰색–빨강 상삼각 행렬로 변경했다. (codex)
