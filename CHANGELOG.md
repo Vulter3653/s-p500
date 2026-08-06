@@ -1,4 +1,4 @@
-## 2026-08-03
+## [Unreleased]\n\n- Added persistent historical R2 migration manifests and a guarded Google Drive migration workflow; existing R2/Drive verifier is reused and deletion requires explicit confirmation. (codex)\n- Historical publication now commits analysis source tables and validates source-manifest paths before publishing. (codex)\n\n## 2026-08-03
 
 - Added: current Actions run handoff record for Codespace restart; the active run reuses completed 2019 artifacts and must not be duplicated. (codex)
 
