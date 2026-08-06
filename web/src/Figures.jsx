@@ -20,6 +20,9 @@ const VARIABLE_LABELS = {
   present_tense_share: "현재 시제 비율",
   lm_uncertainty_share: "Loughran–McDonald 불확실성",
   fog_index: "Fog Index",
+  report_word_count: "보고서 단어 수",
+  lm_positive_share: "Loughran–McDonald 긍정 어휘 비율",
+  lm_negative_share: "Loughran–McDonald 부정 어휘 비율",
 };
 
 const finite = (value) => Number.isFinite(Number(value)) ? Number(value) : null;
@@ -69,7 +72,7 @@ function SvgDownload({ svgId }) {
     anchor.remove();
     window.setTimeout(() => URL.revokeObjectURL(url), 0);
   };
-  return <button type="button" className="figure-download" onClick={download}>SVG 다운로드</button>;
+  return <button type="button" className="figure-download" onClick={download}>그림 다운로드</button>;
 }
 
 export function FigureShell({ id, number, title, introduction, caption, source, sourceCsv, condition, children, svgId = id }) {
@@ -80,7 +83,7 @@ export function FigureShell({ id, number, title, introduction, caption, source, 
     <div className="figure-plot">{children}</div>
     <figcaption><strong>주:</strong> {caption}{condition && <> 조건부 표본: {condition}.</>}</figcaption>
     <details className="figure-source"><summary>자료원 및 재현성</summary><p><strong>Source:</strong> <code>{source}</code><br /><strong>생성:</strong> <code>scripts/generate_web_analysis_data.py</code><br /><strong>단위:</strong> firm-year 또는 유효한 연속연도 기업 pair</p></details>
-    <nav className="figure-downloads" aria-label={`${number} 다운로드`}><a href={sourceCsv} download>Source CSV 다운로드</a><SvgDownload svgId={svgId} /></nav>
+    <nav className="figure-downloads" aria-label={`${number} 다운로드`}><a href={sourceCsv} download>그림 자료 다운로드</a><SvgDownload svgId={svgId} /></nav>
   </figure>;
 }
 
@@ -104,6 +107,28 @@ export function LineFigure({ id, rows, keys, labels = keys.map((key) => LABELS[k
   </svg>;
 }
 
+export function PanelABFigure({ id, rows, ariaLabel }) {
+  const width = 760; const panelHeight = 170; const left = 66; const right = 24; const top = 28;
+  const panels = [
+    ["ai_disclosure_rate", "Panel A · AI 관련 공시 비율", true],
+    ["report_word_count", "Panel B · 평균 보고서 단어 수", false],
+  ];
+  const valid = Array.isArray(rows) ? rows : [];
+  return <svg className="figure-svg panel-ab-svg" data-svg-id={id} viewBox={"0 0 " + width + " " + panelHeight * panels.length} role="img" aria-label={ariaLabel}>
+    <title>{ariaLabel}</title><desc>연도별 AI 관련 공시 비율과 평균 보고서 단어 수를 분리한 두 패널</desc>
+    {panels.map(([key, title, percent], index) => {
+      const panelRows = valid.filter((row) => finite(row[key]) !== null);
+      const [min, max] = extent(panelRows, [key]);
+      const [minYear, maxYear] = yearDomain(panelRows);
+      const yBase = index * panelHeight;
+      const x = (year) => left + ((year - minYear) / (maxYear - minYear)) * (width - left - right);
+      const y = (value) => yBase + top + (max - value) / (max - min) * 96;
+      const points = panelRows.map((row) => x(Number(row.report_year)) + "," + y(finite(row[key]))).join(" ");
+      return <g key={key}><text x={left} y={yBase + 16} className="chart-axis chart-label">{title}</text>{[min, min + (max - min) / 2, max].map((tick) => <g key={key + tick}><line x1={left} x2={width - right} y1={y(tick)} y2={y(tick)} className="chart-grid" /><text x={left - 8} y={y(tick) + 4} textAnchor="end" className="chart-axis">{percent ? (tick * 100).toFixed(0) + "%" : tick.toLocaleString("ko-KR", { maximumFractionDigits: 0 })}</text></g>)}<polyline points={points} fill="none" stroke={COLORS[0]} strokeWidth="3" />{panelRows.map((row) => <circle key={key + row.report_year} cx={x(Number(row.report_year))} cy={y(finite(row[key]))} r="4" fill={COLORS[0]}><title>{String(row.report_year) + ": " + formatValue(finite(row[key]), key)}</title></circle>)}{yearTicks(minYear, maxYear, 6).map((year) => <text key={key + "-year-" + year} x={x(year)} y={yBase + 150} textAnchor="middle" className="chart-axis">{year}</text>)}</g>;
+    })}
+  </svg>;
+}
+
 export function EffectSizeFigure({ id, rows, ariaLabel }) {
   const width = 760; const rowHeight = 30; const left = 255; const right = 30; const top = 26;
   const items = (Array.isArray(rows) ? rows : []).filter((row) => finite(row.standardized_mean_difference) !== null);
@@ -115,6 +140,36 @@ export function EffectSizeFigure({ id, rows, ariaLabel }) {
     {[-0.8, -0.5, -0.2, 0.2, 0.5, 0.8].map((value) => value > min && value < max ? <line key={value} x1={x(value)} x2={x(value)} y1={top - 8} y2={top + items.length * rowHeight} className="chart-reference" /> : null)}
     {items.map((row, index) => { const y = top + index * rowHeight + 12; const value = finite(row.standardized_mean_difference); return <g key={row.variable}><text x={left - 10} y={y + 4} textAnchor="end" className="chart-axis">{VARIABLE_LABELS[row.variable] || row.variable}</text><line x1={x(0)} x2={x(value)} y1={y} y2={y} stroke={value < 0 ? COLORS[3] : COLORS[0]} strokeWidth="3" /><circle cx={x(value)} cy={y} r="5" fill={value < 0 ? COLORS[3] : COLORS[0]}><title>{`${row.variable}: ${value.toFixed(3)}`}</title></circle></g>; })}
     <text x={x(0)} y={top + items.length * rowHeight + 18} textAnchor="middle" className="chart-axis">0</text>
+  </svg>;
+}
+
+export function GroupMeanFigure({ id, rows, ariaLabel }) {
+  const variables = [
+    ["whole_report_concreteness", "전체 보고서 구체성", false],
+    ["lm_uncertainty_share", "Loughran–McDonald 불확실성 어휘 비율", true],
+    ["fog_index", "Gunning Fog Index", false],
+    ["report_word_count", "평균 보고서 단어 수", false],
+  ];
+  const width = 760; const panelHeight = 142; const left = 66; const right = 24; const top = 27;
+  const valid = Array.isArray(rows) ? rows : [];
+  const colors = { 0: COLORS[1], 1: COLORS[0] };
+  const labels = { 0: "AI 관련 공시 없음", 1: "AI 관련 공시 있음" };
+  return <svg className="figure-svg group-mean-svg" data-svg-id={id} viewBox={"0 0 " + width + " " + panelHeight * variables.length} role="img" aria-label={ariaLabel}>
+    <title>{ariaLabel}</title><desc>AI 관련 공시 여부에 따른 기업-연도별 평균의 연도별 비교</desc>
+    {variables.map(([variable, title, percent], panelIndex) => {
+      const panelRows = valid.filter((row) => Number.isFinite(Number(row.report_year)) && Number.isFinite(Number(row[variable])));
+      const [min, max] = extent(panelRows, [variable]);
+      const yBase = panelIndex * panelHeight;
+      const [minYear, maxYear] = yearDomain(panelRows);
+      const x = (year) => left + ((year - minYear) / (maxYear - minYear)) * (width - left - right);
+      const y = (value) => yBase + top + (max - value) / (max - min) * 82;
+      return <g key={variable}>
+        <text x={left} y={yBase + 15} className="chart-axis chart-label">{title}</text>
+        {[min, min + (max - min) / 2, max].map((tick) => <g key={variable + "-" + tick}><line x1={left} x2={width - right} y1={y(tick)} y2={y(tick)} className="chart-grid" /><text x={left - 8} y={y(tick) + 4} textAnchor="end" className="chart-axis">{percent ? (tick * 100).toFixed(1) + "%" : tick.toLocaleString("ko-KR", { maximumFractionDigits: variable === "report_word_count" ? 0 : 2 })}</text></g>)}
+        {[0, 1].map((group) => { const subset = panelRows.filter((row) => Number(row.ai_disclosure) === group); const points = subset.map((row) => x(Number(row.report_year)) + "," + y(Number(row[variable]))).join(" "); return <g key={variable + "-" + group}><polyline points={points} fill="none" stroke={colors[group]} strokeWidth="3" /><text x={width - right} y={yBase + 15 + group * 16} textAnchor="end" className="chart-legend" fill={colors[group]}>{labels[group]}</text>{subset.map((row) => <circle key={variable + "-" + group + "-" + row.report_year} cx={x(Number(row.report_year))} cy={y(Number(row[variable]))} r="4" fill={colors[group]}><title>{String(row.report_year) + ": " + formatValue(Number(row[variable]), variable)}</title></circle>)}</g>; })}
+        {yearTicks(minYear, maxYear, 6).map((year) => <text key={variable + "-year-" + year} x={x(year)} y={yBase + 125} textAnchor="middle" className="chart-axis">{year}</text>)}
+      </g>;
+    })}
   </svg>;
 }
 

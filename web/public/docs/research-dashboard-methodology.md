@@ -2,11 +2,11 @@
 
 ## 1. 연구설계
 
-분석기간은 2020–2025년이며 관측 단위는 기업-보고연도(`firm-year`)이다. 각 행은 하나의 기업과 하나의 회계연도 `10-K` 보고서를 나타낸다. AI 변수는 실제 AI adoption이 아니라 보고서에 나타난 `text-based AI communication proxy`이다.
+분석기간은 2020–2025년이며 관측 단위는 기업-연도(`firm-year`)이다. 각 행은 하나의 기업과 하나의 회계연도 `10-K` 보고서를 나타낸다. AI 변수는 실제 AI 도입이 아니라 문서에서 관찰된 AI 관련 공시의 대리 측정치이다.
 
 ## 2. 연도별 S&P 500 표본 구축
 
-연도별 구성 manifest와 유효일자를 사용해 연구 시점의 S&P 500 구성기업을 복원한다. 현재 구성목록을 과거 시점으로 역복원할 때 구성종목의 변경일과 CIK 매핑을 보존하며, 동일 CIK의 ticker 표기는 기업 수준에서 연결한다. 원천자료와 SHA-256은 연도별 manifest와 `data/processed/annual_constituents_manifest.json`에 기록한다. 관련 파일은 `docs/sample-definition.md`, `docs/constituent-data-method.md`, `scripts/build_annual_constituents.py`, `scripts/validate_annual_constituents.py`이다.
+S&P Dow Jones Indices 공식 웹사이트에서 과거 기준일의 전체 구성종목을 일관된 형식으로 확보하기 어려워 Wikipedia의 `List of S&P 500 companies` 현재 목록과 `Selected changes to the list of S&P 500 components`를 이용해 역추적한다. 연구연도 t의 기준일은 (t+1)-01-01이며 2025년 기준일은 2026-01-01이다. 기준일 이후 변경을 최신순에서 과거순으로 역적용하고, 편입·제외와 ticker·기업명 변경을 구분한다. 복수 종류주식은 종목으로 유지하되 기업 분석에서는 SEC CIK로 통합한다. 원본 수집일·HTML snapshot·SHA-256·파싱 코드·편입·제외 기록·ticker–CIK 연결표는 기술 재현성 영역에 보존한다.
 
 ## 3. SEC 10-K filing 선정
 
@@ -34,7 +34,7 @@ SEC 요청은 User-Agent와 속도 제한을 적용하고, response bytes·파�
 
 ## 9. 통계 분석
 
-전체·연도별 기술통계, AI 공시·미공시 Welch 비교, 표준화 평균 차이, 연도별 절대·상대 변화, 연속 연도 동일 기업 변화, Pearson·Spearman 상관 및 VIF를 `analysis/descriptive_2020_2025/tables/`에서 읽는다. 모든 결과는 기술통계 및 연관성 분석이며 인과효과를 의미하지 않는다.
+전체·연도별 기술통계, AI 관련 공시 있음·없음 Welch 비교, 보고서 길이 Q1·Q4 보조 비교, 연도별 절대·상대 변화, 연속 연도 동일 기업 변화, Pearson·Spearman 상관 및 VIF를 `analysis/descriptive_2020_2025/tables/`에서 읽는다. 핵심 Table 2–4는 2020–2025년 2,829개 기업-연도에 고정한다. 모든 결과는 model-free evidence이며 인과효과나 실제 AI 도입을 의미하지 않는다.
 
 ## 10. 품질관리
 

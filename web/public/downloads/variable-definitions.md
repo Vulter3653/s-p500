@@ -52,9 +52,9 @@
 
 ## 패널 B. AI 커뮤니케이션 변수
 
-### `ai_sentence_count` — AI 직접 문장 수
+### `ai_sentence_count` — AI 관련 문장 수
 
-**상세 정의:** 기존 AI matcher가 추출한 비중복 AI 관련 문장의 firm-year별 개수이다. 전체 표본 평균은 미공시 firm-year의 0을 포함한다.
+**상세 정의:** 기존 AI matcher가 추출한 비중복 AI 관련 문장의 기업-연도별 개수이다. 전체 표본 평균은 AI 관련 공시가 없는 기업-연도의 0을 포함한다.
 
 **분석 수준:** Firm-year and AI direct sentences
 **수식:** `AI Sentence Countᵢₜ = Σₛ 1(sentence s contains a non-overlapping AI match)`
@@ -100,7 +100,7 @@
 
 ### `ai_disclosure` — AI 공시 여부
 
-**상세 정의:** 10-K 분석 본문에서 AI 관련 직접 문장이 한 개 이상 확인된 firm-year를 1로 표시하는 이진 변수이다. AI adoption 자체가 아니라 text-based AI communication proxy이다.
+**상세 정의:** 10-K 분석 본문에서 AI 관련 키워드를 포함한 비중복 AI 관련 문장이 한 개 이상 확인되면 1, 확인되지 않으면 0으로 표시하는 이진 변수이다. 실제 AI 도입이 아니라 문서에서 관찰된 AI 관련 공시의 대리 측정치이다.
 
 **분석 수준:** Firm-year
 **수식:** `AI Disclosureᵢₜ = 1(ai_sentence_countᵢₜ ≥ 1)`
@@ -146,7 +146,7 @@
 **해석:** Higher score indicates more concrete matched vocabulary under the lexicon.
 **한계:** Lexicon coverage and contextual meaning may not capture document-level abstraction.
 
-### `ai_concreteness` — AI 직접 문장 구체성
+### `ai_concreteness` — AI 관련 문장 구체성
 
 **상세 정의:** AI 직접 문장에 포함된 유효 token 중 Brysbaert 점수가 매칭된 token의 평균이다. AI 문장이 없는 firm-year에는 유효한 AI 분모가 없으므로 결측이다.
 
@@ -1808,29 +1808,6 @@
 **0 처리:** 원자료의 0은 0으로 유지한다.
 **조건부 표본:** Source-defined sample
 **Source column:** `report_concreteness_status`
-**Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`
-**Measurement script:** `scripts/build_extended_language_panel.py`
-**검증:** 원자료 열의 존재와 결측 의미를 검증한다.
-**해석:** Interpret according to the source variable dictionary.
-**한계:** This generated generic description must be supplemented before publication if the variable is used as a primary construct.
-
-### `log_report_word_count` — Log Report Word Count
-
-**상세 정의:** log_report_word_count is retained from the validated extended panel without remeasurement.
-
-**분석 수준:** Firm-year
-**수식:** `log_report_word_count = source-defined eligible unit count`
-**분자:** Source-defined or not applicable
-**분모:** Source-defined or not applicable
-**단위:** Count
-**토큰 규칙:** Inherited from source measurement.
-**문장 규칙:** Inherited from source measurement.
-**사전/NLP:** Existing source measurement
-**전처리:** No transformation beyond serialization.
-**결측:** 원자료의 결측값은 결측으로 유지한다.
-**0 처리:** 원자료의 0은 0으로 유지한다.
-**조건부 표본:** Source-defined sample
-**Source column:** `log_report_word_count`
 **Source dataset:** `analysis/descriptive_2020_2025/firm_year_language_extended.csv`
 **Measurement script:** `scripts/build_extended_language_panel.py`
 **검증:** 원자료 열의 존재와 결측 의미를 검증한다.

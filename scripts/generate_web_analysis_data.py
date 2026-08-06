@@ -16,6 +16,7 @@ from pathlib import Path
 
 import pandas as pd
 import yaml
+from scipy import stats
 
 ROOT = Path(__file__).resolve().parents[1]
 ANALYSIS = ROOT / "analysis/descriptive_2020_2025"
@@ -33,6 +34,7 @@ REQUIRED_SOURCES = {
     "within_firm_changes": TABLES / "table_07_within_firm_annual_changes.csv",
     "year_over_year_changes": TABLES / "table_06_year_over_year_aggregate_changes.csv",
     "pearson_full": TABLES / "table_08_pearson_correlation_full_sample.csv",
+    "pairwise_sample_sizes": TABLES / "table_12_pairwise_sample_sizes.csv",
     "spearman_full": TABLES / "table_09_spearman_correlation_full_sample.csv",
     "pearson_ai": TABLES / "table_10_pearson_correlation_ai_disclosers.csv",
     "spearman_ai": TABLES / "table_11_spearman_correlation_ai_disclosers.csv",
@@ -58,6 +60,7 @@ def source_paths(analysis_dir: Path) -> dict[str, Path]:
         "within_firm_changes": tables / "table_07_within_firm_annual_changes.csv",
         "year_over_year_changes": tables / "table_06_year_over_year_aggregate_changes.csv",
         "pearson_full": tables / "table_08_pearson_correlation_full_sample.csv",
+        "pairwise_sample_sizes": tables / "table_12_pairwise_sample_sizes.csv",
         "spearman_full": tables / "table_09_spearman_correlation_full_sample.csv",
         "pearson_ai": tables / "table_10_pearson_correlation_ai_disclosers.csv",
         "spearman_ai": tables / "table_11_spearman_correlation_ai_disclosers.csv",
@@ -184,6 +187,115 @@ def dashboard_descriptive_rows(frame: pd.DataFrame) -> list[dict]:
     return rows
 
 
+CORE_VARIABLES = [
+    "ai_disclosure", "ai_sentence_count", "whole_report_concreteness",
+    "ai_concreteness", "lm_positive_share", "lm_negative_share",
+    "lm_uncertainty_share", "fog_index", "report_word_count",
+    "log_report_word_count",
+]
+
+
+CORE_LABELS = {
+    "ai_disclosure": "AI 관련 공시 여부",
+    "ai_sentence_count": "AI 관련 문장 수",
+    "whole_report_concreteness": "전체 보고서 구체성",
+    "ai_concreteness": "AI 관련 문장 구체성",
+    "lm_positive_share": "Loughran–McDonald 긍정 어휘 비율",
+    "lm_negative_share": "Loughran–McDonald 부정 어휘 비율",
+    "lm_uncertainty_share": "Loughran–McDonald 불확실성 어휘 비율",
+    "fog_index": "Gunning Fog Index",
+    "report_word_count": "보고서 단어 수",
+    "log_report_word_count": "로그 보고서 단어 수",
+}
+
+
+def core_descriptive_rows(panel: pd.DataFrame, descriptive: pd.DataFrame, binary: pd.DataFrame) -> list[dict]:
+    selected = descriptive[descriptive["variable"].isin(CORE_VARIABLES)].copy()
+    selected["display_name"] = selected["variable"].map(CORE_LABELS)
+    binary_row = binary[binary["variable"] == "ai_disclosure"]
+    if not binary_row.empty:
+        p = float(binary_row.iloc[0]["one_proportion"])
+        selected = pd.concat([pd.DataFrame([{
+            "variable": "ai_disclosure", "display_name": CORE_LABELS["ai_disclosure"],
+            "N": int(binary_row.iloc[0]["N"]), "mean": p, "standard_deviation": (p * (1 - p)) ** 0.5,
+            "p25": 0, "median": 1 if p >= 0.5 else 0, "p75": 1,
+        }]), selected], ignore_index=True)
+    return records(selected[["variable", "display_name", "N", "mean", "standard_deviation", "p25", "median", "p75"]])
+
+
+def pearson_core_rows(pvalues: pd.DataFrame) -> dict:
+    source = pvalues[(pvalues["sample"] == "full_sample") & (pvalues["method"] == "pearson")]
+    source = source[source["variable_1"].isin(CORE_VARIABLES) & source["variable_2"].isin(CORE_VARIABLES)]
+    lookup = {(row.variable_1, row.variable_2): row for row in source.itertuples()}
+    rows = []
+    for variable_1 in CORE_VARIABLES:
+        cells = []
+        for variable_2 in CORE_VARIABLES:
+            row = lookup.get((variable_1, variable_2)) or lookup.get((variable_2, variable_1))
+            cells.append({
+                "variable": variable_2,
+                "correlation": clean(getattr(row, "correlation", None)),
+                "pairwise_N": clean(getattr(row, "pairwise_N", None)),
+                "pvalue": clean(getattr(row, "pvalue", None)),
+            })
+        rows.append({"variable": variable_1, "display_name": CORE_LABELS[variable_1], "cells": cells})
+    return {"variables": [{"variable": item, "display_name": CORE_LABELS[item]} for item in CORE_VARIABLES], "rows": rows}
+
+
+def model_free_comparison(panel: pd.DataFrame) -> dict:
+    primary_variables = [
+        "whole_report_concreteness", "lm_positive_share", "lm_negative_share",
+        "lm_uncertainty_share", "fog_index", "report_word_count",
+    ]
+    primary = []
+    for variable in primary_variables:
+        values = panel[["ai_disclosure", variable]].dropna()
+        yes = values.loc[values["ai_disclosure"] == 1, variable]
+        no = values.loc[values["ai_disclosure"] == 0, variable]
+        t_stat, pvalue = stats.ttest_ind(yes, no, equal_var=False)
+        primary.append({
+            "variable": variable, "display_name": CORE_LABELS[variable],
+            "disclosure_N": int(yes.size), "disclosure_mean": float(yes.mean()),
+            "non_disclosure_N": int(no.size), "non_disclosure_mean": float(no.mean()),
+            "mean_difference": float(yes.mean() - no.mean()),
+            "welch_t": float(t_stat), "welch_pvalue": float(pvalue),
+            "difference_direction": "공시 있음 − 공시 없음",
+        })
+
+    length = panel["log_report_word_count"].dropna()
+    q1, q4 = length.quantile([0.25, 0.75])
+    q1_rows = panel.loc[length.index[length <= q1]]
+    q4_rows = panel.loc[length.index[length >= q4]]
+    secondary_variables = [
+        "ai_disclosure", "ai_sentence_count", "whole_report_concreteness",
+        "lm_positive_share", "lm_negative_share", "lm_uncertainty_share", "fog_index",
+    ]
+    secondary = []
+    for variable in secondary_variables:
+        left = q1_rows[variable].dropna()
+        right = q4_rows[variable].dropna()
+        t_stat, t_pvalue = stats.ttest_ind(left, right, equal_var=False)
+        rank_stat, rank_pvalue = stats.ranksums(left, right)
+        secondary.append({
+            "variable": variable, "display_name": CORE_LABELS[variable],
+            "q1_N": int(left.size), "q1_mean": clean(left.mean()),
+            "q4_N": int(right.size), "q4_mean": clean(right.mean()),
+            "mean_difference": clean(left.mean() - right.mean()),
+            "welch_t": clean(t_stat), "welch_pvalue": clean(t_pvalue),
+            "wilcoxon_statistic": clean(rank_stat), "wilcoxon_pvalue": clean(rank_pvalue),
+            "difference_direction": "Q1 − Q4",
+        })
+    return {
+        "analysis_period": "2020-2025", "observations": int(len(panel)),
+        "primary": primary,
+        "secondary": secondary,
+        "secondary_definition": {
+            "x_variable": "log_report_word_count", "q1_cutoff": float(q1), "q4_cutoff": float(q4),
+            "direction": "Q1 − Q4", "method": "Welch t-test and Wilcoxon rank-sum",
+        },
+    }
+
+
 def write_definition_markdown(path: Path, definitions: list[dict]) -> None:
     panels = {
         "Identification": "패널 A. 식별 변수", "AI Communication": "패널 B. AI 커뮤니케이션 변수",
@@ -225,6 +337,9 @@ def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYS
         raise ValueError("Generated web data do not match unique firm-year key")
     if int(panel["ai_disclosure"].sum()) != int(sources["sample_by_year"]["ai_disclosure_count"].sum()):
         raise ValueError("AI disclosure source mismatch")
+    core_panel = panel[panel["report_year"].between(2020, 2025)].copy()
+    if len(core_panel) != 2829 or set(core_panel["report_year"].astype(int)) != set(range(2020, 2026)):
+        raise ValueError("Core web tables must use the 2020-2025 panel with 2,829 firm-year observations")
     proportion_columns = [c for c in panel.columns if c.endswith(("_share", "_coverage")) or c in {"ai_sentence_ratio", "report_numeric_token_ratio", "report_table_text_ratio", "ai_sentiment_word_coverage"}]
     for column in proportion_columns:
         values = pd.to_numeric(panel[column], errors="coerce").dropna()
@@ -267,7 +382,8 @@ def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYS
         ("figure-04", "Figure 4", "시제 구성 변화", "line", "aggregate", ["report_year", "past_tense_share", "present_tense_share", "future_tense_share"], "전체 firm-year; finite tense count 분모", "미래 표지는 제한적 조동사 조건부", "figures/05_tense_shares_by_year.svg", "figure_aggregate_data.csv"),
         ("figure-05", "Figure 5", "AI 직접 문장의 Loughran–McDonald 언어 추이", "line", "aggregate", ["report_year", "ai_lm_positive_share", "ai_lm_negative_share", "ai_lm_uncertainty_share"], "AI 공시 firm-year 조건부", "Loughran–McDonald 금융사전 기반 상대 빈도", "figures/09_ai_sentiment_by_year.svg", "figure_aggregate_data.csv"),
         ("figure-06", "Figure 6", "AI 공시·미공시 표준화 평균 차이", "effect", "comparison", ["variable", "standardized_mean_difference"], "전체 firm-year 단순 집단 비교", "연도·산업·규모를 통제하지 않은 비교", None, "table_05_ai_disclosure_group_comparison.csv"),
-        ("figure-07", "Figure 7", "동일 기업 내 전년 대비 변화", "change", "within_change", ["variable", "report_year", "mean_within_firm_change"], "연속된 두 연도의 firm pair", "변수별 단위가 다르므로 패널을 분리해 해석", None, "figure_within_firm_change_data.csv"),
+        ("figure-07", "Figure 7", "AI 관련 공시·미공시 기업의 평균 추이", "group", "ai_group", ["report_year", "ai_disclosure", "whole_report_concreteness", "lm_uncertainty_share", "fog_index", "report_word_count"], "연도별 AI 관련 공시·미공시 기업-연도 평균", "연도·산업·기업 규모를 통제하지 않은 집단별 평균", None, "figure-ai-group-data.csv"),
+        ("figure-08", "Figure 8", "동일 기업 내 전년 대비 변화", "change", "within_change", ["variable", "report_year", "mean_within_firm_change"], "연속된 두 연도의 firm pair", "변수별 단위가 다르므로 패널을 분리해 해석", None, "figure_within_firm_change_data.csv"),
     ]
     for figure_id, number, title, chart_type, dataset_id, columns, sample, condition, static_svg, source_name in figure_specs:
         source_key = {"aggregate": "aggregate_figures", "ai_group": "ai_group_figures", "within_change": "within_change_figures", "comparison": "disclosure_comparison"}[dataset_id]
@@ -281,7 +397,7 @@ def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYS
             "n_rule": "연도별 또는 pairwise 유효 관측치", "conditional_sample": condition,
             "missing_rule": "원자료의 결측은 그래프에서 제외하며 0으로 대체하지 않음",
             "generation_script": "scripts/generate_web_analysis_data.py",
-            "chart_component": {"line": "LineFigure", "effect": "EffectSizeFigure", "change": "WithinChangeFigure"}[chart_type],
+            "chart_component": {"line": "LineFigure", "effect": "EffectSizeFigure", "group": "GroupMeanFigure", "change": "WithinChangeFigure"}[chart_type],
             "static_svg": static_svg, "source_download": f"/downloads/{source_name}",
             "notes": ["기술통계 및 연관성 결과이며 인과효과를 의미하지 않음"],
             "git_commit": commit, "generated_at": now,
@@ -305,6 +421,9 @@ def generate(output: Path, panel_path: Path = PANEL, analysis_dir: Path = ANALYS
         "within-firm-changes.json": records(sources["within_firm_changes"]),
         "correlations.json": {"pearson_full": records(sources["pearson_full"]), "spearman_full": records(sources["spearman_full"]), "pearson_ai": records(sources["pearson_ai"]), "spearman_ai": records(sources["spearman_ai"]), "pvalues": records(sources["correlation_pvalues"]), "high_pairs": records(sources["high_correlations"])},
         "vif.json": records(sources["vif"]), "pearson-correlations.json": records(sources["pearson_full"]), "spearman-correlations.json": records(sources["spearman_full"]), "variable-definitions.json": definitions,
+        "core-descriptive-statistics.json": core_descriptive_rows(core_panel, sources["descriptive_statistics"], sources["binary_statistics"]),
+        "pearson-core.json": pearson_core_rows(sources["correlation_pvalues"]),
+        "model-free-comparison.json": model_free_comparison(core_panel),
         "source-manifest.json": manifest, "build-metadata.json": {"generated_at": now, "git_commit": commit, "analysis_period": f"{start_year}-{end_year}", "version": (ROOT / "VERSION").read_text().strip()},
         "year-over-year-changes.json": records(sources["year_over_year_changes"]),
         "sample-audit.json": {"panel_rows": len(panel), "year_rows": records(sources["sample_by_year"]), "duplicate_company_year": int(panel.duplicated(["company_id", "report_year"]).sum()), "duplicate_accession": int(panel.duplicated(["accession_number"]).sum())},

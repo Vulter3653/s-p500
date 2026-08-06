@@ -28,6 +28,16 @@
 
 # Project Progress and Session Handoff
 
+## 2026-08-06 - 2020–2025 연구보고서 핵심표 및 Model-free 비교 구현
+
+- 변경: codex/web-research-report를 origin/main에서 생성해 기존 historical 작업 브랜치와 분리했다. 원격 main commit은 0bd911f7846abd3a96d853073e38fd470f2b3a36로 확인했다. (codex)
+- 변경: scripts/generate_web_analysis_data.py가 2020–2025 핵심 패널 2,829개 기업-연도만 사용해 core-descriptive-statistics.json, pearson-core.json, model-free-comparison.json을 생성한다. Pearson 셀은 pairwise N·p-value를 보존하고, Q1/Q4 보조 비교는 log_report_word_count 기준 Q1−Q4와 Welch·Wilcoxon 결과를 생성한다. (codex)
+- 변경: web/src/App.jsx에 연구자용 핵심표와 AI 관련 공시 있음·없음 평균 추이 Figure를 연결하고, web/src/Figures.jsx에 Panel A/B·집단평균 SVG를 추가했다. config/variable_definitions.yaml과 생성된 변수 정의에는 실제 AI 관련 공시·문장·Fog·로그 단어 수 계산식을 반영했다. (codex)
+- 변경: 방법론·한계·재현성 문서에 Wikipedia 역추적, SEC CIK/Form 10-K 연결, 측정오차 및 model-free 해석 경계를 추가했다. (codex)
+- 검증: python scripts/generate_web_analysis_data.py, python -m py_compile scripts/generate_web_analysis_data.py, npm --prefix web run build, git diff --check, JSON 핵심 산출물 계약 검증이 통과했다. 생성 결과는 panel_rows=2829, definition_count=204, source_count=19이다. (codex)
+- 제한: npm --prefix web run preview -- --host 127.0.0.1은 listen EPERM으로 시작하지 못했고, npm --prefix web run test:browser -- --reporter=line은 Chromium sandbox_host_linux.cc:41 종료로 두 테스트 모두 실행하지 못했다. 배포 사이트 curl도 현재 환경 DNS 제한으로 접속하지 못했다. (codex)
+- 외부 상태: push·PR·배포, SEC·R2·Google Drive 쓰기는 수행하지 않았다. 데이터 생성 metadata의 commit은 데이터 생성 기준 commit이며 프런트엔드 배포 commit은 표시하지 않는다. (codex)
+
 ## 2026-08-03 - finalize-only artifact recovery
 
 - Added `reuse_run_id` to the continuous workflow. When supplied, batch processing is skipped and finalize downloads the completed run's batch artifacts through `actions/download-artifact`.
@@ -447,3 +457,9 @@
 - 추가: `docs/handoff-runner-503.md`에 원격 branch, 상수, dashboard와의 작업선 분리, 새 Codespaces 재접속 명령 및 historical 실행 전 조건을 기록했다. (codex)
 - 상태: runner branch `24fb65d` 기반 작업을 PR로 보존하며 main에는 병합하지 않는다. 실제 historical 수집과 외부 저장소 쓰기는 실행하지 않는다. (codex)
 - 후속: PR #3 첫 CI run `30741636264`는 pytest 미설치로 실패했으며, workflow에 pytest 설치를 추가해 재실행한다. (codex)
+## 2026-08-06 — 웹 연구보고서 정적 마무리 (codex)
+
+- 브라우저 권한 오류를 해결하기 위한 추가 작업은 수행하지 않음.
+- `FIRM-YEAR PANEL`을 `기업-연도 패널`로 수정하고, 배포 후 사용자가 직접 확인할 브라우저 검증 항목을 인수인계 대상으로 기록함.
+- 정적 문구·데이터·문서·산출물 일관성 확인과 빌드 및 실행 가능한 로컬 검증을 완료한 뒤 로컬 커밋 예정.
+- push·PR·배포는 수행하지 않음.

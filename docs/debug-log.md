@@ -33,6 +33,14 @@
 
 # Debug Log
 
+## 2026-08-06 - 웹 브라우저 검증 환경 차단
+
+- 재현: npm --prefix web run preview -- --host 127.0.0.1 및 npm --prefix web run test:browser -- --reporter=line을 실행했다. (codex)
+- 관찰: Vite preview는 Error: listen EPERM: operation not permitted 127.0.0.1:4173으로 시작하지 못했다. Playwright Chromium은 FATAL:content/browser/sandbox_host_linux.cc:41 Check failed: . shutdown: Operation not permitted (1)으로 두 테스트 모두 browser launch 단계에서 종료됐다. (codex)
+- 원인: 현재 Codespaces 실행 환경의 네트워크 포트·Chromium sandbox 권한 제한이다. 애플리케이션 pageerror나 failed request까지 도달하지 못했으므로 코드 런타임 실패로 분류하지 않는다. (codex)
+- 대체 검증: Python compile, 데이터 생성, JSON 산출물 계약 검증, Vite production build 및 git diff --check를 통과했다. (codex)
+- 상태: 브라우저 직접 검증은 브라우저 sandbox 권한이 있는 환경에서 재실행해야 한다. (codex)
+
 ## 2026-08-03 - completed batch artifact reuse for publication recovery
 
 - The prior failure occurred after all batch jobs completed, so repeating collection would waste SEC/R2/language resources.
@@ -482,3 +490,12 @@
 - 관찰: PR #3의 Actions run `30741636264`에서 requirements 설치와 Python compile은 성공했으나 `pytest -q tests/test_yearly_batch_generalization.py`가 `pytest: command not found`로 실패했다. (codex)
 - 원인: 저장소 `requirements.txt`에는 runtime 의존성만 있고 pytest가 포함되어 있지 않다. (codex)
 - 조치: runner 전용 workflow에서 requirements 설치 후 `python -m pip install pytest`를 추가한다. 실제 SEC/R2/Google Drive 접근은 여전히 없다. (codex)
+## 2026-08-06 — 브라우저 검증 인수인계 (codex)
+
+- 브라우저 테스트는 실행 환경의 sandbox 권한 오류로 페이지 수준 검증에 진입하지 못했음.
+- 사용자 지시에 따라 이를 구현 실패로 처리하지 않고, `배포 후 사용자 직접 검증 예정`으로 분류함.
+- 배포 후 확인 항목: 데스크톱·모바일 표시, 모바일 가로 overflow, 다운로드 링크, Table 2–4의 2020–2025 고정 표본, Figure 축·단위, console/page error 및 failed request.
+## 2026-08-06 — 산출물 계약 점검 형식 수정 (codex)
+
+- 최초 보조 점검식이 `pearson-core.json`과 `figure-manifest.json`을 모두 배열로 가정했으나, 실제 스키마는 각각 `rows`를 포함한 객체와 Figure 배열임을 확인함.
+- 저장소의 실제 JSON 스키마에 맞춘 점검식으로 재실행했으며 핵심 기술통계 10개, Pearson 10×10 행렬, model-free 관측치 2,829개 및 GroupMeanFigure manifest를 확인함.

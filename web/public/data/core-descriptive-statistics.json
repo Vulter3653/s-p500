@@ -1,0 +1,102 @@
+[
+  {
+    "variable": "ai_disclosure",
+    "display_name": "AI 관련 공시 여부",
+    "N": 2829,
+    "mean": 0.5867797808412867,
+    "standard_deviation": 0.49241168714515526,
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 1.0
+  },
+  {
+    "variable": "ai_sentence_count",
+    "display_name": "AI 관련 문장 수",
+    "N": 2829,
+    "mean": 6.92011311417462,
+    "standard_deviation": 14.24078085317921,
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 7.0
+  },
+  {
+    "variable": "whole_report_concreteness",
+    "display_name": "전체 보고서 구체성",
+    "N": 2829,
+    "mean": 2.8992888241852244,
+    "standard_deviation": 0.043857525585253,
+    "p25": 2.8671983,
+    "median": 2.89643693,
+    "p75": 2.92687407
+  },
+  {
+    "variable": "ai_concreteness",
+    "display_name": "AI 관련 문장 구체성",
+    "N": 1659,
+    "mean": 2.8105993947980714,
+    "standard_deviation": 0.2052414052098331,
+    "p25": 2.67162612,
+    "median": 2.785,
+    "p75": 2.9279489400000003
+  },
+  {
+    "variable": "lm_positive_share",
+    "display_name": "Loughran–McDonald 긍정 어휘 비율",
+    "N": 2829,
+    "mean": 0.0059149629338989,
+    "standard_deviation": 0.0015015664102512,
+    "p25": 0.00489748,
+    "median": 0.00580932,
+    "p75": 0.00675641
+  },
+  {
+    "variable": "lm_negative_share",
+    "display_name": "Loughran–McDonald 부정 어휘 비율",
+    "N": 2829,
+    "mean": 0.0193377067515022,
+    "standard_deviation": 0.0042584044872742,
+    "p25": 0.0163461,
+    "median": 0.01897826,
+    "p75": 0.02182016
+  },
+  {
+    "variable": "lm_uncertainty_share",
+    "display_name": "Loughran–McDonald 불확실성 어휘 비율",
+    "N": 2829,
+    "mean": 0.0176682850229763,
+    "standard_deviation": 0.002695577524517,
+    "p25": 0.0158973,
+    "median": 0.01764324,
+    "p75": 0.01935771
+  },
+  {
+    "variable": "fog_index",
+    "display_name": "Gunning Fog Index",
+    "N": 2829,
+    "mean": 20.7818746813503,
+    "standard_deviation": 1.0229624464490747,
+    "p25": 20.25169076,
+    "median": 20.83083971,
+    "p75": 21.40686469
+  },
+  {
+    "variable": "log_report_word_count",
+    "display_name": "로그 보고서 단어 수",
+    "N": 2829,
+    "mean": 10.893584041512902,
+    "standard_deviation": 0.3981859236528444,
+    "p25": 10.65984425,
+    "median": 10.87880162,
+    "p75": 11.12168865
+  },
+  {
+    "variable": "report_word_count",
+    "display_name": "보고서 단어 수",
+    "N": 2829,
+    "mean": 58175.45422410746,
+    "standard_deviation": 24492.21267721203,
+    "p25": 42610.0,
+    "median": 53040.0,
+    "p75": 67622.0
+  }
+]

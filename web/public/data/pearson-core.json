@@ -1,0 +1,706 @@
+{
+  "variables": [
+    {
+      "variable": "ai_disclosure",
+      "display_name": "AI 관련 공시 여부"
+    },
+    {
+      "variable": "ai_sentence_count",
+      "display_name": "AI 관련 문장 수"
+    },
+    {
+      "variable": "whole_report_concreteness",
+      "display_name": "전체 보고서 구체성"
+    },
+    {
+      "variable": "ai_concreteness",
+      "display_name": "AI 관련 문장 구체성"
+    },
+    {
+      "variable": "lm_positive_share",
+      "display_name": "Loughran–McDonald 긍정 어휘 비율"
+    },
+    {
+      "variable": "lm_negative_share",
+      "display_name": "Loughran–McDonald 부정 어휘 비율"
+    },
+    {
+      "variable": "lm_uncertainty_share",
+      "display_name": "Loughran–McDonald 불확실성 어휘 비율"
+    },
+    {
+      "variable": "fog_index",
+      "display_name": "Gunning Fog Index"
+    },
+    {
+      "variable": "report_word_count",
+      "display_name": "보고서 단어 수"
+    },
+    {
+      "variable": "log_report_word_count",
+      "display_name": "로그 보고서 단어 수"
+    }
+  ],
+  "rows": [
+    {
+      "variable": "ai_disclosure",
+      "display_name": "AI 관련 공시 여부",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.4078583639628651,
+          "pairwise_N": 2829,
+          "pvalue": 7.527407483815519e-114
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.2066720661817281,
+          "pairwise_N": 2829,
+          "pvalue": 1.1493622634027383e-28
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": null,
+          "pairwise_N": 1659,
+          "pvalue": null
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": 0.1988753613115809,
+          "pairwise_N": 2829,
+          "pvalue": 1.2623516132107392e-26
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.2462892495598886,
+          "pairwise_N": 2829,
+          "pvalue": 2.3364032246285053e-40
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": 0.2530841147953132,
+          "pairwise_N": 2829,
+          "pvalue": 1.3656786248662134e-42
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 0.1256202098828497,
+          "pairwise_N": 2829,
+          "pvalue": 2.01193655733912e-11
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": 0.075249480056958,
+          "pairwise_N": 2829,
+          "pvalue": 6.167536564664471e-05
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": 0.1021812947817158,
+          "pairwise_N": 2829,
+          "pvalue": 5.1309067044528884e-08
+        }
+      ]
+    },
+    {
+      "variable": "ai_sentence_count",
+      "display_name": "AI 관련 문장 수",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.4078583639628651,
+          "pairwise_N": 2829,
+          "pvalue": 7.527407483815519e-114
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.1992123460280988,
+          "pairwise_N": 2829,
+          "pvalue": 1.034449764734994e-26
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": -0.0108287744953148,
+          "pairwise_N": 1659,
+          "pvalue": 0.6593973367125221
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": 0.2015600017967303,
+          "pairwise_N": 2829,
+          "pvalue": 2.5583706398163327e-27
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.2759831942527577,
+          "pairwise_N": 2829,
+          "pvalue": 1.2591264530401697e-50
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": 0.2454744881586982,
+          "pairwise_N": 2829,
+          "pvalue": 4.283109833123706e-40
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 0.0657741124115234,
+          "pairwise_N": 2829,
+          "pvalue": 0.0004641055812527
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": 0.0416728402858987,
+          "pairwise_N": 2829,
+          "pvalue": 0.026657781318351
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": 0.0691887253403059,
+          "pairwise_N": 2829,
+          "pvalue": 0.0002306669589567
+        }
+      ]
+    },
+    {
+      "variable": "whole_report_concreteness",
+      "display_name": "전체 보고서 구체성",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": -0.2066720661817281,
+          "pairwise_N": 2829,
+          "pvalue": 1.1493622634027383e-28
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": -0.1992123460280988,
+          "pairwise_N": 2829,
+          "pvalue": 1.034449764734994e-26
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": 0.1069867108187742,
+          "pairwise_N": 1659,
+          "pvalue": 1.2601600746811583e-05
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": -0.08654633155665,
+          "pairwise_N": 2829,
+          "pvalue": 4.029146044505944e-06
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": -0.428442163474401,
+          "pairwise_N": 2829,
+          "pvalue": 1.1132868887188263e-126
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": -0.5363794482049228,
+          "pairwise_N": 2829,
+          "pvalue": 1.523874438805706e-210
+        },
+        {
+          "variable": "fog_index",
+          "correlation": -0.2938140914597043,
+          "pairwise_N": 2829,
+          "pvalue": 1.9254292687590823e-57
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": -0.1957120970391888,
+          "pairwise_N": 2829,
+          "pvalue": 8.040579803866343e-26
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": -0.2117039921700291,
+          "pairwise_N": 2829,
+          "pvalue": 4.9965338788923594e-30
+        }
+      ]
+    },
+    {
+      "variable": "ai_concreteness",
+      "display_name": "AI 관련 문장 구체성",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": null,
+          "pairwise_N": 1659,
+          "pvalue": null
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": -0.0108287744953148,
+          "pairwise_N": 1659,
+          "pvalue": 0.6593973367125221
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": 0.1069867108187742,
+          "pairwise_N": 1659,
+          "pvalue": 1.2601600746811583e-05
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": 1.0,
+          "pairwise_N": 1659,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": 0.144967931499111,
+          "pairwise_N": 1659,
+          "pvalue": 3.000487213704604e-09
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": -0.0311252830793411,
+          "pairwise_N": 1659,
+          "pvalue": 0.2051160087196548
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": -0.0067284927131391,
+          "pairwise_N": 1659,
+          "pvalue": 0.7841971414486475
+        },
+        {
+          "variable": "fog_index",
+          "correlation": -0.077482123349205,
+          "pairwise_N": 1659,
+          "pvalue": 0.0015870264019393
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": -0.1206869205985193,
+          "pairwise_N": 1659,
+          "pvalue": 8.222870862783051e-07
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": -0.1209021396956893,
+          "pairwise_N": 1659,
+          "pvalue": 7.858110623208622e-07
+        }
+      ]
+    },
+    {
+      "variable": "lm_positive_share",
+      "display_name": "Loughran–McDonald 긍정 어휘 비율",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.1988753613115809,
+          "pairwise_N": 2829,
+          "pvalue": 1.2623516132107392e-26
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.2015600017967303,
+          "pairwise_N": 2829,
+          "pvalue": 2.5583706398163327e-27
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.08654633155665,
+          "pairwise_N": 2829,
+          "pvalue": 4.029146044505944e-06
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": 0.144967931499111,
+          "pairwise_N": 1659,
+          "pvalue": 3.000487213704604e-09
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.1941893157277684,
+          "pairwise_N": 2829,
+          "pvalue": 1.938643846627332e-25
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": 0.2131171432232362,
+          "pairwise_N": 2829,
+          "pvalue": 2.0411650283834226e-30
+        },
+        {
+          "variable": "fog_index",
+          "correlation": -0.0018563631143006,
+          "pairwise_N": 2829,
+          "pvalue": 0.9213817648598428
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": -0.3055179928988846,
+          "pairwise_N": 2829,
+          "pvalue": 3.4404845901716467e-62
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": -0.2650449661923037,
+          "pairwise_N": 2829,
+          "pvalue": 1.0896468673592684e-46
+        }
+      ]
+    },
+    {
+      "variable": "lm_negative_share",
+      "display_name": "Loughran–McDonald 부정 어휘 비율",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.2462892495598886,
+          "pairwise_N": 2829,
+          "pvalue": 2.3364032246285053e-40
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.2759831942527577,
+          "pairwise_N": 2829,
+          "pvalue": 1.2591264530401697e-50
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.428442163474401,
+          "pairwise_N": 2829,
+          "pvalue": 1.1132868887188263e-126
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": -0.0311252830793411,
+          "pairwise_N": 1659,
+          "pvalue": 0.2051160087196548
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": 0.1941893157277684,
+          "pairwise_N": 2829,
+          "pvalue": 1.938643846627332e-25
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": 0.5911009190658176,
+          "pairwise_N": 2829,
+          "pvalue": 3.337599870728514e-266
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 0.1846667125010552,
+          "pairwise_N": 2829,
+          "pvalue": 4.0372144526551503e-23
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": 0.0466788538478017,
+          "pairwise_N": 2829,
+          "pvalue": 0.0130271140201094
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": 0.0622439632542381,
+          "pairwise_N": 2829,
+          "pvalue": 0.000924984289357
+        }
+      ]
+    },
+    {
+      "variable": "lm_uncertainty_share",
+      "display_name": "Loughran–McDonald 불확실성 어휘 비율",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.2530841147953132,
+          "pairwise_N": 2829,
+          "pvalue": 1.3656786248662134e-42
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.2454744881586982,
+          "pairwise_N": 2829,
+          "pvalue": 4.283109833123706e-40
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.5363794482049228,
+          "pairwise_N": 2829,
+          "pvalue": 1.523874438805706e-210
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": -0.0067284927131391,
+          "pairwise_N": 1659,
+          "pvalue": 0.7841971414486475
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": 0.2131171432232362,
+          "pairwise_N": 2829,
+          "pvalue": 2.0411650283834226e-30
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.5911009190658176,
+          "pairwise_N": 2829,
+          "pvalue": 3.337599870728514e-266
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 0.1327241776994292,
+          "pairwise_N": 2829,
+          "pvalue": 1.3642249361163044e-12
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": -0.0078388598426757,
+          "pairwise_N": 2829,
+          "pvalue": 0.6768553384972414
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": -0.0068786924475723,
+          "pairwise_N": 2829,
+          "pvalue": 0.7145823052421155
+        }
+      ]
+    },
+    {
+      "variable": "fog_index",
+      "display_name": "Gunning Fog Index",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.1256202098828497,
+          "pairwise_N": 2829,
+          "pvalue": 2.01193655733912e-11
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.0657741124115234,
+          "pairwise_N": 2829,
+          "pvalue": 0.0004641055812527
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.2938140914597043,
+          "pairwise_N": 2829,
+          "pvalue": 1.9254292687590823e-57
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": -0.077482123349205,
+          "pairwise_N": 1659,
+          "pvalue": 0.0015870264019393
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": -0.0018563631143006,
+          "pairwise_N": 2829,
+          "pvalue": 0.9213817648598428
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.1846667125010552,
+          "pairwise_N": 2829,
+          "pvalue": 4.0372144526551503e-23
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": 0.1327241776994292,
+          "pairwise_N": 2829,
+          "pvalue": 1.3642249361163044e-12
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": 0.3402229755325117,
+          "pairwise_N": 2829,
+          "pvalue": 1.3366200974254459e-77
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": 0.3830297857684894,
+          "pairwise_N": 2829,
+          "pvalue": 1.570124634408473e-99
+        }
+      ]
+    },
+    {
+      "variable": "report_word_count",
+      "display_name": "보고서 단어 수",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.075249480056958,
+          "pairwise_N": 2829,
+          "pvalue": 6.167536564664471e-05
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.0416728402858987,
+          "pairwise_N": 2829,
+          "pvalue": 0.026657781318351
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.1957120970391888,
+          "pairwise_N": 2829,
+          "pvalue": 8.040579803866343e-26
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": -0.1206869205985193,
+          "pairwise_N": 1659,
+          "pvalue": 8.222870862783051e-07
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": -0.3055179928988846,
+          "pairwise_N": 2829,
+          "pvalue": 3.4404845901716467e-62
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.0466788538478017,
+          "pairwise_N": 2829,
+          "pvalue": 0.0130271140201094
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": -0.0078388598426757,
+          "pairwise_N": 2829,
+          "pvalue": 0.6768553384972414
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 0.3402229755325117,
+          "pairwise_N": 2829,
+          "pvalue": 1.3366200974254459e-77
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": 0.9999999999999996,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": 0.9297205172276582,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        }
+      ]
+    },
+    {
+      "variable": "log_report_word_count",
+      "display_name": "로그 보고서 단어 수",
+      "cells": [
+        {
+          "variable": "ai_disclosure",
+          "correlation": 0.1021812947817158,
+          "pairwise_N": 2829,
+          "pvalue": 5.1309067044528884e-08
+        },
+        {
+          "variable": "ai_sentence_count",
+          "correlation": 0.0691887253403059,
+          "pairwise_N": 2829,
+          "pvalue": 0.0002306669589567
+        },
+        {
+          "variable": "whole_report_concreteness",
+          "correlation": -0.2117039921700291,
+          "pairwise_N": 2829,
+          "pvalue": 4.9965338788923594e-30
+        },
+        {
+          "variable": "ai_concreteness",
+          "correlation": -0.1209021396956893,
+          "pairwise_N": 1659,
+          "pvalue": 7.858110623208622e-07
+        },
+        {
+          "variable": "lm_positive_share",
+          "correlation": -0.2650449661923037,
+          "pairwise_N": 2829,
+          "pvalue": 1.0896468673592684e-46
+        },
+        {
+          "variable": "lm_negative_share",
+          "correlation": 0.0622439632542381,
+          "pairwise_N": 2829,
+          "pvalue": 0.000924984289357
+        },
+        {
+          "variable": "lm_uncertainty_share",
+          "correlation": -0.0068786924475723,
+          "pairwise_N": 2829,
+          "pvalue": 0.7145823052421155
+        },
+        {
+          "variable": "fog_index",
+          "correlation": 0.3830297857684894,
+          "pairwise_N": 2829,
+          "pvalue": 1.570124634408473e-99
+        },
+        {
+          "variable": "report_word_count",
+          "correlation": 0.9297205172276582,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        },
+        {
+          "variable": "log_report_word_count",
+          "correlation": 1.0,
+          "pairwise_N": 2829,
+          "pvalue": 0.0
+        }
+      ]
+    }
+  ]
+}

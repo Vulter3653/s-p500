@@ -16,6 +16,13 @@
 
 # Changelog
 
+## 2026-08-06
+
+- Added: 2020–2025년 2,829개 기업-연도 패널을 고정하는 핵심 기술통계·Pearson 상관행렬·Model-free 비교 산출물과 AI 관련 공시 있음·없음 평균 추이 Figure를 웹 생성기에 연결했다. (codex)
+- Changed: 연구 변수 정의에 AI 관련 공시 여부, AI 관련 문장 수, Gunning Fog Index 및 ln(Words) 로그 보고서 단어 수의 개념·계산식·조건부 표본을 반영하고, 핵심표에서 기술 메타데이터를 분리했다. (codex)
+- Changed: 표지 표제·부제, AI 관련 공시 용어, 기술 재현성 접기 영역 및 연구자 중심 다운로드 문구를 보완했다. (codex)
+- Tested: 데이터 생성기, Python compile, Vite build 및 핵심 산출물 계약 검증을 통과했다. Playwright는 Codespaces Chromium sandbox 제한으로 실행하지 못했다. (codex)
+
 ## 2026-08-03
 
 - Added: continuous backfill accepts `reuse_run_id` to recover finalization from completed batch artifacts without repeating collection or language measurement. (codex)
