@@ -222,3 +222,49 @@ Google Drive 객체
 6. 프로젝트의 historical reconstruction과 collection-ready manifest가 분석·수집의 source of truth이며, 외부 저장소는 독립 교차검증 자료다.
 
 감사 판정: **조건부 PASS — 프로젝트 CSV 구조·행 수·2025 외부 CIK 비교는 확인되었고, hanshof historical 전체 정량 대조는 파일 확보 후 후속 작업이 필요하다.**
+
+
+## 8. 누락·미확인 항목 점검 결과
+
+이번 재점검에서 “비교를 수행했다”고 오해할 수 있는 누락을 별도로 구분했다.
+
+| 항목 | 현재 문서 상태 | 판정 및 후속 조치 |
+|---|---|---|
+| 외부 저장소 조회일 | 2026-08-06 UTC로 기록 | PASS |
+| 외부 저장소 URL | 두 저장소의 repository URL과 파일명이 기록됨 | PASS |
+| 외부 저장소 commit SHA/tag | 현재 문서에 고정되지 않음 | **미확인**. 외부 데이터는 mutable하므로 후속 정량 감사에서는 raw 파일 commit SHA를 함께 기록해야 함 |
+| datasets 외부 파일 전체 열 목록 | 파일 경로와 행 수만 기록 | **보완 필요**. 현재 비교에 사용한 CIK 열과 실제 header를 별도 수집해 기록해야 함 |
+| hanshof 현재 구성 파일 정량 비교 | 수행하지 않음 | **미실시**. 현재 파일은 historical 연구연도와 직접 정렬되지 않아 정답 판정에 사용하지 않음 |
+| hanshof historical 2020–2025 행 단위 비교 | 대용량 응답 제한으로 수행하지 못함 | **미확인**. 원본 파일 확보 후 날짜별 membership 집합 비교 필요 |
+| datasets 2020·2021·2022·2023·2024별 비교 | 수행하지 않음 | **미실시**. datasets 파일이 현재 snapshot이므로 해당 연도 비교 근거가 없음 |
+| 2025 CIK 전체 차집합 | 대표명이 아니라 9개·11개 전체 목록을 기록 | PASS |
+| ticker-only 매칭 | CIK를 우선하고 실제 ticker-only 결과는 산출하지 않음 | **미실시**. CIK 결측 행이 있을 때 별도 보조 분석 필요 |
+| 외부 source license | datasets README의 PDDL 설명을 확인했으나 원문 license 파일 SHA는 기록하지 않음 | **미확인**. 법적 재배포 판단의 근거로 사용하지 않음 |
+| SEC filing 일치 | 구성종목 비교와 별개로 취급 | PASS. accession·report_date는 collection manifest 검증에서 별도 확인 |
+
+따라서 현재 문서의 비교 범위는 **프로젝트 내부 2020–2025 구조 감사 + 2025 대 datasets 현재 snapshot의 CIK 비교**로 한정된다. 위 표의 “미실시/미확인” 항목은 결측값을 0이나 일치로 대체하지 않는다.
+
+### 8.1 외부 원천 버전 고정에 대한 재현성 요구
+
+후속 외부 비교를 PASS로 판정하려면 다음을 추가 기록해야 한다.
+
+1. 외부 repository의 조회 commit SHA 또는 tag.
+2. raw 파일 URL과 HTTP retrieval timestamp.
+3. raw 파일 SHA-256.
+4. 실제 header와 식별자 정규화 함수.
+5. 기준일이 같은 연도별 historical membership 입력.
+6. 비교 대상의 전체 차집합 CSV 또는 JSON artifact.
+
+현재 감사에서는 이 요건을 충족하지 못한 외부 원천에 대해 역사적 일치 판정을 내리지 않았다.
+
+### 8.2 내부 데이터 보호 재확인
+
+누락 점검 과정에서도 다음은 변경하지 않았다.
+
+- `panel_2020_2025/`
+- `analysis/descriptive_2020_2025/`
+- 기존 Figure 및 원본 HTML
+- R2 object와 Google Drive object
+- 기존 dashboard generated data
+
+감사 결과: **문서 기록은 보완 완료. 외부 historical 2020–2025 전체 정량 대조는 여전히 후속 작업으로 남아 있음.**
