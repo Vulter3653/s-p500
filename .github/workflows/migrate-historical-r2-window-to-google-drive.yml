@@ -44,6 +44,7 @@ jobs:
     outputs:
       years: ${{ steps.plan.outputs.years }}
       manifest: ${{ steps.plan.outputs.manifest }}
+      ready: ${{ steps.plan.outputs.ready }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -54,6 +55,7 @@ jobs:
       - id: plan
         env:
           YEARS: ${{ inputs.years }}
+          EXECUTE: ${{ inputs.execute }}
         run: |
           set -euo pipefail
           python - <<'PY'
@@ -65,7 +67,12 @@ jobs:
           paths = [Path("automation/historical_backfill/r2-migration") / f"{year}.csv" for year in years]
           missing = [str(path) for path in paths if not path.exists()]
           if missing:
-              raise SystemExit("historical migration manifest missing: " + ", ".join(missing))
+              print(json.dumps({"status": "blocked", "reason": "manifest_missing", "missing": missing}))
+              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+                  out.write("ready=false\n")
+              if os.environ["EXECUTE"].lower() == "true":
+                  raise SystemExit("historical migration manifest missing: " + ", ".join(missing))
+              raise SystemExit(0)
           rows = []
           for path in paths:
               with path.open(encoding="utf-8-sig", newline="") as handle:
@@ -81,11 +88,13 @@ jobs:
               writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
               writer.writeheader(); writer.writerows(rows)
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write("ready=true\n")
               out.write("years=" + ",".join(years) + "\n")
               out.write("manifest=" + str(output) + "\n")
           print(json.dumps({"years": years, "rows": len(rows), "validation": "PASS"}))
           PY
       - uses: actions/upload-artifact@v4
+        if: steps.plan.outputs.ready == 'true'
         with:
           name: historical-r2-drive-manifest
           path: /tmp/historical-r2-drive-manifest.csv
@@ -155,3 +164,4 @@ jobs:
       - run: |
           echo "Validated historical R2/Drive manifest for ${{ needs.validate.outputs.years }}"
           echo "No Google Drive upload or R2 deletion was executed."
+          echo "If status is blocked/manifest_missing, run the annual backfill publication again to persist R2 manifests before migration."
