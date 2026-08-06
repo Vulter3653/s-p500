@@ -1,4 +1,4 @@
-## 2026-08-03 — Codespace handoff for active run (codex)
+## 2026-08-06 - historical publication and R2 migration safeguards\n\n- Changed: historical annual publication now persists `analysis/historical_candidate` source tables and a verified per-year R2 migration manifest. (codex)\n- Changed: added a guarded manual workflow for up to three completed years; dry-run performs no external writes, and R2 deletion requires Drive verification plus explicit confirmation. (codex)\n- Validation: local YAML/Python checks are pending in Actions; existing 2020–2025 artifacts remain protected. (codex)\n\n## 2026-08-03 — Codespace handoff for active run (codex)
 
 - Main historical fixes are saved in merge commit `e271eb31809f3d8d85a47cf625eb88843d7c7cf8`.
 - Actions run `30794955519` is running from `main` with `reuse_run_id=30788897235`; prepare and batch merge passed, and canonical language extension measurement was still in progress at handoff.
