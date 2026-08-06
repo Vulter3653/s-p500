@@ -94,6 +94,7 @@ jobs:
           print(json.dumps({"years": years, "rows": len(rows), "validation": "PASS"}))
           PY
       - uses: actions/upload-artifact@v4
+        if: steps.plan.outputs.ready == 'true'
         with:
           name: historical-r2-drive-manifest
           path: /tmp/historical-r2-drive-manifest.csv
