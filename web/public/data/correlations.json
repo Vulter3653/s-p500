@@ -3,9 +3,9 @@
     {
       "variable": "ai_disclosure",
       "ai_disclosure": 0.9999999999999988,
-      "ai_sentence_count": 0.4629965135163952,
-      "log1p_ai_sentence_count": 0.8255436608416064,
-      "whole_report_concreteness": -0.2375026926041268,
+      "ai_sentence_count": 0.4629965135163951,
+      "log1p_ai_sentence_count": 0.8255436608416058,
+      "whole_report_concreteness": -0.2375026926041269,
       "ai_concreteness": null,
       "past_tense_share": -0.3290981640294398,
       "present_tense_share": 0.3520917624170526,
@@ -13,7 +13,7 @@
       "ai_past_tense_share": null,
       "ai_present_tense_share": null,
       "ai_future_tense_share": null,
-      "lm_positive_share": 0.2380944835323051,
+      "lm_positive_share": 0.2380944835323052,
       "lm_negative_share": 0.2751412782338392,
       "lm_uncertainty_share": 0.2642483595960711,
       "passive_voice_sentence_share": -0.1340888343328904,
@@ -32,21 +32,21 @@
     },
     {
       "variable": "ai_sentence_count",
-      "ai_disclosure": 0.4629965135163952,
+      "ai_disclosure": 0.4629965135163951,
       "ai_sentence_count": 1.0,
       "log1p_ai_sentence_count": 0.8009621065546806,
       "whole_report_concreteness": -0.1874303376719068,
       "ai_concreteness": -0.0431272099043958,
       "past_tense_share": -0.2665515237870557,
-      "present_tense_share": 0.2743818877142872,
+      "present_tense_share": 0.2743818877142871,
       "future_tense_share": -0.0460209504483099,
       "ai_past_tense_share": -0.0195158978878529,
-      "ai_present_tense_share": 0.0130706560809635,
+      "ai_present_tense_share": 0.0130706560809636,
       "ai_future_tense_share": 0.0084412438581277,
       "lm_positive_share": 0.2026725155444463,
       "lm_negative_share": 0.254712122343895,
       "lm_uncertainty_share": 0.2236657725880048,
-      "passive_voice_sentence_share": -0.1590620017550211,
+      "passive_voice_sentence_share": -0.159062001755021,
       "fog_index": 0.0931919120868304,
       "ai_lm_positive_share": -0.0595241595659858,
       "ai_lm_negative_share": 0.0272337214290246,
@@ -62,53 +62,53 @@
     },
     {
       "variable": "log1p_ai_sentence_count",
-      "ai_disclosure": 0.8255436608416064,
+      "ai_disclosure": 0.8255436608416058,
       "ai_sentence_count": 0.8009621065546806,
-      "log1p_ai_sentence_count": 0.9999999999999988,
+      "log1p_ai_sentence_count": 1.0,
       "whole_report_concreteness": -0.2592192377235839,
       "ai_concreteness": -0.1662174115675488,
       "past_tense_share": -0.3569058516122135,
       "present_tense_share": 0.3758456316535365,
       "future_tense_share": -0.1023563063964243,
       "ai_past_tense_share": -0.0747057697268402,
-      "ai_present_tense_share": 0.0573254070937874,
+      "ai_present_tense_share": 0.0573254070937873,
       "ai_future_tense_share": 0.0182799744776174,
       "lm_positive_share": 0.2602798780663872,
       "lm_negative_share": 0.3157018319825375,
       "lm_uncertainty_share": 0.2905863842234589,
-      "passive_voice_sentence_share": -0.1583412975168945,
-      "fog_index": 0.1653835463437357,
-      "ai_lm_positive_share": -0.095259026087025,
+      "passive_voice_sentence_share": -0.1583412975168944,
+      "fog_index": 0.1653835463437356,
+      "ai_lm_positive_share": -0.0952590260870251,
       "ai_lm_negative_share": 0.1396747116445707,
       "ai_lm_uncertainty_share": 0.1093708997662925,
       "ai_passive_voice_sentence_share": 0.0377806620989933,
-      "ai_fog_index": -0.1528773169652832,
+      "ai_fog_index": -0.1528773169652833,
       "log_report_word_count": 0.1539412976139002,
       "report_word_count": 0.1037412487008781,
       "numeric_token_share": -0.3411187391317883,
-      "average_word_length": 0.2147265757023512,
+      "average_word_length": 0.2147265757023513,
       "lexical_density": 0.0494620697096524,
       "root_type_token_ratio": 0.2091562949133454
     },
     {
       "variable": "whole_report_concreteness",
-      "ai_disclosure": -0.2375026926041268,
+      "ai_disclosure": -0.2375026926041269,
       "ai_sentence_count": -0.1874303376719068,
       "log1p_ai_sentence_count": -0.2592192377235839,
       "whole_report_concreteness": 1.0,
-      "ai_concreteness": 0.1558679051177999,
-      "past_tense_share": 0.2559660782229647,
+      "ai_concreteness": 0.1558679051178,
+      "past_tense_share": 0.2559660782229646,
       "present_tense_share": -0.2510583600762745,
       "future_tense_share": -0.0156785200844918,
       "ai_past_tense_share": 0.0645267820618153,
       "ai_present_tense_share": -0.080738327724576,
       "ai_future_tense_share": 0.0443001440877352,
       "lm_positive_share": -0.0958575812814989,
-      "lm_negative_share": -0.4291117278344518,
-      "lm_uncertainty_share": -0.5296200621534567,
+      "lm_negative_share": -0.4291117278344519,
+      "lm_uncertainty_share": -0.5296200621534568,
       "passive_voice_sentence_share": -0.1318517903399598,
-      "fog_index": -0.3900814266160401,
-      "ai_lm_positive_share": 0.070644011595547,
+      "fog_index": -0.3900814266160402,
+      "ai_lm_positive_share": 0.0706440115955469,
       "ai_lm_negative_share": -0.002158546231178,
       "ai_lm_uncertainty_share": -0.0534613118362224,
       "ai_passive_voice_sentence_share": -0.0130722987026709,
@@ -116,7 +116,7 @@
       "log_report_word_count": -0.3105943012888444,
       "report_word_count": -0.242088071486221,
       "numeric_token_share": 0.3325627310947764,
-      "average_word_length": -0.2300692984783115,
+      "average_word_length": -0.2300692984783116,
       "lexical_density": 0.1511783959561006,
       "root_type_token_ratio": 0.1590000620134595
     },
@@ -125,22 +125,22 @@
       "ai_disclosure": null,
       "ai_sentence_count": -0.0431272099043958,
       "log1p_ai_sentence_count": -0.1662174115675488,
-      "whole_report_concreteness": 0.1558679051177999,
+      "whole_report_concreteness": 0.1558679051178,
       "ai_concreteness": 1.0,
       "past_tense_share": 0.0478320558367342,
       "present_tense_share": -0.0697390552404642,
       "future_tense_share": 0.096729215961531,
-      "ai_past_tense_share": 0.2101898582734694,
+      "ai_past_tense_share": 0.2101898582734695,
       "ai_present_tense_share": -0.1693648446262188,
       "ai_future_tense_share": -0.0358902080378405,
-      "lm_positive_share": 0.115388140913697,
+      "lm_positive_share": 0.1153881409136971,
       "lm_negative_share": -0.0331949470574252,
       "lm_uncertainty_share": -0.0318606134188574,
       "passive_voice_sentence_share": -0.1175563470534957,
       "fog_index": -0.1222367337611701,
       "ai_lm_positive_share": 0.0329190338550052,
       "ai_lm_negative_share": -0.4677309524955477,
-      "ai_lm_uncertainty_share": -0.5451457204203006,
+      "ai_lm_uncertainty_share": -0.5451457204203005,
       "ai_passive_voice_sentence_share": -0.0103092474332587,
       "ai_fog_index": -0.0428585478508382,
       "log_report_word_count": -0.147596014439999,
@@ -155,27 +155,27 @@
       "ai_disclosure": -0.3290981640294398,
       "ai_sentence_count": -0.2665515237870557,
       "log1p_ai_sentence_count": -0.3569058516122135,
-      "whole_report_concreteness": 0.2559660782229647,
+      "whole_report_concreteness": 0.2559660782229646,
       "ai_concreteness": 0.0478320558367342,
       "past_tense_share": 1.0,
-      "present_tense_share": -0.9783399721337463,
+      "present_tense_share": -0.978339972133746,
       "future_tense_share": -0.073232920682348,
       "ai_past_tense_share": 0.0698461472556491,
       "ai_present_tense_share": -0.0781769887205326,
       "ai_future_tense_share": 0.0302139475806733,
       "lm_positive_share": -0.2694586525432039,
-      "lm_negative_share": -0.2038318105465215,
-      "lm_uncertainty_share": -0.400867034102999,
+      "lm_negative_share": -0.2038318105465216,
+      "lm_uncertainty_share": -0.4008670341029992,
       "passive_voice_sentence_share": 0.0432817978638698,
-      "fog_index": -0.1161458641914299,
-      "ai_lm_positive_share": 0.0626844988003255,
+      "fog_index": -0.1161458641914298,
+      "ai_lm_positive_share": 0.0626844988003254,
       "ai_lm_negative_share": -0.0335265566148046,
       "ai_lm_uncertainty_share": -0.044013360860903,
       "ai_passive_voice_sentence_share": 0.0034670209247844,
       "ai_fog_index": 0.1341398851698722,
-      "log_report_word_count": 0.1432127925070204,
+      "log_report_word_count": 0.1432127925070203,
       "report_word_count": 0.1144780603358924,
-      "numeric_token_share": 0.6065933637990242,
+      "numeric_token_share": 0.6065933637990241,
       "average_word_length": -0.135469016996159,
       "lexical_density": 0.0308495115636732,
       "root_type_token_ratio": -0.3058815122815232
@@ -183,19 +183,19 @@
     {
       "variable": "present_tense_share",
       "ai_disclosure": 0.3520917624170526,
-      "ai_sentence_count": 0.2743818877142872,
+      "ai_sentence_count": 0.2743818877142871,
       "log1p_ai_sentence_count": 0.3758456316535365,
       "whole_report_concreteness": -0.2510583600762745,
       "ai_concreteness": -0.0697390552404642,
-      "past_tense_share": -0.9783399721337463,
-      "present_tense_share": 1.0,
+      "past_tense_share": -0.978339972133746,
+      "present_tense_share": 0.9999999999999998,
       "future_tense_share": -0.134802057820236,
       "ai_past_tense_share": -0.0726397719034518,
       "ai_present_tense_share": 0.0873954626423192,
       "ai_future_tense_share": -0.0431456324009581,
       "lm_positive_share": 0.2572444026490562,
-      "lm_negative_share": 0.2101997942938481,
-      "lm_uncertainty_share": 0.3894033458642922,
+      "lm_negative_share": 0.210199794293848,
+      "lm_uncertainty_share": 0.3894033458642921,
       "passive_voice_sentence_share": -0.0445647206922792,
       "fog_index": 0.0959550640259266,
       "ai_lm_positive_share": -0.061060863474087,
@@ -203,12 +203,12 @@
       "ai_lm_uncertainty_share": 0.0580212567323301,
       "ai_passive_voice_sentence_share": -0.0117332318621408,
       "ai_fog_index": -0.1275112515211472,
-      "log_report_word_count": -0.1475511615867502,
+      "log_report_word_count": -0.1475511615867501,
       "report_word_count": -0.118489662956348,
-      "numeric_token_share": -0.585221745955847,
+      "numeric_token_share": -0.5852217459558471,
       "average_word_length": 0.2029197264402115,
       "lexical_density": 0.0491307297390296,
-      "root_type_token_ratio": 0.3112294416089852
+      "root_type_token_ratio": 0.3112294416089851
     },
     {
       "variable": "future_tense_share",
@@ -223,9 +223,9 @@
       "ai_past_tense_share": 0.0113433550017178,
       "ai_present_tense_share": -0.0393331461492342,
       "ai_future_tense_share": 0.0561688333932721,
-      "lm_positive_share": 0.050460306277053,
+      "lm_positive_share": 0.0504603062770531,
       "lm_negative_share": -0.0370234986859279,
-      "lm_uncertainty_share": 0.042754579518366,
+      "lm_uncertainty_share": 0.0427545795183661,
       "passive_voice_sentence_share": 0.0075279157141458,
       "fog_index": 0.0936613866090094,
       "ai_lm_positive_share": -0.0070573271311078,
@@ -236,7 +236,7 @@
       "log_report_word_count": 0.0253585792597604,
       "report_word_count": 0.0228899996171413,
       "numeric_token_share": -0.0840868577997917,
-      "average_word_length": -0.3291827037718553,
+      "average_word_length": -0.3291827037718554,
       "lexical_density": -0.3843718752796515,
       "root_type_token_ratio": -0.0352849918996533
     },
@@ -246,12 +246,12 @@
       "ai_sentence_count": -0.0195158978878529,
       "log1p_ai_sentence_count": -0.0747057697268402,
       "whole_report_concreteness": 0.0645267820618153,
-      "ai_concreteness": 0.2101898582734694,
+      "ai_concreteness": 0.2101898582734695,
       "past_tense_share": 0.0698461472556491,
       "present_tense_share": -0.0726397719034518,
       "future_tense_share": 0.0113433550017178,
       "ai_past_tense_share": 1.0,
-      "ai_present_tense_share": -0.8552952465292364,
+      "ai_present_tense_share": -0.8552952465292367,
       "ai_future_tense_share": -0.0754426874114539,
       "lm_positive_share": 0.0980292246884625,
       "lm_negative_share": -0.0645434040774496,
@@ -263,7 +263,7 @@
       "ai_lm_uncertainty_share": -0.1732141739955432,
       "ai_passive_voice_sentence_share": -0.0317212159236209,
       "ai_fog_index": -0.0467973992673335,
-      "log_report_word_count": 0.0144322021518602,
+      "log_report_word_count": 0.0144322021518601,
       "report_word_count": 0.0094748716589112,
       "numeric_token_share": 0.0298341004979865,
       "average_word_length": -0.0058382770553266,
@@ -273,15 +273,15 @@
     {
       "variable": "ai_present_tense_share",
       "ai_disclosure": null,
-      "ai_sentence_count": 0.0130706560809635,
-      "log1p_ai_sentence_count": 0.0573254070937874,
+      "ai_sentence_count": 0.0130706560809636,
+      "log1p_ai_sentence_count": 0.0573254070937873,
       "whole_report_concreteness": -0.080738327724576,
       "ai_concreteness": -0.1693648446262188,
       "past_tense_share": -0.0781769887205326,
       "present_tense_share": 0.0873954626423192,
       "future_tense_share": -0.0393331461492342,
-      "ai_past_tense_share": -0.8552952465292364,
-      "ai_present_tense_share": 0.9999999999999994,
+      "ai_past_tense_share": -0.8552952465292367,
+      "ai_present_tense_share": 1.0,
       "ai_future_tense_share": -0.4521385460030577,
       "lm_positive_share": -0.112115844599637,
       "lm_negative_share": 0.0539572002367534,
@@ -291,14 +291,14 @@
       "ai_lm_positive_share": -0.1319968826185332,
       "ai_lm_negative_share": 0.1799745258130342,
       "ai_lm_uncertainty_share": 0.1834677565946011,
-      "ai_passive_voice_sentence_share": 0.0536789828156384,
+      "ai_passive_voice_sentence_share": 0.0536789828156383,
       "ai_fog_index": 0.0616383764572083,
       "log_report_word_count": -0.0036883876627655,
       "report_word_count": 0.0065353564459596,
       "numeric_token_share": -0.0428626150652952,
       "average_word_length": -0.0003673047198554,
       "lexical_density": -0.0122902023287324,
-      "root_type_token_ratio": -8.278645667110203e-05
+      "root_type_token_ratio": -8.278645667111634e-05
     },
     {
       "variable": "ai_future_tense_share",
@@ -313,9 +313,9 @@
       "ai_past_tense_share": -0.0754426874114539,
       "ai_present_tense_share": -0.4521385460030577,
       "ai_future_tense_share": 1.0,
-      "lm_positive_share": 0.0470130507291184,
+      "lm_positive_share": 0.0470130507291183,
       "lm_negative_share": 0.007268123430378,
-      "lm_uncertainty_share": -0.0523242172851687,
+      "lm_uncertainty_share": -0.0523242172851688,
       "passive_voice_sentence_share": 0.0094705295878666,
       "fog_index": 0.0040776069669897,
       "ai_lm_positive_share": 0.094636257465785,
@@ -332,17 +332,17 @@
     },
     {
       "variable": "lm_positive_share",
-      "ai_disclosure": 0.2380944835323051,
+      "ai_disclosure": 0.2380944835323052,
       "ai_sentence_count": 0.2026725155444463,
       "log1p_ai_sentence_count": 0.2602798780663872,
       "whole_report_concreteness": -0.0958575812814989,
-      "ai_concreteness": 0.115388140913697,
+      "ai_concreteness": 0.1153881409136971,
       "past_tense_share": -0.2694586525432039,
       "present_tense_share": 0.2572444026490562,
-      "future_tense_share": 0.050460306277053,
+      "future_tense_share": 0.0504603062770531,
       "ai_past_tense_share": 0.0980292246884625,
       "ai_present_tense_share": -0.112115844599637,
-      "ai_future_tense_share": 0.0470130507291184,
+      "ai_future_tense_share": 0.0470130507291183,
       "lm_positive_share": 1.0,
       "lm_negative_share": 0.2082484376347561,
       "lm_uncertainty_share": 0.2563087277986959,
@@ -353,29 +353,29 @@
       "ai_lm_uncertainty_share": -0.0690650030138108,
       "ai_passive_voice_sentence_share": -0.0666476846341751,
       "ai_fog_index": -0.0411351241411338,
-      "log_report_word_count": -0.1687304347433955,
+      "log_report_word_count": -0.1687304347433954,
       "report_word_count": -0.2256723517737949,
       "numeric_token_share": -0.3182826473308793,
       "average_word_length": 0.1764063952818902,
       "lexical_density": -0.1120137778944079,
-      "root_type_token_ratio": 0.5185886839364897
+      "root_type_token_ratio": 0.5185886839364896
     },
     {
       "variable": "lm_negative_share",
       "ai_disclosure": 0.2751412782338392,
       "ai_sentence_count": 0.254712122343895,
       "log1p_ai_sentence_count": 0.3157018319825375,
-      "whole_report_concreteness": -0.4291117278344518,
+      "whole_report_concreteness": -0.4291117278344519,
       "ai_concreteness": -0.0331949470574252,
-      "past_tense_share": -0.2038318105465215,
-      "present_tense_share": 0.2101997942938481,
+      "past_tense_share": -0.2038318105465216,
+      "present_tense_share": 0.210199794293848,
       "future_tense_share": -0.0370234986859279,
       "ai_past_tense_share": -0.0645434040774496,
       "ai_present_tense_share": 0.0539572002367534,
       "ai_future_tense_share": 0.007268123430378,
       "lm_positive_share": 0.2082484376347561,
       "lm_negative_share": 1.0,
-      "lm_uncertainty_share": 0.590834797612504,
+      "lm_uncertainty_share": 0.5908347976125041,
       "passive_voice_sentence_share": -0.1656617162788519,
       "fog_index": 0.2189493564745397,
       "ai_lm_positive_share": -0.1386800874236361,
@@ -395,19 +395,19 @@
       "ai_disclosure": 0.2642483595960711,
       "ai_sentence_count": 0.2236657725880048,
       "log1p_ai_sentence_count": 0.2905863842234589,
-      "whole_report_concreteness": -0.5296200621534567,
+      "whole_report_concreteness": -0.5296200621534568,
       "ai_concreteness": -0.0318606134188574,
-      "past_tense_share": -0.400867034102999,
-      "present_tense_share": 0.3894033458642922,
-      "future_tense_share": 0.042754579518366,
+      "past_tense_share": -0.4008670341029992,
+      "present_tense_share": 0.3894033458642921,
+      "future_tense_share": 0.0427545795183661,
       "ai_past_tense_share": -0.0768775226129369,
       "ai_present_tense_share": 0.0959555103332094,
-      "ai_future_tense_share": -0.0523242172851687,
+      "ai_future_tense_share": -0.0523242172851688,
       "lm_positive_share": 0.2563087277986959,
-      "lm_negative_share": 0.590834797612504,
+      "lm_negative_share": 0.5908347976125041,
       "lm_uncertainty_share": 1.0,
       "passive_voice_sentence_share": -0.1189428244237138,
-      "fog_index": 0.196498302755473,
+      "fog_index": 0.1964983027554729,
       "ai_lm_positive_share": -0.1007846568184798,
       "ai_lm_negative_share": 0.009530585691122,
       "ai_lm_uncertainty_share": 0.0870097918025138,
@@ -423,8 +423,8 @@
     {
       "variable": "passive_voice_sentence_share",
       "ai_disclosure": -0.1340888343328904,
-      "ai_sentence_count": -0.1590620017550211,
-      "log1p_ai_sentence_count": -0.1583412975168945,
+      "ai_sentence_count": -0.159062001755021,
+      "log1p_ai_sentence_count": -0.1583412975168944,
       "whole_report_concreteness": -0.1318517903399598,
       "ai_concreteness": -0.1175563470534957,
       "past_tense_share": 0.0432817978638698,
@@ -454,10 +454,10 @@
       "variable": "fog_index",
       "ai_disclosure": 0.1655245124167751,
       "ai_sentence_count": 0.0931919120868304,
-      "log1p_ai_sentence_count": 0.1653835463437357,
-      "whole_report_concreteness": -0.3900814266160401,
+      "log1p_ai_sentence_count": 0.1653835463437356,
+      "whole_report_concreteness": -0.3900814266160402,
       "ai_concreteness": -0.1222367337611701,
-      "past_tense_share": -0.1161458641914299,
+      "past_tense_share": -0.1161458641914298,
       "present_tense_share": 0.0959550640259266,
       "future_tense_share": 0.0936613866090094,
       "ai_past_tense_share": -0.0544980293048511,
@@ -465,7 +465,7 @@
       "ai_future_tense_share": 0.0040776069669897,
       "lm_positive_share": 0.0496580131090676,
       "lm_negative_share": 0.2189493564745397,
-      "lm_uncertainty_share": 0.196498302755473,
+      "lm_uncertainty_share": 0.1964983027554729,
       "passive_voice_sentence_share": 0.2183292832852638,
       "fog_index": 1.0,
       "ai_lm_positive_share": -0.0834965234721994,
@@ -484,10 +484,10 @@
       "variable": "ai_lm_positive_share",
       "ai_disclosure": null,
       "ai_sentence_count": -0.0595241595659858,
-      "log1p_ai_sentence_count": -0.095259026087025,
-      "whole_report_concreteness": 0.070644011595547,
+      "log1p_ai_sentence_count": -0.0952590260870251,
+      "whole_report_concreteness": 0.0706440115955469,
       "ai_concreteness": 0.0329190338550052,
-      "past_tense_share": 0.0626844988003255,
+      "past_tense_share": 0.0626844988003254,
       "present_tense_share": -0.061060863474087,
       "future_tense_share": -0.0070573271311078,
       "ai_past_tense_share": 0.0925903928971473,
@@ -546,7 +546,7 @@
       "ai_sentence_count": 0.0066932069267676,
       "log1p_ai_sentence_count": 0.1093708997662925,
       "whole_report_concreteness": -0.0534613118362224,
-      "ai_concreteness": -0.5451457204203006,
+      "ai_concreteness": -0.5451457204203005,
       "past_tense_share": -0.044013360860903,
       "present_tense_share": 0.0580212567323301,
       "future_tense_share": -0.061863413756944,
@@ -581,7 +581,7 @@
       "present_tense_share": -0.0117332318621408,
       "future_tense_share": 0.0364686950497112,
       "ai_past_tense_share": -0.0317212159236209,
-      "ai_present_tense_share": 0.0536789828156384,
+      "ai_present_tense_share": 0.0536789828156383,
       "ai_future_tense_share": -0.0486978284990225,
       "lm_positive_share": -0.0666476846341751,
       "lm_negative_share": 0.053637290411624,
@@ -604,7 +604,7 @@
       "variable": "ai_fog_index",
       "ai_disclosure": null,
       "ai_sentence_count": -0.1187220636091038,
-      "log1p_ai_sentence_count": -0.1528773169652832,
+      "log1p_ai_sentence_count": -0.1528773169652833,
       "whole_report_concreteness": 0.0739461745444732,
       "ai_concreteness": -0.0428585478508382,
       "past_tense_share": 0.1341398851698722,
@@ -637,13 +637,13 @@
       "log1p_ai_sentence_count": 0.1539412976139002,
       "whole_report_concreteness": -0.3105943012888444,
       "ai_concreteness": -0.147596014439999,
-      "past_tense_share": 0.1432127925070204,
-      "present_tense_share": -0.1475511615867502,
+      "past_tense_share": 0.1432127925070203,
+      "present_tense_share": -0.1475511615867501,
       "future_tense_share": 0.0253585792597604,
-      "ai_past_tense_share": 0.0144322021518602,
+      "ai_past_tense_share": 0.0144322021518601,
       "ai_present_tense_share": -0.0036883876627655,
       "ai_future_tense_share": -0.0177459310620292,
-      "lm_positive_share": -0.1687304347433955,
+      "lm_positive_share": -0.1687304347433954,
       "lm_negative_share": 0.1305056623854613,
       "lm_uncertainty_share": 0.0649717859072327,
       "passive_voice_sentence_share": 0.1833396226263991,
@@ -658,7 +658,7 @@
       "numeric_token_share": -0.1073330553192198,
       "average_word_length": 0.0264358647863436,
       "lexical_density": 0.124177158452021,
-      "root_type_token_ratio": -0.460025065738278
+      "root_type_token_ratio": -0.4600250657382779
     },
     {
       "variable": "report_word_count",
@@ -685,7 +685,7 @@
       "ai_fog_index": -0.0194846995272451,
       "log_report_word_count": 0.8971370771651853,
       "report_word_count": 1.0,
-      "numeric_token_share": -0.0818785148418013,
+      "numeric_token_share": -0.0818785148418012,
       "average_word_length": 0.0654763224978728,
       "lexical_density": 0.2046199115834897,
       "root_type_token_ratio": -0.5373012937835506
@@ -697,8 +697,8 @@
       "log1p_ai_sentence_count": -0.3411187391317883,
       "whole_report_concreteness": 0.3325627310947764,
       "ai_concreteness": -0.0160325967189968,
-      "past_tense_share": 0.6065933637990242,
-      "present_tense_share": -0.585221745955847,
+      "past_tense_share": 0.6065933637990241,
+      "present_tense_share": -0.5852217459558471,
       "future_tense_share": -0.0840868577997917,
       "ai_past_tense_share": 0.0298341004979865,
       "ai_present_tense_share": -0.0428626150652952,
@@ -714,7 +714,7 @@
       "ai_passive_voice_sentence_share": -0.0212612239941201,
       "ai_fog_index": 0.0577402673332452,
       "log_report_word_count": -0.1073330553192198,
-      "report_word_count": -0.0818785148418013,
+      "report_word_count": -0.0818785148418012,
       "numeric_token_share": 1.0,
       "average_word_length": -0.1384982828308362,
       "lexical_density": 0.1332025682005127,
@@ -724,12 +724,12 @@
       "variable": "average_word_length",
       "ai_disclosure": 0.2210490606316772,
       "ai_sentence_count": 0.1230055197843635,
-      "log1p_ai_sentence_count": 0.2147265757023512,
-      "whole_report_concreteness": -0.2300692984783115,
+      "log1p_ai_sentence_count": 0.2147265757023513,
+      "whole_report_concreteness": -0.2300692984783116,
       "ai_concreteness": -0.104558647725371,
       "past_tense_share": -0.135469016996159,
       "present_tense_share": 0.2029197264402115,
-      "future_tense_share": -0.3291827037718553,
+      "future_tense_share": -0.3291827037718554,
       "ai_past_tense_share": -0.0058382770553266,
       "ai_present_tense_share": -0.0003673047198554,
       "ai_future_tense_share": 0.0107571036221237,
@@ -747,7 +747,7 @@
       "report_word_count": 0.0654763224978728,
       "numeric_token_share": -0.1384982828308362,
       "average_word_length": 1.0,
-      "lexical_density": 0.6407788691783983,
+      "lexical_density": 0.6407788691783982,
       "root_type_token_ratio": 0.1424390697285618
     },
     {
@@ -776,8 +776,8 @@
       "log_report_word_count": 0.124177158452021,
       "report_word_count": 0.2046199115834897,
       "numeric_token_share": 0.1332025682005127,
-      "average_word_length": 0.6407788691783983,
-      "lexical_density": 1.0,
+      "average_word_length": 0.6407788691783982,
+      "lexical_density": 0.9999999999999998,
       "root_type_token_ratio": -0.0018593330897127
     },
     {
@@ -788,12 +788,12 @@
       "whole_report_concreteness": 0.1590000620134595,
       "ai_concreteness": 0.1355051658206421,
       "past_tense_share": -0.3058815122815232,
-      "present_tense_share": 0.3112294416089852,
+      "present_tense_share": 0.3112294416089851,
       "future_tense_share": -0.0352849918996533,
       "ai_past_tense_share": -0.0053740123520619,
-      "ai_present_tense_share": -8.278645667110203e-05,
+      "ai_present_tense_share": -8.278645667111634e-05,
       "ai_future_tense_share": 0.0094103517912724,
-      "lm_positive_share": 0.5185886839364897,
+      "lm_positive_share": 0.5185886839364896,
       "lm_negative_share": 0.2622344010360579,
       "lm_uncertainty_share": 0.1734993709062842,
       "passive_voice_sentence_share": -0.3529383556557711,
@@ -803,7 +803,7 @@
       "ai_lm_uncertainty_share": -0.044329882938323,
       "ai_passive_voice_sentence_share": -0.0416596006199618,
       "ai_fog_index": 0.0154329318232249,
-      "log_report_word_count": -0.460025065738278,
+      "log_report_word_count": -0.4600250657382779,
       "report_word_count": -0.5373012937835506,
       "numeric_token_share": -0.3001060207458166,
       "average_word_length": 0.1424390697285618,
@@ -1630,7 +1630,7 @@
       "log1p_ai_sentence_count": 0.8371301166914957,
       "ai_concreteness": -0.0431272099043958,
       "ai_past_tense_share": -0.0195158978878529,
-      "ai_present_tense_share": 0.0130706560809635,
+      "ai_present_tense_share": 0.0130706560809636,
       "ai_future_tense_share": 0.0084412438581277,
       "ai_lm_positive_share": -0.0595241595659858,
       "ai_lm_negative_share": 0.0272337214290246,
@@ -1645,13 +1645,13 @@
       "log1p_ai_sentence_count": 1.0,
       "ai_concreteness": -0.1662174115675488,
       "ai_past_tense_share": -0.0747057697268402,
-      "ai_present_tense_share": 0.0573254070937874,
+      "ai_present_tense_share": 0.0573254070937873,
       "ai_future_tense_share": 0.0182799744776174,
-      "ai_lm_positive_share": -0.095259026087025,
+      "ai_lm_positive_share": -0.0952590260870251,
       "ai_lm_negative_share": 0.1396747116445707,
       "ai_lm_uncertainty_share": 0.1093708997662925,
       "ai_passive_voice_sentence_share": 0.0377806620989933,
-      "ai_fog_index": -0.1528773169652832,
+      "ai_fog_index": -0.1528773169652833,
       "log_report_word_count": 0.085137409745752
     },
     {
@@ -1659,12 +1659,12 @@
       "ai_sentence_count": -0.0431272099043958,
       "log1p_ai_sentence_count": -0.1662174115675488,
       "ai_concreteness": 1.0,
-      "ai_past_tense_share": 0.2101898582734694,
+      "ai_past_tense_share": 0.2101898582734695,
       "ai_present_tense_share": -0.1693648446262188,
       "ai_future_tense_share": -0.0358902080378405,
       "ai_lm_positive_share": 0.0329190338550052,
       "ai_lm_negative_share": -0.4677309524955477,
-      "ai_lm_uncertainty_share": -0.5451457204203006,
+      "ai_lm_uncertainty_share": -0.5451457204203005,
       "ai_passive_voice_sentence_share": -0.0103092474332587,
       "ai_fog_index": -0.0428585478508382,
       "log_report_word_count": -0.147596014439999
@@ -1673,29 +1673,29 @@
       "variable": "ai_past_tense_share",
       "ai_sentence_count": -0.0195158978878529,
       "log1p_ai_sentence_count": -0.0747057697268402,
-      "ai_concreteness": 0.2101898582734694,
+      "ai_concreteness": 0.2101898582734695,
       "ai_past_tense_share": 1.0,
-      "ai_present_tense_share": -0.8552952465292364,
+      "ai_present_tense_share": -0.8552952465292367,
       "ai_future_tense_share": -0.0754426874114539,
       "ai_lm_positive_share": 0.0925903928971473,
       "ai_lm_negative_share": -0.1589789226337366,
       "ai_lm_uncertainty_share": -0.1732141739955432,
       "ai_passive_voice_sentence_share": -0.0317212159236209,
       "ai_fog_index": -0.0467973992673335,
-      "log_report_word_count": 0.0144322021518602
+      "log_report_word_count": 0.0144322021518601
     },
     {
       "variable": "ai_present_tense_share",
-      "ai_sentence_count": 0.0130706560809635,
-      "log1p_ai_sentence_count": 0.0573254070937874,
+      "ai_sentence_count": 0.0130706560809636,
+      "log1p_ai_sentence_count": 0.0573254070937873,
       "ai_concreteness": -0.1693648446262188,
-      "ai_past_tense_share": -0.8552952465292364,
-      "ai_present_tense_share": 0.9999999999999994,
+      "ai_past_tense_share": -0.8552952465292367,
+      "ai_present_tense_share": 1.0,
       "ai_future_tense_share": -0.4521385460030577,
       "ai_lm_positive_share": -0.1319968826185332,
       "ai_lm_negative_share": 0.1799745258130342,
       "ai_lm_uncertainty_share": 0.1834677565946011,
-      "ai_passive_voice_sentence_share": 0.0536789828156384,
+      "ai_passive_voice_sentence_share": 0.0536789828156383,
       "ai_fog_index": 0.0616383764572083,
       "log_report_word_count": -0.0036883876627655
     },
@@ -1717,7 +1717,7 @@
     {
       "variable": "ai_lm_positive_share",
       "ai_sentence_count": -0.0595241595659858,
-      "log1p_ai_sentence_count": -0.095259026087025,
+      "log1p_ai_sentence_count": -0.0952590260870251,
       "ai_concreteness": 0.0329190338550052,
       "ai_past_tense_share": 0.0925903928971473,
       "ai_present_tense_share": -0.1319968826185332,
@@ -1748,7 +1748,7 @@
       "variable": "ai_lm_uncertainty_share",
       "ai_sentence_count": 0.0066932069267676,
       "log1p_ai_sentence_count": 0.1093708997662925,
-      "ai_concreteness": -0.5451457204203006,
+      "ai_concreteness": -0.5451457204203005,
       "ai_past_tense_share": -0.1732141739955432,
       "ai_present_tense_share": 0.1834677565946011,
       "ai_future_tense_share": -0.0549018788854026,
@@ -1765,7 +1765,7 @@
       "log1p_ai_sentence_count": 0.0377806620989933,
       "ai_concreteness": -0.0103092474332587,
       "ai_past_tense_share": -0.0317212159236209,
-      "ai_present_tense_share": 0.0536789828156384,
+      "ai_present_tense_share": 0.0536789828156383,
       "ai_future_tense_share": -0.0486978284990225,
       "ai_lm_positive_share": -0.1199331130737613,
       "ai_lm_negative_share": 0.1525767299422958,
@@ -1777,7 +1777,7 @@
     {
       "variable": "ai_fog_index",
       "ai_sentence_count": -0.1187220636091038,
-      "log1p_ai_sentence_count": -0.1528773169652832,
+      "log1p_ai_sentence_count": -0.1528773169652833,
       "ai_concreteness": -0.0428585478508382,
       "ai_past_tense_share": -0.0467973992673335,
       "ai_present_tense_share": 0.0616383764572083,
@@ -1794,7 +1794,7 @@
       "ai_sentence_count": 0.0479813730000325,
       "log1p_ai_sentence_count": 0.085137409745752,
       "ai_concreteness": -0.147596014439999,
-      "ai_past_tense_share": 0.0144322021518602,
+      "ai_past_tense_share": 0.0144322021518601,
       "ai_present_tense_share": -0.0036883876627655,
       "ai_future_tense_share": -0.0177459310620292,
       "ai_lm_positive_share": -0.0709902668822577,
@@ -2002,7 +2002,7 @@
       "method": "pearson",
       "variable_1": "ai_disclosure",
       "variable_2": "ai_sentence_count",
-      "correlation": 0.4629965135163952,
+      "correlation": 0.4629965135163951,
       "pairwise_N": 4897,
       "pvalue": 8.771216908498336e-259
     },
@@ -2011,7 +2011,7 @@
       "method": "pearson",
       "variable_1": "ai_disclosure",
       "variable_2": "log1p_ai_sentence_count",
-      "correlation": 0.8255436608416064,
+      "correlation": 0.8255436608416058,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -2020,9 +2020,9 @@
       "method": "pearson",
       "variable_1": "ai_disclosure",
       "variable_2": "whole_report_concreteness",
-      "correlation": -0.2375026926041268,
+      "correlation": -0.2375026926041269,
       "pairwise_N": 4897,
-      "pvalue": 9.223267103147168e-64
+      "pvalue": 9.223267103144636e-64
     },
     {
       "sample": "full_sample",
@@ -2049,7 +2049,7 @@
       "variable_2": "present_tense_share",
       "correlation": 0.3520917624170526,
       "pairwise_N": 4897,
-      "pvalue": 6.7088784042058385e-143
+      "pvalue": 6.708878404202903e-143
     },
     {
       "sample": "full_sample",
@@ -2092,9 +2092,9 @@
       "method": "pearson",
       "variable_1": "ai_disclosure",
       "variable_2": "lm_positive_share",
-      "correlation": 0.2380944835323051,
+      "correlation": 0.2380944835323052,
       "pairwise_N": 4897,
-      "pvalue": 4.433152290680508e-64
+      "pvalue": 4.433152290679286e-64
     },
     {
       "sample": "full_sample",
@@ -2130,7 +2130,7 @@
       "variable_2": "fog_index",
       "correlation": 0.1655245124167751,
       "pairwise_N": 4897,
-      "pvalue": 2.022963110300945e-31
+      "pvalue": 2.0229631103005686e-31
     },
     {
       "sample": "full_sample",
@@ -2281,7 +2281,7 @@
       "method": "pearson",
       "variable_1": "ai_sentence_count",
       "variable_2": "present_tense_share",
-      "correlation": 0.2743818877142872,
+      "correlation": 0.2743818877142871,
       "pairwise_N": 4897,
       "pvalue": 2.6391355255401457e-85
     },
@@ -2308,7 +2308,7 @@
       "method": "pearson",
       "variable_1": "ai_sentence_count",
       "variable_2": "ai_present_tense_share",
-      "correlation": 0.0130706560809635,
+      "correlation": 0.0130706560809636,
       "pairwise_N": 1808,
       "pvalue": 0.5786133809320878
     },
@@ -2353,7 +2353,7 @@
       "method": "pearson",
       "variable_1": "ai_sentence_count",
       "variable_2": "passive_voice_sentence_share",
-      "correlation": -0.1590620017550211,
+      "correlation": -0.159062001755021,
       "pairwise_N": 4897,
       "pvalue": 4.102296312553479e-29
     },
@@ -2364,7 +2364,7 @@
       "variable_2": "fog_index",
       "correlation": 0.0931919120868304,
       "pairwise_N": 4897,
-      "pvalue": 6.403826865294836e-11
+      "pvalue": 6.403826865294166e-11
     },
     {
       "sample": "full_sample",
@@ -2470,7 +2470,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "log1p_ai_sentence_count",
-      "correlation": 0.9999999999999988,
+      "correlation": 1.0,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -2533,7 +2533,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "ai_present_tense_share",
-      "correlation": 0.0573254070937874,
+      "correlation": 0.0573254070937873,
       "pairwise_N": 1808,
       "pvalue": 0.0147757699955924
     },
@@ -2571,14 +2571,14 @@
       "variable_2": "lm_uncertainty_share",
       "correlation": 0.2905863842234589,
       "pairwise_N": 4897,
-      "pvalue": 6.618506349591119e-96
+      "pvalue": 6.6185063495888315e-96
     },
     {
       "sample": "full_sample",
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "passive_voice_sentence_share",
-      "correlation": -0.1583412975168945,
+      "correlation": -0.1583412975168944,
       "pairwise_N": 4897,
       "pvalue": 7.318153090500356e-29
     },
@@ -2587,7 +2587,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "fog_index",
-      "correlation": 0.1653835463437357,
+      "correlation": 0.1653835463437356,
       "pairwise_N": 4897,
       "pvalue": 2.27683069913238e-31
     },
@@ -2596,7 +2596,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "ai_lm_positive_share",
-      "correlation": -0.095259026087025,
+      "correlation": -0.0952590260870251,
       "pairwise_N": 1880,
       "pvalue": 3.518817492323324e-05
     },
@@ -2632,7 +2632,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "ai_fog_index",
-      "correlation": -0.1528773169652832,
+      "correlation": -0.1528773169652833,
       "pairwise_N": 1880,
       "pvalue": 2.6756829980923188e-11
     },
@@ -2668,7 +2668,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "average_word_length",
-      "correlation": 0.2147265757023512,
+      "correlation": 0.2147265757023513,
       "pairwise_N": 4897,
       "pvalue": 3.533478459401174e-52
     },
@@ -2704,7 +2704,7 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "ai_concreteness",
-      "correlation": 0.1558679051177999,
+      "correlation": 0.1558679051178,
       "pairwise_N": 1879,
       "pvalue": 1.0941672442719196e-11
     },
@@ -2713,7 +2713,7 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "past_tense_share",
-      "correlation": 0.2559660782229647,
+      "correlation": 0.2559660782229646,
       "pairwise_N": 4897,
       "pvalue": 4.161593917044472e-74
     },
@@ -2776,7 +2776,7 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "lm_negative_share",
-      "correlation": -0.4291117278344518,
+      "correlation": -0.4291117278344519,
       "pairwise_N": 4897,
       "pvalue": 1.2806545058752388e-218
     },
@@ -2785,7 +2785,7 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "lm_uncertainty_share",
-      "correlation": -0.5296200621534567,
+      "correlation": -0.5296200621534568,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -2803,7 +2803,7 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "fog_index",
-      "correlation": -0.3900814266160401,
+      "correlation": -0.3900814266160402,
       "pairwise_N": 4897,
       "pvalue": 1.0215433682504474e-177
     },
@@ -2812,7 +2812,7 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "ai_lm_positive_share",
-      "correlation": 0.070644011595547,
+      "correlation": 0.0706440115955469,
       "pairwise_N": 1880,
       "pvalue": 0.0021778377157053
     },
@@ -2859,7 +2859,7 @@
       "variable_2": "log_report_word_count",
       "correlation": -0.3105943012888444,
       "pairwise_N": 4897,
-      "pvalue": 5.43083856402222e-110
+      "pvalue": 5.430838564024252e-110
     },
     {
       "sample": "full_sample",
@@ -2884,9 +2884,9 @@
       "method": "pearson",
       "variable_1": "whole_report_concreteness",
       "variable_2": "average_word_length",
-      "correlation": -0.2300692984783115,
+      "correlation": -0.2300692984783116,
       "pairwise_N": 4897,
-      "pvalue": 7.70261785443236e-60
+      "pvalue": 7.702617854430319e-60
     },
     {
       "sample": "full_sample",
@@ -2940,16 +2940,16 @@
       "variable_2": "future_tense_share",
       "correlation": 0.096729215961531,
       "pairwise_N": 1879,
-      "pvalue": 2.6688567077577248e-05
+      "pvalue": 2.6688567077576102e-05
     },
     {
       "sample": "full_sample",
       "method": "pearson",
       "variable_1": "ai_concreteness",
       "variable_2": "ai_past_tense_share",
-      "correlation": 0.2101898582734694,
+      "correlation": 0.2101898582734695,
       "pairwise_N": 1808,
-      "pvalue": 1.6810538270774335e-19
+      "pvalue": 1.6810538270772838e-19
     },
     {
       "sample": "full_sample",
@@ -2974,9 +2974,9 @@
       "method": "pearson",
       "variable_1": "ai_concreteness",
       "variable_2": "lm_positive_share",
-      "correlation": 0.115388140913697,
+      "correlation": 0.1153881409136971,
       "pairwise_N": 1879,
-      "pvalue": 5.297528716944373e-07
+      "pvalue": 5.297528716944106e-07
     },
     {
       "sample": "full_sample",
@@ -3037,7 +3037,7 @@
       "method": "pearson",
       "variable_1": "ai_concreteness",
       "variable_2": "ai_lm_uncertainty_share",
-      "correlation": -0.5451457204203006,
+      "correlation": -0.5451457204203005,
       "pairwise_N": 1879,
       "pvalue": 6.152545577071412e-146
     },
@@ -3084,7 +3084,7 @@
       "variable_2": "numeric_token_share",
       "correlation": -0.0160325967189968,
       "pairwise_N": 1879,
-      "pvalue": 0.4873347920384797
+      "pvalue": 0.4873347920384857
     },
     {
       "sample": "full_sample",
@@ -3127,7 +3127,7 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "present_tense_share",
-      "correlation": -0.9783399721337463,
+      "correlation": -0.978339972133746,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -3181,7 +3181,7 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "lm_negative_share",
-      "correlation": -0.2038318105465215,
+      "correlation": -0.2038318105465216,
       "pairwise_N": 4897,
       "pvalue": 4.3639571053519727e-47
     },
@@ -3190,9 +3190,9 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "lm_uncertainty_share",
-      "correlation": -0.400867034102999,
+      "correlation": -0.4008670341029992,
       "pairwise_N": 4897,
-      "pvalue": 1.7705225540178304e-188
+      "pvalue": 1.7705225540169112e-188
     },
     {
       "sample": "full_sample",
@@ -3208,7 +3208,7 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "fog_index",
-      "correlation": -0.1161458641914299,
+      "correlation": -0.1161458641914298,
       "pairwise_N": 4897,
       "pvalue": 3.542652523706618e-16
     },
@@ -3217,7 +3217,7 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "ai_lm_positive_share",
-      "correlation": 0.0626844988003255,
+      "correlation": 0.0626844988003254,
       "pairwise_N": 1880,
       "pvalue": 0.0065518938801225
     },
@@ -3262,7 +3262,7 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "log_report_word_count",
-      "correlation": 0.1432127925070204,
+      "correlation": 0.1432127925070203,
       "pairwise_N": 4897,
       "pvalue": 7.4053059227703e-24
     },
@@ -3280,7 +3280,7 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "numeric_token_share",
-      "correlation": 0.6065933637990242,
+      "correlation": 0.6065933637990241,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -3316,7 +3316,7 @@
       "method": "pearson",
       "variable_1": "present_tense_share",
       "variable_2": "present_tense_share",
-      "correlation": 1.0,
+      "correlation": 0.9999999999999998,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -3370,7 +3370,7 @@
       "method": "pearson",
       "variable_1": "present_tense_share",
       "variable_2": "lm_negative_share",
-      "correlation": 0.2101997942938481,
+      "correlation": 0.210199794293848,
       "pairwise_N": 4897,
       "pvalue": 4.9963520877185295e-50
     },
@@ -3379,9 +3379,9 @@
       "method": "pearson",
       "variable_1": "present_tense_share",
       "variable_2": "lm_uncertainty_share",
-      "correlation": 0.3894033458642922,
+      "correlation": 0.3894033458642921,
       "pairwise_N": 4897,
-      "pvalue": 4.7038509532673605e-177
+      "pvalue": 4.703850953269709e-177
     },
     {
       "sample": "full_sample",
@@ -3451,7 +3451,7 @@
       "method": "pearson",
       "variable_1": "present_tense_share",
       "variable_2": "log_report_word_count",
-      "correlation": -0.1475511615867502,
+      "correlation": -0.1475511615867501,
       "pairwise_N": 4897,
       "pvalue": 3.0692491572828646e-25
     },
@@ -3469,7 +3469,7 @@
       "method": "pearson",
       "variable_1": "present_tense_share",
       "variable_2": "numeric_token_share",
-      "correlation": -0.585221745955847,
+      "correlation": -0.5852217459558471,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -3496,7 +3496,7 @@
       "method": "pearson",
       "variable_1": "present_tense_share",
       "variable_2": "root_type_token_ratio",
-      "correlation": 0.3112294416089852,
+      "correlation": 0.3112294416089851,
       "pairwise_N": 4897,
       "pvalue": 1.8589113649798262e-110
     },
@@ -3541,7 +3541,7 @@
       "method": "pearson",
       "variable_1": "future_tense_share",
       "variable_2": "lm_positive_share",
-      "correlation": 0.050460306277053,
+      "correlation": 0.0504603062770531,
       "pairwise_N": 4897,
       "pvalue": 0.0004116675440615
     },
@@ -3559,7 +3559,7 @@
       "method": "pearson",
       "variable_1": "future_tense_share",
       "variable_2": "lm_uncertainty_share",
-      "correlation": 0.042754579518366,
+      "correlation": 0.0427545795183661,
       "pairwise_N": 4897,
       "pvalue": 0.0027669473196242
     },
@@ -3624,7 +3624,7 @@
       "variable_2": "ai_fog_index",
       "correlation": -0.0290154688115443,
       "pairwise_N": 1880,
-      "pvalue": 0.208569471699152
+      "pvalue": 0.2085694716991555
     },
     {
       "sample": "full_sample",
@@ -3658,7 +3658,7 @@
       "method": "pearson",
       "variable_1": "future_tense_share",
       "variable_2": "average_word_length",
-      "correlation": -0.3291827037718553,
+      "correlation": -0.3291827037718554,
       "pairwise_N": 4897,
       "pvalue": 4.2295261955934245e-124
     },
@@ -3694,7 +3694,7 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": -0.8552952465292364,
+      "correlation": -0.8552952465292367,
       "pairwise_N": 1808,
       "pvalue": 0.0
     },
@@ -3759,7 +3759,7 @@
       "variable_2": "ai_lm_positive_share",
       "correlation": 0.0925903928971473,
       "pairwise_N": 1808,
-      "pvalue": 8.05537519742873e-05
+      "pvalue": 8.055375197428411e-05
     },
     {
       "sample": "full_sample",
@@ -3802,7 +3802,7 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "log_report_word_count",
-      "correlation": 0.0144322021518602,
+      "correlation": 0.0144322021518601,
       "pairwise_N": 1808,
       "pvalue": 0.5396957208424984
     },
@@ -3856,7 +3856,7 @@
       "method": "pearson",
       "variable_1": "ai_present_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": 0.9999999999999994,
+      "correlation": 1.0,
       "pairwise_N": 1808,
       "pvalue": 0.0
     },
@@ -3921,7 +3921,7 @@
       "variable_2": "ai_lm_positive_share",
       "correlation": -0.1319968826185332,
       "pairwise_N": 1808,
-      "pvalue": 1.767241834256219e-08
+      "pvalue": 1.767241834256317e-08
     },
     {
       "sample": "full_sample",
@@ -3930,7 +3930,7 @@
       "variable_2": "ai_lm_negative_share",
       "correlation": 0.1799745258130342,
       "pairwise_N": 1808,
-      "pvalue": 1.2545461875402732e-14
+      "pvalue": 1.2545461875403684e-14
     },
     {
       "sample": "full_sample",
@@ -3946,7 +3946,7 @@
       "method": "pearson",
       "variable_1": "ai_present_tense_share",
       "variable_2": "ai_passive_voice_sentence_share",
-      "correlation": 0.0536789828156384,
+      "correlation": 0.0536789828156383,
       "pairwise_N": 1808,
       "pvalue": 0.0224581376949278
     },
@@ -4009,7 +4009,7 @@
       "method": "pearson",
       "variable_1": "ai_present_tense_share",
       "variable_2": "root_type_token_ratio",
-      "correlation": -8.278645667110203e-05,
+      "correlation": -8.278645667111634e-05,
       "pairwise_N": 1808,
       "pvalue": 0.9971932921061571
     },
@@ -4027,7 +4027,7 @@
       "method": "pearson",
       "variable_1": "ai_future_tense_share",
       "variable_2": "lm_positive_share",
-      "correlation": 0.0470130507291184,
+      "correlation": 0.0470130507291183,
       "pairwise_N": 1808,
       "pvalue": 0.0456359498864988
     },
@@ -4045,7 +4045,7 @@
       "method": "pearson",
       "variable_1": "ai_future_tense_share",
       "variable_2": "lm_uncertainty_share",
-      "correlation": -0.0523242172851687,
+      "correlation": -0.0523242172851688,
       "pairwise_N": 1808,
       "pvalue": 0.0260918709960312
     },
@@ -4065,7 +4065,7 @@
       "variable_2": "fog_index",
       "correlation": 0.0040776069669897,
       "pairwise_N": 1808,
-      "pvalue": 0.8624446764003214
+      "pvalue": 0.862444676400314
     },
     {
       "sample": "full_sample",
@@ -4218,7 +4218,7 @@
       "variable_2": "ai_lm_positive_share",
       "correlation": 0.1112467978022978,
       "pairwise_N": 1880,
-      "pvalue": 1.3290921960092212e-06
+      "pvalue": 1.3290921960091562e-06
     },
     {
       "sample": "full_sample",
@@ -4261,7 +4261,7 @@
       "method": "pearson",
       "variable_1": "lm_positive_share",
       "variable_2": "log_report_word_count",
-      "correlation": -0.1687304347433955,
+      "correlation": -0.1687304347433954,
       "pairwise_N": 4897,
       "pvalue": 1.3366109267279615e-32
     },
@@ -4290,7 +4290,7 @@
       "variable_2": "average_word_length",
       "correlation": 0.1764063952818902,
       "pairwise_N": 4897,
-      "pvalue": 1.6012960208888394e-35
+      "pvalue": 1.6012960208885202e-35
     },
     {
       "sample": "full_sample",
@@ -4306,7 +4306,7 @@
       "method": "pearson",
       "variable_1": "lm_positive_share",
       "variable_2": "root_type_token_ratio",
-      "correlation": 0.5185886839364897,
+      "correlation": 0.5185886839364896,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -4324,7 +4324,7 @@
       "method": "pearson",
       "variable_1": "lm_negative_share",
       "variable_2": "lm_uncertainty_share",
-      "correlation": 0.590834797612504,
+      "correlation": 0.5908347976125041,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -4468,7 +4468,7 @@
       "method": "pearson",
       "variable_1": "lm_uncertainty_share",
       "variable_2": "fog_index",
-      "correlation": 0.196498302755473,
+      "correlation": 0.1964983027554729,
       "pairwise_N": 4897,
       "pvalue": 8.063504795558473e-44
     },
@@ -4641,7 +4641,7 @@
       "variable_2": "log_report_word_count",
       "correlation": 0.1833396226263991,
       "pairwise_N": 4897,
-      "pvalue": 2.8059444505634954e-38
+      "pvalue": 2.805944450562914e-38
     },
     {
       "sample": "full_sample",
@@ -4677,7 +4677,7 @@
       "variable_2": "lexical_density",
       "correlation": 0.0681724980607093,
       "pairwise_N": 4897,
-      "pvalue": 1.7975062546633574e-06
+      "pvalue": 1.797506254663218e-06
     },
     {
       "sample": "full_sample",
@@ -5251,9 +5251,9 @@
       "method": "pearson",
       "variable_1": "log_report_word_count",
       "variable_2": "root_type_token_ratio",
-      "correlation": -0.460025065738278,
+      "correlation": -0.4600250657382779,
       "pairwise_N": 4897,
-      "pvalue": 4.468688665768208e-255
+      "pvalue": 4.468688665771046e-255
     },
     {
       "sample": "full_sample",
@@ -5269,7 +5269,7 @@
       "method": "pearson",
       "variable_1": "report_word_count",
       "variable_2": "numeric_token_share",
-      "correlation": -0.0818785148418013,
+      "correlation": -0.0818785148418012,
       "pairwise_N": 4897,
       "pvalue": 9.584953244776523e-09
     },
@@ -5350,7 +5350,7 @@
       "method": "pearson",
       "variable_1": "average_word_length",
       "variable_2": "lexical_density",
-      "correlation": 0.6407788691783983,
+      "correlation": 0.6407788691783982,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -5368,7 +5368,7 @@
       "method": "pearson",
       "variable_1": "lexical_density",
       "variable_2": "lexical_density",
-      "correlation": 1.0,
+      "correlation": 0.9999999999999998,
       "pairwise_N": 4897,
       "pvalue": 0.0
     },
@@ -8833,7 +8833,7 @@
       "method": "pearson",
       "variable_1": "ai_sentence_count",
       "variable_2": "ai_present_tense_share",
-      "correlation": 0.0130706560809635,
+      "correlation": 0.0130706560809636,
       "pairwise_N": 1808,
       "pvalue": 0.5786133809320878
     },
@@ -8932,7 +8932,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "ai_present_tense_share",
-      "correlation": 0.0573254070937874,
+      "correlation": 0.0573254070937873,
       "pairwise_N": 1808,
       "pvalue": 0.0147757699955924
     },
@@ -8950,7 +8950,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "ai_lm_positive_share",
-      "correlation": -0.095259026087025,
+      "correlation": -0.0952590260870251,
       "pairwise_N": 1880,
       "pvalue": 3.518817492323324e-05
     },
@@ -8986,7 +8986,7 @@
       "method": "pearson",
       "variable_1": "log1p_ai_sentence_count",
       "variable_2": "ai_fog_index",
-      "correlation": -0.1528773169652832,
+      "correlation": -0.1528773169652833,
       "pairwise_N": 1880,
       "pvalue": 2.6756829980923188e-11
     },
@@ -9013,9 +9013,9 @@
       "method": "pearson",
       "variable_1": "ai_concreteness",
       "variable_2": "ai_past_tense_share",
-      "correlation": 0.2101898582734694,
+      "correlation": 0.2101898582734695,
       "pairwise_N": 1808,
-      "pvalue": 1.6810538270774335e-19
+      "pvalue": 1.6810538270772838e-19
     },
     {
       "sample": "ai_disclosers",
@@ -9058,7 +9058,7 @@
       "method": "pearson",
       "variable_1": "ai_concreteness",
       "variable_2": "ai_lm_uncertainty_share",
-      "correlation": -0.5451457204203006,
+      "correlation": -0.5451457204203005,
       "pairwise_N": 1879,
       "pvalue": 6.152545577071412e-146
     },
@@ -9103,7 +9103,7 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": -0.8552952465292364,
+      "correlation": -0.8552952465292367,
       "pairwise_N": 1808,
       "pvalue": 0.0
     },
@@ -9123,7 +9123,7 @@
       "variable_2": "ai_lm_positive_share",
       "correlation": 0.0925903928971473,
       "pairwise_N": 1808,
-      "pvalue": 8.05537519742873e-05
+      "pvalue": 8.055375197428411e-05
     },
     {
       "sample": "ai_disclosers",
@@ -9166,7 +9166,7 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "log_report_word_count",
-      "correlation": 0.0144322021518602,
+      "correlation": 0.0144322021518601,
       "pairwise_N": 1808,
       "pvalue": 0.5396957208424984
     },
@@ -9175,7 +9175,7 @@
       "method": "pearson",
       "variable_1": "ai_present_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": 0.9999999999999994,
+      "correlation": 1.0,
       "pairwise_N": 1808,
       "pvalue": 0.0
     },
@@ -9195,7 +9195,7 @@
       "variable_2": "ai_lm_positive_share",
       "correlation": -0.1319968826185332,
       "pairwise_N": 1808,
-      "pvalue": 1.767241834256219e-08
+      "pvalue": 1.767241834256317e-08
     },
     {
       "sample": "ai_disclosers",
@@ -9204,7 +9204,7 @@
       "variable_2": "ai_lm_negative_share",
       "correlation": 0.1799745258130342,
       "pairwise_N": 1808,
-      "pvalue": 1.2545461875402732e-14
+      "pvalue": 1.2545461875403684e-14
     },
     {
       "sample": "ai_disclosers",
@@ -9220,7 +9220,7 @@
       "method": "pearson",
       "variable_1": "ai_present_tense_share",
       "variable_2": "ai_passive_voice_sentence_share",
-      "correlation": 0.0536789828156384,
+      "correlation": 0.0536789828156383,
       "pairwise_N": 1808,
       "pvalue": 0.0224581376949278
     },
@@ -10203,10 +10203,10 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": -0.8552952465292364,
+      "correlation": -0.8552952465292367,
       "pairwise_N": 1808,
       "pvalue": 0.0,
-      "absolute_correlation": 0.8552952465292364
+      "absolute_correlation": 0.8552952465292367
     },
     {
       "sample": "ai_disclosers",
@@ -10243,10 +10243,10 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "present_tense_share",
-      "correlation": -0.9783399721337463,
+      "correlation": -0.978339972133746,
       "pairwise_N": 4897,
       "pvalue": 0.0,
-      "absolute_correlation": 0.9783399721337463
+      "absolute_correlation": 0.978339972133746
     },
     {
       "sample": "full_sample",
@@ -10263,20 +10263,20 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": -0.8552952465292364,
+      "correlation": -0.8552952465292367,
       "pairwise_N": 1808,
       "pvalue": 0.0,
-      "absolute_correlation": 0.8552952465292364
+      "absolute_correlation": 0.8552952465292367
     },
     {
       "sample": "full_sample",
       "method": "pearson",
       "variable_1": "ai_disclosure",
       "variable_2": "log1p_ai_sentence_count",
-      "correlation": 0.8255436608416064,
+      "correlation": 0.8255436608416058,
       "pairwise_N": 4897,
       "pvalue": 0.0,
-      "absolute_correlation": 0.8255436608416064
+      "absolute_correlation": 0.8255436608416058
     },
     {
       "sample": "full_sample",

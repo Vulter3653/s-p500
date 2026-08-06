@@ -1,0 +1,9 @@
+variable,N,VIF
+whole_report_concreteness,4897,1.7277093793554332
+lm_uncertainty_share,4897,1.961816248704129
+lm_positive_share,4897,1.292880198266355
+lm_negative_share,4897,1.6777397032823864
+passive_voice_sentence_share,4897,1.256148797919917
+fog_index,4897,1.5637239597172992
+log_report_word_count,4897,1.3387368256022847
+numeric_token_share,4897,1.5263087806811388

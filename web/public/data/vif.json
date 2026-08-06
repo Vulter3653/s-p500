@@ -2,17 +2,17 @@
   {
     "variable": "whole_report_concreteness",
     "N": 4897,
-    "VIF": 1.727709379355434
+    "VIF": 1.7277093793554332
   },
   {
     "variable": "lm_uncertainty_share",
     "N": 4897,
-    "VIF": 1.961816248704128
+    "VIF": 1.961816248704129
   },
   {
     "variable": "lm_positive_share",
     "N": 4897,
-    "VIF": 1.2928801982663556
+    "VIF": 1.292880198266355
   },
   {
     "variable": "lm_negative_share",
@@ -27,7 +27,7 @@
   {
     "variable": "fog_index",
     "N": 4897,
-    "VIF": 1.5637239597173
+    "VIF": 1.5637239597172992
   },
   {
     "variable": "log_report_word_count",
@@ -37,6 +37,6 @@
   {
     "variable": "numeric_token_share",
     "N": 4897,
-    "VIF": 1.5263087806811384
+    "VIF": 1.5263087806811388
   }
 ]

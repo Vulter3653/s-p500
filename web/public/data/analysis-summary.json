@@ -843,10 +843,10 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": -0.8552952465292364,
+      "correlation": -0.8552952465292367,
       "pairwise_N": 1808,
       "pvalue": 0.0,
-      "absolute_correlation": 0.8552952465292364
+      "absolute_correlation": 0.8552952465292367
     },
     {
       "sample": "ai_disclosers",
@@ -883,10 +883,10 @@
       "method": "pearson",
       "variable_1": "past_tense_share",
       "variable_2": "present_tense_share",
-      "correlation": -0.9783399721337463,
+      "correlation": -0.978339972133746,
       "pairwise_N": 4897,
       "pvalue": 0.0,
-      "absolute_correlation": 0.9783399721337463
+      "absolute_correlation": 0.978339972133746
     },
     {
       "sample": "full_sample",
@@ -903,20 +903,20 @@
       "method": "pearson",
       "variable_1": "ai_past_tense_share",
       "variable_2": "ai_present_tense_share",
-      "correlation": -0.8552952465292364,
+      "correlation": -0.8552952465292367,
       "pairwise_N": 1808,
       "pvalue": 0.0,
-      "absolute_correlation": 0.8552952465292364
+      "absolute_correlation": 0.8552952465292367
     },
     {
       "sample": "full_sample",
       "method": "pearson",
       "variable_1": "ai_disclosure",
       "variable_2": "log1p_ai_sentence_count",
-      "correlation": 0.8255436608416064,
+      "correlation": 0.8255436608416058,
       "pairwise_N": 4897,
       "pvalue": 0.0,
-      "absolute_correlation": 0.8255436608416064
+      "absolute_correlation": 0.8255436608416058
     },
     {
       "sample": "full_sample",
@@ -939,6 +939,6 @@
       "absolute_correlation": 1.0
     }
   ],
-  "generated_at": "2026-08-04T03:12:02.775224+00:00",
-  "git_commit": "0d6a07aa6434a4a5cdeb50825a2efda9ad0d7b66"
+  "generated_at": "2026-08-06T10:30:19.956628+00:00",
+  "git_commit": "27ef8e9e9106596462e4bb2647cf2a7e62dd2f0c"
 }
