@@ -1,0 +1,78 @@
+name: Restore Historical Published Analysis Files
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_year:
+        required: true
+        type: number
+        default: 2006
+      end_year:
+        required: true
+        type: number
+        default: 2025
+      execute:
+        description: "Commit regenerated analysis sources and dashboard metadata"
+        required: true
+        type: boolean
+        default: false
+      confirmation:
+        required: false
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Regenerate historical analysis source files
+        env:
+          START_YEAR: ${{ inputs.start_year }}
+          END_YEAR: ${{ inputs.end_year }}
+        run: |
+          set -euo pipefail
+          test -f panel_historical_candidate/firm_year_language_panel_full_candidate.parquet
+          python scripts/run_descriptive_pipeline.py --statistics-only \
+            --extended-panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --output-dir analysis/historical_candidate
+          python scripts/generate_web_analysis_data.py \
+            --panel panel_historical_candidate/firm_year_language_panel_full_candidate.parquet \
+            --analysis-dir analysis/historical_candidate \
+            --start-year "$START_YEAR" \
+            --end-year "$END_YEAR" \
+            --output-dir web/public/data
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          manifest = json.loads(Path("web/public/data/source-manifest.json").read_text(encoding="utf-8"))
+          missing = [item["source_file"] for item in manifest.get("sources", []) if not Path(item["source_file"]).exists()]
+          if missing:
+              raise SystemExit("missing generated source files: " + ", ".join(missing))
+          print({"source_count": len(manifest.get("sources", [])), "validation": "PASS"})
+          PY
+      - name: Publish restored files
+        if: inputs.execute == true && inputs.confirmation == 'RESTORE_HISTORICAL_PUBLISHED_FILES'
+        run: |
+          set -euo pipefail
+          branch="repair/historical-published-files-${{ github.run_id }}"
+          git checkout -B "$branch"
+          git add analysis/historical_candidate web/public/data
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git commit -m "Restore historical analysis source files"
+          git push origin "$branch"
+          echo "Restoration branch: $branch" >> "$GITHUB_STEP_SUMMARY"
+      - name: Dry-run summary
+        if: inputs.execute != true
+        run: echo "Validated regeneration only; no commit or push was performed."
