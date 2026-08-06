@@ -8,11 +8,23 @@
 - 기존 firm-year 패널: 2,829행
 - 기존 연도별 결과와 Google Drive raw HTML: 보존
 - R2: 이전 삭제 검증 후 빈 상태이며, 역사 연도 신규 수집 시에만 사용
-- 역사 확장 계획: 2019 → 2018 → 2017
-- 역사 연도 처리: 503 securities 목표, 실제 SEC 적격 filing만 포함
-- Free Tier 보호: 한 번에 한 연도, 기본 `max-parallel: 1`, checkpoint·resume, rate-limit 지연
+- 역사 확장: source-supported 범위에서 최신 연도부터 과거 연도 방향으로 순차 처리한다.
+- 역사 연도 처리: firm-level manifest 상한 503개, batch당 최대 100개, 실제 SEC 적격 filing만 포함한다.
+- historical candidate 상태와 연도별 검증 결과는 `automation/historical_backfill/` 및 `analysis/historical_candidate/`에 기록한다.
+- 기존 2020–2025 패널·분석 결과는 보호하고 historical candidate를 별도 경로로 관리한다.
+- Free Tier 보호: 한 번에 한 연도, 기본 `max-parallel: 1`, checkpoint·resume, rate-limit 지연.
 
-역사 연도 작업은 기존 2020–2025 실행기를 전역 수정하지 않고 전용 runner/workflow로 분리한다. 현재 역사 연도 workflow는 아직 실행되지 않았다.
+## 2020–2025 구성종목 외부 원천 감사
+
+현재 수집된 2020–2025 구성종목 CSV를 다음 독립 원천과 비교한 감사 결과를 문서화했다.
+
+- [datasets/s-and-p-500-companies](https://github.com/datasets/s-and-p-500-companies)
+- [hanshof/sp500_constituents](https://github.com/hanshof/sp500_constituents)
+- 상세 감사: [`docs/constituent-source-comparison-2020-2025.md`](docs/constituent-source-comparison-2020-2025.md)
+
+내부 CSV는 2020–2025 각 500행이며 snapshot date는 2021-01-01부터 2026-01-01이다. 2025 CSV와 datasets 현재 snapshot의 CIK 비교는 488개 교집합, 프로젝트 전용 9개, 외부 전용 11개였다. 외부 datasets 파일은 현재 구성 기준이며 2026년 유효일이 포함되므로 historical 연도의 정답으로 대체하지 않는다. hanshof historical 원본은 대용량 응답 제한으로 이번 감사에서 전체 행 대조를 완료하지 못했으며, 이를 문서에 미확인 상태로 기록했다.
+
+이 감사에서 기존 패널·분석표·Figure·원본 HTML·R2·Google Drive는 수정하지 않았다.
 
 ## 연구 목적과 범위
 
@@ -61,11 +73,13 @@ s-p500/
 
 ## 역사 연도 처리 순서
 
-역사 확장은 다음 순서로 한 연도씩 진행한다.
+역사 확장은 고정된 2017년에서 중단하지 않고 source-supported 범위에서 한 연도씩 역순으로 진행한다.
 
 ```text
-2019 → 2018 → 2017
+2019 → 2018 → 2017 → 2016 → 2015 → …
 ```
+
+각 연도 완료 여부와 누적 candidate panel의 상태는 `automation/historical_backfill/chain-state.json` 및 연도별 상태 파일에서 확인한다.
 
 503 securities는 다음 6개 batch로 나눈다.
 
