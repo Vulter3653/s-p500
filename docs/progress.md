@@ -479,3 +479,9 @@
 - 검증: `python -m py_compile scripts/generate_web_analysis_data.py`, `python scripts/generate_web_analysis_data.py`, `npm --prefix web run build`, `npm --prefix web run test:static`, `git diff --check` 통과.
 - 미실행: `npm --prefix web run test:browser`는 Chromium 실행 전 `sandbox_host_linux.cc:41` 권한 오류로 DOM 검증에 진입하지 못했다. 배포 후 데스크톱·모바일 브라우저 검증이 필요하다.
 - 외부 상태: 이번 변경은 아직 push·PR·배포하지 않았다.
+## 2026-08-06 — 0.14.0 브랜치 미리보기 배포 (codex)
+
+- push: `c0e2bc2` 공개 보고서 변경과 `1c84e75` 버전 동기화를 `origin/codex/web-research-report`에 push했다.
+- Cloudflare Pages: 브랜치 미리보기 `https://codex-web-research-report.s-p500.pages.dev/`가 새 자산 `index-CnS5x3kD.js`, `index-DimEqedU.css`와 2020–2025년 보고서 meta description을 제공함을 확인했다.
+- 버전: 프로젝트 `0.14.0`; 비공개 `web` 패키지 내부 버전은 `0.1.0` 유지.
+- 상태: PR·main 병합·production 배포는 수행하지 않았다. 다음 단계는 새 브랜치 미리보기에서 사용자 2차 검수이다.
