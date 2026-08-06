@@ -1,5 +1,3 @@
-import { useRef } from "react";
-
 const COLORS = ["#167c80", "#c58935", "#3d6388", "#9b5365", "#546b55"];
 const LABELS = {
   ai_disclosure_rate: "AI 공시 비율",
@@ -25,8 +23,9 @@ const VARIABLE_LABELS = {
 };
 
 const finite = (value) => Number.isFinite(Number(value)) ? Number(value) : null;
-const extent = (rows, keys) => {
+const extent = (rows, keys, includeZero = false) => {
   const values = rows.flatMap((row) => keys.map((key) => finite(row[key]))).filter((value) => value !== null);
+  if (includeZero) values.push(0);
   if (!values.length) return [0, 1];
   const min = Math.min(...values);
   const max = Math.max(...values);
@@ -39,6 +38,21 @@ const formatValue = (value, key) => {
   if (value === null) return "-";
   return percentKey(key) ? `${(value * 100).toFixed(1)}%` : value.toLocaleString("ko-KR", { maximumFractionDigits: 2 });
 };
+const yearDomain = (rows, yearKey = "report_year") => {
+  const years = rows.map((row) => finite(row[yearKey])).filter((value) => value !== null);
+  if (!years.length) return [0, 1];
+  const min = Math.min(...years);
+  const max = Math.max(...years);
+  return [min, max === min ? min + 1 : max];
+};
+const yearTicks = (minYear, maxYear, maxTicks = 8) => {
+  const span = maxYear - minYear;
+  const step = Math.max(1, Math.ceil(span / Math.max(maxTicks - 1, 1)));
+  const ticks = [];
+  for (let year = minYear; year <= maxYear; year += step) ticks.push(year);
+  if (ticks[ticks.length - 1] !== maxYear) ticks.push(maxYear);
+  return ticks;
+};
 
 function SvgDownload({ svgId }) {
   const download = () => {
@@ -50,8 +64,10 @@ function SvgDownload({ svgId }) {
     const anchor = document.createElement("a");
     anchor.href = url;
     anchor.download = `${svgId}.svg`;
+    document.body.appendChild(anchor);
     anchor.click();
-    URL.revokeObjectURL(url);
+    anchor.remove();
+    window.setTimeout(() => URL.revokeObjectURL(url), 0);
   };
   return <button type="button" className="figure-download" onClick={download}>SVG 다운로드</button>;
 }
@@ -72,13 +88,15 @@ export function LineFigure({ id, rows, keys, labels = keys.map((key) => LABELS[k
   const width = 760; const height = 300; const left = 62; const right = 22; const top = 28; const bottom = 44;
   const validRows = (Array.isArray(rows) ? rows : []).filter((row) => finite(row.report_year) !== null);
   const [min, max] = extent(validRows, keys);
-  const x = (year) => left + ((year - 2020) / 5) * (width - left - right);
+  const [minYear, maxYear] = yearDomain(validRows);
+  const x = (year) => left + ((year - minYear) / (maxYear - minYear)) * (width - left - right);
   const y = (value) => top + (max - value) / (max - min) * (height - top - bottom);
   const ticks = [min, min + (max - min) / 2, max];
+  const xTicks = yearTicks(minYear, maxYear);
   return <svg className="figure-svg" data-svg-id={id} viewBox={`0 0 ${width} ${height}`} role="img" aria-label={ariaLabel}>
-    <title>{ariaLabel}</title><desc>연도별 분석값을 선과 점으로 표시한 그래프</desc>
+    <title>{ariaLabel}</title><desc>선택한 기간의 연도별 분석값을 선과 점으로 표시한 그래프</desc>
     {ticks.map((tick) => <g key={tick}><line x1={left} x2={width - right} y1={y(tick)} y2={y(tick)} className="chart-grid" /><text x={left - 8} y={y(tick) + 4} textAnchor="end" className="chart-axis">{percent ? `${(tick * 100).toFixed(0)}%` : tick.toLocaleString("ko-KR", { maximumFractionDigits: 1 })}</text></g>)}
-    {validRows.map((row) => <text key={row.report_year} x={x(Number(row.report_year))} y={height - 16} textAnchor="middle" className="chart-axis">{row.report_year}</text>)}
+    {xTicks.map((year) => <text key={year} x={x(year)} y={height - 16} textAnchor="middle" className="chart-axis">{year}</text>)}
     {keys.map((key, index) => {
       const points = validRows.map((row) => { const value = finite(row[key]); return value === null ? null : `${x(Number(row.report_year))},${y(value)}`; }).filter(Boolean).join(" ");
       return <g key={key}><polyline points={points} fill="none" stroke={COLORS[index % COLORS.length]} strokeWidth="3" /><text x={width - right} y={top + index * 18} textAnchor="end" className="chart-legend" fill={COLORS[index % COLORS.length]}>{labels[index]}</text>{validRows.map((row) => finite(row[key]) === null ? null : <circle key={`${key}-${row.report_year}`} cx={x(Number(row.report_year))} cy={y(finite(row[key]))} r="4" fill={COLORS[index % COLORS.length]}><title>{`${row.report_year}: ${formatValue(finite(row[key]), key)}`}</title></circle>)}</g>;
@@ -89,7 +107,7 @@ export function LineFigure({ id, rows, keys, labels = keys.map((key) => LABELS[k
 export function EffectSizeFigure({ id, rows, ariaLabel }) {
   const width = 760; const rowHeight = 30; const left = 255; const right = 30; const top = 26;
   const items = (Array.isArray(rows) ? rows : []).filter((row) => finite(row.standardized_mean_difference) !== null);
-  const [min, max] = extent(items, ["standardized_mean_difference"]);
+  const [min, max] = extent(items, ["standardized_mean_difference"], true);
   const x = (value) => left + (value - min) / (max - min) * (width - left - right);
   return <svg className="figure-svg effect-svg" data-svg-id={id} viewBox={`0 0 ${width} ${Math.max(170, top + items.length * rowHeight + 24)}`} role="img" aria-label={ariaLabel}>
     <title>{ariaLabel}</title><desc>AI 공시와 미공시 집단의 표준화 평균 차이</desc>
@@ -103,9 +121,9 @@ export function EffectSizeFigure({ id, rows, ariaLabel }) {
 export function WithinChangeFigure({ id, rows, ariaLabel }) {
   const variables = ["whole_report_concreteness", "ai_sentence_count", "past_tense_share", "lm_uncertainty_share", "fog_index"];
   const width = 760; const rowHeight = 108; const left = 210; const right = 30; const top = 10;
-  const groups = variables.map((variable) => ({ variable, rows: (Array.isArray(rows) ? rows : []).filter((row) => row.variable === variable) })).filter((item) => item.rows.length);
+  const groups = variables.map((variable) => ({ variable, rows: (Array.isArray(rows) ? rows : []).filter((row) => row.variable === variable && finite(row.report_year) !== null) })).filter((item) => item.rows.length);
   return <svg className="figure-svg change-svg" data-svg-id={id} viewBox={`0 0 ${width} ${Math.max(180, top + groups.length * rowHeight)}`} role="img" aria-label={ariaLabel}>
-    <title>{ariaLabel}</title><desc>연속된 연도 관측치가 있는 동일 기업의 평균 변화</desc>
-    {groups.map(({ variable, rows: subset }, index) => { const yBase = top + index * rowHeight; const [min, max] = extent(subset, ["mean_within_firm_change"]); const x = (year) => left + ((year - 2021) / 4) * (width - left - right); const y = (value) => yBase + 25 + (max - value) / (max - min) * 55; const zero = min <= 0 && max >= 0 ? y(0) : null; const points = subset.map((row) => `${x(Number(row.report_year))},${y(finite(row.mean_within_firm_change))}`).join(" "); return <g key={variable}><text x={0} y={yBase + 18} className="chart-axis chart-label">{VARIABLE_LABELS[variable] || variable}</text>{zero !== null && <line x1={left} x2={width - right} y1={zero} y2={zero} className="chart-zero" />}{[2021, 2022, 2023, 2024, 2025].map((year) => <text key={year} x={x(year)} y={yBase + 96} textAnchor="middle" className="chart-axis">{year}</text>)}<polyline points={points} fill="none" stroke={COLORS[index % COLORS.length]} strokeWidth="3" />{subset.map((row) => <circle key={`${variable}-${row.report_year}`} cx={x(Number(row.report_year))} cy={y(finite(row.mean_within_firm_change))} r="4" fill={COLORS[index % COLORS.length]}><title>{`${row.report_year}: ${finite(row.mean_within_firm_change).toFixed(4)}`}</title></circle>)}</g>; })}
+    <title>{ariaLabel}</title><desc>선택한 기간에 실제 연속연도 관측치가 있는 동일 기업의 평균 변화</desc>
+    {groups.map(({ variable, rows: subset }, index) => { const yBase = top + index * rowHeight; const [min, max] = extent(subset, ["mean_within_firm_change"], true); const [minYear, maxYear] = yearDomain(subset); const x = (year) => left + ((year - minYear) / (maxYear - minYear)) * (width - left - right); const y = (value) => yBase + 25 + (max - value) / (max - min) * 55; const zero = y(0); const points = subset.map((row) => `${x(Number(row.report_year))},${y(finite(row.mean_within_firm_change))}`).join(" "); return <g key={variable}><text x={0} y={yBase + 18} className="chart-axis chart-label">{VARIABLE_LABELS[variable] || variable}</text><line x1={left} x2={width - right} y1={zero} y2={zero} className="chart-zero" />{yearTicks(minYear, maxYear, 6).map((year) => <text key={year} x={x(year)} y={yBase + 96} textAnchor="middle" className="chart-axis">{year}</text>)}<polyline points={points} fill="none" stroke={COLORS[index % COLORS.length]} strokeWidth="3" />{subset.map((row) => <circle key={`${variable}-${row.report_year}`} cx={x(Number(row.report_year))} cy={y(finite(row.mean_within_firm_change))} r="4" fill={COLORS[index % COLORS.length]}><title>{`${row.report_year}: ${finite(row.mean_within_firm_change).toFixed(4)}`}</title></circle>)}</g>; })}
   </svg>;
 }
