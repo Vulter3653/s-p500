@@ -1,5 +1,25 @@
 # Project Progress and Session Handoff
 
+## 2026-08-06 - Markdown 지속 갱신 규칙 보완
+
+- 변경: 작업 후 `CHANGELOG.md`, `docs/progress.md`, `docs/debug-log.md` 및 주제별 문서를 즉시 갱신하도록 `AGENTS.md`와 `docs/writing-rules.md`에 절차를 추가했다. (codex)
+- 검증: 문서 변경 누락 여부를 `git diff --stat -- CHANGELOG.md docs README.md`와 `git diff --check`로 확인한다. (codex)
+
+## 2026-08-06 - 기존 구현 우선 규칙 추가
+
+- 변경: `AGENTS.md`에 동일 기능의 기존 workflow·script·함수·schema·artifact를 먼저 확인하고 재사용해야 한다는 규칙을 추가했다. 기존 구현과 다른 신규 경로는 재사용 불가 사유를 기록하기 전에는 만들지 않는다. (codex)
+
+## 2026-08-06 - Drive mount 누락 디버깅
+
+- 확인: 현재 Codespace에는 `/content/drive/MyDrive/s-p500-10k-raw-html`가 없다. 따라서 rename dry-run/execute 모두 외부 환경에서 실행해야 한다. (codex)
+- 수정: rename script가 mount되지 않은 경로에서 권한 traceback 대신 명확한 `Mount Google Drive` 오류를 출력하도록 보완했다. 테스트 1건을 추가했다. (codex)
+
+## 2026-08-06 - historical Drive HTML rename tool (code-only)
+
+- 추가: `scripts/rename_drive_historical_html.py`가 repository의 연도별 `sample_503` manifest와 mounted Drive HTML을 accession-first로 대조하고 표준 파일명을 계획한다. (codex)
+- 검증: `pytest -q tests/test_rename_drive_historical_html.py` 6 passed, `py_compile`, `git diff --check` 통과. 실제 Drive·R2·SEC 요청과 파일명 변경은 수행하지 않았다. (codex)
+- 다음: dry-run 결과 검토 후 사용자가 명시적으로 confirmation을 제공할 때만 execute를 수행한다. (codex)
+
 ## 2026-08-03 - yearly batch package import 보정
 
 - 변경: `scripts/run_yearly_10k_batch.py`의 직접 script import를 package-relative import와 direct fallback으로 바꿨다. collection/extraction/language 및 dictionary 모듈의 관련 import를 함께 보정했다. (codex)

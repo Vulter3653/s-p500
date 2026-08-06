@@ -1,5 +1,24 @@
 # Debug Log
 
+## 2026-08-06 - Markdown 기록 누락 문제
+
+- 증상: 코드·workflow 작업 이후 관련 진행·디버그·변경 기록이 지속적으로 갱신되지 않아 다음 작업자가 실제 상태를 확인하기 어려웠다.
+- 원인: 문서 갱신 시점과 완료 조건이 명시적으로 강제되지 않았다.
+- 조치: `AGENTS.md`와 `docs/writing-rules.md`에 작업 직후 Markdown 갱신, 기존 기록 보존, 종료 전 diff 확인 및 누락 시 미완료 보고 규칙을 추가했다. (codex)
+- 검증: 문서 변경 후 `git diff --check`를 수행한다. (codex)
+
+## 2026-08-06 - Drive rename 실행 차단 원인
+
+- 재현: Codespace에서 지정 명령을 실행했으나 `/content`, `/content/drive`, `/content/drive/MyDrive`가 모두 존재하지 않았다.
+- 원인: `/content/drive`는 Google Colab Drive mount 경로이며 현재 Codespace에는 mount되지 않았다. 스크립트가 audit 디렉터리를 만들려다 `PermissionError`를 먼저 노출했다.
+- 수정: drive root 사전검사를 추가해 mount 누락을 명확한 안내로 fail-fast 처리한다. 실제 Drive 파일명 변경과 외부 요청은 여전히 수행하지 않았다. (codex)
+
+## 2026-08-06 - historical Drive HTML 표준 파일명 도구 추가
+
+- 범위: `/content/drive/MyDrive/s-p500-10k-raw-html/`의 2006–2019 HTML만 대상으로 하며, 저장소 manifest의 `accession_number`를 1차 키로 사용한다.
+- 안전장치: manifest 중복, 다중 매핑, 표준명 CIK/sample_order 불일치, 목적지 충돌을 사전 검증하고 실패 시 어떠한 파일도 변경하지 않는다. `--execute`에는 `RENAME_HISTORICAL_HTML_2006_2019` confirmation이 필요하다.
+- 검증: 6개 단위 테스트, Python compile, `git diff --check` 통과. 실제 외부 저장소 요청과 Drive 파일 변경은 수행하지 않았다. (codex)
+
 ## 2026-08-03 - package 실행 시 batch runner import 실패
 
 - 재현: run `30786636801`의 prepare manifest validation에서 `ModuleNotFoundError: No module named 'download_10k_html'`가 발생했다. `scripts.run_yearly_10k_batch`가 package 형태로 import될 때 script-local absolute import가 실패한 것이다. (codex)

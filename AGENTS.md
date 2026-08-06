@@ -24,6 +24,23 @@ docs/debug-log.md
 
 과거 대화나 기억만으로 작업하지 않는다. 저장소에 기록된 문서를 현재 상태의 기준으로 사용한다.
 
+## 기존 구현 우선 원칙
+
+- 새 코드를 작성하기 전에 동일하거나 유사한 기능의 기존 workflow, script, 함수, 테스트 및 산출물 경로를 검색하고 실제 호출 관계를 확인한다.
+- 기존 구현이 있으면 새 구현을 만들지 말고 기존 entrypoint·함수·schema·저장 정책을 재사용하거나 최소 확장한다.
+- 기존 구현과 다른 방식의 새 코드를 추가해야 할 때는 기존 코드를 재사용할 수 없는 구체적인 이유와 영향 범위를 `docs/progress.md` 또는 `docs/debug-log.md`에 먼저 기록한다.
+- 기존 workflow가 이미 외부 저장·검증·삭제를 담당하면 별도 workflow나 API 경로를 중복 작성하지 않는다. 기존 workflow의 입력만 확장하거나 기존 script를 호출한다.
+- 같은 목적의 파일·함수·매핑·정규화 규칙을 두 개 유지하지 않는다. 불가피한 호환 분기는 기존 동작을 보존하는 명시적 flag로 격리하고 테스트한다.
+- 작업 전에 다음 검색을 수행하고 결과를 작업 보고에 포함한다.
+
+```bash
+git ls-files | grep -Ei 'workflow|script|runner|migration|panel|manifest|drive|r2|analysis'
+git grep -n -I -E '기능명|entrypoint|source column|output path|workflow_dispatch'
+```
+
+- 기존 성공 실행의 artifact, manifest, cache 및 검증 결과가 있으면 새로 수집·계산하지 말고 우선 재사용한다.
+- 기존 코드와 새 코드의 결과가 다를 가능성이 있으면 구현을 중단하고 사용자에게 차이와 재사용 방안을 보고한다.
+
 ## 브랜치와 버전 관리
 
 - 개인 저장소의 기준 브랜치는 `origin/main`이다.
@@ -54,6 +71,24 @@ docs/progress.md
 ```text
 docs/debug-log.md
 ```
+
+## Markdown 지속 갱신 규칙
+
+- 의미 있는 작업은 코드 변경만으로 완료 처리하지 않는다. 작업 직후 관련 Markdown 기록을 같은 변경 단위에서 갱신한다.
+- 모든 작업은 최소한 `CHANGELOG.md`에 변경 요약과 `(codex)` 귀속을 추가한다.
+- 다음 작업자가 현재 상태를 이어받아야 하거나 실행·배포·외부 저장소 상태가 바뀌면 `docs/progress.md`에 완료 단계, 검증 결과, 미실행 단계, 다음 작업을 추가한다.
+- 오류·실패·재현·원인·수정·검증이 포함되면 `docs/debug-log.md`에 날짜, 명령, 관찰된 오류, 원인, 수정, 결과를 추가한다.
+- 연구 방법·데이터 경로·변수 정의·분석 결과·저장 정책이 바뀌면 해당 주제의 기존 `docs/*.md`, `README.md` 또는 workflow 설명도 같은 변경에서 갱신한다.
+- 문서는 최신 항목을 위쪽에 추가하며 기존 기록을 삭제·요약·덮어쓰지 않는다.
+- 작업 종료 전에 다음을 확인하고 보고한다.
+
+```bash
+git diff --check
+git diff --stat -- CHANGELOG.md docs README.md
+git status --short
+```
+
+- 위 문서 중 갱신 대상이 없다고 판단하면 작업 보고서에 그 이유를 명시한다. 문서 갱신을 생략한 채 완료로 보고하지 않는다.
 
 ## 기록 보존
 
@@ -109,4 +144,3 @@ git status --short
 - 커밋 해시
 - 푸시한 원격 저장소와 브랜치
 - 남아 있는 위험, 미실행 테스트 또는 후속 작업
-

@@ -46,33 +46,39 @@ def one_folder(service, parent_id: str, name: str) -> dict:
     return matches[0]
 
 
-def safe_part(value: str) -> str:
+def safe_part(value: str, *, historical: bool = False) -> str:
     value = value.strip()
-    value = re.sub(r"[\\/:*?\"<>|]", "_", value)
+    value = re.sub(r"[\\/:*?\"<>|]", "" if historical else "_", value)
+    if historical:
+        value = value.replace("'", "")
     value = re.sub(r"\s+", "_", value)
     value = re.sub(r"_+", "_", value).strip("._")
     return value or "unknown"
 
 
-def manifest_index(year: str) -> dict[tuple[str, str], dict]:
-    path = ROOT / year / "sample_500" / f"sample_manifest_{year}_500.csv"
-    result: dict[tuple[str, str], dict] = {}
+def manifest_index(year: str, *, historical: bool = False, repo_root: Path = ROOT) -> dict:
+    candidates = [
+        repo_root / year / "sample_503/sample/final_analysis_sample_503.csv",
+        repo_root / year / "sample_500" / f"sample_manifest_{year}_500.csv",
+    ] if historical else [repo_root / year / "sample_500" / f"sample_manifest_{year}_500.csv"]
+    path = next((candidate for candidate in candidates if candidate.exists()), candidates[0])
+    result: dict = {}
     with path.open(encoding="utf-8-sig", newline="") as handle:
         for row in csv.DictReader(handle):
             cik = row.get("cik", "").strip()
             accession = row.get("accession_number", "").strip()
             if not cik or not accession:
                 continue
-            key = (cik.zfill(10), accession)
+            key = accession if historical else (cik.zfill(10), accession)
             if key in result:
                 raise RuntimeError(f"duplicate_manifest_key:{year}:{key}")
             result[key] = row
     return result
 
 
-def rename_year(service, root_id: str, year: str, execute: bool) -> list[dict]:
+def rename_year(service, root_id: str, year: str, execute: bool, *, historical: bool = False, repo_root: Path = ROOT) -> list[dict]:
     year_folder = one_folder(service, root_id, year)
-    manifest = manifest_index(year)
+    manifest = manifest_index(year, historical=historical, repo_root=repo_root)
     leaves = [item for item in list_children(service, year_folder["id"]) if item.get("mimeType") == FOLDER_MIME]
     results: list[dict] = []
     for leaf in sorted(leaves, key=lambda item: item["name"]):
@@ -80,7 +86,7 @@ def rename_year(service, root_id: str, year: str, execute: bool) -> list[dict]:
         files = [item for item in list_children(service, leaf["id"]) if item.get("mimeType") != FOLDER_MIME]
         for source in files:
             accession = source["name"].removesuffix(".html")
-            row = manifest.get((cik, accession))
+            row = manifest.get(accession if historical else (cik, accession))
             result = {
                 "report_year": year,
                 "folder_name": leaf["name"],
@@ -95,11 +101,13 @@ def rename_year(service, root_id: str, year: str, execute: bool) -> list[dict]:
             try:
                 if not row:
                     raise RuntimeError("manifest_match_not_found")
-                order = int(row["sample_order"]) - 1
-                new_name = (
-                    f"{order}_{safe_part(row.get('company_name', ''))}_"
-                    f"{safe_part(row.get('ticker', ''))}_{cik}.html"
-                )
+                order = int(row["sample_order"])
+                if historical and str(row.get("report_year", year)) != str(year):
+                    raise RuntimeError("report_year_mismatch")
+                new_name = (f"{order:03d}_{year}_{safe_part(row.get('company_name', ''), historical=True)}_"
+                            f"{safe_part(row.get('ticker', ''), historical=True).replace('.', '-')}_{cik}.html") if historical else (
+                    f"{order - 1}_{safe_part(row.get('company_name', ''))}_"
+                    f"{safe_part(row.get('ticker', ''))}_{cik}.html")
                 result["new_name"] = new_name
                 same_name = [item for item in files if item["name"] == new_name]
                 if len(same_name) > 1 or (same_name and same_name[0]["id"] != source["id"]):
@@ -148,6 +156,8 @@ def main() -> int:
     parser.add_argument("--drive-root-folder-id", default=os.environ.get("GOOGLE_DRIVE_ROOT_FOLDER_ID", ""))
     parser.add_argument("--mode", choices=("dry_run", "execute"), default="dry_run")
     parser.add_argument("--output-dir", type=Path, default=Path("google_drive_rename"))
+    parser.add_argument("--historical", action="store_true")
+    parser.add_argument("--repo-root", type=Path, default=ROOT)
     args = parser.parse_args()
     if not args.drive_root_folder_id:
         raise RuntimeError("Google Drive root folder ID is required")
@@ -156,7 +166,7 @@ def main() -> int:
     all_rows: list[dict] = []
     for year in years:
         print(f"[rename] year={year} mode={args.mode}", flush=True)
-        all_rows.extend(rename_year(service, args.drive_root_folder_id, year, args.mode == "execute"))
+        all_rows.extend(rename_year(service, args.drive_root_folder_id, year, args.mode == "execute", historical=args.historical, repo_root=args.repo_root.resolve()))
     write_audit(args.output_dir, all_rows, args.mode, years)
     failed = [row for row in all_rows if row["status"] == "failed"]
     if failed:

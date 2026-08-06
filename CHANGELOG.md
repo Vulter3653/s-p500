@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-08-06
+
+- Changed: 의미 있는 작업마다 관련 Markdown을 같은 변경 단위에서 갱신하고, 누락 시 완료로 보고하지 않도록 지속 문서화 규칙을 명시했다. (codex)
+
+## 2026-08-06
+
+- Changed: 기존 workflow·script·schema·artifact를 먼저 검색하고 재사용하도록 에이전트 작업 규칙을 명시했다. 동일 기능의 신규 중복 구현은 근거와 승인 없이는 허용하지 않는다. (codex)
+
 ## 2026-08-03
 
 - Fixed: yearly batch runner가 package import와 direct script 실행 모두에서 관련 `scripts` 모듈을 로드하도록 import fallback을 보정했다. (codex)
@@ -170,3 +178,7 @@
 # Unreleased
 
 - Added: runner branch 인수인계를 위한 fixture 전용 GitHub Actions와 Codespaces 재접속 문서를 추가했다. dashboard 및 실제 SEC/R2/Google Drive 실행과 분리했다. (codex)
+# Unreleased
+
+- Fixed: Google Drive mount가 없는 환경에서 rename 도구가 원인과 복구 방법을 명확히 보고하도록 사전 경로 검사를 추가했다. (codex)
+- Added: 2006–2019 Google Drive HTML filename validator/renamer with accession-first matching, fail-closed planning, confirmation-gated execution, and rollback audit output. (codex)
