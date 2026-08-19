@@ -138,7 +138,7 @@ Time focusing = Past - (Present + Future)
 
 ## 향후 데이터 결합 — 예정
 
-WRDS acquisition specification은 [`docs/wrds-data-acquisition-contract.md`](wrds-data-acquisition-contract.md)에 준비했으며 아직 실행하지 않았다. 첫 empirical acquisition의 primary 후보는 검증된 2020–2025 core 2,829건이고, historical candidate는 향후 robustness/extension으로 분리한다.
+WRDS acquisition specification은 [`docs/wrds-data-acquisition-contract.md`](wrds-data-acquisition-contract.md)에 준비했으며 아직 실행하지 않았다. 첫 empirical acquisition의 primary 후보는 검증된 2020–2025 core 2,829건이고, historical candidate는 향후 robustness/extension으로 분리한다. 주주반응 분석은 **PHASE 1 CAR → PHASE 2 BHAR** 순서로 진행하며 현재 우선순위는 CAR다.
 
 향후 데이터 구조:
 
@@ -155,7 +155,7 @@ WRDS acquisition specification은 [`docs/wrds-data-acquisition-contract.md`](wrd
 
 Concreteness 상태는 **READY WITH DOCUMENTED LIMITATIONS**를 유지한다. 이번 계약 작성에서는 WRDS, Compustat, CRSP 또는 SEC에 접속하거나 자료를 내려받지 않았다.
 
-## 단기 Event Study — 예정
+## PHASE 1 — 단기 Shareholder Reaction: CAR — 현재 우선·미실행
 
 ### Event date와 CAR
 
@@ -186,7 +186,9 @@ Expected return benchmark 후보:
 
 참고한 *Journal of Marketing*의 “Hands Off My Brand!” 연구는 Market Model, FF4 robustness, 255 trading-day estimation period, event 46 trading days 전 종료 방식을 사용했다. 현재 연구의 정확한 estimation window와 benchmark model은 아직 확정하지 않는다.
 
-## 장기 Shareholder Reaction — 예정
+CAR raw acquisition은 canonical filing range 2020-02-18~2026-03-02와 estimation buffer를 반영해 `2018-08-01~2026-03-31`로 설계한다. 최신 event의 short window는 이미 성숙했으므로 2027년 자료나 future append가 필요하지 않다. 실제 CIZ·CCM·Compustat fields는 WRDS UI에서 query 직전 확인한다.
+
+## PHASE 2 — 장기 Shareholder Reaction: BHAR — 후속
 
 장기 주주 반응은 BHAR로 측정할 계획이다.
 
@@ -203,7 +205,7 @@ BHAR =
 - 6개월
 - 필요시 12개월
 
-정확한 장기 window와 benchmark는 미확정이다. 단기 CAR 최대 window와 장기 BHAR가 겹치지 않도록 설계한다. 예를 들어 `CAR[-3,+3]`을 사용하면 장기 window를 `+4` 이후 시작하는 방식을 검토할 수 있으나, 이는 최종 specification이 아니다.
+정확한 장기 window, benchmark, 장기 delisting 처리, maturity·snapshot·refresh 전략은 미확정이다. 모두 PHASE 1 CAR 분석 이후 별도 acquisition contract로 설계한다. 이 미확정 사항은 CAR raw acquisition의 blocker가 아니다.
 
 ## Compustat control 후보 — 예정
 
@@ -272,10 +274,9 @@ S&P 500 constituents
 → 10-K Filing Date
 → CIK-GVKEY-CCM-PERMNO linking
 → Compustat controls + CRSP returns
-→ Short-term CAR [-1,+1], [-2,+2], [-3,+3]
-→ Long-term BHAR
-→ Concreteness and Shareholder Reaction regression
-→ Robustness analysis
+→ PHASE 1: Short-term CAR [-1,+1], [-2,+2], [-3,+3]
+→ PHASE 1 regression and robustness
+→ PHASE 2: Long-term BHAR acquisition, specification and analysis
 ```
 
 Tense는 현재 이 pipeline에서 **보류** 상태다.
@@ -284,5 +285,6 @@ Tense는 현재 이 pipeline에서 **보류** 상태다.
 
 - 완료: 기존 구성종목·10-K·언어 패널, historical candidate panel, 기술통계·상관관계·단변량 비교, 웹 보고서
 - 보류: 최종 tense 측정과 RQ1 실증분석
-- 예정: WRDS/Compustat/CRSP 결합, CAR·BHAR 계산, shareholder reaction 회귀, robustness 분석
+- 현재 우선·미실행: PHASE 1 WRDS/Compustat/CRSP CAR raw acquisition, linkage, CAR 계산과 회귀
+- 후속·미실행: PHASE 2 BHAR acquisition, specification, 계산과 robustness
 - 미실행: 가상의 CAR·BHAR·Compustat 값 생성 및 웹 표시

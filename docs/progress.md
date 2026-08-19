@@ -1,3 +1,11 @@
+## 2026-08-19 - PHASE 1 CAR acquisition readiness 확정
+
+- 순서: 주주반응 분석을 `PHASE 1 CAR → PHASE 2 BHAR`로 분리하고 CAR를 현재 최우선 단계로 지정했다. BHAR horizon·benchmark·장기 delisting·maturity·refresh는 후속 단계로 이관했다. (codex)
+- 스키마: 공식 WRDS·CRSP·CCM 공개 자료로 `crsp.dsf_v2`, `dlycaldt`, `dlyret`, CIZ return audit flags, `crsp.wrds_dailyindexret_query`, `vwretd`, `ewretd` 및 CCM field/code 후보를 확인했다. 실제 계정의 table·column availability는 query 직전 UI 확인 사항이다. (codex)
+- 날짜: canonical filing range 2020-02-18~2026-03-02와 255-observation estimation buffer를 기준으로 CAR-only CRSP range를 `2018-08-01~2026-03-31`로 확정했다. 2027 future range와 append strategy는 CAR 계약에서 제거했다. (codex)
+- 판정: `READY FOR CAR WRDS ACQUISITION EXCEPT FOR FIELDS TO VERIFY IN WRDS UI`. Acceptance timestamp enrichment와 multiple-PERMNO·RDQ 세부 규칙은 raw acquisition 이후 linkage/event 단계에서 확정 가능하다. (codex)
+- 보호: WRDS·Compustat·CRSP·SEC·R2·Drive 요청, canonical panel·분석값·코드·웹 변경은 수행하지 않았다. (codex)
+
 ## 2026-08-19 - WRDS data acquisition contract 확정
 
 - 설계: 첫 empirical acquisition을 검증된 2020–2025 core 2,829개 기업-연도로 제한하고 historical candidate 4,897건은 향후 robustness/extension으로 분리했다. (codex)

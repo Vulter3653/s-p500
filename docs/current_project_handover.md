@@ -18,7 +18,7 @@ Updated: 2026-08-19
 - 핵심 관계: `10-K Concreteness → Shareholder Reaction`
 - 상세 확정·보류·예정 항목: [`docs/research-blueprint.md`](research-blueprint.md)
 
-기존 tense 결과는 최종 측정이 아니라 `spaCy 기반 임시 tense 분석`이다. WRDS·Compustat·CRSP 결합, CAR·BHAR 및 주주 반응 회귀는 아직 실행하지 않은 향후 청사진이다.
+기존 tense 결과는 최종 측정이 아니라 `spaCy 기반 임시 tense 분석`이다. 주주반응 분석은 **PHASE 1 CAR → PHASE 2 BHAR** 순서이며, 현재는 CAR raw acquisition 직전 schema 계약만 준비된 상태다. WRDS·Compustat·CRSP 자료 수집과 주주반응 회귀는 아직 실행하지 않았다.
 
 ## 확정된 데이터 상태
 
@@ -55,7 +55,7 @@ Updated: 2026-08-19
 - 기존 웹 데이터와 Figure 생성
 - 웹 연구보고서 2차 피드백 브랜치 미리보기 배포
 - Brysbaert Concreteness 전처리 중간 검증: `READY WITH DOCUMENTED LIMITATIONS`
-- WRDS data acquisition·linkage contract 작성: specification prepared / not yet executed
+- PHASE 1 CAR data acquisition·linkage contract 작성: `READY FOR CAR WRDS ACQUISITION EXCEPT FOR FIELDS TO VERIFY IN WRDS UI` / not yet executed
 
 ### 보류
 
@@ -66,12 +66,13 @@ Updated: 2026-08-19
 ### 예정이며 미실행
 
 - Concreteness stopword·collision 대안의 회귀 단계 robustness 문서화
-- [`docs/wrds-data-acquisition-contract.md`](wrds-data-acquisition-contract.md)에 따른 primary core 2,829건의 실제 WRDS acquisition
+- [`docs/wrds-data-acquisition-contract.md`](wrds-data-acquisition-contract.md)에 따른 primary core 2,829건의 PHASE 1 CAR WRDS acquisition
 - SEC acceptance timestamp enrichment 및 market-event-date 정렬
 - CIK–GVKEY–CCM–PERMNO 연결
 - Compustat controls 결합
 - CRSP return 결합
-- 단기 CAR 및 장기 BHAR
+- PHASE 1 단기 CAR
+- PHASE 2 장기 BHAR acquisition·specification·analysis
 - Concreteness와 shareholder reaction 회귀
 - event-study robustness 및 confounding-event 검토
 
@@ -89,10 +90,10 @@ Updated: 2026-08-19
 
 ## 다음 의사결정
 
-1. CRSP current CIZ에서 delisting·shares fields와 CCM schema를 실행 직전 확인
-2. 최신 2025 event의 12개월 BHAR가 성숙하기 전 partial snapshot을 받을지, 2027-04-30 이후 one-shot으로 받을지 결정
+1. WRDS UI에서 Compustat Annual·Quarterly RDQ, CCM, `crsp.dsf_v2`, `dlyret` 및 market daily fields를 실행 직전 확인
+2. PHASE 1 CAR-only CRSP range `2018-08-01~2026-03-31`과 latest data availability 확인
 3. Acceptance timestamp가 없는 event의 fallback과 market-close alignment convention 승인
-4. Age·segment·BigN optional source를 첫 acquisition에 포함할지 결정
+4. Actual multiple-PERMNO tie와 earnings announcement confounding 처리 규칙 확정
 5. RQ2에서 whole-report, AI-related 또는 difference score 중 main IV 선택
-6. CAR benchmark·estimation window와 BHAR horizon·benchmark 확정
-7. earnings announcement 및 confounding event 처리 규칙 확정
+6. CAR benchmark·minimum estimation observations·primary window 확정
+7. PHASE 1 완료 후 BHAR horizon·benchmark·장기 data acquisition을 별도 설계

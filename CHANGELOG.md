@@ -1,5 +1,9 @@
 ## [Unreleased] - 2026-08-19
 
+- Docs: Split shareholder-reaction work into PHASE 1 CAR and deferred PHASE 2 BHAR, with CAR as the current acquisition priority. (codex)
+- Docs: Confirmed the official CIZ `crsp.dsf_v2`/`dlyret` and market-return contract, CCM code meanings, CAR attrition fields and UI-only schema checks. (codex)
+- Docs: Replaced the BHAR-driven 2027 range with the CAR-only 2018-08-01~2026-03-31 range; no future append is required for the mature short event windows. (codex)
+- Protection: No WRDS, Compustat, CRSP, SEC, R2 or Drive request was made; no data, analysis value, source code or web artifact was changed. (codex)
 - Docs: Defined the primary 2020–2025 empirical sample, event-date alignment, CIK–GVKEY–CCM–PERMNO linkage, Compustat Annual/Quarterly, CRSP CIZ daily/market, factor, raw-retention and sample-attrition contracts without executing external queries. (codex)
 - Docs: Recorded the observed 2020-02-18~2026-03-02 filing range, proposed 2018-08-01~2027-04-30 CRSP coverage, and the unresolved maturity of the latest events' 12-month BHAR horizon. (codex)
 - Docs: Separated verified current CIZ fields from legacy-compatible names and required an in-WRDS schema check for delisting and shares fields before execution. (codex)
