@@ -1,3 +1,13 @@
+## 2026-08-19 - WRDS data acquisition contract 확정
+
+- 설계: 첫 empirical acquisition을 검증된 2020–2025 core 2,829개 기업-연도로 제한하고 historical candidate 4,897건은 향후 robustness/extension으로 분리했다. (codex)
+- 계약: SEC filing date·acceptance timestamp·market event date를 분리하고, `CIK → GVKEY → CCM → PERMNO`, Compustat Annual, Quarterly RDQ, CRSP CIZ daily·market 및 factor 자료의 raw field·audit·attrition 계약을 `docs/wrds-data-acquisition-contract.md`에 기록했다. (codex)
+- 날짜: canonical filing range 2020-02-18~2026-03-02를 확인하고 estimation buffer와 최대 12개월 BHAR를 위한 CRSP target range를 2018-08-01~2027-04-30으로 설계했다. 최신 event의 12개월 horizon은 아직 성숙하지 않아 one-shot 대기 또는 append-only refresh가 승인 사항이다. (codex)
+- 재사용: 기존 `scripts/collect_sec_filing_metadata.py`가 `acceptanceDateTime`을 보존하며 2025 pilot 적격 100건 중 99건에 timestamp가 있음을 확인했다. 새 collector·WRDS runner·workflow는 만들지 않았다. (codex)
+- 스키마: CRSP의 current CIZ 전환을 반영해 검증된 `dsf_v2` daily·market fields와 legacy names를 구분하고, delisting·shares field는 실제 WRDS schema 확인 전 `VERIFY IN WRDS BEFORE RUN`으로 남겼다. (codex)
+- 보호: WRDS·Compustat·CRSP·SEC·R2·Drive 요청, canonical panel·Concreteness 값 변경, NLP·historical·web 재실행은 수행하지 않았다. (codex)
+- 검증: 문서 정합성·필드 중복·상태 표현과 `git diff --check`가 통과했다. 코드 변경이 없어 pytest·build·py_compile은 실행하지 않았다. (codex)
+
 ## 2026-08-19 - Brysbaert Concreteness 전처리 강건성 검증
 
 - 판정: RQ2 whole-report Concreteness는 `READY WITH DOCUMENTED LIMITATIONS`로 판정했다. canonical 값은 변경하지 않았다. (codex)

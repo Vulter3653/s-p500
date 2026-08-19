@@ -1,5 +1,9 @@
 ## [Unreleased] - 2026-08-19
 
+- Docs: Defined the primary 2020–2025 empirical sample, event-date alignment, CIK–GVKEY–CCM–PERMNO linkage, Compustat Annual/Quarterly, CRSP CIZ daily/market, factor, raw-retention and sample-attrition contracts without executing external queries. (codex)
+- Docs: Recorded the observed 2020-02-18~2026-03-02 filing range, proposed 2018-08-01~2027-04-30 CRSP coverage, and the unresolved maturity of the latest events' 12-month BHAR horizon. (codex)
+- Docs: Separated verified current CIZ fields from legacy-compatible names and required an in-WRDS schema check for delisting and shares fields before execution. (codex)
+- Protection: No WRDS, Compustat, CRSP, SEC, R2 or Drive request was made; no canonical panel, Concreteness value, analysis code or web source was changed. (codex)
 - Analysis: Brysbaert Concreteness의 SMART stopword, NLTK–SnowballC stemming, collision 대안, rank stability 및 2,829건 coverage를 검증하고 `READY WITH DOCUMENTED LIMITATIONS`로 기록했다. canonical 분석값은 변경하지 않았다. (codex)
 - Fixed: 전처리 재현 문서의 과거 `R/SnowballC 미설치` 설명을 고정된 SnowballC 0.7.0 전체 어휘·대표 실제 token 비교 결과로 갱신했다. (codex)
 - Fixed: SnowballC 환경 테스트가 저장소 release VERSION 0.12.0에 불필요하게 결합된 assertion을 제거하고 package·metadata·baseline 검증을 유지했다. (codex)

@@ -138,7 +138,7 @@ Time focusing = Past - (Present + Future)
 
 ## 향후 데이터 결합 — 예정
 
-현재는 WRDS 수집 실행 단계가 아니라 청사진 작성 단계다.
+WRDS acquisition specification은 [`docs/wrds-data-acquisition-contract.md`](wrds-data-acquisition-contract.md)에 준비했으며 아직 실행하지 않았다. 첫 empirical acquisition의 primary 후보는 검증된 2020–2025 core 2,829건이고, historical candidate는 향후 robustness/extension으로 분리한다.
 
 향후 데이터 구조:
 
@@ -149,11 +149,11 @@ Time focusing = Past - (Present + Future)
 ```
 
 - 기본 분석단위: Firm-Year
-- event date: 10-K filing date
-- 식별자 연결 청사진: `CIK → GVKEY → PERMNO`
+- event source: 10-K filing; `market_event_date`는 SEC acceptance timestamp와 CRSP trading calendar로 정렬할 예정
+- 식별자 연결 청사진: `CIK → GVKEY → CCM → PERMNO`
 - ticker 또는 firm name 문자열만으로 최종 매칭하는 방식은 지양한다.
 
-이번 문서 갱신에서는 WRDS, Compustat 또는 CRSP에 접속하거나 자료를 내려받지 않았다.
+Concreteness 상태는 **READY WITH DOCUMENTED LIMITATIONS**를 유지한다. 이번 계약 작성에서는 WRDS, Compustat, CRSP 또는 SEC에 접속하거나 자료를 내려받지 않았다.
 
 ## 단기 Event Study — 예정
 
@@ -270,7 +270,7 @@ S&P 500 constituents
 → 10-K narrative extraction
 → Brysbaert-based Concreteness
 → 10-K Filing Date
-→ CIK-GVKEY-PERMNO linking
+→ CIK-GVKEY-CCM-PERMNO linking
 → Compustat controls + CRSP returns
 → Short-term CAR [-1,+1], [-2,+2], [-3,+3]
 → Long-term BHAR

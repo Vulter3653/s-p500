@@ -6,9 +6,9 @@ Updated: 2026-08-19
 
 - repository: `Vulter3653/s-p500`
 - 작업 브랜치: `codex/web-research-report`
-- Concreteness 검증 시작 HEAD: `14638e0073ad1c0a7995915600a9575a0e1d1135`
+- 기준 commit: Concreteness validation `9859c749c1bbfec6d9a6da80a5e5b28b953819b1`
+- 최신 HEAD는 고정값을 수동 복제하지 않고 `git rev-parse HEAD`로 확인한다.
 - `origin/main`: `0bd911f7846abd3a96d853073e38fd470f2b3a36`
-- 검증 시작 시 main 대비: 11 commits ahead / 0 behind
 - VERSION: `0.14.0`
 
 ## 연구 우선순위
@@ -55,6 +55,7 @@ Updated: 2026-08-19
 - 기존 웹 데이터와 Figure 생성
 - 웹 연구보고서 2차 피드백 브랜치 미리보기 배포
 - Brysbaert Concreteness 전처리 중간 검증: `READY WITH DOCUMENTED LIMITATIONS`
+- WRDS data acquisition·linkage contract 작성: specification prepared / not yet executed
 
 ### 보류
 
@@ -65,7 +66,9 @@ Updated: 2026-08-19
 ### 예정이며 미실행
 
 - Concreteness stopword·collision 대안의 회귀 단계 robustness 문서화
-- CIK–GVKEY–PERMNO 연결
+- [`docs/wrds-data-acquisition-contract.md`](wrds-data-acquisition-contract.md)에 따른 primary core 2,829건의 실제 WRDS acquisition
+- SEC acceptance timestamp enrichment 및 market-event-date 정렬
+- CIK–GVKEY–CCM–PERMNO 연결
 - Compustat controls 결합
 - CRSP return 결합
 - 단기 CAR 및 장기 BHAR
@@ -86,9 +89,10 @@ Updated: 2026-08-19
 
 ## 다음 의사결정
 
-1. RQ2에서 whole-report, AI-related 또는 difference score 중 main IV 선택
-2. Concreteness collision·stopword 민감도를 최종 회귀 robustness에 포함할 범위 확정
-3. CAR benchmark와 estimation window 확정
-4. BHAR horizon과 benchmark 확정
-5. 최소 Compustat·textual control set 선정
-6. earnings announcement 및 confounding event 처리 규칙 확정
+1. CRSP current CIZ에서 delisting·shares fields와 CCM schema를 실행 직전 확인
+2. 최신 2025 event의 12개월 BHAR가 성숙하기 전 partial snapshot을 받을지, 2027-04-30 이후 one-shot으로 받을지 결정
+3. Acceptance timestamp가 없는 event의 fallback과 market-close alignment convention 승인
+4. Age·segment·BigN optional source를 첫 acquisition에 포함할지 결정
+5. RQ2에서 whole-report, AI-related 또는 difference score 중 main IV 선택
+6. CAR benchmark·estimation window와 BHAR horizon·benchmark 확정
+7. earnings announcement 및 confounding event 처리 규칙 확정
