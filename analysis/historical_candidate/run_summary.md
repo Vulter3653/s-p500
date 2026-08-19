@@ -7,7 +7,8 @@
 ## 입력 데이터
 
 입력 패널: `panel_historical_candidate/firm_year_language_panel_full_candidate.parquet`
-분석 기간: 2020–2025년
+분석 기간: 2006–2025년
+패널 성격: 원천과 적격 filing이 확인된 historical candidate panel
 
 ## 분석 표본
 
@@ -51,8 +52,9 @@ spaCy 기반 시제·수동태, AI Fog 및 텍스트 통제변수를 확장 패�
 
 ## 품질관리 결과
 
-확장 패널 행 수 2,829, company-year·CIK-year·accession 중복 0, 신규 count 음수 0, share 범위 위반 0, infinity 0이다.
-warning firm-year: 2,729개
+`automation/historical_backfill/chain-state.json` 기준 candidate rows는 4,897개, chain status는 `completed`, validation은 `PASS`이다.
+
+이 패널은 매년 완전한 S&P 500 전체 패널이 아니다. 2,829개 행에 대한 기존 품질통계는 2020–2025 핵심 패널의 결과이므로 이 historical summary에 적용하지 않는다.
 
 ## 생성 파일
 
@@ -60,4 +62,4 @@ warning firm-year: 2,729개
 
 ## 원본 보존
 
-기존 CSV·Parquet, Google Drive raw HTML, R2 객체와 기존 언어 측정 결과를 수정하지 않았다.
+기존 CSV·Parquet, Google Drive raw HTML, R2 객체와 기존 언어 측정 결과를 수정하지 않았다. 이번 문서 정정에서도 데이터와 분석값을 재계산하지 않았다.

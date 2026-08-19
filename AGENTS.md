@@ -1,6 +1,6 @@
 # Agent Operating Guide
 
-Updated: 2026-07-20
+Updated: 2026-08-19
 
 이 저장소에서 작업하는 모든 AI 에이전트와 기여자는 파일을 수정하기 전에 이 문서를 따라야 한다.
 
@@ -34,6 +34,28 @@ docs/debug-log.md
 - 사용자의 명시적 지시 없이 기존 커밋을 강제로 덮어쓰거나 기록을 재작성하지 않는다.
 - 버전은 `VERSION` 파일과 `CHANGELOG.md`에서 함께 관리한다.
 - 버전 규칙은 Semantic Versioning의 `MAJOR.MINOR.PATCH` 형식을 따른다.
+
+## Default Git completion policy
+
+사용자가 해당 작업에서 명시적으로 금지하지 않는 한, Codex는 정상 완료한 작업을 다음 순서로 마무리한다.
+
+1. 변경 범위에 필요한 검증을 수행한다.
+2. 검증이 통과하면 이번 작업에서 변경한 파일만 stage한다.
+3. 작업 내용을 설명하는 하나의 명확한 commit을 생성한다.
+4. 현재 작업 브랜치를 동일한 이름의 `origin` 브랜치로 push한다.
+5. 완료 보고에 commit SHA와 push 대상 브랜치를 기록한다.
+
+다음 동작은 자동으로 수행하지 않는다.
+
+- `main` 또는 `master` 브랜치에 직접 commit하거나 push
+- force push, `--force-with-lease`, history rewrite, 기존 사용자 작업을 삭제하는 reset, 공유 브랜치 history를 변경하는 rebase
+- PR 생성 또는 merge, production deploy, release 또는 tag 생성
+- 사용자 소유의 unrelated 변경 stage, secret·token·credential commit
+- 검증 실패 상태에서 commit 또는 push
+
+현재 브랜치가 `main` 또는 `master`이면 자동 commit·push를 중단하고 별도 작업 브랜치가 필요함을 보고한다. Working tree에 unrelated 사용자 변경이 있으면 해당 파일을 stage하지 않으며, 작업 범위가 불명확하면 commit·push 전에 중단하고 보고한다. Push가 인증, branch protection 또는 remote rejection으로 실패하면 local commit을 보존하고 실패 이유와 commit SHA를 보고하며 강제 push나 우회 동작을 하지 않는다.
+
+사용자가 `commit하지 마라`, `push하지 마라`, `로컬에만 둬라`, `검토만 해라` 또는 이에 준하는 제한을 명시하면 그 지시가 이 기본 정책보다 우선한다.
 
 ## 필수 기록
 
@@ -109,4 +131,3 @@ git status --short
 - 커밋 해시
 - 푸시한 원격 저장소와 브랜치
 - 남아 있는 위험, 미실행 테스트 또는 후속 작업
-

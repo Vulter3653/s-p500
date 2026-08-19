@@ -1,3 +1,11 @@
+## [Unreleased] - 2026-08-19
+
+- Docs: 정상 완료 작업을 검증 후 작업 파일만 commit하고 현재 작업 브랜치에 push하는 Codex 기본 Git 완료 정책과 main·force push·PR·merge·deploy 금지를 `AGENTS.md`에 명시했다. (codex)
+- Docs: RQ1 Tense를 보류, RQ2 Concreteness를 현재 우선 연구질문으로 구분하고, spaCy tense 결과를 임시 분석으로 한정한 연구 청사진을 추가했다. (codex)
+- Docs: Compustat·CRSP 결합, CIK–GVKEY–PERMNO 연결, 단기 CAR·장기 BHAR 및 control·event-study validity 후보를 미실행 예정 항목으로 문서화했다. (codex)
+- Fixed: README·현재 인수인계·historical run summary의 버전, 브랜치, 연도별 표본 수, historical 기간 및 4,897행 검증 상태를 실제 저장소 metadata와 일치시켰다. (codex)
+- Preserved: 기존 데이터·분석값·웹 화면은 변경하거나 재계산하지 않았다. (codex)
+
 ## [Unreleased]\n\n- Added: live R2 inventory 기반 2006–2019 raw HTML 2,068개를 기존 `legacy_nested` Google Drive 구조로 이전하고 전체 size·SHA 검증을 통과했다. R2 삭제·overwrite는 수행하지 않았다. (codex)\n\n## [Unreleased]\n\n- Docs: 2020–2025 raw HTML이 기존 migration run `30544560261`에서 Google Drive로 이미 이전되었음을 확인하고, 2,829개 size·SHA 검증 결과와 실제 legacy_nested 경로를 기록했다. 최근 full run은 이미 비어 있는 R2 객체를 재시도한 실패로 정정했다. (codex)\n\n## [Unreleased]\n\n- Fixed: R2→Google Drive 실행 실패를 기록했다. 기존 2020–2025 manifest 2,829개를 대상으로 했으나 실제 R2 inventory는 2006–2019 prefix이며, 2,829개 모두 `missing_r2_object:404`로 종료되었다. R2 삭제는 수행하지 않았다. (codex)\n\n## [Unreleased]\n\n- Docs: README에 2020–2025 구성종목 외부 원천 감사 링크·주요 CIK 비교 결과·historical 비교 한계를 반영했다. (codex)\n\n## [Unreleased]\n\n- Docs: 외부 원천의 commit SHA·raw header·historical 전체 대조 여부 등 기존 구성종목 비교 문서의 누락·미확인 항목을 별도 표로 기록했다. (codex)\n\n## [Unreleased]\n\n- Docs: 2020–2025 구성종목 CSV와 datasets/s-and-p-500-companies 및 hanshof/sp500_constituents 외부 원천을 CIK 기준으로 비교하고, 기준일·historical 파일 접근 한계·차집합을 기록한 감사 문서를 추가했다. (codex)\n\n## [Unreleased]\n\n- Restored missing `analysis/historical_candidate` tables/figures and regenerated historical dashboard metadata from the committed 2006–2025 candidate panel. (codex)\n\n## [Unreleased]\n\n- Added persistent historical R2 migration manifests and a guarded Google Drive migration workflow; existing R2/Drive verifier is reused and deletion requires explicit confirmation. (codex)\n- Historical publication now commits analysis source tables and validates source-manifest paths before publishing. (codex)\n\n## 2026-08-03
 
 - Added: current Actions run handoff record for Codespace restart; the active run reuses completed 2019 artifacts and must not be duplicated. (codex)
