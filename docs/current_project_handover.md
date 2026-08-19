@@ -6,12 +6,10 @@ Updated: 2026-08-19
 
 - repository: `Vulter3653/s-p500`
 - 작업 브랜치: `codex/web-research-report`
-- branch HEAD: `45baab6468be6d74d0eaee129a7037c1651e9283`
+- Concreteness 검증 시작 HEAD: `14638e0073ad1c0a7995915600a9575a0e1d1135`
 - `origin/main`: `0bd911f7846abd3a96d853073e38fd470f2b3a36`
-- main 대비: 9 commits ahead / 0 behind
+- 검증 시작 시 main 대비: 11 commits ahead / 0 behind
 - VERSION: `0.14.0`
-- 문서 갱신 전 working tree: clean
-- 이번 문서 갱신: 로컬 미커밋 상태로 인수인계
 
 ## 연구 우선순위
 
@@ -56,6 +54,7 @@ Updated: 2026-08-19
 - 2006–2019 historical candidate backfill
 - 기존 웹 데이터와 Figure 생성
 - 웹 연구보고서 2차 피드백 브랜치 미리보기 배포
+- Brysbaert Concreteness 전처리 중간 검증: `READY WITH DOCUMENTED LIMITATIONS`
 
 ### 보류
 
@@ -65,7 +64,7 @@ Updated: 2026-08-19
 
 ### 예정이며 미실행
 
-- Brysbaert preprocessing equivalence 최종 점검
+- Concreteness stopword·collision 대안의 회귀 단계 robustness 문서화
 - CIK–GVKEY–PERMNO 연결
 - Compustat controls 결합
 - CRSP return 결합
@@ -88,7 +87,7 @@ Updated: 2026-08-19
 ## 다음 의사결정
 
 1. RQ2에서 whole-report, AI-related 또는 difference score 중 main IV 선택
-2. Brysbaert preprocessing equivalence 검증 범위 승인
+2. Concreteness collision·stopword 민감도를 최종 회귀 robustness에 포함할 범위 확정
 3. CAR benchmark와 estimation window 확정
 4. BHAR horizon과 benchmark 확정
 5. 최소 Compustat·textual control set 선정

@@ -1,3 +1,13 @@
+## 2026-08-19 - Brysbaert Concreteness 전처리 강건성 검증
+
+- 판정: RQ2 whole-report Concreteness는 `READY WITH DOCUMENTED LIMITATIONS`로 판정했다. canonical 값은 변경하지 않았다. (codex)
+- 검증: NLTK Porter와 SnowballC 0.7.0은 Brysbaert 단일어 37,058개 및 기존 2025 pilot 100건의 고유 실제 token 32,009개에서 차이 0건이었다. (codex)
+- 민감도: pilot 100건에서 전체 tidytext stopword 대안의 Spearman 상관은 0.990843, exact-only는 0.978938, ambiguous-stem 평균은 0.983102이었다. 후자의 사분위 이동률은 각각 16%, 14%라 collision policy를 명시적 제한과 후속 robustness로 유지한다. (codex)
+- Coverage: 2020–2025 canonical panel 2,829건의 report coverage 평균은 0.744653, 최솟값은 0.685484였다. (codex)
+- QC: 2025 pilot warning artifact가 sample_500 warning merge에서 제외돼 stem 100건·AI denominator zero 4건·single AI sentence 6건의 flag가 stale함을 확인했다. score/status 계산 오류는 아니며 panel은 수정하지 않았다. (codex)
+- 테스트: SnowballC 환경 테스트가 저장소 VERSION을 과거 0.12.0으로 고정한 결합을 제거했고, package 0.7.0·metadata·baseline hash를 포함한 targeted test 15건이 통과했다. (codex)
+- 보호: SEC·WRDS·CRSP·Compustat·R2·Drive 접근, raw HTML/NLP 재처리, historical·web 재생성은 수행하지 않았다. (codex)
+
 ## 2026-08-19 - 연구 청사진 및 현재 상태 문서화
 
 - 운영: 연구 작업은 `docs/research-blueprint.md`를 먼저 읽고 보류·임시·미확정·예정 상태를 보존하며, 신규 코드는 targeted search 후 `REUSE → EXTEND → REFACTOR → CREATE NEW` 순서로 판단하도록 에이전트 규칙을 보완했다. (codex)

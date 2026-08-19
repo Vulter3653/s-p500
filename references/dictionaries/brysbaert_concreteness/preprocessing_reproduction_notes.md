@@ -4,7 +4,7 @@ Primary order: alphabetic tokenization, NFKC lowercase normalization, SMART remo
 
 The official tidytext 0.3.1 documentation says `stop_words` has 1,149 total rows across SMART, onix, and snowball. Its RDA contains 571 SMART rows and 570 unique SMART entries because `would` appears twice. This differs from Appendix A's statement that SMART itself has 1,149 stopwords. The implementation uses the actual SMART subset and does not add entries.
 
-Porter stemming uses NLTK 3.10.0 `PorterStemmer` in `ORIGINAL_ALGORITHM` mode. R/SnowballC is not installed, so no direct runtime comparison with SnowballC 0.7.0 was performed. A fixed vocabulary fixture records the selected implementation's outputs.
+Porter stemming uses NLTK 3.10.0 `PorterStemmer` in `ORIGINAL_ALGORITHM` mode. The pinned R 4.3.3 and SnowballC 0.7.0 environment was subsequently installed and checked. A 2026-08-19 validation found identical stems for all 37,058 Brysbaert single-word entries and all 32,009 eligible unique tokens in the existing 2025 pilot 100-company analysis text. See `analysis/concreteness_validation/concreteness_validation_report.md`.
 
 Matching hierarchy:
 

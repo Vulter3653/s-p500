@@ -29,7 +29,6 @@ class RSnowballCEnvironmentTests(unittest.TestCase):
             self.assertTrue((ROOT / relative).is_file(), relative)
 
     def test_pinned_version_and_ignored_library(self):
-        self.assertEqual((ROOT / "VERSION").read_text().strip(), "0.12.0")
         install_script = (ROOT / "scripts/install_snowballc_0_7_0.R").read_text()
         self.assertIn("SnowballC_0.7.0.tar.gz", install_script)
         self.assertIn('identical(actual_version, "0.7.0")', install_script)

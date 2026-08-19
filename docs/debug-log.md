@@ -33,6 +33,24 @@
 
 # Debug Log
 
+## 2026-08-19 - 2025 pilot Concreteness QC flag 누락
+
+- 문제 요약: canonical panel의 `has_stem_collision_warning`은 2,729건이지만 `report_concreteness_status=warning_stem_collisions`는 2,829건이며, AI denominator zero와 single-AI-sentence flag도 각각 4건과 6건 적다. (codex)
+- 원인: `2025/sample_500/quality_check/warning_cases.csv`는 `S2025-*` 400건 중 warning만 포함하고 기존 `P2025-*` pilot 100건의 별도 warning artifact를 포함하지 않는다. `scripts/build_2020_2025_language_panel.py`는 이 sample_500 warning 파일에서 flag를 만들지만, score/status는 pilot을 포함한 company result에서 가져온다. (codex)
+- 근거: pilot warning artifact에는 stem collision 100건, denominator zero 4건, single AI sentence 6건이 있으며 panel의 세 불일치와 정확히 일치한다. 기존 정제 본문에서 pilot 100건 canonical score를 재현한 최대 절대차는 `1.11e-14`, coverage 차이는 0이었다. (codex)
+- 영향: QC flag metadata가 stale한 문제이며 저장된 Concreteness score·coverage·status 계산 오류는 확인되지 않았다. (codex)
+- 조치: 이번 검증은 canonical panel 보호 범위이므로 flag와 panel을 수정하지 않고 `analysis/concreteness_validation/concreteness_validation_report.md`에 제한으로 기록했다. (codex)
+- 상태: 원인 확인 완료, 데이터 수정은 별도 승인 전 보류. (codex)
+
+## 2026-08-19 - SnowballC 환경 테스트의 과거 저장소 VERSION 결합
+
+- 재현: Concreteness 관련 기존 테스트 15건을 `PYTHONPATH=.`으로 실행했을 때 `test_pinned_version_and_ignored_library`가 현재 `VERSION=0.14.0`을 과거 `0.12.0`과 비교해 1건 실패했다. `PYTHONPATH` 없이 실행한 최초 시도는 test collection에서 `ModuleNotFoundError: scripts`로 중단됐다. (codex)
+- 원인: SnowballC 0.7.0 고정 여부와 무관한 저장소 release version을 테스트가 하드코딩했다. SnowballC 버전은 설치 script의 archive/version guard와 installation metadata에서 별도로 검증된다. (codex)
+- 조치: 저장소 VERSION assertion만 제거하고 SnowballC archive, package version guard, ignored library, metadata 및 baseline output hash 검증은 유지했다. (codex)
+- 영향: 테스트 결합만 수정했으며 measurement 코드·사전·canonical 결과는 변경하지 않았다. (codex)
+- 검증: `PYTHONPATH=. pytest -q`로 Concreteness·SMART·Brysbaert·Porter·SnowballC 관련 targeted test 15건을 재실행해 모두 통과했다. (codex)
+- 상태: 해결됨. (codex)
+
 ## 2026-08-06 - 웹 브라우저 검증 환경 차단
 
 - 재현: npm --prefix web run preview -- --host 127.0.0.1 및 npm --prefix web run test:browser -- --reporter=line을 실행했다. (codex)

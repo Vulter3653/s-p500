@@ -66,15 +66,18 @@ Brysbaert dictionary에 매칭되는 단어들의 concreteness score 평균
 
 측정 방향은 Baek, Ihm, and Kang의 mission concreteness 연구와 동일하게 유지한다.
 
-### 전처리 동등성 — 예정
+### 전처리 동등성 — 부분 검증 완료
 
-최종 분석 전에 다음 항목의 preprocessing equivalence를 확인해야 한다. 이번 문서 갱신에서는 재계산하거나 재검증하지 않았다.
+2026-08-19 중간 검증의 판정은 **READY WITH DOCUMENTED LIMITATIONS**이다. 상세 근거는 [`analysis/concreteness_validation/concreteness_validation_report.md`](../analysis/concreteness_validation/concreteness_validation_report.md)에 기록했다.
 
-- SMART stopword
-- Porter stemming
-- R SnowballC와 현재 Python 구현의 equivalence
-- stem collision
-- dictionary matching
+- SMART stopword loader는 tidytext 0.3.1의 실제 SMART 571행·570고유 항목을 정확히 사용한다. 논문의 `SMART 1,149` 표현은 tidytext 전체 행 수와 충돌하며, 원문 실행 목록은 현재 저장소 근거만으로 확정할 수 없다.
+- NLTK 3.10.0 Porter와 R SnowballC 0.7.0은 Brysbaert 단일어 37,058개와 기존 2025 pilot 100건의 고유 실제 token 32,009개에서 stem 차이 0건이었다.
+- 기존 pilot 100건에서 전체 tidytext stopword 대안의 canonical 대비 Spearman 상관은 0.990843이었다.
+- exact-only 및 ambiguous-stem 평균 대안의 Spearman 상관은 각각 0.978938, 0.983102으로 높지만 완전 동등하지 않았다. canonical의 ambiguous-stem 제외 규칙과 후속 민감도 분석 필요성을 유지한다.
+- 2020–2025 전체 2,829건의 report coverage 평균은 0.744653이고 최솟값은 0.685484다.
+- 2025 pilot warning artifact가 sample_500 QC flag merge에서 제외돼 flag가 stale하지만, 저장된 score와 status의 계산 오류는 확인되지 않았다.
+
+Canonical measurement는 변경하지 않는다. 전체 2,829건 alternative score의 재계산은 이번 검증 범위에서 수행하지 않았으며, 회귀 단계에서 이 제한과 대안 민감도를 문서화한다.
 
 ## Whole 10-K와 AI-related sentences — 탐색적 분석
 

@@ -1,5 +1,9 @@
 ## [Unreleased] - 2026-08-19
 
+- Analysis: Brysbaert Concreteness의 SMART stopword, NLTK–SnowballC stemming, collision 대안, rank stability 및 2,829건 coverage를 검증하고 `READY WITH DOCUMENTED LIMITATIONS`로 기록했다. canonical 분석값은 변경하지 않았다. (codex)
+- Fixed: 전처리 재현 문서의 과거 `R/SnowballC 미설치` 설명을 고정된 SnowballC 0.7.0 전체 어휘·대표 실제 token 비교 결과로 갱신했다. (codex)
+- Fixed: SnowballC 환경 테스트가 저장소 release VERSION 0.12.0에 불필요하게 결합된 assertion을 제거하고 package·metadata·baseline 검증을 유지했다. (codex)
+- Docs: 2025 pilot warning artifact가 sample_500 QC flag merge에서 누락된 원인과 score/status 비영향을 검증 보고서와 debug log에 기록했다. (codex)
 - Docs: 연구 관련 작업의 필수 시작 문서로 `docs/research-blueprint.md`를 지정하고, targeted search와 canonical 구현 재사용을 우선하는 Reuse-before-create 정책을 `AGENTS.md`에 추가했다. (codex)
 - Docs: 정상 완료 작업을 검증 후 작업 파일만 commit하고 현재 작업 브랜치에 push하는 Codex 기본 Git 완료 정책과 main·force push·PR·merge·deploy 금지를 `AGENTS.md`에 명시했다. (codex)
 - Docs: RQ1 Tense를 보류, RQ2 Concreteness를 현재 우선 연구질문으로 구분하고, spaCy tense 결과를 임시 분석으로 한정한 연구 청사진을 추가했다. (codex)
