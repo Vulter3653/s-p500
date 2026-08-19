@@ -1,5 +1,6 @@
 ## [Unreleased] - 2026-08-19
 
+- Docs: 연구 관련 작업의 필수 시작 문서로 `docs/research-blueprint.md`를 지정하고, targeted search와 canonical 구현 재사용을 우선하는 Reuse-before-create 정책을 `AGENTS.md`에 추가했다. (codex)
 - Docs: 정상 완료 작업을 검증 후 작업 파일만 commit하고 현재 작업 브랜치에 push하는 Codex 기본 Git 완료 정책과 main·force push·PR·merge·deploy 금지를 `AGENTS.md`에 명시했다. (codex)
 - Docs: RQ1 Tense를 보류, RQ2 Concreteness를 현재 우선 연구질문으로 구분하고, spaCy tense 결과를 임시 분석으로 한정한 연구 청사진을 추가했다. (codex)
 - Docs: Compustat·CRSP 결합, CIK–GVKEY–PERMNO 연결, 단기 CAR·장기 BHAR 및 control·event-study validity 후보를 미실행 예정 항목으로 문서화했다. (codex)

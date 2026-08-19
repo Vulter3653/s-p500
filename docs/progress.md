@@ -1,5 +1,6 @@
 ## 2026-08-19 - 연구 청사진 및 현재 상태 문서화
 
+- 운영: 연구 작업은 `docs/research-blueprint.md`를 먼저 읽고 보류·임시·미확정·예정 상태를 보존하며, 신규 코드는 targeted search 후 `REUSE → EXTEND → REFACTOR → CREATE NEW` 순서로 판단하도록 에이전트 규칙을 보완했다. (codex)
 - 운영: 정상 완료 작업은 검증 후 해당 작업 파일만 commit하고 현재 작업 브랜치에 push하며, main 직접 변경·force push·PR·merge·production deploy는 자동 수행하지 않는 기본 정책을 기록했다. (codex)
 - Docs: 최상위 연구질문을 RQ1 Tense와 RQ2 Concreteness로 정리하고, Tense는 보류·spaCy 결과는 임시, Concreteness는 현재 우선 진행으로 구분한 연구 청사진을 추가했다. (codex)
 - Docs: 향후 CIK–GVKEY–PERMNO 연결, Compustat controls, CRSP returns, 단기 CAR, 장기 BHAR 및 event-study validity 검토를 모두 예정 상태로 기록했다. 실제 외부 자료 수집이나 분석은 수행하지 않았다. (codex)

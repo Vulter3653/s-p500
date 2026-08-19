@@ -16,13 +16,64 @@ git log --oneline -8
 그다음 다음 문서를 순서대로 읽는다.
 
 ```text
+docs/research-blueprint.md
 docs/writing-rules.md
 docs/progress.md
 CHANGELOG.md
 docs/debug-log.md
 ```
 
-과거 대화나 기억만으로 작업하지 않는다. 저장소에 기록된 문서를 현재 상태의 기준으로 사용한다.
+과거 대화나 모델의 기억보다 저장소 문서를 우선하고, 저장소에 기록된 문서를 현재 상태의 기준으로 사용한다. 연구 관련 작업에서는 `docs/research-blueprint.md`를 먼저 확인하고 현재 연구질문, 변수 상태 및 확정·보류·예정 사항의 기준으로 삼는다. 이 문서에서 `보류`, `임시`, `미확정`, `예정`으로 표시된 사항은 사용자의 새로운 명시적 지시 없이 `확정`으로 바꾸거나 연구 방향을 변경하지 않는다.
+
+## Reuse-before-create policy
+
+새 코드를 만들기 전에 반드시 기존 구현을 먼저 찾는다. 이 정책은 Python script, module, helper, function, class, workflow, GitHub Actions YAML, test, data generator, parser, runner, migration·validation·analysis script, web utility, configuration file 및 같은 기능을 수행할 수 있는 모든 실행 코드에 적용한다.
+
+새 코드 파일을 만들기 전에는 다음 targeted search 절차를 따른다.
+
+1. 작업 목적을 2~5개의 핵심 검색어로 정의한다.
+2. `rg`, `grep`, `find` 또는 Git search로 관련 기능을 직접 검색한다.
+3. 파일명뿐 아니라 함수명, CLI argument, output path 및 workflow job 이름도 검색한다.
+4. 검색 결과에서 관련성이 높은 기존 구현 1~5개를 먼저 읽는다.
+5. 필요할 때만 `git log`, `docs/progress.md`, `CHANGELOG.md`, `docs/debug-log.md`에서 구현 및 실패 이력을 확인하고 검색 범위를 확대한다.
+6. 동일하거나 유사한 구현이 있으면 새 파일을 만들지 않고 기존 구현을 그대로 재사용하거나 최소 수정한다.
+
+예를 들어 historical runner는 기존 `run_yearly_10k_batch.py`, `continuous_backfill.py` 및 호출 workflow를 먼저 찾고, web data generator는 기존 `generate_web_analysis_data.py`를 먼저 확장하며, validator는 `tests/`, `scripts/`, workflow의 기존 검증을 먼저 재사용한다.
+
+구현 선택 순서는 다음과 같다.
+
+```text
+REUSE → EXTEND → REFACTOR → CREATE NEW
+```
+
+1순위는 그대로 재사용, 2순위는 기존 함수·스크립트의 최소 수정, 3순위는 기존 공통 기능을 이용한 작은 확장 또는 필요한 refactor이며, 새 파일 생성은 마지막 선택지다.
+
+다음과 같은 duplicate implementation은 금지한다.
+
+- 동일 목적의 script를 이름만 바꾸어 생성하거나 기존 runner 옆에 별도 runner 추가
+- 동일 계산식을 여러 파일에 복사하거나 재사용 가능한 helper 대신 새 helper 작성
+- 같은 산출물을 만드는 병렬 generator 또는 같은 목적의 workflow YAML 추가
+- 기존 test를 확장할 수 있는데 중복 test 파일 생성
+- 임시 문제 해결 script를 저장소에 남기거나 canonical implementation을 우회하는 병렬 구현 생성
+- 기존 parser·analysis script를 고치지 않고 `parser_v2.py`, `analysis_new.py` 같은 우회 구현을 먼저 생성
+
+기존 코드가 일부 기능만 제공하면 전체를 다시 작성하지 않고 부족한 부분만 확장한다. 기존 workflow는 parameter 또는 condition을 확장하고, 기존 parser의 오류는 해당 parser를 진단·수정하며, 기존 분석 구조에는 필요한 변수나 output만 추가한다.
+
+새 코드 파일은 기존 구현이 실제로 없거나, 기존 구현에 추가하면 책임 분리가 명백히 깨지거나 기존 결과를 위험하게 변경하는 경우, 사용자 요구상 독립 모듈이 필수인 경우, 또는 test·workflow 격리가 기술적으로 필요한 경우에만 허용한다. 새 파일을 만들면 완료 보고 또는 `docs/progress.md`에 검토한 기존 구현과 재사용할 수 없었던 이유를 한 줄로 기록한다. 편의, 미관 또는 단기 작성 속도는 신규 생성 사유가 아니다.
+
+동일 기능이 여러 곳에 있으면 현재 production 또는 pipeline이 호출하는 canonical implementation을 우선한다. Canonical 여부가 불명확하면 실제 workflow 호출, README, `docs/progress.md`, `CHANGELOG.md`, 최근 Git history 순으로 빠르게 확인한다. 기존 결과를 위험하게 바꿀 수 있으면 임의로 통합하지 말고 상태를 보고한다.
+
+동일 문제를 다시 다룰 때는 `docs/debug-log.md`를 먼저 검색한다. 실패했던 접근은 현재 조건이 달라졌을 때만 재시도하고 무엇이 달라졌는지 기록한다. 이유 없이 동일 실패 접근을 반복하지 않는다.
+
+새 코드 파일을 만들기 직전에 다음 세 질문을 확인한다.
+
+1. 같은 기능이 이미 존재하는가?
+2. 기존 기능을 확장하면 해결되는가?
+3. 정말 새 파일이 필요한가?
+
+1번 또는 2번이 `Yes`이면 새 파일을 만들지 않는다.
+
+검색 자체도 시간 효율적으로 수행한다. 단순한 수정마다 저장소 전체를 전수조사하거나 관련성이 낮은 파일까지 모두 읽지 않고, targeted search 결과의 관련 파일부터 확인한다. 기존 산출물이 유효하면 재생성하지 않고, 입력이 바뀌지 않은 기존 계산을 반복하지 않으며, 검증된 다운로드와 기존 raw data를 다시 수집하지 않는다. 문서만 변경하면 전체 분석·test·build를 실행하지 않고 변경 범위에 필요한 최소 검증만 수행한다. 입력이나 코드가 바뀌지 않은 고비용 PASS 작업도 반복하지 않는다. 다만 실제 데이터 정합성 또는 안전 검증이 필요하면 시간 절약을 이유로 생략하지 않는다.
 
 ## 브랜치와 버전 관리
 
