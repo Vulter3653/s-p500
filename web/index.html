@@ -306,21 +306,95 @@ document.querySelectorAll('table.paper-table[data-sortable="true"]').forEach((ta
 })();
 </script>
 
-<script id="production-line-dot-sync">
+<script id="production-gap-safe-line-sync-v2">
 (() => {
-  document.querySelectorAll('svg.figure-svg').forEach((svg) => {
-    svg.querySelectorAll('polyline[data-series]').forEach((line) => {
-      const series = line.dataset.series || '';
-      const points = Array.from(svg.querySelectorAll('circle.chart-point[data-series]'))
+  const splitContiguousRuns = (points) => {
+    const runs = [];
+    let run = [];
+    for (const point of points) {
+      const year = Number(point.dataset.year);
+      if (!Number.isFinite(year)) continue;
+      if (!run.length || year === Number(run[run.length - 1].dataset.year) + 1) {
+        run.push(point);
+      } else {
+        if (run.length >= 2) runs.push(run);
+        run = [point];
+      }
+    }
+    if (run.length >= 2) runs.push(run);
+    return runs;
+  };
+
+  const syncSvg = (svg) => {
+    const existingLines = Array.from(svg.querySelectorAll('polyline[data-series]'));
+    if (!existingLines.length) return [];
+    const allPoints = Array.from(svg.querySelectorAll('circle.chart-point[data-series][data-year]'));
+    const errors = [];
+    const seriesNames = Array.from(new Set(existingLines.map((line) => line.dataset.series || '')));
+
+    for (const series of seriesNames) {
+      const points = allPoints
         .filter((point) => (point.dataset.series || '') === series)
-        .sort((a, b) => Number(a.dataset.year || 0) - Number(b.dataset.year || 0));
-      if (!points.length) return;
-      line.setAttribute('points', points.map((point) => `${point.getAttribute('cx')},${point.getAttribute('cy')}`).join(' '));
-      const pointColor = points[0].getAttribute('fill');
-      if (pointColor) line.setAttribute('stroke', pointColor);
-      if (series === '전체') line.setAttribute('stroke-dasharray', '8 5');
+        .sort((a, b) => Number(a.dataset.year) - Number(b.dataset.year));
+      const lines = existingLines.filter((line) => (line.dataset.series || '') === series);
+      if (!lines.length) continue;
+      const template = lines[0].cloneNode(false);
+      lines.forEach((line) => line.remove());
+
+      const runs = splitContiguousRuns(points);
+      const insertionPoint = svg.querySelector('circle.chart-point, text.chart-value-label');
+      runs.forEach((run, index) => {
+        const line = template.cloneNode(false);
+        const startYear = Number(run[0].dataset.year);
+        const endYear = Number(run[run.length - 1].dataset.year);
+        line.dataset.series = series;
+        line.dataset.segmentIndex = String(index);
+        line.dataset.segmentStart = String(startYear);
+        line.dataset.segmentEnd = String(endYear);
+        line.setAttribute('points', run.map((point) => `${point.getAttribute('cx')},${point.getAttribute('cy')}`).join(' '));
+        const pointColor = run[0].getAttribute('fill');
+        if (pointColor) line.setAttribute('stroke', pointColor);
+        if (series === '전체') line.setAttribute('stroke-dasharray', '8 5');
+        else line.removeAttribute('stroke-dasharray');
+        if (insertionPoint) svg.insertBefore(line, insertionPoint);
+        else svg.appendChild(line);
+      });
+    }
+
+    const currentLines = Array.from(svg.querySelectorAll('polyline[data-series][data-segment-start][data-segment-end]'));
+    for (const line of currentLines) {
+      const series = line.dataset.series || '';
+      const start = Number(line.dataset.segmentStart);
+      const end = Number(line.dataset.segmentEnd);
+      const points = allPoints
+        .filter((point) => (point.dataset.series || '') === series)
+        .filter((point) => Number(point.dataset.year) >= start && Number(point.dataset.year) <= end)
+        .sort((a, b) => Number(a.dataset.year) - Number(b.dataset.year));
+      const years = points.map((point) => Number(point.dataset.year));
+      for (let index = 1; index < years.length; index += 1) {
+        if (years[index] !== years[index - 1] + 1) errors.push(`${series}: line crosses missing year`);
+      }
+      const expected = points.map((point) => `${point.getAttribute('cx')},${point.getAttribute('cy')}`).join(' ');
+      if ((line.getAttribute('points') || '') !== expected) errors.push(`${series}: line/dot coordinates differ`);
+    }
+    return errors;
+  };
+
+  const syncAll = () => {
+    const errors = [];
+    let auditedSvgCount = 0;
+    document.querySelectorAll('svg.figure-svg').forEach((svg) => {
+      if (svg.querySelector('polyline[data-series]')) auditedSvgCount += 1;
+      errors.push(...syncSvg(svg));
     });
-  });
+    document.documentElement.dataset.figureLineSync = errors.length ? 'fail' : 'pass';
+    document.documentElement.dataset.figureLineSyncErrors = String(errors.length);
+    document.documentElement.dataset.figureLineSyncSvgCount = String(auditedSvgCount);
+  };
+
+  syncAll();
+  requestAnimationFrame(syncAll);
+  window.addEventListener('load', syncAll, {once: true});
 })();
 </script>
 </body></html>
