@@ -47,7 +47,9 @@ jobs:
           assert '변수 해석:' not in html
           assert 'production-figure-series-refinement' in html
           assert 'production-desktop-fit' in html
-          assert 'production-gap-safe-line-sync-v2' in html
+          assert 'production-dot-to-dot-line-sync-v3' in html
+          assert 'data-dot-connector' in html
+          assert 'production-gap-safe-line-sync-v2' not in html
           assert 'production-line-dot-sync' not in html
           assert 'Item 1C Cybersecurity</strong> — 최근 3개 연도 중심' not in html
           assert 'Item 8 Financial Statements and Supplementary Data</strong> — 표·주석 중심' not in html
@@ -77,16 +79,16 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Wait for Cloudflare production to contain gap-safe figure fix
+      - name: Wait for Cloudflare production to contain dot-to-dot figure fix
         run: |
           set -euo pipefail
           URL='https://s-p500.pages.dev/'
           for attempt in $(seq 1 24); do
             echo "Production convergence ${attempt}/24"
             if curl --fail --silent --show-error --location --max-time 20 "$URL" -o /tmp/production.html; then
-              if grep -q 'production-gap-safe-line-sync-v2' /tmp/production.html \
+              if grep -q 'production-dot-to-dot-line-sync-v3' /tmp/production.html \
                 && grep -q '6.11 결과 해석 (Discussion)' /tmp/production.html \
-                && ! grep -q 'production-line-dot-sync' /tmp/production.html; then
+                && ! grep -q 'production-gap-safe-line-sync-v2' /tmp/production.html; then
                 echo 'Cloudflare production convergence PASS'
                 exit 0
               fi
