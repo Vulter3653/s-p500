@@ -130,4 +130,159 @@ document.querySelectorAll('table.paper-table[data-sortable="true"]').forEach((ta
   });
 })();
 </script>
+
+<script id="production-axis-range-refinement">
+(() => {
+  const svgNS = 'http://www.w3.org/2000/svg';
+
+  const niceStep = (raw) => {
+    const safe = Math.max(raw, 1e-9);
+    const magnitude = Math.pow(10, Math.floor(Math.log10(safe)));
+    const fraction = safe / magnitude;
+    let niceFraction;
+    if (fraction <= 1.5) niceFraction = 1;
+    else if (fraction <= 2.25) niceFraction = 2;
+    else if (fraction <= 3.5) niceFraction = 2.5;
+    else if (fraction <= 7.5) niceFraction = 5;
+    else niceFraction = 10;
+    return niceFraction * magnitude;
+  };
+
+  const niceRange = (values, symmetric, minimumSpan) => {
+    let low = Math.min(...values);
+    let high = Math.max(...values);
+    if (low === high) {
+      const half = Math.max(Math.abs(low) * 0.08, 0.10);
+      low -= half;
+      high += half;
+    }
+    if (minimumSpan && high - low < minimumSpan) {
+      const center = (low + high) / 2;
+      low = center - minimumSpan / 2;
+      high = center + minimumSpan / 2;
+    }
+    const pad = (high - low) * 0.08;
+    low -= pad;
+    high += pad;
+    const targetIntervals = symmetric ? 6 : 4;
+    if (symmetric) {
+      const extent = Math.max(Math.abs(low), Math.abs(high));
+      low = -extent;
+      high = extent;
+    }
+    const step = niceStep((high - low) / targetIntervals);
+    if (symmetric) {
+      const bound = Math.ceil(Math.max(Math.abs(low), Math.abs(high)) / step) * step;
+      low = -bound;
+      high = bound;
+    } else {
+      low = Math.floor(low / step) * step;
+      high = Math.ceil(high / step) * step;
+    }
+    const intervals = Math.round((high - low) / step);
+    const ticks = Array.from({length: intervals + 1}, (_, index) => low + index * step);
+    if (low <= 0 && high >= 0 && !ticks.some((value) => Math.abs(value) < 1e-12)) {
+      ticks.push(0);
+      ticks.sort((a, b) => a - b);
+    }
+    return {low, high, ticks};
+  };
+
+  document.querySelectorAll('.paper-figure svg.figure-svg').forEach((svg) => {
+    const axisLines = Array.from(svg.querySelectorAll('line.chart-axis-line'));
+    const verticalAxis = axisLines.find((line) => {
+      const x1 = Number(line.getAttribute('x1'));
+      const x2 = Number(line.getAttribute('x2'));
+      const y1 = Number(line.getAttribute('y1'));
+      const y2 = Number(line.getAttribute('y2'));
+      return Number.isFinite(x1) && x1 === x2 && y1 !== y2;
+    });
+    if (!verticalAxis) return; // Figure 6 is horizontal and keeps its own symmetric x-axis.
+
+    const points = Array.from(svg.querySelectorAll('circle.chart-point[data-point-value]'));
+    if (!points.length) return;
+    const values = points.map((point) => Number(point.dataset.pointValue)).filter(Number.isFinite);
+    if (!values.length) return;
+
+    const yTitle = Array.from(svg.querySelectorAll('text.chart-axis-title')).find((node) => (node.getAttribute('transform') || '').includes('rotate(-90)'));
+    const axisLabel = yTitle ? yTitle.textContent.trim() : '';
+    const symmetric = axisLabel.includes('Z-score') || axisLabel.includes('전년 대비');
+    const minimumSpan = axisLabel.includes('Concreteness') ? 0.40 : null;
+    const range = niceRange(values, symmetric, minimumSpan);
+
+    const plotTop = Math.min(Number(verticalAxis.getAttribute('y1')), Number(verticalAxis.getAttribute('y2')));
+    const plotBottom = Math.max(Number(verticalAxis.getAttribute('y1')), Number(verticalAxis.getAttribute('y2')));
+    const axisX = Number(verticalAxis.getAttribute('x1'));
+    const horizontalAxis = axisLines.find((line) => Number(line.getAttribute('y1')) === Number(line.getAttribute('y2')));
+    const plotRight = horizontalAxis ? Math.max(Number(horizontalAxis.getAttribute('x1')), Number(horizontalAxis.getAttribute('x2'))) : Number(svg.getAttribute('viewBox').split(/\s+/)[2]) - 50;
+    const y = (value) => plotBottom - (plotBottom - plotTop) * (value - range.low) / (range.high - range.low);
+
+    const originalPositions = new Map();
+    points.forEach((point) => {
+      const key = `${point.dataset.series || ''}|${point.dataset.year || ''}`;
+      originalPositions.set(key, Number(point.getAttribute('cy')));
+    });
+    const labelOffsets = new Map();
+    svg.querySelectorAll('text.chart-value-label[data-label-value]').forEach((label) => {
+      const key = `${label.dataset.series || ''}|${label.dataset.year || ''}`;
+      const originalPointY = originalPositions.get(key);
+      if (Number.isFinite(originalPointY)) labelOffsets.set(label, Number(label.getAttribute('y')) - originalPointY);
+    });
+
+    points.forEach((point) => {
+      const value = Number(point.dataset.pointValue);
+      point.setAttribute('cy', y(value).toFixed(1));
+    });
+    labelOffsets.forEach((offset, label) => {
+      const value = Number(label.dataset.labelValue);
+      label.setAttribute('y', (y(value) + offset).toFixed(1));
+    });
+
+    svg.querySelectorAll('polyline[data-series]').forEach((polyline) => {
+      const series = polyline.dataset.series || '';
+      const seriesPoints = points
+        .filter((point) => (point.dataset.series || '') === series)
+        .sort((a, b) => Number(a.dataset.year || 0) - Number(b.dataset.year || 0));
+      if (seriesPoints.length) {
+        polyline.setAttribute('points', seriesPoints.map((point) => `${point.getAttribute('cx')},${point.getAttribute('cy')}`).join(' '));
+      }
+    });
+
+    svg.querySelectorAll('text.chart-y-tick').forEach((node) => node.remove());
+    svg.querySelectorAll('line.chart-grid:not(.chart-axis-line)').forEach((node) => node.remove());
+    const insertBefore = svg.querySelector('polyline, circle.chart-point');
+    range.ticks.slice().reverse().forEach((tick) => {
+      const yy = y(tick);
+      const line = document.createElementNS(svgNS, 'line');
+      line.setAttribute('class', 'chart-grid');
+      line.setAttribute('x1', String(axisX));
+      line.setAttribute('x2', String(plotRight));
+      line.setAttribute('y1', yy.toFixed(1));
+      line.setAttribute('y2', yy.toFixed(1));
+      const text = document.createElementNS(svgNS, 'text');
+      text.setAttribute('class', 'chart-axis chart-y-tick');
+      text.setAttribute('x', String(axisX - 8));
+      text.setAttribute('y', (yy + 4).toFixed(1));
+      text.setAttribute('text-anchor', 'end');
+      text.textContent = tick.toFixed(2);
+      if (insertBefore) {
+        svg.insertBefore(line, insertBefore);
+        svg.insertBefore(text, insertBefore);
+      } else {
+        svg.appendChild(line);
+        svg.appendChild(text);
+      }
+    });
+
+    const zero = svg.querySelector('line.chart-zero');
+    if (zero && range.low <= 0 && range.high >= 0) {
+      const zeroY = y(0).toFixed(1);
+      zero.setAttribute('y1', zeroY);
+      zero.setAttribute('y2', zeroY);
+    }
+    svg.dataset.axisLow = range.low.toFixed(2);
+    svg.dataset.axisHigh = range.high.toFixed(2);
+  });
+})();
+</script>
 </body></html>
