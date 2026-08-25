@@ -248,7 +248,7 @@ def main() -> None:
         'id="production-desktop-fit"',
         'id="production-gap-safe-line-sync-v2"',
         'MutationObserver',
-        'data.figureLineSync',
+        'dataset.figureLineSync',
         'p&lt;0.001***',
         '6.11 결과 해석 (Discussion)',
         '대응표본 t-검정',
