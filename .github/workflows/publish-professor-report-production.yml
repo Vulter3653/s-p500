@@ -1,0 +1,63 @@
+name: Publish professor report to production main
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'web/build_production_professor_report.py'
+      - '.github/workflows/publish-professor-report-production.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  publish-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build production professor report
+        run: python web/build_production_professor_report.py
+
+      - name: Validate production HTML
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          html = Path('web/index.html').read_text(encoding='utf-8')
+          assert '5,355' in html
+          assert '1,890' in html
+          assert 'p&lt;0.001***' in html
+          assert '탐색적 분석' in html
+          assert '6.11 결과 해석 (Discussion)' in html
+          assert '6.12 해석 시 유의사항' not in html
+          assert '보정하지 않은' not in html
+          assert '변수 해석:' not in html
+          assert 'production-figure-series-refinement' in html
+          print('Production HTML validation PASS')
+          PY
+
+      - name: Validate Vite production build
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Commit production report to main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add web/index.html
+          if git diff --cached --quiet; then
+            echo 'No production HTML changes to commit.'
+          else
+            git commit -m 'Publish professor report on production main'
+            git push origin HEAD:main
+          fi
