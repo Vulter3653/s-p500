@@ -11,7 +11,6 @@ OUT = Path(__file__).resolve().parent / "index.html"
 def main() -> None:
     document = OUT.read_text(encoding="utf-8")
 
-    # Remove redundant professor-facing copy while preserving the actual variable definitions.
     document = document.replace(
         '<p>논문 독자가 핵심 변수의 의미와 계산 방식을 확인할 수 있도록 개념, 조작적 정의, 계산식, 분자·분모, 단위와 결측 처리를 제시한다.</p>',
         "",
@@ -22,7 +21,6 @@ def main() -> None:
     )
     document = document.replace("추가 기술 변수", "")
 
-    # Korean-first statistical terminology and grammatical cleanup.
     replacements = {
         "paired t-test": "대응표본 t-검정",
         "Welch t-test": "Welch t-검정",
@@ -46,7 +44,6 @@ def main() -> None:
         "전체 기업-연도 표본에서 Concreteness와 기타 기술 변수의 관측치 수, 중심경향 및 분산을 요약한다.",
     )
 
-    # Use the final professor-facing interpretation and remove the Limitations block.
     discussion = (
         '<h3>6.11 결과 해석 (Discussion)</h3>'
         '<p>전체기간 대응표본 1,890개에서 AI 관련 문장의 평균 Concreteness는 2.83으로, 동일 기업-연도 Whole 10-K의 평균 2.89보다 0.06 낮았다(p&lt;0.001***). 즉 동일한 10-K 안에서 비교했을 때 AI 관련 문장은 보고서 전체보다 평균적으로 덜 구체적인 언어를 사용한 것으로 나타났다.</p>'
@@ -69,7 +66,6 @@ def main() -> None:
         flags=re.S,
     )
 
-    # Remove the requested exploratory Section callout while retaining the full 23-Item table.
     pattern = re.compile(
         r'(<div class="two-column"><div><h3>주요 분석</h3><p><strong>Item 1 Business</strong>.*?</p></div>)'
         r'<div><h3>탐색적 분석</h3><p><strong>Item 1C Cybersecurity</strong>.*?'
@@ -78,7 +74,6 @@ def main() -> None:
     )
     document = pattern.sub(r'\1</div>', document, count=1)
 
-    # Fit 2005–2025 into the visible desktop report width without page-level horizontal scrolling.
     css = r'''
 <style id="production-desktop-fit">
 @media (min-width:1200px){
@@ -104,20 +99,20 @@ def main() -> None:
     if 'id="production-desktop-fit"' not in document:
         document = document.replace("</head>", css + "</head>", 1)
 
-    # Gap-safe line rendering: each line is rebuilt only from consecutive report years.
-    # A missing year ends the segment, so no line is drawn through years without a dot.
     script = r'''
 <script id="production-gap-safe-line-sync-v2">
 (() => {
+  let observer = null;
+  let scheduled = false;
+
   const splitContiguousRuns = (points) => {
     const runs = [];
     let run = [];
     for (const point of points) {
       const year = Number(point.dataset.year);
       if (!Number.isFinite(year)) continue;
-      if (!run.length || year === Number(run[run.length - 1].dataset.year) + 1) {
-        run.push(point);
-      } else {
+      if (!run.length || year === Number(run[run.length - 1].dataset.year) + 1) run.push(point);
+      else {
         if (run.length >= 2) runs.push(run);
         run = [point];
       }
@@ -141,7 +136,6 @@ def main() -> None:
       if (!lines.length) continue;
       const template = lines[0].cloneNode(false);
       lines.forEach((line) => line.remove());
-
       const runs = splitContiguousRuns(points);
       const insertionPoint = svg.querySelector('circle.chart-point, text.chart-value-label');
       runs.forEach((run, index) => {
@@ -181,21 +175,45 @@ def main() -> None:
     return errors;
   };
 
+  const observe = () => {
+    if (observer && document.body) observer.observe(document.body, {childList: true, subtree: true});
+  };
+
   const syncAll = () => {
+    if (observer) observer.disconnect();
     const errors = [];
     let auditedSvgCount = 0;
     document.querySelectorAll('svg.figure-svg').forEach((svg) => {
       if (svg.querySelector('polyline[data-series]')) auditedSvgCount += 1;
       errors.push(...syncSvg(svg));
     });
-    document.documentElement.dataset.figureLineSync = errors.length ? 'fail' : 'pass';
+    const figureCount = document.querySelectorAll('figure.paper-figure').length;
+    const ready = figureCount >= 11 && auditedSvgCount > 0;
+    document.documentElement.dataset.figureLineSync = ready ? (errors.length ? 'fail' : 'pass') : 'pending';
     document.documentElement.dataset.figureLineSyncErrors = String(errors.length);
     document.documentElement.dataset.figureLineSyncSvgCount = String(auditedSvgCount);
+    document.documentElement.dataset.figureLineSyncFigureCount = String(figureCount);
+    observe();
   };
 
-  syncAll();
-  requestAnimationFrame(syncAll);
-  window.addEventListener('load', syncAll, {once: true});
+  const scheduleSync = () => {
+    if (scheduled) return;
+    scheduled = true;
+    requestAnimationFrame(() => {
+      scheduled = false;
+      syncAll();
+    });
+  };
+
+  observer = new MutationObserver((mutations) => {
+    if (mutations.some((mutation) => mutation.type === 'childList' && (mutation.addedNodes.length || mutation.removedNodes.length))) scheduleSync();
+  });
+  observe();
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', scheduleSync, {once: true});
+  else scheduleSync();
+  window.addEventListener('load', scheduleSync, {once: true});
+  [50, 250, 750, 1500, 3000].forEach((delay) => setTimeout(scheduleSync, delay));
 })();
 </script>
 '''
@@ -229,6 +247,8 @@ def main() -> None:
     required = [
         'id="production-desktop-fit"',
         'id="production-gap-safe-line-sync-v2"',
+        'MutationObserver',
+        'data.figureLineSync',
         'p&lt;0.001***',
         '6.11 결과 해석 (Discussion)',
         '대응표본 t-검정',
@@ -241,7 +261,7 @@ def main() -> None:
         raise RuntimeError(f"Production refinement missing: {missing}")
 
     OUT.write_text(document, encoding="utf-8")
-    print("Applied final production professor-report refinements with gap-safe line rendering.")
+    print("Applied final production professor-report refinements with post-render gap-safe line synchronization.")
 
 
 if __name__ == "__main__":
