@@ -28,7 +28,8 @@ def main() -> None:
         '<p class="caution"><strong>변수 해석:</strong> Concreteness가 핵심 비교 변수이다. 시제, 수동태, Loughran–McDonald 어휘, Fog Index와 보고서 길이는 추가적인 기술적 특성으로 제시한다. AI 관련 문장에서 측정되는 Concreteness와 어휘 변수는 AI 없음에서 정의되지 않아 NA이며, AI 관련 문장 수는 AI 없음에서 실제 관측값 0이다.</p>',
         "",
     )
-    document = document.replace('<h3>추가 기술 변수</h3>', "")
+    document = re.sub(r'<h3[^>]*>\s*추가 기술 변수\s*</h3>', "", document, count=1)
+    document = document.replace("추가 기술 변수", "")
     document = document.replace(
         '<p>논문 독자가 핵심 변수의 의미와 계산 방식을 확인할 수 있도록 개념, 조작적 정의, 계산식, 분자·분모, 단위와 결측 처리를 제시한다.</p>',
         "",
