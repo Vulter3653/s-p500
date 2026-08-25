@@ -308,15 +308,17 @@ document.querySelectorAll('table.paper-table[data-sortable="true"]').forEach((ta
 
 <script id="production-gap-safe-line-sync-v2">
 (() => {
+  let observer = null;
+  let scheduled = false;
+
   const splitContiguousRuns = (points) => {
     const runs = [];
     let run = [];
     for (const point of points) {
       const year = Number(point.dataset.year);
       if (!Number.isFinite(year)) continue;
-      if (!run.length || year === Number(run[run.length - 1].dataset.year) + 1) {
-        run.push(point);
-      } else {
+      if (!run.length || year === Number(run[run.length - 1].dataset.year) + 1) run.push(point);
+      else {
         if (run.length >= 2) runs.push(run);
         run = [point];
       }
@@ -340,7 +342,6 @@ document.querySelectorAll('table.paper-table[data-sortable="true"]').forEach((ta
       if (!lines.length) continue;
       const template = lines[0].cloneNode(false);
       lines.forEach((line) => line.remove());
-
       const runs = splitContiguousRuns(points);
       const insertionPoint = svg.querySelector('circle.chart-point, text.chart-value-label');
       runs.forEach((run, index) => {
@@ -380,21 +381,45 @@ document.querySelectorAll('table.paper-table[data-sortable="true"]').forEach((ta
     return errors;
   };
 
+  const observe = () => {
+    if (observer && document.body) observer.observe(document.body, {childList: true, subtree: true});
+  };
+
   const syncAll = () => {
+    if (observer) observer.disconnect();
     const errors = [];
     let auditedSvgCount = 0;
     document.querySelectorAll('svg.figure-svg').forEach((svg) => {
       if (svg.querySelector('polyline[data-series]')) auditedSvgCount += 1;
       errors.push(...syncSvg(svg));
     });
-    document.documentElement.dataset.figureLineSync = errors.length ? 'fail' : 'pass';
+    const figureCount = document.querySelectorAll('figure.paper-figure').length;
+    const ready = figureCount >= 11 && auditedSvgCount > 0;
+    document.documentElement.dataset.figureLineSync = ready ? (errors.length ? 'fail' : 'pass') : 'pending';
     document.documentElement.dataset.figureLineSyncErrors = String(errors.length);
     document.documentElement.dataset.figureLineSyncSvgCount = String(auditedSvgCount);
+    document.documentElement.dataset.figureLineSyncFigureCount = String(figureCount);
+    observe();
   };
 
-  syncAll();
-  requestAnimationFrame(syncAll);
-  window.addEventListener('load', syncAll, {once: true});
+  const scheduleSync = () => {
+    if (scheduled) return;
+    scheduled = true;
+    requestAnimationFrame(() => {
+      scheduled = false;
+      syncAll();
+    });
+  };
+
+  observer = new MutationObserver((mutations) => {
+    if (mutations.some((mutation) => mutation.type === 'childList' && (mutation.addedNodes.length || mutation.removedNodes.length))) scheduleSync();
+  });
+  observe();
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', scheduleSync, {once: true});
+  else scheduleSync();
+  window.addEventListener('load', scheduleSync, {once: true});
+  [50, 250, 750, 1500, 3000].forEach((delay) => setTimeout(scheduleSync, delay));
 })();
 </script>
 </body></html>
