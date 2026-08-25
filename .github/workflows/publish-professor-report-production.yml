@@ -6,6 +6,7 @@ on:
     paths:
       - 'web/build_production_professor_report.py'
       - 'web/apply_production_desktop_refinements.py'
+      - 'web/tests/professor-figure-integrity.spec.js'
       - '.github/workflows/publish-professor-report-production.yml'
 
 permissions:
@@ -46,18 +47,23 @@ jobs:
           assert '변수 해석:' not in html
           assert 'production-figure-series-refinement' in html
           assert 'production-desktop-fit' in html
-          assert 'production-line-dot-sync' in html
+          assert 'production-gap-safe-line-sync-v2' in html
+          assert 'production-line-dot-sync' not in html
           assert 'Item 1C Cybersecurity</strong> — 최근 3개 연도 중심' not in html
           assert 'Item 8 Financial Statements and Supplementary Data</strong> — 표·주석 중심' not in html
           assert '@media (min-width:1200px)' in html
           print('Production HTML validation PASS')
           PY
 
-      - name: Validate Vite production build
+      - name: Install web dependencies and validate Vite build
         working-directory: web
         run: |
           npm ci
           npm run build
+
+      - name: Install Chromium for full figure audit
+        working-directory: web
+        run: npx playwright install --with-deps chromium
 
       - name: Commit production report to main
         run: |
@@ -70,3 +76,28 @@ jobs:
             git commit -m 'Publish professor report on production main'
             git push origin HEAD:main
           fi
+
+      - name: Wait for Cloudflare production to contain gap-safe figure fix
+        run: |
+          set -euo pipefail
+          URL='https://s-p500.pages.dev/'
+          for attempt in $(seq 1 24); do
+            echo "Production convergence ${attempt}/24"
+            if curl --fail --silent --show-error --location --max-time 20 "$URL" -o /tmp/production.html; then
+              if grep -q 'production-gap-safe-line-sync-v2' /tmp/production.html \
+                && grep -q '6.11 결과 해석 (Discussion)' /tmp/production.html \
+                && ! grep -q 'production-line-dot-sync' /tmp/production.html; then
+                echo 'Cloudflare production convergence PASS'
+                exit 0
+              fi
+            fi
+            sleep 10
+          done
+          echo 'Cloudflare production convergence FAIL'
+          exit 1
+
+      - name: Audit all professor figures in production browser
+        working-directory: web
+        env:
+          PLAYWRIGHT_BASE_URL: https://s-p500.pages.dev
+        run: npx playwright test tests/professor-figure-integrity.spec.js --reporter=line
