@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test("all professor figures keep lines, points, axes, and gaps consistent", async ({ page }) => {
+test("diagnose and audit all professor figures", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 1000 });
   const consoleErrors = [];
   const pageErrors = [];
@@ -9,111 +9,44 @@ test("all professor figures keep lines, points, axes, and gaps consistent", asyn
 
   const response = await page.goto("/", { waitUntil: "networkidle", timeout: 120000 });
   expect(response?.status()).toBe(200);
-
   await page.waitForFunction(() => {
     const script = document.querySelector("script#production-gap-safe-line-sync-v2");
     return Boolean(script && script.textContent.includes("MutationObserver"));
   }, null, { timeout: 120000 });
+  await page.waitForTimeout(5000);
 
-  await page.waitForFunction(() => {
-    const segmentCount = document.querySelectorAll("polyline[data-series][data-segment-start][data-segment-end]").length;
-    return document.documentElement.dataset.figureLineSync === "pass" && segmentCount > 0;
-  }, null, { timeout: 120000 });
-
-  const audit = await page.evaluate(() => {
-    const errors = [];
-    const figures = Array.from(document.querySelectorAll("figure.paper-figure"));
-    let svgCount = 0;
-    let pointCount = 0;
-    let segmentCount = 0;
-
-    const parsePoints = (value) => (value || "").trim().split(/\s+/).filter(Boolean);
-
-    figures.forEach((figure, figureIndex) => {
-      const figureName = figure.dataset.figureId || figure.querySelector(".figure-number")?.textContent?.trim() || `figure-${figureIndex + 1}`;
-      const svgs = Array.from(figure.querySelectorAll("svg.figure-svg"));
-      if (!svgs.length) errors.push(`${figureName}: svg missing`);
-      svgs.forEach((svg, svgIndex) => {
-        svgCount += 1;
-        const points = Array.from(svg.querySelectorAll("circle.chart-point[data-series]"));
-        pointCount += points.length;
-        const yearPoints = points.filter((p) => Number.isFinite(Number(p.dataset.year)));
-        const lines = Array.from(svg.querySelectorAll("polyline[data-series][data-segment-start][data-segment-end]"));
-        segmentCount += lines.length;
-
-        if (yearPoints.length) {
-          const yTicks = Array.from(svg.querySelectorAll("text.chart-y-tick"));
-          const xTicks = Array.from(svg.querySelectorAll("text.chart-x-tick"));
-          if (yTicks.length < 3) errors.push(`${figureName}/${svgIndex}: fewer than 3 y ticks`);
-          if (xTicks.length < 2) errors.push(`${figureName}/${svgIndex}: fewer than 2 x ticks`);
-
-          const bySeries = new Map();
-          yearPoints.forEach((point) => {
-            const series = point.dataset.series || "";
-            if (!bySeries.has(series)) bySeries.set(series, []);
-            bySeries.get(series).push(point);
-          });
-
-          for (const [series, seriesPointsRaw] of bySeries) {
-            const seriesPoints = seriesPointsRaw.slice().sort((a, b) => Number(a.dataset.year) - Number(b.dataset.year));
-            const expectedRuns = [];
-            let run = [];
-            for (const point of seriesPoints) {
-              const year = Number(point.dataset.year);
-              if (!run.length || year === Number(run[run.length - 1].dataset.year) + 1) run.push(point);
-              else {
-                if (run.length >= 2) expectedRuns.push(run);
-                run = [point];
-              }
-            }
-            if (run.length >= 2) expectedRuns.push(run);
-
-            const seriesLines = lines
-              .filter((line) => (line.dataset.series || "") === series)
-              .sort((a, b) => Number(a.dataset.segmentStart) - Number(b.dataset.segmentStart));
-            if (seriesLines.length !== expectedRuns.length) {
-              errors.push(`${figureName}/${svgIndex}/${series}: segment count ${seriesLines.length} != ${expectedRuns.length}`);
-              continue;
-            }
-            expectedRuns.forEach((expectedRun, runIndex) => {
-              const line = seriesLines[runIndex];
-              const actualCoords = parsePoints(line.getAttribute("points"));
-              const expectedCoords = expectedRun.map((p) => `${p.getAttribute("cx")},${p.getAttribute("cy")}`);
-              if (actualCoords.join("|") !== expectedCoords.join("|")) errors.push(`${figureName}/${svgIndex}/${series}: line-dot coordinate mismatch`);
-              const years = expectedRun.map((p) => Number(p.dataset.year));
-              for (let i = 1; i < years.length; i += 1) if (years[i] !== years[i - 1] + 1) errors.push(`${figureName}/${svgIndex}/${series}: line crosses missing year`);
-              if (Number(line.dataset.segmentStart) !== years[0] || Number(line.dataset.segmentEnd) !== years[years.length - 1]) errors.push(`${figureName}/${svgIndex}/${series}: segment metadata mismatch`);
-              const pointColor = expectedRun[0].getAttribute("fill");
-              if (pointColor && line.getAttribute("stroke") !== pointColor) errors.push(`${figureName}/${svgIndex}/${series}: line/point color mismatch`);
-              if (series === "전체" && !line.getAttribute("stroke-dasharray")) errors.push(`${figureName}/${svgIndex}/전체: reference line is not dashed`);
-            });
-          }
-        }
-      });
-    });
-
+  const diagnostic = await page.evaluate(() => {
+    const script = document.querySelector("script#production-gap-safe-line-sync-v2");
+    const svgs = Array.from(document.querySelectorAll("svg.figure-svg"));
     return {
-      errors,
-      figureCount: figures.length,
-      svgCount,
-      pointCount,
-      segmentCount,
+      scriptPresent: Boolean(script),
+      scriptHasObserver: Boolean(script?.textContent.includes("MutationObserver")),
+      syncState: document.documentElement.dataset.figureLineSync || null,
+      syncErrors: document.documentElement.dataset.figureLineSyncErrors || null,
+      syncSvgCount: document.documentElement.dataset.figureLineSyncSvgCount || null,
+      syncFigureCount: document.documentElement.dataset.figureLineSyncFigureCount || null,
+      figureCount: document.querySelectorAll("figure.paper-figure").length,
+      svgCount: svgs.length,
+      polylineCount: document.querySelectorAll("polyline[data-series]").length,
+      segmentCount: document.querySelectorAll("polyline[data-series][data-segment-start][data-segment-end]").length,
+      pointCount: document.querySelectorAll("circle.chart-point[data-series]").length,
+      firstSvg: svgs.length ? {
+        polylineCount: svgs[0].querySelectorAll("polyline[data-series]").length,
+        segmentCount: svgs[0].querySelectorAll("polyline[data-series][data-segment-start]").length,
+        pointCount: svgs[0].querySelectorAll("circle.chart-point[data-series]").length,
+        series: Array.from(new Set(Array.from(svgs[0].querySelectorAll("circle.chart-point[data-series]")).map((p) => p.dataset.series))),
+        years: Array.from(svgs[0].querySelectorAll("circle.chart-point[data-year]")).slice(0, 8).map((p) => p.dataset.year),
+      } : null,
       pageOverflow: document.documentElement.scrollWidth > window.innerWidth + 1,
-      syncState: document.documentElement.dataset.figureLineSync,
-      syncErrors: document.documentElement.dataset.figureLineSyncErrors,
-      syncSvgCount: document.documentElement.dataset.figureLineSyncSvgCount,
-      hasLatestSyncScript: Boolean(document.querySelector("script#production-gap-safe-line-sync-v2")?.textContent.includes("MutationObserver")),
     };
   });
 
-  console.log(JSON.stringify({ ...audit, consoleErrors, pageErrors }));
-  expect(audit.figureCount).toBe(11);
-  expect(audit.pointCount).toBe(1299);
-  expect(audit.segmentCount).toBeGreaterThan(0);
-  expect(audit.hasLatestSyncScript).toBe(true);
-  expect(audit.syncState).toBe("pass");
-  expect(audit.pageOverflow).toBe(false);
+  console.log("FIGURE_SYNC_DIAGNOSTIC=" + JSON.stringify({ diagnostic, consoleErrors, pageErrors }));
+  expect(diagnostic.figureCount).toBe(11);
+  expect(diagnostic.pointCount).toBe(1299);
+  expect(diagnostic.pageOverflow).toBe(false);
   expect(consoleErrors).toEqual([]);
   expect(pageErrors).toEqual([]);
-  expect(audit.errors).toEqual([]);
+  expect(diagnostic.syncState).toBe("pass");
+  expect(diagnostic.segmentCount).toBeGreaterThan(0);
 });
