@@ -2,9 +2,23 @@ import { test, expect } from "@playwright/test";
 
 test("all professor figures keep lines, points, axes, and gaps consistent", async ({ page }) => {
   await page.setViewportSize({ width: 1440, height: 1000 });
+  const consoleErrors = [];
+  const pageErrors = [];
+  page.on("console", (message) => { if (message.type() === "error") consoleErrors.push(message.text()); });
+  page.on("pageerror", (error) => pageErrors.push(error.stack || error.message));
+
   const response = await page.goto("/", { waitUntil: "networkidle", timeout: 120000 });
   expect(response?.status()).toBe(200);
-  await page.waitForFunction(() => document.documentElement.dataset.figureLineSync === "pass", null, { timeout: 30000 });
+
+  await page.waitForFunction(() => {
+    const script = document.querySelector("script#production-gap-safe-line-sync-v2");
+    return Boolean(script && script.textContent.includes("MutationObserver"));
+  }, null, { timeout: 120000 });
+
+  await page.waitForFunction(() => {
+    const segmentCount = document.querySelectorAll("polyline[data-series][data-segment-start][data-segment-end]").length;
+    return document.documentElement.dataset.figureLineSync === "pass" && segmentCount > 0;
+  }, null, { timeout: 120000 });
 
   const audit = await page.evaluate(() => {
     const errors = [];
@@ -86,13 +100,20 @@ test("all professor figures keep lines, points, axes, and gaps consistent", asyn
       segmentCount,
       pageOverflow: document.documentElement.scrollWidth > window.innerWidth + 1,
       syncState: document.documentElement.dataset.figureLineSync,
+      syncErrors: document.documentElement.dataset.figureLineSyncErrors,
+      syncSvgCount: document.documentElement.dataset.figureLineSyncSvgCount,
+      hasLatestSyncScript: Boolean(document.querySelector("script#production-gap-safe-line-sync-v2")?.textContent.includes("MutationObserver")),
     };
   });
 
-  console.log(JSON.stringify(audit));
+  console.log(JSON.stringify({ ...audit, consoleErrors, pageErrors }));
   expect(audit.figureCount).toBe(11);
   expect(audit.pointCount).toBe(1299);
+  expect(audit.segmentCount).toBeGreaterThan(0);
+  expect(audit.hasLatestSyncScript).toBe(true);
   expect(audit.syncState).toBe("pass");
   expect(audit.pageOverflow).toBe(false);
+  expect(consoleErrors).toEqual([]);
+  expect(pageErrors).toEqual([]);
   expect(audit.errors).toEqual([]);
 });
