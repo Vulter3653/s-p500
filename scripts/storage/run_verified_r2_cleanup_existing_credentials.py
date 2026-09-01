@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import os
 import threading
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -27,7 +28,7 @@ ADMIN = (
 )
 
 TOKEN_URI = "https://oauth2.googleapis.com/token"
-DRIVE_SCOPE = "https://www.googleapis.com/auth/drive.readonly"
+DRIVE_SCOPE = "https://www.googleapis.com/auth/drive"
 
 _thread_local = threading.local()
 
@@ -232,6 +233,18 @@ def main():
         f"drive_live_failed={len(drive_failures)}"
     )
 
+    drive_failure_reason_counts = dict(
+        sorted(Counter(drive_failures.values()).items())
+    )
+
+    print(
+        "drive_failure_reason_counts="
+        + json.dumps(
+            drive_failure_reason_counts,
+            sort_keys=True,
+        )
+    )
+
     # --------------------------------------------------------
     # Current R2 inventory
     # --------------------------------------------------------
@@ -340,6 +353,9 @@ def main():
 
             "drive_live_failed":
                 len(drive_failures),
+
+            "drive_failure_reason_counts":
+                drive_failure_reason_counts,
 
             "plan_sha256":
                 plan_sha,
