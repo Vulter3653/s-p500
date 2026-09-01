@@ -15,7 +15,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-from scripts.storage import build_r2_verified_drive_cleanup as cleanup
+import build_r2_verified_drive_cleanup as cleanup
 
 
 ROOT = Path(__file__).resolve().parents[2]
