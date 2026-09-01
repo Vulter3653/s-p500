@@ -1,312 +1,347 @@
 #!/usr/bin/env python3
-"""Plan and execute verified R2 cleanup without exposing research data.
+"""Fail-closed planning primitives for R2 -> Google Drive cleanup.
 
-Only objects backed by an exact, previously validated Drive migration record
-and current Drive ID/size evidence can become deletion candidates. Live deletion
-requires an immutable approved plan and revalidates both stores object by object.
+This module is intentionally incapable of deleting objects. It can only:
+- validate local migration/protection manifests,
+- read current R2 object metadata,
+- evaluate current Google Drive evidence supplied by the runner,
+- classify every R2 object, and
+- create a deterministic dry-run plan and balanced shards.
 """
 
 from __future__ import annotations
 
-import argparse
+import csv
 import hashlib
 import json
-import os
-import time
-from collections import Counter, defaultdict
-from concurrent.futures import ThreadPoolExecutor
+from collections import Counter
+from decimal import Decimal, InvalidOperation
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
+from urllib.parse import urlparse
 
 import boto3
-import pandas as pd
 from botocore.config import Config
-from botocore.exceptions import ClientError
 
 
 DELETE_CLASS = "DELETE_CANDIDATE_VERIFIED_DRIVE_COPY"
-KEEP_CLASSES = {
-    "KEEP_METADATA",
-    "KEEP_NOT_MIGRATED",
-    "KEEP_VERIFICATION_INCOMPLETE",
-    "KEEP_RESEARCH_DEPENDENCY",
-    "REVIEW_AMBIGUOUS",
+KEEP_RESEARCH = "KEEP_RESEARCH_DEPENDENCY"
+KEEP_NOT_MIGRATED = "KEEP_NOT_IN_VERIFIED_MIGRATION"
+KEEP_INCOMPLETE = "KEEP_VERIFICATION_INCOMPLETE"
+REVIEW_GLOBAL_GATE = "REVIEW_GLOBAL_GATE_FAILED"
+
+MIGRATION_OK = {"uploaded", "skipped_existing_match"}
+VERIFICATION_OK = "verified_size_and_sha"
+
+REQUIRED_MIGRATION_COLUMNS = {
+    "r2_object_key",
+    "r2_html_bytes",
+    "r2_sha256",
+    "drive_file_id",
+    "drive_size",
+    "drive_sha256_app_property",
+    "migration_status",
+    "verification_status",
 }
-BATCH_DELETE_SIZE = 1000
+REQUIRED_PROTECTED_COLUMNS = {"r2_object_key"}
 
 
-def s3_client():
+def text(value: Any) -> str:
+    return "" if value is None else str(value).strip()
+
+
+def sha256_text(value: Any) -> str:
+    return text(value).lower()
+
+
+def exact_int(value: Any, field: str) -> int:
+    raw = text(value)
+    if not raw:
+        raise ValueError(f"missing integer field: {field}")
+    try:
+        number = Decimal(raw)
+    except InvalidOperation as exc:
+        raise ValueError(f"invalid integer field {field}: {raw!r}") from exc
+    if number != number.to_integral_value():
+        raise ValueError(f"non-integral value in {field}: {raw!r}")
+    return int(number)
+
+
+def validate_r2_endpoint(endpoint: str) -> str:
+    normalized = text(endpoint).rstrip("/")
+    parsed = urlparse(normalized)
+    if parsed.scheme != "https":
+        raise ValueError("R2 endpoint must use https")
+    if not parsed.hostname or not parsed.hostname.endswith(".r2.cloudflarestorage.com"):
+        raise ValueError("R2 endpoint hostname is not a Cloudflare R2 S3 endpoint")
+    if parsed.path not in {"", "/"} or parsed.params or parsed.query or parsed.fragment:
+        raise ValueError("R2 endpoint must not contain a path, query, or fragment")
+    return normalized
+
+
+def make_r2_client(endpoint: str, access_key_id: str, secret_access_key: str):
+    """Create the Cloudflare R2 S3 client used only for reads in this module."""
     return boto3.client(
-        "s3",
-        endpoint_url=os.environ["R2_ENDPOINT_URL"],
-        aws_access_key_id=os.environ["R2_ACCESS_KEY_ID"],
-        aws_secret_access_key=os.environ["R2_SECRET_ACCESS_KEY"],
+        service_name="s3",
+        endpoint_url=validate_r2_endpoint(endpoint),
+        aws_access_key_id=text(access_key_id),
+        aws_secret_access_key=text(secret_access_key),
         region_name="auto",
-        config=Config(retries={"max_attempts": 4, "mode": "adaptive"}),
+        config=Config(
+            signature_version="s3v4",
+            retries={"max_attempts": 5, "mode": "standard"},
+        ),
     )
 
 
-def sha256_file(path: Path) -> str:
-    digest = hashlib.sha256()
-    with path.open("rb") as source:
-        for block in iter(lambda: source.read(1024 * 1024), b""):
-            digest.update(block)
-    return digest.hexdigest()
+def probe_r2(client, bucket: str) -> None:
+    client.list_objects_v2(Bucket=text(bucket), MaxKeys=1)
 
 
-def inventory_r2(client, bucket: str) -> list[dict[str, Any]]:
-    rows, token = [], None
-    while True:
-        kwargs: dict[str, Any] = {"Bucket": bucket, "MaxKeys": 1000}
-        if token:
-            kwargs["ContinuationToken"] = token
-        response = client.list_objects_v2(**kwargs)
-        rows.extend(
-            {
-                "bucket": bucket,
-                "r2_key": item["Key"],
-                "r2_size": int(item["Size"]),
-                "r2_etag": item["ETag"].strip('"'),
-                "r2_last_modified": item["LastModified"].isoformat(),
-                "r2_storage_class": item.get("StorageClass", ""),
-            }
-            for item in response.get("Contents", [])
-        )
-        if not response.get("IsTruncated"):
-            return rows
-        token = response["NextContinuationToken"]
+def list_r2_inventory(client, bucket: str) -> list[dict[str, Any]]:
+    bucket_name = text(bucket)
+    paginator = client.get_paginator("list_objects_v2")
+    rows: list[dict[str, Any]] = []
+    seen: set[str] = set()
+
+    for page in paginator.paginate(Bucket=bucket_name, PaginationConfig={"PageSize": 1000}):
+        for item in page.get("Contents", []):
+            key = text(item.get("Key"))
+            if not key:
+                raise ValueError("R2 inventory returned an empty object key")
+            if key in seen:
+                raise ValueError(f"duplicate R2 key in live inventory: {key}")
+            seen.add(key)
+            modified = item.get("LastModified")
+            rows.append(
+                {
+                    "r2_key": key,
+                    "r2_size": int(item.get("Size", 0)),
+                    "r2_etag": text(item.get("ETag")).strip('"'),
+                    "r2_last_modified": modified.isoformat() if modified is not None else "",
+                }
+            )
+
+    rows.sort(key=lambda row: row["r2_key"])
+    return rows
 
 
-def load_drive_inventory(directory: Path) -> dict[str, dict[str, Any]]:
-    inventory: dict[str, dict[str, Any]] = {}
-    for path in sorted(directory.glob("*.json")):
-        for row in json.loads(path.read_text(encoding="utf-8")):
-            file_id = str(row.get("ID") or "")
-            if file_id:
-                if file_id in inventory:
-                    raise ValueError(f"duplicate Drive file ID: {file_id}")
-                inventory[file_id] = {"drive_size_live": int(row["Size"]), "drive_path_live": row["Path"]}
-    return inventory
+def read_csv(path: Path, required_columns: set[str]) -> list[dict[str, str]]:
+    with path.open("r", encoding="utf-8-sig", newline="") as handle:
+        reader = csv.DictReader(handle)
+        columns = set(reader.fieldnames or [])
+        missing = required_columns - columns
+        if missing:
+            raise ValueError(f"{path} missing columns: {', '.join(sorted(missing))}")
+        return [dict(row) for row in reader]
 
 
-def _metadata_key(key: str, size: int) -> bool:
-    suffix = Path(key).suffix.lower()
-    return size <= 10 * 1024 * 1024 and suffix in {".json", ".jsonl", ".csv", ".txt", ".yaml", ".yml"}
+def load_migration_manifest(path: Path) -> list[dict[str, str]]:
+    rows = read_csv(path, REQUIRED_MIGRATION_COLUMNS)
+    seen_keys: set[str] = set()
+    seen_drive_ids: set[str] = set()
+
+    for row in rows:
+        key = text(row.get("r2_object_key"))
+        drive_id = text(row.get("drive_file_id"))
+        if not key or not drive_id:
+            raise ValueError("migration manifest contains an empty R2 key or Drive file ID")
+        if key in seen_keys:
+            raise ValueError(f"duplicate R2 key in migration manifest: {key}")
+        if drive_id in seen_drive_ids:
+            raise ValueError(f"duplicate Drive file ID in migration manifest: {drive_id}")
+        seen_keys.add(key)
+        seen_drive_ids.add(drive_id)
+
+        r2_bytes = exact_int(row.get("r2_html_bytes"), "r2_html_bytes")
+        drive_bytes = exact_int(row.get("drive_size"), "drive_size")
+        if r2_bytes < 0 or drive_bytes < 0:
+            raise ValueError("negative object size in migration manifest")
+
+        r2_sha = sha256_text(row.get("r2_sha256"))
+        drive_sha = sha256_text(row.get("drive_sha256_app_property"))
+        if len(r2_sha) != 64 or len(drive_sha) != 64:
+            raise ValueError(f"invalid SHA-256 length for migration key: {key}")
+
+    return rows
+
+
+def load_protected_keys(path: Path) -> set[str]:
+    rows = read_csv(path, REQUIRED_PROTECTED_COLUMNS)
+    keys = [text(row.get("r2_object_key")) for row in rows]
+    if any(not key for key in keys):
+        raise ValueError("protected-key manifest contains an empty R2 key")
+    if len(keys) != len(set(keys)):
+        raise ValueError("protected-key manifest contains duplicate R2 keys")
+    return set(keys)
+
+
+def migration_index(rows: Iterable[dict[str, str]]) -> dict[str, dict[str, str]]:
+    return {text(row["r2_object_key"]): row for row in rows}
+
+
+def migration_row_checks(
+    live_r2: dict[str, Any],
+    migration: dict[str, str],
+    drive_live: dict[str, dict[str, Any]],
+) -> dict[str, bool]:
+    drive_id = text(migration.get("drive_file_id"))
+    drive_evidence = drive_live.get(drive_id)
+    expected_r2_size = exact_int(migration.get("r2_html_bytes"), "r2_html_bytes")
+    expected_drive_size = exact_int(migration.get("drive_size"), "drive_size")
+
+    return {
+        "migration_status": text(migration.get("migration_status")) in MIGRATION_OK,
+        "verification_status": text(migration.get("verification_status")) == VERIFICATION_OK,
+        "manifest_sha_match": sha256_text(migration.get("r2_sha256"))
+        == sha256_text(migration.get("drive_sha256_app_property")),
+        "manifest_size_match": expected_r2_size == expected_drive_size,
+        "current_r2_size_match": int(live_r2["r2_size"]) == expected_r2_size,
+        "current_drive_file_present": drive_evidence is not None,
+        "current_drive_size_match": drive_evidence is not None
+        and int(drive_evidence["drive_size_live"]) == expected_drive_size,
+    }
 
 
 def build_plan(
     inventory: list[dict[str, Any]],
-    migration: pd.DataFrame,
-    dependency_keys: set[str],
+    migration_rows: list[dict[str, str]],
+    protected_keys: set[str],
     drive_live: dict[str, dict[str, Any]],
+    allow_candidates: bool,
 ) -> list[dict[str, Any]]:
-    if migration["r2_object_key"].duplicated().any():
-        raise ValueError("duplicate R2 assignments in migration manifest")
-    migration_by_key = migration.set_index("r2_object_key", drop=False).to_dict("index")
-    plan = []
-    for item in inventory:
-        key, size = item["r2_key"], item["r2_size"]
-        row = dict(item)
-        row.update(
-            {
-                "drive_file_id": "",
-                "drive_path": "",
-                "drive_size": None,
-                "drive_checksum": "",
-                "verification_method": "",
-                "delete_eligible": False,
-            }
-        )
-        if key in dependency_keys:
-            classification, reason = "KEEP_RESEARCH_DEPENDENCY", "current canonical filing manifest references this R2 key"
-        elif key in migration_by_key:
-            evidence = migration_by_key[key]
-            file_id = str(evidence.get("drive_file_id") or "")
-            live = drive_live.get(file_id)
-            checks = {
-                "migration_status": evidence.get("migration_status") in {"uploaded", "skipped_existing_match"},
-                "verification_status": evidence.get("verification_status") == "verified_size_and_sha",
-                "manifest_sha": str(evidence.get("r2_sha256")) == str(evidence.get("drive_sha256_app_property")),
-                "manifest_size": int(evidence.get("r2_html_bytes")) == int(evidence.get("drive_size")),
-                "live_r2_size": size == int(evidence.get("r2_html_bytes")),
-                "live_drive": live is not None,
-                "live_drive_size": live is not None and int(live["drive_size_live"]) == int(evidence.get("drive_size")),
-            }
+    migrations = migration_index(migration_rows)
+    plan: list[dict[str, Any]] = []
+
+    for live in inventory:
+        key = text(live["r2_key"])
+        row: dict[str, Any] = {
+            **live,
+            "classification": KEEP_NOT_MIGRATED,
+            "delete_eligible": False,
+            "reason": "not present in verified Drive migration manifest",
+            "drive_file_id": "",
+            "expected_sha256": "",
+            "checks": {},
+        }
+
+        if key in protected_keys:
             row.update(
                 {
-                    "drive_file_id": file_id,
-                    "drive_path": live["drive_path_live"] if live else "",
-                    "drive_size": int(evidence.get("drive_size")),
-                    "drive_checksum": str(evidence.get("r2_sha256")),
+                    "classification": KEEP_RESEARCH,
+                    "reason": "current research dependency; protected unconditionally",
                 }
             )
-            if all(checks.values()):
-                classification, reason = DELETE_CLASS, "trusted SHA-256 migration manifest plus current R2/Drive size and Drive ID"
-                row["delete_eligible"] = True
-                row["verification_method"] = "SHA256_MIGRATION_MANIFEST+LIVE_R2_SIZE+LIVE_DRIVE_ID_SIZE"
+        elif key in migrations:
+            migration = migrations[key]
+            checks = migration_row_checks(live, migration, drive_live)
+            failed = [name for name, passed in checks.items() if not passed]
+            row.update(
+                {
+                    "drive_file_id": text(migration.get("drive_file_id")),
+                    "expected_sha256": sha256_text(migration.get("r2_sha256")),
+                    "checks": checks,
+                }
+            )
+            if failed:
+                row.update(
+                    {
+                        "classification": KEEP_INCOMPLETE,
+                        "reason": "failed checks: " + ",".join(failed),
+                    }
+                )
+            elif allow_candidates:
+                row.update(
+                    {
+                        "classification": DELETE_CLASS,
+                        "delete_eligible": True,
+                        "reason": "all manifest and current Drive/R2 size checks passed",
+                    }
+                )
             else:
-                classification = "KEEP_VERIFICATION_INCOMPLETE"
-                reason = "failed checks: " + ",".join(name for name, passed in checks.items() if not passed)
-        elif _metadata_key(key, size):
-            classification, reason = "KEEP_METADATA", "small metadata or state object"
-        else:
-            classification, reason = "KEEP_NOT_MIGRATED", "no verified Drive migration mapping"
-        row.update({"classification": classification, "reason": reason})
+                row.update(
+                    {
+                        "classification": REVIEW_GLOBAL_GATE,
+                        "reason": "row checks passed but global approval gate is closed",
+                    }
+                )
+
         plan.append(row)
+
     return plan
 
 
+def close_all_candidates(plan: list[dict[str, Any]], reason: str) -> None:
+    for row in plan:
+        if row.get("delete_eligible"):
+            row["delete_eligible"] = False
+            row["classification"] = REVIEW_GLOBAL_GATE
+            row["reason"] = reason
+
+
 def balance_shards(candidates: list[dict[str, Any]], shard_count: int) -> list[list[dict[str, Any]]]:
-    shards: list[list[dict[str, Any]]] = [[] for _ in range(max(1, shard_count))]
-    totals = [0] * len(shards)
-    seen: set[str] = set()
-    for row in sorted(candidates, key=lambda value: value["r2_size"], reverse=True):
-        if row["r2_key"] in seen:
-            raise ValueError(f"duplicate shard assignment: {row['r2_key']}")
-        index = min(range(len(shards)), key=totals.__getitem__)
+    if shard_count <= 0:
+        raise ValueError("shard_count must be positive")
+    shards: list[list[dict[str, Any]]] = [[] for _ in range(shard_count)]
+    byte_totals = [0 for _ in range(shard_count)]
+    assigned: set[str] = set()
+
+    for row in sorted(candidates, key=lambda item: (-int(item["r2_size"]), item["r2_key"])):
+        key = text(row["r2_key"])
+        if key in assigned:
+            raise ValueError(f"duplicate candidate assignment: {key}")
+        index = min(range(shard_count), key=lambda idx: (byte_totals[idx], idx))
         shards[index].append(row)
-        totals[index] += int(row["r2_size"])
-        seen.add(row["r2_key"])
+        byte_totals[index] += int(row["r2_size"])
+        assigned.add(key)
+
     return shards
 
 
-def summarize(plan: list[dict[str, Any]], shards: list[list[dict[str, Any]]]) -> dict[str, Any]:
-    counts, sizes = Counter(), Counter()
+def summarize_plan(plan: list[dict[str, Any]], shards: list[list[dict[str, Any]]]) -> dict[str, Any]:
+    counts: Counter[str] = Counter()
+    sizes: Counter[str] = Counter()
     for row in plan:
-        counts[row["classification"]] += 1
-        sizes[row["classification"]] += int(row["r2_size"])
-    total_objects, total_bytes = len(plan), sum(int(row["r2_size"]) for row in plan)
-    delete_objects, delete_bytes = counts[DELETE_CLASS], sizes[DELETE_CLASS]
+        label = text(row["classification"])
+        counts[label] += 1
+        sizes[label] += int(row["r2_size"])
+
+    total_objects = len(plan)
+    total_bytes = sum(int(row["r2_size"]) for row in plan)
+    candidates = [row for row in plan if bool(row.get("delete_eligible"))]
+    candidate_bytes = sum(int(row["r2_size"]) for row in candidates)
+
     return {
         "total_r2_objects": total_objects,
         "total_r2_bytes": total_bytes,
-        "classification_object_counts": dict(counts),
-        "classification_bytes": dict(sizes),
-        "delete_candidate_objects": delete_objects,
-        "delete_candidate_bytes": delete_bytes,
-        "retained_objects": total_objects - delete_objects,
-        "retained_bytes": total_bytes - delete_bytes,
-        "expected_storage_reduction_pct": 100 * delete_bytes / total_bytes if total_bytes else 0,
+        "classification_object_counts": dict(sorted(counts.items())),
+        "classification_bytes": dict(sorted(sizes.items())),
+        "delete_candidate_objects": len(candidates),
+        "delete_candidate_bytes": candidate_bytes,
+        "retained_objects": total_objects - len(candidates),
+        "retained_bytes": total_bytes - candidate_bytes,
+        "expected_storage_reduction_pct": (100.0 * candidate_bytes / total_bytes) if total_bytes else 0.0,
         "shard_count": len(shards),
         "objects_per_shard": [len(shard) for shard in shards],
         "bytes_per_shard": [sum(int(row["r2_size"]) for row in shard) for shard in shards],
-        "batch_delete_size": BATCH_DELETE_SIZE,
-        "duplicate_shard_assignments": 0,
     }
 
 
-def write_jsonl(path: Path, rows: list[dict[str, Any]]) -> None:
-    path.write_text("".join(json.dumps(row, sort_keys=True) + "\n" for row in rows), encoding="utf-8")
+def write_json(path: Path, payload: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
 
-def read_jsonl(path: Path) -> list[dict[str, Any]]:
-    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line]
+def write_jsonl(path: Path, rows: Iterable[dict[str, Any]]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        for row in rows:
+            handle.write(json.dumps(row, sort_keys=True) + "\n")
 
 
-def create_plan(args: argparse.Namespace) -> None:
-    output = Path(args.output_dir)
-    output.mkdir(parents=True, exist_ok=True)
-    inventory = inventory_r2(s3_client(), os.environ["R2_BUCKET_NAME"])
-    migration = pd.read_csv(args.migration_manifest)
-    dependencies = set(pd.read_parquet(args.filing_manifest)["r2_object_key"])
-    plan = build_plan(inventory, migration, dependencies, load_drive_inventory(Path(args.drive_inventory_dir)))
-    candidates = [row for row in plan if row["delete_eligible"]]
-    shards = balance_shards(candidates, args.shard_count)
-    write_jsonl(output / "r2_inventory_before.jsonl", inventory)
-    write_jsonl(output / "r2_cleanup_plan.jsonl", plan)
-    shard_dir = output / "shards"
-    shard_dir.mkdir(exist_ok=True)
-    for index, shard in enumerate(shards):
-        write_jsonl(shard_dir / f"shard_{index:03d}.jsonl", shard)
-    summary = summarize(plan, shards)
-    summary.update({"execute_delete": False, "objects_deleted": 0, "bytes_deleted": 0, "plan_sha256": sha256_file(output / "r2_cleanup_plan.jsonl")})
-    (output / "r2_cleanup_summary.json").write_text(json.dumps(summary, indent=2, sort_keys=True) + "\n")
-    checksums = {str(path.relative_to(output)): sha256_file(path) for path in output.rglob("*") if path.is_file()}
-    (output / "checksums.json").write_text(json.dumps(checksums, indent=2, sort_keys=True) + "\n")
-
-
-def _head_matches(client, bucket: str, row: dict[str, Any]) -> tuple[bool, str]:
-    try:
-        head = client.head_object(Bucket=bucket, Key=row["r2_key"])
-    except ClientError as error:
-        status = error.response.get("ResponseMetadata", {}).get("HTTPStatusCode")
-        return False, "ALREADY_ABSENT" if status == 404 else f"HEAD_FAILED_{status}"
-    etag = str(head.get("ETag", "")).strip('"')
-    return (int(head["ContentLength"]) == int(row["r2_size"]) and etag == row["r2_etag"], "MATCH" if int(head["ContentLength"]) == int(row["r2_size"]) and etag == row["r2_etag"] else "R2_CHANGED_AFTER_PLAN")
-
-
-def execute_shard(args: argparse.Namespace) -> None:
-    rows = read_jsonl(Path(args.shard))
-    if any(row["classification"] != DELETE_CLASS or not row["delete_eligible"] for row in rows):
-        raise ValueError("shard contains object outside verified deletion plan")
-    drive = load_drive_inventory(Path(args.drive_inventory_dir))
-    client, bucket = s3_client(), os.environ["R2_BUCKET_NAME"]
-    started = time.monotonic()
-    eligible, results = [], []
-    with ThreadPoolExecutor(max_workers=min(16, max(1, args.max_parallel))) as pool:
-        checks = list(pool.map(lambda row: _head_matches(client, bucket, row), rows))
-    for row, (r2_ok, r2_status) in zip(rows, checks):
-        live = drive.get(row["drive_file_id"])
-        drive_ok = live is not None and int(live["drive_size_live"]) == int(row["drive_size"])
-        if r2_ok and drive_ok:
-            eligible.append(row)
-            results.append({"r2_key": row["r2_key"], "status": "WOULD_DELETE" if not args.execute_delete else "PENDING_DELETE", "size": row["r2_size"]})
-        else:
-            results.append({"r2_key": row["r2_key"], "status": "SKIP_DELETE", "reason": r2_status if not r2_ok else "DRIVE_LIVE_VERIFICATION_FAILED", "size": row["r2_size"]})
-    delete_calls = 0
-    if args.execute_delete:
-        for start in range(0, len(eligible), BATCH_DELETE_SIZE):
-            batch = eligible[start : start + BATCH_DELETE_SIZE]
-            response = client.delete_objects(Bucket=bucket, Delete={"Objects": [{"Key": row["r2_key"]} for row in batch], "Quiet": False})
-            delete_calls += 1
-            errors = {item["Key"]: item for item in response.get("Errors", [])}
-            for result in results:
-                if result["status"] == "PENDING_DELETE" and result["r2_key"] in {row["r2_key"] for row in batch}:
-                    result["status"] = "DELETE_FAILED" if result["r2_key"] in errors else "DELETED_PENDING_VERIFY"
-        for result in results:
-            if result["status"] == "DELETED_PENDING_VERIFY":
-                exists, status = _head_matches(client, bucket, next(row for row in rows if row["r2_key"] == result["r2_key"]))
-                result["status"] = "DELETE_VERIFICATION_FAILED" if exists or status != "ALREADY_ABSENT" else "DELETED_VERIFIED_ABSENT"
-    output = Path(args.output_dir)
-    output.mkdir(parents=True, exist_ok=True)
-    write_jsonl(output / "delete_results.jsonl", results)
-    elapsed = time.monotonic() - started
-    deleted = [row for row in results if row["status"] == "DELETED_VERIFIED_ABSENT"]
-    summary = {
-        "execute_delete": args.execute_delete,
-        "planned_objects": len(rows),
-        "verified_for_action": len(eligible),
-        "objects_deleted": len(deleted),
-        "bytes_deleted": sum(int(row["size"]) for row in deleted),
-        "skipped_objects": sum(row["status"] == "SKIP_DELETE" for row in results),
-        "failed_deletions": sum("FAILED" in row["status"] for row in results),
-        "delete_api_calls": delete_calls,
-        "max_parallel": args.max_parallel,
-        "elapsed_seconds": elapsed,
-        "objects_per_second": len(deleted) / elapsed if elapsed else 0,
-        "bytes_per_second": sum(int(row["size"]) for row in deleted) / elapsed if elapsed else 0,
-    }
-    (output / "shard_summary.json").write_text(json.dumps(summary, indent=2, sort_keys=True) + "\n")
-
-
-def parser() -> argparse.ArgumentParser:
-    root = argparse.ArgumentParser()
-    sub = root.add_subparsers(dest="command", required=True)
-    plan = sub.add_parser("plan")
-    plan.add_argument("--migration-manifest", required=True)
-    plan.add_argument("--filing-manifest", required=True)
-    plan.add_argument("--drive-inventory-dir", required=True)
-    plan.add_argument("--output-dir", required=True)
-    plan.add_argument("--shard-count", type=int, default=8)
-    execute = sub.add_parser("execute-shard")
-    execute.add_argument("--shard", required=True)
-    execute.add_argument("--drive-inventory-dir", required=True)
-    execute.add_argument("--output-dir", required=True)
-    execute.add_argument("--max-parallel", type=int, default=8)
-    execute.add_argument("--execute-delete", action="store_true")
-    return root
-
-
-if __name__ == "__main__":
-    arguments = parser().parse_args()
-    create_plan(arguments) if arguments.command == "plan" else execute_shard(arguments)
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
