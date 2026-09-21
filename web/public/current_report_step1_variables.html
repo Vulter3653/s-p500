@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>S&P 500 10-K AI 공시 변화와 시장반응 — Step 1 변수 정의 반영</title>
+</head>
+<body>
+<div id="loading" style="font-family:system-ui,sans-serif;padding:40px;color:#22313b">기존 보고서에 Step 1 변수 정의를 반영하는 중입니다.</div>
+<script>
+(async()=>{
+  try{
+    const wrapperText = await (await fetch('./current_report.html',{cache:'no-store'})).text();
+    const wrapperDoc = new DOMParser().parseFromString(wrapperText,'text/html');
+    const encoded = wrapperDoc.getElementById('payload')?.textContent.replace(/\s+/g,'');
+    if(!encoded) throw new Error('current_report payload not found');
+    const bytes = Uint8Array.from(atob(encoded),c=>c.charCodeAt(0));
+    if(!('DecompressionStream' in window)) throw new Error('DecompressionStream unsupported');
+    const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
+    const reportText = await new Response(stream).text();
+    const doc = new DOMParser().parseFromString(reportText,'text/html');
+
+    const style = doc.createElement('style');
+    style.id='step1-variable-contract-style';
+    style.textContent=`
+      #variables .variable-contract-banner{padding:16px 18px;margin:0 0 22px;border-left:4px solid #167c80;background:#eef6f5;color:#365d61;font-size:.82rem;line-height:1.65}
+      #variables .variable-group{margin:24px 0 30px}
+      #variables .variable-group h3{margin:0 0 10px}
+      #variables .formula-cell{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.73rem;color:#28424c;white-space:normal!important;min-width:250px}
+      #variables .status-used{font-weight:750;color:#167c80}
+      #variables .status-hold{font-weight:750;color:#8a5a16}
+      #variables .variable-note{margin:10px 0 0;color:#66757d;font-size:.75rem;line-height:1.65}
+      #variables .rule-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:18px}
+      #variables .rule-grid>div{border:1px solid #d7dfe3;background:#f5f7f7;padding:12px 14px}
+      #variables .rule-grid strong{display:block;color:#23313b;font-size:.72rem;margin-bottom:4px}
+      #variables .rule-grid span{color:#5d6b72;font-size:.74rem;line-height:1.5}
+      @media(max-width:760px){#variables .rule-grid{grid-template-columns:1fr}}
+    `;
+    doc.head.appendChild(style);
+
+    const nav = doc.querySelector('.toc nav');
+    if(nav && !nav.querySelector('a[href="#variables"]')){
+      const link = doc.createElement('a');
+      link.href='#variables';
+      link.textContent='03 · 변수 정의 및 계산식';
+      const methodLink = nav.querySelector('a[href="#method"]');
+      if(methodLink) nav.insertBefore(link,methodLink); else nav.appendChild(link);
+    }
+
+    const section = doc.createElement('section');
+    section.id='variables';
+    section.className='report-section';
+    section.innerHTML=`
+      <div class="section-heading"><span class="section-number">03</span><div><p class="kicker">Variable Contract</p><h2>변수 정의 및 계산식</h2></div></div>
+      <div class="variable-contract-banner"><strong>Step 1 반영 원칙.</strong> 아래 정의는 분석 repository의 V8 Market Model 규칙, 연구변수 계약, 그리고 현재 활성 회귀 사양을 대조해 정리하였다. 현재 활성 회귀는 <strong>Min-Max scaling 없음, winsorization 없음, mean-centering 없음, mean/zero imputation 없음</strong>을 유지한다. FileSize만 회귀단계에서 자연로그를 적용하며, WordCount는 이미 <code>ln(TotalWords)</code>로 저장된 값을 다시 로그하지 않는다. Firm control은 현재 <strong>LEV, SIZE, CASH만</strong> 사용한다.</div>
+
+      <div class="variable-group"><h3>시장반응 종속변수</h3>
+      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>Symbol</th><th>정확한 계산식 / 정의</th><th>현재 사용</th></tr></thead><tbody>
+        <tr><td>Market Model return</td><td><code>DlyRet</code></td><td class="formula-cell">DlyRet<sub>iτ</sub> = α<sub>i</sub> + β<sub>i</sub>·VWRETD<sub>τ</sub> + ε<sub>iτ</sub></td><td class="status-used">V8 authority</td></tr>
+        <tr><td>Expected return</td><td><code>E_hat(R)</code></td><td class="formula-cell">α̂<sub>i</sub> + β̂<sub>i</sub>·VWRETD<sub>τ</sub></td><td class="status-used">사용</td></tr>
+        <tr><td>Abnormal Return</td><td><code>AR</code></td><td class="formula-cell">AR<sub>iτ</sub> = DlyRet<sub>iτ</sub> − [α̂<sub>i</sub> + β̂<sub>i</sub>·VWRETD<sub>τ</sub>]</td><td class="status-used">사용</td></tr>
+        <tr><td>Cumulative Abnormal Return</td><td><code>CAR[a,b]</code></td><td class="formula-cell">CAR<sub>i,[a,b]</sub> = Σ<sub>τ=a…b</sub> AR<sub>iτ</sub></td><td class="status-used">6개 window</td></tr>
+      </tbody></table></div>
+      <p class="variable-note">Market Model estimation window는 CRSP trading-day 기준 [-300,-46], 최대 255일이며 최소 120개 유효 관측치가 필요하다. 결측 return은 0으로 대체하거나 보간하지 않는다. 현재 CAR window는 [-1,+1], [-2,+2], [-3,+3], [-1,+2], [-2,0], [0,+2]이며 하나의 primary window를 아직 고정하지 않았다.</p></div>
+
+      <div class="variable-group"><h3>AI 공시 변수</h3>
+      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>정확한 계산식 / 정의</th><th>단위 / 해석</th></tr></thead><tbody>
+        <tr><td><code>AI_Mention</code></td><td class="formula-cell">1(total_ai_frequency &gt; 0)</td><td>0/1. 122개 Mishra et al. (2022) dictionary 중 하나라도 등장하면 1</td></tr>
+        <tr><td><code>AI_Focus</code></td><td class="formula-cell">(Σ AI dictionary-item occurrences / TotalWords<sub>same scope</sub>) × 100</td><td>raw percentage points. 실제 AI 도입이 아니라 공시/communication proxy</td></tr>
+        <tr><td><code>StartAI</code></td><td class="formula-cell">1 if AI_Mention<sub>t-1</sub>=0 and AI_Mention<sub>t</sub>=1</td><td>연속연도 0→1 전환 더미</td></tr>
+        <tr><td><code>StopAI</code></td><td class="formula-cell">1 if AI_Mention<sub>t-1</sub>=1 and AI_Mention<sub>t</sub>=0</td><td>연속연도 1→0 전환 더미</td></tr>
+        <tr><td><code>First_AI_Mention</code></td><td class="formula-cell">available sample history에서 처음 관측되는 eligible 0→1 transition</td><td>표본 내 최초 관측이며 기업 역사상 최초 공시를 의미하지 않음</td></tr>
+      </tbody></table></div>
+      <p class="variable-note">AI dictionary는 repository의 고정 122개 항목을 그대로 사용한다. case-insensitive + alphanumeric term boundary matching을 적용하며, stemming/lemmatization/semantic expansion을 하지 않는다. 반복 출현과 nested dictionary item은 각각 집계한다.</p></div>
+
+      <div class="variable-group"><h3>Concreteness</h3>
+      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>계산식</th><th>결측 규칙</th></tr></thead><tbody>
+        <tr><td><code>Concreteness_All</code></td><td class="formula-cell">Σ C<sub>w</sub> / N<sub>matched</sub></td><td>전체 분석 scope의 Brysbaert dictionary matched words 평균</td></tr>
+        <tr><td><code>Concreteness_AI</code></td><td class="formula-cell">Σ C<sub>w, AI sentences</sub> / N<sub>matched, AI sentences</sub></td><td>AI keyword 자체의 점수가 아니라 AI 문장 내 모든 matched words 평균</td></tr>
+        <tr><td><code>Concreteness_NonAI</code></td><td class="formula-cell">Σ C<sub>w, NonAI sentences</sub> / N<sub>matched, NonAI sentences</sub></td><td>Non-AI 문장 matched words 평균</td></tr>
+        <tr><td><code>Delta_Concreteness</code></td><td class="formula-cell">Concreteness_AI − Concreteness_NonAI</td><td>AI_Mention=0이면 NA; 0으로 대체하지 않음</td></tr>
+      </tbody></table></div></div>
+
+      <div class="variable-group"><h3>TENSE / Temporal Focus</h3>
+      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable family</th><th>정확한 계산식</th><th>Scope</th></tr></thead><tbody>
+        <tr><td><code>PastFocus</code></td><td class="formula-cell">Count(VBD) / TotalWords<sub>scope</sub> × 100</td><td>Whole / AI / NonAI</td></tr>
+        <tr><td><code>PresentFocus</code></td><td class="formula-cell">Count(VBP or VBZ) / TotalWords<sub>scope</sub> × 100</td><td>Whole / AI / NonAI</td></tr>
+        <tr><td><code>FutureFocus</code></td><td class="formula-cell">Count(AUX will, shall, 'll, ’ll) / TotalWords<sub>scope</sub> × 100</td><td>Whole / AI / NonAI</td></tr>
+        <tr><td><code>TimeFocusing</code></td><td class="formula-cell">PastFocus − (PresentFocus + FutureFocus)</td><td>Whole / AI / NonAI</td></tr>
+        <tr><td><code>Delta_*Focus</code></td><td class="formula-cell">AI-sentence value − NonAI-sentence value</td><td>within-report contrast</td></tr>
+      </tbody></table></div>
+      <p class="variable-note">AI_Mention=0이면 AI-sentence TENSE와 Delta TENSE는 통계분석에서 missing이다. <code>TimeFocusing</code>은 Past/Present/Future의 정확한 선형결합이므로 세 구성요소와 동시에 같은 회귀식에 넣지 않는다.</p></div>
+
+      <div class="variable-group"><h3>현재 회귀에 사용하는 textual controls</h3>
+      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>원자료 계산식</th><th>현재 회귀 입력형태</th></tr></thead><tbody>
+        <tr><td><code>FOG</code></td><td class="formula-cell">0.4 × (AverageWordsPerSentence + PercentageComplexWords)</td><td>raw conventional units</td></tr>
+        <tr><td><code>FileSize</code></td><td class="formula-cell">canonical RAW SEC 10-K HTML bytes</td><td><strong>ln(FileSize)</strong></td></tr>
+        <tr><td><code>WordCount</code></td><td class="formula-cell">ln(TotalWords<sub>10-K</sub>)</td><td>저장된 log 값을 그대로 사용; 재로그·Min-Max 없음</td></tr>
+        <tr><td><code>PositiveTone</code></td><td class="formula-cell">LM PositiveWords / TotalWords × 100</td><td>raw percentage points</td></tr>
+        <tr><td><code>NegativeTone</code></td><td class="formula-cell">LM NegativeWords / TotalWords × 100</td><td>raw percentage points</td></tr>
+      </tbody></table></div></div>
+
+      <div class="variable-group"><h3>현재 회귀에 사용하는 firm controls</h3>
+      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>계산식</th><th>Timing</th><th>Status</th></tr></thead><tbody>
+        <tr><td><code>LEV</code></td><td class="formula-cell">TotalDebt / TotalAssets</td><td>validated event-aligned t−1</td><td class="status-used">사용</td></tr>
+        <tr><td><code>SIZE</code></td><td class="formula-cell">ln(TotalAssets)</td><td>validated event-aligned t−1</td><td class="status-used">사용</td></tr>
+        <tr><td><code>CASH</code></td><td class="formula-cell">CashAndEquivalents / TotalAssets</td><td>validated event-aligned t−1</td><td class="status-used">사용</td></tr>
+        <tr><td><code>LIQ</code></td><td class="formula-cell">CurrentAssets / CurrentLiabilities</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
+        <tr><td><code>DEF</code></td><td class="formula-cell">Dividend + CAPEX + ΔNWC + ShortTermDebt + CurrentPortionLongTermDebt − NetCashFlow</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
+        <tr><td><code>RD</code></td><td class="formula-cell">R&amp;DExpenses / TotalAssets</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
+        <tr><td><code>TANG</code></td><td class="formula-cell">NetPPE / TotalAssets</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
+      </tbody></table></div></div>
+
+      <div class="rule-grid">
+        <div><strong>Firm Fixed Effects</strong><span><code>GVKEY_FE</code> 기준. 현재 Firm FE 포함.</span></div>
+        <div><strong>Year Fixed Effects</strong><span><code>ReportYear</code> dummy. 현재 Year FE 포함.</span></div>
+        <div><strong>Scaling</strong><span>현재 활성 회귀에서 0–1 Min-Max scaling을 사용하지 않음.</span></div>
+        <div><strong>Winsorization</strong><span>아직 적용하지 않음.</span></div>
+        <div><strong>Imputation</strong><span>missing language를 0/평균으로 대체하지 않음.</span></div>
+        <div><strong>Source authority</strong><span>V8 README + research-variable contract + 2026-09-22 current-active variable contract.</span></div>
+      </div>
+      <p class="variable-note">현재 활성 정의의 repository record: <code>Vulter3653/s-p500-10k-research/docs/contracts/current-active-variable-contract-2026-09-22.md</code>. 이 Step 1에서는 변수 정의·계산식만 반영했으며 모델 기본식, descriptive table, correlation/VIF, ±30/±7 figure, 단일 회귀결과표는 수정하지 않았다.</p>
+    `;
+
+    const methodSection = doc.querySelector('#method');
+    const dataSection = doc.querySelector('#data');
+    if(methodSection) methodSection.parentNode.insertBefore(section,methodSection);
+    else if(dataSection && dataSection.nextSibling) dataSection.parentNode.insertBefore(section,dataSection.nextSibling);
+    else doc.body.appendChild(section);
+
+    document.open();
+    document.write('<!doctype html>'+doc.documentElement.outerHTML);
+    document.close();
+  }catch(e){
+    document.getElementById('loading').innerHTML='<h1>보고서를 표시할 수 없습니다.</h1><pre>'+String(e)+'</pre>';
+  }
+})();
+</script>
+</body>
+</html>
