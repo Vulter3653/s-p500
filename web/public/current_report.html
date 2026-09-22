@@ -1,127 +1,57 @@
-<!doctype html>
-<html lang="ko">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>S&P 500 10-K AI 공시 변화와 시장반응 — Step 6 단일 OLS 결과표 반영</title>
-<style>html,body{margin:0;padding:0}#loader{font-family:system-ui,sans-serif;padding:40px;color:#22313b}iframe{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;border:0}</style>
-</head>
-<body>
-<div id="loader">보고서를 불러오는 중입니다.</div>
-<iframe id="baseframe" src="./current_report_step1_snapshot.html"></iframe>
-<script>
-(async()=>{
- const frame=document.getElementById('baseframe');
- const waitForBase=()=>new Promise((resolve,reject)=>{const started=Date.now();const timer=setInterval(()=>{try{const d=frame.contentDocument;if(d&&d.querySelector('.report-main')){clearInterval(timer);resolve(d);}else if(Date.now()-started>30000){clearInterval(timer);reject(new Error('Base report load timeout'));}}catch(e){clearInterval(timer);reject(e);}},120);});
- try{
-  const sourceDoc=await waitForBase();
-  const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
-  const style=doc.createElement('style');style.id='step6-single-ols-style';style.textContent=`
-   #single-ols .ols-banner{padding:16px 18px;margin:0 0 22px;border-left:4px solid #c58935;background:#fbf8f0;color:#6b5b3f;font-size:.82rem;line-height:1.65}
-   #single-ols .ols-wrap{overflow-x:auto;margin:22px 0}
-   #single-ols table.statsmodels-summary{width:100%;min-width:860px;border-collapse:collapse;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.73rem;color:#25343b;background:#fff;border-top:2px solid #263940;border-bottom:2px solid #263940}
-   #single-ols table.statsmodels-summary th,#single-ols table.statsmodels-summary td{padding:6px 9px;border-bottom:1px solid #dfe5e7;text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
-   #single-ols table.statsmodels-summary td:first-child,#single-ols table.statsmodels-summary th:first-child{text-align:left}
-   #single-ols table.statsmodels-summary .title-row th{text-align:center;font-family:Georgia,serif;font-size:1rem;padding:10px;background:#f7f8f8;border-bottom:2px solid #263940}
-   #single-ols table.statsmodels-summary .meta td.label{text-align:left;color:#5e6c73;font-weight:700}
-   #single-ols table.statsmodels-summary .coef-head th{border-top:2px solid #263940;border-bottom:2px solid #263940;background:#f4f6f6}
-   #single-ols table.statsmodels-summary .focal td{font-weight:800;background:#eef6f5}
-   #single-ols table.statsmodels-summary .diag td{border-top:2px solid #263940}
-   #single-ols .mail-explain{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:22px 0}
-   #single-ols .mail-explain>div{padding:15px 16px;border:1px solid #d7dfe3;background:#fff}
-   #single-ols .mail-explain strong{display:block;font-size:.78rem;color:#23313b;margin-bottom:7px}
-   #single-ols .mail-explain p{margin:0;color:#5e6b72;font-size:.76rem;line-height:1.65}
-   @media(max-width:820px){#single-ols .mail-explain{grid-template-columns:1fr}}
-  `;doc.head.appendChild(style);
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>S&P 500 10-K AI 공시 변화와 시장반응 — 연구 진행 보고</title>
+<style>
+:root{--ink:#24343b;--muted:#65747b;--line:#d8e0e3;--accent:#176f73;--soft:#eef6f5;--warn:#fbf8f0}*{box-sizing:border-box}body{margin:0;background:#f4f6f6;color:var(--ink);font-family:Arial,"Noto Sans KR",sans-serif;line-height:1.65}.page{max-width:1120px;margin:0 auto;background:#fff;min-height:100vh}.hero{padding:48px 56px 34px;border-bottom:1px solid var(--line)}.kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:700}.hero h1{font-family:Georgia,serif;font-size:34px;line-height:1.25;margin:8px 0 12px}.hero p{color:var(--muted);max-width:850px}.toc{padding:20px 56px;border-bottom:1px solid var(--line);display:flex;gap:14px;flex-wrap:wrap}.toc a{color:var(--accent);font-size:13px;text-decoration:none}.main{padding:12px 56px 60px}section{padding:34px 0;border-bottom:1px solid var(--line)}h2{font-family:Georgia,serif;font-size:25px;margin:0 0 16px}h3{font-size:17px;margin:22px 0 8px}.num{color:var(--accent);font-size:12px;font-weight:700;letter-spacing:.08em}.box{padding:16px 18px;background:var(--soft);border-left:4px solid var(--accent);margin:14px 0}.warn{padding:16px 18px;background:var(--warn);border-left:4px solid #b6843b;margin:14px 0}.eq{font-family:Georgia,serif;background:#f7f8f8;padding:12px 14px;margin:8px 0;overflow:auto}.scroll{overflow:auto;margin:14px 0}table{border-collapse:collapse;width:100%;min-width:760px;font-size:12px}th,td{padding:8px 9px;border-bottom:1px solid var(--line);text-align:right;vertical-align:top}th{background:#f4f6f6}th:first-child,td:first-child{text-align:left}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}.stats{border-top:2px solid var(--ink);border-bottom:2px solid var(--ink)}.stats .focal{background:var(--soft);font-weight:700}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.card{border:1px solid var(--line);padding:15px}.small{font-size:12px;color:var(--muted)}.chart{border:1px solid var(--line);padding:18px;margin:15px 0}.bar{height:12px;background:#dbe8e8;margin:6px 0;position:relative}.bar span{display:block;height:100%;background:#6c9294}.mail{padding:16px 18px;background:#f7f8f8;border-left:4px solid var(--ink);margin:18px 0}.result{border:1px solid var(--line);padding:18px;margin:12px 0}@media(max-width:760px){.hero,.main,.toc{padding-left:22px;padding-right:22px}.grid{grid-template-columns:1fr}.hero h1{font-size:27px}}
+</style></head><body><div class="page"><header class="hero"><div class="kicker">Professor Progress Report · 2005–2025</div><h1>S&P 500 10-K AI 공시 변화와 시장반응</h1><p>전체 10-K 및 Item 1, Item 1A, Item 7, Item 8에서 AI 공시의 존재·변화·언어적 특성과 filing event 전후 시장반응을 연결한 현재 연구 진행 보고.</p></header>
+<nav class="toc"><a href="#variables">01 변수</a><a href="#models">02 모형</a><a href="#desc">03 기술통계</a><a href="#vif">04 상관/VIF</a><a href="#fig">05 Figure</a><a href="#ols">06 OLS 표</a><a href="#mail">07 메일 상세설명</a></nav><main class="main">
 
-  const nav=doc.querySelector('.toc nav');if(nav&&!nav.querySelector('a[href="#single-ols"]')){const a=doc.createElement('a');a.href='#single-ols';a.textContent='08 · 대표 OLS 결과표';const m=nav.querySelector('a[href="#method"]');if(m)nav.insertBefore(a,m);else nav.appendChild(a);}
+<section id="variables"><div class="num">01 · VARIABLE CONTRACT</div><h2>변수 정의 및 계산식</h2>
+<div class="scroll"><table><thead><tr><th>변수</th><th>정의 / 계산식</th><th>단위·처리</th></tr></thead><tbody>
+<tr><td>AI_Mention</td><td>해당 10-K 또는 section에서 AI dictionary term이 1회 이상 등장하면 1</td><td>0/1</td></tr>
+<tr><td>AI_Focus</td><td>(AI-related words / total words) × 100</td><td>percentage point</td></tr>
+<tr><td>StartAI</td><td>연속 관측연도에서 AI_Mention: 0→1</td><td>결측 prior year를 0으로 대체하지 않음</td></tr>
+<tr><td>StopAI</td><td>연속 관측연도에서 AI_Mention: 1→0</td><td>reference: NoChange(0→0, 1→1)</td></tr>
+<tr><td>Concreteness_AI</td><td>AI 관련 문장에 포함된 Brysbaert concreteness score의 평균</td><td>AI 없음에서 구조적 NA; 0 대체 없음</td></tr>
+<tr><td>PastFocus_AI</td><td>AI 문장의 past-tense marker 비율</td><td>%</td></tr><tr><td>FutureFocus_AI</td><td>AI 문장의 future marker 비율</td><td>%</td></tr>
+<tr><td>FOG</td><td>Gunning Fog Index</td><td>text control</td></tr><tr><td>ln(FileSize)</td><td>log filing HTML file size</td><td>text control</td></tr><tr><td>ln(TotalWords)</td><td>log total word count</td><td>text control</td></tr>
+<tr><td>PositiveTone / NegativeTone</td><td>Loughran–McDonald positive/negative word share</td><td>%</td></tr>
+<tr><td>LEV</td><td>leverage</td><td>event-aligned t−1</td></tr><tr><td>SIZE</td><td>ln(TotalAssets)</td><td>event-aligned t−1</td></tr><tr><td>CASH</td><td>cash ratio</td><td>event-aligned t−1</td></tr>
+<tr><td>CAR</td><td>Market-model cumulative abnormal return</td><td>[-1,+1], [-2,+2], [-3,+3], [-1,+2], [-2,0], [0,+2]</td></tr>
+</tbody></table></div></section>
 
-  const section=doc.createElement('section');section.id='single-ols';section.className='report-section';section.innerHTML=`
-   <div class="section-heading"><span class="section-number">08</span><div><p class="kicker">Representative OLS Output</p><h2>교수님 메일의 첫 번째 결과를 설명하는 단일 OLS 결과표</h2></div></div>
-   <div class="ols-banner"><strong>Step 6 반영.</strong> 요청한 예시의 <code>statsmodels summary()</code> 형식을 참고하여 <strong>회귀결과표는 정확히 하나만</strong> 추가한다. 대표표는 전체 10-K의 Model 1J Start/Stop decomposition에서 <code>CAR[-2,0]</code>을 종속변수로 한 사양이다. 이 window는 전체 StartAI 결과 중 nominal p-value가 가장 작아 <strong>메일 1번을 설명하기 위한 display example</strong>로 선택했으며, 연구의 primary event window로 지정한 것이 아니다.</div>
+<section id="models"><div class="num">02 · MODEL SPECIFICATION</div><h2>기본 회귀식</h2><p>모든 핵심 모형은 text controls, event-aligned t−1 firm controls, Firm FE(αᵢ), Year FE(δₜ)를 포함한다. 추정은 <span class="mono">statsmodels.api.OLS(...).fit()</span>, 기본 covariance는 nonrobust이다.</p>
+<h3>Model 1G · 전체 AI 존재</h3><div class="eq">CARᵢₜ = β₀ + β₁ AI_Mentionᵢₜ + γ′Tᵢₜ + θ′Fᵢ,ₜ₋₁ + αᵢ + δₜ + εᵢₜ</div>
+<h3>Model 1H · Section AI intensity</h3><div class="eq">CARᵢₜ = β₀ + β₁ Section_AI_Focusᵢₛₜ + γ′Tᵢₜ + θ′Fᵢ,ₜ₋₁ + αᵢ + δₜ + εᵢₜ</div>
+<h3>Model 1I · 변화/최초 언급</h3><div class="eq">CARᵢₜ = β₀ + β₁ ΔAI_Mentionᵢₜ + controls + FE + εᵢₜ</div><div class="eq">CARᵢₜ = β₀ + β₁ First_AI_Mentionᵢₛₜ + controls + FE + εᵢₜ</div>
+<h3>Model 1J · Start / Stop decomposition</h3><div class="eq">CARᵢₜ = β₀ + βS StartAIᵢₜ + βT StopAIᵢₜ + γ′Tᵢₜ + θ′Fᵢ,ₜ₋₁ + αᵢ + δₜ + εᵢₜ</div>
+<h3>Model 1K · Start/Stop × AI_Focus</h3><div class="eq">CARᵢₜ = β₀ + β₁StartAI + β₂StopAI + β₃AI_Focusₜ + β₄AI_Focusₜ₋₁ + β₅(StartAI×AI_Focusₜ) + β₆(StopAI×AI_Focusₜ₋₁) + controls + FE + ε</div>
+<h3>Model 1L · Section transition × language</h3><div class="eq">Start: CAR = β₀ + β₁StartAIᵢₛₜ + β₂Mᵢₛₜ + β₃(StartAI×M) + controls + FE + ε</div><div class="eq">Stop: CAR = β₀ + β₁StopAIᵢₛₜ + β₂Mᵢₛ,ₜ₋₁ + β₃(StopAI×Mₜ₋₁) + controls + FE + ε</div><p class="small">M은 Concreteness_AI, FutureFocus_AI, PastFocus_AI를 각각 별도 추정. Stop은 1→0과 Stay1(1→1)을 비교하고 moderator는 t−1 사용.</p></section>
 
-   <div class="ols-wrap"><table class="statsmodels-summary" aria-label="Model 1J overall Start Stop OLS results for CAR minus2 to 0">
-    <thead>
-     <tr class="title-row"><th colspan="7">OLS Regression Results — Model 1J Overall Start / Stop, CAR[-2,0]</th></tr>
-    </thead>
-    <tbody>
-     <tr class="meta"><td class="label">Dep. Variable:</td><td colspan="2">V8_CAR_MM_m2_0</td><td class="label">R-squared:</td><td colspan="3">0.132</td></tr>
-     <tr class="meta"><td class="label">Model:</td><td colspan="2">OLS</td><td class="label">Adj. R-squared:</td><td colspan="3">0.036</td></tr>
-     <tr class="meta"><td class="label">Method:</td><td colspan="2">Least Squares</td><td class="label">F-statistic:</td><td colspan="3">1.376</td></tr>
-     <tr class="meta"><td class="label">No. Observations:</td><td colspan="2">8,886</td><td class="label">Prob (F-statistic):</td><td colspan="3">1.36e-11</td></tr>
-     <tr class="meta"><td class="label">Df Residuals:</td><td colspan="2">8,002</td><td class="label">Log-Likelihood:</td><td colspan="3">17,122</td></tr>
-     <tr class="meta"><td class="label">Df Model:</td><td colspan="2">883</td><td class="label">AIC / BIC:</td><td colspan="3">-3.248e+04 / -2.621e+04</td></tr>
-     <tr class="meta"><td class="label">Covariance Type:</td><td colspan="2">nonrobust</td><td class="label">Reference:</td><td colspan="3">NoChange (0→0 or 1→1)</td></tr>
-     <tr class="coef-head"><th>Variable</th><th>coef</th><th>std err</th><th>t</th><th>P&gt;|t|</th><th>[0.025</th><th>0.975]</th></tr>
-     <tr><td>const</td><td>0.0466</td><td>0.031</td><td>1.487</td><td>0.137</td><td>-0.015</td><td>0.108</td></tr>
-     <tr class="focal"><td>AI_Mention_Start_0to1</td><td>-0.0045</td><td>0.002</td><td>-2.558</td><td>0.011</td><td>-0.008</td><td>-0.001</td></tr>
-     <tr class="focal"><td>AI_Mention_Stop_1to0</td><td>-0.0006</td><td>0.002</td><td>-0.257</td><td>0.797</td><td>-0.005</td><td>0.004</td></tr>
-     <tr><td>FOG</td><td>-0.000025</td><td>0.001</td><td>-0.029</td><td>0.977</td><td>-0.002</td><td>0.002</td></tr>
-     <tr><td>ln(FileSize)</td><td>-0.0008</td><td>0.001</td><td>-0.619</td><td>0.536</td><td>-0.004</td><td>0.002</td></tr>
-     <tr><td>ln(TotalWords)</td><td>-0.000072</td><td>0.002</td><td>-0.031</td><td>0.975</td><td>-0.005</td><td>0.004</td></tr>
-     <tr><td>PositiveTone</td><td>-0.0017</td><td>0.006</td><td>-0.276</td><td>0.782</td><td>-0.013</td><td>0.010</td></tr>
-     <tr><td>NegativeTone</td><td>0.0002</td><td>0.002</td><td>0.075</td><td>0.941</td><td>-0.004</td><td>0.004</td></tr>
-     <tr><td>LEV</td><td>-0.0026</td><td>0.005</td><td>-0.575</td><td>0.565</td><td>-0.012</td><td>0.006</td></tr>
-     <tr><td>SIZE = ln(TotalAssets)</td><td>-0.0038</td><td>0.001</td><td>-2.764</td><td>0.006</td><td>-0.006</td><td>-0.001</td></tr>
-     <tr><td>CASH</td><td>-0.0034</td><td>0.007</td><td>-0.482</td><td>0.630</td><td>-0.017</td><td>0.011</td></tr>
-     <tr class="diag"><td>Omnibus</td><td>1818.279</td><td>Prob(Omnibus)</td><td>0.000</td><td>Durbin-Watson</td><td colspan="2">2.238</td></tr>
-     <tr><td>Jarque-Bera (JB)</td><td>64674.964</td><td>Prob(JB)</td><td>0.000</td><td>Skew / Kurtosis</td><td colspan="2">-0.107 / 16.215</td></tr>
-     <tr><td>Cond. No.</td><td>3.48e+04</td><td>Firm FE</td><td>Included</td><td>Year FE</td><td colspan="2">Included</td></tr>
-    </tbody>
-   </table></div>
+<section id="desc"><div class="num">03 · DESCRIPTIVE STATISTICS</div><h2>표본 및 기술통계</h2>
+<div class="grid"><div class="card"><strong>Raw master</strong><br>11,050</div><div class="card"><strong>2026 filing 제외 후</strong><br>10,656</div><div class="card"><strong>Regression spine</strong><br>10,135</div><div class="card"><strong>Transition eligible pairs</strong><br>9,082</div><div class="card"><strong>Start</strong><br>521</div><div class="card"><strong>Stop</strong><br>288</div></div>
+<div class="scroll"><table><thead><tr><th>Variable</th><th>N</th><th>Mean</th><th>SD</th><th>Median</th></tr></thead><tbody>
+<tr><td>AI_Mention</td><td>10,135</td><td>0.6111</td><td>0.4875</td><td>1</td></tr><tr><td>AI_Focus (%)</td><td>10,135</td><td>0.00716</td><td>0.01661</td><td>0.00205</td></tr><tr><td>Concreteness_All</td><td>10,135</td><td>2.9486</td><td>0.0608</td><td>2.9430</td></tr><tr><td>Concreteness_AI</td><td>6,192</td><td>3.0069</td><td>0.2869</td><td>2.9946</td></tr><tr><td>PastFocus_AI (%)</td><td>6,193</td><td>0.7242</td><td>1.3144</td><td>0</td></tr><tr><td>FutureFocus_AI (%)</td><td>6,193</td><td>0.1266</td><td>0.4808</td><td>0</td></tr><tr><td>FOG</td><td>10,135</td><td>22.4208</td><td>1.1184</td><td>22.4322</td></tr><tr><td>LEV</td><td>9,531</td><td>0.2857</td><td>0.2008</td><td>0.2658</td></tr><tr><td>SIZE</td><td>9,559</td><td>9.8321</td><td>1.3702</td><td>9.7118</td></tr><tr><td>CASH</td><td>9,559</td><td>0.1247</td><td>0.1326</td><td>0.0768</td></tr>
+</tbody></table></div><div class="box"><strong>표본 해석.</strong> 10,135는 raw HTML 수가 아니라 2026 filing 제외 및 duplicate audit 후 회귀 spine이다. AI_Mention 평균 0.611은 이 표본의 약 61.1% firm-year에서 AI가 한 번 이상 언급되었음을 뜻한다.</div></section>
 
-   <p><strong>메일 1번의 의미.</strong> 이 표에서 핵심은 <code>AI_Mention_Start_0to1</code>이다. 정확한 저장계수는 β=-0.0045333, p=0.01054로, NoChange 집단과 비교하면 전년도에는 AI를 언급하지 않았으나 당해연도 새롭게 언급하기 시작한 기업의 CAR[-2,0]가 약 <strong>-0.453%p</strong> 낮게 나타난다. 반면 전체 10-K의 <code>StopAI</code>는 β=-0.000616, p=0.797로 뚜렷하지 않다. 따라서 메일의 “전체 10-K에서는 새롭게 AI를 언급하기 시작한 기업에서 음의 시장반응”이라는 문장은 이 Model 1J 결과를 요약한 것이다.</p>
-   <p class="caution"><strong>한 window만 보고 결론을 선택한 것은 아니다.</strong> 전체 StartAI는 [-1,+1], [-2,+2], [-1,+2], [-2,0] 네 window에서 nominal p&lt;.05이고 6개 window 모두 계수 방향은 음(-)이다. 현재 여섯 window는 계속 exploratory이며 primary window는 지정하지 않았다.</p>
+<section id="vif"><div class="num">04 · CORRELATION & MULTICOLLINEARITY</div><h2>상관계수 및 VIF</h2><p>Model 1J complete-case Pearson correlation N=8,966. 가장 큰 절대 상관은 <strong>ln(FileSize)–ln(TotalWords) r=0.7109</strong>이다. StartAI–StopAI는 r=-0.0447이다.</p>
+<div class="scroll"><table><thead><tr><th>Regressor</th><th>Model 1J VIF range</th></tr></thead><tbody><tr><td>ln(TotalWords)</td><td>2.294–2.297</td></tr><tr><td>ln(FileSize)</td><td>2.165</td></tr><tr><td>SIZE</td><td>1.218</td></tr><tr><td>FOG</td><td>1.190</td></tr><tr><td>CASH</td><td>1.176</td></tr><tr><td>StartAI</td><td>1.005</td></tr><tr><td>StopAI</td><td>1.004</td></tr></tbody></table></div>
+<div class="warn"><strong>Model 1L 주의.</strong> Concreteness interaction에서 Event dummy와 interaction의 VIF가 높다(Start 약 105.6–131.9; Stop 약 77.1–119.8). 이는 비중심화된 interaction 구조와 관련된다. 변수 삭제나 mean-centering은 임의로 수행하지 않았다. Future/Past interaction VIF는 대체로 약 1–2 수준이다.</div></section>
 
-   <div class="mail-explain">
-    <div><strong>메일 1 · 전체 10-K 신규 AI 언급</strong><p>위 단일 표가 직접 설명한다. StartAI(0→1)가 NoChange에 비해 음(-)의 CAR를 보이며, StopAI는 전체 수준에서는 뚜렷하지 않다.</p></div>
-    <div><strong>메일 2 · Section별 차이</strong><p>이 단일 표의 대상은 전체 10-K이므로 Item 1A와 Item 7 결과는 별도의 section specification에서 나온다. Item 1A는 신규/최초 관측 AI 공시에서 음(-)의 방향, Item 7은 StopAI에서 일부 window의 음(-) 결과가 나타났다.</p></div>
-    <div><strong>메일 3 · Concreteness / Tense</strong><p>이 표가 아니라 Model 1L의 interaction 결과다. Item 1 Business에서 StopAI×prior Concreteness가 여러 window에서 음(-) 방향이고, PastFocus interaction도 일부 window에서 음(-) 결과가 나타났다. 해당 결과는 interaction-specific VIF와 다중검정 한계를 함께 해석한다.</p></div>
-   </div>
+<section id="fig"><div class="num">05 · MODEL-FREE EVENT WINDOW</div><h2>Filing event 전후 가격경로</h2><div class="box">t=0은 V8_EventTradingDateV8, CRSP 실제 trading-day offset. 종축은 log(Pₜ)-log(P₀). CAR/AR가 아니며 AI 집단별 Figure도 아니다. 보간·결측대체·nearest-date replacement 없음.</div>
+<div class="chart"><h3>Figure 3 · -30 to +30</h3><div class="grid"><div class="card">Ready events<br><strong>10,020</strong></div><div class="card">Valid t0 price<br><strong>9,976</strong></div><div class="card">Complete 61-day<br><strong>9,917</strong></div></div><p>Pre daily overall mean 평균: -0.0010603 · Post: -0.0025580 · Post−Pre: -0.0014977 log point (단순 환산 약 -0.150%).</p><div class="bar"><span style="width:41%"></span></div><p class="small">모형 조정 전 전체 filing event의 raw price-path 요약.</p></div>
+<div class="chart"><h3>Figure 4 · -7 to +7</h3><div class="grid"><div class="card">Ready events<br><strong>10,020</strong></div><div class="card">Complete 15-day<br><strong>9,962</strong></div><div class="card">Post−Pre<br><strong>-0.004534</strong></div></div><p>Pre 평균 0.0018613 · Post 평균 -0.0026723 · 단순 환산 약 -0.452%.</p><div class="bar"><span style="width:31%"></span></div><p class="small">이 -0.452%는 Model 1J StartAI 회귀계수가 아니다.</p></div></section>
 
-   <p class="table-note">Firm FE와 Year FE는 실제 OLS design matrix에 포함되어 있으나 수백 개 dummy coefficient를 나열하면 교수님 보고용 표의 가독성이 훼손되므로 <strong>표시에서만 생략</strong>했다. Df Model=883과 R² 등 model statistics는 FE가 포함된 실제 추정모형의 값이다. 원본 authority: <code>16K_model1j_statsmodels_native_summaries.txt</code>, Model 1J overall <code>V8_CAR_MM_m2_0</code>.</p>
-  `;
+<section id="ols"><div class="num">06 · SINGLE OLS TABLE</div><h2>메일 1번을 설명하는 단일 OLS 결과표</h2><div class="box">요청대로 회귀결과표는 정확히 하나만 제시한다. Model 1J 전체 10-K의 CAR[-2,0] 사양이며, primary event window 선정이 아니라 메일 설명을 위한 대표 display이다.</div>
+<div class="scroll"><table class="stats mono"><thead><tr><th colspan="7" style="text-align:center">OLS Regression Results — Model 1J Overall Start / Stop, CAR[-2,0]</th></tr><tr><th>Variable</th><th>coef</th><th>std err</th><th>t</th><th>P&gt;|t|</th><th>[0.025</th><th>0.975]</th></tr></thead><tbody>
+<tr class="focal"><td>StartAI (0→1)</td><td>-0.004533</td><td>0.001772</td><td>-2.558</td><td>0.0105</td><td>-0.008</td><td>-0.001</td></tr><tr class="focal"><td>StopAI (1→0)</td><td>-0.000616</td><td>0.002395</td><td>-0.257</td><td>0.797</td><td>-0.005</td><td>0.004</td></tr>
+<tr><td>FOG</td><td>-0.000025</td><td>0.001</td><td>-0.029</td><td>0.977</td><td>-0.002</td><td>0.002</td></tr><tr><td>ln(FileSize)</td><td>-0.0008</td><td>0.001</td><td>-0.619</td><td>0.536</td><td>-0.004</td><td>0.002</td></tr><tr><td>ln(TotalWords)</td><td>-0.000072</td><td>0.002</td><td>-0.031</td><td>0.975</td><td>-0.005</td><td>0.004</td></tr><tr><td>PositiveTone</td><td>-0.0017</td><td>0.006</td><td>-0.276</td><td>0.782</td><td>-0.013</td><td>0.010</td></tr><tr><td>NegativeTone</td><td>0.0002</td><td>0.002</td><td>0.075</td><td>0.941</td><td>-0.004</td><td>0.004</td></tr><tr><td>LEV</td><td>-0.0026</td><td>0.005</td><td>-0.575</td><td>0.565</td><td>-0.012</td><td>0.006</td></tr><tr><td>SIZE</td><td>-0.0038</td><td>0.001</td><td>-2.764</td><td>0.006</td><td>-0.006</td><td>-0.001</td></tr><tr><td>CASH</td><td>-0.0034</td><td>0.007</td><td>-0.482</td><td>0.630</td><td>-0.017</td><td>0.011</td></tr>
+<tr><td>Observations</td><td colspan="2">8,886</td><td>R²</td><td>0.132</td><td>Adj. R²</td><td>0.036</td></tr><tr><td>Firm FE / Year FE</td><td colspan="2">Included / Included</td><td>Covariance</td><td>nonrobust</td><td>Reference</td><td>NoChange</td></tr></tbody></table></div><p class="small">Firm/Year dummy coefficients는 실제 추정에는 포함되지만 가독성을 위해 표에서만 생략. 계수 -0.004533은 약 -0.453 percentage points.</p></section>
 
-  const main=doc.querySelector('.report-main'); if(main) main.appendChild(section); else doc.body.appendChild(section);
-  const style7=doc.createElement('style');style7.id='step7-mail-report-style';style7.textContent=`
-   #mail-report .mail-original{padding:18px 20px;background:#f7f8f8;border-left:4px solid #263940;line-height:1.75;font-size:.82rem;margin:18px 0 24px}
-   #mail-report .result-card{padding:18px 20px;border:1px solid #d7dfe3;background:#fff;margin:14px 0}
-   #mail-report .result-card h3{margin:0 0 9px;font-size:1rem}
-   #mail-report .result-card p{margin:7px 0;line-height:1.72}
-   #mail-report .evidence{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#f4f6f6;padding:11px 13px;font-size:.74rem;line-height:1.65;overflow:auto}
-   #mail-report .limit{padding:16px 18px;background:#fbf8f0;border-left:4px solid #c58935;margin-top:18px}
-  `;doc.head.appendChild(style7);
-  if(nav&&!nav.querySelector('a[href="#mail-report"]')){const a7=doc.createElement('a');a7.href='#mail-report';a7.textContent='09 · 메일 결과 상세 설명';nav.appendChild(a7);}
-  const sec7=doc.createElement('section');sec7.id='mail-report';sec7.className='report-section';sec7.innerHTML=`
-   <div class="section-heading"><span class="section-number">09</span><div><p class="kicker">Professor Meeting Brief</p><h2>교수님께 보고한 세 가지 결과의 상세 근거</h2></div></div>
-   <p>이 절은 새로운 가설이나 결과를 추가하는 절이 아니다. 2026년 9월 오프라인 미팅에 앞서 전달한 메일의 세 문장이 <strong>어떤 변수, 표본, 회귀모형과 결과에서 도출되었는지</strong>를 추적할 수 있도록 기존 분석 결과를 연결한다.</p>
-   <div class="mail-original"><strong>보고 내용 1.</strong> “전체 10-K 리포트에서는 이전 연도에 AI를 언급하지 않았다가 새롭게 언급하기 시작한 기업에서 음의 시장반응이 나타났습니다.”</div>
-   <div class="result-card"><h3>1. 전체 10-K — AI 언급 시작(StartAI)과 시장반응</h3>
-    <p><strong>분석 정의.</strong> 같은 기업에서 연속된 연도의 AI_Mention을 비교하여 전년도 0, 당해연도 1이면 StartAI=1로 정의했다. StopAI는 1→0이며, 비교집단 NoChange는 0→0과 1→1이다. 결측된 전년도를 0으로 대체하지 않았다.</p>
-    <p><strong>모형.</strong> Model 1J에서 StartAI와 StopAI를 동시에 포함하고, FOG, ln(FileSize), ln(TotalWords), PositiveTone, NegativeTone, 전년도 LEV, SIZE=ln(TotalAssets), CASH와 Firm FE, Year FE를 통제하였다.</p>
-    <div class="evidence">StartAI: CAR[-1,+1] β=-0.004578, p=.0127; CAR[-2,+2] β=-0.004866, p=.0276; CAR[-1,+2] β=-0.004451, p=.0287; CAR[-2,0] β=-0.004533, p=.0105. 모든 6개 window의 방향은 음(-).</div>
-    <p><strong>해석.</strong> 대표적으로 CAR[-2,0]에서 StartAI 기업의 CAR는 NoChange보다 약 <strong>0.453 percentage points 낮다</strong>. 따라서 메일 1번은 단일 window의 우연한 부호가 아니라 여러 window에서 반복된 음(-) 방향을 요약한 것이다. 전체 10-K의 StopAI는 6개 window 모두 뚜렷하지 않았다.</p>
-   </div>
-   <div class="mail-original"><strong>보고 내용 2.</strong> “1A. Risk Factors에서는 AI 공시를 새롭게 시작하는 경우에 음의 반응이 나타났습니다. 이에 반해 7. MD&amp;A에서는 기존 AI 언급을 중단하는 경우, 일부 시장반응에서 음으로 나타났습니다.”</div>
-   <div class="result-card"><h3>2. Section별 차이 — Item 1A Start와 Item 7 Stop</h3>
-    <p><strong>Item 1A Risk Factors.</strong> section 단위의 StartAI(0→1)는 모든 주요 window에서 음(-) 방향이다. Model 1J에서 CAR[-2,0] β=-0.003090 (p=.0916), CAR[-1,+2] β=-0.003467 (p=.0998)로 약한 nominal evidence가 관측된다. 앞선 Model 1I의 First_AI_Mention 사양에서는 CAR[-2,0] β=-0.003935 (p=.0431), CAR[-1,+2] β=-0.004391 (p=.0497)였다.</p>
-    <p><strong>Item 7 MD&amp;A.</strong> Model 1J에서 StopAI(1→0)는 CAR[-1,+1] β=-0.004634 (p=.0481), CAR[-1,+2] β=-0.005125 (p=.0467), CAR[0,+2] β=-0.004086 (p=.0572)로 일부 window에서 음(-) 방향이 관측되었다. 반면 Item 7 StartAI는 뚜렷하지 않았다.</p>
-    <p><strong>왜 서로 다른가.</strong> 전체 10-K의 Start 효과와 section별 Start/Stop은 동일한 현상을 중복 표기한 것이 아니다. section 분석은 특정 section에서의 상태전환을 측정하므로, 전체 문서에서 AI가 존재하더라도 해당 section에서는 새롭게 시작하거나 중단할 수 있다.</p>
-   </div>
-   <div class="mail-original"><strong>보고 내용 3.</strong> “1. Business에서는 AI 언급을 중단하는 경우, 중단 직전 연도의 Concreteness가 높을수록 시장반응이 더 낮아지는 방향이 관측되었습니다. 또한 과거 시제의 경우에도 일부 시장반응에서 더 낮아지는 방향이 확인되었습니다.”</div>
-   <div class="result-card"><h3>3. Item 1 Business — StopAI × AI 언어 특성</h3>
-    <p><strong>분석 설계.</strong> AI-specific 언어변수는 AI_Mention=0일 때 구조적으로 정의되지 않으므로 0으로 채우지 않았다. Stop 모형은 전년도 AI_Mention=1인 관측치만 사용하고 Stop(1→0)을 Stay1(1→1)과 비교하며, moderator는 중단 직전 연도(t-1)의 값을 사용한다.</p>
-    <p><strong>Concreteness.</strong> StopAI×Concreteness_AI(t-1)는 6개 window 모두 음(-)이다. CAR[-2,+2] β=-0.03605 (p=.0353), CAR[-3,+3] β=-0.05524 (p=.0062), CAR[-1,+2] β=-0.03095 (p=.0488), CAR[-2,0] β=-0.03310 (p=.0212)였다.</p>
-    <p><strong>Past tense.</strong> StopAI×PastFocus_AI(t-1)는 CAR[-1,+2] β≈-0.00601 (p=.0308), CAR[0,+2] β≈-0.00527 (p=.0169)로 일부 window에서 음(-)의 interaction이 나타났다. FutureFocus_AI interaction은 전반적으로 뚜렷하지 않았다.</p>
-    <p><strong>해석 범위.</strong> 이 결과는 “AI 언급을 중단하면 항상 부정적”이라는 의미가 아니다. <strong>중단 직전 AI 문장의 구체성 또는 과거지향성이 높은 경우 Stop과 시장반응의 관계가 더 음(-)으로 이동하는지</strong>를 본 interaction 결과다.</p>
-   </div>
-   <div class="limit"><strong>현재 단계의 가장 중요한 한계.</strong> 분석은 여러 event window, section, transition, language moderator를 탐색하고 있으므로 명목적 p-value만으로 확정적 결론을 내릴 수 없다. Model 1L의 language interaction은 엄격한 다중검정 보정 후 5% 수준에서 유지되지 않는다. Model 1J 전체 StartAI의 네 nominal p&lt;.05 결과도 BH-FDR 10% 수준에서는 유지되지만 5%에서는 유지되지 않는다. 따라서 현재 보고서는 결과를 <strong>탐색적 패턴</strong>으로 제시하고, primary event window와 최종 confirmatory specification은 아직 지정하지 않는다.</div>
-   <p class="table-note"><strong>보고서 정합성.</strong> 위 설명은 메일의 표현 강도를 그대로 따른다. 전체 10-K는 여러 window에서 반복된 StartAI 음(-) 결과, Item 1A와 Item 7은 section별 일부 결과, Item 1의 Concreteness/PastFocus는 interaction의 방향으로 구분한다. 서로 다른 모형의 결과를 하나의 동일 효과로 합산하거나 해석하지 않는다.</p>
-  `;
-  section.parentNode.insertBefore(sec7,section.nextSibling);
-  document.open();document.write('<!doctype html>'+doc.documentElement.outerHTML);document.close();
- }catch(e){document.getElementById('loader').innerHTML='<h1>보고서를 표시할 수 없습니다.</h1><pre>'+String(e)+'</pre>';}
-})();
-</script>
-</body>
-</html>
+<section id="mail"><div class="num">07 · PROFESSOR EMAIL EVIDENCE MAP</div><h2>교수님께 보고한 세 가지 결과의 상세 근거</h2><p>이 절의 목적은 새로운 결과를 추가하는 것이 아니라, 메일의 각 문장이 어떤 변수·표본·모형·회귀결과에서 나온 것인지 설명하는 것이다.</p>
+<div class="mail"><strong>메일 1.</strong> 전체 10-K에서 이전 연도에 AI를 언급하지 않았다가 새롭게 언급하기 시작한 기업에서 음의 시장반응이 나타남.</div>
+<div class="result"><h3>전체 10-K · StartAI</h3><p>Model 1J에서 StartAI와 StopAI를 동시에 포함한다. StartAI는 6개 CAR window에서 모두 음(-)이며, [-1,+1] β=-0.004578(p=.0127), [-2,+2] β=-0.004866(p=.0276), [-1,+2] β=-0.004451(p=.0287), [-2,0] β=-0.004533(p=.0105)이다. 대표적으로 [-2,0]에서는 NoChange보다 약 <strong>-0.453%p</strong> 낮다. 전체 StopAI는 유의하지 않다.</p></div>
+<div class="mail"><strong>메일 2.</strong> Item 1A Risk Factors에서는 AI 공시를 새롭게 시작하는 경우 음의 반응, Item 7 MD&amp;A에서는 기존 AI 언급을 중단하는 경우 일부 시장반응이 음(-).</div>
+<div class="result"><h3>Section별 Start / Stop</h3><p><strong>Item 1A.</strong> Model 1J StartAI는 CAR[-2,0] β=-0.003090(p=.0916), CAR[-1,+2] β=-0.003467(p=.0998). Model 1I First_AI_Mention에서는 CAR[-2,0] β=-0.003935(p=.0431), CAR[-1,+2] β=-0.004391(p=.0497)였다.</p><p><strong>Item 7.</strong> StopAI는 CAR[-1,+1] β=-0.004634(p=.0481), CAR[-1,+2] β=-0.005125(p=.0467), CAR[0,+2] β=-0.004086(p=.0572). Item 7 StartAI는 뚜렷하지 않았다.</p></div>
+<div class="mail"><strong>메일 3.</strong> Item 1 Business에서 AI 언급을 중단하는 경우, 중단 직전 Concreteness가 높을수록 시장반응이 더 낮아지는 방향. Past tense에서도 일부 음(-) 방향.</div>
+<div class="result"><h3>Item 1 · StopAI × language</h3><p>Stop 모형은 1→0을 Stay1(1→1)과 비교하며 moderator는 t−1 값을 사용한다. AI-specific 언어변수는 AI가 없는 해에 0으로 채우지 않는다.</p><p><strong>Stop×Concreteness_AI(t−1)</strong>: [-2,+2] β=-0.03605(p=.0353), [-3,+3] β=-0.05524(p=.0062), [-1,+2] β=-0.03095(p=.0488), [-2,0] β=-0.03310(p=.0212); 6개 window 모두 음(-).</p><p><strong>Stop×PastFocus_AI(t−1)</strong>: [-1,+2] β≈-0.00601(p=.0308), [0,+2] β≈-0.00527(p=.0169). FutureFocus interaction은 전반적으로 뚜렷하지 않았다.</p></div>
+<div class="warn"><strong>해석 한계.</strong> 여러 event window·section·transition·moderator를 탐색했으므로 nominal p-value만으로 확정적 결론을 내리지 않는다. Model 1L interaction은 엄격한 다중검정 보정 후 5% 수준에서 유지되지 않는다. 전체 Model 1J StartAI의 네 nominal p&lt;.05 결과는 12개 focal coefficient family에서 BH-FDR 10% 수준(q≈.076–.086)에는 남지만 5%에는 남지 않는다. 따라서 현재 결과는 탐색적 패턴이며 primary event window는 아직 지정하지 않았다.</div></section>
+</main></div></body></html>
