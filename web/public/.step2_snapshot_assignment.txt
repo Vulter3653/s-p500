@@ -1,0 +1,1 @@
+Assign web/public/current_report_step2_snapshot.html to the exact Step 2 current_report blob SHA 024cae45b85914710e8b48f60ce42a1fde2a2dfa.
