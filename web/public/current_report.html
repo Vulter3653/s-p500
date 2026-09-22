@@ -3,135 +3,120 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>S&P 500 10-K AI 공시 변화와 시장반응 — Step 1 변수 정의 반영</title>
+<title>S&P 500 10-K AI 공시 변화와 시장반응 — Step 2 모델식 반영</title>
+<style>html,body{margin:0;padding:0}#loader{font-family:system-ui,sans-serif;padding:40px;color:#22313b}iframe{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;border:0}</style>
 </head>
 <body>
-<div id="loading" style="font-family:system-ui,sans-serif;padding:40px;color:#22313b">보고서를 불러오는 중입니다.</div>
+<div id="loader">보고서를 불러오고 모델 기본식을 반영하는 중입니다.</div>
+<iframe id="step1frame" src="./current_report_step1_snapshot.html"></iframe>
 <script>
 (async()=>{
+  const frame=document.getElementById('step1frame');
+  const waitForStep1=()=>new Promise((resolve,reject)=>{
+    const started=Date.now();
+    const timer=setInterval(()=>{
+      try{
+        const d=frame.contentDocument;
+        if(d && d.querySelector('#variables') && d.querySelector('.report-main')){
+          clearInterval(timer); resolve(d);
+        } else if(Date.now()-started>20000){
+          clearInterval(timer); reject(new Error('Step 1 report load timeout'));
+        }
+      }catch(e){
+        clearInterval(timer); reject(e);
+      }
+    },120);
+  });
   try{
-    const wrapperText = await (await fetch('./current_report_base_step0.html',{cache:'no-store'})).text();
-    const wrapperDoc = new DOMParser().parseFromString(wrapperText,'text/html');
-    const encoded = wrapperDoc.getElementById('payload')?.textContent.replace(/\s+/g,'');
-    if(!encoded) throw new Error('base current_report payload not found');
-    const bytes = Uint8Array.from(atob(encoded),c=>c.charCodeAt(0));
-    if(!('DecompressionStream' in window)) throw new Error('DecompressionStream unsupported');
-    const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
-    const reportText = await new Response(stream).text();
-    const doc = new DOMParser().parseFromString(reportText,'text/html');
+    await new Promise((resolve,reject)=>{frame.onload=resolve; frame.onerror=reject;});
+    const sourceDoc=await waitForStep1();
+    const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
 
-    const style = doc.createElement('style');
-    style.id='step1-variable-contract-style';
+    const style=doc.createElement('style');
+    style.id='step2-model-equation-style';
     style.textContent=`
-      #variables .variable-contract-banner{padding:16px 18px;margin:0 0 22px;border-left:4px solid #167c80;background:#eef6f5;color:#365d61;font-size:.82rem;line-height:1.65}
-      #variables .variable-group{margin:24px 0 30px}
-      #variables .variable-group h3{margin:0 0 10px}
-      #variables .formula-cell{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.73rem;color:#28424c;white-space:normal!important;min-width:250px}
-      #variables .status-used{font-weight:750;color:#167c80}
-      #variables .status-hold{font-weight:750;color:#8a5a16}
-      #variables .variable-note{margin:10px 0 0;color:#66757d;font-size:.75rem;line-height:1.65}
-      #variables .rule-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:18px}
-      #variables .rule-grid>div{border:1px solid #d7dfe3;background:#f5f7f7;padding:12px 14px}
-      #variables .rule-grid strong{display:block;color:#23313b;font-size:.72rem;margin-bottom:4px}
-      #variables .rule-grid span{color:#5d6b72;font-size:.74rem;line-height:1.5}
-      @media(max-width:760px){#variables .rule-grid{grid-template-columns:1fr}}
+      #models .model-banner{padding:16px 18px;margin:0 0 22px;border-left:4px solid #c58935;background:#fbf8f0;color:#6b5b3f;font-size:.82rem;line-height:1.65}
+      #models .notation-box{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:18px 0 26px}
+      #models .notation-box>div{padding:12px 14px;border:1px solid #d7dfe3;background:#f5f7f7}
+      #models .notation-box strong{display:block;color:#23313b;font-size:.72rem;margin-bottom:5px}
+      #models .notation-box span{color:#5d6b72;font-size:.75rem;line-height:1.55}
+      #models .model-card{margin:20px 0;padding:18px 20px;border:1px solid #d7dfe3;background:#fff}
+      #models .model-card.current{border-left:4px solid #167c80}
+      #models .model-card.history{border-left:4px solid #b5bec3}
+      #models .model-label{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:7px}
+      #models .model-label strong{font-family:Georgia,serif;font-size:1.05rem;color:#23313b}
+      #models .badge{display:inline-block;padding:3px 7px;border-radius:999px;background:#eef5f4;color:#35696d;font-size:.65rem;font-weight:750}
+      #models .badge.history{background:#f1f3f4;color:#687680}
+      #models .eq{margin:10px 0;padding:14px 16px;background:#f6f8f8;border-left:3px solid #167c80;color:#28424c;font-family:Georgia,'Times New Roman',serif;font-size:.93rem;line-height:1.75;overflow-x:auto}
+      #models .model-note{margin:8px 0 0;color:#627078;font-size:.76rem;line-height:1.65}
+      #models .subeq{margin-top:12px}
+      @media(max-width:760px){#models .notation-box{grid-template-columns:1fr}}
     `;
     doc.head.appendChild(style);
 
-    const nav = doc.querySelector('.toc nav');
-    if(nav && !nav.querySelector('a[href="#variables"]')){
-      const link = doc.createElement('a');
-      link.href='#variables';
-      link.textContent='03 · 변수 정의 및 계산식';
-      const methodLink = nav.querySelector('a[href="#method"]');
+    const nav=doc.querySelector('.toc nav');
+    if(nav && !nav.querySelector('a[href="#models"]')){
+      const link=doc.createElement('a');
+      link.href='#models';
+      link.textContent='04 · 모델 기본식';
+      const methodLink=nav.querySelector('a[href="#method"]');
       if(methodLink) nav.insertBefore(link,methodLink); else nav.appendChild(link);
     }
 
-    const section = doc.createElement('section');
-    section.id='variables';
+    const section=doc.createElement('section');
+    section.id='models';
     section.className='report-section';
     section.innerHTML=`
-      <div class="section-heading"><span class="section-number">03</span><div><p class="kicker">Variable Contract</p><h2>변수 정의 및 계산식</h2></div></div>
-      <div class="variable-contract-banner"><strong>Step 1 반영.</strong> 아래 정의는 분석 repository의 V8 Market Model, 변수 계약, 현재 활성 회귀 사양을 대조해 고정하였다. 현재 활성 회귀는 <strong>Min-Max scaling 없음, winsorization 없음, mean-centering 없음, mean/zero imputation 없음</strong>을 유지한다. FileSize는 회귀에서 자연로그를 사용하며, WordCount는 이미 <code>ln(TotalWords)</code>로 저장된 값을 다시 로그하지 않는다. Firm control은 현재 <strong>LEV, SIZE, CASH만</strong> 사용한다.</div>
+      <div class="section-heading"><span class="section-number">04</span><div><p class="kicker">Model Specifications</p><h2>각 모델의 기본식</h2></div></div>
+      <div class="model-banner"><strong>Step 2 반영.</strong> 아래 식은 최신 <code>OLS.ipynb</code>의 실제 specification progression을 기준으로 정리하였다. Model 1–1F는 분석 개발과정을 투명하게 보존하기 위한 historical specification이며, <strong>현재 conventional-unit 분석의 기준은 Model 1G 이후</strong>다. 현재 estimator는 <code>statsmodels.api.OLS(...).fit()</code>, covariance는 <code>nonrobust</code>이며, 6개 CAR window는 아직 exploratory로 유지한다.</div>
 
-      <div class="variable-group"><h3>시장반응 종속변수</h3>
-      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>정확한 계산식 / 정의</th><th>현재 사용</th></tr></thead><tbody>
-        <tr><td><code>Expected Return</code></td><td class="formula-cell">Ê(R<sub>iτ</sub>) = α̂<sub>i</sub> + β̂<sub>i</sub>·VWRETD<sub>τ</sub></td><td class="status-used">V8 Market Model</td></tr>
-        <tr><td><code>AR</code></td><td class="formula-cell">AR<sub>iτ</sub> = DlyRet<sub>iτ</sub> − Ê(R<sub>iτ</sub>)</td><td class="status-used">사용</td></tr>
-        <tr><td><code>CAR[a,b]</code></td><td class="formula-cell">CAR<sub>i,[a,b]</sub> = Σ<sub>τ=a…b</sub> AR<sub>iτ</sub></td><td class="status-used">6개 window</td></tr>
-      </tbody></table></div>
-      <p class="variable-note">Market Model estimation window는 CRSP trading-day 기준 [-300,-46], 최대 255일이며 최소 120개 유효 관측치가 필요하다. 현재 CAR window는 [-1,+1], [-2,+2], [-3,+3], [-1,+2], [-2,0], [0,+2]이며 아직 하나의 primary window를 지정하지 않았다.</p></div>
-
-      <div class="variable-group"><h3>AI 공시 변수</h3>
-      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>정확한 계산식 / 정의</th><th>단위 / 해석</th></tr></thead><tbody>
-        <tr><td><code>AI_Mention</code></td><td class="formula-cell">1(total_ai_frequency &gt; 0)</td><td>0/1. 122개 Mishra et al. (2022) dictionary 중 하나 이상 등장</td></tr>
-        <tr><td><code>AI_Focus</code></td><td class="formula-cell">(Σ AI dictionary-item occurrences / TotalWords<sub>same scope</sub>) × 100</td><td>raw percentage points; AI disclosure/communication proxy</td></tr>
-        <tr><td><code>StartAI</code></td><td class="formula-cell">1 if AI_Mention<sub>t-1</sub>=0 and AI_Mention<sub>t</sub>=1</td><td>연속연도 0→1</td></tr>
-        <tr><td><code>StopAI</code></td><td class="formula-cell">1 if AI_Mention<sub>t-1</sub>=1 and AI_Mention<sub>t</sub>=0</td><td>연속연도 1→0</td></tr>
-        <tr><td><code>First_AI_Mention</code></td><td class="formula-cell">sample history에서 처음 관측되는 eligible 0→1 transition</td><td>기업 역사상 최초 공시가 아니라 표본 내 최초 관측</td></tr>
-      </tbody></table></div>
-      <p class="variable-note">AI inventory는 repository의 고정 122-item dictionary를 그대로 사용한다. case-insensitive boundary-aware matching을 적용하고 stemming, lemmatization, semantic expansion을 하지 않는다.</p></div>
-
-      <div class="variable-group"><h3>Concreteness</h3>
-      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>계산식</th><th>결측 규칙</th></tr></thead><tbody>
-        <tr><td><code>Concreteness_All</code></td><td class="formula-cell">Σ C<sub>w</sub> / N<sub>matched</sub></td><td>전체 scope의 Brysbaert matched words 평균</td></tr>
-        <tr><td><code>Concreteness_AI</code></td><td class="formula-cell">Σ C<sub>w,AI sentences</sub> / N<sub>matched,AI sentences</sub></td><td>AI keyword 자체가 아니라 AI 문장 전체 matched words 평균</td></tr>
-        <tr><td><code>Concreteness_NonAI</code></td><td class="formula-cell">Σ C<sub>w,NonAI sentences</sub> / N<sub>matched,NonAI sentences</sub></td><td>Non-AI 문장 평균</td></tr>
-        <tr><td><code>Delta_Concreteness</code></td><td class="formula-cell">Concreteness_AI − Concreteness_NonAI</td><td>AI_Mention=0이면 NA; zero-fill 금지</td></tr>
-      </tbody></table></div></div>
-
-      <div class="variable-group"><h3>TENSE / Temporal Focus</h3>
-      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>정확한 계산식</th><th>Scope</th></tr></thead><tbody>
-        <tr><td><code>PastFocus</code></td><td class="formula-cell">Count(VBD) / TotalWords<sub>scope</sub> × 100</td><td>Whole / AI / NonAI</td></tr>
-        <tr><td><code>PresentFocus</code></td><td class="formula-cell">Count(VBP or VBZ) / TotalWords<sub>scope</sub> × 100</td><td>Whole / AI / NonAI</td></tr>
-        <tr><td><code>FutureFocus</code></td><td class="formula-cell">Count(AUX will, shall, 'll, ’ll) / TotalWords<sub>scope</sub> × 100</td><td>Whole / AI / NonAI</td></tr>
-        <tr><td><code>TimeFocusing</code></td><td class="formula-cell">PastFocus − (PresentFocus + FutureFocus)</td><td>Whole / AI / NonAI</td></tr>
-        <tr><td><code>Delta_*Focus</code></td><td class="formula-cell">AI-sentence value − NonAI-sentence value</td><td>within-report contrast</td></tr>
-      </tbody></table></div>
-      <p class="variable-note">AI_Mention=0이면 AI-sentence TENSE와 Delta TENSE는 missing으로 처리한다. TimeFocusing은 Past/Present/Future의 정확한 선형결합이므로 세 구성요소와 동시에 같은 회귀식에 포함하지 않는다.</p></div>
-
-      <div class="variable-group"><h3>현재 회귀의 textual controls</h3>
-      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>원자료 계산식</th><th>현재 회귀 입력형태</th></tr></thead><tbody>
-        <tr><td><code>FOG</code></td><td class="formula-cell">0.4 × (AverageWordsPerSentence + PercentageComplexWords)</td><td>raw conventional units</td></tr>
-        <tr><td><code>FileSize</code></td><td class="formula-cell">canonical RAW SEC 10-K HTML bytes</td><td><strong>ln(FileSize)</strong></td></tr>
-        <tr><td><code>WordCount</code></td><td class="formula-cell">ln(TotalWords<sub>10-K</sub>)</td><td>stored log value directly; no re-log / no Min-Max</td></tr>
-        <tr><td><code>PositiveTone</code></td><td class="formula-cell">LM PositiveWords / TotalWords × 100</td><td>raw percentage points</td></tr>
-        <tr><td><code>NegativeTone</code></td><td class="formula-cell">LM NegativeWords / TotalWords × 100</td><td>raw percentage points</td></tr>
-      </tbody></table></div></div>
-
-      <div class="variable-group"><h3>현재 회귀의 firm controls</h3>
-      <div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>계산식</th><th>Timing</th><th>Status</th></tr></thead><tbody>
-        <tr><td><code>LEV</code></td><td class="formula-cell">TotalDebt / TotalAssets</td><td>validated event-aligned t−1</td><td class="status-used">사용</td></tr>
-        <tr><td><code>SIZE</code></td><td class="formula-cell">ln(TotalAssets)</td><td>validated event-aligned t−1</td><td class="status-used">사용</td></tr>
-        <tr><td><code>CASH</code></td><td class="formula-cell">CashAndEquivalents / TotalAssets</td><td>validated event-aligned t−1</td><td class="status-used">사용</td></tr>
-        <tr><td><code>LIQ</code></td><td class="formula-cell">CurrentAssets / CurrentLiabilities</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
-        <tr><td><code>DEF</code></td><td class="formula-cell">Dividend + CAPEX + ΔNWC + ShortTermDebt + CurrentPortionLongTermDebt − NetCashFlow</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
-        <tr><td><code>RD</code></td><td class="formula-cell">R&amp;DExpenses / TotalAssets</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
-        <tr><td><code>TANG</code></td><td class="formula-cell">NetPPE / TotalAssets</td><td>계산값 보존</td><td class="status-hold">현재 보류</td></tr>
-      </tbody></table></div></div>
-
-      <div class="rule-grid">
-        <div><strong>Firm FE</strong><span><code>GVKEY_FE</code> 기준.</span></div>
-        <div><strong>Year FE</strong><span><code>ReportYear</code> dummy.</span></div>
-        <div><strong>Scaling</strong><span>현재 0–1 Min-Max scaling 없음.</span></div>
-        <div><strong>Winsorization</strong><span>아직 적용하지 않음.</span></div>
-        <div><strong>Imputation</strong><span>missing language를 0/평균으로 대체하지 않음.</span></div>
-        <div><strong>Repository authority</strong><span><code>s-p500-10k-research/docs/contracts/current-active-variable-contract-2026-09-22.md</code></span></div>
+      <div class="notation-box">
+        <div><strong>종속변수</strong><span>CAR<sub>it</sub><sup>[a,b]</sup>: Market Model cumulative abnormal return.</span></div>
+        <div><strong>고정효과</strong><span>α<sub>i</sub>: Firm FE(GVKEY_FE), δ<sub>t</sub>: Year FE(ReportYear).</span></div>
+        <div><strong>Text controls</strong><span>T<sub>it</sub> = FOG, ln(FileSize), ln(TotalWords), PositiveTone, NegativeTone.</span></div>
+        <div><strong>Firm controls</strong><span>F<sub>i,t−1</sub> = LEV, ln(TotalAssets), CASH; validated event-aligned t−1.</span></div>
       </div>
-      <p class="variable-note">이 페이지 수정은 요청 1번만 반영한 상태이다. 모델 기본식, descriptive table, correlation/VIF, ±30/±7 figure, 단일 회귀결과표는 아직 수정하지 않았다.</p>
+
+      <div class="model-card history"><div class="model-label"><strong>Model 1 · Initial targeted AI Focus × Language</strong><span class="badge history">development stage</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Focus<sub>it</sub> + β₂ M<sub>it</sub> + β₃(AI_Focus<sub>it</sub> × M<sub>it</sub>) + ε<sub>it</sub></div><p class="model-note">한 번에 하나의 moderator만 추정. Controls/FE 없음. 초기 단계의 continuous focal variables는 0–1 Min-Max scaling을 사용했으며, 이 규칙은 Model 1G 이후 폐기되었다.</p></div>
+
+      <div class="model-card history"><div class="model-label"><strong>Model 1B · Expanded AI-specific / within-report language</strong><span class="badge history">development stage</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Focus<sub>it</sub> + β₂ M<sub>it</sub> + β₃(AI_Focus<sub>it</sub> × M<sub>it</sub>) + ε<sub>it</sub></div><p class="model-note">표본은 AI_Mention=1. Moderator는 Concreteness_AI, Delta_Concreteness, Past/Future/Time focus의 AI-specific 및 Delta 계열을 별도 회귀로 사용.</p></div>
+
+      <div class="model-card history"><div class="model-label"><strong>Model 1C · + Year Fixed Effects</strong><span class="badge history">development stage</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Focus<sub>it</sub> + β₂ M<sub>it</sub> + β₃(AI_Focus<sub>it</sub> × M<sub>it</sub>) + δ<sub>t</sub> + ε<sub>it</sub></div></div>
+
+      <div class="model-card history"><div class="model-label"><strong>Model 1D · + Textual Controls</strong><span class="badge history">development stage</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Focus<sub>it</sub> + β₂ M<sub>it</sub> + β₃(AI_Focus<sub>it</sub> × M<sub>it</sub>) + γ′T<sub>it</sub> + δ<sub>t</sub> + ε<sub>it</sub></div></div>
+
+      <div class="model-card history"><div class="model-label"><strong>Model 1E · + Firm FE</strong><span class="badge history">development stage</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Focus<sub>it</sub> + β₂ M<sub>it</sub> + β₃(AI_Focus<sub>it</sub> × M<sub>it</sub>) + γ′T<sub>it</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div></div>
+
+      <div class="model-card history"><div class="model-label"><strong>Model 1F · + LEV, SIZE, CASH</strong><span class="badge history">last Min-Max stage</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Focus<sub>it</sub> + β₂ M<sub>it</sub> + β₃(AI_Focus<sub>it</sub> × M<sub>it</sub>) + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">이 단계까지는 과거 Min-Max development specification. 현재 보고서의 활성 단위 규칙은 Model 1G부터 적용.</p></div>
+
+      <div class="model-card current"><div class="model-label"><strong>Model 1G · AI Mention Main Effect</strong><span class="badge">current units</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ AI_Mention<sub>it</sub> + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">AI_Mention은 0/1 전체 표본. Min-Max, winsorization, mean-centering, zero/mean imputation 없음.</p></div>
+
+      <div class="model-card current"><div class="model-label"><strong>Model 1H · Section AI Focus Main Effect</strong><span class="badge">Item 1 / 1A / 7 / 8</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁ Section_AI_Focus<sub>ist</sub> + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">관측된 section에서 AI 용어가 없으면 AI_Focus=0을 유지하지만, section 자체가 존재하지 않으면 0으로 대체하지 않는다.</p></div>
+
+      <div class="model-card current"><div class="model-label"><strong>Model 1I · AI Mention Change Timing</strong><span class="badge">3 separate families</span></div><div class="eq subeq"><strong>1I-A Overall Δ:</strong> CAR<sub>it</sub> = β₀ + β₁ ΔAI_Mention<sub>it</sub> + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><div class="eq subeq"><strong>1I-B Section First:</strong> CAR<sub>it</sub> = β₀ + β₁ First_AI_Mention<sub>ist</sub> + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><div class="eq subeq"><strong>1I-C Section Δ:</strong> CAR<sub>it</sub> = β₀ + β₁ Section_ΔAI_Mention<sub>ist</sub> + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">Δ는 동일 firm(또는 firm-section)의 연속된 ReportYear에서만 계산한다. Section absence와 missing prior year는 AI_Mention=0으로 간주하지 않는다.</p></div>
+
+      <div class="model-card current"><div class="model-label"><strong>Model 1J · Start / Stop Decomposition</strong><span class="badge">core transition model</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β<sub>S</sub>StartAI<sub>it</sub> + β<sub>T</sub>StopAI<sub>it</sub> + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">Reference = NoChange(0→0 또는 1→1). 전체 10-K와 Item 1, Item 1A, Item 7, Item 8에서 동일 구조를 추정. 추가로 βStart+βStop=0 대칭검정과 두 transition의 joint test를 수행.</p></div>
+
+      <div class="model-card current"><div class="model-label"><strong>Model 1K · Start / Stop × AI Focus</strong><span class="badge">intensity interaction</span></div><div class="eq">CAR<sub>it</sub> = β₀ + β₁StartAI<sub>it</sub> + β₂StopAI<sub>it</sub> + β₃AI_Focus<sub>it</sub> + β₄AI_Focus<sub>i,t−1</sub> + β₅(StartAI<sub>it</sub>×AI_Focus<sub>it</sub>) + β₆(StopAI<sub>it</sub>×AI_Focus<sub>i,t−1</sub>) + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">Start interaction은 현재연도 AI_Focus, Stop interaction은 직전연도 AI_Focus를 사용. AI_Focus는 raw percentage points이며 log/Min-Max/mean-centering 없음.</p></div>
+
+      <div class="model-card current"><div class="model-label"><strong>Model 1L · Section Disclosure Change × AI-language</strong><span class="badge">current moderation model</span></div><div class="eq subeq"><strong>Start (0→1 vs 1→1):</strong> CAR<sub>it</sub> = β₀ + β₁StartAI<sub>ist</sub> + β₂M<sub>ist</sub> + β₃(StartAI<sub>ist</sub>×M<sub>ist</sub>) + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><div class="eq subeq"><strong>Stop (1→0 vs 1→1):</strong> CAR<sub>it</sub> = β₀ + β₁StopAI<sub>ist</sub> + β₂M<sub>is,t−1</sub> + β₃(StopAI<sub>ist</sub>×M<sub>is,t−1</sub>) + γ′T<sub>it</sub> + θ′F<sub>i,t−1</sub> + α<sub>i</sub> + δ<sub>t</sub> + ε<sub>it</sub></div><p class="model-note">M은 Concreteness_AI, FutureFocus_AI, PastFocus_AI를 각각 별도 family로 추정. Start reference와 Stop reference 모두 Stay1(1→1). 0→0은 AI-specific language가 정의되지 않아 reference에서 제외하며 missing language는 0으로 채우지 않는다.</p></div>
+
+      <p class="variable-note"><strong>현재 메일 보고와 직접 연결되는 모델:</strong> 전체 StartAI는 Model 1J, Item 1A의 신규/최초 공시는 Model 1I–1J, Item 7의 StopAI는 Model 1J, Item 1의 StopAI×prior Concreteness/PastFocus는 Model 1L에서 확인한다. 이 Step 2에서는 식만 추가했으며 descriptive table, correlation/VIF, ±30/±7 figure, 단일 regression table은 아직 변경하지 않았다.</p>
     `;
 
-    const methodSection = doc.querySelector('#method');
-    const dataSection = doc.querySelector('#data');
-    if(methodSection) methodSection.parentNode.insertBefore(section,methodSection);
-    else if(dataSection && dataSection.nextSibling) dataSection.parentNode.insertBefore(section,dataSection.nextSibling);
-    else doc.body.appendChild(section);
+    const variables=doc.querySelector('#variables');
+    if(variables && variables.nextSibling) variables.parentNode.insertBefore(section,variables.nextSibling);
+    else if(variables) variables.parentNode.appendChild(section);
+    else {
+      const method=doc.querySelector('#method');
+      if(method) method.parentNode.insertBefore(section,method); else doc.querySelector('.report-main')?.appendChild(section);
+    }
 
     document.open();
     document.write('<!doctype html>'+doc.documentElement.outerHTML);
     document.close();
   }catch(e){
-    document.getElementById('loading').innerHTML='<h1>보고서를 표시할 수 없습니다.</h1><pre>'+String(e)+'</pre>';
+    document.getElementById('loader').innerHTML='<h1>보고서를 표시할 수 없습니다.</h1><pre>'+String(e)+'</pre>';
   }
 })();
 </script>
