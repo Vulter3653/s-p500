@@ -7,15 +7,13 @@
 <style>html,body{margin:0;padding:0}#loader{font-family:system-ui,sans-serif;padding:40px;color:#22313b}iframe{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;border:0}</style>
 </head>
 <body>
-<div id="loader">보고서를 불러오고 단일 OLS 결과표를 반영하는 중입니다.</div>
-<iframe id="baseframe" src="./current_report_step5_snapshot.html"></iframe>
+<div id="loader">보고서를 불러오는 중입니다.</div>
+<iframe id="baseframe" src="./current_report_step1_snapshot.html"></iframe>
 <script>
 (async()=>{
  const frame=document.getElementById('baseframe');
- const waitForBase=()=>new Promise((resolve,reject)=>{const started=Date.now();const timer=setInterval(()=>{try{const d=frame.contentDocument;if(d&&d.querySelector('#event-window-figures')&&d.querySelector('.report-main')){clearInterval(timer);resolve(d);}else if(Date.now()-started>120000){clearInterval(timer);reject(new Error('Step 5 report load timeout after 120 seconds'));}}catch(e){clearInterval(timer);reject(e);}},120);});
+ const waitForBase=()=>new Promise((resolve,reject)=>{const started=Date.now();const timer=setInterval(()=>{try{const d=frame.contentDocument;if(d&&d.querySelector('.report-main')){clearInterval(timer);resolve(d);}else if(Date.now()-started>30000){clearInterval(timer);reject(new Error('Base report load timeout'));}}catch(e){clearInterval(timer);reject(e);}},120);});
  try{
-  // Do not wait on iframe.onload: Step 5 rewrites its own document with document.write(), so the outer load event can be missed.
-  // Poll the rendered iframe DOM directly until the Step 5 authority section exists.
   const sourceDoc=await waitForBase();
   const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
   const style=doc.createElement('style');style.id='step6-single-ols-style';style.textContent=`
@@ -84,7 +82,7 @@
    <p class="table-note">Firm FE와 Year FE는 실제 OLS design matrix에 포함되어 있으나 수백 개 dummy coefficient를 나열하면 교수님 보고용 표의 가독성이 훼손되므로 <strong>표시에서만 생략</strong>했다. Df Model=883과 R² 등 model statistics는 FE가 포함된 실제 추정모형의 값이다. 원본 authority: <code>16K_model1j_statsmodels_native_summaries.txt</code>, Model 1J overall <code>V8_CAR_MM_m2_0</code>.</p>
   `;
 
-  const eventSection=doc.querySelector('#event-window-figures');if(eventSection&&eventSection.nextSibling)eventSection.parentNode.insertBefore(section,eventSection.nextSibling);else eventSection?.parentNode.appendChild(section);
+  const main=doc.querySelector('.report-main'); if(main) main.appendChild(section); else doc.body.appendChild(section);
   const style7=doc.createElement('style');style7.id='step7-mail-report-style';style7.textContent=`
    #mail-report .mail-original{padding:18px 20px;background:#f7f8f8;border-left:4px solid #263940;line-height:1.75;font-size:.82rem;margin:18px 0 24px}
    #mail-report .result-card{padding:18px 20px;border:1px solid #d7dfe3;background:#fff;margin:14px 0}
