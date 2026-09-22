@@ -5,75 +5,71 @@
 <nav class="toc"><a href="#variables">01 변수</a><a href="#models">02 모형</a><a href="#desc">03 기술통계</a><a href="#vif">04 상관/VIF</a><a href="#fig">05 Figure</a><a href="#ols">06 OLS 표</a><a href="#mail">07 메일 상세설명</a></nav><main class="main">
 
 <section id="variables"><div class="num">01 · VARIABLE CONTRACT</div><h2>연구 변수 정의 및 실증분석 설계</h2>
-<div class="box"><strong>Repo 기준.</strong> 이 절은 <span class="mono">Vulter3653/s-p500-10k-research</span> README의 <strong>연구 변수 정의 및 실증분석 설계</strong> 분류를 그대로 따른다. 현재 분석에서 새로 추가된 변수는 <strong>StartAI</strong>와 <strong>StopAI</strong>이며, 과거 설계의 0–1 Min-Max scaling은 현재 사양에서 사용하지 않는다. 연속변수는 현재 conventional unit로 해석하며, 정의상 로그변환이 필요한 변수만 로그 형태를 사용한다.</div>
-<p><strong>분석단위:</strong> <span class="mono">Observation_it = Firm i's one 10-K report in year t</span>. 문장과 단어는 언어변수 계산을 위한 하위 단위이며 독립 회귀 관측치가 아니다. 모든 market-based dependent variable의 원 사건은 SEC 10-K filing이다.</p>
+<p><strong>분석단위:</strong> 연도-기업 단위 10-K report</p>
 
-<div class="family"><h3>1. Dependent variables</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Role</th><th>Source</th></tr></thead><tbody>
-<tr><td>Abnormal Return</td><td>AR</td><td>ARᵢτ = DlyRetᵢτ − (α̂ᵢ + β̂ᵢ VWRETDτ)</td><td>Primary DV; 10-K filing event</td><td>Pan et al. (2018); Ertekin et al. (2018)</td></tr>
-<tr><td>Cumulative Abnormal Return</td><td>CAR</td><td>CARᵢ,[a,b] = Σ ARᵢτ</td><td>Primary DV; six Market Model windows</td><td>Pan et al. (2018); Ertekin et al. (2018)</td></tr>
-<tr><td>Buy-and-Hold Abnormal Return</td><td>BHAR</td><td>Π(1+Rᵢτ) − Π(1+RBenchmark,ᵢτ)</td><td>Deferred additional analysis</td><td>Ertekin et al. (2018)</td></tr>
-</tbody></table></div><p class="family-note">현재 V8의 primary market DVs는 AR 및 CAR이며, BHAR은 현재 계산 범위가 아닌 후속 분석 후보이다. CAR windows: [-1,+1], [-2,+2], [-3,+3], [-1,+2], [-2,0], [0,+2].</p></div>
+<div class="family"><h3>1. Dependent variables</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
+<tr><td>Abnormal Return</td><td>AR</td><td>ARᵢτ = DlyRetᵢτ − (α̂ᵢ + β̂ᵢ VWRETDτ)</td><td>Pan et al. (2018); Ertekin, Sorescu, & Houston (2018)</td></tr>
+<tr><td>Cumulative Abnormal Return</td><td>CAR</td><td>CARᵢ,[a,b] = Σ ARᵢτ</td><td>Pan et al. (2018); Ertekin, Sorescu, & Houston (2018)</td></tr>
+<tr><td>Buy-and-Hold Abnormal Return</td><td>BHAR</td><td>Π(1+Rᵢτ) − Π(1+RBenchmark,ᵢτ)</td><td>Ertekin, Sorescu, & Houston (2018)</td></tr>
+</tbody></table></div><p class="family-note">현재 V8의 primary market DVs는 AR 및 CAR이며, BHAR은 후속 분석 후보이다. CAR windows: [-1,+1], [-2,+2], [-3,+3], [-1,+2], [-2,0], [0,+2].</p></div>
 
-<div class="family"><h3>2. Focal independent variables — AI communication</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Role</th><th>Source / status</th></tr></thead><tbody>
-<tr><td>AI Mention</td><td>AI_Mention</td><td>10-K 또는 해당 section에 AI-related term이 하나 이상 존재하면 1, 아니면 0</td><td>Focal IV</td><td>Mishra, Ewing, & Cooper (2022) 기반 binary extension</td></tr>
-<tr><td>AI Focus</td><td>AI_Focus</td><td>(No. of AI-related words / Total no. of words) × 100</td><td>Focal IV; AI disclosure intensity</td><td>Mishra et al. (2022), direct measurement precedent</td></tr>
-<tr><td>AI disclosure start</td><td>StartAI</td><td>연속 관측연도에서 AI_Mention: 0→1</td><td>현재 연구의 disclosure-transition IV</td><td>Current-study extension; prior-year missing은 0으로 대체하지 않음</td></tr>
-<tr><td>AI disclosure stop</td><td>StopAI</td><td>연속 관측연도에서 AI_Mention: 1→0</td><td>현재 연구의 disclosure-transition IV</td><td>Current-study extension; Model 1J reference = NoChange(0→0, 1→1)</td></tr>
-</tbody></table></div><p class="family-note">AI_Mention과 AI_Focus는 실제 AI adoption이 아니라 <strong>text-based AI disclosure / communication proxy</strong>로 해석한다.</p></div>
+<div class="family"><h3>2. Focal independent variables — AI communication</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
+<tr><td>AI Mention</td><td>AI_Mention</td><td>10-K 또는 해당 section에 AI-related term이 하나 이상 존재하면 1, 아니면 0</td><td>Mishra, Ewing, & Cooper (2022)</td></tr>
+<tr><td>AI Focus</td><td>AI_Focus</td><td>(No. of AI-related words / Total no. of words) × 100</td><td>Mishra, Ewing, & Cooper (2022)</td></tr>
+<tr><td>AI disclosure start</td><td>StartAI</td><td>연속 관측연도에서 AI_Mention: 0→1. Prior-year missing은 0으로 대체하지 않음</td><td>본 연구에서 구성</td></tr>
+<tr><td>AI disclosure stop</td><td>StopAI</td><td>연속 관측연도에서 AI_Mention: 1→0. Model 1J의 reference는 NoChange(0→0, 1→1)</td><td>본 연구에서 구성</td></tr>
+</tbody></table></div><p class="family-note">AI_Mention과 AI_Focus는 실제 AI adoption이 아니라 text-based AI disclosure / communication proxy로 해석한다.</p></div>
 
-<div class="family"><h3>3. Focal independent variables — Concreteness</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Role</th><th>Source / status</th></tr></thead><tbody>
-<tr><td>Overall Concreteness</td><td>Concreteness_All</td><td>전체 10-K의 Brysbaert dictionary-matched words에 대해 ΣCw / Nmatched</td><td>Focal IV</td><td>Brysbaert et al. (2014); Baek, Ihm, & Kang (2023)</td></tr>
-<tr><td>AI-sentence Concreteness</td><td>Concreteness_AI</td><td>AI-related term이 하나 이상 포함된 모든 문장의 dictionary-matched word score 평균</td><td>Focal IV</td><td>Current-study scope extension</td></tr>
-<tr><td>Non-AI Concreteness</td><td>Concreteness_NonAI</td><td>AI-related term이 없는 문장의 dictionary-matched word score 평균</td><td>Within-report comparison</td><td>Current-study scope extension</td></tr>
-<tr><td>Concreteness Difference</td><td>Delta_Concreteness</td><td>Concreteness_AI − Concreteness_NonAI</td><td>Within-report focal contrast</td><td>Current-study constructed measure</td></tr>
+<div class="family"><h3>3. Focal independent variables — Concreteness</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
+<tr><td>Overall Concreteness</td><td>Concreteness_All</td><td>전체 10-K의 Brysbaert dictionary-matched words에 대해 ΣCw / Nmatched</td><td>Brysbaert, Warriner, & Kuperman (2014); Baek, Ihm, & Kang (2023)</td></tr>
+<tr><td>AI-sentence Concreteness</td><td>Concreteness_AI</td><td>AI-related term이 하나 이상 포함된 모든 문장의 dictionary-matched word score 평균</td><td>Brysbaert et al. (2014); Baek, Ihm, & Kang (2023)</td></tr>
+<tr><td>Non-AI Concreteness</td><td>Concreteness_NonAI</td><td>AI-related term이 없는 문장의 dictionary-matched word score 평균</td><td>Brysbaert et al. (2014); Baek, Ihm, & Kang (2023)</td></tr>
+<tr><td>Concreteness Difference</td><td>Delta_Concreteness</td><td>Concreteness_AI − Concreteness_NonAI</td><td>Baek, Ihm, & Kang (2023) 기반 본 연구 구성</td></tr>
 </tbody></table></div><p class="family-note">Concreteness_AI는 AI keyword 자체의 점수가 아니라 AI-related sentences 전체의 matched-word average다. AI_Mention=0이면 AI_Focus=0이지만 Concreteness_AI와 Delta_Concreteness는 구조적으로 NA이며 0으로 대체하지 않는다.</p></div>
 
-<div class="family"><h3>4. Focal independent variables — TENSE</h3><div class="scroll"><table><thead><tr><th>Scope</th><th>Variables</th><th>Measurement / construction</th><th>Role</th></tr></thead><tbody>
-<tr><td>Overall</td><td>PastFocus, PresentFocus, FutureFocus, TimeFocusing</td><td>각 focus = 해당 marker / Total words ×100; TimeFocusing = PastFocus − (PresentFocus + FutureFocus)</td><td>Overall TENSE predictors</td></tr>
-<tr><td>AI sentences</td><td>PastFocus_AI, PresentFocus_AI, FutureFocus_AI, TimeFocusing_AI</td><td>122-term AI-related sentences에 동일 계산 적용</td><td>AI-communication TENSE predictors</td></tr>
-<tr><td>Non-AI sentences</td><td>PastFocus_NonAI, PresentFocus_NonAI, FutureFocus_NonAI, TimeFocusing_NonAI</td><td>AI term이 없는 문장에 동일 계산 적용</td><td>Within-report comparison</td></tr>
-<tr><td>AI − Non-AI</td><td>Delta_PastFocus, Delta_PresentFocus, Delta_FutureFocus, Delta_TimeFocusing</td><td>각 AI value − NonAI value</td><td>Within-report focal contrasts</td></tr>
+<div class="family"><h3>4. Focal independent variables — TENSE</h3><div class="scroll"><table><thead><tr><th>Scope</th><th>Variables</th><th>Measurement / construction</th><th>Source</th></tr></thead><tbody>
+<tr><td>Overall</td><td>PastFocus, PresentFocus, FutureFocus, TimeFocusing</td><td>각 focus = 해당 marker / Total words ×100; TimeFocusing = PastFocus − (PresentFocus + FutureFocus)</td><td>Pan et al. (2018); Baek & Ihm (2021)</td></tr>
+<tr><td>AI sentences</td><td>PastFocus_AI, PresentFocus_AI, FutureFocus_AI, TimeFocusing_AI</td><td>122-term AI-related sentences에 동일 계산 적용</td><td>Pan et al. (2018); Baek & Ihm (2021); Mishra, Ewing, & Cooper (2022)</td></tr>
+<tr><td>Non-AI sentences</td><td>PastFocus_NonAI, PresentFocus_NonAI, FutureFocus_NonAI, TimeFocusing_NonAI</td><td>AI term이 없는 문장에 동일 계산 적용</td><td>Pan et al. (2018); Baek & Ihm (2021); Mishra, Ewing, & Cooper (2022)</td></tr>
+<tr><td>AI − Non-AI</td><td>Delta_PastFocus, Delta_PresentFocus, Delta_FutureFocus, Delta_TimeFocusing</td><td>각 AI value − NonAI value</td><td>Pan et al. (2018); Baek & Ihm (2021) 기반 본 연구 구성</td></tr>
 </tbody></table></div><p class="family-note">현재 구현: PastFocus = VBD, PresentFocus = VBP/VBZ, FutureFocus = AUX will/shall/'ll/’ll. AI/Non-AI partition은 Concreteness_AI와 동일한 122-term boundary-aware matcher를 사용한다. AI_Mention=0일 때 AI-sentence TENSE 및 Delta_*Focus는 회귀에서 missing으로 처리하며 0으로 해석하지 않는다. 같은 scope의 Past/Present/Future와 TimeFocusing은 정확한 선형결합 관계이므로 동일 specification에 기계적으로 동시 투입하지 않는다.</p></div>
 
-<div class="family"><h3>5. Baseline textual controls</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Role</th><th>Source</th></tr></thead><tbody>
-<tr><td>Fog Index</td><td>FOG</td><td>0.4 × (Average words per sentence + Percentage of complex words)</td><td>Readability control</td><td>Loughran & McDonald (2014); Ertugrul et al. (2017)</td></tr>
-<tr><td>10-K File Size</td><td>FileSize</td><td>SEC 10-K filing file size; 현재 회귀 실행에서는 ln(FileSize) 사용</td><td>Readability control</td><td>Loughran & McDonald (2014); Ertugrul et al. (2017)</td></tr>
-<tr><td>Word Count</td><td>WordCount</td><td>Total words in 10-K; 현재 회귀 실행에서는 ln(TotalWords) 사용</td><td>Text length control</td><td>Baek, Ihm, & Kang (2023)</td></tr>
-<tr><td>Positive Tone</td><td>PositiveTone</td><td>LM positive words / total words ×100</td><td>Communication-content control</td><td>Loughran & McDonald (2011); Pan et al. (2018)</td></tr>
-<tr><td>Negative Tone</td><td>NegativeTone</td><td>LM negative words / total words ×100</td><td>Communication-content control</td><td>Loughran & McDonald (2011); Pan et al. (2018)</td></tr>
+<div class="family"><h3>5. Baseline textual controls</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
+<tr><td>Fog Index</td><td>FOG</td><td>0.4 × (Average words per sentence + Percentage of complex words)</td><td>Loughran & McDonald (2014); Ertugrul et al. (2017)</td></tr>
+<tr><td>10-K File Size</td><td>FileSize</td><td>SEC 10-K filing file size; 현재 회귀 실행에서는 ln(FileSize) 사용</td><td>Loughran & McDonald (2014); Ertugrul et al. (2017)</td></tr>
+<tr><td>Word Count</td><td>WordCount</td><td>Total words in 10-K; 현재 회귀 실행에서는 ln(TotalWords) 사용</td><td>Baek, Ihm, & Kang (2023)</td></tr>
+<tr><td>Positive Tone</td><td>PositiveTone</td><td>LM positive words / total words ×100</td><td>Loughran & McDonald (2011); Pan et al. (2018)</td></tr>
+<tr><td>Negative Tone</td><td>NegativeTone</td><td>LM negative words / total words ×100</td><td>Loughran & McDonald (2011); Pan et al. (2018)</td></tr>
 </tbody></table></div></div>
 
 <div class="family"><h3>6. Baseline firm-level controls</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
 <tr><td>Firm Size</td><td>SIZE</td><td>ln(Total Assets)</td><td>Mushtaq et al. (2022)</td></tr>
+<tr><td>Cash Holdings</td><td>CASH</td><td>Cash & Equivalents / Total Assets</td><td>Mushtaq et al. (2022)</td></tr>
+<tr><td>Leverage</td><td>LEV</td><td>Total Debt / Total Assets</td><td>Mushtaq et al. (2022)</td></tr>
+</tbody></table></div><p class="family-note">현재 실제 회귀 사양에서 사용된 firm-level controls는 SIZE, CASH, LEV이다.</p></div>
+
+<div class="family"><h3>7. Candidate controls</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
 <tr><td>Liquidity</td><td>LIQ</td><td>Current Assets / Current Liabilities</td><td>Mushtaq et al. (2022)</td></tr>
 <tr><td>Financing Needs / Deficit</td><td>DEF</td><td>Dividend + Capital Expenditure + Change in Net Working Capital + Short-Term Debt + Current Portion of Long-Term Debt − Net Cash Flow</td><td>Mushtaq et al. (2022)</td></tr>
 <tr><td>Research & Development</td><td>RD</td><td>R&D Expenses / Total Assets</td><td>Mushtaq et al. (2022)</td></tr>
 <tr><td>Tangibility</td><td>TANG</td><td>Net PPE / Total Assets</td><td>Mushtaq et al. (2022)</td></tr>
-<tr><td>Cash Holdings</td><td>CASH</td><td>Cash & Equivalents / Total Assets</td><td>Mushtaq et al. (2022)</td></tr>
-<tr><td>Leverage</td><td>LEV</td><td>Total Debt / Total Assets</td><td>Mushtaq et al. (2022)</td></tr>
-</tbody></table></div><p class="family-note">Repo baseline control vector = {FOG, FileSize, WordCount, PositiveTone, NegativeTone, SIZE, LIQ, DEF, RD, TANG, CASH, LEV}. 현재 실행된 OLS 사양은 데이터 가용성과 현재 분석 단계에 따라 이 중 사용 가능한 통제변수 세트를 투입하며, 변수 정의 자체는 위 contract를 따른다.</p></div>
-
-<div class="family"><h3>7. Candidate controls</h3><div class="scroll"><table><thead><tr><th>Variable</th><th>Symbol</th><th>Measurement</th><th>Status / source</th></tr></thead><tbody>
-<tr><td>Return on Assets</td><td>ROA</td><td>Income before extraordinary items / lagged total assets</td><td>Candidate — Ertugrul et al. (2017); Pan et al. (2018)</td></tr>
-<tr><td>Profitability</td><td>PROFITABILITY</td><td>EBITDA / Total Assets</td><td>Candidate — Ertugrul et al. (2017)</td></tr>
-<tr><td>Market-to-Book</td><td>MB</td><td>Market value of equity / Book value of equity</td><td>Candidate</td></tr>
-<tr><td>Turnover Change</td><td>DTURN</td><td>Change in average monthly share turnover</td><td>Candidate</td></tr>
-<tr><td>Return Volatility</td><td>SIGMA</td><td>SD of firm-specific weekly returns</td><td>Candidate</td></tr>
-<tr><td>Prior Return</td><td>RET</td><td>Mean firm-specific weekly returns</td><td>Candidate</td></tr>
-<tr><td>Expected Default Frequency</td><td>EDF</td><td>Expected Default Frequency</td><td>Candidate</td></tr>
-<tr><td>Firm Age</td><td>FirmAge</td><td>ln(years since first CRSP appearance)</td><td>Candidate</td></tr>
-<tr><td>Business Segment Index</td><td>BSEG</td><td>Sum of squared business-segment proportions</td><td>Candidate</td></tr>
-<tr><td>Reporting Opacity</td><td>OPAQUE</td><td>Absolute discretionary accruals using modified Jones model</td><td>Robustness candidate</td></tr>
+<tr><td>Return on Assets</td><td>ROA</td><td>Income before extraordinary items / lagged total assets</td><td>Ertugrul et al. (2017); Pan et al. (2018)</td></tr>
+<tr><td>Profitability</td><td>PROFITABILITY</td><td>EBITDA / Total Assets</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Market-to-Book</td><td>MB</td><td>Market value of equity / Book value of equity</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Turnover Change</td><td>DTURN</td><td>Change in average monthly share turnover</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Return Volatility</td><td>SIGMA</td><td>Standard deviation of firm-specific weekly returns</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Prior Return</td><td>RET</td><td>Mean firm-specific weekly returns</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Expected Default Frequency</td><td>EDF</td><td>Expected Default Frequency</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Firm Age</td><td>FirmAge</td><td>ln(years since first CRSP appearance)</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Business Segment Index</td><td>BSEG</td><td>Sum of squared business-segment proportions</td><td>Ertugrul et al. (2017)</td></tr>
+<tr><td>Reporting Opacity</td><td>OPAQUE</td><td>Absolute discretionary accruals using modified Jones model</td><td>Ertugrul et al. (2017)</td></tr>
 </tbody></table></div></div>
 
-<div class="family"><h3>8. Industry controls, Fixed Effects, and additional selection check</h3><div class="scroll"><table><thead><tr><th>Variable / effect</th><th>Symbol</th><th>Measurement / role</th><th>Status</th></tr></thead><tbody>
-<tr><td>Firm Fixed Effects</td><td>αᵢ</td><td>Firm-specific FE; time-invariant firm heterogeneity 통제</td><td>Baseline</td></tr>
-<tr><td>Year Fixed Effects</td><td>δₜ</td><td>Year dummies; common macro/market/regulatory/technology shocks 통제</td><td>Baseline</td></tr>
-<tr><td>Industry controls</td><td>Industryⱼ</td><td>2-digit SIC dummies; time-invariant membership은 Firm FE에 흡수 가능</td><td>Design control</td></tr>
-<tr><td>Inverse Mills Ratio</td><td>IMR_hat</td><td>Probit first stage의 φ(Ẑᵢₜ)/Φ(Ẑᵢₜ)</td><td>Additional sample-selection/endogeneity check; baseline controls에 포함하지 않음</td></tr>
+<div class="family"><h3>8. Fixed Effects and additional selection check</h3><div class="scroll"><table><thead><tr><th>Variable / effect</th><th>Symbol</th><th>Measurement</th><th>Source</th></tr></thead><tbody>
+<tr><td>Firm Fixed Effects</td><td>αᵢ</td><td>Firm-specific fixed effect</td><td>본 연구의 baseline specification</td></tr>
+<tr><td>Year Fixed Effects</td><td>δₜ</td><td>Year dummies</td><td>본 연구의 baseline specification</td></tr>
+<tr><td>Inverse Mills Ratio</td><td>IMR_hat</td><td>Probit first stage의 φ(Ẑᵢₜ)/Φ(Ẑᵢₜ)</td><td>Ertekin, Sorescu, & Houston (2018); Moon, Tuli, & Mukherjee (2023)</td></tr>
 </tbody></table></div></div>
-
-<div class="warn"><strong>Scaling / transformation rule.</strong> 과거 README에 기록된 0–1 Min-Max rescaling은 현재 회귀 사양에서 사용하지 않는다. 현재 보고서의 회귀계수는 conventional unit 기준이다. 종속변수 AR/CAR, AI_Mention, StartAI, StopAI, FE/dummy는 원 단위를 유지하며, SIZE는 ln(Total Assets), 현재 분석의 FileSize와 WordCount는 각각 로그변환 변수를 사용한다. 임의 winsorization, zero/mean imputation, mean-centering은 적용하지 않는다.</div>
 </section>
 
 <section id="models"><div class="num">02 · MODEL SPECIFICATION</div><h2>기본 회귀식</h2><p>모든 핵심 모형은 text controls, event-aligned t−1 firm controls, Firm FE(αᵢ), Year FE(δₜ)를 포함한다. 추정은 <span class="mono">statsmodels.api.OLS(...).fit()</span>, 기본 covariance는 nonrobust이다.</p>
