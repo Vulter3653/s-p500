@@ -14,7 +14,6 @@
  const frame=document.getElementById('baseframe');
  const waitForBase=()=>new Promise((resolve,reject)=>{const started=Date.now();const timer=setInterval(()=>{try{const d=frame.contentDocument;if(d&&d.querySelector('#descriptive')&&d.querySelector('.report-main')){clearInterval(timer);resolve(d);}else if(Date.now()-started>20000){clearInterval(timer);reject(new Error('Step 3 report load timeout'));}}catch(e){clearInterval(timer);reject(e);}},120);});
  try{
-  await new Promise((resolve,reject)=>{frame.onload=resolve;frame.onerror=reject;});
   const sourceDoc=await waitForBase();
   const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
   const style=doc.createElement('style');style.id='step4-collinearity-style';style.textContent=`
