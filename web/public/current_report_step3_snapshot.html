@@ -23,8 +23,7 @@
     },120);
   });
   try{
-    await new Promise((resolve,reject)=>{frame.onload=resolve;frame.onerror=reject;});
-    const sourceDoc=await waitForBase();
+  const sourceDoc=await waitForBase();
     const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
     const style=doc.createElement('style');
     style.id='step3-style';
