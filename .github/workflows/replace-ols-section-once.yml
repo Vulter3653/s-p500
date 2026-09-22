@@ -1,0 +1,47 @@
+name: Replace OLS section once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/replace-ols-section-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  replace-ols:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Replace section 06 with supplied OLS outputs
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64, gzip, re
+
+          payload = '''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'''
+          section = gzip.decompress(base64.b64decode(payload)).decode('utf-8')
+          path = Path('web/public/current_report.html')
+          text = path.read_text(encoding='utf-8')
+          pattern = re.compile(r'<section id="ols">.*?</section>', re.S)
+          new_text, n = pattern.subn(section, text, count=1)
+          if n != 1:
+              raise SystemExit(f'Expected exactly one OLS section, replaced={n}')
+          path.write_text(new_text, encoding='utf-8')
+          print('OLS_SECTION_REPLACED', len(section), len(new_text))
+          PY
+
+      - name: Commit report and remove one-time workflow
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/replace-ols-section-once.yml
+          git add web/public/current_report.html
+          git commit -m "Replace OLS section with supplied regression tables"
+          git push
