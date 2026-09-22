@@ -14,7 +14,8 @@
  const frame=document.getElementById('baseframe');
  const waitForBase=()=>new Promise((resolve,reject)=>{const started=Date.now();const timer=setInterval(()=>{try{const d=frame.contentDocument;if(d&&d.querySelector('#event-window-figures')&&d.querySelector('.report-main')){clearInterval(timer);resolve(d);}else if(Date.now()-started>120000){clearInterval(timer);reject(new Error('Step 5 report load timeout after 120 seconds'));}}catch(e){clearInterval(timer);reject(e);}},120);});
  try{
-  await new Promise((resolve,reject)=>{frame.onload=resolve;frame.onerror=reject;});
+  // Do not wait on iframe.onload: Step 5 rewrites its own document with document.write(), so the outer load event can be missed.
+  // Poll the rendered iframe DOM directly until the Step 5 authority section exists.
   const sourceDoc=await waitForBase();
   const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
   const style=doc.createElement('style');style.id='step6-single-ols-style';style.textContent=`
