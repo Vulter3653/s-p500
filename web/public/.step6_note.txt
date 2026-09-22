@@ -1,1 +1,0 @@
-Step 6 adds exactly one statsmodels-style OLS regression-results table. Representative model: Model 1J overall Start/Stop, CAR[-2,0], chosen because it directly explains the first and central result in the professor email. This does not designate [-2,0] as the study's primary event window.
