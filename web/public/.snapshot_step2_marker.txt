@@ -1,0 +1,1 @@
+Step 2 snapshot will reference the exact current_report.html blob from commit 559327e22a18c126b7840aad5834a9b553cadd04.
