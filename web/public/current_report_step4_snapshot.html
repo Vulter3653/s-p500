@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>S&P 500 10-K AI 공시 변화와 시장반응 — Step 4 상관계수 및 VIF 반영</title>
+<style>html,body{margin:0;padding:0}#loader{font-family:system-ui,sans-serif;padding:40px;color:#22313b}iframe{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;border:0}</style>
+</head>
+<body>
+<div id="loader">보고서를 불러오고 상관계수 및 다중공선성 진단을 반영하는 중입니다.</div>
+<iframe id="baseframe" src="./current_report_step3_snapshot.html"></iframe>
+<script>
+(async()=>{
+ const frame=document.getElementById('baseframe');
+ const waitForBase=()=>new Promise((resolve,reject)=>{const started=Date.now();const timer=setInterval(()=>{try{const d=frame.contentDocument;if(d&&d.querySelector('#descriptive')&&d.querySelector('.report-main')){clearInterval(timer);resolve(d);}else if(Date.now()-started>20000){clearInterval(timer);reject(new Error('Step 3 report load timeout'));}}catch(e){clearInterval(timer);reject(e);}},120);});
+ try{
+  await new Promise((resolve,reject)=>{frame.onload=resolve;frame.onerror=reject;});
+  const sourceDoc=await waitForBase();
+  const doc=new DOMParser().parseFromString('<!doctype html>'+sourceDoc.documentElement.outerHTML,'text/html');
+  const style=doc.createElement('style');style.id='step4-collinearity-style';style.textContent=`
+   #collinearity .diag-banner{padding:16px 18px;margin:0 0 22px;border-left:4px solid #c58935;background:#fbf8f0;color:#6b5b3f;font-size:.82rem;line-height:1.65}
+   #collinearity .corr-table th,#collinearity .corr-table td{font-size:.68rem;padding:7px 8px}
+   #collinearity .corr-table td:first-child,#collinearity .corr-table th:first-child{text-align:left;position:sticky;left:0;background:#fff;z-index:1}
+   #collinearity .vif-good{color:#167c80;font-weight:750}#collinearity .vif-high{color:#9b4a36;font-weight:800}
+   #collinearity .diagnostic-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:18px 0}
+   #collinearity .diagnostic-grid>div{padding:13px 14px;border:1px solid #d7dfe3;background:#f5f7f7}
+   #collinearity .diagnostic-grid strong{display:block;font-size:.68rem;color:#63727a;margin-bottom:5px}
+   #collinearity .diagnostic-grid span{font-size:1rem;font-weight:750;color:#23313b}
+   @media(max-width:760px){#collinearity .diagnostic-grid{grid-template-columns:1fr}}
+  `;doc.head.appendChild(style);
+  const nav=doc.querySelector('.toc nav');if(nav&&!nav.querySelector('a[href="#collinearity"]')){const a=doc.createElement('a');a.href='#collinearity';a.textContent='06 · 상관계수 / VIF';const m=nav.querySelector('a[href="#method"]');if(m)nav.insertBefore(a,m);else nav.appendChild(a);}
+  const section=doc.createElement('section');section.id='collinearity';section.className='report-section';section.innerHTML=`
+   <div class="section-heading"><span class="section-number">06</span><div><p class="kicker">Correlation &amp; Multicollinearity</p><h2>상관계수와 다중공선성</h2></div></div>
+   <div class="diag-banner"><strong>Step 4 반영.</strong> 현재 핵심 transition specification인 <strong>Model 1J</strong>의 StartAI, StopAI와 8개 controls를 먼저 점검하였다. Pearson correlation은 10개 변수가 모두 관측되는 <strong>8,966개 transition pair</strong>에서 계산했다. VIF는 6개 CAR window별 complete-case에서 <code>statsmodels.stats.outliers_influence.variance_inflation_factor</code>로 계산하고 범위를 보고한다. Firm/Year dummy는 substantive VIF에서 제외한다.</div>
+   <div class="diagnostic-grid"><div><strong>가장 큰 |r|</strong><span>0.711</span><div class="small">ln(FileSize) ↔ ln(TotalWords)</div></div><div><strong>Model 1J 최대 VIF</strong><span>2.297</span><div class="small">ln(TotalWords)</div></div><div><strong>FOG ↔ ln(FileSize)</strong><span>0.252</span><div class="small">두 readability control 모두 유지</div></div></div>
+   <div class="table-card"><h3>Table 2. Pearson correlation matrix — Model 1J substantive regressors</h3><div class="table-scroll"><table class="paper-table corr-table"><thead><tr><th>Variable</th><th>StartAI</th><th>StopAI</th><th>FOG</th><th>ln(FileSize)</th><th>ln(TotalWords)</th><th>PositiveTone</th><th>NegativeTone</th><th>LEV</th><th>SIZE</th><th>CASH</th></tr></thead><tbody>
+   <tr><td>StartAI</td><td>1.000</td><td>-0.045</td><td>0.015</td><td>0.032</td><td>0.020</td><td>0.020</td><td>-0.003</td><td>0.043</td><td>0.018</td><td>-0.024</td></tr>
+   <tr><td>StopAI</td><td>-0.045</td><td>1.000</td><td>-0.020</td><td>-0.008</td><td>-0.003</td><td>-0.024</td><td>-0.023</td><td>0.010</td><td>-0.007</td><td>-0.014</td></tr>
+   <tr><td>FOG</td><td>0.015</td><td>-0.020</td><td>1.000</td><td>0.252</td><td>0.364</td><td>0.026</td><td>0.177</td><td>0.086</td><td>0.203</td><td>-0.043</td></tr>
+   <tr><td>ln(FileSize)</td><td>0.032</td><td>-0.008</td><td>0.252</td><td>1.000</td><td><strong>0.711</strong></td><td>-0.052</td><td>0.102</td><td>0.150</td><td>0.322</td><td>-0.161</td></tr>
+   <tr><td>ln(TotalWords)</td><td>0.020</td><td>-0.003</td><td>0.364</td><td><strong>0.711</strong></td><td>1.000</td><td>-0.078</td><td>0.207</td><td>0.059</td><td>0.310</td><td>-0.069</td></tr>
+   <tr><td>PositiveTone</td><td>0.020</td><td>-0.024</td><td>0.026</td><td>-0.052</td><td>-0.078</td><td>1.000</td><td>0.167</td><td>-0.056</td><td>-0.085</td><td>0.160</td></tr>
+   <tr><td>NegativeTone</td><td>-0.003</td><td>-0.023</td><td>0.177</td><td>0.102</td><td>0.207</td><td>0.167</td><td>1.000</td><td>-0.085</td><td>0.132</td><td>0.189</td></tr>
+   <tr><td>LEV</td><td>0.043</td><td>0.010</td><td>0.086</td><td>0.150</td><td>0.059</td><td>-0.056</td><td>-0.085</td><td>1.000</td><td>-0.003</td><td>-0.212</td></tr>
+   <tr><td>SIZE</td><td>0.018</td><td>-0.007</td><td>0.203</td><td>0.322</td><td>0.310</td><td>-0.085</td><td>0.132</td><td>-0.003</td><td>1.000</td><td>-0.212</td></tr>
+   <tr><td>CASH</td><td>-0.024</td><td>-0.014</td><td>-0.043</td><td>-0.161</td><td>-0.069</td><td>0.160</td><td>0.189</td><td>-0.212</td><td>-0.212</td><td>1.000</td></tr>
+   </tbody></table></div><p class="table-note">N=8,966 complete cases. 가장 큰 상관은 ln(FileSize)–ln(TotalWords)=0.7109이다. FOG–ln(FileSize)=0.2521, FOG–ln(TotalWords)=0.3635이다.</p></div>
+   <div class="table-card"><h3>Table 3. Model 1J VIF range across six CAR windows</h3><div class="table-scroll"><table class="paper-table"><thead><tr><th>Variable</th><th>VIF min</th><th>VIF max</th><th>N range</th><th>진단</th></tr></thead><tbody>
+   <tr><td>ln(TotalWords)</td><td>2.294</td><td>2.297</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>ln(FileSize)</td><td>2.165</td><td>2.165</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>SIZE</td><td>1.218</td><td>1.218</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>FOG</td><td>1.190</td><td>1.190</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>CASH</td><td>1.176</td><td>1.177</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>NegativeTone</td><td>1.161</td><td>1.161</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>LEV</td><td>1.086</td><td>1.086</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>PositiveTone</td><td>1.074</td><td>1.074</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>StartAI</td><td>1.005</td><td>1.005</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr><tr><td>StopAI</td><td>1.004</td><td>1.004</td><td>8,878–8,886</td><td class="vif-good">낮음</td></tr>
+   </tbody></table></div><p class="table-note">Model 1J의 substantive regressors 최대 VIF는 2.297이다. 현재 Start/Stop + textual controls + LEV/SIZE/CASH 구조에서는 심각한 다중공선성 신호가 나타나지 않는다.</p></div>
+   <div class="table-card"><h3>Table 4. Model 1L interaction-specific VIF summary</h3><div class="table-scroll"><table class="paper-table"><thead><tr><th>Moderator</th><th>Direction</th><th>Event VIF range</th><th>Moderator VIF range</th><th>Interaction VIF range</th><th>진단</th></tr></thead><tbody>
+   <tr><td>Concreteness_AI</td><td>START</td><td class="vif-high">105.6–131.9</td><td>1.24–1.33</td><td class="vif-high">105.2–131.4</td><td class="vif-high">높음</td></tr><tr><td>Concreteness_AI</td><td>STOP</td><td class="vif-high">77.1–119.4</td><td>1.15–1.30</td><td class="vif-high">77.7–119.8</td><td class="vif-high">높음</td></tr><tr><td>FutureFocus_AI</td><td>START</td><td>1.05–1.10</td><td>1.29–1.98</td><td>1.36–2.03</td><td class="vif-good">낮음</td></tr><tr><td>FutureFocus_AI</td><td>STOP</td><td>1.06–1.08</td><td>1.19–1.39</td><td>1.25–1.43</td><td class="vif-good">낮음</td></tr><tr><td>PastFocus_AI</td><td>START</td><td>1.14–1.59</td><td>1.28–1.45</td><td>1.48–1.97</td><td class="vif-good">낮음</td></tr><tr><td>PastFocus_AI</td><td>STOP</td><td>1.22–1.65</td><td>1.35–1.46</td><td>1.57–2.07</td><td class="vif-good">낮음</td></tr>
+   </tbody></table></div><p class="table-note">Model 1L 기존 산출물 <code>18D_model1l_substantive_regressor_vif.csv</code>를 집계했다. controls의 전체 최대 VIF는 2.581이다. Concreteness interaction에서만 Event와 Event×Concreteness 사이의 VIF가 매우 높다. 현재 규칙에 따라 mean-centering이나 자동 변수 제거는 적용하지 않았다.</p></div>
+   <p class="caution"><strong>현재 판단.</strong> FOG와 ln(FileSize)를 동시에 포함하는 것 자체는 Model 1J에서 다중공선성 문제를 만들지 않는다. 반면 Model 1L의 <strong>Concreteness × disclosure-change</strong>는 매우 높은 VIF를 동반하므로 해당 interaction 결과는 이 진단과 함께 해석해야 한다. 이 Step 4에서는 진단만 추가했고 기존 specification은 변경하지 않았다.</p>
+  `;
+  const descriptive=doc.querySelector('#descriptive');if(descriptive&&descriptive.nextSibling)descriptive.parentNode.insertBefore(section,descriptive.nextSibling);else descriptive?.parentNode.appendChild(section);
+  document.open();document.write('<!doctype html>'+doc.documentElement.outerHTML);document.close();
+ }catch(e){document.getElementById('loader').innerHTML='<h1>보고서를 표시할 수 없습니다.</h1><pre>'+String(e)+'</pre>';}
+})();
+</script>
+</body>
+</html>
